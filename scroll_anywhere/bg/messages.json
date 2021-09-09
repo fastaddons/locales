@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "навсякъде, бутон, курсор, плъзгане, вземете, вземете плъзгане, хванете и плъзнете, безкраен, ляв, среден, импулс, мишка, преместване, страница, надясно, превъртане, страница превъртане, превъртане, превъртане, хвърляне"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Плъзнете Scrollbar със средния си бутон на мишката навсякъде на страницата. Поддържа и стил \"GRAB и плъзгане\"."
+  },
+  "field_int_default_value": {
+    "message": "Стойност по подразбиране: $1, min: $2, max: $3"
+  },
+  "field_set_default": {
+    "message": "Нулиране по подразбиране: $1"
+  },
+  "thunderbird_store": {
+    "message": "Добавки от гръмотевици"
+  },
+  "firefox_store": {
+    "message": "Добавки от Firefox"
+  },
+  "chrome_store": {
+    "message": "Хром уеб магазин"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "win_disable": {
+    "message": "Деактивиране на $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Деактивиране на хоризонтално превъртане на $1"
+  },
+  "op_visit_home": {
+    "message": "Посетете началната страница"
+  },
+  "op_support_me": {
+    "message": "Помогнете на този проект"
+  },
+  "o_title": {
+    "message": "Опции - $1."
+  },
+  "o_tab_general": {
+    "message": "Общ"
+  },
+  "o_tab_momentum": {
+    "message": "Импулс"
+  },
+  "o_tab_cursor": {
+    "message": "Курсор"
+  },
+  "o_axis_locking": {
+    "message": "Заключване на ос"
+  },
+  "o_tab_performance": {
+    "message": "Производителност"
+  },
+  "o_tab_disabled_on": {
+    "message": "С увреждания"
+  },
+  "o_tab_advanced": {
+    "message": "Разширено"
+  },
+  "o_tab_scrollbars": {
+    "message": "Scrollbars."
+  },
+  "o_tab_backup": {
+    "message": "Импортиране / архивиране"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Когато превъртате кутия, която е превъртана в една ос, но родителската кутия е превъртаща се в друга ос, заключвайте превъртане до една ос, като използвате:"
+  },
+  "o_axis_lock_0": {
+    "message": "Интелигентно заключване - времево заключване с помощта на инерция"
+  },
+  "o_axis_lock_1": {
+    "message": "Стриктно заключване - незабавно заключване на посоката"
+  },
+  "o_axis_lock_2": {
+    "message": "Без заключване - свободно превъртане в двете ос"
+  },
+  "o_trend_momentum_window": {
+    "message": "Размер на Smart Lock Stack"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "По-голямата стойност ще изисква повече превъртане в противоположната ос за промяна на оста на превъртане."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon е деактивиран! Кликнете тук, за да активирате."
+  },
+  "o_cursor_change_default": {
+    "message": "няма промяна - най-доброто представяне"
+  },
+  "o_scroll_button": {
+    "message": "Бутон за превъртане:"
+  },
+  "o_direction_speed": {
+    "message": "Стил / посока / скорост:"
+  },
+  "o_multiplier": {
+    "message": "Мултипликатор"
+  },
+  "o_times_speed": {
+    "message": "времена превъртане на скоростта"
+  },
+  "o_maximum_speed": {
+    "message": "Максимална скорост на превъртане (0 - инвалиди):"
+  },
+  "o_ratio_unit": {
+    "message": "съотношение (дължина на страницата / размер на прозореца)"
+  },
+  "o_scroll_type_0": {
+    "message": "Emulate Scrollbar."
+  },
+  "o_scroll_type_1": {
+    "message": "Вземете и плъзнете - като на смартфон"
+  },
+  "o_scroll_type_2": {
+    "message": "Динамична скорост (експериментална)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Това е като плъзгане на лента за превъртане"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Това е като плъзгане на страница с пръст на екрана на телефона"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Динамичната скорост прави скоростта на превъртане по-бавно, когато страницата е по-дълга"
+  },
+  "o_disable_key": {
+    "message": "Деактивиране / активиране на превъртане Когато ключът е надолу:"
+  },
+  "o_momentum_category": {
+    "message": "Импулс:"
+  },
+  "o_momentum_formula": {
+    "message": "Формула за инерция:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Равномерно забавено движение"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Page Scroll ще бъде равномерно забавен, докато спре"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Експоненциално забавено движение"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Page Scroll ще се забави бързо (експоненциално)"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Безкрайно движение ∞."
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Превъртането никога няма да спре"
+  },
+  "o_momentum_max_speed": {
+    "message": "Максимална скорост (0 - инвалиди):"
+  },
+  "o_page_weight": {
+    "message": "Тегло на страницата:"
+  },
+  "o_grams": {
+    "message": "грама :)"
+  },
+  "o_additional_speed": {
+    "message": "Допълнителна скорост:"
+  },
+  "o_pixels_second": {
+    "message": "пиксели в секунда"
+  },
+  "o_additional_duration": {
+    "message": "Допълнителна продължителност:"
+  },
+  "o_advanced_momentum": {
+    "message": "Разширено инерция (само за експерти!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Промяната на тези стойности може да счупи инерцията ви!"
+  },
+  "o_compute_from_last": {
+    "message": "Изчисли от последния:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Откриване на мишката:"
+  },
+  "o_tracking_speed": {
+    "message": "Скорост на проследяване:"
+  },
+  "o_reset_values": {
+    "message": "Нулиране на стойностите"
+  },
+  "o_cursor_scrolling": {
+    "message": "Курсор, използван при превъртане:"
+  },
+  "o_performance": {
+    "message": "Производителност:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Предотвратяване на големи скокове"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Ако използвате инструмент, който може да телепортирате курсора през екрана (когато достигнете ръба), активирайте тази опция, за да позволите непрекъснато (безкрайно) превъртане."
+  },
+  "o_advanced": {
+    "message": "Разширени:"
+  },
+  "o_movement_detection": {
+    "message": "Праг за откриване на движение за движение:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Колко пиксела трябва да се движат към блок връзката. Понякога при натискане на бутона за превъртане премествайте леко мишката, но не искате връзката да бъде забранена поради това."
+  },
+  "o_context_menu_block": {
+    "message": "Контекстно меню Блок:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Деблокиране на контекстното меню Забавяне"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Ако видите контекстното меню след превъртане с десния бутон на мишката, увеличете тази стойност"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Деактивиране на хоризонталното превъртане на домейни:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Деактивирани на домейни:"
+  },
+  "o_is_disabled_url": {
+    "message": "Деактивирани на страници / под-страници:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Можете да използвате Star символ (*), за да определите URL част, например: \"google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Въведете един домейн на ред."
+  },
+  "o_is_disabled": {
+    "message": "Деактивиране на добавката"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Използвайте иконата на лентата с инструменти като главен превключвател за включване / изключване"
+  },
+  "o_scroll_button_middle": {
+    "message": "Среден бутон"
+  },
+  "o_scroll_button_right": {
+    "message": "Десен бутон"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Mac потребители - ще бъдете подканени за ново разрешение \"Прочетете и променете браузърта\" - това е необходимо за потискане на контекстното меню, което се показва преди превъртане!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac потребители - Вашето контекстно меню ще бъде блокирано! За да отворите контекстното меню, задръжте бутона \"Shift\" или натиснете бутона с десния бутон."
+  },
+  "o_scroll_button_left": {
+    "message": "Ляв бутон (експериментален)"
+  },
+  "o_scroll_on_links": {
+    "message": "Превъртете на връзки"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Когато е активирано, няма да можете да плъзгате и пускате връзки (само чрез \"деактивиране\")"
+  },
+  "o_scroll_on_text": {
+    "message": "Превъртете на текст"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emulates Phone Scrolling / Редактиране - Трябва да кликнете върху текст, за да превключите в режим \"Редактиране\". Кликването върху външната страна на текста позволява отново превъртане."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Превъртете на Textarea."
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea е блок от текст, обикновено пренасочен. Например на раздела \"Деактивиран в\" можете да видите Textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Превъртете при редактиране HTML"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Например орган за електронна поща в Gmail е редактируем HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "на текста ще позволи избор / редактиране на текст."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Кликнете върху текста ще активирате \"Редактиране на режим\". Кликнете върху външен текст, за да активирате \"режим на превъртане\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Единично кликване"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Кликнете два пъти"
+  },
+  "o_scrollbars_width": {
+    "message": "Изглед на свитъка"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Нормално (без промяна)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Тънка"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Скрит"
+  },
+  "o_scrollbars_color": {
+    "message": "Цвят на плъзгача Scrollbar:"
+  },
+  "o_scrollbars_background": {
+    "message": "Скролиране на фона на фона:"
+  },
+  "o_reverse": {
+    "message": "Направление на обратната обвивка"
+  },
+  "o_disable_alt": {
+    "message": "Alt."
+  },
+  "o_disable_shift": {
+    "message": "Смяна"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl."
+  },
+  "o_disable_type_0": {
+    "message": "Деактивиране, когато ключът е надолу:"
+  },
+  "o_disable_type_1": {
+    "message": "Активиране, когато ключът е надолу:"
+  },
+  "o_momentum": {
+    "message": "активиране на инерция - можете да \"хвърлите\" страницата (като на телефона)"
+  },
+  "o_no_css_edit": {
+    "message": "Не заключвайте IFRAME и не променяйте курсора при превъртане"
+  },
+  "o_no_prevent_default": {
+    "message": "Не блокирайте бутона по подразбиране"
+  },
+  "o_auto_link_lock": {
+    "message": "Връзки блокиране:"
+  },
+  "o_no_link_block": {
+    "message": "Не блокирайте мишката щракнете върху връзката след движение"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Когато започнете да превъртате в линк и след това завършете превъртането на една и съща връзка, браузърът ще отвори връзката. Това обикновено не е желано поведение, така че е блокирано."
+  },
+  "o_page_weight_title": {
+    "message": "Това контролира как е \"тежката\" страницата. По-тежките страници имат по-дълъг инерция."
+  },
+  "o_additional_speed_title": {
+    "message": "Можете да ускорите скоростта на инерция."
+  },
+  "o_additional_duration_title": {
+    "message": "Допълнително време за всеки инерция."
+  },
+  "o_compute_from_last_title": {
+    "message": "Инерцията първоначалната скорост се определя от скоростта на превъртане точно преди да пуснете бутона за превъртане."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Колко време трябва да остане неподвижно - преди да освободите бутона за превъртане - да не активирате инерцията."
+  },
+  "o_tracking_speed_title": {
+    "message": "Интервал за измерване на текущата скорост на превъртане."
+  },
+  "o_scrolling_area": {
+    "message": "Площ за превъртане:"
+  },
+  "o_outside_area_width": {
+    "message": "Площ за превъртане (0 - инвалиди):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Преместването на курсора извън зоната за превъртане ще отнеме положението на превъртане. Същото поведение може да се види при плъзгане на лента."
+  },
+  "o_scroll_button_left_title": {
+    "message": "Предупреждение - Поддръжката на левия бутон се използва отхвърлен API за Firefox, който може да бъде отстранен в бъдещи версии на Firefox."
+  },
+  "o_prevent_text_selection": {
+    "message": "Предотвратете избора на текст при превъртане с левия бутон"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "На някои устройства, превъртането с левия бутон на мишката също ще избере текст на страницата."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Не блокирайте контекстното меню, когато се опитвате да превъртите не-превъртаната страница"
+  },
+  "o_backup_restore": {
+    "message": "Настройки за архивиране / възстановяване към файл:"
+  },
+  "o_export_settings": {
+    "message": "Експортиране на настройки във файл"
+  },
+  "import_settings_button": {
+    "message": "Импортиране на настройки от $1 файл ..."
+  },
+  "import_finished": {
+    "message": "Внос завърши!"
+  },
+  "test_page_title": {
+    "message": "Тествайте настройките за превъртане тук"
+  },
+  "menu_options": {
+    "message": "Настроики"
+  },
+  "menu_visit_title": {
+    "message": "Посетете началната страница"
+  },
+  "not_working": {
+    "message": "Деактивирани от вашия уеб браузър"
+  },
+  "disabled_by_user": {
+    "message": "Деактивиран на този домейн"
+  },
+  "not_working_title": {
+    "message": "Вашият браузър ще блокира Scrollanywhere на този тип страници:"
+  },
+  "not_working_body": {
+    "message": "За да активирате Scrollanywhere на страниците \"Mozilla.org\", вижте този урок за YouTube"
+  },
+  "show_scrollbars": {
+    "message": "Показване на ленти за превъртане"
+  },
+  "show_scrollbars_title": {
+    "message": "Временно показват ленти за превъртане"
+  },
+  "switch_on_off": {
+    "message": "Превключване / включване"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Ако имате забележимо забавяне между натискане на бутона за превъртане и стартиране на превъртане, опитайте се да активирате тази опция. Въпреки това няма да можете да превъртите \"iframes\" като някои стари вградени видеоклипове или някои реклами."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Това също ще деактивира опцията за промяна на курсора при превъртане."
+  },
+  "o_helper_text_default_action": {
+    "message": "Полезно в Linux, за да активирате паста със среден бутон."
+  },
+  "o_about_hello": {
+    "message": "Здравейте :)"
+  },
+  "o_about_intro": {
+    "message": "Моето име е $1$ и аз съм автор на $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Ако ви харесва, моля, оценете го тук:"
+  },
+  "o_about_dislike_it": {
+    "message": "Ако не ви харесва, моля да ме уведомите защо на моя имейл. Аз изпълнявам повечето от исканията за функции, които получавам."
+  },
+  "o_disabled": {
+    "message": "хора с увреждания",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "активиран",
+    "common": true
+  },
+  "o_times": {
+    "message": "време",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "пиксели",
+    "common": true
+  },
+  "o_items": {
+    "message": "елементи",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milliseconds.",
+    "common": true
+  },
+  "label_working": {
+    "message": "работа ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Близо",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Моля, помислете за подкрепата ми",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "дарение (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "ставайки моя покровител",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Благодаря ти!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "у дома:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Контакт:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Доклад Въпроси:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Мога да отговоря само на английски / словашки",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Социална медия:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Запазете промените и затворете",
+    "common": true
+  },
+  "o_saved": {
+    "message": "запазени!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Очаквайте скоро",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Запазите промените",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Декларация за поверителност",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Наскоро добавени функции:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Тагове:",
+    "common": true
+  }
+}

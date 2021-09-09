@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "എവിടെനിന്നും, ബട്ടൺ, കഴ്സർ, ഡ്രാഗ്, ഗ്രാബ് വലിച്ചിടുക, പിടിക്കുക, ഡ്രാഗ് ചെയ്യുക, അനന്ത, പേജ്, വലത്, സ്ക്രോൾ, സ്ക്രോൾ പേജ്, സ്ക്രോൾ, സ്ക്രോൾ ചെയ്യുക, സ്ക്രോൾ ചെയ്യുക, എറിയുക"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "പേജിൽ എവിടെയും നിങ്ങളുടെ മധ്യ മ mouse സ് ബട്ടൺ ഉപയോഗിച്ച് സ്ക്രോൾബാർ വലിച്ചിടുക. \"പിടിച്ച് വലിച്ചിടുക\" എന്നയും പിന്തുണയ്ക്കുന്നു."
+  },
+  "field_int_default_value": {
+    "message": "സ്ഥിര മൂല്യം: $1, മിനിറ്റ്: $2, പരമാവധി: $3"
+  },
+  "field_set_default": {
+    "message": "സ്ഥിരസ്ഥിതിയായി പുന reset സജ്ജമാക്കുക: $1"
+  },
+  "thunderbird_store": {
+    "message": "തണ്ടർബേഡ് ആഡ്-ഓണുകൾ"
+  },
+  "firefox_store": {
+    "message": "ഫയർഫോക്സ് ആഡ്-ഓണുകൾ"
+  },
+  "chrome_store": {
+    "message": "Chrome വെബ് സ്റ്റോർ"
+  },
+  "safari_store": {
+    "message": "മാക് ആപ്പ് സ്റ്റോർ"
+  },
+  "win_disable": {
+    "message": "$1 ൽ അപ്രാപ്തമാക്കുക"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "$1 ൽ തിരശ്ചീന സ്ക്രോളിംഗ് അപ്രാപ്തമാക്കുക"
+  },
+  "op_visit_home": {
+    "message": "ഹോംപേജ് സന്ദർശിക്കുക"
+  },
+  "op_support_me": {
+    "message": "ഈ പ്രോജക്റ്റിനെ സഹായിക്കുക"
+  },
+  "o_title": {
+    "message": "ഓപ്ഷനുകൾ - $1"
+  },
+  "o_tab_general": {
+    "message": "പൊതുവായ"
+  },
+  "o_tab_momentum": {
+    "message": "ആധിപത്യം"
+  },
+  "o_tab_cursor": {
+    "message": "കഴ്സർ"
+  },
+  "o_axis_locking": {
+    "message": "ആക്സിസ് ലോക്കിംഗ്"
+  },
+  "o_tab_performance": {
+    "message": "നിര്വ്വഹനം"
+  },
+  "o_tab_disabled_on": {
+    "message": "അപ്രാപ്തമാക്കി"
+  },
+  "o_tab_advanced": {
+    "message": "മുന്കൂറായി"
+  },
+  "o_tab_scrollbars": {
+    "message": "സ്ക്രോൾബാറുകൾ"
+  },
+  "o_tab_backup": {
+    "message": "ഇറക്കുമതി / ബാക്കപ്പ്"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "ഒരു അക്ഷത്തിൽ സ്ക്രോൾ ചെയ്യാവുന്ന ഒരു ബോക്സ് സ്ക്രോൾ ചെയ്യുമ്പോൾ, മറ്റ് അക്ഷങ്ങളിൽ രക്ഷാകർതൃ ബോക്സ് സ്ക്രോൾ ചെയ്യാവുന്നതാണ്, ഉപയോഗിച്ച് ഒരു അക്ഷത്തിലേക്ക് സ്ക്രോൾ ചെയ്യുന്നത്:"
+  },
+  "o_axis_lock_0": {
+    "message": "സ്മാർട്ട് ലോക്ക് - ആമേം ഉപയോഗിച്ച് താൽക്കാലിക ലോക്ക്"
+  },
+  "o_axis_lock_1": {
+    "message": "കർശന ലോക്ക് - തൽക്ഷണ ദിശ ലോക്ക്"
+  },
+  "o_axis_lock_2": {
+    "message": "ലോക്ക് ഇല്ല - രണ്ട് അക്ഷത്തിലും സ free ജന്യ സ്ക്രോളിംഗ്"
+  },
+  "o_trend_momentum_window": {
+    "message": "സ്മാർട്ട് ലോക്ക് സ്റ്റാക്ക് വലുപ്പം"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "സ്ക്രോളിംഗ് അക്ഷം മാറ്റുന്നതിന് വലിയ മൂല്യത്തിന് എതിർ ആക്സിസിന് കൂടുതൽ സ്ക്രോളിംഗ് ആവശ്യമാണ്."
+  },
+  "o_addon_disabled_warning": {
+    "message": "അഡോൺ പ്രവർത്തനരഹിതമാക്കി! പ്രവർത്തനക്ഷമമാക്കുന്നതിന് ഇവിടെ ക്ലിക്കുചെയ്യുക."
+  },
+  "o_cursor_change_default": {
+    "message": "മാറ്റമൊന്നുമില്ല - മികച്ച പ്രകടനം"
+  },
+  "o_scroll_button": {
+    "message": "സ്ക്രോൾ ബട്ടൺ:"
+  },
+  "o_direction_speed": {
+    "message": "സ്ക്രോൾ സ്റ്റൈൽ / ദിശ / വേഗത:"
+  },
+  "o_multiplier": {
+    "message": "ഗുണിതം"
+  },
+  "o_times_speed": {
+    "message": "ടൈംസ് സ്ക്രോൾ വേഗത"
+  },
+  "o_maximum_speed": {
+    "message": "പരമാവധി സ്ക്രോൾ സ്പീഡ് (0 - അപ്രാപ്തമാക്കി):"
+  },
+  "o_ratio_unit": {
+    "message": "അനുപാതം (പേജ് ദൈർഘ്യം / വിൻഡോ വലുപ്പം)"
+  },
+  "o_scroll_type_0": {
+    "message": "സ്ക്രോൾബാർ അനുകരിക്കുക"
+  },
+  "o_scroll_type_1": {
+    "message": "ഗ്രാബും വലിച്ചിടുക - ഒരു സ്മാർട്ട്ഫോണിലെ പോലെ"
+  },
+  "o_scroll_type_2": {
+    "message": "ഡൈനാമിക് സ്പീഡ് (പരീക്ഷണാത്മക)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "ഇത് ഒരു സ്ക്രോൾബാർ വലിച്ചിടുന്നത് പോലെയാണ്"
+  },
+  "o_scroll_type_title_1": {
+    "message": "ഒരു ഫോൺ സ്ക്രീനിൽ നിങ്ങളുടെ വിരൽ ഉപയോഗിച്ച് ഒരു പേജ് വലിച്ചിടുന്നത് പോലെയാണ് ഇത്"
+  },
+  "o_scroll_type_title_2": {
+    "message": "പേജ് ദൈർഘ്യമേറിയപ്പോൾ ഡൈനാമിക് സ്പീഡ് സ്ക്രോൾ സ്പീഡ് വേഗതയേറിയതാക്കുന്നു"
+  },
+  "o_disable_key": {
+    "message": "കീ ഇറങ്ങുമ്പോൾ സ്ക്രോളിംഗ് അപ്രാപ്തമാക്കുക / പ്രാപ്തമാക്കുക:"
+  },
+  "o_momentum_category": {
+    "message": "ആക്കം:"
+  },
+  "o_momentum_formula": {
+    "message": "ആക്കം സൂപ്പർല:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "ഏകീകൃതമായി വ്യാപനപരമായ ചലനം"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "പേജ് സ്ക്രോൾ നിർത്തുന്നതുവരെ ഒരേപോലെ മന്ദഗതിയിലാകും"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "എക്സ്പോണൻഷ്യൽ ഡെക്കറേറ്റഡ് ചലനം"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "പേജ് സ്ക്രോൾ വേഗത്തിൽ (എക്സ്പോണൻഷ്യലി) വേഗത കുറയ്ക്കും"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "അനന്തമായ ചലനം"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "സ്ക്രോളിംഗ് ഒരിക്കലും അവസാനിക്കില്ല"
+  },
+  "o_momentum_max_speed": {
+    "message": "പരമാവധി വേഗത (0 - അപ്രാപ്തമാക്കി):"
+  },
+  "o_page_weight": {
+    "message": "പേജ് ഭാരം:"
+  },
+  "o_grams": {
+    "message": "ഗ്രാം :)"
+  },
+  "o_additional_speed": {
+    "message": "അധിക വേഗത:"
+  },
+  "o_pixels_second": {
+    "message": "സെക്കൻഡിൽ പിക്സലുകൾ"
+  },
+  "o_additional_duration": {
+    "message": "അധിക ദൈർഘ്യം:"
+  },
+  "o_advanced_momentum": {
+    "message": "വിപുലമായ മൊമെന്റം സജ്ജീകരണം (വിദഗ്ധർക്ക് മാത്രം!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "ഈ മൂല്യങ്ങൾ മാറ്റുന്നത് നിങ്ങളുടെ ആക്കം ലംഘിക്കാൻ കഴിയും!"
+  },
+  "o_compute_from_last": {
+    "message": "അവസാനം മുതൽ കണക്കുകൂട്ടുക:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "മൗസ് നിർത്തുക കണ്ടെത്തൽ:"
+  },
+  "o_tracking_speed": {
+    "message": "ട്രാക്കിംഗ് വേഗത:"
+  },
+  "o_reset_values": {
+    "message": "മൂല്യങ്ങൾ പുന et സജ്ജമാക്കുക"
+  },
+  "o_cursor_scrolling": {
+    "message": "സ്ക്രോൾ ചെയ്യുമ്പോൾ കഴ്സർ ഉപയോഗിക്കുന്നു:"
+  },
+  "o_performance": {
+    "message": "പ്രകടനം:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "വലിയ ജമ്പുകൾ തടയുക"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "സ്ക്രീനിലുടനീളം നിങ്ങളുടെ കഴ്സർ ടെലിപോർട്ട് ചെയ്യാൻ കഴിയുന്ന ഉപകരണം ഉപയോഗിക്കുകയാണെങ്കിൽ (നിങ്ങൾ ഒരു അരികിലെത്തുമ്പോൾ), തുടർച്ചയായി (അനന്തമായ) സ്ക്രോളിംഗ് അനുവദിക്കുന്നതിന് ഈ ഓപ്ഷൻ പ്രാപ്തമാക്കുക."
+  },
+  "o_advanced": {
+    "message": "വിപുലമായത്:"
+  },
+  "o_movement_detection": {
+    "message": "മൗസ് ചലന കണ്ടെത്തൽ പരിധി:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "ലിങ്ക് തടയാൻ എത്ര പിക്സലുകൾ മ mouse സ് നീക്കി. ചിലപ്പോൾ സ്ക്രോൾ ബട്ടൺ അമർത്തുമ്പോൾ നിങ്ങൾ മൗസ് ചെറുതായി നീക്കുക, പക്ഷേ അത് കാരണം ലിങ്ക് അപ്രാപ്തമാക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നില്ല."
+  },
+  "o_context_menu_block": {
+    "message": "സന്ദർഭ മെനു ബ്ലോക്ക്:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "സന്ദർഭ മെനു കാലതാമസം തടഞ്ഞത് മാറ്റുക"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "വലത് മ mouse സ് ബട്ടൺ സ്ക്രോൾ ചെയ്ത ശേഷം സന്ദർഭ മെനു കാണുകയാണെങ്കിൽ, ഈ മൂല്യം വർദ്ധിപ്പിക്കുക"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "ഡൊമെയ്നുകളിൽ തിരശ്ചീന സ്ക്രോളിംഗ് അപ്രാപ്തമാക്കുക:"
+  },
+  "o_is_disabled_domains": {
+    "message": "ഡൊമെയ്നുകളിൽ അപ്രാപ്തമാക്കി:"
+  },
+  "o_is_disabled_url": {
+    "message": "പേജുകളിൽ / ഉപ-പേജ് അപ്രാപ്തമാക്കി:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "ഒരു URL ഭാഗം നിർവചിക്കുന്നതിന് നിങ്ങൾക്ക് നക്ഷത്ര ചിഹ്നം (*) ഉപയോഗിക്കാം, ഉദാഹരണത്തിന്: \"Google.com/mas*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "ഒരു വരിയിൽ ഒരു ഡൊമെയ്ൻ നൽകുക."
+  },
+  "o_is_disabled": {
+    "message": "ആഡ്-ഓൺ അപ്രാപ്തമാക്കുക"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "ടൂൾബാർ ഐക്കൺ അല്ലെങ്കിൽ ഓഫ് സ്വിച്ച് ആയി ടൂൾബാർ ഐക്കൺ ഉപയോഗിക്കുക"
+  },
+  "o_scroll_button_middle": {
+    "message": "മധ്യ ബട്ടൺ"
+  },
+  "o_scroll_button_right": {
+    "message": "വലത് ബട്ടൺ"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "ലിനക്സ് / മാക് ഉപയോക്താക്കൾ - നിങ്ങൾ പുതിയ അനുമതിക്കായി ആവശ്യപ്പെടും \"ബ്ര browser സർ ക്രമീകരണം വായിക്കുക, പരിഷ്ക്കരിക്കുക\" - സ്ക്രോളിംഗിന് മുമ്പ് കാണിക്കുന്നതിന് സന്ദർഭ മെനു സ്പ്രസ്സ് ചെയ്യുന്നതിന് ഇത് ആവശ്യമാണ്!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "ലിനക്സ് / മാക് ഉപയോക്താക്കൾ - നിങ്ങളുടെ സന്ദർഭ മെനു തടയും! സന്ദർഭ മെനു തുറക്കുന്നതിന് \"ഷിഫ്റ്റ്\" കീ അല്ലെങ്കിൽ ട്രിപ്പിൾ-ക്ലിക്ക് റൈറ്റ് ബട്ടൺ അമർത്തുക."
+  },
+  "o_scroll_button_left": {
+    "message": "ഇടത് ബട്ടൺ (പരീക്ഷണാത്മക)"
+  },
+  "o_scroll_on_links": {
+    "message": "ലിങ്കുകളിൽ സ്ക്രോൾ ചെയ്യുക"
+  },
+  "o_scroll_on_links_title": {
+    "message": "പ്രവർത്തനക്ഷമമാക്കിയപ്പോൾ, നിങ്ങൾക്ക് ലിങ്കുകൾ വലിച്ചിടാനും ഡ്രോപ്പ് ചെയ്യാനും കഴിയില്ല ('അപ്രാപ്തമാക്കുക' കീ ഉപയോഗിക്കുന്നതിലൂടെ മാത്രം)"
+  },
+  "o_scroll_on_text": {
+    "message": "വാചകത്തിൽ സ്ക്രോൾ ചെയ്യുക"
+  },
+  "o_scroll_on_text_title": {
+    "message": "ഫോൺ സ്ക്രോളിംഗ് / എഡിറ്റിംഗ് അനുകരിക്കുന്നു - \"എഡിറ്റിംഗ് മോഡിലേക്ക് മാറ്റുന്നതിന് നിങ്ങൾ വാചകത്തിൽ ക്ലിക്കുചെയ്യേണ്ടതുണ്ട്. വാചകത്തിന് പുറത്ത് ക്ലിക്കുചെയ്യുന്നത് വീണ്ടും സ്ക്രോളിംഗ് വീണ്ടും പ്രാപ്തമാക്കുന്നു."
+  },
+  "o_scroll_on_textarea": {
+    "message": "ടെക്സ്റ്റ്അരിയയിൽ സ്ക്രോൾ ചെയ്യുക"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "സാധാരണയായി പുനരുജ്ജീവിപ്പിക്കാവുന്ന വാചകത്തിന്റെ ഒരു ബ്ലോക്കാണ് ടെക്സ്റ്റ്അറിയ. ഉദാഹരണത്തിന് \"അപ്രാപ്തമാക്കി\" ടാബിൽ നിങ്ങൾക്ക് ടെക്സ്റ്ററേസിനെ കാണാൻ കഴിയും."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "എഡിറ്റുചെയ്യാനാകുന്ന HTML- ൽ സ്ക്രോൾ ചെയ്യുക"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "ഉദാഹരണത്തിന് ഇമെയിൽ ബോഡി Gmail- ൽ എഡിറ്റുചെയ്യാവുന്ന HTML ആണ്."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "വാചകത്തിൽ തിരഞ്ഞെടുക്കൽ / എഡിറ്റിംഗ് വാചകം പ്രാപ്തമാക്കും."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "വാചകത്തിൽ ക്ലിക്കുചെയ്യുക \"മോഡ് എഡിറ്റുചെയ്യുക\" പ്രാപ്തമാക്കും. \"സ്ക്രോൾ മോഡ്\" പ്രാപ്തമാക്കുന്നതിന് പുറത്ത് വാചകം ക്ലിക്കുചെയ്യുക."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "ഒറ്റ ക്ലിക്കിൽ"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "ഇരട്ട ഞെക്കിലൂടെ"
+  },
+  "o_scrollbars_width": {
+    "message": "സ്ക്രോൾബാറുകൾ നോക്കുന്നു"
+  },
+  "o_scrollbars_width_0": {
+    "message": "സാധാരണ (മാറ്റമില്ല)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "കനംകുറഞ്ഞ"
+  },
+  "o_scrollbars_width_2": {
+    "message": "മറഞ്ഞിരിക്കുന്നു"
+  },
+  "o_scrollbars_color": {
+    "message": "സ്ക്രോൾബാർ സ്ലൈഡർ നിറം:"
+  },
+  "o_scrollbars_background": {
+    "message": "സ്ക്രോൾബാർ പശ്ചാത്തല നിറം:"
+  },
+  "o_reverse": {
+    "message": "സ്ക്രോൾ ദിശ റിവേഴ്സ് ചെയ്യുക"
+  },
+  "o_disable_alt": {
+    "message": "ആൾട്ട്"
+  },
+  "o_disable_shift": {
+    "message": "തവണ"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl"
+  },
+  "o_disable_type_0": {
+    "message": "കീ താഴേക്ക് ചെയ്യുമ്പോൾ അപ്രാപ്തമാക്കുക:"
+  },
+  "o_disable_type_1": {
+    "message": "കീ ഇറങ്ങുമ്പോൾ പ്രാപ്തമാക്കുക:"
+  },
+  "o_momentum": {
+    "message": "ആക്കം പ്രാപ്തമാക്കുക - നിങ്ങൾക്ക് പേജ് \"ത്രുചെയ്യുക\" (ഫോണിനെപ്പോലെ)"
+  },
+  "o_no_css_edit": {
+    "message": "Ifreames ലോക്ക് ചെയ്യരുത്, സ്ക്രോൾ ചെയ്യുമ്പോൾ കഴ്സർ മാറ്റരുത്"
+  },
+  "o_no_prevent_default": {
+    "message": "സ്ഥിരസ്ഥിതി ബട്ടൺ പ്രവർത്തനം തടയരുത്"
+  },
+  "o_auto_link_lock": {
+    "message": "ലിങ്കുകൾ തടയൽ:"
+  },
+  "o_no_link_block": {
+    "message": "മൗസ് തടയരുത് ചലനത്തിനുശേഷം ലിങ്കിൽ ക്ലിക്കുചെയ്യുക"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "നിങ്ങൾ ഒരു ലിങ്കിൽ സ്ക്രോൾ ആരംഭിക്കുമ്പോൾ നിങ്ങൾ ഒരേ ലിങ്കിൽ സ്ക്രോളിംഗ് പൂർത്തിയാക്കുമ്പോൾ, ബ്രൗസർ ലിങ്ക് തുറക്കും. ഇത് സാധാരണയായി ആവശ്യമുള്ള സ്വഭാവമല്ല, അതിനാൽ സ്ഥിരസ്ഥിതിയായി ഇത് തടഞ്ഞു."
+  },
+  "o_page_weight_title": {
+    "message": "പേജ് എത്ര 'കനത്ത' ആണെന്ന് ഇത് നിയന്ത്രിക്കുന്നു. ഭാരം കൂടിയ പേജുകൾക്ക് കൂടുതൽ ആക്കം പുലർത്തുന്നു."
+  },
+  "o_additional_speed_title": {
+    "message": "നിങ്ങൾക്ക് ആക്കം പ്രതാപകരമായ വേഗത ത്വരിതമാക്കാൻ കഴിയും."
+  },
+  "o_additional_duration_title": {
+    "message": "ഓരോ മൊമനൂമിനും അധിക സമയം."
+  },
+  "o_compute_from_last_title": {
+    "message": "സ്ക്രോൾ ബട്ടൺ റിലീസ് ചെയ്യുന്നതിന് മുമ്പ് സ്ക്രോൾ ചെയ്യുന്നതിന്റെ വേഗതയാണ് ആക്കം പ്രാരംഭ വേഗത നിർണ്ണയിക്കുന്നത്."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "സ്ക്രോൾ ബട്ടൺ റിലീസ് ചെയ്യുന്നതിന് മുമ്പ് മ mouse സ് മിടുപ്പിൽ നിൽക്കണം - മൊശക്രം സജീവമാക്കാതിരിക്കാൻ -"
+  },
+  "o_tracking_speed_title": {
+    "message": "നിലവിലെ സ്ക്രോൾ വേഗത അളക്കുന്നതിനുള്ള ഇടവേള."
+  },
+  "o_scrolling_area": {
+    "message": "സ്ക്രോളിംഗ് ഏരിയ:"
+  },
+  "o_outside_area_width": {
+    "message": "സ്ക്രോളിംഗ് ഏരിയ (0 - അപ്രാപ്തമാക്കി):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "സ്ക്രോളിംഗ് ഏരിയയ്ക്ക് പുറത്തുള്ള നിങ്ങളുടെ കഴ്സർ നീക്കുന്നത് സ്ക്രോളിംഗ് സ്ഥാനം പഴയപടിയാക്കും. ഒരു സ്ക്രോൾബാർ വലിച്ചിടുമ്പോൾ സമാന സ്വഭാവം കാണാം."
+  },
+  "o_scroll_button_left_title": {
+    "message": "മുന്നറിയിപ്പ് - ഇടത് ബട്ടൺ പിന്തുണ ഒഴിവാക്കിയ ഫയർഫോക്സ് API ഉപയോഗിക്കുന്നു, അത് ഫയർഫോക്സിന്റെ ഭാവി പതിപ്പുകളിൽ നീക്കംചെയ്യാം."
+  },
+  "o_prevent_text_selection": {
+    "message": "ഇടത് ബട്ടൺ ഉപയോഗിച്ച് സ്ക്രോൾ ചെയ്യുമ്പോൾ ടെക്സ്റ്റ് തിരഞ്ഞെടുക്കൽ തടയുക"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "ചില ഉപകരണങ്ങളിൽ, ഇടത് മ mouse സ് ബട്ടണിനൊപ്പം സ്ക്രോൾ ചെയ്യുക പേജിൽ വാചകം തിരഞ്ഞെടുക്കും."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "സ്ക്രോൾ ചെയ്യാത്ത പേജ് സ്ക്രോൾ ചെയ്യാൻ ശ്രമിക്കുമ്പോൾ സന്ദർഭ മെനു തടയരുത്"
+  },
+  "o_backup_restore": {
+    "message": "ഫയലിലേക്ക് ക്രമീകരണങ്ങൾ ബാക്കപ്പ് / പുന ore സ്ഥാപിക്കുക:"
+  },
+  "o_export_settings": {
+    "message": "ഒരു ഫയലിലേക്ക് ക്രമീകരണങ്ങൾ കയറ്റുമതി ചെയ്യുക"
+  },
+  "import_settings_button": {
+    "message": "$1 ഫയലിൽ ക്രമീകരണങ്ങൾ ഇറക്കുമതി ചെയ്യുക ..."
+  },
+  "import_finished": {
+    "message": "ഇറക്കുമതി പൂർത്തിയായി!"
+  },
+  "test_page_title": {
+    "message": "നിങ്ങളുടെ സ്ക്രോളിംഗ് ക്രമീകരണങ്ങൾ ഇവിടെ പരിശോധിക്കുക"
+  },
+  "menu_options": {
+    "message": "ഓപ്ഷനുകൾ"
+  },
+  "menu_visit_title": {
+    "message": "ഹോംപേജ് സന്ദർശിക്കുക"
+  },
+  "not_working": {
+    "message": "നിങ്ങളുടെ വെബ്-ബ്ര browser സർ പ്രവർത്തനരഹിതമാക്കി"
+  },
+  "disabled_by_user": {
+    "message": "ഈ ഡൊമെയ്നിൽ അപ്രാപ്തമാക്കി"
+  },
+  "not_working_title": {
+    "message": "നിങ്ങളുടെ ബ്ര browser സർ ഇത്തരത്തിലുള്ള പേജുകളിൽ സ്ക്രോളനിയെ തടയും:"
+  },
+  "not_working_body": {
+    "message": "\"Mozillla.org\" പേജുകളിൽ സ്ക്രോളനിയെ പ്രാപ്തമാക്കുന്നതിന്, ഈ YouTube ട്യൂട്ടോറിയൽ കാണുക"
+  },
+  "show_scrollbars": {
+    "message": "സ്ക്രോൾബാറുകൾ കാണിക്കുക"
+  },
+  "show_scrollbars_title": {
+    "message": "സ്ക്രോൾബാറുകൾ താൽക്കാലികമായി കാണിക്കുക"
+  },
+  "switch_on_off": {
+    "message": "ആഡ്-ഓൺ ഓഫ് / ഓൺ ചെയ്യുക"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "സ്ക്രോൾ ബട്ടൺ അമർത്തി സ്ക്രോളിംഗ് ആരംഭിക്കുന്നതിനും നിങ്ങൾ ശ്രദ്ധേയമായ കാലതാമസം അനുഭവപ്പെടുകയാണെങ്കിൽ, ഈ ഓപ്ഷൻ പ്രവർത്തനക്ഷമമാക്കാൻ ശ്രമിക്കുക. എന്നിരുന്നാലും നിങ്ങൾക്ക് പഴയ ഉൾച്ചേർത്ത വീഡിയോകൾ അല്ലെങ്കിൽ ചില പരസ്യങ്ങൾ പോലുള്ള \"ഇഫ്രെമേസ്\" സ്ക്രോൾ ചെയ്യാൻ കഴിയില്ല."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "സ്ക്രോൾ ചെയ്യുമ്പോൾ കഴ്സർ മാറ്റാനുള്ള ഓപ്ഷൻ ഇത് പ്രവർത്തനരഹിതമാക്കും."
+  },
+  "o_helper_text_default_action": {
+    "message": "മധ്യ ബട്ടൺ ഒട്ടിക്കാൻ പ്രാപ്തമാക്കുന്നതിന് ലിനക്സിൽ ഉപയോഗപ്രദമാണ്."
+  },
+  "o_about_hello": {
+    "message": "ഹലോ :)"
+  },
+  "o_about_intro": {
+    "message": "എന്റെ പേര് $1$, ഞാൻ $app_name$ ന്റെ രചയിതാവാണ്."
+  },
+  "o_about_like_it": {
+    "message": "നിങ്ങൾക്ക് ഇത് ഇഷ്ടമാണെങ്കിൽ, ദയവായി ഇത് ഇവിടെ റേറ്റുചെയ്യുക:"
+  },
+  "o_about_dislike_it": {
+    "message": "നിങ്ങൾക്ക് ഇത് ഇഷ്ടപ്പെട്ടില്ലെങ്കിൽ, എന്റെ ഇ-മെയിൽ എന്തുകൊണ്ടാണെന്ന് ദയവായി എന്നെ അറിയിക്കുക. എനിക്ക് ലഭിക്കുന്ന സവിശേഷതകളും ഞാൻ സ്വീകരിക്കുന്നു."
+  },
+  "o_disabled": {
+    "message": "അശക്തനായ",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "പ്രവർത്തനക്ഷമമുള്ള",
+    "common": true
+  },
+  "o_times": {
+    "message": "തവണ",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "പിക്സലുകൾ",
+    "common": true
+  },
+  "o_items": {
+    "message": "ഇനങ്ങൾ",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "മില്ലിസെക്കൻഡുകൾ",
+    "common": true
+  },
+  "label_working": {
+    "message": "പ്രവർത്തിക്കുന്നു ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "അടയ്ക്കുക",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "എന്റെ ജോലിയെ പിന്തുണയ്ക്കുന്നത് പരിഗണിക്കുക",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "സംഭാവന (പേപാൽ)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "എന്റെ രക്ഷാധികാരിയാകുമ്പോൾ",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "നന്ദി!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "ഹോം:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "ബന്ധപ്പെടുക:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "റിപ്പോർട്ട് പ്രശ്നങ്ങൾ:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "എനിക്ക് ഇംഗ്ലീഷ് / സ്ലൊവാക്കിൽ മാത്രം മറുപടി നൽകാൻ കഴിയും",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "സോഷ്യൽ മീഡിയ:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "മാറ്റങ്ങൾ സംരക്ഷിച്ച് അടയ്ക്കുക",
+    "common": true
+  },
+  "o_saved": {
+    "message": "സംരക്ഷിച്ചു!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "ഉടൻ വരുന്നു",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "മാറ്റങ്ങൾ സൂക്ഷിക്കുക",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "സ്വകാര്യതാനയം",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "അടുത്തിടെ ചേർത്ത സവിശേഷതകൾ:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "ടാഗുകൾ:",
+    "common": true
+  }
+}

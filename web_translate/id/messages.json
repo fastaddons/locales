@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Terjemahkan teks yang dipilih (dari menu konteks)"
+  },
+  "_description_feature_2": {
+    "message": "Terjemahan seluruh halaman"
+  },
+  "_description_feature_3": {
+    "message": "Mode gelap!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, Gelap, Email, Google, Lang, Bahasa, Microsoft, Halaman, Preklad, Prekladač, S3, Seleksi, Teks, Traducteur, Terjemahkan, Penerjemah, Übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ mudah digunakan penerjemah untuk browser web Anda / Thunderbird!"
+  },
+  "o_tab_translate": {
+    "message": "Menterjemahkan"
+  },
+  "_description_supported_translators": {
+    "message": "Penyedia Terjemahan yang Didukung:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Jendela modal"
+  },
+  "open_in_1": {
+    "message": "Jendela popup"
+  },
+  "open_in_2": {
+    "message": "Tab baru"
+  },
+  "open_in_3": {
+    "message": "Jendela baru"
+  },
+  "open_in_4": {
+    "message": "Tab baru (tanpa wadah)"
+  },
+  "modal_window": {
+    "message": "Jendela modal"
+  },
+  "toolbar_icon_action": {
+    "message": "Tindakan ikon Toolbar"
+  },
+  "toolbar_icon_text": {
+    "message": "Teks ikon bilah alat"
+  },
+  "sidebar_size": {
+    "message": "Ukuran bilah sisi"
+  },
+  "translation_provider": {
+    "message": "Penyedia terjemahan"
+  },
+  "translate_to": {
+    "message": "Terjemahkan ke:"
+  },
+  "no_overlay": {
+    "message": "Tanpa overlay (area gelap di sekitar)"
+  },
+  "no_overlay_hint": {
+    "message": "Jendela Modal akan tetap terbuka meskipun Anda mengklik di luar."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Terjemahan terbuka dalam bahasa:"
+  },
+  "fallback_1": {
+    "message": "Metode fallback"
+  },
+  "fallback_2": {
+    "message": "Metode fallback"
+  },
+  "fallback_title": {
+    "message": "Jendela modal dan jendela popup tidak dapat digunakan dalam beberapa kasus."
+  },
+  "open_in_tab": {
+    "message": "Buka di tab baru"
+  },
+  "translate_this_page": {
+    "message": "Terjemahkan halaman ini"
+  },
+  "selection_translate": {
+    "message": "Terjemahkan \"$1\""
+  },
+  "page_translate": {
+    "message": "Terjemahkan halaman"
+  },
+  "selected_text": {
+    "message": "teks yang dipilih"
+  },
+  "disable_context_menu": {
+    "message": "Nonaktifkan menu konteks: \"$1\""
+  },
+  "import_finished": {
+    "message": "Impor selesai!"
+  },
+  "import_error": {
+    "message": "Kesalahan"
+  },
+  "import_backup_file": {
+    "message": "Impor file cadangan $1"
+  },
+  "search_search": {
+    "message": "Cari"
+  },
+  "homepage": {
+    "message": "Beranda"
+  },
+  "addon_page": {
+    "message": "Halaman Addon"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Toko web Chrome"
+  },
+  "firefox_store": {
+    "message": "Add-on Firefox"
+  },
+  "thunderbird_store": {
+    "message": "Add-on Thunderbird"
+  },
+  "label_font_size": {
+    "message": "Ukuran huruf"
+  },
+  "label_next": {
+    "message": "Lanjut"
+  },
+  "label_note": {
+    "message": "catatan:"
+  },
+  "label_remove": {
+    "message": "Menghapus"
+  },
+  "label_warning": {
+    "message": "PERINGATAN:"
+  },
+  "label_default": {
+    "message": "Default:"
+  },
+  "label_done": {
+    "message": "Selesai!"
+  },
+  "label_copied": {
+    "message": "Disalin!"
+  },
+  "label_close": {
+    "message": "Menutup"
+  },
+  "label_open_page": {
+    "message": "Buka halaman"
+  },
+  "label_agree": {
+    "message": "Setuju"
+  },
+  "label_cancel": {
+    "message": "Membatalkan"
+  },
+  "op_support_me": {
+    "message": "Bantu proyek ini"
+  },
+  "support_developer": {
+    "message": "Dukung pengembang independen!"
+  },
+  "hello_there": {
+    "message": "Halo!"
+  },
+  "about_me": {
+    "message": "Saya adalah pengembang addon sejak 2016 dan tujuan saya adalah membuat ekstensi yang kuat untuk browser web Anda agar Anda lebih produktif."
+  },
+  "about_good_job": {
+    "message": "Jika menurut Anda saya melakukan pekerjaan dengan baik, silakan berdonasi :)"
+  },
+  "about_income": {
+    "message": "Donasi Anda adalah satu-satunya penghasilan saya!"
+  },
+  "about_thanks": {
+    "message": "Terima kasih telah mendukung pekerjaan saya!"
+  },
+  "o_tab_context_menu": {
+    "message": "Menu konteks"
+  },
+  "o_tab_about": {
+    "message": "Tentang"
+  },
+  "o_tab_settings": {
+    "message": "Pengaturan"
+  },
+  "o_pixels": {
+    "message": "piksel"
+  },
+  "o_seconds": {
+    "message": "detik"
+  },
+  "label_or": {
+    "message": "atau"
+  },
+  "o_about_hello": {
+    "message": "Halo :)"
+  },
+  "o_about_intro": {
+    "message": "Nama saya $1$ dan saya penulis $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Jika Anda menyukainya, beri peringkat di sini:"
+  },
+  "o_about_thanks": {
+    "message": "Terima kasih!"
+  },
+  "o_about_contact": {
+    "message": "Kontak:"
+  },
+  "o_about_issues": {
+    "message": "Laporkan masalah:"
+  },
+  "o_about_social_media": {
+    "message": "Media sosial:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Transfer bank menggunakan IBAN:"
+  },
+  "ps_no_results": {
+    "message": "Tidak ada hasil yang cocok"
+  },
+  "label_no_data": {
+    "message": "Tidak ada data"
+  },
+  "dark_mode": {
+    "message": "Mode gelap"
+  },
+  "dark_mode_system": {
+    "message": "Dikendalikan oleh sistem"
+  },
+  "_description_features": {
+    "message": "Fitur:"
+  },
+  "_description_why": {
+    "message": "Mengapa?"
+  },
+  "_description_privacy_policy": {
+    "message": "Kebijakan pribadi"
+  },
+  "_description_recent_features": {
+    "message": "Fitur yang baru ditambahkan:"
+  },
+  "_description_common_tags": {
+    "message": "Tag:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Tersedia juga untuk Firefox Anda:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Tersedia juga untuk Thunderbird Anda:"
+  }
+}

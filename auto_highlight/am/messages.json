@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "አንዳንድ ጊዜ ገጹ ልክ በጥሩ ሁኔታ አልተሰራም እናም እርስዎ የሚፈልጉት መረጃ በቂ አይደለም."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "የተለመዱ አጠቃቀም-ጉዳዮችን"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "ሜታዳታን ያድጉ-"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "\"ነፃ መላኪያ\" ያብቁ :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "በድር ላይ አንድ ነገር አንድ ነገር እየፈለጉ ነው? በሁሉም ገጾች ላይ እንዲያገኙ ለማገዝ \"ጊዜያዊ ጎላጅነት\" ይጠቀሙ. ጊዜያዊ ድምቀቶች አሳሽዎን በሚዘጉበት ጊዜ ጊዜያዊ ድምቀቶች በራስ-ሰር ተሰር .ል."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "ቅርጸ-ቁምፊ-መጠን ወደ ዜሮ በማዋቀር ወይም ግልፅ በማድረግ በማዘጋጀት እንኳን ቃላትን መደበቅ ይችላሉ."
+  },
+  "_description_tags_ah": {
+    "message": "ያደምቁ, ማርታዳታ, ፊልም, አውቶማቲክ, ጽሑፍ, ማመሳሰል, ምርጫ, ፍለጋ"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ በተገለፀው ገጾች ላይ የተገለጹትን ቃላት በራስ-ሰር ያጎላሉ."
+  },
+  "match_type": {
+    "message": "የግጥሚያ ዓይነት:"
+  },
+  "match_type_0": {
+    "message": "ጎራ"
+  },
+  "match_type_1": {
+    "message": "ዩ አር ኤል ነው"
+  },
+  "match_type_2": {
+    "message": "ዩ አር ኤል ይይዛል"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "እያንዳንዱ ገጽ"
+  },
+  "selection_highlight": {
+    "message": "$1 ን ያድኑ"
+  },
+  "selection_temp": {
+    "message": "ለጊዜው $1 ን ያጎላል"
+  },
+  "selection_temp_everywhere": {
+    "message": "ለጊዜው በአሁኑ ጊዜ $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ በዚህ ገጽ ላይ"
+  },
+  "toolbar_click_new_tab": {
+    "message": "የአሻንጉሊት አሞሌ አዶን ጠቅ ሲያደርጉ ሁልጊዜ በአዲስ ትር ውስጥ ይከፈታል"
+  },
+  "disable_rule": {
+    "message": "ተሰናክሏል"
+  },
+  "temporal_rule": {
+    "message": "ጊዜያዊ"
+  },
+  "each_word": {
+    "message": "እያንዳንዱ ቃል"
+  },
+  "rules": {
+    "message": "ህጎች"
+  },
+  "delete": {
+    "message": "ሰርዝ"
+  },
+  "rename": {
+    "message": "እንደገና ይሰይሙ"
+  },
+  "duplicate": {
+    "message": "የተባዙ"
+  },
+  "delete_rule": {
+    "message": "ደንብ ሰርዝ"
+  },
+  "delete_rule_title": {
+    "message": "\"$1\" ሰርዝ?"
+  },
+  "on_pages": {
+    "message": "ገጾች"
+  },
+  "disabled_rule": {
+    "message": "የአካል ጉዳተኛ ደንብ"
+  },
+  "incomplete_rule": {
+    "message": "ያልተሟላ ደንብ"
+  },
+  "active_on_current_page": {
+    "message": "አሁን ባለው ገጽ ላይ ንቁ"
+  },
+  "temporal_rule_helper": {
+    "message": "ጊዜያዊ አገዛዝ - ከአሳሹ በኋላ እንደገና ይሰረዛል"
+  },
+  "active_on_pages": {
+    "message": "ገጾች ላይ ንቁ"
+  },
+  "highlight_each_word_separately": {
+    "message": "እያንዳንዱን ቃል በተናጥል ያደምቁ"
+  },
+  "case_sensitive": {
+    "message": "የጉዳይ ስሜታዊነት"
+  },
+  "ignore_diacritics": {
+    "message": "ረቂቅ አስቂኝ"
+  },
+  "reg_exp": {
+    "message": "ሬጌል"
+  },
+  "regular_expression": {
+    "message": "መደበኛ አገላለጽ"
+  },
+  "across_elements": {
+    "message": "በመላመድ ላይ"
+  },
+  "across_elements_help": {
+    "message": "በባልንጀራው በቢቲኤ ኤችቲኤል ክፍሎች ውስጥ ጽሑፍን ይፈልጉ"
+  },
+  "style": {
+    "message": "ዘይቤ"
+  },
+  "preview": {
+    "message": "ቅድመ-እይታ"
+  },
+  "empty_rule": {
+    "message": "ባዶ አገዛዝ"
+  },
+  "create_new_rule": {
+    "message": "አዲስ ደንብ ይፍጠሩ"
+  },
+  "import_export": {
+    "message": "ማስመጣት / ወደ ውጭ መላክ"
+  },
+  "help_this_project": {
+    "message": "ይህንን ፕሮጀክት ይረዱ"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "በየጥ:"
+  },
+  "storage_info": {
+    "message": "የማጠራቀሚያ መረጃ"
+  },
+  "storage_safari_1": {
+    "message": "Safari በአሁኑ ጊዜ ራስ-ሰር የውሂብ ማመሳሰል አይደግፍም."
+  },
+  "storage_safari_2": {
+    "message": "የማደንዘሪያ ህጎችንዎን ለማስተላለፍ (ወይም ምትኬ) ለማስተካከል, \"አስመጪ / ላክ ላክ\" ባህሪን ይጠቀሙ."
+  },
+  "storage_info_1": {
+    "message": "ህጎችዎ ደህንነቱ የተጠበቀ $1 ደህንነቶችዎን በሁሉም መሳሪያዎችዎ መካከል የሚያመሳስሉ (ወደ ተመሳሳይ መለያ ከተገቡ)."
+  },
+  "storage_info_2": {
+    "message": "ይህ የደመና ማከማቻ 100 ኪ.ሜ. እና እስከ 500 ማጉያ ህጎችን ማከማቸት ይችላል."
+  },
+  "storage_info_3": {
+    "message": "እንዲሁም \"የማስመጣት / ላክ / ላክ\" ባህሪን \"በመጠቀም\" (ምትኬዎን) ወደ ፋይል መላክ ይችላሉ (ምትኬዎን) እና በሌሎች መሣሪያዎች ላይ ያስመጡ."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "ነባር ይተኩ ህጎች"
+  },
+  "add_page_to_highlight_on": {
+    "message": "ለማጉላት ገጽን ያክሉ"
+  },
+  "remove_highlight_from_page": {
+    "message": "ከ ገጽ ማጫዎትን ያስወግዱ"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "ጣዕሙ"
+  },
+  "underline": {
+    "message": "ከመግባት"
+  },
+  "background_color": {
+    "message": "የጀርባ ቀለም"
+  },
+  "background": {
+    "message": "ዳራ"
+  },
+  "text_color": {
+    "message": "የጽሑፍ ቀለም"
+  },
+  "color": {
+    "message": "ቀለም"
+  },
+  "font_size": {
+    "message": "የቅርጸ-ቁምፊ መጠን"
+  },
+  "rule_name": {
+    "message": "ደንብ ስም"
+  },
+  "highlight_regular_expression": {
+    "message": "መደበኛ አገላለጽ ያድጉ"
+  },
+  "highlight_text": {
+    "message": "ጽሁፍ"
+  },
+  "highlight_on_pages": {
+    "message": "ገጾች"
+  },
+  "empty_name_helper": {
+    "message": "\"የደመቀ ጽሑፍ\" እንደ ስም \"የደመቀ ጽሑፍ\" ለመጠቀም"
+  },
+  "faq_1": {
+    "message": "አሁን ባለው ገጽ ላይ ያለውን ቃል እንዴት እንደሚመለከቱ?"
+  },
+  "faq_1a": {
+    "message": "የአውድ ምናሌን ይጠቀሙ - ጽሑፍ / ቀኝ ጠቅ ያድርጉ / \"ራስ-ጎታች\" ን ይምረጡ. በገጽ ላይ በቀኝ ጠቅ ያድርጉ (ጽሑፍ ሳይመረጡ) አሁን ያሉትን ህጎች ለአሁኑ ገጽ ማመልከት ይችላሉ."
+  },
+  "faq_2": {
+    "message": "በርካታ ቃላቶችን ማጉላት እፈልጋለሁ, ለእያንዳንዱ ቃል አዲስ አገዛዝ መፍጠር አለብኝ?"
+  },
+  "faq_2a": {
+    "message": "የለም, \"እያንዳንዱ ቃል\" አመልካች ሳጥኑን ይፈትሹ. ከዚያ እያንዳንዱ ቃል በተናጥል ጎላ አድርጎ ይመለሳል."
+  },
+  "faq_3": {
+    "message": "\"ሬጌክስፕ\" ምንድን ነው?"
+  },
+  "faq_3a": {
+    "message": "መደበኛ አገላለጽ በመባልም ይታወቃል, የፍለጋ ስርዓተ-ጥለት የሚገልጽ የቁምፊዎች ቅደም ተከተል ነው. እሱ ከተመሳሳዩ ተመሳሳይ ንድፍ ጋር የተወሳሰበ የባለሙያ ድምቀቶችን የሚፈቅድ የተወሳሰበ ግንባታ ነው. ለምሳሌ ዋጋዎች, ቀናት, የስልክ ቁጥሮች, ወዘተ ..."
+  },
+  "faq_4": {
+    "message": "አንዳንድ የዳቤልፕ ምሳሌዎችን ማሳየት ትችላለህ?"
+  },
+  "faq_4a": {
+    "message": "እንደ $1 ያሉትን ዋጋዎች ሁሉ ያደምቁ"
+  },
+  "faq_5": {
+    "message": "እነዚያን ማስረዳት ይችላሉ?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" የዶላር ምልክት. በዶልኤክስክስ ውስጥ ልዩ ትርጉም ስላለው የጀርባው መጠኑ እዚህ አስፈላጊ ነው."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" ነጠላ አሃዝ ያጎላል"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" ማለት አንድ ወይም ከዚያ በላይ ጊዜ መድገም ማለት ነው. ከጽዳት አኃዝ መሙያ $2$ ሲቀመጥ አንድ ወይም ከዚያ በላይ ቁጥሮች ማለት ነው."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" ጎላ አድርጎ ይመለሳል. የዶግ ምልክት ብቻውን የሚካሄደው የኋላ ኋላ እንደገና ያስፈልጋል."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" ዜሮ ወይም አንድ ጊዜ ማለት ነው. ከቅድመቶች በኋላ ሲቀመጥ $2$, እሱ ማለት በእነዚያ ቅንፎች ውስጥ ያለው ሁሉ እንደ አማራጭ ነው (እዚያ ሊኖር ይችላል). እኛ ለምርጫው የአስርዮሽ ክፍል እንደ አማራጭ ነው."
+  },
+  "faq_5f": {
+    "message": "ተጨማሪ መረጃ ስለ RegExp ህጎች"
+  },
+  "import_finished": {
+    "message": "ማስመጣት ተጠናቅቋል!",
+    "common": true
+  },
+  "import_error": {
+    "message": "ስህተት",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "የመጠባበቂያ ቅጂ ፋይል $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "መነሻ ገጽ",
+    "common": true
+  },
+  "addon_page": {
+    "message": "አዶን ገጽ",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac መተግበሪያ መደብር",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome ድር ማከማቻ",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "ፋየርፎክስ ተጨማሪዎች",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "ተንደርበርድ ተጨማሪዎች",
+    "common": true
+  },
+  "menu_options": {
+    "message": "አማራጮች",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "የቅርጸ-ቁምፊ መጠን",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "የጎን አሞሌ መጠን",
+    "common": true
+  },
+  "label_next": {
+    "message": "ቀጥሎም",
+    "common": true
+  },
+  "label_note": {
+    "message": "ማስታወሻ:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "ያስወግዱ",
+    "common": true
+  },
+  "label_warning": {
+    "message": "ማስጠንቀቂያ",
+    "common": true
+  },
+  "label_options": {
+    "message": "አማራጮች",
+    "common": true
+  },
+  "label_default": {
+    "message": "ነባሪ",
+    "common": true
+  },
+  "label_done": {
+    "message": "ተከናውኗል!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "የተቀዳ!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "ልማድ",
+    "common": true
+  },
+  "label_close": {
+    "message": "ገጠመ",
+    "common": true
+  },
+  "label_installed": {
+    "message": "ተጭኗል",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "ክፍት ገጽ",
+    "common": true
+  },
+  "label_agree": {
+    "message": "እስማማለሁ",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "ይቅር",
+    "common": true
+  },
+  "label_save": {
+    "message": "አስቀምጥ",
+    "common": true
+  },
+  "label_required": {
+    "message": "ያስፈልጋል",
+    "common": true
+  },
+  "label_sending": {
+    "message": "መላክ ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "ሚዛን",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "አጉላ",
+    "common": true
+  },
+  "label_size": {
+    "message": "መጠን:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "በቅርብ ቀን",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "ለውጦችን አስቀምጥ",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "ለውጦችን ይጥሉ",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "ምናሌ",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "የመነሻ ገጽን ይጎብኙ",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "ይህንን ፕሮጀክት ይረዱ",
+    "common": true
+  },
+  "support_developer": {
+    "message": "ገለልተኛ ገንቢ ድጋፍ!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "ሰላም!",
+    "common": true
+  },
+  "about_me": {
+    "message": "እ.ኤ.አ. ከ 2016 ጀምሮ እሳቤ ረዳት ነኝ. ግቤ ለበለጠ አሳሽዎ የበለጠ ውጤታማ እንዲሆኑ ለማድረግ ኃይለኛ ቅጥያዎችን መገንባት ነው.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "ጥሩ ሥራ እየሠራሁ እንደሆነ ካሰቡ እባክዎን ይለግሱ :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "ልገሳዎ የእኔ ብቸኛ ገቢዬ ነው!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "ሥራዬን በመደገፍ እናመሰግናለን!",
+    "common": true
+  },
+  "op_help": {
+    "message": "እገዛ",
+    "common": true
+  },
+  "o_title": {
+    "message": "አማራጮች - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "ምትኬ",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "አዲስ የመጠባበቂያ ቅጂ ይፍጠሩ",
+    "common": true
+  },
+  "save_settings": {
+    "message": "ቅንብሮችን ያስቀምጡ",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "ውሂብዎን ወደ ፋይል ወደ ፋይል ለመላክ, ይህንን መስኮት በአዲስ ትር ውስጥ እንደገና ያካሂዱ.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "በቀኝ ጠቅ ያድርጉ / \"የተገናኘ ፋይል\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "አጠቃላይ",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "ዳራ",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "አውድ ምናሌ",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "ድንክዬዎች",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "አቋራጮች",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "ማስመጣት / ምትኬ",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "ቅንብሮች",
+    "common": true
+  },
+  "o_theme": {
+    "message": "ጭብጥ",
+    "common": true
+  },
+  "o_general": {
+    "message": "አጠቃላይ:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "ተሰናክሏል",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "ነቅቷል",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "ፒክሰሎች",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "ሰከንዶች",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "አውድ ምናሌ",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "የአውድ ምናሌን አሰናክል: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "የመጠባበቂያ / ወደ ፋይል ቅንብሮች መመለስ:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "ማስመጣት",
+    "common": true
+  },
+  "title_import": {
+    "message": "ማስመጣት",
+    "common": true
+  },
+  "title_export": {
+    "message": "ወደ ውጭ ይላኩ",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "ወደ ውጭ የመላክ ምትክ",
+    "common": true
+  },
+  "label_or": {
+    "message": "ወይም",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "እው ሰላም ነው :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "ስሜ $1$ ነው እና የ $app_name$ ደራሲ ነኝ.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "ከወደዱት እባክዎን እዚህ ይስጡ-",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "እርስዎ ካልወደዱ እባክዎን በኢ-ሜይል ለምን እንደሆነ ያሳውቁኝ. እኔ የሚቀበሉትን አብዛኛዎቹ የባህሪ መጠየቂያ ጥያቄዎችን እየተተገበርኩ ነው.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "እባክዎን የእኔን ሥራ በመደገፍ ያስቡበት",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN ን በመጠቀም የባንክ ማስተላለፍ",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "ልገሳ (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "የእኔ ረዳት ነኝ",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "አመሰግናለሁ!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "ቤት",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "አድራሻ",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "ጉዳዮች ሪፖርት ያድርጉ",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "እኔ በእንግሊዝኛ / ስሎቫክ ብቻ መልስ መስጠት እችላለሁ",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "ማህበራዊ ሚዲያ:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "ለውጦችን ያስቀምጡ እና ይዘጋሉ",
+    "common": true
+  },
+  "o_saved": {
+    "message": "አድኗል!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "ምንም ተዛማጅ ውጤቶች የሉም",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "ምንም ውሂብ የለም",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "ጨለማ ሁነታን",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "በስርዓት ቁጥጥር ተደርጓል",
+    "common": true
+  },
+  "used_space": {
+    "message": "ያገለገለ ቦታ $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "በአዲስ ትር ውስጥ ይክፈቱ",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "አዶን ያብሩ / አጥፋ",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "አዶን ተሰናክሏል",
+    "common": true
+  },
+  "_description_why": {
+    "message": "ለምን?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "የ ግል የሆነ",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "በቅርቡ የታከሉ ባህሪዎች",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "መለያዎች:",
+    "common": true
+  }
+}

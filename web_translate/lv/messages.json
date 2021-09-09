@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Tulkot izvēlēto tekstu (no konteksta izvēlnes)"
+  },
+  "_description_feature_2": {
+    "message": "Visa lapu tulkošana"
+  },
+  "_description_feature_3": {
+    "message": "Tumšs režīms!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, Dark, E-pasts, Google, Lang, valoda, Microsoft, Lapa, Preklad, Prekladač, S3, izvēle, Teksts, Trešruneur, Tulkot, Tulkotājs, Übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ ir viegli izmantot tulkotāju jūsu tīmekļa pārlūkprogrammai / Thunderbird!"
+  },
+  "o_tab_translate": {
+    "message": "Iztulkojums"
+  },
+  "_description_supported_translators": {
+    "message": "Atbalstītie tulkošanas pakalpojumu sniedzēji:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Modālais logs"
+  },
+  "open_in_1": {
+    "message": "Logs uznirstošais logs"
+  },
+  "open_in_2": {
+    "message": "Jauna cilne"
+  },
+  "open_in_3": {
+    "message": "Jauns logs"
+  },
+  "open_in_4": {
+    "message": "Jauna cilne (bez konteinera)"
+  },
+  "modal_window": {
+    "message": "Modālais logs"
+  },
+  "toolbar_icon_action": {
+    "message": "Toolbar ikonas darbība"
+  },
+  "toolbar_icon_text": {
+    "message": "Rīkjoslas ikona teksts"
+  },
+  "sidebar_size": {
+    "message": "Sānjoslas lielums"
+  },
+  "translation_provider": {
+    "message": "Tulkošanas pakalpojumu sniedzējs"
+  },
+  "translate_to": {
+    "message": "Tulkot uz:"
+  },
+  "no_overlay": {
+    "message": "Nav pārklājuma (tumšā platība)"
+  },
+  "no_overlay_hint": {
+    "message": "Modālais logs paliks atvērts, pat ja jūs noklikšķiniet uz ārpuses."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Atvērt tulkojumu:"
+  },
+  "fallback_1": {
+    "message": "Atkritumu metode"
+  },
+  "fallback_2": {
+    "message": "Atkritumu metode"
+  },
+  "fallback_title": {
+    "message": "Dažos gadījumos nevar izmantot modālo logu un uznirstošo logu."
+  },
+  "open_in_tab": {
+    "message": "Atvērt jaunā cilnē"
+  },
+  "translate_this_page": {
+    "message": "Tulkot šo lapu"
+  },
+  "selection_translate": {
+    "message": "Tulkot \"$1\""
+  },
+  "page_translate": {
+    "message": "Tulkot lapu"
+  },
+  "selected_text": {
+    "message": "izvēlēts teksts"
+  },
+  "disable_context_menu": {
+    "message": "Atspējot konteksta izvēlni: $1"
+  },
+  "import_finished": {
+    "message": "Imports pabeigts!"
+  },
+  "import_error": {
+    "message": "Kļūda"
+  },
+  "import_backup_file": {
+    "message": "Importēt dublējuma failu $1"
+  },
+  "search_search": {
+    "message": "Meklēt"
+  },
+  "homepage": {
+    "message": "Mājaslapiete"
+  },
+  "addon_page": {
+    "message": "Addon lapa"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Chrome interneta veikals"
+  },
+  "firefox_store": {
+    "message": "Firefox pievienojumprogrammas"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird add-ons"
+  },
+  "label_font_size": {
+    "message": "Fonta izmērs"
+  },
+  "label_next": {
+    "message": "Nākamais"
+  },
+  "label_note": {
+    "message": "Piezīme:"
+  },
+  "label_remove": {
+    "message": "Noņemt"
+  },
+  "label_warning": {
+    "message": "Brīdinājums:"
+  },
+  "label_default": {
+    "message": "Noklusējums:"
+  },
+  "label_done": {
+    "message": "!"
+  },
+  "label_copied": {
+    "message": "Kopēts!"
+  },
+  "label_close": {
+    "message": "Tuvoties"
+  },
+  "label_open_page": {
+    "message": "Atvērt lapu"
+  },
+  "label_agree": {
+    "message": "Piekrist"
+  },
+  "label_cancel": {
+    "message": "Atcelt"
+  },
+  "op_support_me": {
+    "message": "Palīdzēt šim projektam"
+  },
+  "support_developer": {
+    "message": "Atbalstiet neatkarīgu attīstītāju!"
+  },
+  "hello_there": {
+    "message": "Sveiki!"
+  },
+  "about_me": {
+    "message": "Es esmu Addon izstrādātājs kopš 2016. gada Mans mērķis ir veidot spēcīgus paplašinājumus jūsu tīmekļa pārlūkprogrammai, lai padarītu jūs produktīvāku."
+  },
+  "about_good_job": {
+    "message": "Ja jūs domājat, ka es daru labu darbu, lūdzu, ziedot :)"
+  },
+  "about_income": {
+    "message": "Jūsu ziedojums ir mans vienīgais ienākums!"
+  },
+  "about_thanks": {
+    "message": "Paldies, ka atbalstāt savu darbu!"
+  },
+  "o_tab_context_menu": {
+    "message": "Konteksta izvēlne"
+  },
+  "o_tab_about": {
+    "message": "Par"
+  },
+  "o_tab_settings": {
+    "message": "Iestatījumi"
+  },
+  "o_pixels": {
+    "message": "pikseļi"
+  },
+  "o_seconds": {
+    "message": "sekundes"
+  },
+  "label_or": {
+    "message": "vai"
+  },
+  "o_about_hello": {
+    "message": "Sveiki :)"
+  },
+  "o_about_intro": {
+    "message": "Mans vārds ir $1$ un es esmu $app_name$ autors."
+  },
+  "o_about_like_it": {
+    "message": "Ja jums tas patīk, lūdzu, novērtējiet to šeit:"
+  },
+  "o_about_thanks": {
+    "message": "Paldies!"
+  },
+  "o_about_contact": {
+    "message": "Kontaktpersona:"
+  },
+  "o_about_issues": {
+    "message": "Ziņojuma jautājumi:"
+  },
+  "o_about_social_media": {
+    "message": "Sociālie mēdiji:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankas pārskaitījums, izmantojot IBAN:"
+  },
+  "ps_no_results": {
+    "message": "Nav saskaņošanas rezultātu"
+  },
+  "label_no_data": {
+    "message": "Nav datu"
+  },
+  "dark_mode": {
+    "message": "Tumšs režīms"
+  },
+  "dark_mode_system": {
+    "message": "Kontrolē sistēma"
+  },
+  "_description_features": {
+    "message": "Iespējas:"
+  },
+  "_description_why": {
+    "message": "Kāpēc?"
+  },
+  "_description_privacy_policy": {
+    "message": "Privātuma politika"
+  },
+  "_description_recent_features": {
+    "message": "Nesen pievienotās funkcijas:"
+  },
+  "_description_common_tags": {
+    "message": "Tags:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Pieejams arī jūsu Firefox:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Pieejams arī jūsu Thunderbird:"
+  }
+}

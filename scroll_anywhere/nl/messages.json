@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "overal, knoop, cursor, slepen, grijpen, grijpen, grijpen en slepen, oneindig, links, midden, momentum, muis, verplaatsen, pagina, rechts, scroll, scrollpagina, schuifbalk, scrollen, gooien"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Sleep Scrollbar met uw middelste muisknop ergens op de pagina. Ondersteunt ook \"GRAB EN SLEEK\" STIJL."
+  },
+  "field_int_default_value": {
+    "message": "Standaard waarde: $1, min: $2, max: $3"
+  },
+  "field_set_default": {
+    "message": "Opnieuw instellen op standaard: $1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-Ons"
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons pagina"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store pagina"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "win_disable": {
+    "message": "Uitschakelen op $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Schakel horizontale scrollen uit op $1"
+  },
+  "op_visit_home": {
+    "message": "Ga naar de startpagina"
+  },
+  "op_support_me": {
+    "message": "Help dit project"
+  },
+  "o_title": {
+    "message": "Opties - $1 Opties"
+  },
+  "o_tab_general": {
+    "message": "Algemeen"
+  },
+  "o_tab_momentum": {
+    "message": "Moment"
+  },
+  "o_tab_cursor": {
+    "message": "Cursor"
+  },
+  "o_axis_locking": {
+    "message": "Axis-vergrendeling"
+  },
+  "o_tab_performance": {
+    "message": "Prestatie"
+  },
+  "o_tab_disabled_on": {
+    "message": "Uitgeschakeld op"
+  },
+  "o_tab_advanced": {
+    "message": "Geavanceerd"
+  },
+  "o_tab_scrollbars": {
+    "message": "Schuifbalken"
+  },
+  "o_tab_backup": {
+    "message": "Importeren / back-up"
+  },
+  "o_tab_about": {
+    "message": "Over"
+  },
+  "o_axis_lock_helper": {
+    "message": "Bij het scrollen van een doos die in één as schuifbaar is, maar de bovenliggende doos is schuifbaar in andere as, vergrendeld het scrollen naar één as met behulp van:"
+  },
+  "o_axis_lock_0": {
+    "message": "Smart Lock - Temporal Slot met behulp van momentum"
+  },
+  "o_axis_lock_1": {
+    "message": "Strikte slot - Instant richting slot"
+  },
+  "o_axis_lock_2": {
+    "message": "Geen slotvrij scrollen in beide as"
+  },
+  "o_trend_momentum_window": {
+    "message": "Smart Lock Stack Grootte"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Grotere waarde vereist meer scrollen in de andere as om de scroll-as te veranderen."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon is uitgeschakeld! Klik hier om in te schakelen."
+  },
+  "o_cursor_change_default": {
+    "message": "geen verandering - beste prestaties"
+  },
+  "o_scroll_button": {
+    "message": "Scroll-knop:"
+  },
+  "o_direction_speed": {
+    "message": "Scroll-stijl / richting / snelheid:"
+  },
+  "o_multiplier": {
+    "message": "Multiplier"
+  },
+  "o_times_speed": {
+    "message": "tijden scroll-snelheid"
+  },
+  "o_maximum_speed": {
+    "message": "Maximale scrollsnelheid (0 - uitgeschakeld):"
+  },
+  "o_ratio_unit": {
+    "message": "ratio (pagina Lengte / venster Maat)"
+  },
+  "o_scroll_type_0": {
+    "message": "Emuleer scrollbar"
+  },
+  "o_scroll_type_1": {
+    "message": "Grijp en sleep - zoals op een smartphone"
+  },
+  "o_scroll_type_2": {
+    "message": "Dynamische snelheid (experimenteel)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Het is net als het slepen van een schuifbalk"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Het is net als het slepen van een pagina met je vinger op een telefoonscherm"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Dynamische snelheid maakt scrollsnelheid langzamer wanneer de pagina langer is"
+  },
+  "o_disable_key": {
+    "message": "Schakel het scrollen uit / inschakelen wanneer de sleutel is omlaag:"
+  },
+  "o_momentum_category": {
+    "message": "Momentum:"
+  },
+  "o_momentum_formula": {
+    "message": "Momentum Formule:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Uniform vertraagde beweging"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Pagina-scroll wordt uniform vertraagd totdat het stopt"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Exponentieel vertraagde beweging"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Pagina scroll zal snel (exponentieel) vertragen"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Oneindige beweging ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Scrollen stopt nooit"
+  },
+  "o_momentum_max_speed": {
+    "message": "Maximale snelheid (0 - uitgeschakeld):"
+  },
+  "o_page_weight": {
+    "message": "Page Gewicht:"
+  },
+  "o_grams": {
+    "message": "gram :)"
+  },
+  "o_additional_speed": {
+    "message": "Extra snelheid:"
+  },
+  "o_pixels_second": {
+    "message": "pixels per seconde"
+  },
+  "o_additional_duration": {
+    "message": "Extra duur:"
+  },
+  "o_advanced_momentum": {
+    "message": "Advanced Momentum Setup (alleen voor experts!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Het veranderen van deze waarden kan je momentum breken!"
+  },
+  "o_compute_from_last": {
+    "message": "Berekenen van de laatste:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Muisstopdetectie:"
+  },
+  "o_tracking_speed": {
+    "message": "Tracking-snelheid:"
+  },
+  "o_reset_values": {
+    "message": "Resetwaarden opnieuw instellen"
+  },
+  "o_cursor_scrolling": {
+    "message": "Cursor gebruikt bij het scrollen:"
+  },
+  "o_performance": {
+    "message": "Prestatie:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Voorkom grote sprongen"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Als u gereedschap gebruikt dat uw cursor over het scherm kan teleporteren (wanneer u een rand bereikt), kunt u deze optie inschakelen om continu (oneindig) scrollen mogelijk te maken."
+  },
+  "o_advanced": {
+    "message": "Geavanceerd:"
+  },
+  "o_movement_detection": {
+    "message": "Muisbewegingsdetectiedrempel:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Hoeveel pixels moet naar muis gaan om de link te blokkeren. Soms wanneer u op de schuifknop drukt, beweegt u de muis enigszins, maar u wilt niet dat de link daarom is uitgeschakeld."
+  },
+  "o_context_menu_block": {
+    "message": "Context Menu Block:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Deblokkeer contextmenu vertraging"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Als u het contextmenu ziet na het scrollen met de rechtermuisknop, verhoogt u deze waarde"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Schakel horizontale scrollen op domeinen uit:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Uitgeschakeld op domeinen:"
+  },
+  "o_is_disabled_url": {
+    "message": "Uitgeschakeld op pagina's / sub-pagina's:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "U kunt Star-symbool (*) gebruiken om een URL-onderdeel te definiëren, bijvoorbeeld: \"Google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Voer één domein per regel in."
+  },
+  "o_is_disabled": {
+    "message": "Schakel add-on uit"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Gebruik werkbalkpictogram als de hoofd aan / uit-schakelaar"
+  },
+  "o_scroll_button_middle": {
+    "message": "Middelste knop"
+  },
+  "o_scroll_button_right": {
+    "message": "Rechter knop"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Mac-gebruikers - U wordt gevraagd om nieuwe toestemming \"Lees en wijzig de Browser-instelling\" - dit is vereist om contextmenu te onderdrukken dat wordt weergegeven voordat u gaat scrollen!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac-gebruikers - Uw contextmenu wordt geblokkeerd! Om het contextmenu te openen Houd de knop \"SHIFT\" of Triple-klik op de juiste knop."
+  },
+  "o_scroll_button_left": {
+    "message": "Linker knop (experimenteel)"
+  },
+  "o_scroll_on_links": {
+    "message": "Blader op links"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Indien ingeschakeld, kunt u links (alleen door 'uitschakelen' -toets te slepen en neerzetten"
+  },
+  "o_scroll_on_text": {
+    "message": "Blader op tekst"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emuleert Telefoon Scrolling / Bewerken - u moet op tekst klikken om over te schakelen naar \"Bewerkingsmodus\". Door tekst te klikken, kan opnieuw scrollen."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Scroll op Textarea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea is een tekstblok, meestal als volgt. Bijvoorbeeld op \"uitgeschakeld op\" Tab kunt u Textarea zien."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Scroll op bewerkbare HTML"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "E-maillichaam in Gmail is bijvoorbeeld bewerkbare HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "op tekst zal het selecteren / bewerken van tekst inschakelen."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Klik op de tekst, \"Bewerkmodus\" inschakelen. Klik op de externe tekst om \"Scroll-modus\" in te schakelen."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Enkele klik"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Dubbelklik"
+  },
+  "o_scrollbars_width": {
+    "message": "Scrollbars kijken"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normaal (geen verandering)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Dun"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Verborgen"
+  },
+  "o_scrollbars_color": {
+    "message": "Scrollbar Slider Kleur:"
+  },
+  "o_scrollbars_background": {
+    "message": "Scrollbar achtergrondkleur:"
+  },
+  "o_reverse": {
+    "message": "Reverse scroll richting"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Verschuiving"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl"
+  },
+  "o_disable_type_0": {
+    "message": "Uitschakelen wanneer de sleutel is omlaag:"
+  },
+  "o_disable_type_1": {
+    "message": "Inschakelen wanneer de sleutel is omlaag:"
+  },
+  "o_momentum": {
+    "message": "momentum inschakelen - u kunt de pagina \"gooien\" (zoals op telefoon)"
+  },
+  "o_no_css_edit": {
+    "message": "Vergrendel geen iframes en verander geen cursor bij het scrollen"
+  },
+  "o_no_prevent_default": {
+    "message": "Blokkeer de standaardknopactie niet"
+  },
+  "o_auto_link_lock": {
+    "message": "Links blokkeren:"
+  },
+  "o_no_link_block": {
+    "message": "Blokkeer geen muisklik op link na beweging"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Wanneer u begint met scrollen op een link en vervolgens bent u klaar met scrollen op dezelfde link, opent de browser de link. Dit is meestal niet gewenst gedrag, dus standaard is het geblokkeerd."
+  },
+  "o_page_weight_title": {
+    "message": "Dit bedient hoe 'Heavy' de pagina is. Zwaardere pagina's hebben langer momentum."
+  },
+  "o_additional_speed_title": {
+    "message": "U kunt de momenteel vermelde snelheid versnellen."
+  },
+  "o_additional_duration_title": {
+    "message": "Extra tijd voor elk momentum."
+  },
+  "o_compute_from_last_title": {
+    "message": "Het momentuminitiële snelheid wordt bepaald door de snelheid van het scrollen voordat u de schuifknop vrijgeeft."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Hoeveel tijd moet nog steeds muis blijven - voordat u de schuifknop vrijgeeft - om het momentum niet te activeren."
+  },
+  "o_tracking_speed_title": {
+    "message": "Interval voor het meten van de huidige scrollsnelheid."
+  },
+  "o_scrolling_area": {
+    "message": "Scrolling Area:"
+  },
+  "o_outside_area_width": {
+    "message": "Scrolling Area (0 - uitgeschakeld):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Het verplaatsen van uw cursor buiten het scroll-gebied zal de scroll-positie terugkeren. Hetzelfde gedrag is te zien bij het slepen van een schuifbalk."
+  },
+  "o_scroll_button_left_title": {
+    "message": "WAARSCHUWING - Ondersteuning voor de linkerknop is het gebruik van verouderde Firefox-API die in toekomstige versies van Firefox kan worden verwijderd."
+  },
+  "o_prevent_text_selection": {
+    "message": "Voorkom tekstselectie bij het scrollen met de linkerknop"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Op sommige apparaten selecteert het scrollen met de linkermuisknop ook tekst op de pagina."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Blokkeer geen contextmenu bij het scrollen van niet-schuifbare pagina"
+  },
+  "o_backup_restore": {
+    "message": "Back-up / herstelinstellingen naar bestand:"
+  },
+  "o_export_settings": {
+    "message": "Exportinstellingen naar een bestand"
+  },
+  "import_settings_button": {
+    "message": "Instellingen importeren van $1 bestand ..."
+  },
+  "import_finished": {
+    "message": "Importeren is afgerond!"
+  },
+  "test_page_title": {
+    "message": "Test uw scroll-instellingen hier"
+  },
+  "menu_options": {
+    "message": "Opties"
+  },
+  "menu_visit_title": {
+    "message": "Ga naar de startpagina"
+  },
+  "not_working": {
+    "message": "Uitgeschakeld door uw webbrowser"
+  },
+  "disabled_by_user": {
+    "message": "Uitgeschakeld op dit domein"
+  },
+  "not_working_title": {
+    "message": "Uw browser blokkeert scrollanywhere op dit type pagina's:"
+  },
+  "not_working_body": {
+    "message": "Om scrollanywhere op \"Mozilla.org\" -pagina's in te schakelen, zie deze YouTube-tutorial"
+  },
+  "show_scrollbars": {
+    "message": "Show Scrollbars"
+  },
+  "show_scrollbars_title": {
+    "message": "Tijdelijk scrollbars tonen"
+  },
+  "switch_on_off": {
+    "message": "Schakel add-aan uit / aan"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Als u merkbare vertraging ervaart tussen het drukken op de schuifknop en het starten van scrollen, probeert u deze optie in te schakelen. U zult echter niet kunnen scrollen over \"IFRAMES\" zoals enkele oude ingebouwde video's of enkele advertenties."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Dit zal ook optie uitschakelen om de cursor te veranderen tijdens het scrollen."
+  },
+  "o_helper_text_default_action": {
+    "message": "Handig in Linux om pasta met de middelste knop in te schakelen."
+  },
+  "o_about_hello": {
+    "message": "Hallo :)"
+  },
+  "o_about_intro": {
+    "message": "Mijn naam is $1$ en ik ben de auteur van $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Als de add-on je bevalt, beoordeel hem dan hier:"
+  },
+  "o_about_dislike_it": {
+    "message": "Als hij je niet bevalt, laat me dan in een e-mail weten waarom niet. Ik implementeer de meeste functieverzoeken die ik ontvang."
+  },
+  "o_disabled": {
+    "message": "uitgeschakeld",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "ingeschakeld",
+    "common": true
+  },
+  "o_times": {
+    "message": "keer",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels",
+    "common": true
+  },
+  "o_items": {
+    "message": "items",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milliseconden",
+    "common": true
+  },
+  "label_working": {
+    "message": "werken ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Sluiten",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Overweeg alsjeblieft om mijn werk te ondersteunen door",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donatie (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "mijn Beschermheer worden",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Bedankt!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "start:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contact:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Rapporteer problemen:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Ik kan alleen antwoorden in het Engels / Slowaaks",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sociale media:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Wijzigingen opslaan en sluiten",
+    "common": true
+  },
+  "o_saved": {
+    "message": "opgeslagen!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Binnenkort beschikbaar",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Wijzigingen opslaan",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Privacybeleid",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Recent toegevoegde functies:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

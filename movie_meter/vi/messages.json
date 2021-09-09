@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "ngày, IMDB, Mô tả, Tập, Máy đo, Biểu đồ, IMDB, Thông tin, Đồng hồ, Phim, Phim, Phim, Netflix, IMDB, Xếp hạng, Sê-ri, Hiển thị, TV, Chương trình truyền hình, Vượt qua, Vượt qua, Mùa"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "movie không tìm thấy / tìm thấy bộ phim sai - Vì không có \"chính thức\" tích hợp với các trang đích, tôi không thể đảm bảo kết quả chính xác 100% (nhưng phần lớn các trường hợp, nó hoạt động hoàn hảo)"
+  },
+  "_description_mm_not_working": {
+    "message": "Không hoạt động trên trang phim yêu thích của bạn?"
+  },
+  "_description_mm_add_support": {
+    "message": "Liên hệ với tôi và tôi sẽ thêm nó - nếu có thể (trang phải chứa tên phim bằng tiếng Anh hoặc $visit_imdb$)."
+  },
+  "_description_mm_feature_1": {
+    "message": "xếp hạng phim và phổ biến từ $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "ngày tiếp theo / Bài trước từ $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "thông tin về bộ phim / TV bổ sung"
+  },
+  "_description_mm_feature_4": {
+    "message": "thông báo về tập mới"
+  },
+  "_description_mm_feature_5": {
+    "message": "sê-ri Mark TV là yêu thích và bạn sẽ nhận được thông báo khi tập mới có sẵn"
+  },
+  "_description_mm_feature_7": {
+    "message": "tự động ẩn khi phát hiện phát lại video"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ sẽ hiển thị cho bạn đánh giá và phổ biến của phim (hoặc loạt phim truyền hình)"
+  },
+  "name": {
+    "message": "Tên"
+  },
+  "year": {
+    "message": "Năm"
+  },
+  "video_type": {
+    "message": "Kiểu"
+  },
+  "video_type_0": {
+    "message": "Bộ phim"
+  },
+  "video_type_1": {
+    "message": "Loạt"
+  },
+  "video_type_2": {
+    "message": "Tập phim"
+  },
+  "runtime": {
+    "message": "Thời gian chạy"
+  },
+  "premiered": {
+    "message": "Premiere."
+  },
+  "premiere_in": {
+    "message": "Premiere In."
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Quốc gia"
+  },
+  "actors": {
+    "message": "Diễn viên"
+  },
+  "dvd": {
+    "message": "Đĩa DVD"
+  },
+  "director": {
+    "message": "Đạo diễn."
+  },
+  "totalseasons": {
+    "message": "Tổng số mùa"
+  },
+  "writer": {
+    "message": "Nhà văn"
+  },
+  "language": {
+    "message": "Ngôn ngữ"
+  },
+  "awards": {
+    "message": "Giải thưởng"
+  },
+  "rated": {
+    "message": "Đánh giá"
+  },
+  "production": {
+    "message": "Sản xuất"
+  },
+  "plot": {
+    "message": "Âm mưu"
+  },
+  "website": {
+    "message": "Trang mạng"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Truy cập $visit_imdb$ Trang"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Truy cập trang $visit_tvmaze$ cho chương trình này"
+  },
+  "make_favorite": {
+    "message": "Yêu thích"
+  },
+  "make_favorite_title": {
+    "message": "Thêm loạt phim truyền hình vào mục yêu thích. Điều này sẽ cho phép bạn nhận thông báo về các tập mới."
+  },
+  "last_episode": {
+    "message": "Cuối cùng"
+  },
+  "next_episode": {
+    "message": "Kế tiếp"
+  },
+  "last_episode_title": {
+    "message": "Tập cuối"
+  },
+  "next_episode_title": {
+    "message": "Tập tiếp theo"
+  },
+  "episode_airtime": {
+    "message": "Thời gian phát sóng"
+  },
+  "episode_name": {
+    "message": "Tên"
+  },
+  "series_status": {
+    "message": "Trạng thái"
+  },
+  "episodes_count": {
+    "message": "Tập phim"
+  },
+  "episodes_count_title": {
+    "message": "Mùa hiện tại $1 có $2 tập"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "ngày"
+  },
+  "hours": {
+    "message": "giờ"
+  },
+  "na": {
+    "message": "Không có sẵn"
+  },
+  "user_rating": {
+    "message": "Đánh giá của người dùng: $1"
+  },
+  "user_popularity": {
+    "message": "Phổ biến: $1 phiếu"
+  },
+  "source": {
+    "message": "Nguồn: $1"
+  },
+  "show_details": {
+    "message": "hơn..."
+  },
+  "hide_details": {
+    "message": "ít hơn..."
+  },
+  "save_position": {
+    "message": "Lưu vị trí"
+  },
+  "revert_position": {
+    "message": "Hoàn nguyên vị trí"
+  },
+  "win_disable": {
+    "message": "Vô hiệu hóa trên $1"
+  },
+  "cm_advanced": {
+    "message": "Nâng cao"
+  },
+  "op_visit_home": {
+    "message": "Truy cập trang chủ"
+  },
+  "op_support_me": {
+    "message": "Giúp dự án này"
+  },
+  "hide": {
+    "message": "Ẩn Window."
+  },
+  "show": {
+    "message": "Hiển thị cửa sổ."
+  },
+  "reset_position": {
+    "message": "Đặt lại vị trí"
+  },
+  "search": {
+    "message": "Tìm kiếm"
+  },
+  "configure_search": {
+    "message": "Cấu hình tùy chọn tìm kiếm"
+  },
+  "selection_search": {
+    "message": "Tìm kiếm $1."
+  },
+  "menu_options": {
+    "message": "Tùy chọn"
+  },
+  "menu_quick_options": {
+    "message": "Tùy chọn nhanh chóng"
+  },
+  "menu_visit_homepage": {
+    "message": "Truy cập trang chủ"
+  },
+  "menu_request_support": {
+    "message": "Yêu cầu hỗ trợ cho $1"
+  },
+  "show_introduction": {
+    "message": "Hiển thị trang giới thiệu"
+  },
+  "o_about_issues": {
+    "message": "Các vấn đề báo cáo:"
+  },
+  "safari_store": {
+    "message": "Cửa hàng ứng dụng Mac"
+  },
+  "firefox_store": {
+    "message": "Tiện ích Firefox"
+  },
+  "chrome_store": {
+    "message": "Cửa hàng Chrome trực tuyến"
+  },
+  "movie_not_detected": {
+    "message": "Phim không được phát hiện"
+  },
+  "movie_not_detected_title": {
+    "message": "Không có dòng phim / TV không được phát hiện trên trang này."
+  },
+  "movie_not_found": {
+    "message": "Không tìm thấy phim"
+  },
+  "movie_not_found_title": {
+    "message": "Thông tin phim không được tìm thấy trên máy chủ."
+  },
+  "status_type_0": {
+    "message": "Đang chạy"
+  },
+  "status_type_1": {
+    "message": "Đã kết thúc"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Chương trình sẽ tiếp tục"
+  },
+  "status_type_title_1": {
+    "message": "Chương trình đã kết thúc - không có nhiều mùa lên kế hoạch"
+  },
+  "status_type_title_2": {
+    "message": "Cho thấy tương lai là không rõ ràng"
+  },
+  "notify_movie_not_found": {
+    "message": "Không tìm thấy phim: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Chỉ sử dụng tên phim tiếng Anh!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Tìm kiếm là không hoàn hảo ..."
+  },
+  "notify_video_hide": {
+    "message": "Đã phát hiện video - $app_name$ hiện đang bị ẩn"
+  },
+  "notify_video_hide_body": {
+    "message": "Nhấn vào đây để không hiển thị lại thông báo này một lần nữa"
+  },
+  "notify_new_episodes": {
+    "message": "Tập mới đã được phát sóng"
+  },
+  "title_introduction": {
+    "message": "Giới thiệu"
+  },
+  "supported_pages": {
+    "message": "Trang được hỗ trợ:"
+  },
+  "supported_grows": {
+    "message": "(Danh sách này phát triển lớn hơn và lớn hơn)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Xếp hạng và thông tin phổ biến là từ $1$. Thông tin về các tập là từ $2$."
+  },
+  "title_got_it": {
+    "message": "Hiểu rồi, hãy bắt đầu!"
+  },
+  "_description_privacy_policy": {
+    "message": "Chính sách bảo mật"
+  },
+  "_description_recent_features": {
+    "message": "Các tính năng được thêm gần đây:"
+  },
+  "_description_known_issues": {
+    "message": "Các vấn đề đã biết:"
+  },
+  "_description_common_tags": {
+    "message": "Tags:"
+  },
+  "_description_features": {
+    "message": "Đặc trưng:"
+  },
+  "about_me": {
+    "message": "Tôi là Addon Developer kể từ năm 2016. Mục tiêu của tôi là xây dựng các tiện ích mở rộng mạnh mẽ cho trình duyệt web của bạn để khiến bạn hiệu ích hơn."
+  },
+  "about_good_job": {
+    "message": "Nếu bạn nghĩ rằng tôi đang làm một công việc tốt, xin vui lòng tặng :)"
+  },
+  "about_income": {
+    "message": "Đóng góp của bạn là thu nhập duy nhất của tôi!"
+  },
+  "about_thanks": {
+    "message": "Cảm ơn bạn đã hỗ trợ công việc của tôi!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Chuyển khoản ngân hàng bằng IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Hỗ trợ nhà phát triển độc lập!"
+  }
+}

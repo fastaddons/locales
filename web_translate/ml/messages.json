@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "തിരഞ്ഞെടുത്ത വാചകം വിവർത്തനം ചെയ്യുക (സന്ദർഭ മെനുവിൽ നിന്ന്)"
+  },
+  "_description_feature_2": {
+    "message": "പേജ് മുഴുവൻ വിവർത്തനവും"
+  },
+  "_description_feature_3": {
+    "message": "ഇരുണ്ട മോഡ്!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, Dart, ഇമെയിൽ, Google, lang, ഭാഷ, Microsoft, പേജ്, Preklad, Prekladač, S3, തിരഞ്ഞെടുപ്പ്, വാചകം, ട്രഡക്ടൂർ, വിവർത്തനം, പരിഭാഷകൻ, ü സെബൻസെറ്റർ,"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ നിങ്ങളുടെ വെബ് ബ്ര browser സർ / തണ്ടർബേർഡിനായി വിവർത്തകനെ ഉപയോഗിക്കാൻ എളുപ്പമാണ്!"
+  },
+  "o_tab_translate": {
+    "message": "വിവര്ത്തനം ചെയ്യുക"
+  },
+  "_description_supported_translators": {
+    "message": "പിന്തുണയ്ക്കുന്ന വിവർത്തന ദാതാക്കളെ:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "മോഡൽ വിൻഡോ"
+  },
+  "open_in_1": {
+    "message": "പോപ്പ്അപ്പ് വിൻഡോ"
+  },
+  "open_in_2": {
+    "message": "പുതിയ ടാബ്"
+  },
+  "open_in_3": {
+    "message": "പുതിയ വിൻഡോ"
+  },
+  "open_in_4": {
+    "message": "പുതിയ ടാബ് (കണ്ടെയ്നർ ഇല്ലാതെ)"
+  },
+  "modal_window": {
+    "message": "മോഡൽ വിൻഡോ"
+  },
+  "toolbar_icon_action": {
+    "message": "ടൂൾബാർ ഐക്കൺ പ്രവർത്തനം"
+  },
+  "toolbar_icon_text": {
+    "message": "ടൂൾബാർ ഐക്കൺ വാചകം"
+  },
+  "sidebar_size": {
+    "message": "സൈഡ്ബാർ വലുപ്പം"
+  },
+  "translation_provider": {
+    "message": "വിവർത്തന ദാതാവ്"
+  },
+  "translate_to": {
+    "message": "വിവർത്തനം:"
+  },
+  "no_overlay": {
+    "message": "ഓവർലേ ഇല്ല (ഇരുണ്ട പ്രദേശം)"
+  },
+  "no_overlay_hint": {
+    "message": "നിങ്ങൾ പുറത്ത് ക്ലിക്കുചെയ്യുകയാണെങ്കിൽ പോലും മോഡൽ വിൻഡോ തുറക്കും."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "വിവർത്തനം:"
+  },
+  "fallback_1": {
+    "message": "ഫാൾബാക്ക് രീതി"
+  },
+  "fallback_2": {
+    "message": "ഫാൾബാക്ക് രീതി"
+  },
+  "fallback_title": {
+    "message": "മോഡൽ വിൻഡോയും പോപ്പ്അപ്പ് വിൻഡോയും ചില സന്ദർഭങ്ങളിൽ ഉപയോഗിക്കാൻ കഴിയില്ല."
+  },
+  "open_in_tab": {
+    "message": "പുതിയ ടാബിൽ തുറക്കുക"
+  },
+  "translate_this_page": {
+    "message": "ഈ പേജ് വിവർത്തനം ചെയ്യുക"
+  },
+  "selection_translate": {
+    "message": "വിവർത്തനം \"$1\""
+  },
+  "page_translate": {
+    "message": "പേജ് വിവർത്തനം ചെയ്യുക"
+  },
+  "selected_text": {
+    "message": "തിരഞ്ഞെടുത്ത വാചകം"
+  },
+  "disable_context_menu": {
+    "message": "സന്ദർഭ മെനു അപ്രാപ്തമാക്കുക: $1"
+  },
+  "import_finished": {
+    "message": "ഇറക്കുമതി പൂർത്തിയായി!"
+  },
+  "import_error": {
+    "message": "പിശക്"
+  },
+  "import_backup_file": {
+    "message": "ഇറക്കുമതി ബാക്കപ്പ് ഫയൽ $1"
+  },
+  "search_search": {
+    "message": "അനേഷണം"
+  },
+  "homepage": {
+    "message": "ഹോംപേജ്"
+  },
+  "addon_page": {
+    "message": "ആഡോൺ പേജ്"
+  },
+  "safari_store": {
+    "message": "മാക് ആപ്പ് സ്റ്റോർ"
+  },
+  "chrome_store": {
+    "message": "Chrome വെബ് സ്റ്റോർ"
+  },
+  "firefox_store": {
+    "message": "ഫയർഫോക്സ് ആഡ്-ഓണുകൾ"
+  },
+  "thunderbird_store": {
+    "message": "തണ്ടർബേഡ് ആഡ്-ഓണുകൾ"
+  },
+  "label_font_size": {
+    "message": "അക്ഷര വലിപ്പം"
+  },
+  "label_next": {
+    "message": "അടുത്തത്"
+  },
+  "label_note": {
+    "message": "കുറിപ്പ്:"
+  },
+  "label_remove": {
+    "message": "മാറ്റുക"
+  },
+  "label_warning": {
+    "message": "മുന്നറിയിപ്പ്:"
+  },
+  "label_default": {
+    "message": "സ്ഥിരസ്ഥിതി:"
+  },
+  "label_done": {
+    "message": "ചെയ്തു!"
+  },
+  "label_copied": {
+    "message": "പകർത്തി!"
+  },
+  "label_close": {
+    "message": "അടയ്ക്കുക"
+  },
+  "label_open_page": {
+    "message": "പേജ് തുറക്കുക"
+  },
+  "label_agree": {
+    "message": "സമ്മതിക്കുക"
+  },
+  "label_cancel": {
+    "message": "റദ്ദാക്കുക"
+  },
+  "op_support_me": {
+    "message": "ഈ പ്രോജക്റ്റിനെ സഹായിക്കുക"
+  },
+  "support_developer": {
+    "message": "സ്വതന്ത്ര ഡവലപ്പറിനെ പിന്തുണയ്ക്കുക!"
+  },
+  "hello_there": {
+    "message": "നീ അവിടെയുണ്ടോ!"
+  },
+  "about_me": {
+    "message": "ഞാൻ 2016 മുതൽ ആഡൻ ഡെവലപ്പർ ആണ്. നിങ്ങളെ കൂടുതൽ ഉൽപാദനക്ഷമമാക്കുന്നതിന് നിങ്ങളുടെ വെബ്-ബ്ര browser സറിനായി ശക്തമായ വിപുലീകരണങ്ങൾ നിർമ്മിക്കുക എന്നതാണ് എന്റെ ലക്ഷ്യം."
+  },
+  "about_good_job": {
+    "message": "ഞാൻ ഒരു നല്ല ജോലി ചെയ്യുന്നുവെന്ന് നിങ്ങൾ കരുതുന്നുവെങ്കിൽ, ദയവായി സംഭാവന ചെയ്യുക :)"
+  },
+  "about_income": {
+    "message": "നിങ്ങളുടെ സംഭാവന എന്റെ ഏക വരുമാനമാണ്!"
+  },
+  "about_thanks": {
+    "message": "എന്റെ ജോലിയെ പിന്തുണച്ചതിന് നന്ദി!"
+  },
+  "o_tab_context_menu": {
+    "message": "സന്ദർഭ മെനു"
+  },
+  "o_tab_about": {
+    "message": "കുറിച്ച്"
+  },
+  "o_tab_settings": {
+    "message": "ക്രമീകരണങ്ങൾ"
+  },
+  "o_pixels": {
+    "message": "പിക്സലുകൾ"
+  },
+  "o_seconds": {
+    "message": "സെക്കൻഡ്"
+  },
+  "label_or": {
+    "message": "അഥവാ"
+  },
+  "o_about_hello": {
+    "message": "ഹലോ :)"
+  },
+  "o_about_intro": {
+    "message": "എന്റെ പേര് $1$, ഞാൻ $app_name$ ന്റെ രചയിതാവാണ്."
+  },
+  "o_about_like_it": {
+    "message": "നിങ്ങൾക്ക് ഇത് ഇഷ്ടമാണെങ്കിൽ, ദയവായി ഇത് ഇവിടെ റേറ്റുചെയ്യുക:"
+  },
+  "o_about_thanks": {
+    "message": "നന്ദി!"
+  },
+  "o_about_contact": {
+    "message": "ബന്ധപ്പെടുക:"
+  },
+  "o_about_issues": {
+    "message": "റിപ്പോർട്ട് പ്രശ്നങ്ങൾ:"
+  },
+  "o_about_social_media": {
+    "message": "സോഷ്യൽ മീഡിയ:"
+  },
+  "o_about_support_by_iban": {
+    "message": "ഇബാൻ ഉപയോഗിച്ച് ബാങ്ക് കൈമാറ്റം:"
+  },
+  "ps_no_results": {
+    "message": "പൊരുത്തപ്പെടുന്ന ഫലങ്ങളൊന്നുമില്ല"
+  },
+  "label_no_data": {
+    "message": "ഡാറ്റാ ഇല്ല"
+  },
+  "dark_mode": {
+    "message": "ഇരുണ്ട മോഡ്"
+  },
+  "dark_mode_system": {
+    "message": "സിസ്റ്റം നിയന്ത്രിക്കുന്നു"
+  },
+  "_description_features": {
+    "message": "സവിശേഷതകൾ:"
+  },
+  "_description_why": {
+    "message": "എന്തുകൊണ്ട്?"
+  },
+  "_description_privacy_policy": {
+    "message": "സ്വകാര്യതാനയം"
+  },
+  "_description_recent_features": {
+    "message": "അടുത്തിടെ ചേർത്ത സവിശേഷതകൾ:"
+  },
+  "_description_common_tags": {
+    "message": "ടാഗുകൾ:"
+  },
+  "_description_also_for_firefox": {
+    "message": "നിങ്ങളുടെ ഫയർഫോക്സിനായി ലഭ്യമാണ്:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "നിങ്ങളുടെ തണ്ടർബേർഡിനായി ലഭ്യമാണ്:"
+  }
+}

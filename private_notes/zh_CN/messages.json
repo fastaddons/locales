@@ -1,0 +1,341 @@
+{
+  "_description_feature_1": {
+    "message": ""
+  },
+  "_description_feature_2": {
+    "message": ""
+  },
+  "_description_tags_pn": {
+    "message": ""
+  },
+  "app_name": {
+    "message": "Private Notes"
+  },
+  "app_desc": {
+    "message": ""
+  },
+  "compression_level_0": {
+    "message": ""
+  },
+  "compression_level_1": {
+    "message": ""
+  },
+  "compression_level_2": {
+    "message": ""
+  },
+  "compression_level_info_0": {
+    "message": ""
+  },
+  "compression_level_info_1": {
+    "message": ""
+  },
+  "compression_level_info_2": {
+    "message": ""
+  },
+  "title_notes": {
+    "message": ""
+  },
+  "restore_backup": {
+    "message": ""
+  },
+  "create_new_note": {
+    "message": ""
+  },
+  "auto_locking_strategy_0": {
+    "message": ""
+  },
+  "auto_locking_strategy_1": {
+    "message": ""
+  },
+  "restore_note": {
+    "message": ""
+  },
+  "locked": {
+    "message": ""
+  },
+  "change_master_password": {
+    "message": ""
+  },
+  "import_export": {
+    "message": ""
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "notes_auto_saved_placeholder": {
+    "message": ""
+  },
+  "setup_new_pwd": {
+    "message": ""
+  },
+  "change_pwd": {
+    "message": ""
+  },
+  "pwd_to_change": {
+    "message": ""
+  },
+  "current_pwd": {
+    "message": ""
+  },
+  "new_pwd_advice": {
+    "message": ""
+  },
+  "repeat_pwd": {
+    "message": ""
+  },
+  "hint_pwd": {
+    "message": ""
+  },
+  "pwd_warning": {
+    "message": ""
+  },
+  "remember_pwd_0": {
+    "message": ""
+  },
+  "remember_pwd_1": {
+    "message": ""
+  },
+  "remember_pwd_2": {
+    "message": ""
+  },
+  "pwd_save": {
+    "message": ""
+  },
+  "error_saving_note": {
+    "message": ""
+  },
+  "quota_bytes_per_item": {
+    "message": ""
+  },
+  "quota_bytes": {
+    "message": ""
+  },
+  "max_items": {
+    "message": ""
+  },
+  "max_write_operations_per_hour": {
+    "message": ""
+  },
+  "max_write_operations_per_minute": {
+    "message": ""
+  },
+  "security": {
+    "message": ""
+  },
+  "visual_options": {
+    "message": ""
+  },
+  "compression_level": {
+    "message": ""
+  },
+  "auto_locking_strategy": {
+    "message": ""
+  },
+  "auto_lock_inactive_for": {
+    "message": ""
+  },
+  "dense_notes_list": {
+    "message": ""
+  },
+  "import_replace_all": {
+    "message": ""
+  },
+  "export_encrypted": {
+    "message": ""
+  },
+  "minutes": {
+    "message": ""
+  },
+  "label_font_size": {
+    "message": "字体大小"
+  },
+  "sidebar_size": {
+    "message": ""
+  },
+  "popup_window_width": {
+    "message": ""
+  },
+  "popup_window_height": {
+    "message": ""
+  },
+  "always_open_in_new_tab": {
+    "message": ""
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Chrome 网上应用店页面"
+  },
+  "firefox_store": {
+    "message": "Firefox 附加组件页面"
+  },
+  "import_finished": {
+    "message": "导入已完成！"
+  },
+  "import_error": {
+    "message": "出错"
+  },
+  "import_backup_file": {
+    "message": "导入备份文件$1"
+  },
+  "search_search": {
+    "message": "搜索"
+  },
+  "title_import": {
+    "message": "进口"
+  },
+  "title_export": {
+    "message": "出口"
+  },
+  "title_backups": {
+    "message": ""
+  },
+  "homepage": {
+    "message": "主页"
+  },
+  "addon_page": {
+    "message": "插入页面"
+  },
+  "settings": {
+    "message": ""
+  },
+  "options": {
+    "message": ""
+  },
+  "label_backups": {
+    "message": ""
+  },
+  "label_rename": {
+    "message": ""
+  },
+  "label_download": {
+    "message": ""
+  },
+  "label_delete": {
+    "message": ""
+  },
+  "label_next": {
+    "message": "下一步"
+  },
+  "label_note": {
+    "message": "注释："
+  },
+  "label_remove": {
+    "message": "移除"
+  },
+  "label_warning": {
+    "message": "警告："
+  },
+  "label_default": {
+    "message": "默认："
+  },
+  "label_done": {
+    "message": "完成！"
+  },
+  "label_copied": {
+    "message": "已复制！"
+  },
+  "label_close": {
+    "message": "关闭"
+  },
+  "label_open_page": {
+    "message": "打开页面"
+  },
+  "label_agree": {
+    "message": "同意"
+  },
+  "label_cancel": {
+    "message": "取消"
+  },
+  "op_support_me": {
+    "message": "助力此项目"
+  },
+  "support_developer": {
+    "message": "支持独立开发人员！"
+  },
+  "hello_there": {
+    "message": "你好呀！"
+  },
+  "about_me": {
+    "message": "自2016年以来我是Addon开发人员。我的目标是为您的网络浏览器构建强大的扩展，以使您更富有成效。"
+  },
+  "about_good_job": {
+    "message": "如果你认为我做得很好，请捐赠:)"
+  },
+  "about_income": {
+    "message": "你的捐款是我唯一的收入！"
+  },
+  "about_thanks": {
+    "message": "谢谢你支持我的工作！"
+  },
+  "o_tab_context_menu": {
+    "message": "右键菜单"
+  },
+  "o_tab_about": {
+    "message": "关于"
+  },
+  "o_pixels": {
+    "message": "px"
+  },
+  "o_seconds": {
+    "message": "秒"
+  },
+  "label_or": {
+    "message": "或者"
+  },
+  "o_about_hello": {
+    "message": "您好 :)"
+  },
+  "o_about_intro": {
+    "message": "我的名字是$1$，我是$app_name$的作者。"
+  },
+  "o_about_like_it": {
+    "message": "若您喜欢它，请在此评分："
+  },
+  "o_about_thanks": {
+    "message": "谢谢！"
+  },
+  "o_about_contact": {
+    "message": "联系："
+  },
+  "o_about_issues": {
+    "message": "报告问题："
+  },
+  "o_about_social_media": {
+    "message": "社交媒体："
+  },
+  "o_about_support_by_iban": {
+    "message": "使用IBAN转帐："
+  },
+  "used_space": {
+    "message": "二手空间：$1 / $2"
+  },
+  "ps_no_results": {
+    "message": "无匹配结果"
+  },
+  "label_no_data": {
+    "message": "无数据"
+  },
+  "dark_mode": {
+    "message": "黑暗模式"
+  },
+  "dark_mode_system": {
+    "message": "由系统控制"
+  },
+  "open_in_new_tab": {
+    "message": "在新标签中打开"
+  },
+  "_description_features": {
+    "message": ""
+  },
+  "_description_privacy_policy": {
+    "message": "隐私政策"
+  },
+  "_description_recent_features": {
+    "message": "最近添加的功能："
+  },
+  "_description_common_tags": {
+    "message": "标签："
+  }
+}

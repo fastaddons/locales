@@ -1,0 +1,548 @@
+{
+  "_description_tags_sa": {
+    "message": "hvor som helst, knapp, markør, dra, ta tak i dra, ta tak i og dra, uendelig, venstre, midt, momentum, mus, flytte, side, høyre, bla, rulle siden, rullefelt, rulling, kaste"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Dra ScrollBar med din midt museknapp hvor som helst på siden. Støtter også \"grip og dra\" stil."
+  },
+  "field_set_default": {
+    "message": "Tilbakestill til standard: $1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird add-ons"
+  },
+  "firefox_store": {
+    "message": "Firefox add-ons"
+  },
+  "chrome_store": {
+    "message": "Chrome nettbutikk"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "win_disable": {
+    "message": "Deaktiver på $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Deaktiver horisontal rulling på $1"
+  },
+  "op_visit_home": {
+    "message": "Besøk hjemmeside"
+  },
+  "op_support_me": {
+    "message": "Hjelp dette prosjektet"
+  },
+  "o_title": {
+    "message": "Alternativer - $1."
+  },
+  "o_tab_general": {
+    "message": "Generell"
+  },
+  "o_tab_momentum": {
+    "message": "Momentum."
+  },
+  "o_tab_cursor": {
+    "message": "Markør"
+  },
+  "o_axis_locking": {
+    "message": "Akse låsing"
+  },
+  "o_tab_performance": {
+    "message": "Opptreden"
+  },
+  "o_tab_disabled_on": {
+    "message": "Deaktivert på det"
+  },
+  "o_tab_advanced": {
+    "message": "Avansert"
+  },
+  "o_tab_scrollbars": {
+    "message": "ScrollBars."
+  },
+  "o_tab_backup": {
+    "message": "Import / backup."
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Når du ruller en boks som rulles i en akse, men foreldreboks er rullbar i andre akse, låses rulling til en akse ved hjelp av:"
+  },
+  "o_axis_lock_0": {
+    "message": "Smart Lock - Temporal Lock Bruke Momentum"
+  },
+  "o_axis_lock_1": {
+    "message": "Strenge lås - Instant Retningslås"
+  },
+  "o_axis_lock_2": {
+    "message": "Ingen låsfri rulling i begge aksen"
+  },
+  "o_trend_momentum_window": {
+    "message": "Smart Lock Stack Størrelse"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Større verdi vil kreve mer rulling i motsatt akse for å endre rullingsaksen."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon er deaktivert! Klikk her for å aktivere."
+  },
+  "o_cursor_change_default": {
+    "message": "ingen endring - beste ytelse"
+  },
+  "o_scroll_button": {
+    "message": "Scrollknappen:"
+  },
+  "o_direction_speed": {
+    "message": "Rullestil / retning / hastighet:"
+  },
+  "o_multiplier": {
+    "message": "Multiplikator"
+  },
+  "o_times_speed": {
+    "message": "ganger rullehastighet"
+  },
+  "o_maximum_speed": {
+    "message": "Maksimal rullehastighet (0 - funksjonshemmede):"
+  },
+  "o_ratio_unit": {
+    "message": "ratio (sidelengde / vindusstørrelse)"
+  },
+  "o_scroll_type_0": {
+    "message": "Etterligne ScrollBar."
+  },
+  "o_scroll_type_1": {
+    "message": "Grab og dra - som på en smarttelefon"
+  },
+  "o_scroll_type_2": {
+    "message": "Dynamisk hastighet (eksperimentell)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Det er som å dra en scrollbar"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Det er som å dra en side med fingeren på en telefonskjerm"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Dynamisk hastighet gjør rullehastigheten langsommere når siden er lengre"
+  },
+  "o_disable_key": {
+    "message": "Deaktiver / aktiver rulling når tasten er nede:"
+  },
+  "o_momentum_category": {
+    "message": "Momentum:"
+  },
+  "o_momentum_formula": {
+    "message": "Momentum formel:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Jevnt decelerert bevegelse"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Side Scroll vil være jevnt redusert til den stopper"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Eksponentielt decelerert bevegelse"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Side Scroll vil raskt (eksponentielt) sakte"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Uendelig bevegelse ∞."
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Rulling vil aldri stoppe"
+  },
+  "o_momentum_max_speed": {
+    "message": "Maksimal hastighet (0 - funksjonshemmede):"
+  },
+  "o_page_weight": {
+    "message": "Sidevekt:"
+  },
+  "o_grams": {
+    "message": "gram :)"
+  },
+  "o_additional_speed": {
+    "message": "Tilleggshastighet:"
+  },
+  "o_pixels_second": {
+    "message": "piksler per sekund"
+  },
+  "o_additional_duration": {
+    "message": "Ekstra varighet:"
+  },
+  "o_advanced_momentum": {
+    "message": "Avansert Momentum Setup (kun for eksperter!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Endring av disse verdiene kan ødelegge momentumet ditt!"
+  },
+  "o_compute_from_last": {
+    "message": "Beregne fra sist:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Musstopp deteksjon:"
+  },
+  "o_tracking_speed": {
+    "message": "Sporingshastighet:"
+  },
+  "o_reset_values": {
+    "message": "Tilbakestill verdier"
+  },
+  "o_cursor_scrolling": {
+    "message": "Markøren brukes når du ruller:"
+  },
+  "o_performance": {
+    "message": "Opptreden:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Hindre store hopp"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Hvis du bruker verktøy som kan teleportere markøren over skjermen (når du kommer til en kant), må du aktivere dette alternativet for å tillate kontinuerlig (uendelig) rulling."
+  },
+  "o_advanced": {
+    "message": "Avansert:"
+  },
+  "o_movement_detection": {
+    "message": "Musbevegelsesdeteksjonsterskel:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Hvor mange piksler må musen flytte til Block Link. Noen ganger når du trykker på Scroll-knappen, beveger du musen litt, men du vil ikke at lenken skal deaktiveres på grunn av det."
+  },
+  "o_context_menu_block": {
+    "message": "Kontekstmenyblokk:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Unblock kontekstmenyforsinkelse"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Hvis du ser kontekstmeny etter å ha rullet med høyre museknapp, øker denne verdien"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Deaktiver horisontal rulling på domener:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Deaktivert på Domener:"
+  },
+  "o_is_disabled_url": {
+    "message": "Deaktivert på sider / undersider:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Du kan bruke Star-symbolet (*) for å definere en URL-del, for eksempel: \"Google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Skriv inn ett domene per linje."
+  },
+  "o_is_disabled": {
+    "message": "Deaktiver tillegg"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Bruk verktøylinjeikonet som hovedbryteren"
+  },
+  "o_scroll_button_middle": {
+    "message": "Midtknappen"
+  },
+  "o_scroll_button_right": {
+    "message": "Høyre knapp"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Mac-brukere - Du blir bedt om ny tillatelse \"Les og modifiser nettleserinnstilling\" - Dette kreves for å undertrykke kontekstmenyen som vises før rulling!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac-brukere - Din kontekstmeny vil bli blokkert! For å åpne kontekstmenyen Hold \"Shift\" -tasten eller Triple-Click Høyre-knappen."
+  },
+  "o_scroll_button_left": {
+    "message": "Venstre knapp (eksperimentell)"
+  },
+  "o_scroll_on_links": {
+    "message": "Rull på lenker"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Når aktivert, vil du ikke kunne dra og slippe koblinger (bare ved å bruke \"Deaktiver\" -tasten)"
+  },
+  "o_scroll_on_text": {
+    "message": "Rull på TEXT"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emulerer telefonrulling / redigering - Du må klikke på tekst for å bytte til \"Redigeringsmodus\". Hvis du klikker utenfor teksten, gjør det mulig å rulle på nytt."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Rull på TEXTAREA."
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Tekstarea er en blokk med tekst, vanligvis resizable. For eksempel på \"deaktivert på\" -fanen kan du se Tekstarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Rull på Redigerbar HTML"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "For eksempel er e-postkroppen i Gmail Redigerbar HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "på tekst vil aktivere valg / redigering av tekst."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Klikk på Tekst vil aktivere \"Rediger modus\". Klikk på utenfor tekst for å aktivere \"Scroll Mode\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Enkelt klikk"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Dobbeltklikk"
+  },
+  "o_scrollbars_width": {
+    "message": "ScrollBars Look."
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normal (ingen endring)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Tynn"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Gjemt"
+  },
+  "o_scrollbars_color": {
+    "message": "ScrollBar Slider Farge:"
+  },
+  "o_scrollbars_background": {
+    "message": "ScrollBar bakgrunnsfarge:"
+  },
+  "o_reverse": {
+    "message": "Omvendt rulle retning"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Skifte"
+  },
+  "o_disable_ctrl": {
+    "message": "CTRL."
+  },
+  "o_disable_type_0": {
+    "message": "Deaktiver når nøkkelen er nede:"
+  },
+  "o_disable_type_1": {
+    "message": "Aktiver når nøkkelen er nede:"
+  },
+  "o_momentum": {
+    "message": "aktiver momentum - du kan \"kaste\" siden (som på telefon)"
+  },
+  "o_no_css_edit": {
+    "message": "Ikke lås iFrames og ikke endre markøren når du ruller"
+  },
+  "o_no_prevent_default": {
+    "message": "Ikke blokkere standard knapp handling"
+  },
+  "o_auto_link_lock": {
+    "message": "Lenker blokkering:"
+  },
+  "o_no_link_block": {
+    "message": "Ikke blokkere musen Klikk på Link etter bevegelse"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Når du begynner å rulle på en lenke, og du er ferdig med å bla på samme lenke, vil nettleseren åpne lenken. Dette er vanligvis ikke ønsket atferd, slik at den er blokkert."
+  },
+  "o_page_weight_title": {
+    "message": "Dette styrer hvordan \"tung\" siden er. Tyngre sider har lengre momentum."
+  },
+  "o_additional_speed_title": {
+    "message": "Du kan akselerere momentum angående hastighet."
+  },
+  "o_additional_duration_title": {
+    "message": "Ekstra tid for hvert momentum."
+  },
+  "o_compute_from_last_title": {
+    "message": "Momentums førstehastighet bestemmes av hastigheten på rulling rett før du slipper rulleknappen."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Hvor mye tid må musen stå stille - før du slipper rulleknappen - for ikke å aktivere momentum."
+  },
+  "o_tracking_speed_title": {
+    "message": "Intervall for måling av nåværende rullehastighet."
+  },
+  "o_scrolling_area": {
+    "message": "Rullingsområde:"
+  },
+  "o_outside_area_width": {
+    "message": "Rullingsområde (0 - funksjonshemmede):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Flytte markøren utenfor rullingsområdet vil gå tilbake i rullingsposisjonen. Samme oppførsel kan ses når du drar en rullefelt."
+  },
+  "o_scroll_button_left_title": {
+    "message": "Advarsel - Venstre Knappstøtte bruker utdatert Firefox API som kan fjernes i fremtidige versjoner av Firefox."
+  },
+  "o_prevent_text_selection": {
+    "message": "Forhindre tekstvalg når du ruller med venstre knapp"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "På enkelte enheter vil Rulling med venstre museknapp også velge tekst på siden."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Ikke blokkér kontekstmenyen når du prøver å bla ikke-rullbar side"
+  },
+  "o_backup_restore": {
+    "message": "Sikkerhetskopierings- / gjenopprettingsinnstillinger til fil:"
+  },
+  "o_export_settings": {
+    "message": "Eksporter innstillinger til en fil"
+  },
+  "import_settings_button": {
+    "message": "Importer innstillinger fra $1 Fil ..."
+  },
+  "import_finished": {
+    "message": "Import ferdig!"
+  },
+  "test_page_title": {
+    "message": "Test dine rullingsinnstillinger her"
+  },
+  "menu_options": {
+    "message": "Alternativer"
+  },
+  "menu_visit_title": {
+    "message": "Besøk hjemmeside"
+  },
+  "not_working": {
+    "message": "Deaktivert av din nettleser"
+  },
+  "disabled_by_user": {
+    "message": "Deaktivert på dette domenet"
+  },
+  "not_working_title": {
+    "message": "Nettleseren din vil blokkere Scrollanywhere på denne typen sider:"
+  },
+  "not_working_body": {
+    "message": "For å aktivere Scrollanywhere på \"Mozilla.org\" -sider, se denne YouTube-opplæringen"
+  },
+  "show_scrollbars": {
+    "message": "Vis rullebjelker"
+  },
+  "show_scrollbars_title": {
+    "message": "Vis midlertidig rullebjelker"
+  },
+  "switch_on_off": {
+    "message": "Bytt tillegg på / på"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Hvis du opplever merkbar forsinkelse mellom å trykke på Scroll-knappen og starte rulling, kan du prøve å aktivere dette alternativet. Men du vil ikke kunne rulle over \"iframes\" som noen gamle innebygde videoer eller noen annonser."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Dette vil også deaktivere alternativet for å endre markøren mens du ruller."
+  },
+  "o_helper_text_default_action": {
+    "message": "Nyttig i Linux for å aktivere pasta med midtknapp."
+  },
+  "o_about_hello": {
+    "message": "Hallo :)"
+  },
+  "o_about_intro": {
+    "message": "Mitt navn er $1$ og jeg er forfatteren av $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Hvis du liker det, vennligst vurder det her:"
+  },
+  "o_about_dislike_it": {
+    "message": "Hvis du ikke liker det, vennligst gi meg beskjed om hvorfor til min e-post. Jeg implementerer de fleste funksjonsforespørsler jeg mottar."
+  },
+  "o_disabled": {
+    "message": "funksjonshemmet",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "aktivert",
+    "common": true
+  },
+  "o_times": {
+    "message": "tider",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "piksler",
+    "common": true
+  },
+  "o_items": {
+    "message": "elementer",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "millisekunder",
+    "common": true
+  },
+  "label_working": {
+    "message": "jobber...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Lukk",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Vennligst vurder å støtte mitt arbeid av",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donasjon (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "blir min beskytter",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Takk skal du ha!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "hjem:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Ta kontakt med:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Rapporter problemer:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Jeg kan bare svare på engelsk / slovakisk",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sosiale medier:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Lagre endringer og lukk",
+    "common": true
+  },
+  "o_saved": {
+    "message": "lagret!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Kommer snart",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Lagre endringer",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Personvernregler",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Nylig lagt funksjoner:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

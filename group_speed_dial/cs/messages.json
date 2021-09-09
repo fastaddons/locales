@@ -1,0 +1,2543 @@
+{
+  "app_name": {
+    "message": "Group Speed Dial"
+  },
+  "app_desc": {
+    "message": "SpeedDial (vizuální záložky) s podporou skupin. Synchronizace mezi zařízeními zadarmo. Žádné reklamy!"
+  },
+  "welcome_header": {
+    "message": "Vítejte v $app_name$ rozšíření"
+  },
+  "welcome_setup": {
+    "message": ""
+  },
+  "welcome_watch_video": {
+    "message": "Podívej se na krátké video (1:50) kde ukazuji základní funkce (anglicky)"
+  },
+  "welcome_watch_android_video": {
+    "message": "Podívej se na video návod pro Android."
+  },
+  "welcome_home_group": {
+    "message": "Aktuální skupina \"Domov\" má 4 x 3 dlaždic. Tyto rozměry můžeš změnit zde:"
+  },
+  "welcome_import_josep_del_rio": {
+    "message": "Zde je možnost importu nastavení z \"Speed Dial by Josep del Rio\" a jiných rozšíření na stránce Možnosti:"
+  },
+  "welcome_options_page": {
+    "message": "Možnosti"
+  },
+  "welcome_pick_color": {
+    "message": "Vyber si barevné schéma:"
+  },
+  "welcome_visuals": {
+    "message": "Pro více nastavení navštiv stránku Možnosti"
+  },
+  "import_settings_button": {
+    "message": "Import nastavení a dlaždic..."
+  },
+  "import_josep_button": {
+    "message": "Import \"CurrentSettings.speeddial\" souboru..."
+  },
+  "import_firefox_button": {
+    "message": "Import \"bookmarks-2017-XX-XX.json\" souboru..."
+  },
+  "import_fast_dial_button": {
+    "message": "Importovat \"fastdial.json\" soubor..."
+  },
+  "import_super_start_button": {
+    "message": "Importovat \"sites.v1.json\" soubor..."
+  },
+  "import_speed_dial_2_button": {
+    "message": "Importovat \"libovolné_jméno\" soubor..."
+  },
+  "import_done_text": {
+    "message": "Externí dlaždice byly importované"
+  },
+  "import_skip": {
+    "message": "Neimportovat cokoliv"
+  },
+  "import_pages_stats": {
+    "message": "Import $1 stránek v $2 skupinách"
+  },
+  "import_data_from": {
+    "message": "Importovat data z:"
+  },
+  "load_bookmarks": {
+    "message": "Nahrát záložky"
+  },
+  "load_top_pages": {
+    "message": "Nahrát často používané stránky"
+  },
+  "group_generated_name": {
+    "message": "Skupina $1"
+  },
+  "default_home_group_name": {
+    "message": "Domácí skupina"
+  },
+  "drag_group_hover_open": {
+    "message": "Otevřít skupinu"
+  },
+  "replace_dial": {
+    "message": "Nahradit dlaždici"
+  },
+  "replace_duplicate_dial": {
+    "message": "Kopírovat dlaždici - klepnout pro aktualizaci náhledu"
+  },
+  "create_multi_page_dial": {
+    "message": "Vytvořit vícestránkovou dlaždici"
+  },
+  "replace_multi_page_dial": {
+    "message": "Nahradit vícestránkovou dlaždici"
+  },
+  "msg_pro_cloud_upload": {
+    "message": "Nahrávání náhledů do cloudu - toto umožní je vidět v webové verzi"
+  },
+  "msg_pro_cloud_web": {
+    "message": "Webová stránka cloud-dials"
+  },
+  "msg_pro_cloud_web_desc": {
+    "message": "Cloudová verze není momentálně upravitelná, ale funguje v každém webovém prohlížeči - dokonce i v Tvém telefonu!"
+  },
+  "msg_pro_same_thumbnails": {
+    "message": "Teď můžeš mít stejné náhledy v každém zařízení!"
+  },
+  "msg_pro_thumbnails_download": {
+    "message": "Tato funkce stáhne náhledy, které jsi předtím nahrál do cloudu a nahradí aktuální."
+  },
+  "msg_correct_account": {
+    "message": "Navštiv prosím cloud server a ujisti se, že jsi přihlášený ve správném účtu:"
+  },
+  "msg_replace_text": {
+    "message": "Alternativně můžeš nahradit svoje lokální dlaždice."
+  },
+  "url_search": {
+    "message": "URL / Hledání"
+  },
+  "msg_search_by": {
+    "message": "Hledat podle:"
+  },
+  "msg_search_tip": {
+    "message": "Tip: přidej si poznámky k dlaždicím pro lepší hledání"
+  },
+  "msg_search_url": {
+    "message": "URL"
+  },
+  "msg_search_name": {
+    "message": "Jméno"
+  },
+  "msg_search_note": {
+    "message": "Poznámka"
+  },
+  "msg_add_dial_text": {
+    "message": "Můžeš také navigovat mezi skupinami, přesouvat a mazat existující dlaždice."
+  },
+  "msg_add_dial_no_show": {
+    "message": "Znovu nezobrazovat"
+  },
+  "msg_add_dials_here": {
+    "message": "Vložit do prázdné dlaždice"
+  },
+  "add_target_dial": {
+    "message": "Vyber prázdnou dlaždici pro tuto stránku:"
+  },
+  "add_target_dials": {
+    "message": "Vytvořit novou prázdnou skupinu nebo vybrat $1 dlaždice"
+  },
+  "add_image": {
+    "message": "Vložit obrázek"
+  },
+  "bc_first_group": {
+    "message": "První skupina vytvořena"
+  },
+  "show_all_groups": {
+    "message": "Zobrazit všechny skupiny"
+  },
+  "fr_home_group": {
+    "message": "Domů"
+  },
+  "err_db_settings_loading": {
+    "message": "Chyba během načítání nastavení a databáze"
+  },
+  "err_db_creation": {
+    "message": "Chyba během vytváření databáze"
+  },
+  "err_db_loading": {
+    "message": "Chyba načítání databáze"
+  },
+  "err_db_images": {
+    "message": "Chyba načítání obrázků z databáze"
+  },
+  "sync_synced_ok": {
+    "message": "synchronizované se serverem"
+  },
+  "sync_working": {
+    "message": "pracuji..."
+  },
+  "sync_syncing": {
+    "message": "Probíhá synchronizace"
+  },
+  "sync_synced": {
+    "message": "synch."
+  },
+  "sync_sync_ok": {
+    "message": "Úspěšně synchronizované"
+  },
+  "sync_err_label": {
+    "message": "error $1 - zkus to později"
+  },
+  "sync_err_conflict": {
+    "message": "konflikt"
+  },
+  "sync_err_server_newer": {
+    "message": "Server obsahuje novější verzi"
+  },
+  "sync_err_user_mismatch_": {
+    "message": "nesprávný uživatel"
+  },
+  "sync_err_wrong_account": {
+    "message": "Tato verze patří do jiného účtu."
+  },
+  "sync_err_not_empty": {
+    "message": "chyba - není prázdný"
+  },
+  "sync_err_server_not_empty": {
+    "message": "Server už obsahuje nějaká data"
+  },
+  "sync_err_forbidden": {
+    "message": "Nemáš přístup k tomuto zdroji"
+  },
+  "sync_downloading": {
+    "message": "stahování..."
+  },
+  "sync_down_thumbnails": {
+    "message": "stahování náhledů"
+  },
+  "sync_down_thumbnails_progress": {
+    "message": "stahování $1 / $2"
+  },
+  "sync_down_thumbnails_wait": {
+    "message": "stahování náhledů, prosím čekej"
+  },
+  "sync_up": {
+    "message": "nahrávání..."
+  },
+  "sync_up_sync_thumbnails": {
+    "message": "synchronizují se náhledy... příprava na nahrání"
+  },
+  "sync_up_progress": {
+    "message": "nahrávání $1 / $2"
+  },
+  "sync_up_wait": {
+    "message": "nahrávám náhledy, prosím čekej"
+  },
+  "sync_thumbnails_progress": {
+    "message": "synchronizují se náhledy... $1 / $2"
+  },
+  "add_page": {
+    "message": "Přidat tuto stránku do dlaždic"
+  },
+  "add_dial": {
+    "message": "Přidat tuto kartu do dlaždic"
+  },
+  "add_link": {
+    "message": "Přidat tento odkaz do dlaždice"
+  },
+  "use_image_as_thumbnail": {
+    "message": "Použít tento obrázek jako náhled dlaždice"
+  },
+  "cm_choose_dial": {
+    "message": "Zvolte cílovou kartu"
+  },
+  "return_to_tab": {
+    "message": "Vrátit se do záložky"
+  },
+  "stay_here": {
+    "message": "Zůstat zde"
+  },
+  "close_added_pages": {
+    "message": "Zavřít přidané stránky"
+  },
+  "close_this_tab": {
+    "message": "Zavřít tuto záložku"
+  },
+  "group_first_created": {
+    "message": "První skupina vytvořena"
+  },
+  "privacy_info_head": {
+    "message": "Tento doplněk umožňuje synchronizovat vaše dlaždice s cloudem na $1"
+  },
+  "privacy_info_body_1": {
+    "message": "Pokud si zde vytvoříte účet, vaše dlaždice budou synchronizované s tímto serverem. Přenášená data obsahují pouze základní informace (vložené vámi) o dlaždicích - jako je název, adresa, atd... Žádná data o aktivitě uživatele ani statistiky neexistují!"
+  },
+  "privacy_info_body_2": {
+    "message": "Bez cloudového účtu, tento doplněk nebude odesílat žádná data na žádný server. Pokud povolíte stahování Favicon ikonek z Google služby (na stránce s nastavením), ikonky se budou stahovat ze serveru Google. Používáním volitelných funkcí spojených s cloudem (například náhledy z veřejné knihovny) budou data stahovaná z cloudu. Tato data neobsahují žádné soukromé informace."
+  },
+  "field_size_range": {
+    "message": "Hodnota musí být mezi $1 a $2"
+  },
+  "field_zoom_range": {
+    "message": "Přiblížení musí být mezi $1 a $2"
+  },
+  "field_scale_range": {
+    "message": "Měřítko musí být mezi $1 a $2"
+  },
+  "field_out_of_range": {
+    "message": "Mimo rozsah"
+  },
+  "file_load_label": {
+    "message": "Načíst ze souboru..."
+  },
+  "file_loaded_name": {
+    "message": "Načtený soubor: $1"
+  },
+  "image_err_loading": {
+    "message": "Chyba při načítaní obrázku"
+  },
+  "field_hours_range": {
+    "message": "Hodiny musí být mezi $1 a $2"
+  },
+  "field_minutes_range": {
+    "message": "Minuty musí být mezi $1 a $2"
+  },
+  "field_columns_range": {
+    "message": "Počet sloupců musí byt mezi $1 a $2"
+  },
+  "field_rows_range": {
+    "message": "Počet řádků musí být mezi $1 a $2"
+  },
+  "validation_url": {
+    "message": "Zadej správný odkaz"
+  },
+  "save_dial_edited": {
+    "message": "dlaždice editovaná - $1"
+  },
+  "save_dials_added_to_group": {
+    "message": "Více dlaždic vloženo do skupiny - $1"
+  },
+  "save_dial_moved": {
+    "message": "dlaždice posunutá - $1"
+  },
+  "save_dial_resized": {
+    "message": "velikost dlaždice změněna - $1"
+  },
+  "save_group_rc_color": {
+    "message": "barva skupinového řádku/sloupce byla změněna"
+  },
+  "save_group_moved": {
+    "message": "skupina přesunuta - $1"
+  },
+  "save_dial_names_saved": {
+    "message": "nová jména pro dlaždice uložena - $1"
+  },
+  "save_dials_sorted": {
+    "message": "seřazení dlaždic ve skupině: $1"
+  },
+  "save_thumbnail_uploaded": {
+    "message": "obrázek nahraný - $1"
+  },
+  "save_public_thumbnail_uploaded": {
+    "message": "veřejný obrázek nahraný - $1"
+  },
+  "save_productivity_selection_changed": {
+    "message": ""
+  },
+  "err_db_err_title": {
+    "message": "Chyba :("
+  },
+  "save_dial_removed": {
+    "message": "dlaždice vymazaná - $1"
+  },
+  "field_position_range": {
+    "message": "Skupina musí mít umístění mezi $1 a $2"
+  },
+  "field_ratio_x_range": {
+    "message": "Poměr X musí být mezi $1 a $2"
+  },
+  "field_ratio_y_range": {
+    "message": "Poměr Y musí být mezi $1 a $2"
+  },
+  "validation_small_group_dimensions": {
+    "message": "Tato skupina už obsahuje $1 dlaždic. Přidej řádky nebo sloupce aby se všechny vešly."
+  },
+  "save_group_edited": {
+    "message": "skupina editovaná - Skupina: $1"
+  },
+  "group_delete_title": {
+    "message": "Smazání skupiny \"$1\", s dlaždicemi"
+  },
+  "group_delete_body": {
+    "message": "Skutečně chceš smazat tuto skupinu a všechny dlaždice?"
+  },
+  "group_delete_yes": {
+    "message": "Ano"
+  },
+  "group_delete_no": {
+    "message": "Ne, nemazat"
+  },
+  "save_group_deleted": {
+    "message": "skupina smazaná - Skupina: $1"
+  },
+  "cm_shortcut_title": {
+    "message": "Klávesová zkratka: $1"
+  },
+  "cm_open_new_tab": {
+    "message": "Otevřít v nové záložce"
+  },
+  "cm_new_tab_in_container": {
+    "message": "Otevřít v kontajneru"
+  },
+  "firefox_containers_about": {
+    "message": "O Kontajnerech ve Firefoxu"
+  },
+  "cm_open_all_new": {
+    "message": "Otevřít všechny dlaždice - v nových záložkách"
+  },
+  "cm_open_all_replace": {
+    "message": "Otevřít všechny dlaždice - nahradit záložky"
+  },
+  "cm_replace_existing_title": {
+    "message": "Nahradí existující záložky s dlaždicemi z této skupiny"
+  },
+  "cm_edit_dial": {
+    "message": "Upravit dlaždici"
+  },
+  "cm_create_dial": {
+    "message": "Vytvořit novou dlaždici"
+  },
+  "cm_copy_link": {
+    "message": "Kopírovat adresu odkazu"
+  },
+  "cm_move_dial": {
+    "message": "Přesunout kartu"
+  },
+  "cm_move_dial_to": {
+    "message": "Přesunout do skupiny"
+  },
+  "cm_cut_dial": {
+    "message": "Vyjmout kartu"
+  },
+  "cm_copy_dial": {
+    "message": "Zkopírovat kartu"
+  },
+  "cm_paste_dial": {
+    "message": "Vložit kartu"
+  },
+  "cm_paste_swap_dial": {
+    "message": "Vložit (sloučit) kartu"
+  },
+  "cm_paste_replace_dial": {
+    "message": "Vložit (přepsat) kartu"
+  },
+  "convert_to_multi": {
+    "message": "Konvertovat na vícestránkovou dlaždici"
+  },
+  "add_to_multi": {
+    "message": "Přidat do vícestránkové dlaždice"
+  },
+  "cm_insert_up": {
+    "message": "Vložit výše"
+  },
+  "cm_insert_left": {
+    "message": "Vložit vlevo"
+  },
+  "cm_insert_right": {
+    "message": "Vložit vpravo"
+  },
+  "cm_insert_down": {
+    "message": "Vložit níže"
+  },
+  "cm_drop_replace": {
+    "message": "Nahradit dlaždici"
+  },
+  "cm_drop_copy_replace": {
+    "message": "Zkopírovat a nahradit dlaždici"
+  },
+  "cm_drop_swap": {
+    "message": "Vyměnit dlaždice (výchozí)"
+  },
+  "cm_clear_dial": {
+    "message": "Vymazat dlaždici"
+  },
+  "cm_refresh_dial": {
+    "message": "Obnovit náhled"
+  },
+  "cm_refresh_image_here": {
+    "message": "Obnovit náhled zde"
+  },
+  "cm_plus_delay": {
+    "message": "+$1s"
+  },
+  "cm_plus_delay_title": {
+    "message": "Čekat $1 sekundu po načtení stránky před vytvořením náhledu"
+  },
+  "cm_btn_big": {
+    "message": "Velký"
+  },
+  "cm_bigger_title": {
+    "message": "Vygeneruj větší náhled"
+  },
+  "cm_refresh_visit": {
+    "message": "Obnovit navštívením stránky"
+  },
+  "cm_btn_left": {
+    "message": "Vlevo"
+  },
+  "cm_btn_left_title": {
+    "message": "Zarovnat náhled vlevo (standardně je střed)"
+  },
+  "cm_group_open_new_tab": {
+    "message": "Otevřít v nové záložce"
+  },
+  "cm_edit_group": {
+    "message": "Upravit skupinu"
+  },
+  "cm_create_new_group": {
+    "message": "Vytvořit novou skupinu"
+  },
+  "cm_sort_by": {
+    "message": "Třídit podle"
+  },
+  "sort_by_name": {
+    "message": "Jméno"
+  },
+  "sort_by_note": {
+    "message": "Poznámka"
+  },
+  "sort_by_url": {
+    "message": "URL"
+  },
+  "sort_by_date": {
+    "message": "Datum vytvoření"
+  },
+  "sort_by_remove_empty_dials": {
+    "message": "Vymazat prázdné dlaždice"
+  },
+  "resize_dial": {
+    "message": "Změnit velikost"
+  },
+  "resize_dial_normal": {
+    "message": "Normální"
+  },
+  "resize_dial_v_half": {
+    "message": "Svislá polovina"
+  },
+  "resize_dial_h_half": {
+    "message": "Horizontální polovina"
+  },
+  "resize_dial_small": {
+    "message": "Malé"
+  },
+  "resize_dial_tiny": {
+    "message": "Drobné"
+  },
+  "resize_dial_micro": {
+    "message": "Mikro"
+  },
+  "rc_color": {
+    "message": "Barva Sloupce / Řádku"
+  },
+  "row_color": {
+    "message": "Barva řádku"
+  },
+  "col_color": {
+    "message": "Barva sloupce"
+  },
+  "cm_refresh_dials": {
+    "message": "Obnovit dlaždice"
+  },
+  "cm_change_thumbnail": {
+    "message": "Změnit náhled"
+  },
+  "cm_refresh_dial_background": {
+    "message": "Obnovit náhled na pozadí"
+  },
+  "cm_advanced": {
+    "message": "Pokročilé"
+  },
+  "cm_legacy_features": {
+    "message": "Staré funkce (nepoužívat)"
+  },
+  "cm_restore_previous_thumbnail": {
+    "message": "Obnovit předchozí náhled"
+  },
+  "cm_public_upload": {
+    "message": "Nahrát náhled do veřejné knihovny"
+  },
+  "cm_synchronize_thumbnails": {
+    "message": "Synchronizovat náhledy s cloudem"
+  },
+  "cm_user_consent_google_favicon": {
+    "message": "Stáhnout ikonky pomocí Google služby"
+  },
+  "cm_remove_group": {
+    "message": "Vymazat skupinu"
+  },
+  "cm_upload_thumbnails": {
+    "message": "Nahrát náhledy"
+  },
+  "cm_upgrade_pro": {
+    "message": "Zakoupit Pro verzi"
+  },
+  "cm_pro_only": {
+    "message": "Jen v Pro verzi"
+  },
+  "save_group_created": {
+    "message": "Nová skupina vytvořena"
+  },
+  "refresh_all_title": {
+    "message": "Obnovit všechny náhledy"
+  },
+  "refresh_ok": {
+    "message": "Obnovit náhledy"
+  },
+  "refresh_all": {
+    "message": "Všechny náhledy"
+  },
+  "refresh_method": {
+    "message": "Metoda obnovy náhledu:"
+  },
+  "refresh_this_group": {
+    "message": "Všechny v této skupině"
+  },
+  "refresh_missing": {
+    "message": "Pouze chybějící náhledy"
+  },
+  "refresh_group_dials": {
+    "message": "Všechny skupinové dlaždice"
+  },
+  "refresh_auto_reload": {
+    "message": "Automatické obnovení dlaždice povoleno"
+  },
+  "pro_upgrade_label": {
+    "message": "Zakoupit Pro verzi"
+  },
+  "pro_upgrade_now_label": {
+    "message": "Nyní zakoupit Pro verzi"
+  },
+  "sync_down_thumbnails_title": {
+    "message": "Stahování náhledů"
+  },
+  "sync_download_cloud_question": {
+    "message": "Skutečně chceš stáhnout náhledy z cloudu?"
+  },
+  "sync_download_cloud_question_2": {
+    "message": "Toto přepíše tvoje současné lokální náhledy."
+  },
+  "sync_download_yes": {
+    "message": "Ano, stáhnout"
+  },
+  "sync_download_no": {
+    "message": "Ne"
+  },
+  "sync_conflict": {
+    "message": "Synchronizační konflikt"
+  },
+  "sync_conflict_body": {
+    "message": "Na serveru je novější verze ale ty máš nějaké neuložené lokální změny."
+  },
+  "sync_conflict_body_2": {
+    "message": "Chceš nahradit svoji lokální verzi?"
+  },
+  "sync_conflict_replace_local": {
+    "message": "Nahradit lokální verzi"
+  },
+  "sync_conflict_replace_server": {
+    "message": "Nahradit na serveru"
+  },
+  "sync_err_account_title": {
+    "message": "Tvoje verze dat je asociovaná s jiným účtem."
+  },
+  "sync_err_account_replace_local": {
+    "message": "Přepsat lokální"
+  },
+  "sync_err_account_replace_cloud": {
+    "message": "Přepsat v cloudu"
+  },
+  "sync_err_account_retry": {
+    "message": "Znovu"
+  },
+  "sync_not_empty_title": {
+    "message": "V cloudu už jsou nějaké dlaždice"
+  },
+  "sync_not_empty_replace_local": {
+    "message": "Nahradit lokální"
+  },
+  "sync_not_empty_replace_cloud": {
+    "message": "Nahradit v cloudu"
+  },
+  "sync_not_empty_replace_retry": {
+    "message": "Zkusit znovu"
+  },
+  "sync_changed_account": {
+    "message": "Jiný účet je aktivní"
+  },
+  "sync_changed_account_body": {
+    "message": "Nyní jste přihlášení k jinému účtu."
+  },
+  "login_login_create": {
+    "message": "Přihlásit se / Vytvořit účet"
+  },
+  "history_title": {
+    "message": "Zálohy / Historie"
+  },
+  "history_restore": {
+    "message": "Obnovit označené"
+  },
+  "history_loading": {
+    "message": "Nahrávání historie..."
+  },
+  "history_cancel": {
+    "message": "Zrušit"
+  },
+  "history_revert_dials": {
+    "message": "Pokud chcete vaše dlaždice vrátit zpět, použijte funkci $1."
+  },
+  "save_history_restored": {
+    "message": "data obnovené z historie"
+  },
+  "search_title": {
+    "message": "Hledat dlaždici"
+  },
+  "unexpected_title": {
+    "message": "Nastala nečekaná chyba!"
+  },
+  "unexpected_solution": {
+    "message": "Klikni sem pro znovu načtení doplňku (pokud to nepomůže, zkus restartovat prohlížeč nebo PC)."
+  },
+  "unexpected_body": {
+    "message": "Prosím, pošli mi následující chybovou hlášku na můj e-mail:"
+  },
+  "unexpected_thanks": {
+    "message": "Děkuji"
+  },
+  "unexpected_close": {
+    "message": "Zavřít"
+  },
+  "err_mutable_title": {
+    "message": "Chyba načítání databáze kvůli vypnuté Historii ve Vašem prohlížeči."
+  },
+  "err_mutable_body": {
+    "message": "Potřebuješ nastavit \"Pamatovat si historii prohlížení\" ve Firefox / Možnosti / Soukromí a bezpečnost."
+  },
+  "err_is_firefox_bug": {
+    "message": "Toto je chyba prohlížeče Firefox."
+  },
+  "err_error_details": {
+    "message": "Detail chyby:"
+  },
+  "login_login_title": {
+    "message": "Přihlásit se pro zapnutí synchronizace s cloudem a pro přístup ke cloud-dials"
+  },
+  "menu_refresh_all": {
+    "message": "Obnovit všechno ve skupině / všechny chybějící (po synchronizaci) / všechny skupinové dlaždice"
+  },
+  "menu_history_title": {
+    "message": "Otevřít okno kde můžete spravovat vaší historii/zálohy."
+  },
+  "menu_pro_upload": {
+    "message": "Pouze v Pro verzi - Nahrání náhledů do cloudu umožní je mít k dispozici na Cloud-dials webové stránce (včetně tvého telefonu!)"
+  },
+  "menu_pro_download": {
+    "message": "Pouze v Pro verzi - Stáhnutí náhledů z cloudu nahradí současné lokální náhledy."
+  },
+  "menu_page_to_dial": {
+    "message": "Přidat tuto stránku do dlaždic"
+  },
+  "menu_pages_to_dial": {
+    "message": "Přidat $1 záložky do dlaždic"
+  },
+  "menu_cloud_dials": {
+    "message": "Cloud-dials"
+  },
+  "menu_dials_page": {
+    "message": "Menu stránky dlaždic"
+  },
+  "keys_ctrl_shift_f": {
+    "message": "Ctrl + Shift + F"
+  },
+  "ed_edit_dial": {
+    "message": "Upravit dlaždici:"
+  },
+  "ed_tab_general": {
+    "message": "Všeobecné"
+  },
+  "ed_auto_reload": {
+    "message": "Auto-obnova"
+  },
+  "ed_crop_scale": {
+    "message": "Ořezat / Škálovat"
+  },
+  "screen_width": {
+    "message": "Šířka"
+  },
+  "screen_height": {
+    "message": "Výška"
+  },
+  "ed_tab_thumbnail": {
+    "message": "Náhled"
+  },
+  "ed_tab_visual": {
+    "message": "Vizuální"
+  },
+  "ed_tab_settings": {
+    "message": "Možnosti"
+  },
+  "ed_dial_title": {
+    "message": "Název dlaždice:"
+  },
+  "ed_dial_note": {
+    "message": "Poznámka:"
+  },
+  "ed_link_to_page": {
+    "message": "Odkaz na stránku:"
+  },
+  "ed_create_new_group": {
+    "message": "Odkázat na novou skupinu:"
+  },
+  "ed_group_name": {
+    "message": "Název:"
+  },
+  "ed_columns": {
+    "message": "Sloupce:"
+  },
+  "ed_rows": {
+    "message": "Řádky:"
+  },
+  "ed_link_to_group": {
+    "message": "Odkaz na existující skupinu:"
+  },
+  "ed_page_dial": {
+    "message": "Dlaždice webové stránky"
+  },
+  "ed_group_dial": {
+    "message": "Skupinová dlaždice:"
+  },
+  "ed_text_dial": {
+    "message": "Textová dlaždice"
+  },
+  "ed_search_dial": {
+    "message": "Vyhledávací dlaždice"
+  },
+  "ed_multi_dial": {
+    "message": "Vícestránková dlaždice:"
+  },
+  "ed_live_dial": {
+    "message": "Živá dlaždice:"
+  },
+  "ed_live_dial_title_1": {
+    "message": "Živé dlaždice jsou živé webové stránky načtené přímo do dlaždice."
+  },
+  "ed_live_dial_title_2": {
+    "message": "Ne všechny webové stránky můžou být načteny do živé dlaždice, ale většina stránek bude fungovat."
+  },
+  "page_name": {
+    "message": "Jméno"
+  },
+  "search_provider_name": {
+    "message": "Jméno"
+  },
+  "search_provider_url": {
+    "message": "URL"
+  },
+  "search_provider_icon": {
+    "message": "Ikona"
+  },
+  "search_provider_name_placeholder": {
+    "message": "Vložit jméno poskytovatele hledání"
+  },
+  "search_provider_url_placeholder": {
+    "message": "Vložit vyhledávací URL - musí obsahovat $1"
+  },
+  "search_provider_url_info": {
+    "message": "Podívejte se na video tutorial jak vytvořit vyhledávací URL"
+  },
+  "search_add_more": {
+    "message": "přidat více poskytovatelů hledání"
+  },
+  "search_add_more_title": {
+    "message": "Můžete mít více vstupů hledání v jedné dlaždici."
+  },
+  "search_provider_tip": {
+    "message": "Stiskněte \"Enter\" pro vyhledání nebo \"CTRL + Enter\" pro otevření hledání v Nové záložce"
+  },
+  "multi_dial_import": {
+    "message": "Importovat odkazy z textu"
+  },
+  "multi_dial_import_help_0": {
+    "message": "Vložte jeden odkaz na řádek."
+  },
+  "multi_dial_import_help_1": {
+    "message": "Pokud chcete odkaz pojmenovat, umístěte název na řádek nad odkazem a přidejte před něj znak \"$1\"."
+  },
+  "multi_dial_import_current": {
+    "message": "Importovat $1 odkazů"
+  },
+  "multi_dial_title_action": {
+    "message": "Akce kliknutí na nadpis"
+  },
+  "multi_dial_link_action": {
+    "message": "Akce kliknutí na odkaz"
+  },
+  "multi_dial_title_action_0": {
+    "message": "Otevřít všechny odkazy"
+  },
+  "multi_dial_title_action_1": {
+    "message": "Nic"
+  },
+  "multi_dial_link_action_0": {
+    "message": "Otevřít odkaz"
+  },
+  "multi_dial_link_action_1": {
+    "message": "Otevřít všechny odkazy"
+  },
+  "live_dial_opt_no_interaction": {
+    "message": "Vypnout interakci se stránkou"
+  },
+  "live_dial_opt_hide_scrollbars": {
+    "message": "Skrýt posuvník"
+  },
+  "dial_text_placeholder": {
+    "message": "Vložit text sem"
+  },
+  "dial_click_to_clipboard": {
+    "message": "Zkopírovat text do schránky kliknutím na dlaždici"
+  },
+  "ed_ar_title": {
+    "message": "Auto-obnova náhledu"
+  },
+  "ed_ar_disabled_radio": {
+    "message": "Vypnuto"
+  },
+  "ed_ar_enabled_radio": {
+    "message": "Zapnuto"
+  },
+  "ed_au_type_0": {
+    "message": "Obnovit každých"
+  },
+  "ed_au_type_1": {
+    "message": "Denně"
+  },
+  "ed_au_type_2": {
+    "message": "Měsíčně"
+  },
+  "ed_au_type_3": {
+    "message": "Přes týden"
+  },
+  "ed_au_type_4": {
+    "message": "Přes víkend"
+  },
+  "ed_au_type_5": {
+    "message": "Pondělí"
+  },
+  "ed_au_type_6": {
+    "message": "Úterý"
+  },
+  "ed_au_type_7": {
+    "message": "Středa"
+  },
+  "ed_au_type_8": {
+    "message": "Čtvrtek"
+  },
+  "ed_au_type_9": {
+    "message": "Pátek"
+  },
+  "ed_au_type_10": {
+    "message": "Sobota"
+  },
+  "ed_au_type_11": {
+    "message": "Neděle"
+  },
+  "ed_crop_off_radio": {
+    "message": "Automaticky"
+  },
+  "ed_crop_on_radio": {
+    "message": "Vlastní"
+  },
+  "ar_at": {
+    "message": "o:"
+  },
+  "ar_hours": {
+    "message": "Hodiny"
+  },
+  "ar_minutes": {
+    "message": "Minuty"
+  },
+  "ar_dial_delay": {
+    "message": "Zpoždění při vytváření náhledu:"
+  },
+  "ar_dial_delay_title": {
+    "message": "Po načtení stránky se bude čekat daný čas před vytvořením náhledu. To může pomoct když stránka dodatečně načítá svůj obsah nebo obsahuje komplexní grafiku."
+  },
+  "ed_more_advanced": {
+    "message": "Další možnosti přijdou v budoucích verzích."
+  },
+  "ed_auto_generated_th_radio": {
+    "message": "Automaticky generovaný náhled:"
+  },
+  "ed_blank_radio": {
+    "message": "Prázdný / jednobarevný náhled - s použitím \"Barva pozadí\""
+  },
+  "ed_make_text_radio": {
+    "message": "Vytvoř si svůj Textový náhled s použitím webové stránky $1:"
+  },
+  "use_for_dial": {
+    "message": "Použít jako náhled"
+  },
+  "ed_custom_th_file": {
+    "message": "Vlastní náhled ze souboru:"
+  },
+  "ed_custom_th_url": {
+    "message": "Vlastní náhled z URL:"
+  },
+  "ed_public_thumbnail_radio": {
+    "message": "Náhled z veřejné knihovny:"
+  },
+  "load_images": {
+    "message": "Načíst obrázky"
+  },
+  "load_images_empty": {
+    "message": "Pro tuto doménu nebyly nalezeny žádné obrázky"
+  },
+  "downloads": {
+    "message": "Počet stáhnutí:"
+  },
+  "image_info": {
+    "message": "Informace o obrázku:"
+  },
+  "image_extension": {
+    "message": "Typ obrázku:"
+  },
+  "create_date": {
+    "message": "Vytvořené:"
+  },
+  "image_file_size": {
+    "message": "Velikost obrázku:"
+  },
+  "resolution_too_low": {
+    "message": "Rozlišené je příliš nízké"
+  },
+  "report_image": {
+    "message": "Nahlásit obrázek"
+  },
+  "category_vector_images": {
+    "message": "Vektorové obrázky"
+  },
+  "category_high_dpi": {
+    "message": "Vysoké rozlišení"
+  },
+  "category_medium_dpi": {
+    "message": "Střední rozlišení"
+  },
+  "category_low_dpi": {
+    "message": "Nízké rozlišení"
+  },
+  "public_upload_consent": {
+    "message": "Nahráním náhledu do veřejné knihovny souhlasíte s následujícím:"
+  },
+  "public_upload_body_1": {
+    "message": "Náhledy nahrané do veřejné knihovny budou dostupné pro všechny uživatele!"
+  },
+  "public_upload_body_2": {
+    "message": "Nahraná data obsahují - obrázek náhledu, jeho pozice a jméno dlaždice. Ostatní uživatelé neuvidí kdo nahrál daný náhled."
+  },
+  "label_sending": {
+    "message": "posílám..."
+  },
+  "report_send": {
+    "message": "Nahlásit!"
+  },
+  "report_details_placeholder": {
+    "message": "Dodatečné informace"
+  },
+  "report_type": {
+    "message": "Druh porušení:"
+  },
+  "report_type_spam": {
+    "message": "spam"
+  },
+  "report_type_copyright": {
+    "message": "autorská práva"
+  },
+  "report_type_violent": {
+    "message": "násilné"
+  },
+  "report_type_unethical": {
+    "message": "neetické"
+  },
+  "report_type_other": {
+    "message": "jiné"
+  },
+  "ed_save_on_disk": {
+    "message": "Uložit na disk"
+  },
+  "ed_vr_resolution": {
+    "message": "Rozlišení:"
+  },
+  "ed_vr_resolution_title": {
+    "message": "Rozlišení stránky při vytváření náhledu."
+  },
+  "ed_no_zoom": {
+    "message": "Bez přiblížení"
+  },
+  "ed_top": {
+    "message": "nahoře"
+  },
+  "ed_left": {
+    "message": "vlevo"
+  },
+  "ed_center": {
+    "message": "uprostřed"
+  },
+  "ed_align_left": {
+    "message": "zarovnat vlevo"
+  },
+  "ed_load_preview": {
+    "message": "Načíst náhled"
+  },
+  "ed_reset_position": {
+    "message": "Obnovit pozici"
+  },
+  "ed_reset_zoom": {
+    "message": "Obnovit přiblížení"
+  },
+  "ed_reset_size": {
+    "message": "Obnovit velikost"
+  },
+  "ed_reset_scale": {
+    "message": "Obnovit měřítko"
+  },
+  "label_reset_all": {
+    "message": "Obnovit vše"
+  },
+  "label_coming_soon": {
+    "message": "Přichází..."
+  },
+  "label_save_changes": {
+    "message": "Uložit změny"
+  },
+  "label_discard_changes": {
+    "message": "Zrušit změny"
+  },
+  "label_create_all_thumbnails": {
+    "message": "Vytvořit všechny náhledy"
+  },
+  "label_create_thumbnail": {
+    "message": "Vytvořit náhled"
+  },
+  "ed_position": {
+    "message": "Pozice:"
+  },
+  "ed_thumbnail_position_0": {
+    "message": "Uprostřed"
+  },
+  "ed_thumbnail_position_1": {
+    "message": "Plná šířka - zarovnané nahoru"
+  },
+  "ed_thumbnail_position_2": {
+    "message": "Pokrýt"
+  },
+  "ed_thumbnail_position_3": {
+    "message": "Vyplnit (úsek)"
+  },
+  "ds_fetch_new_name": {
+    "message": "Aktualizovat název dlaždice během obnovy dlaždice (vyžaduje JavaScript)"
+  },
+  "ds_fetch_new_name_title": {
+    "message": "Během obnovy (nebo auto-obnovy) náhledu se název dlaždice aktualizuje podle aktuálního názvu stránky. Tato funkcionalita vyžaduje povolený JavaScript."
+  },
+  "ds_no_script": {
+    "message": "Vypnout JavaScript během obnovy dlaždice"
+  },
+  "ds_no_script_title": {
+    "message": "Vypnutí JavaScriptu může opravit generování náhledu pro některé stránky."
+  },
+  "ds_open_dial_in": {
+    "message": "Otevřít dlaždici v:"
+  },
+  "ds_open_dial_in_0": {
+    "message": "Aktuální záložce"
+  },
+  "ds_open_dial_in_1": {
+    "message": "Nové záložce (aktivní)"
+  },
+  "ds_open_dial_in_2": {
+    "message": "Nová záložce"
+  },
+  "ds_open_dial_in_3": {
+    "message": "Novém okně"
+  },
+  "ds_open_dial_in_4": {
+    "message": "Novém Soukromém okně"
+  },
+  "open_in_chrome_incognito": {
+    "message": "Anonymní okno"
+  },
+  "open_in_firefox_private": {
+    "message": "Soukromé okno"
+  },
+  "firefox_containers": {
+    "message": "Kontajner"
+  },
+  "no_container": {
+    "message": "Žádný kontajner"
+  },
+  "eg_title": {
+    "message": "Upravit skupinu"
+  },
+  "eg_position": {
+    "message": "Pozice:"
+  },
+  "eg_name": {
+    "message": "Jméno:"
+  },
+  "eg_columns": {
+    "message": "Sloupce:"
+  },
+  "eg_rows": {
+    "message": "Řádky:"
+  },
+  "eg_dials_ratio": {
+    "message": "Poměr stran:"
+  },
+  "eg_flexible": {
+    "message": "flexibilní"
+  },
+  "eg_fixed": {
+    "message": "pevný"
+  },
+  "group_eg_scrollable": {
+    "message": "Vytvořit posouvatelnou skupinu"
+  },
+  "eg_background_color": {
+    "message": "Barva pozadí"
+  },
+  "eg_text_color": {
+    "message": "Barva textu"
+  },
+  "menu_search_title": {
+    "message": "Hledej dlaždici (Ctrl + Shift + F) - v URL / Názvu / Poznámce"
+  },
+  "dial_number_title": {
+    "message": "Číslo dlaždice - toto je možné použít spolu s doplňkem \"Ctrl + Number for Group Speed Dial\" na otevření této dlaždice pomocí klávesové zkratky."
+  },
+  "dial_name_placeholder": {
+    "message": "automaticky generované pokud je prázdné"
+  },
+  "dial_note_placeholder": {
+    "message": "poznámky vám pomůžou najít dlaždice pomocí vyhledávání (Ctrl + Shift + F)"
+  },
+  "dial_url_placeholder": {
+    "message": "můžeš vynechat začátek \"http://\"   (například: google.com)"
+  },
+  "duplicate_dial_found": {
+    "message": "Duplikovaná dlaždice nalezena ve skupině $1"
+  },
+  "op_search": {
+    "message": "Hledat dlaždici"
+  },
+  "op_refresh": {
+    "message": "Obnovit obrázky"
+  },
+  "op_history": {
+    "message": "Historie / zálohy"
+  },
+  "menu_archive_title": {
+    "message": "Archív obsahuje vaše skupiny označené jako Archivované."
+  },
+  "op_upload_thumbnails": {
+    "message": "Nahrát náhledy"
+  },
+  "op_download_thumbnails": {
+    "message": "Stáhnout náhledy"
+  },
+  "op_pro_only": {
+    "message": "(Pro verze)"
+  },
+  "op_bing_image": {
+    "message": "Bing pozadí"
+  },
+  "op_bing_next": {
+    "message": "Další obrázek"
+  },
+  "op_bing_previous": {
+    "message": "Předchozí obrázek"
+  },
+  "op_bing_fullscreen": {
+    "message": "Zobrazit kompletní obrázek"
+  },
+  "op_bing_quiz": {
+    "message": "Bing kvíz o obrázku"
+  },
+  "o_bing_hide_dials": {
+    "message": "Automaticky schovat dlaždice pro viditelnost pozadí"
+  },
+  "o_no_dial_reflection": {
+    "message": ""
+  },
+  "o_background_url_placeholder": {
+    "message": "příklad: https://www.some_page.com/nature.jpg"
+  },
+  "o_paste_import_placeholder": {
+    "message": "zde vlož exportovaný text"
+  },
+  "o_add_current_after_action": {
+    "message": "Po přidání současné stránky do dlaždic:"
+  },
+  "o_add_current_after_action_0": {
+    "message": "Požádat uživatele aby se Vrátil / Zůstal"
+  },
+  "o_add_current_after_action_1": {
+    "message": "Vrátit se na předchozí záložku"
+  },
+  "o_add_current_after_action_2": {
+    "message": "Zůstat na stránce dlaždic"
+  },
+  "o_theme_title": {
+    "message": "výchozí: černá - pro lepší spánek v noci!"
+  },
+  "o_padding_title": {
+    "message": "Mezera okolo každé dlaždice, mezi dvěma dlaždicemi se hodnota zdvojnásobí"
+  },
+  "o_sync_dials": {
+    "message": "Synchronizace Karet"
+  },
+  "o_sync_settings": {
+    "message": "Synchronizace Nastavení"
+  },
+  "o_disable_dials_sync": {
+    "message": "Vypnout synchronizaci karet na tomto zařízení"
+  },
+  "o_disable_dials_sync_title": {
+    "message": "Vaše karty NEBUDOU zálohovány do cloudu. Nezapomeňte pravidelně vytvářet místní zálohy, abyste předešli ztrátě dat!"
+  },
+  "o_auto_options_sync": {
+    "message": "Automaticky zálohovat a synchronizovat vaše možnosti se všemi zařízeními"
+  },
+  "o_group_padding_title": {
+    "message": "Mezera kolem názvu skupiny, mezi dvěma skupinami je hodnota zdvojnásobena."
+  },
+  "o_group_font_size_title": {
+    "message": "Velikost textu v horní liště"
+  },
+  "o_recommended_for_performance_title": {
+    "message": "Doporučené pro nejlepší výkon."
+  },
+  "o_two_gradient_colors_title": {
+    "message": "Označ alespoň dvě barvy pro použití gradientu. - Použití komplikovaného gradientu na pozadí může částečně snížit výkon."
+  },
+  "o_background_preview_title": {
+    "message": "Náhled pozadí"
+  },
+  "o_big_picture_warning_title": {
+    "message": "Použití příliš velkých obrázků může negativně ovlivnit výkon (načítání okna s dlaždicemi)"
+  },
+  "o_group_delayed_activation_title": {
+    "message": "Toto zpoždění umožní vybrat správnou skupinu při přesouvání dlaždice mezi skupinami (pokud máš alespoň tři řádky ve skupině)"
+  },
+  "o_auto_upload_title": {
+    "message": "Professional verze je požadována. - Automatické nahrávání náhledů může být aktivní pouze na jednom zařízení."
+  },
+  "o_no_title": {
+    "message": "Žádné názvy dlaždic (pouze náhledy)"
+  },
+  "o_no_title_title": {
+    "message": "Když je zapnuto, všechny názvy dlaždic budou skryté."
+  },
+  "o_squared_edges": {
+    "message": "Žádné zaoblené rohy"
+  },
+  "o_squared_edges_title": {
+    "message": "Když je zapnuto budou mít dlaždice ostré rohy."
+  },
+  "o_dial_font_size": {
+    "message": "Velikost písma pro jména dlaždic"
+  },
+  "o_dial_title_down": {
+    "message": "Jména dlaždic dole"
+  },
+  "o_dial_title_down_title": {
+    "message": "Když je zapnuto, jména dlaždic budou dole."
+  },
+  "o_scrollable_thumbnails": {
+    "message": "Povolit posun náhledu uvnitř dlaždice"
+  },
+  "o_no_shadow": {
+    "message": "Žádný stín okolo dlaždic"
+  },
+  "o_no_shadow_title": {
+    "message": "Když je zapnuto, výchozí stín okolo dlaždic bude skrytý."
+  },
+  "o_hide_empty_dials": {
+    "message": "Skrýt prázdné dlaždice"
+  },
+  "o_hide_empty_dials_title": {
+    "message": "Když je zapnuto, všechny prázdné dlaždice budou skryté"
+  },
+  "o_hide_hover_shadow": {
+    "message": "Skrýt stín při přechodu"
+  },
+  "o_dial_numbers_title": {
+    "message": "Zobrazení čísel dlaždic vedle názvu dlaždice. Čísla pro dlaždice jsou užitečné při použití doplňku \"Ctrl + Number for Group Speed Dial\" na rychlý přístup k dlaždicím pomocí klávesových zkratek."
+  },
+  "o_dial_numbers": {
+    "message": "Zobrazit čísla dlaždic"
+  },
+  "o_hide_hover_shadow_title": {
+    "message": "Když je zapnuto, přechod stínu bude vypnutý"
+  },
+  "o_hide_login_part": {
+    "message": "Skrýt přihlašovací část"
+  },
+  "o_hide_login_part_title": {
+    "message": "Skryje nápis \"Přihlásit se / Vytvořit účet\" nebo jméno přihlášeného uživatele."
+  },
+  "o_hide_top_bar": {
+    "message": "Skrýt lištu se skupinami a přihlášením"
+  },
+  "o_hide_top_bar_title": {
+    "message": "Když je zapnuto, seznam skupin a část pro přihlášení bude skryto."
+  },
+  "o_hide_add_group": {
+    "message": "Skrýt \"+\" tlačítko na konci seznamu skupin"
+  },
+  "o_hide_add_group_title": {
+    "message": "Skrýt + tlačítko"
+  },
+  "o_root_groups_only": {
+    "message": "Skrýt vnořené skupiny ze seznamu skupin (horní lišta)"
+  },
+  "o_root_groups_only_title": {
+    "message": "Pouze kořenové skupiny budou zobrazené. Skupiny, které jsou jako skupinové dlaždice v jiných skupinách budou skryté."
+  },
+  "o_firefox_homepage_override": {
+    "message": "Když Firefox startuje, otevřít stránku s dlaždicemi"
+  },
+  "o_pro_thumbnail_sync": {
+    "message": "Povolit automatickou synchronizaci náhledů s cloudem"
+  },
+  "o_group_name_as_title": {
+    "message": "Nastavit název okna podle aktuální skupiny"
+  },
+  "o_prevent_new_tab_container": {
+    "message": "Zabránit otevření stránky dlaždic ve Firefox kontejneru"
+  },
+  "o_prevent_new_tab_container_title": {
+    "message": "Stránka dlaždic bude otevřena bez konteineru"
+  },
+  "o_group_name_as_title_title": {
+    "message": "Název skupiny se použije v názvu okna - ten může být viditelný v názvu záložky a na panely úloh"
+  },
+  "o_instant_popup_redirect": {
+    "message": "Ikonka na nástrojovém panelu - okamžité přesměrování na stránku s dlaždicemi"
+  },
+  "o_instant_popup_new_tab": {
+    "message": "otevřít v nové záložce"
+  },
+  "o_instant_popup_new_tab_title": {
+    "message": "Nová záložka bude vždy otevřena vedle současné záložky."
+  },
+  "o_user_consent_google_favicon": {
+    "message": "Povolit použití Google služby pro načtení Favicon (ikonky) pro dlaždice (použije se pouze pokud se ikonka nedá stáhnout přímo) - doporučeno"
+  },
+  "o_instant_popup_redirect_title": {
+    "message": "Kliknutí na ikonku v nástrojovém panelu automaticky otevře stránku s dlaždicemi"
+  },
+  "o_disable_quick_edit": {
+    "message": "Vypnout rychlé upravení levým kliknutím"
+  },
+  "o_disable_quick_edit_title": {
+    "message": "Kliknutí levým tlačítkem myši už nebude otvírat okno upravení."
+  },
+  "o_open_always_new_window": {
+    "message": "Vždy otevřít v Novém okně"
+  },
+  "o_open_always_new_window_title": {
+    "message": "Kliknutí na dlaždici otevře URL v novém okně"
+  },
+  "o_open_always_new_tab": {
+    "message": "Vždy otevírat v nové záložce"
+  },
+  "o_open_always_new_tab_title": {
+    "message": "Kliknutí na dlaždici otevře odkaz vždy v nové záložce"
+  },
+  "o_open_always_include_group_dials": {
+    "message": "Použít také pro skupinové-dlaždice"
+  },
+  "o_open_always_include_group_dials_title": {
+    "message": "Také skupinové-dlaždice budou otevírané v nové záložce"
+  },
+  "o_open_always_focused": {
+    "message": "Automaticky přepnout na novou záložku"
+  },
+  "o_open_always_focused_title": {
+    "message": "Nově otevřené karty budou také aktivované"
+  },
+  "o_remember_group": {
+    "message": "Zapamatovat si naposledy otevřenou skupinu"
+  },
+  "o_remember_group_title": {
+    "message": "Když je zapnuté, po otevření Nové záložky budete přesměrování na posledně navštívenou skupinu."
+  },
+  "o_remember_group_runtime": {
+    "message": "Zapamatovat si pouze do restartu prohlížeče"
+  },
+  "o_disable_auto_show_groups": {
+    "message": "Vypnout automatické zobrazování skupin při přesouvání dlaždic"
+  },
+  "o_disable_auto_show_groups_title": {
+    "message": "Výchozí když přetahuješ dlaždice - celý seznam skupin je viditelný pro umožnění přesunu mezi všemi skupinami."
+  },
+  "o_scroll_groups": {
+    "message": "Přepínání skupin rolováním"
+  },
+  "o_scroll_groups_title": {
+    "message": "Můžete použít myší kolečko na přepínání mezi skupinami."
+  },
+  "o_scroll_groups_reverse": {
+    "message": "Obrátit směr rolování"
+  },
+  "o_scroll_groups_reverse_title": {
+    "message": "Rolování nahoru přepne na další skupinu."
+  },
+  "o_scroll_groups_circle": {
+    "message": "Cyklicky skočit z konce na začátek"
+  },
+  "o_scroll_groups_circle_title": {
+    "message": "Po poslední skupině bude opět otevřená první a naopak."
+  },
+  "o_frame_jpeg": {
+    "message": "Použít JPEG formát místo PNG"
+  },
+  "o_frame_jpeg_title": {
+    "message": "Formát JPEG spotřebovává méně paměti a vykreslení trvá méně času."
+  },
+  "o_visit_jpeg": {
+    "message": "Použít JPEG namísto PNG"
+  },
+  "o_visit_jpeg_title": {
+    "message": "JPEG formát spotřebuje méně paměti a méně času pro vykreslení."
+  },
+  "o_visit_jpeg_high_resolution": {
+    "message": "Použít vyšší rozlišení"
+  },
+  "o_visit_jpeg_high_resolution_title": {
+    "message": "Náhled bude mít dvojí rozlišení pro zvýšení kvality."
+  },
+  "o_current_dial_dimensions": {
+    "message": "Použít aktuální velikost dlaždice (nedoporučuje se)"
+  },
+  "o_current_dial_dimensions_title": {
+    "message": "Když je zapnuté, aktuální velikost dlaždice se použije jako cílové rozlišení. Když je vypnuté, rozlišení pro cílovou dlaždici se vypočítá podle rozlišení monitoru a velikosti dané skupiny (počtu řádků a sloupců)."
+  },
+  "o_context_menu_show_groups": {
+    "message": "Zobrazit seznam skupin v kontextovém menu pro rychlé vložení"
+  },
+  "o_context_menu_internal": {
+    "message": "Kontextové menu stránky s dlaždicemi:"
+  },
+  "o_dials_context_menu": {
+    "message": "Dlaždice a skupiny:"
+  },
+  "o_groups_context_menu": {
+    "message": "Skupiny:"
+  },
+  "o_options_context_menu": {
+    "message": "Menu nastavení:"
+  },
+  "o_tab_visual_dials": {
+    "message": "Dlaždice"
+  },
+  "o_tab_visual_groups": {
+    "message": "Skupiny"
+  },
+  "o_tab_thumbnails": {
+    "message": "Náhledy"
+  },
+  "o_tab_image": {
+    "message": "Kvalita náhledů"
+  },
+  "o_theme": {
+    "message": "Téma:"
+  },
+  "o_color_theme": {
+    "message": "Barva tématu:"
+  },
+  "o_custom_css": {
+    "message": "Vlastní CSS styly:"
+  },
+  "o_custom_css_placeholder": {
+    "message": "VAROVÁNÍ: Jen pro pokročilé uživatele! Špatné styly můžou poškodit vizuální zážitek."
+  },
+  "o_reload_group_dials": {
+    "message": "Obnov skupinové dlaždice po změně pozadí"
+  },
+  "o_dials": {
+    "message": "Dlaždice:"
+  },
+  "o_dials_visual": {
+    "message": "Dlaždice - vzhled:"
+  },
+  "o_android_min_size": {
+    "message": "Velikost dlaždice na Androidu"
+  },
+  "o_android_min_dial_size": {
+    "message": "Minimální velikost dlaždice na Androidu (0 - vypnuto):"
+  },
+  "o_space_around_dials": {
+    "message": "Prostor okolo dlaždic:"
+  },
+  "o_group_list": {
+    "message": "Seznam skupin:"
+  },
+  "o_space_around_groups": {
+    "message": "Prostor okolo skupin:"
+  },
+  "o_group_list_size": {
+    "message": "Velikost fontu seznamu skupin:"
+  },
+  "o_group_list_height": {
+    "message": "Výška seznamu skupin:"
+  },
+  "o_background_pic": {
+    "message": "Obrázek pozadí:"
+  },
+  "o_gradient_type": {
+    "message": "Typ gradientu:"
+  },
+  "o_gradient_colors": {
+    "message": "Barvy gradientu:"
+  },
+  "o_gradient_solid": {
+    "message": "jednobarevný"
+  },
+  "o_gradient_linear_up_down": {
+    "message": "lineární - shora / dolů"
+  },
+  "o_gradient_linear_left_right": {
+    "message": "lineární - zleva / doprava"
+  },
+  "o_gradient_linear_diagonal": {
+    "message": "lineární - diagonální"
+  },
+  "o_gradient_radial_elipse": {
+    "message": "radiální - elipsa"
+  },
+  "o_gradient_radial_circle": {
+    "message": "radiální - kruh"
+  },
+  "o_choose_local_image": {
+    "message": "Vyber obrázek ze souboru"
+  },
+  "o_copy_link": {
+    "message": "Kopírovat odkaz domácí stránky"
+  },
+  "o_safari_dials_page_hotkeys": {
+    "message": "Klávesová zkratka pro otevření stránky dlaždic:"
+  },
+  "o_how_to_homepage": {
+    "message": "pro nastavení $app_name$ jako Domovské stránky - klikni na \"Zkopírovat adresu domovské stránky\" a vlož v Prohlížeč / Možnosti / Domovská stránka"
+  },
+  "o_redirect_url": {
+    "message": "Nahradit stránku \"Nová záložka\" s URL:"
+  },
+  "o_redirect_url_placeholder": {
+    "message": "například: https://www.google.cz/"
+  },
+  "o_redirect_url_title": {
+    "message": "POZOR: můžeš použít pouze adresy normálních webových stránek. Interní stránky prohlížeče jako \"about:newtab\" nebudou fungovat. Jedinou výjimkou je \"about:blank\" a \"about:home\"."
+  },
+  "o_groups": {
+    "message": "Skupiny:"
+  },
+  "o_group_activation_delay": {
+    "message": "Zpoždění aktivace skupiny při přesouvání dlaždice:"
+  },
+  "o_short_keys": {
+    "message": "Klávesové zkratky - je potřeba další doplněk:"
+  },
+  "o_key_extended_mode": {
+    "message": "Zapnout podporu pro více než 9 dlaždic"
+  },
+  "o_key_extended_mode_title": {
+    "message": "Budete moci použít víceciferná čísla pro dlaždice."
+  },
+  "o_dial_only_current_group": {
+    "message": "Rychlé dlaždice pouze v současné otevřené skupině"
+  },
+  "o_dial_only_current_group_title": {
+    "message": "Například: stiskem \"1\" se otevře první dlaždice z aktuální otevřené skupiny."
+  },
+  "o_key_force_page_focus": {
+    "message": "Vynutit zaměření (focus) na stránku (experimentální - může přestat pracovat)"
+  },
+  "o_key_force_page_focus_title": {
+    "message": "Když je zaměření (focus) v adresním řádku, zkusíme zaměřit stránku. Toto však vypne tlačítko \"Zpět\". Toto je experimentální funkce, která může přestat fungovat v nových verzích prohlížeče Firefox."
+  },
+  "o_key_to_group_dial": {
+    "message": "Zapnout přístup do skupin stisknutím klávesy:"
+  },
+  "o_key_to_group_dial_title": {
+    "message": "Když je tato klávesa stisknutá, budou klávesové zkratky otevírat skupinu a ne konkrétní dlaždici."
+  },
+  "o_key_disable_alt": {
+    "message": "Vypnout \"Alt\" / \"CMD\" klávesové zkratky"
+  },
+  "o_key_disable_alt_title": {
+    "message": "Vypne klávesové zkratky používající klávesu \"Alt\" ve Windows a klávesu \"CMD\" Command na Mac OS."
+  },
+  "o_key_disable_ctrl": {
+    "message": "Vypne \"Ctrl\" klávesové zkratky"
+  },
+  "o_key_disable_ctrl_title": {
+    "message": "Vypne klávesové zkratky používající klávesu \"Ctrl\"."
+  },
+  "o_key_disable_shift": {
+    "message": "Vypne klávesové zkratky \"Shift\""
+  },
+  "o_key_disable_shift_title": {
+    "message": "Vypne klávesové zkratky používající klávesu \"Shift\", například \"Ctrl + Shift + 1\" nebo \"Alt + Shift + 1\"."
+  },
+  "o_key_disable_f4": {
+    "message": "Vypne klávesovou zkratku \"F4\" pro otevření Nové záložky"
+  },
+  "o_key_disable_f4_title": {
+    "message": "Stisknutí klávesy \"F4\" neotevře Novou záložku"
+  },
+  "o_key_f4_active_here": {
+    "message": "Otevřít kartu v aktivní záložce"
+  },
+  "o_key_disable_zero": {
+    "message": "Vypne klávesovou zkratku \"Ctrl + 0\" pro otevření 10. dlaždice"
+  },
+  "o_key_disable_zero_title": {
+    "message": "Stisknutí klávesové zkratky \"Ctrl + 0\" (použité pro \"Reset přiblížení\") nebude otvírat dlaždici číslo 10."
+  },
+  "o_key_new_tab": {
+    "message": "Otevřít v Nové záložce"
+  },
+  "o_key_new_tab_title": {
+    "message": "Otevřené dlaždice se budou vždy otevírat v nových záložkách."
+  },
+  "o_key_next_to_current": {
+    "message": "vedle aktuální záložky"
+  },
+  "o_key_next_to_current_title": {
+    "message": "Otevřené dlaždice se budou otevírat vedle současné záložky."
+  },
+  "o_keys_delay": {
+    "message": "Zpoždění pro více-znaková čísla:"
+  },
+  "o_ar_settings": {
+    "message": "Nastavení automatického obnovení"
+  },
+  "o_ar_disable_this_device": {
+    "message": "Vypnout na tomto zařízení"
+  },
+  "o_ar_disable_this_device_title": {
+    "message": "Automatická obnova bude vypnutá pro tento prohlížeč."
+  },
+  "o_ar_keep_pinned_tab": {
+    "message": "Nechat obnovenou záložku otevřenou po obnovení"
+  },
+  "o_ar_keep_pinned_tab_title": {
+    "message": "Záložka použitá pro vytváření náhledů zůstane po obnovení otevřená."
+  },
+  "o_ar_concurrent_count": {
+    "message": "Maximální počet souběžně načtených stránek"
+  },
+  "o_ar_concurrent_count_title": {
+    "message": "Tato hodnota limituje počet současně načtených stránek během vytváření náhledů. Nižší hodnota může ušetřit procesor a paměť."
+  },
+  "o_ar_screen_resolution": {
+    "message": "Automatická obnova - cílové rozlišení obrazovky"
+  },
+  "o_ar_auto_radio": {
+    "message": "Automatické - podle aktuálního rozlišení tohoto monitoru (doporučené)"
+  },
+  "o_ar_custom_radio": {
+    "message": "Manuální"
+  },
+  "o_ar_screen_resolution_help": {
+    "message": "Rozlišení náhledů se počítá podle velikosti rozlišení a velikosti cílové skupiny."
+  },
+  "o_vr_screen_resolution": {
+    "message": "Rozlišení virtuální stránky při vytváření náhledu."
+  },
+  "o_vr_default_width": {
+    "message": "Výchozí šířka stránky"
+  },
+  "o_vr_default_width_title": {
+    "message": "Šířka stránky použité při vytváření náhledu."
+  },
+  "o_thumb_timings": {
+    "message": "Náhledy a jejich vytváření"
+  },
+  "o_load_timeout": {
+    "message": "Maximální čas pro načtení náhledu"
+  },
+  "o_context_menu_plus_delay": {
+    "message": "Zpoždění kontextového menu:"
+  },
+  "o_normal_reload_fixed_delay": {
+    "message": "Normální obnovení - pevné zpoždění:"
+  },
+  "o_reload_visit_fixed_delay": {
+    "message": "Pevné zpoždění obnovení navštívením:"
+  },
+  "o_thumbnails_delays_help": {
+    "message": "Tato zpoždění jsou užitečná při vytváření náhledů - mnoho stránek totiž používá JavaScript na dodatečné nahrání obsahu stránky což často potřebuje pár milisekund navíc."
+  },
+  "o_img_quality_default_reload": {
+    "message": "Kvalita náhledů - standardní obnova:"
+  },
+  "o_img_compression_level": {
+    "message": "úroveň komprese"
+  },
+  "o_img_quality_reload_visit": {
+    "message": "Kvalita náhledů - obnova navštívením stránky:"
+  },
+  "o_context_menu_dials_page": {
+    "message": "Kontextové menu na Stránce karet:"
+  },
+  "o_backup_restore": {
+    "message": "Záloha / obnova nastavení do souboru:"
+  },
+  "o_export_dials": {
+    "message": "Export nastavení a dlaždic"
+  },
+  "o_export_thumbnails": {
+    "message": "exportovat i náhledy - toto výrazně zvětší velikost exportovaného souboru"
+  },
+  "o_import_other_addons": {
+    "message": "Importovat z jiných doplňků:"
+  },
+  "o_import_josep": {
+    "message": "Importovat dlaždice z doplňku \"Speed Dial by Josep del Rio\":"
+  },
+  "o_import_fvd": {
+    "message": "Importovat dlaždice z doplňku \"Speed Dial [FVD] by Nimbus Web\":"
+  },
+  "o_import_firefox_bookmarks": {
+    "message": "Importovat dlaždice z Firefox záložek v \".json\" souboru:"
+  },
+  "o_import_fast_dial": {
+    "message": "Importovat dlaždice z doplňku \"Fast Dial by telega\":"
+  },
+  "o_import_super_start_bookmarks": {
+    "message": "Importovat dlaždice z doplňku \"Super Start by cyberscorpio\":"
+  },
+  "o_import_speed_dial_2": {
+    "message": "Importovat dlaždice z doplňku \"Speed Dial 2 by speeddial2.com\":"
+  },
+  "o_replace_existing": {
+    "message": "Nahradit existující dlaždice"
+  },
+  "o_import_from_text": {
+    "message": "Z textu"
+  },
+  "o_about_cloud_dials": {
+    "message": "Cloud-dials:"
+  },
+  "o_auto_upload_pro": {
+    "message": "Automaticky nahrát náhledy (pouze Pro verze)"
+  },
+  "o_picture_from_url": {
+    "message": "obrázek z URL:"
+  },
+  "o_picture_is_web_page": {
+    "message": "webová stránka jako pozadí:"
+  },
+  "o_picture_bing_of_the_day": {
+    "message": "Bing obrázek dne:"
+  },
+  "o_picture_bing_of_the_day_note": {
+    "message": "každý den nový obrázek z $1"
+  },
+  "o_picture_bing_of_the_day_help": {
+    "message": "Můžeš měnit obrázek dne z Bing pomocí hlavního menu na stránce s dlaždicemi."
+  },
+  "o_picture_from_pc": {
+    "message": "obrázek z PC:"
+  },
+  "o_gradient_colors_sm": {
+    "message": "Barvy gradientu:"
+  },
+  "o_none_fastest": {
+    "message": "žádné (rychlejší)"
+  },
+  "o_watch_youtube_import": {
+    "message": "Shlédni si návod na YouTube"
+  },
+  "o_cloud_backup_instead": {
+    "message": "Můžeš si zdarma vytvořit účet v cloudu a tvoje dlaždice se budou automaticky zálohovat do cloudu. Všechna data jsou přenášena pomocí šifrovaného HTTPS spojení."
+  },
+  "reload_heading": {
+    "message": "$app_name$ - záložka na vytváření náhledů"
+  },
+  "reload_subheading": {
+    "message": "Tato záložka je použita pro funkci Automatické obnovení a pro vytváření náhledů na pozadí."
+  },
+  "archive": {
+    "message": "Archív"
+  },
+  "archived": {
+    "message": "archivováno"
+  },
+  "archive_empty": {
+    "message": "Archív je prázdný"
+  },
+  "archive_empty_body": {
+    "message": "Nejdříve označit nějakou skupinu jako archivovanou."
+  },
+  "archive_close_title": {
+    "message": "Klepnout pro zavření archívu"
+  },
+  "group_archive_group": {
+    "message": "Přesunout skupinu do archívu"
+  },
+  "group_archive_group_title": {
+    "message": "Archivované skupiny nejsou viditelné v seznamu skupin. Můžete k nim přistupovat přes Hlavní menu / Archív"
+  },
+  "productivity_mode": {
+    "message": ""
+  },
+  "productivity_mode_title": {
+    "message": ""
+  },
+  "auto_productivity_mode": {
+    "message": ""
+  },
+  "active_days": {
+    "message": ""
+  },
+  "start_time": {
+    "message": ""
+  },
+  "end_time": {
+    "message": ""
+  },
+  "elapsed_time": {
+    "message": ""
+  },
+  "remaining_time": {
+    "message": ""
+  },
+  "start_productivity": {
+    "message": ""
+  },
+  "end_productivity": {
+    "message": ""
+  },
+  "choose_distracting_dials": {
+    "message": ""
+  },
+  "selected_dials_groups": {
+    "message": ""
+  },
+  "s_cp": {
+    "message": "Vlastní poskytovatel hledání"
+  },
+  "sc_0": {
+    "message": "Vlastní"
+  },
+  "sc_1": {
+    "message": "Hledání na webu"
+  },
+  "sc_2": {
+    "message": "Přeložit"
+  },
+  "sc_3": {
+    "message": "Video"
+  },
+  "sc_4": {
+    "message": "Sociální média"
+  },
+  "sc_5": {
+    "message": "Mapy"
+  },
+  "sc_6": {
+    "message": "Hudba"
+  },
+  "sc_7": {
+    "message": "Video"
+  },
+  "sc_8": {
+    "message": "Ostatní"
+  },
+  "search_engine": {
+    "message": "Vyhledávač",
+    "common": true
+  },
+  "color_remove_color": {
+    "message": "vymazat barvu",
+    "common": true
+  },
+  "color_transparent": {
+    "message": "transparentní",
+    "common": true
+  },
+  "color_rgb": {
+    "message": "RGB",
+    "common": true
+  },
+  "color_no_color": {
+    "message": "",
+    "common": true
+  },
+  "field_int_default_value": {
+    "message": "Výchozí hodnota: $1, min: $2, max: $3",
+    "common": true
+  },
+  "field_set_default": {
+    "message": "Obnovit hodnotu na: $1",
+    "common": true
+  },
+  "import_finished": {
+    "message": "Import dokončený!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Chyba",
+    "common": true
+  },
+  "pro_required": {
+    "message": "Vyžadována Pro verze",
+    "common": true
+  },
+  "version_free": {
+    "message": "$1 verze (zadarmo) - pouze pro nekomerční použití",
+    "common": true
+  },
+  "version_pro": {
+    "message": "$1 verze",
+    "common": true
+  },
+  "msg_pro_header": {
+    "message": "Tato funkce je dostupná jen v Professional verzi",
+    "common": true
+  },
+  "msg_pro_support": {
+    "message": "Prosím, podpořte vývoj mého rozšíření zakoupením Pro verze",
+    "common": true
+  },
+  "statistics": {
+    "message": "Statistiky",
+    "common": true
+  },
+  "color_black": {
+    "message": "Černá",
+    "common": true
+  },
+  "color_white": {
+    "message": "Bílá",
+    "common": true
+  },
+  "theme_light": {
+    "message": "",
+    "common": true
+  },
+  "theme_dark": {
+    "message": "",
+    "common": true
+  },
+  "title_introduction": {
+    "message": "Úvod",
+    "common": true
+  },
+  "title_got_it": {
+    "message": "Rozumím, pojďme na to!",
+    "common": true
+  },
+  "privacy_info": {
+    "message": "Informace o ochraně osobních údajů",
+    "common": true
+  },
+  "search_search": {
+    "message": "Hledat",
+    "common": true
+  },
+  "search_close": {
+    "message": "Zavřít",
+    "common": true
+  },
+  "email_send_me": {
+    "message": "pošli e-mail",
+    "common": true
+  },
+  "send_runtime_error_log": {
+    "message": "Odeslat protokol o chybách...",
+    "common": true
+  },
+  "send_runtime_errors": {
+    "message": "Klikněte na následující odkaz pro odeslání e-mailu s informacemi zobrazenými dále:",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Stránka doplňků pro Firefox",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome obchod",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Možnosti",
+    "common": true
+  },
+  "menu_quick_options": {
+    "message": "Rychlé nastavení",
+    "common": true
+  },
+  "menu_visit_homepage": {
+    "message": "Navštívit domácí stránku",
+    "common": true
+  },
+  "key_name_ctrl": {
+    "message": "Ctrl",
+    "common": true
+  },
+  "key_name_alt": {
+    "message": "Alt",
+    "common": true
+  },
+  "key_name_shift": {
+    "message": "Shift",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Velikost písma",
+    "common": true
+  },
+  "label_font_size_preview": {
+    "message": "Ukázka velikosti písma",
+    "common": true
+  },
+  "label_previous": {
+    "message": "",
+    "common": true
+  },
+  "label_back": {
+    "message": "",
+    "common": true
+  },
+  "label_next": {
+    "message": "Další",
+    "common": true
+  },
+  "label_note": {
+    "message": "Poznámka:",
+    "common": true
+  },
+  "label_not_supported_by_browser": {
+    "message": "",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Odstranit",
+    "common": true
+  },
+  "label_warning": {
+    "message": "POZOR:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Nastavení:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Výchozí:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Hotovo!",
+    "common": true
+  },
+  "label_copy": {
+    "message": "",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Zkopírováno!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Vlastní:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Zavřít",
+    "common": true
+  },
+  "label_maximize": {
+    "message": "Maximalizovat",
+    "common": true
+  },
+  "label_minimize": {
+    "message": "",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Nainstalovaný",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Otevřít stránku",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Souhlasím",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Zrušit",
+    "common": true
+  },
+  "label_active": {
+    "message": "",
+    "common": true
+  },
+  "label_inactive": {
+    "message": "",
+    "common": true
+  },
+  "label_paused": {
+    "message": "",
+    "common": true
+  },
+  "label_pause": {
+    "message": "",
+    "common": true
+  },
+  "label_resume": {
+    "message": "",
+    "common": true
+  },
+  "label_select_all": {
+    "message": "",
+    "common": true
+  },
+  "label_select_none": {
+    "message": "",
+    "common": true
+  },
+  "label_minutes": {
+    "message": "",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Měřítko:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Přiblížení:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Velikost:",
+    "common": true
+  },
+  "label_example": {
+    "message": "Příklad:",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menu",
+    "common": true
+  },
+  "menu_visit_title": {
+    "message": "Navštívit domácí stránku",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Navštívit domácí stránku",
+    "common": true
+  },
+  "online_help": {
+    "message": "",
+    "common": true
+  },
+  "online_help_info": {
+    "message": "",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Pomoc tomuto projektu",
+    "common": true
+  },
+  "op_help": {
+    "message": "Pomoc",
+    "common": true
+  },
+  "op_help_introduction": {
+    "message": "Video návod",
+    "common": true
+  },
+  "op_help_safari_setup": {
+    "message": "Nastavení Safari",
+    "common": true
+  },
+  "op_help_android_setup": {
+    "message": "Android video návod",
+    "common": true
+  },
+  "o_title": {
+    "message": "Možnosti - $1",
+    "common": true
+  },
+  "o_manual_options_sync": {
+    "message": "Ruční záloha",
+    "common": true
+  },
+  "automatic_backup": {
+    "message": "automatická záloha",
+    "common": true
+  },
+  "backup": {
+    "message": "záloha",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Vytvořit novou zálohu",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Uložit nastavení",
+    "common": true
+  },
+  "load_settings": {
+    "message": "Nahrát nastavení",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Všeobecné",
+    "common": true
+  },
+  "o_tab_sync": {
+    "message": "Synchronizace",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Pozadí",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Kontextové menu",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Klávesové zkratky",
+    "common": true
+  },
+  "o_tab_import": {
+    "message": "Import / záloha",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "O rozšíření",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixelů",
+    "common": true
+  },
+  "o_general": {
+    "message": "Všeobecné:",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milisekund",
+    "common": true
+  },
+  "o_special_features": {
+    "message": "Speciální funkce:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "vypnuto",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "zapnuto",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "sekund",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Kontextové menu:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Import",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Ahoj :)",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Pokud se ti líbí, prosím napiš hodnocení zde:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Pokud se ti něco nelíbí, prosím napiš mi na můj e-mail. Naprogramuji většinu obdržených požadavků.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Prosím, zvaž podporu mojí práce",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "peněžním darem (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "přes Patron",
+    "common": true
+  },
+  "o_about_support_by_update": {
+    "message": "zakoupením Professional verze",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Děkuji!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "domů:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Hlášení problémů:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Můžu odpovědět pouze Anglicky / Slovensky",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sociální média:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Uložit změny a zavřít",
+    "common": true
+  },
+  "o_saved": {
+    "message": "uloženo!",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Jmenuji se $1$ a jsem autorem $app_name$.",
+    "common": true
+  },
+  "s_baidu": {
+    "message": "Baidu",
+    "common": true
+  },
+  "s_google": {
+    "message": "Google",
+    "common": true
+  },
+  "s_bing": {
+    "message": "Bing",
+    "common": true
+  },
+  "s_yahoo": {
+    "message": "Yahoo",
+    "common": true
+  },
+  "s_brave": {
+    "message": "Brave",
+    "common": true
+  },
+  "s_yandex": {
+    "message": "Yandex",
+    "common": true
+  },
+  "s_duck_duck_go": {
+    "message": "DuckDuckGo",
+    "common": true
+  },
+  "s_qwant": {
+    "message": "Qwant",
+    "common": true
+  },
+  "s_ecosia": {
+    "message": "Ecosia",
+    "common": true
+  },
+  "s_seznam": {
+    "message": "Seznam",
+    "common": true
+  },
+  "s_translate_en": {
+    "message": "Google překladač",
+    "common": true
+  },
+  "s_translate_microsoft_en": {
+    "message": "Překladač Microsoft",
+    "common": true
+  },
+  "s_translate_deepl_en": {
+    "message": "Překladač DeepL",
+    "common": true
+  },
+  "s_translate_yandex_en": {
+    "message": "Překladač Yandex",
+    "common": true
+  },
+  "s_translate_baidu_en": {
+    "message": "Překladač Baidu",
+    "common": true
+  },
+  "s_wikipedia": {
+    "message": "Wikipedia",
+    "common": true
+  },
+  "s_youtube": {
+    "message": "YouTube",
+    "common": true
+  },
+  "s_google_maps": {
+    "message": "Google Mapy",
+    "common": true
+  },
+  "s_twitter": {
+    "message": "Twitter",
+    "common": true
+  },
+  "s_facebook": {
+    "message": "Facebook",
+    "common": true
+  },
+  "s_imdb": {
+    "message": "IMDb",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Žádné odpovídající výsledky",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Žádná data",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Tmavý mód",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Ovládáno systémem",
+    "common": true
+  }
+}

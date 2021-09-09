@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "Иногда страница просто не спроектирована хорошо, а информация, которую вы ищете, не достаточно видны."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Общие случаи использования:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Выделите метаданные, как:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Выделите «Бесплатная доставка» :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Вы ищете что-то конкретное в Интернете? Используйте «временное выделение», чтобы помочь вам найти его на всех страницах. Временные основные моменты автоматически удаляются при закрытии браузера."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Вы даже можете скрыть слова, установив размер шрифта до нуля или, делая их прозрачными."
+  },
+  "_description_tags_ah": {
+    "message": "выделение, марки, метаданные, фильм, автоматический, текст, синхронизация, выбор, поиск"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ автоматически выделяет определенные слова на выбранных страницах"
+  },
+  "match_type": {
+    "message": "Тип соответствия:"
+  },
+  "match_type_0": {
+    "message": "Домен"
+  },
+  "match_type_1": {
+    "message": "URL"
+  },
+  "match_type_2": {
+    "message": "URL содержит"
+  },
+  "match_type_3": {
+    "message": "RegExp"
+  },
+  "match_type_4": {
+    "message": "Все сайты"
+  },
+  "selection_highlight": {
+    "message": "Выделить $1"
+  },
+  "selection_temp": {
+    "message": "Временно выделить $1"
+  },
+  "selection_temp_everywhere": {
+    "message": "Временно выделить везде $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ на этой странице"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Настройки в новой вкладке при нажатии на иконку"
+  },
+  "disable_rule": {
+    "message": "Отключено"
+  },
+  "temporal_rule": {
+    "message": "Временное"
+  },
+  "each_word": {
+    "message": "Каждое слово"
+  },
+  "rules": {
+    "message": "Правила"
+  },
+  "delete": {
+    "message": "Удалить"
+  },
+  "rename": {
+    "message": "Переименовать"
+  },
+  "duplicate": {
+    "message": "Дублировать"
+  },
+  "delete_rule": {
+    "message": "Удалить правило"
+  },
+  "delete_rule_title": {
+    "message": "Удалить правило \"$1\"?"
+  },
+  "on_pages": {
+    "message": "На страницах:"
+  },
+  "disabled_rule": {
+    "message": "Неактивное правило"
+  },
+  "incomplete_rule": {
+    "message": "Неполное правило"
+  },
+  "active_on_current_page": {
+    "message": "Активно на текущей странице"
+  },
+  "temporal_rule_helper": {
+    "message": "Временное правило - будет удалено после перезапуска браузера"
+  },
+  "active_on_pages": {
+    "message": "Активно на страницах:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Выделять каждое слово отдельно"
+  },
+  "case_sensitive": {
+    "message": "С учетом регистра"
+  },
+  "ignore_diacritics": {
+    "message": "Игнорировать диакритики"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "Регулярное выражение"
+  },
+  "across_elements": {
+    "message": "Через элементы"
+  },
+  "across_elements_help": {
+    "message": "Поиск текста в соседних HTML элементах"
+  },
+  "style": {
+    "message": "Стиль"
+  },
+  "preview": {
+    "message": "Образец:"
+  },
+  "empty_rule": {
+    "message": "пустое правило"
+  },
+  "create_new_rule": {
+    "message": "Создать новое правило"
+  },
+  "import_export": {
+    "message": "Импорт / Экспорт"
+  },
+  "help_this_project": {
+    "message": "Помочь проекту"
+  },
+  "about_faq": {
+    "message": "О расширении / FAQ"
+  },
+  "faq": {
+    "message": "ЧАСТО ЗАДАВАЕМЫЕ ВОПРОСЫ:"
+  },
+  "storage_info": {
+    "message": "Информация о хранилище данных:"
+  },
+  "storage_safari_1": {
+    "message": "Safari в настоящее время не поддерживает автоматическую синхронизацию данных."
+  },
+  "storage_safari_2": {
+    "message": "Для передачи (или резервного копирования) ваших правил используйте функцию «Импорт / экспорт»."
+  },
+  "storage_info_1": {
+    "message": "Ваши правила хранятся с использованием безопасной синхронизации $1 между всеми вашими устройствами (если вы вошли в систему с той же учетной записью)."
+  },
+  "storage_info_2": {
+    "message": "Облачное хранилище может хранить 100 кб данных и до 500 правил выделения."
+  },
+  "storage_info_3": {
+    "message": "Вы также можете экспортировать свои правила в файл, используя функцию «Импорт / экспорт», а затем импортировать его на других устройствах."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Заменить существующие правила выделения"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Добавить страницу в подсвечиваемые"
+  },
+  "remove_highlight_from_page": {
+    "message": "Удалить подсветку со страницы"
+  },
+  "bold": {
+    "message": "Полужирный"
+  },
+  "italic": {
+    "message": "Курсив"
+  },
+  "underline": {
+    "message": "Подчеркивание"
+  },
+  "background_color": {
+    "message": "Цвет фона"
+  },
+  "background": {
+    "message": "Фон"
+  },
+  "text_color": {
+    "message": "Цвет текста"
+  },
+  "color": {
+    "message": "Цвет"
+  },
+  "font_size": {
+    "message": "Размер шрифта"
+  },
+  "rule_name": {
+    "message": "Название правила"
+  },
+  "highlight_regular_expression": {
+    "message": "Регулярное выражение для подсветки:"
+  },
+  "highlight_text": {
+    "message": "Подсвеченный текст:"
+  },
+  "highlight_on_pages": {
+    "message": "Подсвечивать на страницах"
+  },
+  "empty_name_helper": {
+    "message": "Оставьте пустым, чтобы использовать «Выделенный текст» как имя"
+  },
+  "faq_1": {
+    "message": "Как быстро выделить слово на текущей странице?"
+  },
+  "faq_1a": {
+    "message": "Через контекстное меню - выберите текст / правая кнопка мыши / «Auto Highlight». Щелчком правой кнопки мыши на странице без выбора текста Вы можете применить существующие правила на текущую страницу."
+  },
+  "faq_2": {
+    "message": "Я хочу выделить несколько слов, мне нужно создать новое правило для каждого слова отдельно?"
+  },
+  "faq_2a": {
+    "message": "Нет, просто установите флажок «Каждое слово». Тогда каждое слово будет выделено отдельно."
+  },
+  "faq_3": {
+    "message": "Что такое «RegExp»?"
+  },
+  "faq_3a": {
+    "message": "«RegExp» (или «регулярное выражение») - последовательность символов, которые определяют шаблон поиска. Это сложная конструкция, которая позволяет выполнить выделение элементов по образцу. Например цены, даты, номера телефонов и т.д."
+  },
+  "faq_4": {
+    "message": "Можете ли вы показать мне некоторые примеры RegExp?"
+  },
+  "faq_4a": {
+    "message": "Выделите все цены, такие как $1"
+  },
+  "faq_5": {
+    "message": "Не могли бы вы объяснить их?"
+  },
+  "faq_5a": {
+    "message": "«$1$» выделяет знак доллара. Здесь нужен обратный слэш (\\), потому что $$ имеет особый смысл в RegExp."
+  },
+  "faq_5b": {
+    "message": "«$1$» выделяет одну цифру"
+  },
+  "faq_5c": {
+    "message": "«$1$» - повторить один или несколько раз. При размещении после цифрового селектора $2$ - одну или несколько цифр."
+  },
+  "faq_5d": {
+    "message": "«$1$» выделяет точку. Обратный слэш требуется, потому что просто точка означает «любой символ» в RegExp."
+  },
+  "faq_5e": {
+    "message": "«$1$» - ноль или один раз. При размещении после $2$ указывает, что содержимое скобок необязательно. Мы используем его для десятичной части числа, если она необязательна."
+  },
+  "faq_5f": {
+    "message": "Больше информации о RegExp (на английском)"
+  },
+  "import_finished": {
+    "message": "Импорт завершен!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Ошибка",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Импорт файла резервного копирования $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Домашняя страница",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Страница расширения",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Страница магазина Chrome",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Страница дополнений Firefox",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Дополнения для Thunderbird",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Настройки",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Размер шрифта",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Размер боковой панели",
+    "common": true
+  },
+  "label_next": {
+    "message": "Далее",
+    "common": true
+  },
+  "label_note": {
+    "message": "Заметки:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Удалить",
+    "common": true
+  },
+  "label_warning": {
+    "message": "ВНИМАНИЕ:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Настройки:",
+    "common": true
+  },
+  "label_default": {
+    "message": "По умолчанию:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Готово!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Скопировано!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Особое:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Закрыть",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Установлено",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Открыть страницу",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Согласиться",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Отмена",
+    "common": true
+  },
+  "label_save": {
+    "message": "Сохранить",
+    "common": true
+  },
+  "label_required": {
+    "message": "Обязательно",
+    "common": true
+  },
+  "label_sending": {
+    "message": "отправка...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "масштаб:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Увеличение:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Размер:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Скоро будет",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Сохранить изменения",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Отменить изменения",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Меню",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Домашняя страница",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Помочь проекту",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Поддержите независимого разработчика!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Привет!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Я разработчик расширений с 2016 года. Моя цель - создание качественных расширений для браузера, которые сделают Вашу работу продуктивнее.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Если вы думаете, что я делаю хорошую работу, пожалуйста, пожертвовайте :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Ваше пожертвование - мой единственный доход!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Спасибо за поддержку моей работы!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Помощь",
+    "common": true
+  },
+  "o_title": {
+    "message": "Настройки - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "бэкап",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Создать новый бэкап",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Сохранить настройки",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Чтобы экспортировать ваши данные в файл, открыть это окно на новой вкладке.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Щелкните правой кнопкой мыши / «Скачать связанный файл»",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Общие",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Фон",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Контекстное меню",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Миниатюры",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Комбинации клавиш",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Импорт / резервное копирование",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "О дополнении",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Настройки",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Тема:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Общие",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "запрещено",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "разрешено",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "пикселей",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "секунд",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Контекстное меню:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Отключить пункт: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Настройки резервного копирования / восстановления в файл:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Импорт",
+    "common": true
+  },
+  "title_import": {
+    "message": "Импортировать",
+    "common": true
+  },
+  "title_export": {
+    "message": "Экспорт",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Экспорт / Резервная копия",
+    "common": true
+  },
+  "label_or": {
+    "message": "или же",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Привет :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Меня зовут $1$, и я автор $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Если вам нравится это дополнение, оцените его:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Если Вам оно НЕ нравится, пожалуйста, сообщите на мой e-mail, почему именно. Я реализовываю большинство «хотелок» из числа тех, что получаю.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Пожалуйста, поддержите этот проект",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Банковский перевод с использованием IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "пожертвованием (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "на Patreon",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Спасибо Вам!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "сайт:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Контакты:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Сообщить о проблеме:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Я могу отвечать только на Английском / Словацком",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "В соцсетях:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Сохранить изменения и закрыть",
+    "common": true
+  },
+  "o_saved": {
+    "message": "сохранено!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Нет совпадений",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Нет данных",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Ночной режим",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Контролируется системой",
+    "common": true
+  },
+  "used_space": {
+    "message": "Используемое пространство: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Открыть в новой вкладке",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Переключатель аддона вкл / выкл",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Аддон отключен",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Почему?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Политика конфиденциальности",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Недавно добавленные функции:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Теги:",
+    "common": true
+  }
+}

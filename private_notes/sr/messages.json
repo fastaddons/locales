@@ -1,0 +1,341 @@
+{
+  "_description_feature_1": {
+    "message": ""
+  },
+  "_description_feature_2": {
+    "message": ""
+  },
+  "_description_tags_pn": {
+    "message": ""
+  },
+  "app_name": {
+    "message": "Private Notes"
+  },
+  "app_desc": {
+    "message": ""
+  },
+  "compression_level_0": {
+    "message": ""
+  },
+  "compression_level_1": {
+    "message": ""
+  },
+  "compression_level_2": {
+    "message": ""
+  },
+  "compression_level_info_0": {
+    "message": ""
+  },
+  "compression_level_info_1": {
+    "message": ""
+  },
+  "compression_level_info_2": {
+    "message": ""
+  },
+  "title_notes": {
+    "message": ""
+  },
+  "restore_backup": {
+    "message": ""
+  },
+  "create_new_note": {
+    "message": ""
+  },
+  "auto_locking_strategy_0": {
+    "message": ""
+  },
+  "auto_locking_strategy_1": {
+    "message": ""
+  },
+  "restore_note": {
+    "message": ""
+  },
+  "locked": {
+    "message": ""
+  },
+  "change_master_password": {
+    "message": ""
+  },
+  "import_export": {
+    "message": ""
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "notes_auto_saved_placeholder": {
+    "message": ""
+  },
+  "setup_new_pwd": {
+    "message": ""
+  },
+  "change_pwd": {
+    "message": ""
+  },
+  "pwd_to_change": {
+    "message": ""
+  },
+  "current_pwd": {
+    "message": ""
+  },
+  "new_pwd_advice": {
+    "message": ""
+  },
+  "repeat_pwd": {
+    "message": ""
+  },
+  "hint_pwd": {
+    "message": ""
+  },
+  "pwd_warning": {
+    "message": ""
+  },
+  "remember_pwd_0": {
+    "message": ""
+  },
+  "remember_pwd_1": {
+    "message": ""
+  },
+  "remember_pwd_2": {
+    "message": ""
+  },
+  "pwd_save": {
+    "message": ""
+  },
+  "error_saving_note": {
+    "message": ""
+  },
+  "quota_bytes_per_item": {
+    "message": ""
+  },
+  "quota_bytes": {
+    "message": ""
+  },
+  "max_items": {
+    "message": ""
+  },
+  "max_write_operations_per_hour": {
+    "message": ""
+  },
+  "max_write_operations_per_minute": {
+    "message": ""
+  },
+  "security": {
+    "message": ""
+  },
+  "visual_options": {
+    "message": ""
+  },
+  "compression_level": {
+    "message": ""
+  },
+  "auto_locking_strategy": {
+    "message": ""
+  },
+  "auto_lock_inactive_for": {
+    "message": ""
+  },
+  "dense_notes_list": {
+    "message": ""
+  },
+  "import_replace_all": {
+    "message": ""
+  },
+  "export_encrypted": {
+    "message": ""
+  },
+  "minutes": {
+    "message": ""
+  },
+  "label_font_size": {
+    "message": "Величина фонта"
+  },
+  "sidebar_size": {
+    "message": ""
+  },
+  "popup_window_width": {
+    "message": ""
+  },
+  "popup_window_height": {
+    "message": ""
+  },
+  "always_open_in_new_tab": {
+    "message": ""
+  },
+  "safari_store": {
+    "message": "Мац Апп Сторе"
+  },
+  "chrome_store": {
+    "message": "Цхроме веб продавница"
+  },
+  "firefox_store": {
+    "message": "Фирефок додаци"
+  },
+  "import_finished": {
+    "message": "Увоз завршено!"
+  },
+  "import_error": {
+    "message": "Грешка"
+  },
+  "import_backup_file": {
+    "message": "Увоз резервне датотеке $1"
+  },
+  "search_search": {
+    "message": ""
+  },
+  "title_import": {
+    "message": "Увоз"
+  },
+  "title_export": {
+    "message": "Извоз"
+  },
+  "title_backups": {
+    "message": ""
+  },
+  "homepage": {
+    "message": "Почетна страница"
+  },
+  "addon_page": {
+    "message": "Паге Аддон"
+  },
+  "settings": {
+    "message": ""
+  },
+  "options": {
+    "message": ""
+  },
+  "label_backups": {
+    "message": ""
+  },
+  "label_rename": {
+    "message": ""
+  },
+  "label_download": {
+    "message": ""
+  },
+  "label_delete": {
+    "message": ""
+  },
+  "label_next": {
+    "message": "Следећи"
+  },
+  "label_note": {
+    "message": "Белешка:"
+  },
+  "label_remove": {
+    "message": "Скинути"
+  },
+  "label_warning": {
+    "message": "УПОЗОРЕЊЕ:"
+  },
+  "label_default": {
+    "message": "Уобичајено:"
+  },
+  "label_done": {
+    "message": "Готово!"
+  },
+  "label_copied": {
+    "message": "Копирано!"
+  },
+  "label_close": {
+    "message": "Близу"
+  },
+  "label_open_page": {
+    "message": "Отворена страна"
+  },
+  "label_agree": {
+    "message": "Договорити се"
+  },
+  "label_cancel": {
+    "message": "Поништити, отказати"
+  },
+  "op_support_me": {
+    "message": "Помозите овом пројекту"
+  },
+  "support_developer": {
+    "message": "Подржите независни програмер!"
+  },
+  "hello_there": {
+    "message": "Поздрав!"
+  },
+  "about_me": {
+    "message": "Ја сам Аддон Девелопер од 2016. Мој циљ је да изградим моћно проширење за ваш веб претраживач да вас учини продуктивнијим."
+  },
+  "about_good_job": {
+    "message": "Ако мислите да радим добар посао, молим вас донирајте :)"
+  },
+  "about_income": {
+    "message": "Ваша донација је мој једини приход!"
+  },
+  "about_thanks": {
+    "message": "Хвала вам што сте подржали мој рад!"
+  },
+  "o_tab_context_menu": {
+    "message": "Садржај"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_pixels": {
+    "message": "пиксела"
+  },
+  "o_seconds": {
+    "message": "секунди"
+  },
+  "label_or": {
+    "message": "или"
+  },
+  "o_about_hello": {
+    "message": "Здраво :)"
+  },
+  "o_about_intro": {
+    "message": "Моје име је $1$ и ја сам аутор $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Ако вам се свиђа, оцените је овде:"
+  },
+  "o_about_thanks": {
+    "message": "Хвала вам!"
+  },
+  "o_about_contact": {
+    "message": "Контакт:"
+  },
+  "o_about_issues": {
+    "message": "Извештај о извештају:"
+  },
+  "o_about_social_media": {
+    "message": "Друштвени медији:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Банковни пренос помоћу ИБАН:"
+  },
+  "used_space": {
+    "message": "Рабљени простор: $1 / $2"
+  },
+  "ps_no_results": {
+    "message": "Нема одговарајућих резултата"
+  },
+  "label_no_data": {
+    "message": "Нема података"
+  },
+  "dark_mode": {
+    "message": "Тамни режим"
+  },
+  "dark_mode_system": {
+    "message": "Контролише системом"
+  },
+  "open_in_new_tab": {
+    "message": "Отвори на новој картици"
+  },
+  "_description_features": {
+    "message": ""
+  },
+  "_description_privacy_policy": {
+    "message": "Правила о приватности"
+  },
+  "_description_recent_features": {
+    "message": "Недавно додате карактеристике:"
+  },
+  "_description_common_tags": {
+    "message": "Ознаке:"
+  }
+}

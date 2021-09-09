@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Preložiť vybraný text (z kontextového menu)"
+  },
+  "_description_feature_2": {
+    "message": "Preklad celej stránky"
+  },
+  "_description_feature_3": {
+    "message": "Tmavý režim!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, Tmavé, e-mail, Google, Lang, Jazyk, Microsoft, Microsoft, Preklad, Prekladač, S3, výber, text, Tradeur, Preložiť, Prekladateľ, Übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ je ľahko použiteľný prekladač pre váš webový prehliadač a Thunderbird!"
+  },
+  "o_tab_translate": {
+    "message": "Preložiť"
+  },
+  "_description_supported_translators": {
+    "message": "Podporovaný poskytovatelia prekladov:"
+  },
+  "translator_GOOGLE": {
+    "message": "Prekladač Google"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Prekladač"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度 翻译 (Baidu Prekladač)"
+  },
+  "open_in_0": {
+    "message": "Modálne okno"
+  },
+  "open_in_1": {
+    "message": "Vyskakovacie okno"
+  },
+  "open_in_2": {
+    "message": "Nová karta"
+  },
+  "open_in_3": {
+    "message": "Nové okno"
+  },
+  "open_in_4": {
+    "message": "Nová karta (bez kontajnera)"
+  },
+  "modal_window": {
+    "message": "Modálne okno"
+  },
+  "toolbar_icon_action": {
+    "message": "Akcia ikony panela s nástrojmi"
+  },
+  "toolbar_icon_text": {
+    "message": "Panel s nástrojmi"
+  },
+  "sidebar_size": {
+    "message": "Veľkosť bočného panela"
+  },
+  "translation_provider": {
+    "message": "Poskytovateľ prekladu"
+  },
+  "translate_to": {
+    "message": "Preložiť do:"
+  },
+  "no_overlay": {
+    "message": "Žiadne prekrytie (tmavá oblasť okolo)"
+  },
+  "no_overlay_hint": {
+    "message": "Modálne okno zostane otvorené, aj keď kliknete von."
+  },
+  "open_translator_in": {
+    "message": "Otvoriť prekladač v:"
+  },
+  "open_translation_in": {
+    "message": "Otvoriť preklad v:"
+  },
+  "fallback_1": {
+    "message": "Záložná metóda"
+  },
+  "fallback_2": {
+    "message": "Záložná metóda"
+  },
+  "fallback_title": {
+    "message": "Modálne a vyskakovacie okno sa v niektorých prípadoch nedá použiť."
+  },
+  "open_in_tab": {
+    "message": "Otvoriť na novej karte"
+  },
+  "translate_this_page": {
+    "message": "Preložiť túto stránku"
+  },
+  "selection_translate": {
+    "message": "Preložiť \"$1\""
+  },
+  "page_translate": {
+    "message": "Preložiť stránku"
+  },
+  "selected_text": {
+    "message": "vybraný text"
+  },
+  "disable_context_menu": {
+    "message": "Zakázať kontextové menu: \"$1\""
+  },
+  "import_finished": {
+    "message": "Import dokočený"
+  },
+  "import_error": {
+    "message": "Chyba"
+  },
+  "import_backup_file": {
+    "message": "Importujte záložný súbor $1"
+  },
+  "search_search": {
+    "message": "Hľadaj"
+  },
+  "homepage": {
+    "message": "Domovská stránka"
+  },
+  "addon_page": {
+    "message": "Stránka doplnku"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Chrome obchod"
+  },
+  "firefox_store": {
+    "message": "Firefox doplnky"
+  },
+  "thunderbird_store": {
+    "message": "Doplnky Thunderbird"
+  },
+  "label_font_size": {
+    "message": "Veľkosť textu"
+  },
+  "label_next": {
+    "message": "Ďalej"
+  },
+  "label_note": {
+    "message": "Poznámka:"
+  },
+  "label_remove": {
+    "message": "Odstrániť"
+  },
+  "label_warning": {
+    "message": "POZOR:"
+  },
+  "label_default": {
+    "message": "Štandardné:"
+  },
+  "label_done": {
+    "message": "Hotovo!"
+  },
+  "label_copied": {
+    "message": "Skopírované!"
+  },
+  "label_close": {
+    "message": "Zavrieť"
+  },
+  "label_open_page": {
+    "message": "Otvoriť stránku"
+  },
+  "label_agree": {
+    "message": "Súhlasím"
+  },
+  "label_cancel": {
+    "message": "Zrušiť"
+  },
+  "op_support_me": {
+    "message": "Pomôž tomuto projektu"
+  },
+  "support_developer": {
+    "message": "Podpor nezávislého vývojára!"
+  },
+  "hello_there": {
+    "message": "Ahoj!"
+  },
+  "about_me": {
+    "message": "Som vývojár doplnkov od roku 2016 a mojím cieľom je vytvoriť výkonné rozšírenia pre Tvoj webový prehliadač, aby si dosiahol vyššiu produktivitu."
+  },
+  "about_good_job": {
+    "message": "Ak si myslíš, že odvádzam dobrú prácu, prosím podpor ma :)"
+  },
+  "about_income": {
+    "message": "Tvoj dar je mojím jediným príjmom!"
+  },
+  "about_thanks": {
+    "message": "Ďakujem za podporu mojej práce!"
+  },
+  "o_tab_context_menu": {
+    "message": "Kontextové menu"
+  },
+  "o_tab_about": {
+    "message": "O rozšírení"
+  },
+  "o_tab_settings": {
+    "message": "Nastavenia"
+  },
+  "o_pixels": {
+    "message": "pixelov"
+  },
+  "o_seconds": {
+    "message": "sekúnd"
+  },
+  "label_or": {
+    "message": "alebo"
+  },
+  "o_about_hello": {
+    "message": "Ahoj :)"
+  },
+  "o_about_intro": {
+    "message": "Volám sa $1$, som z Dolného Kubína a som autorom rozšírenia $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Ak sa ti páči, neváhaj a napíš mi hodnotenie tu:"
+  },
+  "o_about_thanks": {
+    "message": "Ďakujem!"
+  },
+  "o_about_contact": {
+    "message": "Kontakt:"
+  },
+  "o_about_issues": {
+    "message": "Nahlásiť problémy:"
+  },
+  "o_about_social_media": {
+    "message": "Sociálne médiá:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankový prevod pomocou IBAN:"
+  },
+  "ps_no_results": {
+    "message": "Žiadne zodpovedajúce výsledky"
+  },
+  "label_no_data": {
+    "message": "Žiadne dáta"
+  },
+  "dark_mode": {
+    "message": "Tmavý režim"
+  },
+  "dark_mode_system": {
+    "message": "Ovládané systémom"
+  },
+  "_description_features": {
+    "message": "Funkcie:"
+  },
+  "_description_why": {
+    "message": "Prečo?"
+  },
+  "_description_privacy_policy": {
+    "message": "Zásady ochrany osobných údajov"
+  },
+  "_description_recent_features": {
+    "message": "Nedávno pridané funkcie:"
+  },
+  "_description_common_tags": {
+    "message": "Tagy:"
+  },
+  "_description_also_for_firefox": {
+    "message": "K dispozícii aj pre váš Firefox:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "K dispozícii aj pre váš Thunderbird:"
+  }
+}

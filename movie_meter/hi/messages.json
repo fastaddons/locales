@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "तिथि, आईएमडीबी, विवरण, एपिसोड, गेज, ग्राफ, आईएमडीबी, जानकारी, मीटर, फिल्म, फिल्म, सिनेमा, नेटफ्लिक्स, आईएमडीबी, रेटिंग, श्रृंखला, शो, टीवी, टीवी शो, वीडियो, विजुअल, वोट, सीजन"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "फिल्म नहीं मिली / गलत फिल्म मिली - चूंकि लक्ष्य पृष्ठों के साथ कोई \"आधिकारिक\" एकीकरण नहीं है, इसलिए मैं 100% सही परिणामों की गारंटी नहीं दे सकता (लेकिन अधिकांश मामलों में यह पूरी तरह से काम करता है)"
+  },
+  "_description_mm_not_working": {
+    "message": "आपके पसंदीदा मूवी पेज पर काम नहीं करता है?"
+  },
+  "_description_mm_add_support": {
+    "message": "मुझसे संपर्क करें और मैं इसे जोड़ दूंगा - यदि संभव हो (पृष्ठ में अंग्रेजी या $visit_imdb$ लिंक में मूवी नाम होना चाहिए)।"
+  },
+  "_description_mm_feature_1": {
+    "message": "$visit_imdb$ से मूवी रेटिंग और लोकप्रियता"
+  },
+  "_description_mm_feature_2": {
+    "message": "$visit_tvmaze$ से अगला / पिछला एपिसोड तिथि"
+  },
+  "_description_mm_feature_3": {
+    "message": "अतिरिक्त फिल्म / टीवी श्रृंखला की जानकारी"
+  },
+  "_description_mm_feature_4": {
+    "message": "नए एपिसोड के बारे में अधिसूचना"
+  },
+  "_description_mm_feature_5": {
+    "message": "टीवी श्रृंखला को पसंदीदा के रूप में चिह्नित करें और जब नया एपिसोड उपलब्ध हो तो आपको अधिसूचना मिलेगी"
+  },
+  "_description_mm_feature_7": {
+    "message": "वीडियो प्लेबैक का पता चला जब ऑटो-छुपाएं"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ आपको एक फिल्म की रेटिंग और लोकप्रियता दिखाएगा (या टीवी श्रृंखला)"
+  },
+  "name": {
+    "message": "नाम"
+  },
+  "year": {
+    "message": "साल"
+  },
+  "video_type": {
+    "message": "प्रकार"
+  },
+  "video_type_0": {
+    "message": "चलचित्र"
+  },
+  "video_type_1": {
+    "message": "श्रृंखला"
+  },
+  "video_type_2": {
+    "message": "प्रकरण"
+  },
+  "runtime": {
+    "message": "क्रम"
+  },
+  "premiered": {
+    "message": "Premiere"
+  },
+  "premiere_in": {
+    "message": "में प्रीमियर"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "देश"
+  },
+  "actors": {
+    "message": "अभिनेताओं"
+  },
+  "dvd": {
+    "message": "डीवीडी"
+  },
+  "director": {
+    "message": "निदेशक"
+  },
+  "totalseasons": {
+    "message": "कुल मौसम"
+  },
+  "writer": {
+    "message": "लेखक"
+  },
+  "language": {
+    "message": "भाषा: हिन्दी"
+  },
+  "awards": {
+    "message": "पुरस्कार"
+  },
+  "rated": {
+    "message": "रेटेड"
+  },
+  "production": {
+    "message": "उत्पादन"
+  },
+  "plot": {
+    "message": "भूखंड"
+  },
+  "website": {
+    "message": "वेबसाइट"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "$visit_imdb$ पेज पर जाएं"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "इस शो के लिए $visit_tvmaze$ पेज पर जाएं"
+  },
+  "make_favorite": {
+    "message": "पसंदीदा"
+  },
+  "make_favorite_title": {
+    "message": "पसंदीदा में टीवी श्रृंखला जोड़ें। यह आपको नए एपिसोड के बारे में अधिसूचना प्राप्त करने की अनुमति देगा।"
+  },
+  "last_episode": {
+    "message": "पिछले"
+  },
+  "next_episode": {
+    "message": "अगला"
+  },
+  "last_episode_title": {
+    "message": "अंतिम भाग"
+  },
+  "next_episode_title": {
+    "message": "अगले प्रकरण"
+  },
+  "episode_airtime": {
+    "message": "एयरराइम"
+  },
+  "episode_name": {
+    "message": "नाम"
+  },
+  "series_status": {
+    "message": "स्थिति"
+  },
+  "episodes_count": {
+    "message": "एपिसोड"
+  },
+  "episodes_count_title": {
+    "message": "वर्तमान सीजन $1 में $2 एपिसोड हैं"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "दिन"
+  },
+  "hours": {
+    "message": "घंटे"
+  },
+  "na": {
+    "message": "उपलब्ध नहीं है"
+  },
+  "user_rating": {
+    "message": "उपयोगकर्ता रेटिंग: $1"
+  },
+  "user_popularity": {
+    "message": "लोकप्रियता: $1 वोट"
+  },
+  "source": {
+    "message": "स्रोत: $1"
+  },
+  "show_details": {
+    "message": "अधिक..."
+  },
+  "hide_details": {
+    "message": "कम से..."
+  },
+  "save_position": {
+    "message": "स्तिथि सहेजे"
+  },
+  "revert_position": {
+    "message": "वापसी की स्थिति"
+  },
+  "win_disable": {
+    "message": "$1 पर अक्षम करें"
+  },
+  "cm_advanced": {
+    "message": "उन्नत"
+  },
+  "op_visit_home": {
+    "message": "होमपेज पर जाएं"
+  },
+  "op_support_me": {
+    "message": "इस परियोजना में मदद करें"
+  },
+  "hide": {
+    "message": "खिड़की छुपाएं"
+  },
+  "show": {
+    "message": "खिड़की दिखाएंं"
+  },
+  "reset_position": {
+    "message": "रीसेट स्थिति"
+  },
+  "search": {
+    "message": "खोज"
+  },
+  "configure_search": {
+    "message": "खोज विकल्पों को कॉन्फ़िगर करें"
+  },
+  "selection_search": {
+    "message": "खोज $1"
+  },
+  "menu_options": {
+    "message": "विकल्प"
+  },
+  "menu_quick_options": {
+    "message": "त्वरित विकल्प"
+  },
+  "menu_visit_homepage": {
+    "message": "होमपेज पर जाएं"
+  },
+  "menu_request_support": {
+    "message": "$1 के लिए समर्थन का अनुरोध करें"
+  },
+  "show_introduction": {
+    "message": "परिचय पृष्ठ दिखाएं"
+  },
+  "o_about_issues": {
+    "message": "रिपोर्ट समस्याएं:"
+  },
+  "safari_store": {
+    "message": "मैक ऐप स्टोर"
+  },
+  "firefox_store": {
+    "message": "फ़ायरफ़ॉक्स ऐड-ऑन"
+  },
+  "chrome_store": {
+    "message": "क्रोम वेब स्टोर"
+  },
+  "movie_not_detected": {
+    "message": "फिल्म का पता नहीं चला"
+  },
+  "movie_not_detected_title": {
+    "message": "इस पृष्ठ पर कोई मूवी / टीवी श्रृंखला नहीं मिली थी।"
+  },
+  "movie_not_found": {
+    "message": "फिल्म नहीं मिली"
+  },
+  "movie_not_found_title": {
+    "message": "फिल्म जानकारी सर्वर पर नहीं मिली थी।"
+  },
+  "status_type_0": {
+    "message": "दौड़ना"
+  },
+  "status_type_1": {
+    "message": "समाप्त"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "शो जारी रहेगा"
+  },
+  "status_type_title_1": {
+    "message": "शो समाप्त हो गया - कोई और सत्र योजनाबद्ध नहीं है"
+  },
+  "status_type_title_2": {
+    "message": "शो भविष्य अस्पष्ट है"
+  },
+  "notify_movie_not_found": {
+    "message": "मूवी नहीं मिली: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "केवल अंग्रेजी मूवी नाम का उपयोग करें!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "खोज सही नहीं है ..."
+  },
+  "notify_video_hide": {
+    "message": "वीडियो का पता चला - $app_name$ अब छिपा हुआ है"
+  },
+  "notify_video_hide_body": {
+    "message": "इस अधिसूचना को फिर से न दिखाने के लिए यहां क्लिक करें"
+  },
+  "notify_new_episodes": {
+    "message": "नया एपिसोड प्रसारित किया गया था"
+  },
+  "title_introduction": {
+    "message": "परिचय"
+  },
+  "supported_pages": {
+    "message": "समर्थित पृष्ठ:"
+  },
+  "supported_grows": {
+    "message": "(यह सूची बड़ी और बड़ी बढ़ती है)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "रेटिंग और लोकप्रियता जानकारी $1$ से हैं। एपिसोड के बारे में जानकारी $2$ से है।"
+  },
+  "title_got_it": {
+    "message": "इसे मिला, चलो शुरू करो!"
+  },
+  "_description_privacy_policy": {
+    "message": "गोपनीयता नीति"
+  },
+  "_description_recent_features": {
+    "message": "हाल ही में जोड़ा गया विशेषताएं:"
+  },
+  "_description_known_issues": {
+    "message": "ज्ञात पहलु:"
+  },
+  "_description_common_tags": {
+    "message": "टैग:"
+  },
+  "_description_features": {
+    "message": "विशेषताएं:"
+  },
+  "about_me": {
+    "message": "मैं 2016 से एडन डेवलपर हूं। मेरा लक्ष्य आपको अपने वेब-ब्राउज़र के लिए अधिक उत्पादक बनाने के लिए शक्तिशाली एक्सटेंशन बनाना है।"
+  },
+  "about_good_job": {
+    "message": "अगर आपको लगता है कि मैं एक अच्छा काम कर रहा हूं, तो कृपया दान करें :)"
+  },
+  "about_income": {
+    "message": "आपका दान मेरी एकमात्र आय है!"
+  },
+  "about_thanks": {
+    "message": "मेरे काम का समर्थन करने के लिए धन्यवाद!"
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN का उपयोग करके बैंक हस्तांतरण:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "स्वतंत्र डेवलपर का समर्थन करें!"
+  }
+}

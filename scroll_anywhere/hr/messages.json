@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "bilo gdje, gumb, kursor, povucite, zgrabite, povucite povucite, zgrabite i povucite, beskonačan, lijevo, srednji, zamah, miša, premještanje, stranu, desno, pomicanje, pomaknite stranicu, scroll"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Povucite ScrollBar sa srednjom tipkom miša bilo gdje na stranici. Podržava i \"zgrabite i povucite\" stil."
+  },
+  "field_int_default_value": {
+    "message": "Zadana vrijednost: $1, Min: $2, Max: $3"
+  },
+  "field_set_default": {
+    "message": "Resetirajte na zadano: $1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-ons"
+  },
+  "firefox_store": {
+    "message": "Firefox dodaci"
+  },
+  "chrome_store": {
+    "message": "Chrome web-trgovina"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "win_disable": {
+    "message": "Onemogući na $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Onemogući horizontalno pomicanje na $1"
+  },
+  "op_visit_home": {
+    "message": "Posjetite početnu stranicu"
+  },
+  "op_support_me": {
+    "message": "Pomoći ovom projektu"
+  },
+  "o_title": {
+    "message": "Opcije - $1"
+  },
+  "o_tab_general": {
+    "message": "Općenito"
+  },
+  "o_tab_momentum": {
+    "message": "Zamah"
+  },
+  "o_tab_cursor": {
+    "message": "Kursor"
+  },
+  "o_axis_locking": {
+    "message": "Zaključavanje osi"
+  },
+  "o_tab_performance": {
+    "message": "Izvođenje"
+  },
+  "o_tab_disabled_on": {
+    "message": "Onemogućeno"
+  },
+  "o_tab_advanced": {
+    "message": "Napredna"
+  },
+  "o_tab_scrollbars": {
+    "message": "Sclollbars"
+  },
+  "o_tab_backup": {
+    "message": "Uvoz / sigurnosna kopija"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Kada pomičete okvir koji se može pomicati u jednoj osi, ali roditeljska kutija se može shvatiti u drugoj osi, zaključati pomicanje na jednu os pomoću:"
+  },
+  "o_axis_lock_0": {
+    "message": "Smart Lock - vremensko zaključavanje pomoću zamaha"
+  },
+  "o_axis_lock_1": {
+    "message": "Stroga brava - instant smjer brave"
+  },
+  "o_axis_lock_2": {
+    "message": "Bez zaključavanja - slobodno pomicanje u osi osi"
+  },
+  "o_trend_momentum_window": {
+    "message": "Veličina pametnog zaključavanja"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Veća vrijednost zahtijevat će više pomicanje u suprotnoj osi za promjenu osi pomicanje."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon je onemogućen! Kliknite ovdje da biste omogućili."
+  },
+  "o_cursor_change_default": {
+    "message": "nema promjene - najbolje performanse"
+  },
+  "o_scroll_button": {
+    "message": "Gumb za pomicanje:"
+  },
+  "o_direction_speed": {
+    "message": "Still stil / Smjer / Brzina:"
+  },
+  "o_multiplier": {
+    "message": "Multiplikator"
+  },
+  "o_times_speed": {
+    "message": "vrijeme za pomicanje brzina"
+  },
+  "o_maximum_speed": {
+    "message": "Maksimalna brzina za pomicanje (0 - Onemogućeno):"
+  },
+  "o_ratio_unit": {
+    "message": "omjer (duljina stranice / veličina prozora)"
+  },
+  "o_scroll_type_0": {
+    "message": "Emulirati scrullbar"
+  },
+  "o_scroll_type_1": {
+    "message": "Zgrabite i povucite - kao na pametnom telefonu"
+  },
+  "o_scroll_type_2": {
+    "message": "Dinamička brzina (eksperimentalna)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "To je kao povlačenje skročom"
+  },
+  "o_scroll_type_title_1": {
+    "message": "To je kao povlačenje stranice prstom na zaslonu telefona"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Dinamička brzina čini brzinu za pomicanje sporije kada je stranica dulja"
+  },
+  "o_disable_key": {
+    "message": "Onemogućite / omogućite pomicanje kada je ključ dolje:"
+  },
+  "o_momentum_category": {
+    "message": "Momentum:"
+  },
+  "o_momentum_formula": {
+    "message": "Momentuum formula:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Ravnomjerno usporen kretanje"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Stručni svitak će se ravnomjerno usporiti dok se ne zaustavi"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Eksponencijalno usporen kretanje"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Stručni svitak će brzo (eksponencijalno) usporiti"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Beskonačni pokret ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Pomicanje nikada neće prestati"
+  },
+  "o_momentum_max_speed": {
+    "message": "Maksimalna brzina (0 - Onemogućeno):"
+  },
+  "o_page_weight": {
+    "message": "Težina stranice:"
+  },
+  "o_grams": {
+    "message": "grama :)"
+  },
+  "o_additional_speed": {
+    "message": "Dodatna brzina:"
+  },
+  "o_pixels_second": {
+    "message": "pikseli u sekundi"
+  },
+  "o_additional_duration": {
+    "message": "Dodatno trajanje:"
+  },
+  "o_advanced_momentum": {
+    "message": "Napredna postavka zamaha (samo za stručnjake!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Promjena tih vrijednosti može slomiti zamah!"
+  },
+  "o_compute_from_last": {
+    "message": "Izračunajte od posljednjeg:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Detekcija prestane miša:"
+  },
+  "o_tracking_speed": {
+    "message": "Brzina praćenja:"
+  },
+  "o_reset_values": {
+    "message": "Resetirajte vrijednosti"
+  },
+  "o_cursor_scrolling": {
+    "message": "Kursor koji se koristi pri pomicanje:"
+  },
+  "o_performance": {
+    "message": "Izvođenje:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Spriječiti velike skokove"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Ako koristite alat koji može teleportirati svoj pokazivač preko zaslona (kada dođete do ruba), omogućite ovu opciju kako biste omogućili kontinuirani (beskonačni) pomicanje."
+  },
+  "o_advanced": {
+    "message": "Napredna:"
+  },
+  "o_movement_detection": {
+    "message": "Prag detekcije pokreta miša:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Koliko piksela ima za miša premjestiti na blokiranje veze. Ponekad kada pritisnete gumb za pomicanje, lagano pomaknite mišu, ali ne želite da se veza ne može onesposobiti zbog toga."
+  },
+  "o_context_menu_block": {
+    "message": "Kontekstni blok:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Deblokirati kontekstni izbornik kašnjenje"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Ako nakon pomicanja vidite kontekstni izbornik s desnom tipkom miša, povećajte ovu vrijednost"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Onemogući horizontalno pomicanje na domene:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Onemogućeno na domene:"
+  },
+  "o_is_disabled_url": {
+    "message": "Onemogućeno na stranicama / podstranjivim stranicama:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Star simbol (*) možete definirati URL dio, na primjer: \"Google.com/mapsp\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Unesite jednu domenu po retku."
+  },
+  "o_is_disabled": {
+    "message": "Onemogućite dodatak"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Koristite ikonu alatne trake kao glavni prekidač za uključivanje / isključivanje"
+  },
+  "o_scroll_button_middle": {
+    "message": "Srednji gumb"
+  },
+  "o_scroll_button_right": {
+    "message": "Desni gumb"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Mac korisnici - od vas će se tražiti za novu dozvolu \"Pročitajte i modificirati postavke preglednika\" - to je potrebno za suzbijanje kontekstnog izbornika koji se prikazuje prije pomicanja!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac korisnici - Vaš kontekstni izbornik bit će blokiran! Za otvaranje kontekstnog izbornika Hold \"Shift\" ili Triple-Click Desno."
+  },
+  "o_scroll_button_left": {
+    "message": "Lijevi gumb (eksperimentalni)"
+  },
+  "o_scroll_on_links": {
+    "message": "Pomičite se na linkove"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Kada je omogućeno, nećete moći povući i ispustiti veze (samo pomoću \"Onemogući\" ključ)"
+  },
+  "o_scroll_on_text": {
+    "message": "Pomaknite se na tekst"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emulira s pomicanje / uređivanje telefona - morate kliknuti na tekst kako biste se mogli prebaciti na \"Uređivanje načina\". Klikom na izvan teksta omogućuje ponovno pomicanje."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Pomaknite se na Textarea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea je blok teksta, obično promjenjiv. Na primjer na kartici \"Onemogućeno\" možete vidjeti Texterua."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Pomaknite se na Uređivanje HTML"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Na primjer, tijelo e-pošte u Gmailu je uređivanje HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "u tekstu će omogućiti odabir / uređivanje teksta."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Kliknite na tekst će omogućiti \"Uredi način rada\". Kliknite Izvan Tekst da biste omogućili \"način svitka\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Jedan klik"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Dvostruki klik"
+  },
+  "o_scrollbars_width": {
+    "message": "ScrollBars izgleda"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normalno (bez promjene)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Tanak"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Skriven"
+  },
+  "o_scrollbars_color": {
+    "message": "Boja klizača za pomicanje:"
+  },
+  "o_scrollbars_background": {
+    "message": "Boja pozadine za pomicanje:"
+  },
+  "o_reverse": {
+    "message": "Smjer obrnutog pomicanja"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Pomak"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl"
+  },
+  "o_disable_type_0": {
+    "message": "Onemogući kada je ključ dolje:"
+  },
+  "o_disable_type_1": {
+    "message": "Omogući kada je ključ dolje:"
+  },
+  "o_momentum": {
+    "message": "omogući zamah - možete \"baciti\" stranicu (kao na telefonu)"
+  },
+  "o_no_css_edit": {
+    "message": "Nemojte zaključati iframes i ne mijenjajte kursor kada se pomičete"
+  },
+  "o_no_prevent_default": {
+    "message": "Nemojte blokirati radnju zadane tipke"
+  },
+  "o_auto_link_lock": {
+    "message": "Blokiranje veza:"
+  },
+  "o_no_link_block": {
+    "message": "Ne blokirajte klik miša na link nakon pokreta"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Kada počnete s pomicanje na link, a zatim završiti pomicanje na istoj vezi, preglednik će otvoriti vezu. To obično nije željeno ponašanje pa po defaultu je blokiran."
+  },
+  "o_page_weight_title": {
+    "message": "To kontrolira kako je \"teška\" stranica je. Teže stranice imaju duži zamah."
+  },
+  "o_additional_speed_title": {
+    "message": "Možete ubrzati brzinu navođenja zamaha."
+  },
+  "o_additional_duration_title": {
+    "message": "Dodatno vrijeme za svaki zamah."
+  },
+  "o_compute_from_last_title": {
+    "message": "Momentum početna brzina se određuje brzinom pomicanje desno prije nego što otpustite gumb za pomicanje."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Koliko vremena mora ostati na mišem - prije nego što otpustite gumb za pomicanje - da ne aktivirate zamah."
+  },
+  "o_tracking_speed_title": {
+    "message": "Interval za mjerenje tekuće brzine za pomicanje."
+  },
+  "o_scrolling_area": {
+    "message": "Podložno područje:"
+  },
+  "o_outside_area_width": {
+    "message": "Podloženje (0 - Onemogućeno):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Premještanje pokazivača izvan pomicanja područja vratit će se pomicanje položaja. Isto ponašanje može se vidjeti prilikom povlačenja zaklopke."
+  },
+  "o_scroll_button_left_title": {
+    "message": "UPOZORENJE - Podrška za lijevu tipku je pomoću amortizacije API-ja koji se može ukloniti u budućim verzijama Firefoxa."
+  },
+  "o_prevent_text_selection": {
+    "message": "Spriječite odabir teksta kada se pomiče s lijevom tipkom"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Na nekim uređajima pomicanje s lijevom tipkom miša također će odabrati tekst na stranici."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Nemojte blokirati kontekstni izbornik kada se pokušavate pomicati na stranici ne scrilly"
+  },
+  "o_backup_restore": {
+    "message": "Postavke sigurnosne kopije / vračanja u datoteku:"
+  },
+  "o_export_settings": {
+    "message": "Postavke izvoza u datoteku"
+  },
+  "import_settings_button": {
+    "message": "Postavke uvoza iz $1 datoteke ..."
+  },
+  "import_finished": {
+    "message": "Uvoz završio!"
+  },
+  "test_page_title": {
+    "message": "Ovdje testirajte postavke pomicanje"
+  },
+  "menu_options": {
+    "message": "Opcije"
+  },
+  "menu_visit_title": {
+    "message": "Posjetite početnu stranicu"
+  },
+  "not_working": {
+    "message": "Onemogućeno vašom web-preglednikom"
+  },
+  "disabled_by_user": {
+    "message": "Onemogućeno na ovoj domeni"
+  },
+  "not_working_title": {
+    "message": "Vaš preglednik će blokirati scrolovanywhere na ovim vrstama stranica:"
+  },
+  "not_working_body": {
+    "message": "Da biste omogućili scrolagonywhere na stranicama \"Mozilla.org\", pogledajte ovaj tutorial YouTube"
+  },
+  "show_scrollbars": {
+    "message": "Prikaži skroznice"
+  },
+  "show_scrollbars_title": {
+    "message": "Privremeno pokazuju scrollbarde"
+  },
+  "switch_on_off": {
+    "message": "Prekidajte dodatak / uključeno"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Ako doživite vidljivu kašnjenje između pritiskanja tipke za pomicanje i pokretanje pomicanja, pokušajte omogućiti ovu opciju. Međutim, nećete se moći pomicati preko \"Iframes\" kao što su neki stari ugrađeni videozapisi ili neki oglasi."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "To će također onemogućiti opciju za promjenu pokazivača dok se pomiče."
+  },
+  "o_helper_text_default_action": {
+    "message": "Korisno u Linuxu kako bi se omogućilo paste s srednjim gumbom."
+  },
+  "o_about_hello": {
+    "message": "Zdravo :)"
+  },
+  "o_about_intro": {
+    "message": "Moje ime je $1$ i ja sam autor $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Ako vam se sviđa, ocijenite ga ovdje:"
+  },
+  "o_about_dislike_it": {
+    "message": "Ako vam se ne sviđa, javite mi zašto na moj e-mail. Provodim većinu značajki koje primam."
+  },
+  "o_disabled": {
+    "message": "onemogućeno",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "omogućen",
+    "common": true
+  },
+  "o_times": {
+    "message": "puta",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "piksela",
+    "common": true
+  },
+  "o_items": {
+    "message": "stavka",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milisekundi",
+    "common": true
+  },
+  "label_working": {
+    "message": "rad ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Zatvoriti",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Razmislite o podršci mom radu",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donacija (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "postaje moj zaštitnik",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Hvala vam!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "dom:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Pitanja izvješća:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Mogu odgovoriti samo na engleskom / slooku",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Društveni mediji:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Spremite promjene i zatvaranje",
+    "common": true
+  },
+  "o_saved": {
+    "message": "spašen!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Dolazi uskoro",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Spremi promjene",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Pravila o privatnosti",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Nedavno dodane značajke:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Oznake:",
+    "common": true
+  }
+}

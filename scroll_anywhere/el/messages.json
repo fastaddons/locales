@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "οπουδήποτε, κουμπί, δρομέας, σύρετε, πιάστε, πιάστε, αρπάξτε και σύρετε, άπειρο, αριστερό, μέση, ορμή, ποντίκι, κίνηση, σελίδα, δεξιά, κύλιση, σελίδα κύλισης, κύλιση, ρίψη,"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Σύρετε το scrollbar με το μεσαίο κουμπί του ποντικιού σας οπουδήποτε στη σελίδα. Υποστηρίζει επίσης το στυλ \"αρπάξτε και σύρετε\"."
+  },
+  "field_int_default_value": {
+    "message": "Προεπιλεγμένη τιμή: $1, min: $2, max: $3"
+  },
+  "field_set_default": {
+    "message": "Επαναφορά στην προεπιλογή: $1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird add-ons"
+  },
+  "firefox_store": {
+    "message": "Σελίδα πρόσθετων για τον Firefox"
+  },
+  "chrome_store": {
+    "message": "σελίδα Chrome Web Store"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "win_disable": {
+    "message": "Απενεργοποιήστε το $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Απενεργοποιήστε την οριζόντια κύλιση στο $1"
+  },
+  "op_visit_home": {
+    "message": "Επισκεφθείτε την αρχική σελίδα"
+  },
+  "op_support_me": {
+    "message": "Βοηθήστε αυτό το έργο"
+  },
+  "o_title": {
+    "message": "Επιλογές - $1"
+  },
+  "o_tab_general": {
+    "message": "Γενικά"
+  },
+  "o_tab_momentum": {
+    "message": "Ορμή"
+  },
+  "o_tab_cursor": {
+    "message": "Δρομέας"
+  },
+  "o_axis_locking": {
+    "message": "Άξονας Κλείδωμα"
+  },
+  "o_tab_performance": {
+    "message": "Εκτέλεση"
+  },
+  "o_tab_disabled_on": {
+    "message": "Απενεργοποιημένο"
+  },
+  "o_tab_advanced": {
+    "message": "Προχωρημένος"
+  },
+  "o_tab_scrollbars": {
+    "message": "Κύλινδροι"
+  },
+  "o_tab_backup": {
+    "message": "Εισαγωγή / αντίγραφα ασφαλείας"
+  },
+  "o_tab_about": {
+    "message": "Σχετικά"
+  },
+  "o_axis_lock_helper": {
+    "message": "Όταν μετακινηθείτε ένα κιβώτιο που είναι κύλισης σε έναν άξονα, αλλά το κιβώτιο γονέα είναι κύλισης σε άλλο άξονα, κλείδωμα κύλισης σε έναν άξονα χρησιμοποιώντας:"
+  },
+  "o_axis_lock_0": {
+    "message": "Έξυπνη κλειδαριά - χρονική κλειδαριά χρησιμοποιώντας τη δυναμική"
+  },
+  "o_axis_lock_1": {
+    "message": "Αυστηρή κλειδαριά - Άμεση κατεύθυνση κλειδώματος"
+  },
+  "o_axis_lock_2": {
+    "message": "Δεν υπάρχει κλειδαριά χωρίς κύλιση και σε έναν άξονα"
+  },
+  "o_trend_momentum_window": {
+    "message": "Έξυπνο μέγεθος κλειδαριές"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Η μεγαλύτερη τιμή θα απαιτήσει περισσότερη κύλιση σε αντίθετο άξονα για να αλλάξει ο άξονας κύλισης."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Το addon είναι απενεργοποιημένο! Κάντε κλικ εδώ για να ενεργοποιήσετε."
+  },
+  "o_cursor_change_default": {
+    "message": "καμία αλλαγή - καλύτερη απόδοση"
+  },
+  "o_scroll_button": {
+    "message": "Κουμπί κύλισης:"
+  },
+  "o_direction_speed": {
+    "message": "Μετακίνηση στυλ / κατεύθυνση / ταχύτητα:"
+  },
+  "o_multiplier": {
+    "message": "Πολλαπλασιαστής"
+  },
+  "o_times_speed": {
+    "message": "φορές ταχύτητα κύλισης"
+  },
+  "o_maximum_speed": {
+    "message": "Μέγιστη ταχύτητα κύλισης (0 - Απενεργοποιημένη):"
+  },
+  "o_ratio_unit": {
+    "message": "αναλογία (μέγεθος σελίδας / μέγεθος παραθύρου)"
+  },
+  "o_scroll_type_0": {
+    "message": "Μιμούνται scrollbar"
+  },
+  "o_scroll_type_1": {
+    "message": "Πιάστε και σύρετε - όπως σε ένα smartphone"
+  },
+  "o_scroll_type_2": {
+    "message": "Δυναμική ταχύτητα (πειραματική)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Είναι σαν να σύρετε μια γραμμή κύλισης"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Είναι σαν να σύρετε μια σελίδα με το δάχτυλό σας σε μια οθόνη τηλεφώνου"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Η δυναμική ταχύτητα κάνει την ταχύτητα κύλισης πιο αργά όταν η σελίδα είναι μεγαλύτερη"
+  },
+  "o_disable_key": {
+    "message": "Απενεργοποίηση / Ενεργοποίηση κύλισης όταν το κλειδί είναι κάτω:"
+  },
+  "o_momentum_category": {
+    "message": "Ορμή:"
+  },
+  "o_momentum_formula": {
+    "message": "Ορμητική φόρμουλα:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Ομοιόμορφα επιβράδυνση της κίνησης"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Η κύλιση σελίδας θα επιβραδυνθεί ομοιόμορφα μέχρι να σταματήσει"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Εκθετικά επιβράδυνση της κίνησης"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Η κύλιση σελίδας θα επιβραδυνθεί γρήγορα (εκθετικά)"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Απεριόριστη κίνηση ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Η κύλιση δεν θα σταματήσει ποτέ"
+  },
+  "o_momentum_max_speed": {
+    "message": "Μέγιστη ταχύτητα (0 - Απενεργοποιημένη):"
+  },
+  "o_page_weight": {
+    "message": "Βάρος σελίδας:"
+  },
+  "o_grams": {
+    "message": "γραμμάρια :)"
+  },
+  "o_additional_speed": {
+    "message": "Πρόσθετη ταχύτητα:"
+  },
+  "o_pixels_second": {
+    "message": "pixels ανά δευτερόλεπτο"
+  },
+  "o_additional_duration": {
+    "message": "Πρόσθετη διάρκεια:"
+  },
+  "o_advanced_momentum": {
+    "message": "Προηγμένη εγκατάσταση ορμής (μόνο για ειδικούς!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Η αλλαγή αυτών των τιμών μπορεί να σπάσει την ορμή σας!"
+  },
+  "o_compute_from_last": {
+    "message": "Υπολογίστε το τελευταίο:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Ανίχνευση διακοπής ποντικιού:"
+  },
+  "o_tracking_speed": {
+    "message": "Ταχύτητα παρακολούθησης:"
+  },
+  "o_reset_values": {
+    "message": "Επαναφορά τιμών"
+  },
+  "o_cursor_scrolling": {
+    "message": "Δρομέας που χρησιμοποιείται κατά την κύλιση:"
+  },
+  "o_performance": {
+    "message": "Εκτέλεση:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Αποτρέψτε τα μεγάλα άλματα"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Εάν χρησιμοποιείτε εργαλείο που μπορεί να τηλεμεταφέρει τον δρομέα σας στην οθόνη (όταν φτάσετε σε μια άκρη), ενεργοποιήστε αυτήν την επιλογή να επιτρέπουν συνεχή (άπειρη) κύλιση."
+  },
+  "o_advanced": {
+    "message": "Προχωρημένος:"
+  },
+  "o_movement_detection": {
+    "message": "Τρόπος ανίχνευσης κίνησης ποντικιού:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Πόσα εικονοστοιχεία πρέπει να μετακινήσετε το ποντίκι για να μπλοκάρουν τη σύνδεση. Μερικές φορές, όταν πιέζετε το κουμπί κύλισης, μετακινήσετε ελαφρά το ποντίκι, αλλά δεν θέλετε να απενεργοποιήσετε τον σύνδεσμο εξαιτίας αυτού."
+  },
+  "o_context_menu_block": {
+    "message": "Μπλοκ μενού περιβάλλοντος:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Unblock Καθυστέρηση μενού περιβάλλοντος"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Εάν βλέπετε το μενού περιβάλλοντος μετά την κύλιση με το δεξί κουμπί του ποντικιού, αυξήστε αυτήν την τιμή"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Απενεργοποιήστε την οριζόντια κύλιση στους τομείς:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Απενεργοποιημένο σε τομείς:"
+  },
+  "o_is_disabled_url": {
+    "message": "Απενεργοποιημένη σε σελίδες / υποσύνολα:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Μπορείτε να χρησιμοποιήσετε το σύμβολο Star (*) για να ορίσετε ένα μέρος URL, για παράδειγμα: \"google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Εισάγετε έναν τομέα ανά γραμμή."
+  },
+  "o_is_disabled": {
+    "message": "Απενεργοποιήστε το πρόσθετο"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Χρησιμοποιήστε το εικονίδιο της γραμμής εργαλείων ως το κύριο διακόπτη ON / OFF"
+  },
+  "o_scroll_button_middle": {
+    "message": "Μεσαίο κουμπί"
+  },
+  "o_scroll_button_right": {
+    "message": "Δεξί κουμπί"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Οι χρήστες Linux / Mac - θα σας ζητηθεί νέα άδεια \"ανάγνωση και τροποποίηση ρύθμισης προγράμματος περιήγησης\" - αυτό απαιτείται για την καταστολή του μενού περιβάλλοντος που εμφανίζεται πριν από την κύλιση!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Χρήστες Linux / Mac - το μενού περιβάλλοντος σας θα αποκλειστεί! Για να ανοίξετε το μενού περιβάλλοντος κρατήστε το πλήκτρο \"Shift\" ή το δεξί πλήκτρο Triple-Click."
+  },
+  "o_scroll_button_left": {
+    "message": "Αριστερό κουμπί (πειραματικό)"
+  },
+  "o_scroll_on_links": {
+    "message": "Μετακινηθείτε στους συνδέσμους"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Όταν είναι ενεργοποιημένη, δεν θα μπορείτε να σύρετε και να ρίξετε συνδέσμους (μόνο χρησιμοποιώντας το πλήκτρο \"Απενεργοποίηση\")"
+  },
+  "o_scroll_on_text": {
+    "message": "Μετακινηθείτε στο κείμενο"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Ομιλώνει την κύλιση / επεξεργασία τηλεφώνου - πρέπει να κάνετε κλικ στο κείμενο για να μεταβείτε στη \"Λειτουργία επεξεργασίας\". Κάνοντας κλικ έξω από το κείμενο ενεργοποιεί ξανά κύλιση."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Μετακινηθείτε στην Textarea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Το Textarea είναι ένα μπλοκ κειμένου, συνήθως διακόπτοντας. Για παράδειγμα, στην καρτέλα \"Απενεργοποίηση\" μπορείτε να δείτε textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Μετακινηθείτε σε επεξεργάσιμη HTML"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Για παράδειγμα, το σώμα ηλεκτρονικού ταχυδρομείου στο Gmail είναι επεξεργάσιμο HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "στο κείμενο θα επιτρέψει την επιλογή / επεξεργασία κειμένου."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Κάντε κλικ στο κείμενο θα ενεργοποιήσετε τη λειτουργία \"Επεξεργασία λειτουργίας\". Κάντε κλικ στο εξωτερικό κείμενο για να ενεργοποιήσετε τη λειτουργία \"Scroll Mode\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Ενιαίο κλικ"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Διπλό κλικ"
+  },
+  "o_scrollbars_width": {
+    "message": "Scrollbars Look"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Κανονική (καμία αλλαγή)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Λεπτός"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Κρυμμένος"
+  },
+  "o_scrollbars_color": {
+    "message": "Scrollbar Slider Χρώμα:"
+  },
+  "o_scrollbars_background": {
+    "message": "Scrollbar Χρώμα φόντου:"
+  },
+  "o_reverse": {
+    "message": "Αντίστροφη κατεύθυνση κύλισης"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Βάρδια"
+  },
+  "o_disable_ctrl": {
+    "message": "Κονδύλιο"
+  },
+  "o_disable_type_0": {
+    "message": "Απενεργοποίηση όταν το κλειδί είναι κάτω:"
+  },
+  "o_disable_type_1": {
+    "message": "Ενεργοποίηση όταν το κλειδί είναι κάτω:"
+  },
+  "o_momentum": {
+    "message": "ενεργοποιήστε τη δυναμική - μπορείτε να \"πετάξετε\" τη σελίδα (όπως στο τηλέφωνο)"
+  },
+  "o_no_css_edit": {
+    "message": "Μην κλειδώνετε τα iFRames και μην αλλάξετε τον κέρσορα κατά την κύλιση"
+  },
+  "o_no_prevent_default": {
+    "message": "Μην εμποδίζετε την προεπιλεγμένη δράση του κουμπιού"
+  },
+  "o_auto_link_lock": {
+    "message": "Σύνδεσμοι Αποκλεισμός:"
+  },
+  "o_no_link_block": {
+    "message": "Μην μπλοκάρετε το ποντίκι Κάντε κλικ στο σύνδεσμο μετά την κίνηση"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Όταν ξεκινάτε κύλιση σε έναν σύνδεσμο και στη συνέχεια ολοκληρώσετε την κύλιση στον ίδιο σύνδεσμο, το πρόγραμμα περιήγησης θα ανοίξει τη σύνδεση. Αυτή είναι συνήθως η επιθυμητή συμπεριφορά, οπότε από προεπιλογή είναι αποκλεισμένη."
+  },
+  "o_page_weight_title": {
+    "message": "Αυτό ελέγχει πώς είναι η σελίδα \"Heavy\". Οι βαρύτερες σελίδες έχουν μεγαλύτερη δυναμική."
+  },
+  "o_additional_speed_title": {
+    "message": "Μπορείτε να επιταχύνετε την ταχύτητα ορμής."
+  },
+  "o_additional_duration_title": {
+    "message": "Πρόσθετο χρόνο για κάθε ορμή."
+  },
+  "o_compute_from_last_title": {
+    "message": "Η αρχική ταχύτητα ορμής καθορίζεται από την ταχύτητα κύλισης δεξιά πριν από την απελευθέρωση του κουμπιού κύλισης."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Πόσο χρόνο πρέπει να παραμείνει το ποντίκι - πριν απελευθερώσετε το κουμπί κύλισης - για να μην ενεργοποιήσετε τη δυναμική."
+  },
+  "o_tracking_speed_title": {
+    "message": "Διάρκεια μέτρησης της τρέχουσας ταχύτητας κύλισης."
+  },
+  "o_scrolling_area": {
+    "message": "Περιοχή κύλισης:"
+  },
+  "o_outside_area_width": {
+    "message": "Περιοχή κύλισης (0 - Απενεργοποιημένη):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Η μετακίνηση του δρομέα σας έξω από την περιοχή κύλισης θα επανέλθει στη θέση κύλισης. Η ίδια συμπεριφορά μπορεί να δει κατά τη σύσπαση μιας γραμμής κύλισης."
+  },
+  "o_scroll_button_left_title": {
+    "message": "Προειδοποίηση - Η υποστήριξη του κουμπιού αριστερά χρησιμοποιεί αποσβεσμένο API Firefox που θα μπορούσε να αφαιρεθεί σε μελλοντικές εκδόσεις του Firefox."
+  },
+  "o_prevent_text_selection": {
+    "message": "Αποφύγετε την επιλογή κειμένου κατά την κύλιση με το αριστερό κουμπί"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Σε ορισμένες συσκευές, η κύλιση με το αριστερό κουμπί του ποντικιού θα επιλέξει επίσης κείμενο στη σελίδα."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Μην μπλοκάρετε το μενού περιβάλλοντος όταν προσπαθείτε να μετακινηθείτε η μη-κύλιση σελίδας"
+  },
+  "o_backup_restore": {
+    "message": "Ρυθμίσεις δημιουργίας αντιγράφων ασφαλείας / επαναφοράς στο αρχείο:"
+  },
+  "o_export_settings": {
+    "message": "Εξαγωγή ρυθμίσεων σε ένα αρχείο"
+  },
+  "import_settings_button": {
+    "message": "Ρυθμίσεις εισαγωγής από το αρχείο $1 ..."
+  },
+  "import_finished": {
+    "message": "Η εισαγωγή ολοκληρώθηκε!"
+  },
+  "test_page_title": {
+    "message": "Δοκιμάστε τις ρυθμίσεις κύλισης εδώ"
+  },
+  "menu_options": {
+    "message": "Επιλογές"
+  },
+  "menu_visit_title": {
+    "message": "Επίσκεψη αρχικής σελίδας"
+  },
+  "not_working": {
+    "message": "Απενεργοποιημένο από το web-browser σας"
+  },
+  "disabled_by_user": {
+    "message": "Απενεργοποιημένο σε αυτόν τον τομέα"
+  },
+  "not_working_title": {
+    "message": "Το πρόγραμμα περιήγησής σας θα μπλοκάρει το scrollanywhere σε αυτούς τους τύπους σελίδων:"
+  },
+  "not_working_body": {
+    "message": "Για να ενεργοποιήσετε τις σελίδες Scrollany στις σελίδες \"Mozilla.org\", δείτε αυτό το σεμινάριο YouTube"
+  },
+  "show_scrollbars": {
+    "message": "Εμφάνιση γραμμών κύλισης"
+  },
+  "show_scrollbars_title": {
+    "message": "Εμφάνιση προσωρινών γραμμών κύλισης"
+  },
+  "switch_on_off": {
+    "message": "Απενεργοποίηση του διακόπτη Off / On"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Εάν αντιμετωπίσετε αξιοσημείωτη καθυστέρηση μεταξύ πίεσης του κουμπιού κύλισης και ξεκινώντας την κύλιση, δοκιμάστε να ενεργοποιήσετε αυτήν την επιλογή. Ωστόσο, δεν θα μπορείτε να μετακινηθείτε πάνω από το \"iframes\", όπως μερικά παλιά ενσωματωμένα βίντεο ή ορισμένες διαφημίσεις."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Αυτό θα απενεργοποιήσει επίσης την επιλογή να αλλάξει τον κέρσορα κατά την κύλιση."
+  },
+  "o_helper_text_default_action": {
+    "message": "Χρήσιμο στο Linux για να ενεργοποιήσετε την πάστα με το μεσαίο κουμπί."
+  },
+  "o_about_hello": {
+    "message": "Γεια σας :)"
+  },
+  "o_about_intro": {
+    "message": "Το όνομά μου είναι $1$ και είμαι ο συγγραφέας του $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Εάν σας αρέσει, παρακαλώ βαθμολογήστε το εδώ:"
+  },
+  "o_about_dislike_it": {
+    "message": "Αν δεν σας αρέσει, παρακαλώ ενημερώστε μας γιατί στο e-mail μου. Αποδέχομαι τα περισσότερα αιτήματα χαρακτηριστικών που δέχομαι."
+  },
+  "o_disabled": {
+    "message": "απενεργοποιημένο",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "ενεργοποιημένο",
+    "common": true
+  },
+  "o_times": {
+    "message": "φορές",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "εικονοκύτταρα",
+    "common": true
+  },
+  "o_items": {
+    "message": "αντικείμενα",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "χιλιοστά του δευτερολέπτου",
+    "common": true
+  },
+  "label_working": {
+    "message": "εργαζόμενος...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Κλείσιμο",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Παρακαλώ σκεφτείτε να υποστηρίξετε το έργο μου με το να",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "δωρεά (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "να γίνετε ο Patron μου",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Σας ευχαριστώ!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "Αρχική σελίδα:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Επικοινωνία:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Αναφορά ζητημάτων:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Μπορώ να απαντήσω μόνο στα Αγγλικά / Σλοβακικά",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Μέσα κοινωνικής δικτύωσης:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Αποθήκευση αλλαγών και κλείσιμο",
+    "common": true
+  },
+  "o_saved": {
+    "message": "αποθηκεύτηκε!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Ερχομαι συντομα",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Αποθήκευσε τις αλλαγές",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Πολιτική απορρήτου",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Πρόσφατα πρόσθετα χαρακτηριστικά:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Ετικέτες:",
+    "common": true
+  }
+}

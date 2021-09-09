@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "कभी-कभी पृष्ठ अभी अच्छी तरह से डिज़ाइन नहीं किया गया है और जो जानकारी आप ढूंढ रहे हैं वह पर्याप्त दिखाई नहीं दे रही है।"
+  },
+  "_description_ah_use_cases_0": {
+    "message": "आम उपयोग-मामले:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "मेटाडेटा को हाइलाइट करें:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "\"मुफ्त शिपिंग\" हाइलाइट करें :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "क्या आप वेब पर कुछ विशिष्ट खोज रहे हैं? सभी पृष्ठों पर खोजने में आपकी सहायता के लिए \"टेम्पोरल हाइलाइट\" का उपयोग करें। जब आप अपना ब्राउज़र बंद करते हैं तो अस्थायी हाइलाइट्स स्वतः हटा दिए जाते हैं।"
+  },
+  "_description_ah_use_cases_4": {
+    "message": "आप फ़ॉन्ट-आकार को शून्य पर या उन्हें पारदर्शी बनाकर शब्दों को भी छुपा सकते हैं।"
+  },
+  "_description_tags_ah": {
+    "message": "हाइलाइट, मार्क, मेटाडेटा, मूवी, स्वचालित, टेक्स्ट, सिंक्रनाइज़ेशन, चयन, खोज"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ स्वचालित रूप से परिभाषित पृष्ठों पर परिभाषित शब्दों को हाइलाइट करेगा।"
+  },
+  "match_type": {
+    "message": "मिलान के प्रकार:"
+  },
+  "match_type_0": {
+    "message": "डोमेन है"
+  },
+  "match_type_1": {
+    "message": "URL है"
+  },
+  "match_type_2": {
+    "message": "URL शामिल है"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "हर पृष्ठ"
+  },
+  "selection_highlight": {
+    "message": "$1 को हाइलाइट करें"
+  },
+  "selection_temp": {
+    "message": "अस्थायी रूप से $1 को हाइलाइट करें"
+  },
+  "selection_temp_everywhere": {
+    "message": "अस्थायी रूप से हर जगह $1 को हाइलाइट करें"
+  },
+  "page_highlight": {
+    "message": "इस पृष्ठ पर $app_name$"
+  },
+  "toolbar_click_new_tab": {
+    "message": "हमेशा नए टैब में खोलें - टूलबार आइकन पर क्लिक करते समय"
+  },
+  "disable_rule": {
+    "message": "विकलांग"
+  },
+  "temporal_rule": {
+    "message": "लौकिक"
+  },
+  "each_word": {
+    "message": "प्रत्येक शब्द"
+  },
+  "rules": {
+    "message": "नियमों"
+  },
+  "delete": {
+    "message": "हटाएं"
+  },
+  "rename": {
+    "message": "नाम बदलें"
+  },
+  "duplicate": {
+    "message": "डुप्लिकेट"
+  },
+  "delete_rule": {
+    "message": "नियम हटाएं"
+  },
+  "delete_rule_title": {
+    "message": "नियम हटाएं \"$1\"?"
+  },
+  "on_pages": {
+    "message": "पृष्ठों पर:"
+  },
+  "disabled_rule": {
+    "message": "विकलांग नियम"
+  },
+  "incomplete_rule": {
+    "message": "अधूरा नियम"
+  },
+  "active_on_current_page": {
+    "message": "वर्तमान पृष्ठ पर सक्रिय"
+  },
+  "temporal_rule_helper": {
+    "message": "अस्थायी नियम - ब्राउज़र को पुनरारंभ करने के बाद हटा दिया जाएगा"
+  },
+  "active_on_pages": {
+    "message": "पृष्ठों पर सक्रिय:"
+  },
+  "highlight_each_word_separately": {
+    "message": "प्रत्येक शब्द को अलग से हाइलाइट करें"
+  },
+  "case_sensitive": {
+    "message": "अक्षर संवेदनशील"
+  },
+  "ignore_diacritics": {
+    "message": "डायक्रिटिक्स को अनदेखा करें"
+  },
+  "reg_exp": {
+    "message": "रेगुलर एक्सप्रेशन"
+  },
+  "regular_expression": {
+    "message": "नियमित अभिव्यक्ति"
+  },
+  "across_elements": {
+    "message": "पार तत्वों में"
+  },
+  "across_elements_help": {
+    "message": "पड़ोसी एचटीएमएल तत्वों में पाठ के लिए खोजें"
+  },
+  "style": {
+    "message": "अंदाज"
+  },
+  "preview": {
+    "message": "पूर्वावलोकन:"
+  },
+  "empty_rule": {
+    "message": "खाली नियम"
+  },
+  "create_new_rule": {
+    "message": "नया नियम बनाएँ"
+  },
+  "import_export": {
+    "message": "आयात निर्यात"
+  },
+  "help_this_project": {
+    "message": "इस परियोजना में मदद करें"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "सामान्य प्रश्न:"
+  },
+  "storage_info": {
+    "message": "भंडारण की जानकारी:"
+  },
+  "storage_safari_1": {
+    "message": "सफारी वर्तमान में स्वचालित डेटा सिंक्रनाइज़ेशन का समर्थन नहीं करता है।"
+  },
+  "storage_safari_2": {
+    "message": "अपने हाइलाइट नियमों को स्थानांतरित करने (या बैकअप) करने के लिए, \"आयात / निर्यात\" सुविधा का उपयोग करें।"
+  },
+  "storage_info_1": {
+    "message": "आपके नियम सुरक्षित $1 सिंक का उपयोग करके संग्रहीत किए जाते हैं जो आपके सभी नियमों के बीच आपके नियमों को सिंक्रनाइज़ करेंगे (यदि आप एक ही खाते में लॉग इन हैं)।"
+  },
+  "storage_info_2": {
+    "message": "यह क्लाउड स्टोरेज 100 केबी डेटा और 500 हाइलाइट नियमों तक स्टोर कर सकता है।"
+  },
+  "storage_info_3": {
+    "message": "आप \"आयात / निर्यात\" सुविधा का उपयोग करके फ़ाइल में अपने नियमों को निर्यात (बैकअप) भी कर सकते हैं और फिर इसे अन्य उपकरणों पर आयात कर सकते हैं।"
+  },
+  "replace_existing_highlight_rules": {
+    "message": "मौजूदा हाइलाइट नियमों को बदलें"
+  },
+  "add_page_to_highlight_on": {
+    "message": "पर हाइलाइट करने के लिए पेज जोड़ें"
+  },
+  "remove_highlight_from_page": {
+    "message": "पृष्ठ से हाइलाइट निकालें"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "तिरछा"
+  },
+  "underline": {
+    "message": "रेखांकन"
+  },
+  "background_color": {
+    "message": "पीछे का रंग"
+  },
+  "background": {
+    "message": "पृष्ठभूमि"
+  },
+  "text_color": {
+    "message": "पाठ का रंग"
+  },
+  "color": {
+    "message": "रंग"
+  },
+  "font_size": {
+    "message": "फ़ॉन्ट आकार"
+  },
+  "rule_name": {
+    "message": "नियम का नाम"
+  },
+  "highlight_regular_expression": {
+    "message": "नियमित अभिव्यक्ति को हाइलाइट करें:"
+  },
+  "highlight_text": {
+    "message": "टेक्स्ट हाइलाइट करें:"
+  },
+  "highlight_on_pages": {
+    "message": "पृष्ठों पर हाइलाइट करें"
+  },
+  "empty_name_helper": {
+    "message": "नाम के रूप में \"हाइलाइट किए गए पाठ\" का उपयोग करने के लिए खाली छोड़ दें"
+  },
+  "faq_1": {
+    "message": "वर्तमान पृष्ठ पर Word को हाइलाइट कैसे करें?"
+  },
+  "faq_1a": {
+    "message": "संदर्भ मेनू का उपयोग करें - टेक्स्ट / राइट क्लिक / \"ऑटो हाइलाइट\" का चयन करें। यदि आप किसी पृष्ठ पर राइट क्लिक करते हैं (टेक्स्ट का चयन किए बिना) तो आप मौजूदा पृष्ठ पर मौजूदा नियमों को लागू कर सकते हैं।"
+  },
+  "faq_2": {
+    "message": "मैं कई शब्दों को हाइलाइट करना चाहता हूं, क्या मुझे प्रत्येक शब्द के लिए अलग-अलग नियम बनाने की आवश्यकता है?"
+  },
+  "faq_2a": {
+    "message": "नहीं, बस \"प्रत्येक शब्द\" चेकबॉक्स की जांच करें। फिर प्रत्येक शब्द को अलग से हाइलाइट किया जाएगा।"
+  },
+  "faq_3": {
+    "message": "वह \"RegExp\" क्या है?"
+  },
+  "faq_3a": {
+    "message": "नियमित अभिव्यक्ति के रूप में भी जाना जाता है, यह उन वर्णों का अनुक्रम है जो एक खोज पैटर्न को परिभाषित करते हैं। यह एक जटिल निर्माण है जो कुछ समान पैटर्न वाले तत्वों की जटिल हाइलाइटिंग की अनुमति देता है। उदाहरण के लिए कीमतें, तिथियां, फोन नंबर इत्यादि ..."
+  },
+  "faq_4": {
+    "message": "क्या आप मुझे कुछ RegExp उदाहरण दिखा सकते हैं?"
+  },
+  "faq_4a": {
+    "message": "$1 जैसी सभी कीमतों को हाइलाइट करें"
+  },
+  "faq_5": {
+    "message": "क्या आप उन्हें समझा सकते हैं?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" डॉलर के संकेत पर प्रकाश डाला गया। बैकस्लैश यहां आवश्यक है क्योंकि डॉलर का RegExp में एक विशेष अर्थ है।"
+  },
+  "faq_5b": {
+    "message": "\"$1$\" एकल अंक पर प्रकाश डाला गया"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" का अर्थ है एक या अधिक बार दोहराएं। जब अंक चयनकर्ता $2$ के बाद रखा जाता है, तो इसका मतलब एक या अधिक अंक होता है।"
+  },
+  "faq_5d": {
+    "message": "\"$1$\" डॉट हाइलाइट करता है। बैकस्लैश को फिर से जरूरी है क्योंकि अकेले डॉट प्रतीक का मतलब RegExp में किसी भी चरित्र का मतलब है।"
+  },
+  "faq_5e": {
+    "message": "\"$1$\" का अर्थ शून्य या एक बार है। जब ब्रैकेट $2$ के बाद रखा जाता है, तो इसका मतलब है कि जो भी उन ब्रैकेट के अंदर है वैकल्पिक है (वहां हो सकता है, या नहीं)। हम इसे उस संख्या के दशमलव भाग के लिए उपयोग करते हैं जो वैकल्पिक है।"
+  },
+  "faq_5f": {
+    "message": "RegExp नियमों के बारे में अधिक जानकारी"
+  },
+  "import_finished": {
+    "message": "आयात समाप्त हो गया!",
+    "common": true
+  },
+  "import_error": {
+    "message": "त्रुटि",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "आयात बैकअप फ़ाइल $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "होमपेज",
+    "common": true
+  },
+  "addon_page": {
+    "message": "एडन पेज",
+    "common": true
+  },
+  "safari_store": {
+    "message": "मैक ऐप स्टोर",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "क्रोम वेब स्टोर",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "फ़ायरफ़ॉक्स ऐड-ऑन",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "थंडरबर्ड ऐड-ऑन",
+    "common": true
+  },
+  "menu_options": {
+    "message": "विकल्प",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "फ़ॉन्ट आकार",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "साइडबार आकार",
+    "common": true
+  },
+  "label_next": {
+    "message": "अगला",
+    "common": true
+  },
+  "label_note": {
+    "message": "ध्यान दें:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "हटाना",
+    "common": true
+  },
+  "label_warning": {
+    "message": "चेतावनी:",
+    "common": true
+  },
+  "label_options": {
+    "message": "विकल्प:",
+    "common": true
+  },
+  "label_default": {
+    "message": "चूक:",
+    "common": true
+  },
+  "label_done": {
+    "message": "किया हुआ!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "नकल!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "कस्टम:",
+    "common": true
+  },
+  "label_close": {
+    "message": "बंद करे",
+    "common": true
+  },
+  "label_installed": {
+    "message": "स्थापित",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "खुला पृष्ठ",
+    "common": true
+  },
+  "label_agree": {
+    "message": "इस बात से सहमत",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "रद्द करना",
+    "common": true
+  },
+  "label_save": {
+    "message": "सहेजें",
+    "common": true
+  },
+  "label_required": {
+    "message": "अपेक्षित",
+    "common": true
+  },
+  "label_sending": {
+    "message": "भेजना...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "स्केल:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "ज़ूम:",
+    "common": true
+  },
+  "label_size": {
+    "message": "आकार:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "जल्द आ रहा है",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "परिवर्तनों को सुरक्षित करें",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "परिवर्तनों को निरस्त करें",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "मेन्यू",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "होमपेज पर जाएं",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "इस परियोजना में मदद करें",
+    "common": true
+  },
+  "support_developer": {
+    "message": "स्वतंत्र डेवलपर का समर्थन करें!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "नमस्ते!",
+    "common": true
+  },
+  "about_me": {
+    "message": "मैं 2016 से एडन डेवलपर हूं। मेरा लक्ष्य आपको अपने वेब-ब्राउज़र के लिए अधिक उत्पादक बनाने के लिए शक्तिशाली एक्सटेंशन बनाना है।",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "अगर आपको लगता है कि मैं एक अच्छा काम कर रहा हूं, तो कृपया दान करें :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "आपका दान मेरी एकमात्र आय है!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "मेरे काम का समर्थन करने के लिए धन्यवाद!",
+    "common": true
+  },
+  "op_help": {
+    "message": "मदद",
+    "common": true
+  },
+  "o_title": {
+    "message": "विकल्प - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "बैकअप",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "नया बैकअप बनाएं",
+    "common": true
+  },
+  "save_settings": {
+    "message": "सेटिंग्स सेव करें",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "फ़ाइल में अपना डेटा निर्यात करने के लिए, इस विंडो को एक नए टैब में फिर से खोलें।",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "राइट क्लिक / \"लिंक की गई फ़ाइल डाउनलोड करें\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "आम",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "पृष्ठभूमि",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "सन्दर्भ विकल्प सूची",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "थंबनेल",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "शॉर्टकट",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "आयात / बैकअप",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "समायोजन",
+    "common": true
+  },
+  "o_theme": {
+    "message": "थीम:",
+    "common": true
+  },
+  "o_general": {
+    "message": "सामान्य:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "विकलांग",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "सक्षम",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "पिक्सल",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "सेकंड",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "सन्दर्भ विकल्प सूची:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "संदर्भ मेनू अक्षम करें: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "बैकअप / पुनर्स्थापित सेटिंग्स फ़ाइल में:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "आयात",
+    "common": true
+  },
+  "title_import": {
+    "message": "आयात",
+    "common": true
+  },
+  "title_export": {
+    "message": "निर्यात",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "निर्यात बैकअप",
+    "common": true
+  },
+  "label_or": {
+    "message": "या",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "नमस्ते :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "मेरा नाम $1$ है और मैं $app_name$ के लेखक हूं।",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "अगर आपको यह पसंद है, तो कृपया इसे यहां रेट करें:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "अगर आपको यह पसंद नहीं है, तो कृपया मुझे बताएं कि मेरे ई-मेल को क्यों। मैं अपने अधिकांश फीचर-अनुरोधों को लागू कर रहा हूं।",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "कृपया मेरे काम का समर्थन करने पर विचार करें",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN का उपयोग करके बैंक हस्तांतरण:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "दान (पेपैल)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "मेरा संरक्षक बन रहा है",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "धन्यवाद!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "घर:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "संपर्क करें:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "रिपोर्ट समस्याएं:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "मैं केवल अंग्रेजी / स्लोवाक में जवाब दे सकता हूं",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "सामाजिक मीडिया:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "परिवर्तन और करीब सहेजें",
+    "common": true
+  },
+  "o_saved": {
+    "message": "बचाया!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "कोई मिलान परिणाम नहीं",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "कोई आकड़ा उपलब्ध नहीं है",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "डार्क मोड",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "तंत्र द्वारा नियंत्रित",
+    "common": true
+  },
+  "used_space": {
+    "message": "प्रयुक्त स्थान: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "वेब टेब में खोलें",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "स्विच एडन ऑन / ऑफ",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "एडन अक्षम है",
+    "common": true
+  },
+  "_description_why": {
+    "message": "क्यों?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "गोपनीयता नीति",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "हाल ही में जोड़ा गया विशेषताएं:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "टैग:",
+    "common": true
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "датум, ИМДб, Опис, епизода, мерач, граф, ИМДб, инфо, метар, филм, филм, филмови, нетфлик, имдб, рејтинг, серија, емисије, ТВ, ТВ емисија, видео, визуелни, гласови, сезона"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "филм није пронађен / погрешан филм нађен - пошто не постоји \"званична\" интеграција са циљним страницама, не могу гарантовати 100% тачних резултата (али у већини случајева савршено функционира)"
+  },
+  "_description_mm_not_working": {
+    "message": "Не ради на вашој омиљеној страници филмова?"
+  },
+  "_description_mm_add_support": {
+    "message": "Контактирајте ме и додаћу га - ако је могуће (страница мора да садржи име филма на енглеском или $visit_imdb$ линк)."
+  },
+  "_description_mm_feature_1": {
+    "message": "оцена филма и популарност из $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "следећи / претходни датум епизоде од $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "додатне информације о филмовима / ТВ серији"
+  },
+  "_description_mm_feature_4": {
+    "message": "обавештење о новој епизоди"
+  },
+  "_description_mm_feature_5": {
+    "message": "означите ТВ серију као омиљену и добићете обавештење када је доступна нова епизода"
+  },
+  "_description_mm_feature_7": {
+    "message": "аутоматско скривање када је откривена репродукција видео записа"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ ће вам показати рејтинг и популарност филма (или ТВ серије)"
+  },
+  "name": {
+    "message": "Назив"
+  },
+  "year": {
+    "message": "Година"
+  },
+  "video_type": {
+    "message": "Тип"
+  },
+  "video_type_0": {
+    "message": "Филм"
+  },
+  "video_type_1": {
+    "message": "Серија"
+  },
+  "video_type_2": {
+    "message": "Епизода"
+  },
+  "runtime": {
+    "message": "Време трајања"
+  },
+  "premiered": {
+    "message": "Премијера"
+  },
+  "premiere_in": {
+    "message": "Премијера у"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Земља"
+  },
+  "actors": {
+    "message": "Глумци"
+  },
+  "dvd": {
+    "message": "ДВД"
+  },
+  "director": {
+    "message": "Редитељ"
+  },
+  "totalseasons": {
+    "message": "Тотал Сеасонс"
+  },
+  "writer": {
+    "message": "Писац"
+  },
+  "language": {
+    "message": "Језик"
+  },
+  "awards": {
+    "message": "Награде"
+  },
+  "rated": {
+    "message": "Оцијењен"
+  },
+  "production": {
+    "message": "Производња"
+  },
+  "plot": {
+    "message": "Заплет"
+  },
+  "website": {
+    "message": "Веб сајт"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Посетите $visit_imdb$ странице"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Посетите $visit_tvmaze$ странице за ову емисију"
+  },
+  "make_favorite": {
+    "message": "Омиљен"
+  },
+  "make_favorite_title": {
+    "message": "Додајте ТВ серију у фаворите. Ово ће вам омогућити да примите обавештење о новим епизодама."
+  },
+  "last_episode": {
+    "message": "Задњи"
+  },
+  "next_episode": {
+    "message": "Следећи"
+  },
+  "last_episode_title": {
+    "message": "Последња епизода"
+  },
+  "next_episode_title": {
+    "message": "Следећа епизода"
+  },
+  "episode_airtime": {
+    "message": "Емисија"
+  },
+  "episode_name": {
+    "message": "Назив"
+  },
+  "series_status": {
+    "message": "Статус"
+  },
+  "episodes_count": {
+    "message": "Епизоде"
+  },
+  "episodes_count_title": {
+    "message": "Тренутна сезона $1 има епизоде $2"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "дани"
+  },
+  "hours": {
+    "message": "сати"
+  },
+  "na": {
+    "message": "Није доступно"
+  },
+  "user_rating": {
+    "message": "Оцена корисника: $1"
+  },
+  "user_popularity": {
+    "message": "Популарност: $1 гласова"
+  },
+  "source": {
+    "message": "Извор: $1"
+  },
+  "show_details": {
+    "message": "више..."
+  },
+  "hide_details": {
+    "message": "мање ..."
+  },
+  "save_position": {
+    "message": "Спасити положај"
+  },
+  "revert_position": {
+    "message": "Вратити положај"
+  },
+  "win_disable": {
+    "message": "Онемогући на $1"
+  },
+  "cm_advanced": {
+    "message": "Напредан"
+  },
+  "op_visit_home": {
+    "message": "Посетите почетну страницу"
+  },
+  "op_support_me": {
+    "message": "Помозите овом пројекту"
+  },
+  "hide": {
+    "message": "Сакрити прозор"
+  },
+  "show": {
+    "message": "Приказати прозор"
+  },
+  "reset_position": {
+    "message": "Ресетурисати положај"
+  },
+  "search": {
+    "message": "Претрага"
+  },
+  "configure_search": {
+    "message": "Конфигуришите опције претраге"
+  },
+  "selection_search": {
+    "message": "Тражи $1"
+  },
+  "menu_options": {
+    "message": "Опције"
+  },
+  "menu_quick_options": {
+    "message": "Брзе опције"
+  },
+  "menu_visit_homepage": {
+    "message": "Посетите почетну страницу"
+  },
+  "menu_request_support": {
+    "message": "Затражите подршку за $1"
+  },
+  "show_introduction": {
+    "message": "Прикажи страницу за увођење"
+  },
+  "o_about_issues": {
+    "message": "Извештај о извештају:"
+  },
+  "safari_store": {
+    "message": "Мац Апп Сторе"
+  },
+  "firefox_store": {
+    "message": "Фирефок додаци"
+  },
+  "chrome_store": {
+    "message": "Цхроме веб продавница"
+  },
+  "movie_not_detected": {
+    "message": "Филм није откривен"
+  },
+  "movie_not_detected_title": {
+    "message": "Није откривена ниједна филма / ТВ серије на овој страници."
+  },
+  "movie_not_found": {
+    "message": "Филм није пронађен"
+  },
+  "movie_not_found_title": {
+    "message": "Инфо о филму нису пронађени на серверу."
+  },
+  "status_type_0": {
+    "message": "Трчање"
+  },
+  "status_type_1": {
+    "message": "Завршен"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Схов ће се наставити"
+  },
+  "status_type_title_1": {
+    "message": "Схов се завршио - више нема планираних сезона"
+  },
+  "status_type_title_2": {
+    "message": "Показује будућност нејасна"
+  },
+  "notify_movie_not_found": {
+    "message": "Филм није пронађен: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Користите само енглески име филма!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Претрага није савршена ..."
+  },
+  "notify_video_hide": {
+    "message": "Откривен видео - $app_name$ је сада скривен"
+  },
+  "notify_video_hide_body": {
+    "message": "Кликните овде да поново не прикажете ово обавештење"
+  },
+  "notify_new_episodes": {
+    "message": "Нова епизода је емитована"
+  },
+  "title_introduction": {
+    "message": "Увођење"
+  },
+  "supported_pages": {
+    "message": "Подржане странице:"
+  },
+  "supported_grows": {
+    "message": "(Ова листа расте већа и већа)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Информације о рејтингу и популарности су из $1$. Информације о епизодама су из $2$."
+  },
+  "title_got_it": {
+    "message": "Схватио сам, кренимо!"
+  },
+  "_description_privacy_policy": {
+    "message": "Правила о приватности"
+  },
+  "_description_recent_features": {
+    "message": "Недавно додате карактеристике:"
+  },
+  "_description_known_issues": {
+    "message": "Познати проблеми:"
+  },
+  "_description_common_tags": {
+    "message": "Ознаке:"
+  },
+  "_description_features": {
+    "message": "Карактеристике:"
+  },
+  "about_me": {
+    "message": "Ја сам Аддон Девелопер од 2016. Мој циљ је да изградим моћно проширење за ваш веб претраживач да вас учини продуктивнијим."
+  },
+  "about_good_job": {
+    "message": "Ако мислите да радим добар посао, молим вас донирајте :)"
+  },
+  "about_income": {
+    "message": "Ваша донација је мој једини приход!"
+  },
+  "about_thanks": {
+    "message": "Хвала вам што сте подржали мој рад!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Банковни пренос помоћу ИБАН:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Подржите независни програмер!"
+  }
+}

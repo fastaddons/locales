@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "di mana saja, tombol, kursor, seret, ambil, ambil hambatan, ambil, ambil, tak terbatas, kiri, tengah, momentum, mouse, pindahkan, halaman, kanan, gulir, gulir, lempar"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Seret ScrollBar dengan Tombol Middle Mouse Anda di mana saja pada halaman. Mendukung juga gaya \"ambil dan seret\"."
+  },
+  "field_int_default_value": {
+    "message": "Nilai default: $1, Min: $2, maks: $3"
+  },
+  "field_set_default": {
+    "message": "Atur ulang ke default: $1"
+  },
+  "thunderbird_store": {
+    "message": "Add-on Thunderbird"
+  },
+  "firefox_store": {
+    "message": "Add-on Firefox"
+  },
+  "chrome_store": {
+    "message": "Toko web Chrome"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "win_disable": {
+    "message": "Nonaktifkan pada $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Nonaktifkan gulir horizontal pada $1"
+  },
+  "op_visit_home": {
+    "message": "Kunjungi Homepage."
+  },
+  "op_support_me": {
+    "message": "Bantu proyek ini"
+  },
+  "o_title": {
+    "message": "Opsi - $1."
+  },
+  "o_tab_general": {
+    "message": "Umum"
+  },
+  "o_tab_momentum": {
+    "message": "Momentum"
+  },
+  "o_tab_cursor": {
+    "message": "Kursor"
+  },
+  "o_axis_locking": {
+    "message": "Axis Locking."
+  },
+  "o_tab_performance": {
+    "message": "Performa."
+  },
+  "o_tab_disabled_on": {
+    "message": "Dinonaktifkan pada."
+  },
+  "o_tab_advanced": {
+    "message": "Maju"
+  },
+  "o_tab_scrollbars": {
+    "message": "Scrollbars."
+  },
+  "o_tab_backup": {
+    "message": "Impor / cadangan"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Saat menggulir kotak yang dapat digulir dalam satu sumbu tetapi kotak induk bergulir di sumbu lain, kunci menggulir ke satu sumbu menggunakan:"
+  },
+  "o_axis_lock_0": {
+    "message": "Kunci pintar - Kunci temporal menggunakan momentum"
+  },
+  "o_axis_lock_1": {
+    "message": "Kunci ketat - kunci arah instan"
+  },
+  "o_axis_lock_2": {
+    "message": "Tidak ada kunci - gulir gratis di kedua sumbu"
+  },
+  "o_trend_momentum_window": {
+    "message": "Ukuran tumpukan kunci pintar"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Nilai yang lebih besar akan membutuhkan lebih banyak gulir di sumbu berlawanan untuk mengubah sumbu gulir."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon dinonaktifkan! Klik di sini untuk mengaktifkan."
+  },
+  "o_cursor_change_default": {
+    "message": "tidak Ada Perubahan - Kinerja Terbaik"
+  },
+  "o_scroll_button": {
+    "message": "Tombol gulir:"
+  },
+  "o_direction_speed": {
+    "message": "Gulir GLATE / Direction / Kecepatan:"
+  },
+  "o_multiplier": {
+    "message": "Pengali"
+  },
+  "o_times_speed": {
+    "message": "kali gulir speed."
+  },
+  "o_maximum_speed": {
+    "message": "Kecepatan gulir maksimum (0 - dinonaktifkan):"
+  },
+  "o_ratio_unit": {
+    "message": "rasio (ukuran panjang / jendela)"
+  },
+  "o_scroll_type_0": {
+    "message": "Meniru scrollbar."
+  },
+  "o_scroll_type_1": {
+    "message": "Ambil dan seret - seperti pada smartphone"
+  },
+  "o_scroll_type_2": {
+    "message": "Kecepatan dinamis (eksperimental)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Ini seperti menyeret bilah gulir"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Ini seperti menyeret halaman dengan jari Anda di layar telepon"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Kecepatan dinamis membuat kecepatan gulir lebih lambat ketika halaman lebih panjang"
+  },
+  "o_disable_key": {
+    "message": "Nonaktifkan / Aktifkan pengguliran saat tombol turun:"
+  },
+  "o_momentum_category": {
+    "message": "Momentum:"
+  },
+  "o_momentum_formula": {
+    "message": "Formula momentum:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Gerakan berlambat seragam"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Gulungan halaman akan diperlambat secara seragam sampai berhenti"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Gerakan melambat secara eksponensial"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Gulir halaman akan cepat (secara eksponensial) memperlambat"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Gerakan Infinite ∞."
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Scrolling tidak akan pernah berhenti"
+  },
+  "o_momentum_max_speed": {
+    "message": "Kecepatan maksimum (0 - dinonaktifkan):"
+  },
+  "o_page_weight": {
+    "message": "Berat Page:"
+  },
+  "o_grams": {
+    "message": "gram :)"
+  },
+  "o_additional_speed": {
+    "message": "Kecepatan tambahan:"
+  },
+  "o_pixels_second": {
+    "message": "piksel per detik"
+  },
+  "o_additional_duration": {
+    "message": "Durasi tambahan:"
+  },
+  "o_advanced_momentum": {
+    "message": "Pengaturan Momentum Lanjut (hanya untuk para ahli!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Mengubah nilai-nilai ini dapat mematahkan momentum Anda!"
+  },
+  "o_compute_from_last": {
+    "message": "Menghitung dari yang terakhir:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Mouse Stop Detection:"
+  },
+  "o_tracking_speed": {
+    "message": "Kecepatan Pelacakan:"
+  },
+  "o_reset_values": {
+    "message": "Reset Nilai"
+  },
+  "o_cursor_scrolling": {
+    "message": "Kursor digunakan saat bergulir:"
+  },
+  "o_performance": {
+    "message": "Kinerja:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Cegah lompatan besar"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Jika Anda menggunakan alat yang dapat memisahkan kursor Anda di layar (ketika Anda mencapai EDGE), aktifkan opsi ini untuk memungkinkan pengguliran terus menerus (INFINITE)."
+  },
+  "o_advanced": {
+    "message": "Maju:"
+  },
+  "o_movement_detection": {
+    "message": "Ambang deteksi gerakan mouse:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Berapa banyak piksel yang harus dipindahkan mouse ke blok tautan. Terkadang saat menekan tombol gulir Anda sedikit memindahkan mouse tetapi Anda tidak ingin tautan dinonaktifkan karena itu."
+  },
+  "o_context_menu_block": {
+    "message": "Blok menu konteks:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Buka blokir menu Keterlambatan konteks"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Jika Anda melihat menu konteks setelah bergulir dengan tombol kanan mouse, tambah nilai ini"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Nonaktifkan gulir horizontal pada domain:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Dinonaktifkan pada domain:"
+  },
+  "o_is_disabled_url": {
+    "message": "Dinonaktifkan pada halaman / sub-halaman:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Anda dapat menggunakan Star Symbol (*) untuk menentukan bagian URL, misalnya: \"google.com/mapss*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Masukkan satu domain per baris."
+  },
+  "o_is_disabled": {
+    "message": "Nonaktifkan add-on"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Gunakan ikon bilah alat sebagai sakelar on / off utama"
+  },
+  "o_scroll_button_middle": {
+    "message": "Tengah tengah"
+  },
+  "o_scroll_button_right": {
+    "message": "Tombol kanan"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Pengguna Linux / Mac - Anda akan diminta untuk izin baru \"Baca dan memodifikasi pengaturan browser\" - ini diperlukan untuk menekan menu konteks yang ditampilkan sebelum bergulir!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Pengguna Linux / Mac - Menu konteks Anda akan diblokir! Untuk membuka menu konteks tahan tombol \"Shift\" atau triple-klik kanan."
+  },
+  "o_scroll_button_left": {
+    "message": "Tombol Kiri (Eksperimental)"
+  },
+  "o_scroll_on_links": {
+    "message": "Gulir di Tautan"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Ketika diaktifkan, Anda tidak akan dapat menyeret dan melepaskan tautan (hanya dengan menggunakan tombol 'Nonaktifkan')"
+  },
+  "o_scroll_on_text": {
+    "message": "Gulir di Teks"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Mengemulasi pengguliran / pengeditan telepon - Anda perlu mengklik teks untuk beralih ke \"Mode Pengeditan\". Mengklik di luar teks memungkinkan bergulir lagi."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Gulir di Textarea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea adalah blok teks, biasanya dapat diubah. Misalnya pada tab \"dinonaktifkan pada\" Anda dapat melihat textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Gulir ke HTML yang dapat diedit"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Misalnya body email di Gmail adalah HTML yang dapat diedit."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "pada teks akan memungkinkan pemilihan / mengedit teks."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Klik pada teks akan mengaktifkan \"Mode Edit\". Klik di luar teks untuk mengaktifkan \"mode gulir\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Satu klik"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Klik dua kali"
+  },
+  "o_scrollbars_width": {
+    "message": "Scrollbars Lihat"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normal (tidak ada perubahan)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Tipis"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Tersembunyi"
+  },
+  "o_scrollbars_color": {
+    "message": "Warna Slider Scrollbar:"
+  },
+  "o_scrollbars_background": {
+    "message": "Warna Latar Belakang Scrollbar:"
+  },
+  "o_reverse": {
+    "message": "Reverse Scroll Direction."
+  },
+  "o_disable_alt": {
+    "message": "Alt."
+  },
+  "o_disable_shift": {
+    "message": "Bergeser"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl."
+  },
+  "o_disable_type_0": {
+    "message": "Nonaktifkan saat tombol turun:"
+  },
+  "o_disable_type_1": {
+    "message": "Aktifkan ketika tombol turun:"
+  },
+  "o_momentum": {
+    "message": "aktifkan momentum - Anda dapat \"melempar\" halaman (seperti di telepon)"
+  },
+  "o_no_css_edit": {
+    "message": "Jangan mengunci IfRames dan jangan ubah kursor saat bergulir"
+  },
+  "o_no_prevent_default": {
+    "message": "Jangan memblokir tindakan tombol default"
+  },
+  "o_auto_link_lock": {
+    "message": "Tautan Memblokir:"
+  },
+  "o_no_link_block": {
+    "message": "Jangan memblokir klik mouse pada tautan setelah gerakan"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Ketika Anda mulai menggulir tautan dan kemudian Anda menyelesaikan gulir pada tautan yang sama, browser akan membuka tautan. Ini biasanya bukan perilaku yang diinginkan sehingga secara default itu diblokir."
+  },
+  "o_page_weight_title": {
+    "message": "Ini mengontrol seberapa 'berat' halaman itu. Halaman yang lebih berat memiliki momentum yang lebih lama."
+  },
+  "o_additional_speed_title": {
+    "message": "Anda dapat mempercepat kecepatan yang menyatakan momentum."
+  },
+  "o_additional_duration_title": {
+    "message": "Waktu tambahan untuk setiap momentum."
+  },
+  "o_compute_from_last_title": {
+    "message": "Momentum Kecepatan awal ditentukan oleh kecepatan gulir kanan sebelum merilis tombol gulir."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Berapa banyak waktu yang harus dimiliki Mouse Stay - sebelum merilis tombol gulir - untuk tidak mengaktifkan momentum."
+  },
+  "o_tracking_speed_title": {
+    "message": "Interval untuk mengukur kecepatan gulir saat ini."
+  },
+  "o_scrolling_area": {
+    "message": "Area Scrolling:"
+  },
+  "o_outside_area_width": {
+    "message": "Area Scrolling (0 - Dinonaktifkan):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Memindahkan kursor Anda di luar area gulir akan mengembalikan posisi bergulir. Perilaku yang sama dapat dilihat saat menyeret scrollbar."
+  },
+  "o_scroll_button_left_title": {
+    "message": "Peringatan - Dukungan tombol kiri menggunakan API Firefox yang sudah usang yang dapat dihapus di versi Firefox yang akan datang."
+  },
+  "o_prevent_text_selection": {
+    "message": "Mencegah pemilihan teks saat menggulir dengan tombol kiri"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Pada beberapa perangkat, gulir dengan tombol kiri mouse juga akan memilih teks pada halaman."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Jangan memblokir menu konteks saat mencoba menggulir halaman yang tidak dapat digulir"
+  },
+  "o_backup_restore": {
+    "message": "Backup / Restore Settings ke File:"
+  },
+  "o_export_settings": {
+    "message": "Pengaturan ekspor ke file"
+  },
+  "import_settings_button": {
+    "message": "Pengaturan Impor dari $1 File ..."
+  },
+  "import_finished": {
+    "message": "Impor selesai!"
+  },
+  "test_page_title": {
+    "message": "Uji pengaturan gulir Anda di sini"
+  },
+  "menu_options": {
+    "message": "Pilihan"
+  },
+  "menu_visit_title": {
+    "message": "Kunjungi Homepage."
+  },
+  "not_working": {
+    "message": "Dinonaktifkan oleh browser web Anda"
+  },
+  "disabled_by_user": {
+    "message": "Dinonaktifkan pada domain ini"
+  },
+  "not_working_title": {
+    "message": "Browser Anda akan memblokir layar di halaman ini:"
+  },
+  "not_working_body": {
+    "message": "Untuk mengaktifkan ScrollAwhere di halaman \"Mozilla.org\", lihat tutorial YouTube ini"
+  },
+  "show_scrollbars": {
+    "message": "Tampilkan Scrollbars."
+  },
+  "show_scrollbars_title": {
+    "message": "Tunjukkan sementara Scrollbars."
+  },
+  "switch_on_off": {
+    "message": "Beralih add-on off / on"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Jika Anda mengalami keterlambatan yang terlihat antara menekan tombol gulir dan mulai menggulir, cobalah untuk mengaktifkan opsi ini. Namun Anda tidak akan dapat menggulir \"IFRAMES\" seperti beberapa video embedded lama atau beberapa iklan."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Ini juga akan menonaktifkan opsi untuk mengubah kursor saat bergulir."
+  },
+  "o_helper_text_default_action": {
+    "message": "Berguna di Linux untuk mengaktifkan pasta dengan tombol tengah."
+  },
+  "o_about_hello": {
+    "message": "Halo :)"
+  },
+  "o_about_intro": {
+    "message": "Nama saya $1$ dan saya penulis $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Jika Anda menyukainya, silakan beri peringkat di sini:"
+  },
+  "o_about_dislike_it": {
+    "message": "Jika Anda tidak menyukainya, beri tahu saya mengapa ke email saya. Saya menerapkan sebagian besar permintaan fitur yang saya terima."
+  },
+  "o_disabled": {
+    "message": "dengan disabilitas",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "diaktifkan",
+    "common": true
+  },
+  "o_times": {
+    "message": "waktu",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "piksel.",
+    "common": true
+  },
+  "o_items": {
+    "message": "item",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milidetik.",
+    "common": true
+  },
+  "label_working": {
+    "message": "kerja...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Menutup",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Harap pertimbangkan untuk mendukung pekerjaan saya oleh",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donasi (Paypal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "menjadi pelindung saya",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Terima kasih!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "rumah:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontak:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Masalah laporan:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Saya hanya dapat membalas dalam bahasa Inggris / Slovakia",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Media sosial:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Simpan perubahan dan tutup",
+    "common": true
+  },
+  "o_saved": {
+    "message": "diselamatkan!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Segera akan datang",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Simpan perubahan",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Kebijakan pribadi",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Fitur yang baru ditambahkan:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tag:",
+    "common": true
+  }
+}

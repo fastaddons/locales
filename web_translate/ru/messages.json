@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Перевести выбранный текст (из контекстного меню)"
+  },
+  "_description_feature_2": {
+    "message": "Весь перевод страницы"
+  },
+  "_description_feature_3": {
+    "message": "Темный режим!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, Dark, Email, Google, Lang, Language, Microsoft, Page, Preklad, Prekladač, S3, Выбор, текст, Traducteur, Translate, Переводчик, übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ легко использовать переводчик для вашего веб-браузера / Thunderbird!"
+  },
+  "o_tab_translate": {
+    "message": "Перевести"
+  },
+  "_description_supported_translators": {
+    "message": "Поддерживаемые провайдеры перевода:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Модальное окно"
+  },
+  "open_in_1": {
+    "message": "Всплывающее окно"
+  },
+  "open_in_2": {
+    "message": "Новая вкладка"
+  },
+  "open_in_3": {
+    "message": "Новое окно"
+  },
+  "open_in_4": {
+    "message": "Новая вкладка (без контейнера)"
+  },
+  "modal_window": {
+    "message": "Модальное окно"
+  },
+  "toolbar_icon_action": {
+    "message": "Действие значка панели инструментов"
+  },
+  "toolbar_icon_text": {
+    "message": "Иконка панели инструментов текст"
+  },
+  "sidebar_size": {
+    "message": "Размер боковой панели"
+  },
+  "translation_provider": {
+    "message": "Поставщик переводов"
+  },
+  "translate_to": {
+    "message": "Перевести на:"
+  },
+  "no_overlay": {
+    "message": "Без наложения (темная область вокруг)"
+  },
+  "no_overlay_hint": {
+    "message": "Модальное окно останется открытым, даже если вы щелкните снаружи."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Открыть перевод на:"
+  },
+  "fallback_1": {
+    "message": "Резервный метод"
+  },
+  "fallback_2": {
+    "message": "Резервный метод"
+  },
+  "fallback_title": {
+    "message": "В некоторых случаях модальное окно и всплывающее окно нельзя использовать."
+  },
+  "open_in_tab": {
+    "message": "Открыть в новой вкладке"
+  },
+  "translate_this_page": {
+    "message": "Перевести эту страницу"
+  },
+  "selection_translate": {
+    "message": "Перевести \"$1\""
+  },
+  "page_translate": {
+    "message": "Перевести страницу"
+  },
+  "selected_text": {
+    "message": "выделенный текст"
+  },
+  "disable_context_menu": {
+    "message": "Отключить контекстное меню: «$1»"
+  },
+  "import_finished": {
+    "message": "Импорт завершен!"
+  },
+  "import_error": {
+    "message": "Ошибка"
+  },
+  "import_backup_file": {
+    "message": "Импортировать файл резервной копии $1"
+  },
+  "search_search": {
+    "message": "Искать"
+  },
+  "homepage": {
+    "message": "Домашняя страница"
+  },
+  "addon_page": {
+    "message": "Страница аддона"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Страница магазина Chrome"
+  },
+  "firefox_store": {
+    "message": "Страница дополнений Firefox"
+  },
+  "thunderbird_store": {
+    "message": "Дополнения для Thunderbird"
+  },
+  "label_font_size": {
+    "message": "Размер шрифта"
+  },
+  "label_next": {
+    "message": "Далее"
+  },
+  "label_note": {
+    "message": "Заметки:"
+  },
+  "label_remove": {
+    "message": "Удалить"
+  },
+  "label_warning": {
+    "message": "ВНИМАНИЕ:"
+  },
+  "label_default": {
+    "message": "По умолчанию:"
+  },
+  "label_done": {
+    "message": "Готово!"
+  },
+  "label_copied": {
+    "message": "Скопировано!"
+  },
+  "label_close": {
+    "message": "Закрыть"
+  },
+  "label_open_page": {
+    "message": "Открыть страницу"
+  },
+  "label_agree": {
+    "message": "Согласиться"
+  },
+  "label_cancel": {
+    "message": "Отмена"
+  },
+  "op_support_me": {
+    "message": "Помочь проекту"
+  },
+  "support_developer": {
+    "message": "Поддержите независимого разработчика!"
+  },
+  "hello_there": {
+    "message": "Привет!"
+  },
+  "about_me": {
+    "message": "Я разработчик аддонов с 2016 года, и моя цель - создать мощные расширения для вашего веб-браузера, которые сделают вас более продуктивным."
+  },
+  "about_good_job": {
+    "message": "Если вы думаете, что я хорошо работаю, пожертвуйте, пожалуйста :)"
+  },
+  "about_income": {
+    "message": "Ваше пожертвование - мой единственный доход!"
+  },
+  "about_thanks": {
+    "message": "Спасибо за поддержку моей работы!"
+  },
+  "o_tab_context_menu": {
+    "message": "Контекстное меню"
+  },
+  "o_tab_about": {
+    "message": "О дополнении"
+  },
+  "o_tab_settings": {
+    "message": "Настройки"
+  },
+  "o_pixels": {
+    "message": "пикселей"
+  },
+  "o_seconds": {
+    "message": "секунд"
+  },
+  "label_or": {
+    "message": "или"
+  },
+  "o_about_hello": {
+    "message": "Привет :)"
+  },
+  "o_about_intro": {
+    "message": "Меня зовут $1$, и я автор $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Если вам нравится это дополнение, оцените его для:"
+  },
+  "o_about_thanks": {
+    "message": "Спасибо Вам!"
+  },
+  "o_about_contact": {
+    "message": "Контакты:"
+  },
+  "o_about_issues": {
+    "message": "Сообщить о проблемах:"
+  },
+  "o_about_social_media": {
+    "message": "В соцсетях:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Банковский перевод с использованием IBAN:"
+  },
+  "ps_no_results": {
+    "message": "Нет совпадений"
+  },
+  "label_no_data": {
+    "message": "Нет данных"
+  },
+  "dark_mode": {
+    "message": "Темный режим"
+  },
+  "dark_mode_system": {
+    "message": "Контролируется системой"
+  },
+  "_description_features": {
+    "message": "Функции:"
+  },
+  "_description_why": {
+    "message": "Почему?"
+  },
+  "_description_privacy_policy": {
+    "message": "Политика конфиденциальности"
+  },
+  "_description_recent_features": {
+    "message": "Недавно добавленные функции:"
+  },
+  "_description_common_tags": {
+    "message": "Теги:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Доступно также для вашего Firefox:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Доступно также для вашего Thunderbird:"
+  }
+}

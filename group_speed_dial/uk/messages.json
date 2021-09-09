@@ -1,0 +1,2543 @@
+{
+  "app_name": {
+    "message": "Group Speed Dial"
+  },
+  "app_desc": {
+    "message": "SpeedDial з групами для досвідчених користувачів. Безкоштовна хмарна синхронізація між пристроями. Без реклами!"
+  },
+  "welcome_header": {
+    "message": "Ласкаво просимо до додатку $app_name$"
+  },
+  "welcome_setup": {
+    "message": "Основне початкове налашування"
+  },
+  "welcome_watch_video": {
+    "message": "Перегляньте коротке вступне відео (1:50), щоб ознайомитися з головними функціями."
+  },
+  "welcome_watch_android_video": {
+    "message": "Переглянути вступне відео щодо Android."
+  },
+  "welcome_home_group": {
+    "message": "Поточна \"Домашня група\" має 4 х 3 вікна, Ви можете це змінити тут:"
+  },
+  "welcome_import_josep_del_rio": {
+    "message": "це є важливою функцією з \"Speed Dial by Josep del Rio\" та інших у цих опціях:"
+  },
+  "welcome_options_page": {
+    "message": "Сторінка налаштувань"
+  },
+  "welcome_pick_color": {
+    "message": "оберіть колір теми, що її бажаєте використовувати:"
+  },
+  "welcome_visuals": {
+    "message": "Для більшої кількості налаштувань відвідайте сторінку Налаштувань"
+  },
+  "import_settings_button": {
+    "message": "Імпорт налаштувань і комірок..."
+  },
+  "import_josep_button": {
+    "message": "Імпорт файлу \"CurrentSettings.speeddial\"..."
+  },
+  "import_firefox_button": {
+    "message": "Імпорт файлу \"bookmarks-2017-XX-XX.json\"..."
+  },
+  "import_fast_dial_button": {
+    "message": "Імпорт файлу \"fastdial.json\"..."
+  },
+  "import_super_start_button": {
+    "message": "Імпорт файлу \"sites.v1.json\""
+  },
+  "import_speed_dial_2_button": {
+    "message": "Імпортувати файл \"будь-яка_назва\"..."
+  },
+  "import_done_text": {
+    "message": "Імпортовані зовнішні комірки"
+  },
+  "import_skip": {
+    "message": "Не імпортувати нічого"
+  },
+  "import_pages_stats": {
+    "message": "Імпортувати $1 сторінок у $2 групах"
+  },
+  "import_data_from": {
+    "message": "Імпортувати дані з:"
+  },
+  "load_bookmarks": {
+    "message": "Завантажити закладинки"
+  },
+  "load_top_pages": {
+    "message": "Завантажити найвикористовуваніші сторінки"
+  },
+  "group_generated_name": {
+    "message": "Група $1"
+  },
+  "default_home_group_name": {
+    "message": "Домашня група"
+  },
+  "drag_group_hover_open": {
+    "message": "Відкрити групу"
+  },
+  "replace_dial": {
+    "message": "Замінити комірку"
+  },
+  "replace_duplicate_dial": {
+    "message": "Дублювати комірку - клікніть, щоб оновити мініатюру"
+  },
+  "create_multi_page_dial": {
+    "message": "Створити багатосторінкову комірку"
+  },
+  "replace_multi_page_dial": {
+    "message": "Замінити багатосторінкову комірку"
+  },
+  "msg_pro_cloud_upload": {
+    "message": "Вивантаження мініатюр до хмари - дозволяє бачити їх у"
+  },
+  "msg_pro_cloud_web": {
+    "message": "Веб-сторінка хмарних комірок"
+  },
+  "msg_pro_cloud_web_desc": {
+    "message": "Наразі хмарну версію неможливо редагувати, проте вона працює у кожному браузері - навіть у Вашому телефоні!"
+  },
+  "msg_pro_same_thumbnails": {
+    "message": "Тепер на кожному Вашому пристрої будуть ті самі мініатюри!"
+  },
+  "msg_pro_thumbnails_download": {
+    "message": "У цьому випадку буде завантажено усі вивантажені мініатюри зі хмари та поточні локальні мініатюри будуть ними замінені."
+  },
+  "msg_correct_account": {
+    "message": "Будь ласка, відвідайте хмарний сервер та переконайтеся, що увійшли до правильного облікового запису:"
+  },
+  "msg_replace_text": {
+    "message": "Як альтернативу, можна замінити Ваші локальні комірки."
+  },
+  "url_search": {
+    "message": "URL / Пошук"
+  },
+  "msg_search_by": {
+    "message": "Пошук:"
+  },
+  "msg_search_tip": {
+    "message": "Порада: додає нотатки до комірок для кращого пошуку"
+  },
+  "msg_search_url": {
+    "message": "URL"
+  },
+  "msg_search_name": {
+    "message": "Назва"
+  },
+  "msg_search_note": {
+    "message": "Нотатка"
+  },
+  "msg_add_dial_text": {
+    "message": "Ви також можете переміщуватися між групами, переміщати чи вилучати існуючі комірки."
+  },
+  "msg_add_dial_no_show": {
+    "message": "Не показувати знову"
+  },
+  "msg_add_dials_here": {
+    "message": "Вставити в поорожні комірки"
+  },
+  "add_target_dial": {
+    "message": "Оберіть цільову порожню комірку для сторінки:"
+  },
+  "add_target_dials": {
+    "message": "Створити нову порожню групу чи обрати $1 комірок"
+  },
+  "add_image": {
+    "message": "Вставити зображення"
+  },
+  "bc_first_group": {
+    "message": "Першу групу створено"
+  },
+  "show_all_groups": {
+    "message": "Показати усі групи"
+  },
+  "fr_home_group": {
+    "message": "Домашня група"
+  },
+  "err_db_settings_loading": {
+    "message": "Виняток під час завантаження налаштувань та бази даних"
+  },
+  "err_db_creation": {
+    "message": "Помилка під час створення бази даних"
+  },
+  "err_db_loading": {
+    "message": "Помилка завантаження бази даних"
+  },
+  "err_db_images": {
+    "message": "Помилка отримання зображень з бази даних"
+  },
+  "sync_synced_ok": {
+    "message": "синхронізовано з сервером"
+  },
+  "sync_working": {
+    "message": "опрацювання..."
+  },
+  "sync_syncing": {
+    "message": "Триває синхронізація..."
+  },
+  "sync_synced": {
+    "message": "синхр."
+  },
+  "sync_sync_ok": {
+    "message": "Вдало синхронізовано"
+  },
+  "sync_err_label": {
+    "message": "помилка $1 - спробуйте пізніше"
+  },
+  "sync_err_conflict": {
+    "message": "конфлікт"
+  },
+  "sync_err_server_newer": {
+    "message": "На сервері міститься новіша версія."
+  },
+  "sync_err_user_mismatch_": {
+    "message": "користувачі не збігаються"
+  },
+  "sync_err_wrong_account": {
+    "message": "Ваша версія належить до іншого облікового запису"
+  },
+  "sync_err_not_empty": {
+    "message": "помилка - не порожньо"
+  },
+  "sync_err_server_not_empty": {
+    "message": "На сервері вже містяться певні дані."
+  },
+  "sync_err_forbidden": {
+    "message": "У Вас відсутній доступ до цього ресурсу"
+  },
+  "sync_downloading": {
+    "message": "завантаження..."
+  },
+  "sync_down_thumbnails": {
+    "message": "завантаження мініатюр"
+  },
+  "sync_down_thumbnails_progress": {
+    "message": "завантаження $1 / $2"
+  },
+  "sync_down_thumbnails_wait": {
+    "message": "завантаження мініатюр, зачекайте будь ласка"
+  },
+  "sync_up": {
+    "message": "вивантаження..."
+  },
+  "sync_up_sync_thumbnails": {
+    "message": "синхронізація мініатюр... підготовка до вивантаження"
+  },
+  "sync_up_progress": {
+    "message": "вивантаження $1 / $2"
+  },
+  "sync_up_wait": {
+    "message": "вивантаження мініатюр, зачекайте будь ласка"
+  },
+  "sync_thumbnails_progress": {
+    "message": "синхронізація мініатюр... $1 / $2"
+  },
+  "add_page": {
+    "message": "Додати цю сторінку до комірки"
+  },
+  "add_dial": {
+    "message": "Додати цю вкладку до комірки"
+  },
+  "add_link": {
+    "message": "Додати це посилання до комірки"
+  },
+  "use_image_as_thumbnail": {
+    "message": "Використати це зображення як мініатюру комірки"
+  },
+  "cm_choose_dial": {
+    "message": "Обрати цільову комірку"
+  },
+  "return_to_tab": {
+    "message": "Повернутися до вкладки"
+  },
+  "stay_here": {
+    "message": "Залишитися тут"
+  },
+  "close_added_pages": {
+    "message": "Зачинити додані сторінки"
+  },
+  "close_this_tab": {
+    "message": "Зачинити цю вкладку"
+  },
+  "group_first_created": {
+    "message": "Першу групу створено"
+  },
+  "privacy_info_head": {
+    "message": "Цей додаток дозволяє Вам резервувати та синхронізувати Ваші комірки за допомогою хмарного серверу на $1"
+  },
+  "privacy_info_body_1": {
+    "message": "У випадку створення Вами тут облікового запису Ваші комірки будуть синхронізовані з цим сервером. Ці дані містять лише базову інформацію (введену Вами) про Ваші комірки - такі як назва, URL-адреса, тощо... Тут ВІДСУТНІ як відстеження, так і збір статистики!"
+  },
+  "privacy_info_body_2": {
+    "message": "За відсутності хмарного облікового запису цей додаток НЕ робитиме жодних запитів до будь-якого сервера. Якщо Ви увімкнете завантаження значків із сервісів Google (на сторінці налаштувань), запити надсилатимуться на сервери Google для завантаження значків. Використання додаткових залежних від хмари функцій (наприклад, мініатюри з публічної бібліотеки) також призведе до запитів до хмарного серверу. Ці запити НЕ міститимуть жодної особистої інформації."
+  },
+  "field_size_range": {
+    "message": "Значення повинно бути між $1 та $2"
+  },
+  "field_zoom_range": {
+    "message": "Масштаб має бути між $1 і $2"
+  },
+  "field_scale_range": {
+    "message": "Масштаб має бути між $1 і $2"
+  },
+  "field_out_of_range": {
+    "message": "Поза межами"
+  },
+  "file_load_label": {
+    "message": "Завантаження з файлу..."
+  },
+  "file_loaded_name": {
+    "message": "Завантажено файл: $1"
+  },
+  "image_err_loading": {
+    "message": "Помилка завантаження зображення"
+  },
+  "field_hours_range": {
+    "message": "Години мають бути встановлені між $1 та $2"
+  },
+  "field_minutes_range": {
+    "message": "Хвилини мають бути встановлені між $1 та $2"
+  },
+  "field_columns_range": {
+    "message": "Кількість колонок має становити від $1 до $2"
+  },
+  "field_rows_range": {
+    "message": "Кількість рядків має становити від $1 до $2"
+  },
+  "validation_url": {
+    "message": "Введіть правильний URL (посилання)"
+  },
+  "save_dial_edited": {
+    "message": "комірку змінено - $1"
+  },
+  "save_dials_added_to_group": {
+    "message": "множинні комірки додано до групи - $1"
+  },
+  "save_dial_moved": {
+    "message": "комірку переміщено - $1"
+  },
+  "save_dial_resized": {
+    "message": "змінено розмір комірки - $1"
+  },
+  "save_group_rc_color": {
+    "message": "колір рядка/колонки групи змінено"
+  },
+  "save_group_moved": {
+    "message": "групу переміщено - $1"
+  },
+  "save_dial_names_saved": {
+    "message": "імена нових комірок збережено - $1"
+  },
+  "save_dials_sorted": {
+    "message": "комірки відсортовано у групі: $1"
+  },
+  "save_thumbnail_uploaded": {
+    "message": "мініатюри вивантажено - $1"
+  },
+  "save_public_thumbnail_uploaded": {
+    "message": "публічні мініатюри вивантажено - $1"
+  },
+  "save_productivity_selection_changed": {
+    "message": "режим продуктивності - обрані комірки змінено"
+  },
+  "err_db_err_title": {
+    "message": "Помилка :("
+  },
+  "save_dial_removed": {
+    "message": "комірку вилучено - $1"
+  },
+  "field_position_range": {
+    "message": "Розташування між групами має бути між $1 і $2"
+  },
+  "field_ratio_x_range": {
+    "message": "Співвідношення X має бути між $1 і$2"
+  },
+  "field_ratio_y_range": {
+    "message": "Співвідношення Y має бути між $1 і$2"
+  },
+  "validation_small_group_dimensions": {
+    "message": "Група вже містить $1 комірок. Будь ласка, збільшіть кількість рядків або колонок, щоб розмістити додаткові комірки."
+  },
+  "save_group_edited": {
+    "message": "групу змінено - Група: - $1"
+  },
+  "group_delete_title": {
+    "message": "Видалення групи $1 з комірками"
+  },
+  "group_delete_body": {
+    "message": "Ви впевнені, що бажаєте видалити групу та усі її комірки?"
+  },
+  "group_delete_yes": {
+    "message": "Так"
+  },
+  "group_delete_no": {
+    "message": "Ні, не видаляти"
+  },
+  "save_group_deleted": {
+    "message": "групу вилучено - Група: $1"
+  },
+  "cm_shortcut_title": {
+    "message": "Ярлик: $1"
+  },
+  "cm_open_new_tab": {
+    "message": "Відкрити у новій вкладці"
+  },
+  "cm_new_tab_in_container": {
+    "message": "Відкрити у контейнері"
+  },
+  "firefox_containers_about": {
+    "message": "Про контейнери Firefox"
+  },
+  "cm_open_all_new": {
+    "message": "Відкрити усі комірки - у нових вкладках"
+  },
+  "cm_open_all_replace": {
+    "message": "Відкрити усі комірки - замінити поточні"
+  },
+  "cm_replace_existing_title": {
+    "message": "Замінює поточні вкладки комірками з цієї групи."
+  },
+  "cm_edit_dial": {
+    "message": "Змінити комірку"
+  },
+  "cm_create_dial": {
+    "message": "Створити нову комірку"
+  },
+  "cm_copy_link": {
+    "message": "Копіювати посилання на розташування"
+  },
+  "cm_move_dial": {
+    "message": "Перемістити комірку"
+  },
+  "cm_move_dial_to": {
+    "message": "Перемістити до групи"
+  },
+  "cm_cut_dial": {
+    "message": "Вирізати комірку"
+  },
+  "cm_copy_dial": {
+    "message": "Копіювати комірку"
+  },
+  "cm_paste_dial": {
+    "message": "Вставити комірку"
+  },
+  "cm_paste_swap_dial": {
+    "message": "Вставити (підтягнути) комірку"
+  },
+  "cm_paste_replace_dial": {
+    "message": "Вставити комірку з заміною"
+  },
+  "convert_to_multi": {
+    "message": "Перетворити на багатосторінкову комірку"
+  },
+  "add_to_multi": {
+    "message": "Додати до багатосторінкової комірки"
+  },
+  "cm_insert_up": {
+    "message": "Вставити вище"
+  },
+  "cm_insert_left": {
+    "message": "Вставити ліворуч"
+  },
+  "cm_insert_right": {
+    "message": "Вставити праворуч"
+  },
+  "cm_insert_down": {
+    "message": "Вставити нижче"
+  },
+  "cm_drop_replace": {
+    "message": "Замінити комірку"
+  },
+  "cm_drop_copy_replace": {
+    "message": "Копіювати та замінити комірку"
+  },
+  "cm_drop_swap": {
+    "message": "Міняти комірки (типово)"
+  },
+  "cm_clear_dial": {
+    "message": "Очистити комірку"
+  },
+  "cm_refresh_dial": {
+    "message": "Оновити комірку"
+  },
+  "cm_refresh_image_here": {
+    "message": "Оновити зображення тут"
+  },
+  "cm_plus_delay": {
+    "message": "+$1 с"
+  },
+  "cm_plus_delay_title": {
+    "message": "Зачекати $1 секунд після завантаження сторінки перед тим, як зробити знімок екрану"
+  },
+  "cm_btn_big": {
+    "message": "Велика"
+  },
+  "cm_bigger_title": {
+    "message": "Створити більшу мініатюру"
+  },
+  "cm_refresh_visit": {
+    "message": "Оновити при відвіданні сторінки"
+  },
+  "cm_btn_left": {
+    "message": "ліворуч"
+  },
+  "cm_btn_left_title": {
+    "message": "Вирівнювати знімок екрану ліворуч (типовим є по центру)"
+  },
+  "cm_group_open_new_tab": {
+    "message": "Відкрити у новій вкладці"
+  },
+  "cm_edit_group": {
+    "message": "Змінити групу"
+  },
+  "cm_create_new_group": {
+    "message": "Створити нову групу"
+  },
+  "cm_sort_by": {
+    "message": "Сортувати за"
+  },
+  "sort_by_name": {
+    "message": "Назва"
+  },
+  "sort_by_note": {
+    "message": "Примітка"
+  },
+  "sort_by_url": {
+    "message": "URL"
+  },
+  "sort_by_date": {
+    "message": "Дата створення"
+  },
+  "sort_by_remove_empty_dials": {
+    "message": "Прибрати порожні комірки"
+  },
+  "resize_dial": {
+    "message": "Змінити розмір"
+  },
+  "resize_dial_normal": {
+    "message": "Звичайний"
+  },
+  "resize_dial_v_half": {
+    "message": "Вертикальна половина"
+  },
+  "resize_dial_h_half": {
+    "message": "Горизонтальна половина"
+  },
+  "resize_dial_small": {
+    "message": "Маленький"
+  },
+  "resize_dial_tiny": {
+    "message": "Крихітний"
+  },
+  "resize_dial_micro": {
+    "message": "Мікро"
+  },
+  "rc_color": {
+    "message": "Колір колонки / рядка"
+  },
+  "row_color": {
+    "message": "Колір рядка"
+  },
+  "col_color": {
+    "message": "Колір колонок"
+  },
+  "cm_refresh_dials": {
+    "message": "Оновити комірки"
+  },
+  "cm_change_thumbnail": {
+    "message": "Змінити мініатюру"
+  },
+  "cm_refresh_dial_background": {
+    "message": "Оновлювати комірки у тлі"
+  },
+  "cm_advanced": {
+    "message": "Професійна"
+  },
+  "cm_legacy_features": {
+    "message": "Застарілі функції (не використовуйте)"
+  },
+  "cm_restore_previous_thumbnail": {
+    "message": "Відновити попередню мініатюру"
+  },
+  "cm_public_upload": {
+    "message": "Вивантажити мініатюри до публічної бібліотеки"
+  },
+  "cm_synchronize_thumbnails": {
+    "message": "Синхронізувати мініатюри з хмарним обліковим записом"
+  },
+  "cm_user_consent_google_favicon": {
+    "message": "Завантажити значки, використовуючи сервіси Google"
+  },
+  "cm_remove_group": {
+    "message": "Вилучити групу"
+  },
+  "cm_upload_thumbnails": {
+    "message": "Вивантажити мініатюри"
+  },
+  "cm_upgrade_pro": {
+    "message": "Оновити до Професійної"
+  },
+  "cm_pro_only": {
+    "message": "Лише у Професійній"
+  },
+  "save_group_created": {
+    "message": "Нову групу створено"
+  },
+  "refresh_all_title": {
+    "message": "Оновити усі мініатюри:"
+  },
+  "refresh_ok": {
+    "message": "Оновити мініатюри"
+  },
+  "refresh_all": {
+    "message": "Усі мініатюри"
+  },
+  "refresh_method": {
+    "message": "Метод оновлення:"
+  },
+  "refresh_this_group": {
+    "message": "Усе у цій групі"
+  },
+  "refresh_missing": {
+    "message": "Усі пропущені мініатюри"
+  },
+  "refresh_group_dials": {
+    "message": "Лише комірки груп"
+  },
+  "refresh_auto_reload": {
+    "message": "Комірки з автооновленням увімкнуто"
+  },
+  "pro_upgrade_label": {
+    "message": "Оновити до Професійної"
+  },
+  "pro_upgrade_now_label": {
+    "message": "Оновити до Професійної зараз"
+  },
+  "sync_down_thumbnails_title": {
+    "message": "Завантаження мініатюр"
+  },
+  "sync_download_cloud_question": {
+    "message": "Ви впевнені, що бажаєте завантажити свої мініатюри зі хмари?"
+  },
+  "sync_download_cloud_question_2": {
+    "message": "У цьому випадку Ваші локальні мініатюри будуть замінені."
+  },
+  "sync_download_yes": {
+    "message": "Так, завантажити"
+  },
+  "sync_download_no": {
+    "message": "Ні"
+  },
+  "sync_conflict": {
+    "message": "Конфлікт синхронізації"
+  },
+  "sync_conflict_body": {
+    "message": "На хмарному сервері знаходиться новіша версія, проте у Вас є деякі незбережені локальні зміни."
+  },
+  "sync_conflict_body_2": {
+    "message": "Бажаєте замінити Вашу локальну версію?"
+  },
+  "sync_conflict_replace_local": {
+    "message": "Замінити локально"
+  },
+  "sync_conflict_replace_server": {
+    "message": "Замінити на сервері"
+  },
+  "sync_err_account_title": {
+    "message": "Ваша версія даних асоційована з іншим обліковим записом"
+  },
+  "sync_err_account_replace_local": {
+    "message": "Замінити локально"
+  },
+  "sync_err_account_replace_cloud": {
+    "message": "Замінити у хмарі"
+  },
+  "sync_err_account_retry": {
+    "message": "Повторити"
+  },
+  "sync_not_empty_title": {
+    "message": "Деякі комірки вже є у хмарі"
+  },
+  "sync_not_empty_replace_local": {
+    "message": "Замінити локальні"
+  },
+  "sync_not_empty_replace_cloud": {
+    "message": "Замінити у хмарі"
+  },
+  "sync_not_empty_replace_retry": {
+    "message": "Повторити"
+  },
+  "sync_changed_account": {
+    "message": "Активний інший обліковий запис"
+  },
+  "sync_changed_account_body": {
+    "message": "Наразі Ви увійшли до іншого облікового запису."
+  },
+  "login_login_create": {
+    "message": "Увійти/Зареєструватися"
+  },
+  "history_title": {
+    "message": "Резервування / Історія"
+  },
+  "history_restore": {
+    "message": "Відновити позначене"
+  },
+  "history_loading": {
+    "message": "Завантаження історії..."
+  },
+  "history_cancel": {
+    "message": "Скасувати"
+  },
+  "history_revert_dials": {
+    "message": "Якщо Ви бажаєте повернути комірки назад, скористайтеся функцією $1."
+  },
+  "save_history_restored": {
+    "message": "дані відновлено з історії"
+  },
+  "search_title": {
+    "message": "Пошук для вікна"
+  },
+  "unexpected_title": {
+    "message": "Трапилася непередбачувана помилка!"
+  },
+  "unexpected_solution": {
+    "message": "Торкніться тут, щоб перезавантажити додаток (якщо це не допоможе, спробуйте перезавантажити Ваш браузер або ПК)."
+  },
+  "unexpected_body": {
+    "message": "Будь ласка, надішліть наступний журнал помилки на мою електронну скриньку підтримки:"
+  },
+  "unexpected_thanks": {
+    "message": "Дякую."
+  },
+  "unexpected_close": {
+    "message": "Закрити"
+  },
+  "err_mutable_title": {
+    "message": "Помилка завантаження бази даних у зв'язку зі вимкненою Історією у Вашому браузері."
+  },
+  "err_mutable_body": {
+    "message": "Необхідно встановити \"Пам'ятати історію\" у Firefox / Налаштування / Приватність і безпека / Історія відвідувань."
+  },
+  "err_is_firefox_bug": {
+    "message": "Це помилка Firefox."
+  },
+  "err_error_details": {
+    "message": "Деталі помилки:"
+  },
+  "login_login_title": {
+    "message": "Увійдіть, щоб увімкнути хмарну синхронізацію та доступ до хмарних комірок"
+  },
+  "menu_refresh_all": {
+    "message": "Оновлює все у групі / усі пропущені (після синхронізації) / усі комірки групи"
+  },
+  "menu_history_title": {
+    "message": "Вікриває вікно, в якому можна керувати власною історією/резервними копіями"
+  },
+  "menu_pro_upload": {
+    "message": "Лише у Професійній версії - Вивантаження усіх мініатюр до хмари, що робить їх доступними на веб-сторінці хмарних комірок (навіть у Вашому телефоні!)"
+  },
+  "menu_pro_download": {
+    "message": "Лише у Професійній версії - Завантаження усіх мініатюр зі хмари із заміною поточних локальних."
+  },
+  "menu_page_to_dial": {
+    "message": "Додати цю сторінку до комірки"
+  },
+  "menu_pages_to_dial": {
+    "message": "Додати $1 вкладок до комірок"
+  },
+  "menu_cloud_dials": {
+    "message": "Хмарні комірки"
+  },
+  "menu_dials_page": {
+    "message": "Меню сторінки комірок"
+  },
+  "keys_ctrl_shift_f": {
+    "message": "Ctrl + Shift + F"
+  },
+  "ed_edit_dial": {
+    "message": "Змінити комірку:"
+  },
+  "ed_tab_general": {
+    "message": "Загальні"
+  },
+  "ed_auto_reload": {
+    "message": "Автооновлення"
+  },
+  "ed_crop_scale": {
+    "message": "Обрізування / Масштаб"
+  },
+  "screen_width": {
+    "message": "Ширина"
+  },
+  "screen_height": {
+    "message": "Висота"
+  },
+  "ed_tab_thumbnail": {
+    "message": "Мініатюра"
+  },
+  "ed_tab_visual": {
+    "message": "Візуальні"
+  },
+  "ed_tab_settings": {
+    "message": "Налаштування"
+  },
+  "ed_dial_title": {
+    "message": "Назва комірки:"
+  },
+  "ed_dial_note": {
+    "message": "Примітка:"
+  },
+  "ed_link_to_page": {
+    "message": "Прив'язати до сторінки:"
+  },
+  "ed_create_new_group": {
+    "message": "Створити нову групу:"
+  },
+  "ed_group_name": {
+    "message": "Назва:"
+  },
+  "ed_columns": {
+    "message": "Колонки:"
+  },
+  "ed_rows": {
+    "message": "Рядки:"
+  },
+  "ed_link_to_group": {
+    "message": "Прив'язати до існуючої групи"
+  },
+  "ed_page_dial": {
+    "message": "Комірка вебсторінки:"
+  },
+  "ed_group_dial": {
+    "message": "Групова комірка:"
+  },
+  "ed_text_dial": {
+    "message": "Текст комірки:"
+  },
+  "ed_search_dial": {
+    "message": "Комірка пошуку:"
+  },
+  "ed_multi_dial": {
+    "message": "Багатосторінкова комірка:"
+  },
+  "ed_live_dial": {
+    "message": "Жива комірка:"
+  },
+  "ed_live_dial_title_1": {
+    "message": "Живі комірки є живими вебсторінками, завантаженими у комірку."
+  },
+  "ed_live_dial_title_2": {
+    "message": "Не будь-яка вебсторінка може бути завантажена у живу комірку, проте більшість сторінок працюватимуть."
+  },
+  "page_name": {
+    "message": "Назва"
+  },
+  "search_provider_name": {
+    "message": "Назва"
+  },
+  "search_provider_url": {
+    "message": "URL"
+  },
+  "search_provider_icon": {
+    "message": "Значок"
+  },
+  "search_provider_name_placeholder": {
+    "message": "Введіть назву постачальника пошуку"
+  },
+  "search_provider_url_placeholder": {
+    "message": "Уведіть пошуковий URL - повинен містити $1"
+  },
+  "search_provider_url_info": {
+    "message": "Перегляньте це навчальне відео щодо створення пошукового URL"
+  },
+  "search_add_more": {
+    "message": "додати більше пошукових двигунів"
+  },
+  "search_add_more_title": {
+    "message": "В одній комірці можуть бути декілька рушіїв пошуку."
+  },
+  "search_provider_tip": {
+    "message": "Натисніть \"Ввести\" для пошуку тут або \"Ctrl + Ввести\", щоб відкрити пошук у новій вкладці"
+  },
+  "multi_dial_import": {
+    "message": "Імпортувати посилання з тексту"
+  },
+  "multi_dial_import_help_0": {
+    "message": "Вводьте одне посилання на рядок."
+  },
+  "multi_dial_import_help_1": {
+    "message": "Якщо бажаєте додати назву посиланню, помістіть таку назву у рядку перед посиланням та додайте попереду символ $1."
+  },
+  "multi_dial_import_current": {
+    "message": "Імпортувати $1 посилань"
+  },
+  "multi_dial_title_action": {
+    "message": "Дія при натисканні на заголовок"
+  },
+  "multi_dial_link_action": {
+    "message": "Дія при натисканні на посилання"
+  },
+  "multi_dial_title_action_0": {
+    "message": "Відкрити всі посилання"
+  },
+  "multi_dial_title_action_1": {
+    "message": "Порожньо"
+  },
+  "multi_dial_link_action_0": {
+    "message": "Відкрити посилання"
+  },
+  "multi_dial_link_action_1": {
+    "message": "Відкрити всі посилання"
+  },
+  "live_dial_opt_no_interaction": {
+    "message": "Вимкнути взаємодію за сторінкою"
+  },
+  "live_dial_opt_hide_scrollbars": {
+    "message": "Приховати панель прокрутки"
+  },
+  "dial_text_placeholder": {
+    "message": "Введіть текст тут"
+  },
+  "dial_click_to_clipboard": {
+    "message": "Копіювати текст до буферу обміну при клацанні на комірці"
+  },
+  "ed_ar_title": {
+    "message": "Автооновлення мініатюри"
+  },
+  "ed_ar_disabled_radio": {
+    "message": "Вимкнено"
+  },
+  "ed_ar_enabled_radio": {
+    "message": "Увімкнено"
+  },
+  "ed_au_type_0": {
+    "message": "Перезавантажувати"
+  },
+  "ed_au_type_1": {
+    "message": "Щоденно"
+  },
+  "ed_au_type_2": {
+    "message": "Щомісячно"
+  },
+  "ed_au_type_3": {
+    "message": "По буднях"
+  },
+  "ed_au_type_4": {
+    "message": "По вихідних"
+  },
+  "ed_au_type_5": {
+    "message": "Щопонеділка"
+  },
+  "ed_au_type_6": {
+    "message": "Щовівторка"
+  },
+  "ed_au_type_7": {
+    "message": "Щосереди"
+  },
+  "ed_au_type_8": {
+    "message": "Щочетверга"
+  },
+  "ed_au_type_9": {
+    "message": "Щоп'ятниці"
+  },
+  "ed_au_type_10": {
+    "message": "Щосуботи"
+  },
+  "ed_au_type_11": {
+    "message": "Щонеділі"
+  },
+  "ed_crop_off_radio": {
+    "message": "Автоматично"
+  },
+  "ed_crop_on_radio": {
+    "message": "Вручну"
+  },
+  "ar_at": {
+    "message": "о:"
+  },
+  "ar_hours": {
+    "message": "Години"
+  },
+  "ar_minutes": {
+    "message": "Хвилини"
+  },
+  "ar_dial_delay": {
+    "message": "Затримка перед створенням знімку екрану:"
+  },
+  "ar_dial_delay_title": {
+    "message": "Після завантаження сторінки ми зачекаємо, доки створяться мініатюри. Це може допомогти, якщо сторінка завантажує власний вміст увесь час або містить комплекс графіки."
+  },
+  "ed_more_advanced": {
+    "message": "Більш просунуті налаштування будуть доступні у майбутніх версіях."
+  },
+  "ed_auto_generated_th_radio": {
+    "message": "Автоматично згенерована мініатюра:"
+  },
+  "ed_blank_radio": {
+    "message": "Порожня / у суцільному кольорі мініатюра - використовуючи колір Тла"
+  },
+  "ed_make_text_radio": {
+    "message": "Створити власну текстову мініатюру, використавши веб-сторінку $1:"
+  },
+  "use_for_dial": {
+    "message": "Використати для комірки"
+  },
+  "ed_custom_th_file": {
+    "message": "Користувацька мініатюра з файлу:"
+  },
+  "ed_custom_th_url": {
+    "message": "Користувацька мініатюра з URL:"
+  },
+  "ed_public_thumbnail_radio": {
+    "message": "Мініатюри з публічної бібліотеки:"
+  },
+  "load_images": {
+    "message": "Завантажити зображення"
+  },
+  "load_images_empty": {
+    "message": "Не знайдено зображень для цього домену"
+  },
+  "downloads": {
+    "message": "Завантаження:"
+  },
+  "image_info": {
+    "message": "Інформація про зображення:"
+  },
+  "image_extension": {
+    "message": "Тип зображення:"
+  },
+  "create_date": {
+    "message": "Дата створення:"
+  },
+  "image_file_size": {
+    "message": "Розмір зображення:"
+  },
+  "resolution_too_low": {
+    "message": "Роздільна здатність занизька"
+  },
+  "report_image": {
+    "message": "Поскаржитися на зображення"
+  },
+  "category_vector_images": {
+    "message": "Векторні зображення"
+  },
+  "category_high_dpi": {
+    "message": "Висока роздільна здатність"
+  },
+  "category_medium_dpi": {
+    "message": "Середня роздільна здатність"
+  },
+  "category_low_dpi": {
+    "message": "Низька роздільна здатність"
+  },
+  "public_upload_consent": {
+    "message": "Шляхом вивантаження мініатюр до публічної бібліотеки Ви погоджуєтесь із:"
+  },
+  "public_upload_body_1": {
+    "message": "Завантажена до публічної бібліотеки мініатюра буде доступною для усіх користувачів!"
+  },
+  "public_upload_body_2": {
+    "message": "Вивантажені дані містять: мініатюру зображення, розташування мініатюри, назву комірки. Інші користувачі не побачать, хто завантажив мініатюру."
+  },
+  "label_sending": {
+    "message": "надсилання..."
+  },
+  "report_send": {
+    "message": "Скарга!"
+  },
+  "report_details_placeholder": {
+    "message": "Додаткова інформація"
+  },
+  "report_type": {
+    "message": "Тип порушення:"
+  },
+  "report_type_spam": {
+    "message": "спам"
+  },
+  "report_type_copyright": {
+    "message": "авторське право"
+  },
+  "report_type_violent": {
+    "message": "насильство"
+  },
+  "report_type_unethical": {
+    "message": "неетичне"
+  },
+  "report_type_other": {
+    "message": "інше"
+  },
+  "ed_save_on_disk": {
+    "message": "Зберегти на диск"
+  },
+  "ed_vr_resolution": {
+    "message": "Роздільна здатність:"
+  },
+  "ed_vr_resolution_title": {
+    "message": "Роздільна здатність сторінки під час створення мініатюр."
+  },
+  "ed_no_zoom": {
+    "message": "Без збільшення"
+  },
+  "ed_top": {
+    "message": "вгорі"
+  },
+  "ed_left": {
+    "message": "ліворуч"
+  },
+  "ed_center": {
+    "message": "по центру"
+  },
+  "ed_align_left": {
+    "message": "вирівняти ліворуч"
+  },
+  "ed_load_preview": {
+    "message": "Завантажити передперегляд"
+  },
+  "ed_reset_position": {
+    "message": "Скинути розташування"
+  },
+  "ed_reset_zoom": {
+    "message": "Скинути масштаб"
+  },
+  "ed_reset_size": {
+    "message": "Скинути розмір"
+  },
+  "ed_reset_scale": {
+    "message": "Скинути масштаб"
+  },
+  "label_reset_all": {
+    "message": "Скинути все"
+  },
+  "label_coming_soon": {
+    "message": "Скоро буде"
+  },
+  "label_save_changes": {
+    "message": "Зберегти зміни"
+  },
+  "label_discard_changes": {
+    "message": "Скасувати зміни"
+  },
+  "label_create_all_thumbnails": {
+    "message": "Створити усі мініатюри"
+  },
+  "label_create_thumbnail": {
+    "message": "Створити мініатюру"
+  },
+  "ed_position": {
+    "message": "Розташування:"
+  },
+  "ed_thumbnail_position_0": {
+    "message": "По центру (вмістити)"
+  },
+  "ed_thumbnail_position_1": {
+    "message": "За шириною - вирівнювання по верху"
+  },
+  "ed_thumbnail_position_2": {
+    "message": "Обкладинка"
+  },
+  "ed_thumbnail_position_3": {
+    "message": "Заповнити (розтягнути)"
+  },
+  "ds_fetch_new_name": {
+    "message": "Оновлювати заголовок комірки під час перезавантаження (необхідно JavaScript)"
+  },
+  "ds_fetch_new_name_title": {
+    "message": "Під час перезавантаження (або автоматичного перезавантаження) назви комірок будуть змінені на поточні назви сторінок. Щоб така функція працювала, необхідний увімкнений JavaScript."
+  },
+  "ds_no_script": {
+    "message": "Вимкнути JavaScript під час перезавантаження"
+  },
+  "ds_no_script_title": {
+    "message": "Вимкнення JavaScript може допомогти під час створення мініатюр певних сторінок."
+  },
+  "ds_open_dial_in": {
+    "message": "Відкрити комірку в:"
+  },
+  "ds_open_dial_in_0": {
+    "message": "Поточній вкладці"
+  },
+  "ds_open_dial_in_1": {
+    "message": "Новій вкладці (перейти)"
+  },
+  "ds_open_dial_in_2": {
+    "message": "Новій вкладці"
+  },
+  "ds_open_dial_in_3": {
+    "message": "Новому вікні"
+  },
+  "ds_open_dial_in_4": {
+    "message": "Новому анонімному вікні"
+  },
+  "open_in_chrome_incognito": {
+    "message": "Режим інкогніто"
+  },
+  "open_in_firefox_private": {
+    "message": "Приватне вікно"
+  },
+  "firefox_containers": {
+    "message": "Контейнери"
+  },
+  "no_container": {
+    "message": "Немає контейнера"
+  },
+  "eg_title": {
+    "message": "Змінити групу"
+  },
+  "eg_position": {
+    "message": "Розташування:"
+  },
+  "eg_name": {
+    "message": "Назва:"
+  },
+  "eg_columns": {
+    "message": "Колонки:"
+  },
+  "eg_rows": {
+    "message": "Рядки:"
+  },
+  "eg_dials_ratio": {
+    "message": "Співвідношення комірок:"
+  },
+  "eg_flexible": {
+    "message": "змінні"
+  },
+  "eg_fixed": {
+    "message": "фіксовані"
+  },
+  "group_eg_scrollable": {
+    "message": "Увімкнути можливість гортання групи"
+  },
+  "eg_background_color": {
+    "message": "Колір тла"
+  },
+  "eg_text_color": {
+    "message": "Колір тексту"
+  },
+  "menu_search_title": {
+    "message": "Пошук комірки (Ctrl + Shift + F) - використовуючи URL / Назву / Нотатку"
+  },
+  "dial_number_title": {
+    "message": "Номер комірки - може бути використано у додатку \"Ctrl + Number for Group Speed Dial\", щоб відкрити цю комірку за допомогою ярлика клавіатури."
+  },
+  "dial_name_placeholder": {
+    "message": "згенеровані автоматично, якщо є порожніми"
+  },
+  "dial_note_placeholder": {
+    "message": "нотатки допомагають знаходити комірки через функцію пошуку (Ctrl + Shift + F)"
+  },
+  "dial_url_placeholder": {
+    "message": "префікс http:// можна пропустити (наприклад: google.com)"
+  },
+  "duplicate_dial_found": {
+    "message": "У групі $1 знайдено комірки-дублікати"
+  },
+  "op_search": {
+    "message": "Пошук комірки"
+  },
+  "op_refresh": {
+    "message": "Оновити мініатюри"
+  },
+  "op_history": {
+    "message": "Історія / Резервні копії"
+  },
+  "menu_archive_title": {
+    "message": "Архів містить Ваші групи, позначені як архівні.о"
+  },
+  "op_upload_thumbnails": {
+    "message": "Вивантажити мініатюри"
+  },
+  "op_download_thumbnails": {
+    "message": "Завантажити мініатюри"
+  },
+  "op_pro_only": {
+    "message": "(лише у Професійній)"
+  },
+  "op_bing_image": {
+    "message": "Тло Bing"
+  },
+  "op_bing_next": {
+    "message": "Наступне зображення"
+  },
+  "op_bing_previous": {
+    "message": "Попереднє зображення"
+  },
+  "op_bing_fullscreen": {
+    "message": "Показати повне зображення"
+  },
+  "op_bing_quiz": {
+    "message": "Вікторина зображень Bing"
+  },
+  "o_bing_hide_dials": {
+    "message": "Автоматично приховувати комірки для відображення тла"
+  },
+  "o_no_dial_reflection": {
+    "message": "Без зображень"
+  },
+  "o_background_url_placeholder": {
+    "message": "приклад: https://www.some_page.com/nature.jpg"
+  },
+  "o_paste_import_placeholder": {
+    "message": "встати експортований текст сюди"
+  },
+  "o_add_current_after_action": {
+    "message": "Після додавання поточної сторінки до комірок:"
+  },
+  "o_add_current_after_action_0": {
+    "message": "Запитати користувача про повернення / залишення"
+  },
+  "o_add_current_after_action_1": {
+    "message": "Повернутися на попередню вкладку"
+  },
+  "o_add_current_after_action_2": {
+    "message": "Залишатися на сторінці з комірками"
+  },
+  "o_theme_title": {
+    "message": "типово: чорна - для кращого сну вночі!"
+  },
+  "o_padding_title": {
+    "message": "Простір навколо кожної комірки, між двома комірками значення подвоюється."
+  },
+  "o_sync_dials": {
+    "message": "Синхронізаціія даних комірок"
+  },
+  "o_sync_settings": {
+    "message": "Синхронізація даних налаштувань"
+  },
+  "o_disable_dials_sync": {
+    "message": "Вимкнути синхронізацію комірок на цьому пристрої"
+  },
+  "o_disable_dials_sync_title": {
+    "message": "Ваші комірки НЕ БУДУТЬ зарезервовані до хмари. Переконайтеся, що періодично створюєте локальні резервні копії для запобігання втраті даних!"
+  },
+  "o_auto_options_sync": {
+    "message": "Автоматичне резервування та синхронізація налаштувань серед усіх пристроїв"
+  },
+  "o_group_padding_title": {
+    "message": "Простір навколо назви кожної групи, між двома група значення подвоюється."
+  },
+  "o_group_font_size_title": {
+    "message": "Розмір тексту у верхній панелі."
+  },
+  "o_recommended_for_performance_title": {
+    "message": "Рекомендовано для найкращої швидкодії."
+  },
+  "o_two_gradient_colors_title": {
+    "message": "Оберіть принаймні 2 кольори для використання градієнту. - Використання складного градієнтного тла може дещо зменшити продуктивність."
+  },
+  "o_background_preview_title": {
+    "message": "Передперегляд тла"
+  },
+  "o_big_picture_warning_title": {
+    "message": "Використання завеликих зображень може негативно вплинути на продуктивність (час завантаження нової вкладки)."
+  },
+  "o_group_delayed_activation_title": {
+    "message": "Така затримка дозволяє обирати групу навіть, якщо воно оточена іншими групами (якщо у Вас, наприклад, 3 рядки груп)"
+  },
+  "o_auto_upload_title": {
+    "message": "Необхідна Професійна версія. - Автоматичне вивантаження може бути активне лише на одному пристрої."
+  },
+  "o_no_title": {
+    "message": "Комірки без назви (лише мініатюри)"
+  },
+  "o_no_title_title": {
+    "message": "типово: вимкнено - Коли увімкнено, усі назви комірок буде приховано."
+  },
+  "o_squared_edges": {
+    "message": "Без заокруглених кутів"
+  },
+  "o_squared_edges_title": {
+    "message": "типово: вимкнено - Коли увімкнено, комірки матимуть гострі кути."
+  },
+  "o_dial_font_size": {
+    "message": "Розмір шрифту назв комірок"
+  },
+  "o_dial_title_down": {
+    "message": "Назви комірок внизу"
+  },
+  "o_dial_title_down_title": {
+    "message": "типово: вимкнено - Коли увімкнено, назва комірки відображатиметься внизу."
+  },
+  "o_scrollable_thumbnails": {
+    "message": "Дозволити гортання мініатюр всередині комірки"
+  },
+  "o_no_shadow": {
+    "message": "Без тіні навколо комірок"
+  },
+  "o_no_shadow_title": {
+    "message": "типово: вимкнено - Коли увімкнено, типову тінь навколо комірок буде приховано."
+  },
+  "o_hide_empty_dials": {
+    "message": "Приховати порожні комірки"
+  },
+  "o_hide_empty_dials_title": {
+    "message": "типово: вимкнено - Коли увімкнено, усі порожні комірки будуть приховані."
+  },
+  "o_hide_hover_shadow": {
+    "message": "Приховати похилу тінь"
+  },
+  "o_dial_numbers_title": {
+    "message": "Номери комірок відображатимуться поряд з назвою комірки. Номери комірок знадобляться, якщо Ви бажаєте використовувати додаток \"Ctrl + Number for Group Speed Dial\", щоб відкривати комірки за допомогою ярликів клавіатури."
+  },
+  "o_dial_numbers": {
+    "message": "Показувати номери комірок"
+  },
+  "o_hide_hover_shadow_title": {
+    "message": "типово: вимкнено - Коли увімкнено, похилу тінь буде вимкнено."
+  },
+  "o_hide_login_part": {
+    "message": "Сховати вхід до облікового запису"
+  },
+  "o_hide_login_part_title": {
+    "message": "Приховує блок \"Увійти/Зареєстрватися\" або Ваше ім'я у хмарі, якщо Ви увійшли."
+  },
+  "o_hide_top_bar": {
+    "message": "Приховати групи та частину входу до облікового запису"
+  },
+  "o_hide_top_bar_title": {
+    "message": "типово: вимкнено - Коли увімкнено, то список груп та частина входу до облікового запису будуть приховані."
+  },
+  "o_hide_add_group": {
+    "message": "Приховати кнопку \"+\" наприкінці списку груп"
+  },
+  "o_hide_add_group_title": {
+    "message": "-"
+  },
+  "o_root_groups_only": {
+    "message": "Приховати вкладені групи зі списку груп (верхня панель)"
+  },
+  "o_root_groups_only_title": {
+    "message": "Будуть відображені лише кореневі групи. Групи, що містять комірки-групи у будь-якій групі, будуть приховані."
+  },
+  "o_firefox_homepage_override": {
+    "message": "Відкривати сторінку комірок під час запуску Firefox"
+  },
+  "o_pro_thumbnail_sync": {
+    "message": "Увімкнути автоматичну синхронізацію мініатюр із хмарним сервером"
+  },
+  "o_group_name_as_title": {
+    "message": "Встановити заголовок сторінки комірок назвою обраної поточної групи"
+  },
+  "o_prevent_new_tab_container": {
+    "message": "Запобігати відкриттю сторіки комірок у контейнері Firefox"
+  },
+  "o_prevent_new_tab_container_title": {
+    "message": "Сторінка комірок відкриється без контейнера"
+  },
+  "o_group_name_as_title_title": {
+    "message": "Назву групи буде встановленою заголовком сторінки - також його можна буде побачити як назву вкладки або назву на панелі завдань."
+  },
+  "o_instant_popup_redirect": {
+    "message": "Значок панелі - миттєве переспрямування на сторінку комірок"
+  },
+  "o_instant_popup_new_tab": {
+    "message": "відкрити у новій вкладці"
+  },
+  "o_instant_popup_new_tab_title": {
+    "message": "-"
+  },
+  "o_user_consent_google_favicon": {
+    "message": "Увімкнути використання сервісів Google для отримання значків (favicon) для комірок (використовується лише, коли значки не можуть бути завантажені безпосередньо) - рекомендується"
+  },
+  "o_instant_popup_redirect_title": {
+    "message": "Натисніть на значок понелі, щоб відкрити сторінку комірок"
+  },
+  "o_disable_quick_edit": {
+    "message": "Вимкнути швидку зміну лівою кнопкою"
+  },
+  "o_disable_quick_edit_title": {
+    "message": "При клацанні лівою кнопкю миші на порожній комірці вікно редагування не з'являтиметься."
+  },
+  "o_open_always_new_window": {
+    "message": "Завжди відкривати у новому вікні"
+  },
+  "o_open_always_new_window_title": {
+    "message": "Натискання на комірку відкриє її вміст у новому вікні"
+  },
+  "o_open_always_new_tab": {
+    "message": "Завжди відкривати у новій вкладці"
+  },
+  "o_open_always_new_tab_title": {
+    "message": "Натискання на комірку відкриє її вміст у новій вкладці"
+  },
+  "o_open_always_include_group_dials": {
+    "message": "Включаючи комірки груп"
+  },
+  "o_open_always_include_group_dials_title": {
+    "message": "Комірки групи також будуть відкриті у новій вкладці"
+  },
+  "o_open_always_focused": {
+    "message": "Автоперемикання на нову вкладку"
+  },
+  "o_open_always_focused_title": {
+    "message": "Браузер також буде сфокусовано на нововідкритій вкладці"
+  },
+  "o_remember_group": {
+    "message": "Пам'ятати останню відкриту групу"
+  },
+  "o_remember_group_title": {
+    "message": "Коли увімкнено, то наступного разу при відкритті нової вкладки Ви будете переміщені до останньої відвіданої групи."
+  },
+  "o_remember_group_runtime": {
+    "message": "Пам'ятати лише до перезапуску браузера"
+  },
+  "o_disable_auto_show_groups": {
+    "message": "Вимкнення автопоказу груп під час використання Drag and Drop"
+  },
+  "o_disable_auto_show_groups_title": {
+    "message": "-"
+  },
+  "o_scroll_groups": {
+    "message": "Гортати групи"
+  },
+  "o_scroll_groups_title": {
+    "message": "Ви зможете гортати групи за допомогою колеса миші."
+  },
+  "o_scroll_groups_reverse": {
+    "message": "Зворотній напрямок гортання"
+  },
+  "o_scroll_groups_reverse_title": {
+    "message": "-"
+  },
+  "o_scroll_groups_circle": {
+    "message": "Нескінчення гортання"
+  },
+  "o_scroll_groups_circle_title": {
+    "message": "Коли буде досягнуто кінця, подальше гортання продовжиться з початку (і навпаки)."
+  },
+  "o_frame_jpeg": {
+    "message": "Використовувати JPEG замість PNG"
+  },
+  "o_frame_jpeg_title": {
+    "message": "-"
+  },
+  "o_visit_jpeg": {
+    "message": "Використовувати JPEG замість PNG"
+  },
+  "o_visit_jpeg_title": {
+    "message": "-"
+  },
+  "o_visit_jpeg_high_resolution": {
+    "message": "Використовувати високу роздільну здатність"
+  },
+  "o_visit_jpeg_high_resolution_title": {
+    "message": "-"
+  },
+  "o_current_dial_dimensions": {
+    "message": "Використовувати поточні розміри комірок (не рекомендується)"
+  },
+  "o_current_dial_dimensions_title": {
+    "message": "Коли увімкнено, для цільової роздільної здатності буде використано поточний розмір комірки. Коли вимкнено, роздільна здатність цільової комірки обраховується, виходячи з роздільної здатності екрану монітору та рядків/колонок групи."
+  },
+  "o_context_menu_show_groups": {
+    "message": "Відображати список груп у контекстному меню для швидкого введення"
+  },
+  "o_context_menu_internal": {
+    "message": "Контекстні меню сторінки комірок:"
+  },
+  "o_dials_context_menu": {
+    "message": "Комірки і комірки-групи"
+  },
+  "o_groups_context_menu": {
+    "message": "Групи:"
+  },
+  "o_options_context_menu": {
+    "message": "Налаштування меню:"
+  },
+  "o_tab_visual_dials": {
+    "message": "Комірки"
+  },
+  "o_tab_visual_groups": {
+    "message": "Групи"
+  },
+  "o_tab_thumbnails": {
+    "message": "Мініатюри"
+  },
+  "o_tab_image": {
+    "message": "Якість зображення"
+  },
+  "o_theme": {
+    "message": "Тема:"
+  },
+  "o_color_theme": {
+    "message": "Колір теми:"
+  },
+  "o_custom_css": {
+    "message": "Користувацькі CSS-стилі:"
+  },
+  "o_custom_css_placeholder": {
+    "message": "ПОПЕРЕДЖЕННЯ: Лише для досвідчених користувачів! Неправильні параметри стилів можуть призвести до спотворення відображення."
+  },
+  "o_reload_group_dials": {
+    "message": "Оновити комірки груп після зміни тла"
+  },
+  "o_dials": {
+    "message": "Комірки:"
+  },
+  "o_dials_visual": {
+    "message": "Комірки - візуальне:"
+  },
+  "o_android_min_size": {
+    "message": "Розмір комірки на Android"
+  },
+  "o_android_min_dial_size": {
+    "message": "Мінімальний розмір комірки на Android (0 - вимкнено)"
+  },
+  "o_space_around_dials": {
+    "message": "Простір навколо комірок:"
+  },
+  "o_group_list": {
+    "message": "Список груп:"
+  },
+  "o_space_around_groups": {
+    "message": "Простір навколо груп:"
+  },
+  "o_group_list_size": {
+    "message": "Розмір шрифту списку груп:"
+  },
+  "o_group_list_height": {
+    "message": "Висота списку груп:"
+  },
+  "o_background_pic": {
+    "message": "Зображення тла:"
+  },
+  "o_gradient_type": {
+    "message": "Тип градієнту:"
+  },
+  "o_gradient_colors": {
+    "message": "Кольори градієнту:"
+  },
+  "o_gradient_solid": {
+    "message": "суцільний колір - без градієнту"
+  },
+  "o_gradient_linear_up_down": {
+    "message": "лінійний - вгору / вниз"
+  },
+  "o_gradient_linear_left_right": {
+    "message": "лінійний - ліворуч / праворуч"
+  },
+  "o_gradient_linear_diagonal": {
+    "message": "лінійний - діагональ"
+  },
+  "o_gradient_radial_elipse": {
+    "message": "радіальний - овал"
+  },
+  "o_gradient_radial_circle": {
+    "message": "радіальний - коло"
+  },
+  "o_choose_local_image": {
+    "message": "Обрати локальний файл зображення..."
+  },
+  "o_copy_link": {
+    "message": "Копіювати посилання на домівку"
+  },
+  "o_safari_dials_page_hotkeys": {
+    "message": "Комбінації клавіш для відкриття сторінки комірок:"
+  },
+  "o_how_to_homepage": {
+    "message": "щоб встановити $app_name$ домівкою, натисніть кнопку \"Копіювати посилання на домівку\" та вставте вміст у Браузер / Налаштування / Домівка"
+  },
+  "o_redirect_url": {
+    "message": "Замінити сторінку \"Нова вкладка\" на URL:"
+  },
+  "o_redirect_url_placeholder": {
+    "message": "приклад: https://www.google.com/"
+  },
+  "o_redirect_url_title": {
+    "message": "ПОПЕРЕДЖЕННЯ: Ви можете використовувати посилання лише на нормальні веб-сторінки. Внутрішні сторінки, як-от \"about:newtab\", не працюватимуть! Єдиним винятком є \"about:blank\"."
+  },
+  "o_groups": {
+    "message": "Групи:"
+  },
+  "o_group_activation_delay": {
+    "message": "Активація затримки під час використання Drag and Drop:"
+  },
+  "o_short_keys": {
+    "message": "Ярлики - необхідний інший додаток:"
+  },
+  "o_key_extended_mode": {
+    "message": "Вмикає доступ до більш ніж 9 комірок"
+  },
+  "o_key_extended_mode_title": {
+    "message": "-"
+  },
+  "o_dial_only_current_group": {
+    "message": "Швидке відриття комірок лише у відчиненій поточній групі"
+  },
+  "o_dial_only_current_group_title": {
+    "message": "Приклад: натискання \"1\" відриє першу комірку у відчиненій поточній групі."
+  },
+  "o_key_force_page_focus": {
+    "message": "Примусове фокусування на сторінці (експериментально - можливе припинення роботи)"
+  },
+  "o_key_force_page_focus_title": {
+    "message": "У випадку фокусування на рядку адреси, ми натомість намагатимемося сфокусуватися на сторінці. У будь-якому випадку це вимкне кнопку \"Назад\" після навігації. Це є експериментальною функцією, а тому може припинити працювати у нових версіях Firefox."
+  },
+  "o_key_to_group_dial": {
+    "message": "Вмикає доступ до груп під час утримання клавіші:"
+  },
+  "o_key_to_group_dial_title": {
+    "message": "Коли клавіша натиснута, Ви зможете викликати групи замість комірок."
+  },
+  "o_key_disable_alt": {
+    "message": "Вимкнути ярлики з \"Alt\" / \"CMD\""
+  },
+  "o_key_disable_alt_title": {
+    "message": "Вимикає ярлики, в яких використовуються клавіша \"Alt\" на Windows та клавіша \"CMD\" на Mac OS."
+  },
+  "o_key_disable_ctrl": {
+    "message": "Вимкнути ярлики з \"Ctrl\""
+  },
+  "o_key_disable_ctrl_title": {
+    "message": "Вимикає ярлики, в яких використовується клавіша \"Ctrl\"."
+  },
+  "o_key_disable_shift": {
+    "message": "Вимкнути ярлики з \"Shift\""
+  },
+  "o_key_disable_shift_title": {
+    "message": "Вимикає ярлики, в яких використовується клавіша \"Shift\", наприклад, \"Ctrl + Shift + 1\" чи \"Alt + Shift + 1\"."
+  },
+  "o_key_disable_f4": {
+    "message": "Вимкнути ярлик \"F4\" для відкриття нової вкладки"
+  },
+  "o_key_disable_f4_title": {
+    "message": "Натискання на клавішу \"F4\" не відкриватиме нову вкладку."
+  },
+  "o_key_f4_active_here": {
+    "message": "Відкривати сторінку з комірками в активній вкладці"
+  },
+  "o_key_disable_zero": {
+    "message": "Вимкнути ярлик \"Ctrl + 0\" для відриття 10 комірки"
+  },
+  "o_key_disable_zero_title": {
+    "message": "Застосування ярлика \"Ctrl + 0\" (використовуваного для \"Скидання масштабу\") більше не відкриватиме комірку з номером 10."
+  },
+  "o_key_new_tab": {
+    "message": "Відкрити у новій вкладці"
+  },
+  "o_key_new_tab_title": {
+    "message": "-"
+  },
+  "o_key_next_to_current": {
+    "message": "поряд з поточною вкладкою"
+  },
+  "o_key_next_to_current_title": {
+    "message": "-"
+  },
+  "o_keys_delay": {
+    "message": "Затримка для багаторозрядних чисел:"
+  },
+  "o_ar_settings": {
+    "message": "Автоперезавантажувати налаштування"
+  },
+  "o_ar_disable_this_device": {
+    "message": "Вимкнути на цьому пристрої"
+  },
+  "o_ar_disable_this_device_title": {
+    "message": "Автоперезавантаження буде вимкнене у цьому браузері."
+  },
+  "o_ar_keep_pinned_tab": {
+    "message": "Залишити перезавантажену вкладку відкритою після перезавантаження"
+  },
+  "o_ar_keep_pinned_tab_title": {
+    "message": "Вкладка, використовувана для створення мініатюр, залишатиметься відкритою після перезавантаження."
+  },
+  "o_ar_concurrent_count": {
+    "message": "Максимум одночасно завантажуваних сторінок"
+  },
+  "o_ar_concurrent_count_title": {
+    "message": "Обмежує кількість одночасно завантажуваних сторінок під час створення мініатюр. Менше значення зменшує навантаження на ЦП та ОП."
+  },
+  "o_ar_screen_resolution": {
+    "message": "Автоперезавантажувати роздільну здатність цільового екрану"
+  },
+  "o_ar_auto_radio": {
+    "message": "Автоматично - засноване на роздільній здатності поточного монітору (рекомендовано)"
+  },
+  "o_ar_custom_radio": {
+    "message": "Вручну"
+  },
+  "o_ar_screen_resolution_help": {
+    "message": "Роздільна здатність мініатюри обчислюється, виходячи з розміру екрану та розміру цільової групи."
+  },
+  "o_vr_screen_resolution": {
+    "message": "Роздільна здатність віртуальної сторінки, що використовується під час створення мініатюри."
+  },
+  "o_vr_default_width": {
+    "message": "Типова ширина віртуальної сторінки"
+  },
+  "o_vr_default_width_title": {
+    "message": "Ширина сторінки, що використовується під час створення мініатюри."
+  },
+  "o_thumb_timings": {
+    "message": "Час та затримки генерування мініатюр:"
+  },
+  "o_load_timeout": {
+    "message": "Максимальний час очікування завантаження сторінки:"
+  },
+  "o_context_menu_plus_delay": {
+    "message": "Додаткова затримка у контекстному меню:"
+  },
+  "o_normal_reload_fixed_delay": {
+    "message": "Звичайна затримка оновлення:"
+  },
+  "o_reload_visit_fixed_delay": {
+    "message": "Затримка оновлення при відвідуванні:"
+  },
+  "o_thumbnails_delays_help": {
+    "message": "Такі затримки допомагають у створенні мініатюр - багато сторінок використовують javascript для закінчення завантаження вмісту, тому браузеру часто необхідні декілька мілісекунд для відображення сторінки."
+  },
+  "o_img_quality_default_reload": {
+    "message": "Якість зображення - типове оновлення:"
+  },
+  "o_img_compression_level": {
+    "message": "рівень стиснення"
+  },
+  "o_img_quality_reload_visit": {
+    "message": "Якість зображення - оновлювати при відвіданні:"
+  },
+  "o_context_menu_dials_page": {
+    "message": "Контекстне меню на сторінці комірок:"
+  },
+  "o_backup_restore": {
+    "message": "Резервувати / відновити налаштування до / з файлу:"
+  },
+  "o_export_dials": {
+    "message": "Експорт налаштувань і комірок"
+  },
+  "o_export_thumbnails": {
+    "message": "також експортувати мініатюри - це кардинально збільшить розмір файлу експорту"
+  },
+  "o_import_other_addons": {
+    "message": "Імпорт з інших додатків:"
+  },
+  "o_import_josep": {
+    "message": "Імпортувати комірки з додатку \"Speed Dial by Josep del Rio\":"
+  },
+  "o_import_fvd": {
+    "message": "Імпортувати комірки з \"Speed Dial [FVD] by Nimbus Web\":"
+  },
+  "o_import_firefox_bookmarks": {
+    "message": "Імпортувати комірки з файлу закладинок Firefox \".json\":"
+  },
+  "o_import_fast_dial": {
+    "message": "Імпорт комірок з додатку \"Fast Dial by telega\":"
+  },
+  "o_import_super_start_bookmarks": {
+    "message": "Імпортувати комірки з додатку \"Super Start by cyberscorpio\":"
+  },
+  "o_import_speed_dial_2": {
+    "message": "Імпортувати комірки з додатка \"Speed Dial 2 by speeddial2.com\":"
+  },
+  "o_replace_existing": {
+    "message": "Замінити поточні комірки"
+  },
+  "o_import_from_text": {
+    "message": "З тексту:"
+  },
+  "o_about_cloud_dials": {
+    "message": "Хмарні комірки:"
+  },
+  "o_auto_upload_pro": {
+    "message": "Автовивантаження мініатюр (лише у Професійній)"
+  },
+  "o_picture_from_url": {
+    "message": "зображення з URL:"
+  },
+  "o_picture_is_web_page": {
+    "message": "веб-сторінка як тло:"
+  },
+  "o_picture_bing_of_the_day": {
+    "message": "Зображення дня Bing:"
+  },
+  "o_picture_bing_of_the_day_note": {
+    "message": "нове зображення щоденно від $1"
+  },
+  "o_picture_bing_of_the_day_help": {
+    "message": "Ви можете контролювати зображення Bing з головного меню на сторінці комірок."
+  },
+  "o_picture_from_pc": {
+    "message": "зображення з ПК:"
+  },
+  "o_gradient_colors_sm": {
+    "message": "кольори градієнту:"
+  },
+  "o_none_fastest": {
+    "message": "немає (найшвидше)"
+  },
+  "o_watch_youtube_import": {
+    "message": "Переглянути посібник у YouTube"
+  },
+  "o_cloud_backup_instead": {
+    "message": "У будь-якому випадку Ви можете створити безкоштовний обліковий запис у хмарі, і Ваші комірки будуть автоматично зарезервовані у хмарі. Усі дані передаються через захищене HTTPS-з'єднання."
+  },
+  "reload_heading": {
+    "message": "$app_name$ - вкладка перезавантаження мініатюр"
+  },
+  "reload_subheading": {
+    "message": "Ця вкладка використовується функцією автоперезавантаження, а також для створення мініатюр у тлі."
+  },
+  "archive": {
+    "message": "Архів"
+  },
+  "archived": {
+    "message": "архівовано"
+  },
+  "archive_empty": {
+    "message": "Архів порожній"
+  },
+  "archive_empty_body": {
+    "message": "Спочатку позначте декілька груп як архівні."
+  },
+  "archive_close_title": {
+    "message": "Клацніть для закриття архіву"
+  },
+  "group_archive_group": {
+    "message": "Перемістити групу до архіву"
+  },
+  "group_archive_group_title": {
+    "message": "Архівовані групи невидимі у списку груп. Доступ до них здійснюється через Головне меню / Архів."
+  },
+  "productivity_mode": {
+    "message": "Режим продуктивності"
+  },
+  "productivity_mode_title": {
+    "message": "Автоматичне приховування комірок, що відволікають, під час годин роботи задля того, щоб допомогти сфокусуватися на праці."
+  },
+  "auto_productivity_mode": {
+    "message": "Запланувати автоматичну роботу режиму продуктивності"
+  },
+  "active_days": {
+    "message": "Активні дні"
+  },
+  "start_time": {
+    "message": "Час початку"
+  },
+  "end_time": {
+    "message": "Час закінчення"
+  },
+  "elapsed_time": {
+    "message": "Пройшло часу"
+  },
+  "remaining_time": {
+    "message": "Залишилось часу"
+  },
+  "start_productivity": {
+    "message": "Актитувати зараз"
+  },
+  "end_productivity": {
+    "message": "Закінчити зараз"
+  },
+  "choose_distracting_dials": {
+    "message": "Обрати комірки, що відволікають"
+  },
+  "selected_dials_groups": {
+    "message": "Обрано: комірок: $1 / груп: $2"
+  },
+  "s_cp": {
+    "message": "Користувацький постачальник пошуку"
+  },
+  "sc_0": {
+    "message": "Користувацька"
+  },
+  "sc_1": {
+    "message": "Пошук у мережі"
+  },
+  "sc_2": {
+    "message": "Переклад"
+  },
+  "sc_3": {
+    "message": "Відео"
+  },
+  "sc_4": {
+    "message": "Соціальні мережі"
+  },
+  "sc_5": {
+    "message": "Карти"
+  },
+  "sc_6": {
+    "message": "Музика"
+  },
+  "sc_7": {
+    "message": "Фільми"
+  },
+  "sc_8": {
+    "message": "Інше"
+  },
+  "search_engine": {
+    "message": "Двигун пошуку",
+    "common": true
+  },
+  "color_remove_color": {
+    "message": "прибрати колір",
+    "common": true
+  },
+  "color_transparent": {
+    "message": "прозорий",
+    "common": true
+  },
+  "color_rgb": {
+    "message": "RGB",
+    "common": true
+  },
+  "color_no_color": {
+    "message": "без кольору",
+    "common": true
+  },
+  "field_int_default_value": {
+    "message": "Типове значення: $1, мін.: $2, макс.: $3",
+    "common": true
+  },
+  "field_set_default": {
+    "message": "Скинути до типових: $1",
+    "common": true
+  },
+  "import_finished": {
+    "message": "Імпортування закінчено!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Помилка",
+    "common": true
+  },
+  "pro_required": {
+    "message": "Необхідна Професійна версія",
+    "common": true
+  },
+  "version_free": {
+    "message": "$1 версія (безкоштовна) - лише для некомерційного використання",
+    "common": true
+  },
+  "version_pro": {
+    "message": "$1 версія",
+    "common": true
+  },
+  "msg_pro_header": {
+    "message": "Ця функція доступна лише у Професійній версії.",
+    "common": true
+  },
+  "msg_pro_support": {
+    "message": "Будь ласка, підтримайте подальший розвиток цього додатку шляхом оновлення до Професійної версії.",
+    "common": true
+  },
+  "statistics": {
+    "message": "Статистика",
+    "common": true
+  },
+  "color_black": {
+    "message": "Чорний",
+    "common": true
+  },
+  "color_white": {
+    "message": "Білий",
+    "common": true
+  },
+  "theme_light": {
+    "message": "Світла",
+    "common": true
+  },
+  "theme_dark": {
+    "message": "Темна",
+    "common": true
+  },
+  "title_introduction": {
+    "message": "Вступ",
+    "common": true
+  },
+  "title_got_it": {
+    "message": "Зрозуміло, розпочнімо!",
+    "common": true
+  },
+  "privacy_info": {
+    "message": "Інформація про конфіденційність",
+    "common": true
+  },
+  "search_search": {
+    "message": "Пошук",
+    "common": true
+  },
+  "search_close": {
+    "message": "Закрити",
+    "common": true
+  },
+  "email_send_me": {
+    "message": "надіслати електронний лист",
+    "common": true
+  },
+  "send_runtime_error_log": {
+    "message": "Надіслати звіт про помилки...",
+    "common": true
+  },
+  "send_runtime_errors": {
+    "message": "Натисніть посилання нижче, щоб надіслати мені електронний лист з інформацією, що розміщена нижче:",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Сторінка додатків Firefox",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Сторінка Веб-магазину Chrome",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Опції",
+    "common": true
+  },
+  "menu_quick_options": {
+    "message": "Швидкі налаштування",
+    "common": true
+  },
+  "menu_visit_homepage": {
+    "message": "Відвідати домівку",
+    "common": true
+  },
+  "key_name_ctrl": {
+    "message": "Ctrl",
+    "common": true
+  },
+  "key_name_alt": {
+    "message": "Alt",
+    "common": true
+  },
+  "key_name_shift": {
+    "message": "Shift",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Розмір шрифту",
+    "common": true
+  },
+  "label_font_size_preview": {
+    "message": "Передогляд розміру шрифту",
+    "common": true
+  },
+  "label_previous": {
+    "message": "Попередній",
+    "common": true
+  },
+  "label_back": {
+    "message": "Назад",
+    "common": true
+  },
+  "label_next": {
+    "message": "Далі",
+    "common": true
+  },
+  "label_note": {
+    "message": "Примітка:",
+    "common": true
+  },
+  "label_not_supported_by_browser": {
+    "message": "Не підтримується цим оглядачем.",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Вилучити",
+    "common": true
+  },
+  "label_warning": {
+    "message": "УВАГА:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Налаштування:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Типово:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Зроблено!",
+    "common": true
+  },
+  "label_copy": {
+    "message": "",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Скопійовано!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Користувацьке:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Зачинити",
+    "common": true
+  },
+  "label_maximize": {
+    "message": "Збільшити",
+    "common": true
+  },
+  "label_minimize": {
+    "message": "Згорнути",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Встановлено",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Відкрити сторінку",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Згода",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Скасувати",
+    "common": true
+  },
+  "label_active": {
+    "message": "Активно",
+    "common": true
+  },
+  "label_inactive": {
+    "message": "Неактивно",
+    "common": true
+  },
+  "label_paused": {
+    "message": "Запинено",
+    "common": true
+  },
+  "label_pause": {
+    "message": "Пауза",
+    "common": true
+  },
+  "label_resume": {
+    "message": "Поновити",
+    "common": true
+  },
+  "label_select_all": {
+    "message": "Обрати все",
+    "common": true
+  },
+  "label_select_none": {
+    "message": "Скасувати вибір",
+    "common": true
+  },
+  "label_minutes": {
+    "message": "$1 хв.",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Масштаб:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Масштаб:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Розмір:",
+    "common": true
+  },
+  "label_example": {
+    "message": "Приклад:",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Меню",
+    "common": true
+  },
+  "menu_visit_title": {
+    "message": "Відвідати домівку",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Відвідати домівку",
+    "common": true
+  },
+  "online_help": {
+    "message": "Мережева документація",
+    "common": true
+  },
+  "online_help_info": {
+    "message": "Тут можна знайти посібники, поради та підказки, обговорення тощо!",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Допомогти цьому проекту",
+    "common": true
+  },
+  "op_help": {
+    "message": "Допомога",
+    "common": true
+  },
+  "op_help_introduction": {
+    "message": "Вступне відео",
+    "common": true
+  },
+  "op_help_safari_setup": {
+    "message": "Налаштування Safari",
+    "common": true
+  },
+  "op_help_android_setup": {
+    "message": "Відео початкового налаштування Android",
+    "common": true
+  },
+  "o_title": {
+    "message": "Налаштування - $1",
+    "common": true
+  },
+  "o_manual_options_sync": {
+    "message": "Резервування вручну",
+    "common": true
+  },
+  "automatic_backup": {
+    "message": "автоматичне резервування",
+    "common": true
+  },
+  "backup": {
+    "message": "резервна копія",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Створити нову резервну копію",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Зберегти налаштування",
+    "common": true
+  },
+  "load_settings": {
+    "message": "Завантажити налаштування",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Загальні",
+    "common": true
+  },
+  "o_tab_sync": {
+    "message": "Синхронізація",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Тло",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Контекстне меню",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Гарячі клавіші",
+    "common": true
+  },
+  "o_tab_import": {
+    "message": "Імпорт / резервування",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "Про додаток",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "пікселів",
+    "common": true
+  },
+  "o_general": {
+    "message": "Загальні:",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "мілісекунд",
+    "common": true
+  },
+  "o_special_features": {
+    "message": "Спеціальні функції:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "вимкнено",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "увімкнено",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "секунд",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Контекстне меню:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Імпорт",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Привіт :)",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Якщо Вам подобається додаток, будь ласка, оцініть його тут:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Якщо Вам щось не подобається, повідомте мене через електронну пошту. Я впроваджую більшість функцій, прохання про які отримую.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Будь ласка, підтримайте мою роботу шляхом",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "пожертви (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "ставання моїм Меценатом",
+    "common": true
+  },
+  "o_about_support_by_update": {
+    "message": "оновлення до Професійної версії",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Дякую!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "домашня:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Контакти:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Звітувати про помилку:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Я можу відповідати лише англійською або словацькою",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Соціальні мережі:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Зберегти зміни та закрити",
+    "common": true
+  },
+  "o_saved": {
+    "message": "збережено!",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Мене звати Юрай Месіар ($1$) і я є автором $app_name$.",
+    "common": true
+  },
+  "s_baidu": {
+    "message": "Baidu",
+    "common": true
+  },
+  "s_google": {
+    "message": "Google",
+    "common": true
+  },
+  "s_bing": {
+    "message": "Bing",
+    "common": true
+  },
+  "s_yahoo": {
+    "message": "Yahoo",
+    "common": true
+  },
+  "s_brave": {
+    "message": "Brave",
+    "common": true
+  },
+  "s_yandex": {
+    "message": "Яндекс",
+    "common": true
+  },
+  "s_duck_duck_go": {
+    "message": "DuckDuckGo",
+    "common": true
+  },
+  "s_qwant": {
+    "message": "Qwant",
+    "common": true
+  },
+  "s_ecosia": {
+    "message": "Ecosia",
+    "common": true
+  },
+  "s_seznam": {
+    "message": "Seznam",
+    "common": true
+  },
+  "s_translate_en": {
+    "message": "Перекладач Google",
+    "common": true
+  },
+  "s_translate_microsoft_en": {
+    "message": "Перекладач Майкрософт",
+    "common": true
+  },
+  "s_translate_deepl_en": {
+    "message": "Перекладач DeepL",
+    "common": true
+  },
+  "s_translate_yandex_en": {
+    "message": "Перекладач Яндекс",
+    "common": true
+  },
+  "s_translate_baidu_en": {
+    "message": "Перекладач Baidu",
+    "common": true
+  },
+  "s_wikipedia": {
+    "message": "Вікіпедія",
+    "common": true
+  },
+  "s_youtube": {
+    "message": "YouTube",
+    "common": true
+  },
+  "s_google_maps": {
+    "message": "Карти Google",
+    "common": true
+  },
+  "s_twitter": {
+    "message": "Twitter",
+    "common": true
+  },
+  "s_facebook": {
+    "message": "Фейсбук",
+    "common": true
+  },
+  "s_imdb": {
+    "message": "IMDb",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Немає відповідних результатів",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Немає даних",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Темний режим",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Контролюється системою",
+    "common": true
+  }
+}

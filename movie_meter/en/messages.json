@@ -1,0 +1,349 @@
+{
+  "_description_tags_mm": {
+    "message": "date, imdb, description, episode, gauge, graph, imdb, info, meter, movie, film, movies, netflix, omdb, rating, series, shows, tv, tv show, video, visual, votes, season"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "movie not found / wrong movie found - since there is no \"official\" integration with target pages, I cannot guarantee 100% correct results (but in majority of cases it works perfectly)"
+  },
+  "_description_mm_not_working": {
+    "message": "Doesn't work on your favorite movie page?"
+  },
+  "_description_mm_add_support": {
+    "message": "Contact me and I will add it - if possible (page must contain movie name in English or $visit_imdb$ link)."
+  },
+  "_description_mm_feature_1": {
+    "message": "movie rating and popularity from $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "next / previous episode date from $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "additional movie / TV series information"
+  },
+  "_description_mm_feature_4": {
+    "message": "notification about new episode"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark TV series as favorite and you will get notification when new episode is available"
+  },
+  "_description_mm_feature_7": {
+    "message": "auto-hide when video playback detected"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ will show you rating and popularity of a movie (or TV series) on many movie related pages!"
+  },
+  "name": {
+    "message": "Name"
+  },
+  "year": {
+    "message": "Year"
+  },
+  "video_type": {
+    "message": "Type"
+  },
+  "video_type_0": {
+    "message": "Movie"
+  },
+  "video_type_1": {
+    "message": "Series"
+  },
+  "video_type_2": {
+    "message": "Episode"
+  },
+  "runtime": {
+    "message": "Runtime"
+  },
+  "premiered": {
+    "message": "Premiere"
+  },
+  "premiere_in": {
+    "message": "Premiere in"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Country"
+  },
+  "actors": {
+    "message": "Actors"
+  },
+  "dvd": {
+    "message": "DVD"
+  },
+  "director": {
+    "message": "Director"
+  },
+  "totalseasons": {
+    "message": "Total seasons"
+  },
+  "writer": {
+    "message": "Writer"
+  },
+  "language": {
+    "message": "Language"
+  },
+  "awards": {
+    "message": "Awards"
+  },
+  "rated": {
+    "message": "Rated"
+  },
+  "production": {
+    "message": "Production"
+  },
+  "plot": {
+    "message": "Plot"
+  },
+  "website": {
+    "message": "Website"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Visit $visit_imdb$ page"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Visit $visit_tvmaze$ page for this show"
+  },
+  "make_favorite": {
+    "message": "Favorite"
+  },
+  "make_favorite_title": {
+    "message": "Add TV series to favorites. This will allow you to receive notification about new episodes."
+  },
+  "last_episode": {
+    "message": "Last"
+  },
+  "next_episode": {
+    "message": "Next"
+  },
+  "last_episode_title": {
+    "message": "Last episode"
+  },
+  "next_episode_title": {
+    "message": "Next episode"
+  },
+  "episode_airtime": {
+    "message": "Airtime"
+  },
+  "episode_name": {
+    "message": "Name"
+  },
+  "series_status": {
+    "message": "Status"
+  },
+  "episodes_count": {
+    "message": "Episodes"
+  },
+  "episodes_count_title": {
+    "message": "Current season $1 has $2 episodes"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "days"
+  },
+  "hours": {
+    "message": "hours"
+  },
+  "na": {
+    "message": "Not available"
+  },
+  "user_rating": {
+    "message": "User Rating: $1"
+  },
+  "user_popularity": {
+    "message": "Popularity: $1 votes"
+  },
+  "source": {
+    "message": "Source: $1"
+  },
+  "show_details": {
+    "message": "more..."
+  },
+  "hide_details": {
+    "message": "less..."
+  },
+  "save_position": {
+    "message": "Save position"
+  },
+  "revert_position": {
+    "message": "Revert position"
+  },
+  "win_disable": {
+    "message": "Disable on $1"
+  },
+  "cm_advanced": {
+    "message": "Advanced"
+  },
+  "op_visit_home": {
+    "message": "Visit homepage"
+  },
+  "op_support_me": {
+    "message": "Help this project"
+  },
+  "hide": {
+    "message": "Hide window"
+  },
+  "show": {
+    "message": "Show window"
+  },
+  "reset_position": {
+    "message": "Reset position"
+  },
+  "search": {
+    "message": "Search"
+  },
+  "configure_search": {
+    "message": "Configure search options"
+  },
+  "selection_search": {
+    "message": "Search $1"
+  },
+  "menu_options": {
+    "message": "Options"
+  },
+  "menu_quick_options": {
+    "message": "Quick options"
+  },
+  "menu_visit_homepage": {
+    "message": "Visit homepage"
+  },
+  "menu_request_support": {
+    "message": "Request support for $1"
+  },
+  "show_introduction": {
+    "message": "Show introduction page"
+  },
+  "o_about_issues": {
+    "message": "Report issues:"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons page"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store page"
+  },
+  "movie_not_detected": {
+    "message": "Movie not detected"
+  },
+  "movie_not_detected_title": {
+    "message": "No movie / TV series was not detected on this page."
+  },
+  "movie_not_found": {
+    "message": "Movie not found"
+  },
+  "movie_not_found_title": {
+    "message": "Movie info was not found on the server."
+  },
+  "status_type_0": {
+    "message": "Running"
+  },
+  "status_type_1": {
+    "message": "Ended"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Show will continue"
+  },
+  "status_type_title_1": {
+    "message": "Show has ended - there are no more seasons planned"
+  },
+  "status_type_title_2": {
+    "message": "Shows future is unclear"
+  },
+  "notify_movie_not_found": {
+    "message": "Movie not found: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Use english movie name only!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Search is not perfect..."
+  },
+  "notify_video_hide": {
+    "message": "Video detected - $app_name$ is now hidden"
+  },
+  "notify_video_hide_body": {
+    "message": "Click here to don't show this notification again"
+  },
+  "notify_new_episodes": {
+    "message": "New episode was aired"
+  },
+  "title_introduction": {
+    "message": "Introduction"
+  },
+  "supported_pages": {
+    "message": "Supported pages:"
+  },
+  "supported_grows": {
+    "message": "(this list grows bigger and bigger)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Ratings and popularity information are from $1$. Information about episodes are from $2$.",
+    "placeholders": {
+      "1": {
+        "content": "IMDb.com"
+      },
+      "2": {
+        "content": "TVMaze.com"
+      }
+    }
+  },
+  "title_got_it": {
+    "message": "Got it, Let's start!"
+  },
+  "_description_privacy_policy": {
+    "message": "Privacy Policy"
+  },
+  "_description_recent_features": {
+    "message": "Recently added features:"
+  },
+  "_description_known_issues": {
+    "message": "Known issues:"
+  },
+  "_description_common_tags": {
+    "message": "Tags:"
+  },
+  "_description_features": {
+    "message": "Features:"
+  },
+  "about_me": {
+    "message": "I'm addon developer since 2016. My goal is to build powerful extensions for your web-browser to make you more productive."
+  },
+  "about_good_job": {
+    "message": "If you think I'm doing a good job, please donate :)"
+  },
+  "about_income": {
+    "message": "Your donation is my only income!"
+  },
+  "about_thanks": {
+    "message": "Thank you for supporting my work!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Bank transfer using IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Support independent developer!"
+  }
+}

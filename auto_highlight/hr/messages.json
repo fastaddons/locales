@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "Ponekad stranica jednostavno nije dobro osmišljena i informacije koje tražite nije dovoljno vidljiva."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Zajednička uporaba-slučajevi:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Označite metapodatke kao:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Označite \"besplatnu dostavu\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Tražite li nešto specifično na webu? Koristite \"vremensko označavanje\" kako biste ga pronašli na svim stranicama. Privremeni naglasci se automatski brišu kada zatvorite preglednik."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Možete čak i sakriti riječi postavljanjem veličine fonta na nulu ili što ih čini transparentnim."
+  },
+  "_description_tags_ah": {
+    "message": "označite, označite, metapodatke, film, automatsko, tekst, sinkronizaciju, odabir, pretraživanje"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ će automatski naglasiti definirane riječi na definiranim stranicama."
+  },
+  "match_type": {
+    "message": "Vrsta podudaranja:"
+  },
+  "match_type_0": {
+    "message": "Domena"
+  },
+  "match_type_1": {
+    "message": "URL je"
+  },
+  "match_type_2": {
+    "message": "URL sadrži"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "Svaka stranica"
+  },
+  "selection_highlight": {
+    "message": "Označite $1"
+  },
+  "selection_temp": {
+    "message": "Privremeno označite $1"
+  },
+  "selection_temp_everywhere": {
+    "message": "Privremeno označite svugdje $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ na ovoj stranici"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Uvijek otvorite u novoj kartici - kada kliknete ikonu alatne trake"
+  },
+  "disable_rule": {
+    "message": "Onemogućeno"
+  },
+  "temporal_rule": {
+    "message": "Vremenski"
+  },
+  "each_word": {
+    "message": "Svaka riječ"
+  },
+  "rules": {
+    "message": "Pravila"
+  },
+  "delete": {
+    "message": "Izbrisati"
+  },
+  "rename": {
+    "message": "Preimenovati"
+  },
+  "duplicate": {
+    "message": "Duplikat"
+  },
+  "delete_rule": {
+    "message": "Brisanje pravilo"
+  },
+  "delete_rule_title": {
+    "message": "Izbrišite pravilo \"$1\"?"
+  },
+  "on_pages": {
+    "message": "Na stranicama:"
+  },
+  "disabled_rule": {
+    "message": "Pravilo s invaliditetom"
+  },
+  "incomplete_rule": {
+    "message": "Nepotpuno pravilo"
+  },
+  "active_on_current_page": {
+    "message": "Aktivno na trenutnoj stranici"
+  },
+  "temporal_rule_helper": {
+    "message": "Vremensko pravilo - bit će izbrisano nakon ponovnog pokretanja preglednika"
+  },
+  "active_on_pages": {
+    "message": "Aktivno na stranicama:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Označite svaku riječ odvojeno"
+  },
+  "case_sensitive": {
+    "message": "Osjetljivo na velika i mala slova"
+  },
+  "ignore_diacritics": {
+    "message": "Ignoriranje dijakritika"
+  },
+  "reg_exp": {
+    "message": "Regekp"
+  },
+  "regular_expression": {
+    "message": "Regularni izraz"
+  },
+  "across_elements": {
+    "message": "Preko elemenata"
+  },
+  "across_elements_help": {
+    "message": "Tražite tekst preko susjeda HTML elementi"
+  },
+  "style": {
+    "message": "Stil"
+  },
+  "preview": {
+    "message": "Pregled:"
+  },
+  "empty_rule": {
+    "message": "prazno pravilo"
+  },
+  "create_new_rule": {
+    "message": "Stvorite novo pravilo"
+  },
+  "import_export": {
+    "message": "Uvoz izvoz"
+  },
+  "help_this_project": {
+    "message": "Pomoći ovom projektu"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "PITANJA:"
+  },
+  "storage_info": {
+    "message": "Informacije o skladištenju:"
+  },
+  "storage_safari_1": {
+    "message": "Safari trenutno ne podržava automatsku sinkronizaciju podataka."
+  },
+  "storage_safari_2": {
+    "message": "Za prijenos (ili sigurnosnu kopiju) Vaša istaknuta pravila koristite značajku \"Uvoz / izvoz\"."
+  },
+  "storage_info_1": {
+    "message": "Vaša se pravila pohranjuju pomoću sigurnog $1 sinkronizaciju koja će sinkronizirati vaša pravila između svih uređaja (ako ste prijavljeni na isti račun)."
+  },
+  "storage_info_2": {
+    "message": "Ovaj čuvanje oblaka može pohraniti 100 kB podataka i do 500 pravila za označavanje."
+  },
+  "storage_info_3": {
+    "message": "Također možete izvoziti (backup) Vaša pravila na datoteku pomoću značajke \"Uvoz / izvoz\", a zatim ga uvesti na druge uređaje."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Zamijenite postojeće pravila za označavanje"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Dodaj stranicu za označavanje"
+  },
+  "remove_highlight_from_page": {
+    "message": "Uklonite označavanje stranice"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "Talarac"
+  },
+  "underline": {
+    "message": "Naglasiti"
+  },
+  "background_color": {
+    "message": "Boja pozadine"
+  },
+  "background": {
+    "message": "Pozadina"
+  },
+  "text_color": {
+    "message": "Boja teksta"
+  },
+  "color": {
+    "message": "Boja"
+  },
+  "font_size": {
+    "message": "Veličina fonta"
+  },
+  "rule_name": {
+    "message": "Ime pravila"
+  },
+  "highlight_regular_expression": {
+    "message": "Označite pravilan izraz:"
+  },
+  "highlight_text": {
+    "message": "Označite Text:"
+  },
+  "highlight_on_pages": {
+    "message": "Istaknuti na stranicama"
+  },
+  "empty_name_helper": {
+    "message": "Ostavite prazno da biste koristili \"označeni tekst\" kao ime"
+  },
+  "faq_1": {
+    "message": "Kako brzo naglašavati riječ na trenutnoj stranici?"
+  },
+  "faq_1a": {
+    "message": "Koristite kontekstni izbornik - Odaberite tekst / desni klik / \"Automatsko označavanje\". Ako desnim klikom na stranicu (bez odabira teksta) možete primijeniti postojeća pravila na trenutnu stranicu."
+  },
+  "faq_2": {
+    "message": "Želim istaknuti više riječi, trebam li stvoriti novo pravilo za svaku riječ odvojeno?"
+  },
+  "faq_2a": {
+    "message": "Ne, samo provjerite potvrdni okvir \"svaku riječ\". Tada će svaka riječ biti označena odvojeno."
+  },
+  "faq_3": {
+    "message": "Što je to \"RegExp\"?"
+  },
+  "faq_3a": {
+    "message": "Također poznat kao pravilan izraz, to je slijed znakova koji definiraju uzorak pretraživanja. To je komplicirani konstrukt koji omogućuje složenim naglašavanju elemenata s nekim sličnim uzorkom. Na primjer cijene, datumi, telefonski brojevi itd. ..."
+  },
+  "faq_4": {
+    "message": "Možete li mi pokazati neke primjere RegExp?"
+  },
+  "faq_4a": {
+    "message": "Označite sve cijene poput $1"
+  },
+  "faq_5": {
+    "message": "Možete li to objasniti?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" naglašava dolar znak. Ovdje je potrebno pozadinsko osvjetljenje jer dolar ima posebno značenje u RegExp."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" ističe jednu znamenku"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" znači ponoviti jedno ili više puta. Kada se postavlja nakon znamenki odaberite $2$, to znači jednu ili više znamenki."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" naglašava točku. Povratna ploča je ponovno potrebna jer simbol dot sama znači bilo koji jedan znak u RegExp."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" znači nulu ili jednokratno. Kada se postavljaju nakon nosača $2$, to znači da je ono što je unutar tih zagrada nije obavezan (može biti tamo ili ne). Koristimo ga za decimalni dio broja koji je opcionalan."
+  },
+  "faq_5f": {
+    "message": "više informacija o RegExp pravilima"
+  },
+  "import_finished": {
+    "message": "Uvoz završio!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Pogreška",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Uvoz sigurnosne kopije datoteka $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Početna stranica",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon stranica",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome web-trgovina",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox dodaci",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-ons",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Opcije",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Veličina fonta",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Veličina bočne trake",
+    "common": true
+  },
+  "label_next": {
+    "message": "Sljedeći",
+    "common": true
+  },
+  "label_note": {
+    "message": "Bilješka:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Ukloniti",
+    "common": true
+  },
+  "label_warning": {
+    "message": "UPOZORENJE:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Opcije:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Zadano:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Učinio!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Kopirati!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Prilagođen:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Zatvoriti",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Instaliran",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Otvorena stranica",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Slagati se",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Otkazati",
+    "common": true
+  },
+  "label_save": {
+    "message": "Uštedjeti",
+    "common": true
+  },
+  "label_required": {
+    "message": "Potreban",
+    "common": true
+  },
+  "label_sending": {
+    "message": "slanje ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Skala:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zum:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Veličina:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Dolazi uskoro",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Spremi promjene",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Odbaciti promjene",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Izbornik",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Posjetite početnu stranicu",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Pomoći ovom projektu",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Podrška neovisnog programera!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Pozdrav tamo!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Ja sam addon developer od 2016. Moj cilj je izgraditi snažne ekstenzije za vaš web-preglednik kako bi vas produktivniji.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Ako mislite da radim dobar posao, donirajte :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Vaša donacija je moj jedini prihod!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Hvala vam što ste podržali moj rad!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Pomozite",
+    "common": true
+  },
+  "o_title": {
+    "message": "Opcije - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "backup",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Stvorite novu sigurnosnu kopiju",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Spremi postavke",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Za izvoz podataka u datoteku ponovno otvorite ovaj prozor na novu karticu.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Desni klik / \"Preuzmite povezanu datoteku\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Općenito",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Pozadina",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Kontekstni izbornik",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Thumbnails",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Prečaci",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Uvoz / sigurnosna kopija",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Postavke",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Tema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Općenito:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "onemogućeno",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "omogućen",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "piksela",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "sekunda",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Kontekstni izbornik:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Onemogući kontekstni izbornik: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Postavke sigurnosne kopije / vračanja u datoteku:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Uvoz",
+    "common": true
+  },
+  "title_import": {
+    "message": "Uvoz",
+    "common": true
+  },
+  "title_export": {
+    "message": "Izvoz",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Izvoz sigurnosne kopije",
+    "common": true
+  },
+  "label_or": {
+    "message": "ili",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Zdravo :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Moje ime je $1$ i ja sam autor $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Ako vam se sviđa, ocijenite ga ovdje:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Ako vam se ne sviđa, javite mi zašto na moj e-mail. Provodim većinu značajki koje primam.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Razmislite o podršci mom radu",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankovni prijenos pomoću IBAN-a:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donacija (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "postaje moj zaštitnik",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Hvala vam!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "dom:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Pitanja izvješća:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Mogu odgovoriti samo na engleskom / slooku",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Društveni mediji:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Spremite promjene i zatvaranje",
+    "common": true
+  },
+  "o_saved": {
+    "message": "spašen!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Nema rezultata podudaranja",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Nema podataka",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Taman način rada",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Kontrolirani sustavom",
+    "common": true
+  },
+  "used_space": {
+    "message": "Rabljeni prostor: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Otvoren u novoj kartici",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Prekidač Addon uključeno / isključeno",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon je onemogućen",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Zašto?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Pravila o privatnosti",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Nedavno dodane značajke:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Oznake:",
+    "common": true
+  }
+}

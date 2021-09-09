@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Vertaal geselecteerde tekst (vanuit contextmenu)"
+  },
+  "_description_feature_2": {
+    "message": "Hele pagina Vertaling"
+  },
+  "_description_feature_3": {
+    "message": "Dark-modus!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, Donker, E-mail, Google, Lang, Taal, Microsoft, Pagina, Preclad, Prekladač, S3, Selectie, Tekst, TRADUCTEUR, Vertalen, Translator, Übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ is eenvoudig te gebruiken vertaler voor uw webbrowser / Thunderbird!"
+  },
+  "o_tab_translate": {
+    "message": "Vertalen"
+  },
+  "_description_supported_translators": {
+    "message": "Ondersteunde vertaalproviders:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Modaal venster"
+  },
+  "open_in_1": {
+    "message": "Pop-up venster"
+  },
+  "open_in_2": {
+    "message": "Nieuw tabblad"
+  },
+  "open_in_3": {
+    "message": "Nieuw raam"
+  },
+  "open_in_4": {
+    "message": "Nieuw tabblad (zonder container)"
+  },
+  "modal_window": {
+    "message": "Modaal venster"
+  },
+  "toolbar_icon_action": {
+    "message": "Actie werkbalkpictogram"
+  },
+  "toolbar_icon_text": {
+    "message": "Tekst van het werkbalkpictogram"
+  },
+  "sidebar_size": {
+    "message": "Zijbalkgrootte"
+  },
+  "translation_provider": {
+    "message": "Vertaalprovider"
+  },
+  "translate_to": {
+    "message": "Vertalen naar:"
+  },
+  "no_overlay": {
+    "message": "Geen overlay (het donkere gebied rondom)"
+  },
+  "no_overlay_hint": {
+    "message": "Het modale venster blijft geopend, zelfs als u buiten klikt."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Vertaling openen in:"
+  },
+  "fallback_1": {
+    "message": "Terugvalmethode"
+  },
+  "fallback_2": {
+    "message": "Terugvalmethode"
+  },
+  "fallback_title": {
+    "message": "Modaal venster en pop-upvenster kunnen in sommige gevallen niet worden gebruikt."
+  },
+  "open_in_tab": {
+    "message": "Openen in nieuw tabblad"
+  },
+  "translate_this_page": {
+    "message": "Vertaal deze pagina"
+  },
+  "selection_translate": {
+    "message": "Vertaal \"$1\""
+  },
+  "page_translate": {
+    "message": "Pagina vertalen"
+  },
+  "selected_text": {
+    "message": "geselecteerde tekst"
+  },
+  "disable_context_menu": {
+    "message": "Schakel contextmenu uit: \"$1\""
+  },
+  "import_finished": {
+    "message": "Importeren is afgerond!"
+  },
+  "import_error": {
+    "message": "Foutmelding"
+  },
+  "import_backup_file": {
+    "message": "Importeer back-upbestand $1"
+  },
+  "search_search": {
+    "message": "Zoeken"
+  },
+  "homepage": {
+    "message": "Startpagina"
+  },
+  "addon_page": {
+    "message": "Addon-pagina"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store pagina"
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons pagina"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-Ons"
+  },
+  "label_font_size": {
+    "message": "Lettergrootte"
+  },
+  "label_next": {
+    "message": "Volgende"
+  },
+  "label_note": {
+    "message": "Opmerking:"
+  },
+  "label_remove": {
+    "message": "Verwijder"
+  },
+  "label_warning": {
+    "message": "WAARSCHUWING:"
+  },
+  "label_default": {
+    "message": "Standaard:"
+  },
+  "label_done": {
+    "message": "Klaar!"
+  },
+  "label_copied": {
+    "message": "Gekopieerd!"
+  },
+  "label_close": {
+    "message": "Sluiten"
+  },
+  "label_open_page": {
+    "message": "Open pagina"
+  },
+  "label_agree": {
+    "message": "Mee eens"
+  },
+  "label_cancel": {
+    "message": "Annuleren"
+  },
+  "op_support_me": {
+    "message": "Help dit project"
+  },
+  "support_developer": {
+    "message": "Ondersteun onafhankelijke ontwikkelaar!"
+  },
+  "hello_there": {
+    "message": "Hallo daar!"
+  },
+  "about_me": {
+    "message": "Ik ben add-on-ontwikkelaar sinds 2016 en mijn doel is om krachtige extensies voor uw webbrowser te bouwen om u productiever te maken."
+  },
+  "about_good_job": {
+    "message": "Als je denkt dat ik het goed doe, doneer dan alstublieft :)"
+  },
+  "about_income": {
+    "message": "Uw gift is mijn enige inkomen!"
+  },
+  "about_thanks": {
+    "message": "Bedankt voor het steunen van mijn werk!"
+  },
+  "o_tab_context_menu": {
+    "message": "Context menu"
+  },
+  "o_tab_about": {
+    "message": "Over"
+  },
+  "o_tab_settings": {
+    "message": "Instellingen"
+  },
+  "o_pixels": {
+    "message": "pixels"
+  },
+  "o_seconds": {
+    "message": "seconden"
+  },
+  "label_or": {
+    "message": "of"
+  },
+  "o_about_hello": {
+    "message": "Hallo :)"
+  },
+  "o_about_intro": {
+    "message": "Mijn naam is $1$ en ik ben de auteur van $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Als de add-on je bevalt, beoordeel hem dan hier:"
+  },
+  "o_about_thanks": {
+    "message": "Bedankt!"
+  },
+  "o_about_contact": {
+    "message": "Contact:"
+  },
+  "o_about_issues": {
+    "message": "Meld problemen:"
+  },
+  "o_about_social_media": {
+    "message": "Sociale media:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankoverschrijving met behulp van IBAN:"
+  },
+  "ps_no_results": {
+    "message": "Geen overeenkomende resultaten"
+  },
+  "label_no_data": {
+    "message": "Geen data"
+  },
+  "dark_mode": {
+    "message": "Donkere modus"
+  },
+  "dark_mode_system": {
+    "message": "Gecontroleerd door systeem"
+  },
+  "_description_features": {
+    "message": "Kenmerken:"
+  },
+  "_description_why": {
+    "message": "Waarom?"
+  },
+  "_description_privacy_policy": {
+    "message": "Privacybeleid"
+  },
+  "_description_recent_features": {
+    "message": "Recent toegevoegde functies:"
+  },
+  "_description_common_tags": {
+    "message": "Tags:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Ook beschikbaar voor uw Firefox:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Ook beschikbaar voor uw Thunderbird:"
+  }
+}

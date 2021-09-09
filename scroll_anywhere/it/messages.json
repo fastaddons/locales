@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "ovunque, pulsante, cursore, trascinamento, presa, afferrare, afferrare, afferrare e trascinare, infinito, sinistra, medio, slancio, mouse, mossa, pagina, destra, rotolo, pagina di scorrimento, barra di scorrimento, scorrimento, lancio"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Trascina Scrollbar con il pulsante centrale del mouse in qualsiasi punto della pagina. Supporta anche lo stile \"grab e trascina\"."
+  },
+  "field_int_default_value": {
+    "message": "Valore predefinito: $1, min: $2, max: $3"
+  },
+  "field_set_default": {
+    "message": "Ripristina per impostazione predefinita: $1"
+  },
+  "thunderbird_store": {
+    "message": "Add-on Thunderbird"
+  },
+  "firefox_store": {
+    "message": "Componenti aggiuntivi di firefox"
+  },
+  "chrome_store": {
+    "message": "Il negozio online di Chrome"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "win_disable": {
+    "message": "Disabilita su $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Disabilitare lo scorrimento orizzontale su $1"
+  },
+  "op_visit_home": {
+    "message": "Visita la homepage"
+  },
+  "op_support_me": {
+    "message": "Aiuta questo progetto"
+  },
+  "o_title": {
+    "message": "Opzioni - $1."
+  },
+  "o_tab_general": {
+    "message": "Generale"
+  },
+  "o_tab_momentum": {
+    "message": "Quantità di moto"
+  },
+  "o_tab_cursor": {
+    "message": "Cursore"
+  },
+  "o_axis_locking": {
+    "message": "Blocco dell'asse"
+  },
+  "o_tab_performance": {
+    "message": "Prestazione"
+  },
+  "o_tab_disabled_on": {
+    "message": "Disabilitato su"
+  },
+  "o_tab_advanced": {
+    "message": "Avanzate"
+  },
+  "o_tab_scrollbars": {
+    "message": "Scrollbars."
+  },
+  "o_tab_backup": {
+    "message": "Importazione / backup."
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Durante lo scorrimento di una scatola scorrevole in un asse, ma la scatola dei genitori è scorribile in altri asse, bloccare lo scorrimento su un asse usando:"
+  },
+  "o_axis_lock_0": {
+    "message": "Smart Lock - Lock temporale con slancio"
+  },
+  "o_axis_lock_1": {
+    "message": "Serratura rigorosa - Blocco di direzione istantaneo"
+  },
+  "o_axis_lock_2": {
+    "message": "Nessun blocco - Scorrimento gratuito in entrambi gli asse"
+  },
+  "o_trend_momentum_window": {
+    "message": "Dimensione della pila di blocco intelligente"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Un valore maggiore richiederà più scorrimento nell'asse opposto per modificare l'asse a scorrimento."
+  },
+  "o_addon_disabled_warning": {
+    "message": "ADDON è disabilitato! Clicca qui per abilitare."
+  },
+  "o_cursor_change_default": {
+    "message": "nessuna modifica - Best Performance"
+  },
+  "o_scroll_button": {
+    "message": "Pulsante di scorrimento:"
+  },
+  "o_direction_speed": {
+    "message": "Stile di scorrimento / direzione / velocità:"
+  },
+  "o_multiplier": {
+    "message": "Moltiplicatore"
+  },
+  "o_times_speed": {
+    "message": "times Scorri la velocità"
+  },
+  "o_maximum_speed": {
+    "message": "Velocità massima di scorrimento (0 - Disabilitato):"
+  },
+  "o_ratio_unit": {
+    "message": "rapporto (lunghezza della pagina / dimensioni della finestra)"
+  },
+  "o_scroll_type_0": {
+    "message": "Emula Scrollbar."
+  },
+  "o_scroll_type_1": {
+    "message": "Afferrare e trascinare - come su uno smartphone"
+  },
+  "o_scroll_type_2": {
+    "message": "Velocità dinamica (sperimentale)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "È come trascinare una barra di scorrimento"
+  },
+  "o_scroll_type_title_1": {
+    "message": "È come trascinare una pagina con il dito su uno schermo del telefono"
+  },
+  "o_scroll_type_title_2": {
+    "message": "La velocità dinamica rende la velocità di scorrimento più lenta quando la pagina è più lunga"
+  },
+  "o_disable_key": {
+    "message": "Disabilita / Abilita lo scorrimento quando il tasto è giù:"
+  },
+  "o_momentum_category": {
+    "message": "Quantità di moto:"
+  },
+  "o_momentum_formula": {
+    "message": "Formula dello slancio:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Movimento uniformemente decelerato"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "La pagina di scorrimento della pagina sarà uniforme uniformemente fino a quando non si arresta"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Movimento esponenzialmente decelerato"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "La pagina di scorrimento della pagina sarà rapidamente (esponenzialmente) rallenta"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Movimento infinito ∞."
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Lo scorrimento non si fermerà mai"
+  },
+  "o_momentum_max_speed": {
+    "message": "Velocità massima (0 - Disabilitato):"
+  },
+  "o_page_weight": {
+    "message": "Pagina Peso:"
+  },
+  "o_grams": {
+    "message": "grammi :)"
+  },
+  "o_additional_speed": {
+    "message": "Velocità aggiuntiva:"
+  },
+  "o_pixels_second": {
+    "message": "pixel al secondo"
+  },
+  "o_additional_duration": {
+    "message": "Durata aggiuntiva:"
+  },
+  "o_advanced_momentum": {
+    "message": "Impostazione di slancio avanzato (solo per esperti!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "La modifica di questi valori può rompere il tuo slancio!"
+  },
+  "o_compute_from_last": {
+    "message": "Computa dall'ultimo:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Rilevamento del mouse STOP:"
+  },
+  "o_tracking_speed": {
+    "message": "Velocità di tracciamento:"
+  },
+  "o_reset_values": {
+    "message": "Ripristinare i valori"
+  },
+  "o_cursor_scrolling": {
+    "message": "Cursore utilizzato quando lo scorrimento:"
+  },
+  "o_performance": {
+    "message": "Prestazione:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Prevenire grandi salti"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Se si utilizza lo strumento che può teletrasportare il cursore sullo schermo (quando si raggiunge un bordo), abilitare questa opzione per consentire lo scorrimento continuo (infinito)."
+  },
+  "o_advanced": {
+    "message": "Avanzate:"
+  },
+  "o_movement_detection": {
+    "message": "Soglia di rilevamento del movimento del mouse:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Quanti pixel deve passare il mouse per bloccare il collegamento. A volte quando si preme il pulsante di scorrimento si sposta leggermente il mouse, ma non si desidera disabilitare il collegamento a causa di ciò."
+  },
+  "o_context_menu_block": {
+    "message": "Blocco del menu di scelta rapida:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Sblocca il ritardo del menu di scelta rapida"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Se vedi il menu di scelta rapida dopo aver scorrimento con il tasto destro del mouse, aumentare questo valore"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Disabilita lo scorrimento orizzontale sui domini:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Disabilitato sui domini:"
+  },
+  "o_is_disabled_url": {
+    "message": "Disabilitato su pagine / sub-pages:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Puoi usare Star Symbol (*) per definire un URL parte, ad esempio: \"Google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Inserisci un dominio per riga."
+  },
+  "o_is_disabled": {
+    "message": "Disabilita componente aggiuntivo"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Utilizzare l'icona della barra degli strumenti come interruttore principale ON / OFF"
+  },
+  "o_scroll_button_middle": {
+    "message": "Pulsante centrale"
+  },
+  "o_scroll_button_right": {
+    "message": "Bottone giusto"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Utenti Linux / Mac - Ti verrà richiesta una nuova autorizzazione \"Leggere e modificare l'impostazione del browser\" - Questo è necessario per sopprimere il menu di scelta rapida viene visualizzato prima di scorrere!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Utenti Linux / Mac: il tuo menu di scelta rapida sarà bloccato! Per aprire il menu di scelta rapida Tieni premuto il tasto \"Maiusc\" o il pulsante a destra del triplo."
+  },
+  "o_scroll_button_left": {
+    "message": "Pulsante sinistro (sperimentale)"
+  },
+  "o_scroll_on_links": {
+    "message": "Scorri sui collegamenti"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Se abilitato, non sarai in grado di trascinare e rilasciare i collegamenti (solo usando il tasto \"Disabilita\")"
+  },
+  "o_scroll_on_text": {
+    "message": "Scorri sul testo."
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emula il telefono a scorrimento / modifica del telefono - è necessario fare clic su Text per passare a \"Modifica della modalità\". Facendo clic fuori dal testo consente di scorrere nuovamente."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Scorri su Textarea."
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "TextArea è un blocco di testo, di solito ridimensionabile. Ad esempio su una scheda \"Disabilitato su\" è possibile vedere Textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Scorri su HTML modificabile"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Ad esempio, il corpo e-mail in Gmail è modificabile html."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "sul testo abiliterà la selezione / modifica del testo."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Fare clic sul testo abiliterà \"Modifica modalità\". Fare clic sul testo esterno per abilitare \"Modalità di scorrimento\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Click singolo"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Doppio click"
+  },
+  "o_scrollbars_width": {
+    "message": "Scrollbars Guardia"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normale (nessuna modifica)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Magro"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Nascosta"
+  },
+  "o_scrollbars_color": {
+    "message": "Colore del cursore della barra di scorrimento:"
+  },
+  "o_scrollbars_background": {
+    "message": "Colore di sfondo della barra di scorrimento:"
+  },
+  "o_reverse": {
+    "message": "Direzione di scorrimento inverso."
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Cambio"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl."
+  },
+  "o_disable_type_0": {
+    "message": "Disabilita quando la chiave è giù:"
+  },
+  "o_disable_type_1": {
+    "message": "Abilita quando la chiave è giù:"
+  },
+  "o_momentum": {
+    "message": "abilita slancio: puoi \"lanciare\" la pagina (come sul telefono)"
+  },
+  "o_no_css_edit": {
+    "message": "Non bloccare iframe e non cambiare il cursore durante lo scorrimento"
+  },
+  "o_no_prevent_default": {
+    "message": "Non bloccare l'azione del pulsante predefinita"
+  },
+  "o_auto_link_lock": {
+    "message": "Blocco dei collegamenti:"
+  },
+  "o_no_link_block": {
+    "message": "Non bloccare il mouse clicca sul collegamento dopo il movimento"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Quando inizi a scorrere su un link e quindi si finisce scorrendo lo stesso collegamento, il browser aprirà il collegamento. Questo di solito non è il comportamento desiderato, quindi per impostazione predefinita è bloccata."
+  },
+  "o_page_weight_title": {
+    "message": "Questo controlla come \"pesante\" è la pagina. Le pagine più pesanti hanno slancio più lungo."
+  },
+  "o_additional_speed_title": {
+    "message": "Puoi accelerare lo slancio che afferma la velocità."
+  },
+  "o_additional_duration_title": {
+    "message": "Tempo aggiuntivo per ogni slancio."
+  },
+  "o_compute_from_last_title": {
+    "message": "La velocità iniziale dello slancio è determinata dalla velocità di scorrimento a destra prima di rilasciare il pulsante di scorrimento."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Quanto tempo deve rimanere ancora il topo - prima di rilasciare il pulsante di scorrimento - per non attivare lo slancio."
+  },
+  "o_tracking_speed_title": {
+    "message": "Intervallo per misurare la velocità di scorrimento corrente."
+  },
+  "o_scrolling_area": {
+    "message": "Area di scorrimento:"
+  },
+  "o_outside_area_width": {
+    "message": "Area di scorrimento (0 - Disabilitato):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Spostare il cursore al di fuori dell'area di scorrimento ripristinerà la posizione di scorrimento. Lo stesso comportamento può essere visto quando si trascina una barra di scorrimento."
+  },
+  "o_scroll_button_left_title": {
+    "message": "AVVERTENZA - Il supporto del pulsante sinistro utilizza l'API a firefox deprecata che potrebbe essere rimossa nelle versioni future di Firefox."
+  },
+  "o_prevent_text_selection": {
+    "message": "Impedire la selezione del testo durante lo scorrimento con il pulsante sinistro"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Su alcuni dispositivi, lo scorrimento con il tasto sinistro del mouse seleziona anche il testo sulla pagina."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Non bloccare il menu di scelta rapida quando si tenta di scorrere la pagina non scorrevole"
+  },
+  "o_backup_restore": {
+    "message": "Impostazioni di backup / ripristino per il file:"
+  },
+  "o_export_settings": {
+    "message": "Esportare le impostazioni in un file"
+  },
+  "import_settings_button": {
+    "message": "Importa impostazioni da $1 file ..."
+  },
+  "import_finished": {
+    "message": "Importa finita!"
+  },
+  "test_page_title": {
+    "message": "Metti alla prova le tue impostazioni a scorrimento qui"
+  },
+  "menu_options": {
+    "message": "Opzioni"
+  },
+  "menu_visit_title": {
+    "message": "Visita la homepage"
+  },
+  "not_working": {
+    "message": "Disabilitato dal tuo browser web"
+  },
+  "disabled_by_user": {
+    "message": "Disabilitato su questo dominio"
+  },
+  "not_working_title": {
+    "message": "Il tuo browser bloccherà Scrollanywhere su questi tipi di pagine:"
+  },
+  "not_working_body": {
+    "message": "Per abilitare Scrollanywhere su pagine \"mozilla.org\", vedere questo tutorial di Youtube"
+  },
+  "show_scrollbars": {
+    "message": "Mostra barra di scorriere."
+  },
+  "show_scrollbars_title": {
+    "message": "Mostra temporaneamente le barre di scorrimento"
+  },
+  "switch_on_off": {
+    "message": "Interruttore Add-on Off / On"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Se si verifica un ritardo evidente tra il premere il pulsante di scorrimento e avviare lo scorrimento, provare a abilitare questa opzione. Tuttavia non sarai in grado di scorrere \"iframe\" come alcuni vecchi video incorporati o alcuni annunci."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Ciò disabiliterà anche l'opzione per cambiare il cursore durante lo scorrimento."
+  },
+  "o_helper_text_default_action": {
+    "message": "Utile in Linux per abilitare la pasta con il tasto centrale."
+  },
+  "o_about_hello": {
+    "message": "Ciao :)"
+  },
+  "o_about_intro": {
+    "message": "Mi chiamo $1$ e sono l'autore di $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Se ti piace, per favore votandolo qui:"
+  },
+  "o_about_dislike_it": {
+    "message": "Se non ti piace, per favore fammi sapere perché la mia e-mail. Sto implementando la maggior parte delle richieste di funzionalità che ricevo."
+  },
+  "o_disabled": {
+    "message": "disabilitata",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "abilitata",
+    "common": true
+  },
+  "o_times": {
+    "message": "volte",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels.",
+    "common": true
+  },
+  "o_items": {
+    "message": "elementi",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milliseconds.",
+    "common": true
+  },
+  "label_working": {
+    "message": "lavorando...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Vicina",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Si prega di considerare il supporto del mio lavoro",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donazione (Paypal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "diventando il mio patrono",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Grazie!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "casa:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contatto:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Segnala problemi:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Posso rispondere solo in inglese / slovacco",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Media sociali:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Salva le modifiche e chiudi",
+    "common": true
+  },
+  "o_saved": {
+    "message": "salvato!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Prossimamente",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Salvare le modifiche",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Politica sulla riservatezza",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Caratteristiche aggiunte di recente:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tag:",
+    "common": true
+  }
+}

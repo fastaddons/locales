@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "dato, IMDB, Beskrivelse, Episode, Gauge, Graf, IMDB, Info, Meter, Film, Film, Film, Netflix, IMDB, Rating, Serie, Shows, TV, TV-show, Video, Visual, Stemmer, Sæson"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "film ikke fundet / Forkert film fundet - Da der ikke er nogen \"officiel\" integration med målsider, kan jeg ikke garantere 100% korrekte resultater (men i flertal af tilfælde fungerer det perfekt)"
+  },
+  "_description_mm_not_working": {
+    "message": "Fungerer ikke på din yndlingsfilmside?"
+  },
+  "_description_mm_add_support": {
+    "message": "Kontakt mig, og jeg vil tilføje det - hvis det er muligt (side skal indeholde filmnavn på engelsk eller $visit_imdb$ link)."
+  },
+  "_description_mm_feature_1": {
+    "message": "filmbedømmelse og popularitet fra $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "næste / Forrige Episode Date fra $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "yderligere film / tv-serie information"
+  },
+  "_description_mm_feature_4": {
+    "message": "meddelelse om ny episode"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark tv-serie som favorit, og du får besked, når ny episode er tilgængelig"
+  },
+  "_description_mm_feature_7": {
+    "message": "automatisk skjul, når videoafspilning opdaget"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ vil vise dig rating og popularitet af en film (eller tv-serie)"
+  },
+  "name": {
+    "message": "Navn"
+  },
+  "year": {
+    "message": "År"
+  },
+  "video_type": {
+    "message": "Type"
+  },
+  "video_type_0": {
+    "message": "Film"
+  },
+  "video_type_1": {
+    "message": "Serie"
+  },
+  "video_type_2": {
+    "message": "Episode."
+  },
+  "runtime": {
+    "message": "Runtime."
+  },
+  "premiered": {
+    "message": "Premiere."
+  },
+  "premiere_in": {
+    "message": "Premiere in."
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Land"
+  },
+  "actors": {
+    "message": "Aktører"
+  },
+  "dvd": {
+    "message": "DVD."
+  },
+  "director": {
+    "message": "Direktør"
+  },
+  "totalseasons": {
+    "message": "Total sæsoner."
+  },
+  "writer": {
+    "message": "Forfatter"
+  },
+  "language": {
+    "message": "Sprog"
+  },
+  "awards": {
+    "message": "Priser"
+  },
+  "rated": {
+    "message": "Bedømt"
+  },
+  "production": {
+    "message": "Produktion"
+  },
+  "plot": {
+    "message": "Grund"
+  },
+  "website": {
+    "message": "Internet side"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Besøg $visit_imdb$ side"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Besøg $visit_tvmaze$ side for dette show"
+  },
+  "make_favorite": {
+    "message": "Favorit"
+  },
+  "make_favorite_title": {
+    "message": "Tilføj tv-serien til favoritter. Dette giver dig mulighed for at modtage meddelelse om nye episoder."
+  },
+  "last_episode": {
+    "message": "Sidst"
+  },
+  "next_episode": {
+    "message": "Næste"
+  },
+  "last_episode_title": {
+    "message": "Sidste episode."
+  },
+  "next_episode_title": {
+    "message": "Næste episode."
+  },
+  "episode_airtime": {
+    "message": "Airtime."
+  },
+  "episode_name": {
+    "message": "Navn"
+  },
+  "series_status": {
+    "message": "Status."
+  },
+  "episodes_count": {
+    "message": "Episoder"
+  },
+  "episodes_count_title": {
+    "message": "Nuværende sæson $1 har $2 episoder"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "dage"
+  },
+  "hours": {
+    "message": "timer"
+  },
+  "na": {
+    "message": "Ikke tilgængelig"
+  },
+  "user_rating": {
+    "message": "Brugerbedømmelse: $1"
+  },
+  "user_popularity": {
+    "message": "Popularitet: $1 Stemmer"
+  },
+  "source": {
+    "message": "Kilde: $1"
+  },
+  "show_details": {
+    "message": "mere..."
+  },
+  "hide_details": {
+    "message": "mindre..."
+  },
+  "save_position": {
+    "message": "Gem position."
+  },
+  "revert_position": {
+    "message": "Vende tilbage"
+  },
+  "win_disable": {
+    "message": "Deaktiver på $1"
+  },
+  "cm_advanced": {
+    "message": "Fremskreden"
+  },
+  "op_visit_home": {
+    "message": "Besøg hjemmeside."
+  },
+  "op_support_me": {
+    "message": "Hjælp dette projekt"
+  },
+  "hide": {
+    "message": "Skjul vindue"
+  },
+  "show": {
+    "message": "Vis vindue"
+  },
+  "reset_position": {
+    "message": "Nulstil position"
+  },
+  "search": {
+    "message": "Søg"
+  },
+  "configure_search": {
+    "message": "Konfigurer søgemuligheder"
+  },
+  "selection_search": {
+    "message": "Søgning $1."
+  },
+  "menu_options": {
+    "message": "Muligheder"
+  },
+  "menu_quick_options": {
+    "message": "Hurtige muligheder."
+  },
+  "menu_visit_homepage": {
+    "message": "Besøg hjemmeside."
+  },
+  "menu_request_support": {
+    "message": "Anmod om støtte til $1"
+  },
+  "show_introduction": {
+    "message": "Vis introduktionsside"
+  },
+  "o_about_issues": {
+    "message": "Rapportér spørgsmål:"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "firefox_store": {
+    "message": "Firefox add-ons"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store."
+  },
+  "movie_not_detected": {
+    "message": "Film ikke registreret"
+  },
+  "movie_not_detected_title": {
+    "message": "Ingen film / tv-serie blev ikke fundet på denne side."
+  },
+  "movie_not_found": {
+    "message": "Film ikke fundet"
+  },
+  "movie_not_found_title": {
+    "message": "Filmoplysninger blev ikke fundet på serveren."
+  },
+  "status_type_0": {
+    "message": "Løbende"
+  },
+  "status_type_1": {
+    "message": "Endte"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Show vil fortsætte"
+  },
+  "status_type_title_1": {
+    "message": "Vis er afsluttet - der er ikke planlagt flere årstider"
+  },
+  "status_type_title_2": {
+    "message": "Viser fremtiden er uklar"
+  },
+  "notify_movie_not_found": {
+    "message": "Film ikke fundet: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Brug kun engelsk filmnavn!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Søgningen er ikke perfekt ..."
+  },
+  "notify_video_hide": {
+    "message": "Video fundet - $app_name$ er nu skjult"
+  },
+  "notify_video_hide_body": {
+    "message": "Klik her for ikke at vise denne meddelelse igen"
+  },
+  "notify_new_episodes": {
+    "message": "Ny episode blev sendt"
+  },
+  "title_introduction": {
+    "message": "Introduktion"
+  },
+  "supported_pages": {
+    "message": "Understøttede sider:"
+  },
+  "supported_grows": {
+    "message": "(Denne liste vokser større og større)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Bedømmelser og popularitetsoplysninger er fra $1$. Oplysninger om episoder er fra $2$."
+  },
+  "title_got_it": {
+    "message": "Fik det, lad os starte!"
+  },
+  "_description_privacy_policy": {
+    "message": "Fortrolighedspolitik"
+  },
+  "_description_recent_features": {
+    "message": "Nyligt tilføjede funktioner:"
+  },
+  "_description_known_issues": {
+    "message": "Kendte problemer:"
+  },
+  "_description_common_tags": {
+    "message": "Tags:"
+  },
+  "_description_features": {
+    "message": "Funktioner:"
+  },
+  "about_me": {
+    "message": "Jeg er addon udvikler siden 2016. Mit mål er at opbygge kraftfulde udvidelser til din webbrowser for at gøre dig mere produktiv."
+  },
+  "about_good_job": {
+    "message": "Hvis du tror jeg laver et godt stykke arbejde, skal du donere :)"
+  },
+  "about_income": {
+    "message": "Din donation er min eneste indkomst!"
+  },
+  "about_thanks": {
+    "message": "Tak for at støtte mit arbejde!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankoverførsel ved hjælp af IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Støtte uafhængig udvikler!"
+  }
+}

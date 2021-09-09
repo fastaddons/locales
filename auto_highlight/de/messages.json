@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "Manchmal ist die Seite einfach nicht gut ausgelegt, und die Informationen, nach denen Sie suchen, ist nicht sichtbar genug."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Gemeinsame Anwendungsfälle:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Markieren Sie Metadaten wie:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Highlight \"Kostenloser Versand\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Suchen Sie nach etwas, das im Web spezifisch ist? Verwenden Sie \"zeitliches Highlight\", um es Ihnen bei allen Seiten zu finden. Temporale Highlights werden automatisch gelöscht, wenn Sie Ihren Browser schließen."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Sie können sogar Wörter ausblenden, indem Sie die Schriftgröße auf Null setzen oder sie transparent machen."
+  },
+  "_description_tags_ah": {
+    "message": "markieren, Markieren, Metadaten, Film, Automatik, Text, Synchronisation, Auswahl, Suche"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ hebt automatisch definierte Wörter auf definierten Seiten hervor."
+  },
+  "match_type": {
+    "message": "Spieltyp:"
+  },
+  "match_type_0": {
+    "message": "Domäne ist"
+  },
+  "match_type_1": {
+    "message": "URL ist"
+  },
+  "match_type_2": {
+    "message": "URL enthält."
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "Jede Seite"
+  },
+  "selection_highlight": {
+    "message": "Highlight $1"
+  },
+  "selection_temp": {
+    "message": "Markieren Sie das $1 vorübergehend hervor"
+  },
+  "selection_temp_everywhere": {
+    "message": "Highlight temporär überall $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ auf dieser Seite"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Öffnen Sie immer in neuer Registerkarte - Wenn Sie auf Symbolleistensymbol klicken"
+  },
+  "disable_rule": {
+    "message": "Deaktiviert"
+  },
+  "temporal_rule": {
+    "message": "Zeitlich"
+  },
+  "each_word": {
+    "message": "Jedes Wort"
+  },
+  "rules": {
+    "message": "Regeln"
+  },
+  "delete": {
+    "message": "Löschen"
+  },
+  "rename": {
+    "message": "Umbenennen"
+  },
+  "duplicate": {
+    "message": "Duplikat"
+  },
+  "delete_rule": {
+    "message": "Regel löschen"
+  },
+  "delete_rule_title": {
+    "message": "Regel \"$1\" löschen?"
+  },
+  "on_pages": {
+    "message": "Auf Seiten:"
+  },
+  "disabled_rule": {
+    "message": "Behinderte Regel"
+  },
+  "incomplete_rule": {
+    "message": "Unvollständige Regel."
+  },
+  "active_on_current_page": {
+    "message": "Aktiv auf der aktuellen Seite"
+  },
+  "temporal_rule_helper": {
+    "message": "Temporale Regel - wird nach dem Neustart des Browsers gelöscht"
+  },
+  "active_on_pages": {
+    "message": "Aktiv auf Seiten:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Markieren Sie jedes Wort separat"
+  },
+  "case_sensitive": {
+    "message": "Gehäuseempfindlichkeit."
+  },
+  "ignore_diacritics": {
+    "message": "Diakritiker ignorieren."
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "Regulären Ausdruck"
+  },
+  "across_elements": {
+    "message": "Über Elemente"
+  },
+  "across_elements_help": {
+    "message": "Suche nach Text über Nachbarn HTML-Elemente"
+  },
+  "style": {
+    "message": "Stil"
+  },
+  "preview": {
+    "message": "Vorschau:"
+  },
+  "empty_rule": {
+    "message": "leere Herrschaft"
+  },
+  "create_new_rule": {
+    "message": "Neue Regel erstellen"
+  },
+  "import_export": {
+    "message": "Import Export"
+  },
+  "help_this_project": {
+    "message": "Hilfe dieses Projekts"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "FAQ:"
+  },
+  "storage_info": {
+    "message": "Speicherinfo:"
+  },
+  "storage_safari_1": {
+    "message": "Safari unterstützt derzeit keine automatische Datensynchronisation."
+  },
+  "storage_safari_2": {
+    "message": "Um Ihre Highlight-Regeln zu übertragen (oder sichern), verwenden Sie die Funktion \"Import / Export\"."
+  },
+  "storage_info_1": {
+    "message": "Ihre Regeln werden mit einem sicheren $1-Sync gespeichert, der Ihre Regeln zwischen all Ihren Geräten synchronisiert (wenn Sie bei demselben Konto angemeldet sind)."
+  },
+  "storage_info_2": {
+    "message": "Dieser Cloud-Speicher kann 100 kb Daten und bis zu 500 Höhepunkte aufbewahren."
+  },
+  "storage_info_3": {
+    "message": "Sie können Ihre Regeln auch mit der Funktion \"Importieren / Exportieren\" mit der Funktion \"Importieren / Exportieren\" exportieren und dann auf andere Geräte importieren."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Ersetzen Sie die vorhandenen Highlight-Regeln"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Seite hinzufügen, um aufzuheben"
+  },
+  "remove_highlight_from_page": {
+    "message": "Highlight von der Seite entfernen"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "Kursiv"
+  },
+  "underline": {
+    "message": "Unterstreichen"
+  },
+  "background_color": {
+    "message": "Hintergrundfarbe"
+  },
+  "background": {
+    "message": "Hintergrund"
+  },
+  "text_color": {
+    "message": "Textfarbe"
+  },
+  "color": {
+    "message": "Farbe"
+  },
+  "font_size": {
+    "message": "Schriftgröße"
+  },
+  "rule_name": {
+    "message": "Regelname"
+  },
+  "highlight_regular_expression": {
+    "message": "Regelmäßiger Ausdruck hervorheben:"
+  },
+  "highlight_text": {
+    "message": "Text hervorheben:"
+  },
+  "highlight_on_pages": {
+    "message": "Highlight auf Seiten"
+  },
+  "empty_name_helper": {
+    "message": "Leeren Sie leer, um \"hervorgehobene Text\" als Namen verwenden"
+  },
+  "faq_1": {
+    "message": "Wie kann man das Wort auf der aktuellen Seite schnell markieren?"
+  },
+  "faq_1a": {
+    "message": "Verwenden Sie das Kontextmenü - Text / Rechtsklick auswählen / \"Auto Highlight\". Wenn Sie mit der rechten Maustaste auf eine Seite klicken (ohne Text auswählen) können Sie vorhandene Regeln auf aktuelle Seite anwenden."
+  },
+  "faq_2": {
+    "message": "Ich möchte mehrere Wörter hervorheben, muss ich für jedes Wort für jedes Wort eine neue Regel erstellen?"
+  },
+  "faq_2a": {
+    "message": "Nein, überprüfen Sie einfach das Kontrollkästchen \"Jedes Wort\". Dann wird jedes Wort separat hervorgehoben."
+  },
+  "faq_3": {
+    "message": "Was ist das \"RegExp\"?"
+  },
+  "faq_3a": {
+    "message": "Auch als regulärer Ausdruck bekannt, ist es eine Folge von Zeichen, die ein Suchmuster definieren. Es ist ein kompliziertes Konstrukt, das eine komplexe Hervorhebung von Elementen mit einem ähnlichen Muster ermöglicht. Zum Beispiel Preise, Termine, Telefonnummern usw."
+  },
+  "faq_4": {
+    "message": "Können Sie mir einige RegExp-Beispiele zeigen?"
+  },
+  "faq_4a": {
+    "message": "Markieren Sie alle Preise wie $1"
+  },
+  "faq_5": {
+    "message": "Könntest du das erklären?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" hebt Dollarzeichen hervor. Das Backslash ist hier erforderlich, weil der Dollar eine besondere Bedeutung in RegExp hat."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" hebt eine einzige Stelle hervor"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" bedeutet ein oder mehrmals wiederholen. Wenn Sie nach dem Ziffernschalter $2$ platziert sind, bedeutet dies eine oder mehrere Ziffern."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" hebt Punkte hervor. Das Backslash ist wieder erforderlich, da das Punktsymbol allein jedes einzelne Zeichen in RegExp bedeutet."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" bedeutet Null oder einmal. Wenn sich $2$ nach der Klammer platziert, bedeutet dies, was sich in diesen Klammern befindet, was optional ist (kann da sein oder nicht). Wir verwenden es für den dezimalen Teil der Zahl, die optional ist."
+  },
+  "faq_5f": {
+    "message": "weitere Informationen zur RegExp-Regeln"
+  },
+  "import_finished": {
+    "message": "Import beendet!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Fehler",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Importieren Sie die Sicherungsdatei $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Startseite",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon-Seite",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome WebStore-Seite",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox AddOn-Seite",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-Ons",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Einstellungen",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Schriftgröße",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Sidebar-Größe.",
+    "common": true
+  },
+  "label_next": {
+    "message": "Weiter",
+    "common": true
+  },
+  "label_note": {
+    "message": "Hinweis:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Entfernen",
+    "common": true
+  },
+  "label_warning": {
+    "message": "WARNUNG:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Optionen:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Standard:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Fertig!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Kopiert!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Individuell:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Schließen",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Installiert",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Seite öffnen",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Zustimmen",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Abbrechen",
+    "common": true
+  },
+  "label_save": {
+    "message": "Speichern",
+    "common": true
+  },
+  "label_required": {
+    "message": "Erforderlich",
+    "common": true
+  },
+  "label_sending": {
+    "message": "senden ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Skala:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Größe:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Kommt bald",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Änderungen speichern",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Änderungen verwerfen",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menü",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Website besuchen",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Diesem Projekt helfen",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Unterstützt unabhängiger Entwickler!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Hallo!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Ich bin seit 2016 Addon Developer. Mein Ziel ist es, leistungsstarke Erweiterungen für Ihren Webbrowser zu erstellen, um Sie produktiver zu machen.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Wenn Sie denken, ich mache einen guten Job, bitte spenden Sie :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Ihre Spende ist mein einziges Einkommen!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Danke, dass Sie meine Arbeit unterstützt haben!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Hilfe",
+    "common": true
+  },
+  "o_title": {
+    "message": "Optionen - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "Sicherung",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Neue Sicherung erstellen",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Einstellungen speichern",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Um Ihre Daten in eine Datei zu exportieren, öffnen Sie dieses Fenster in einer neuen Registerkarte erneut.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Klicken Sie mit der rechten Maustaste / \"Linked-Datei herunterladen\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Allgemein",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Hintergrund",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Kontextmenü",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Miniaturbilder",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Kurztasten",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Import / Backup.",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "Über",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Die Einstellungen",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Thema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Allgemein:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "deaktiviert",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "aktiviert",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "Pixel",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "Sekunden",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Kontextmenü:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Deaktivieren Sie das Kontextmenü: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Sicherungs- / Wiederherstellungseinstellungen in Datei:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Importieren",
+    "common": true
+  },
+  "title_import": {
+    "message": "Importieren",
+    "common": true
+  },
+  "title_export": {
+    "message": "Export",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Backup exportieren.",
+    "common": true
+  },
+  "label_or": {
+    "message": "oder",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Hallo :-)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Mein Name ist $1$ und ich bin der Autor von $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Wenn Ihnen GroupSpeedDial gefällt, bewerten Sie es bitte hier:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Wenn es Ihnen nicht gefällt, schreiben Sie mir eine E-Mail, wieso nicht, oder mit Vorschlägen. Ich implementiere die meisten Feature-Anfragen die mir gesendet werden, das ist eine Menge an Arbeit.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Bitte ehren Sie meine Arbeit, indem Sie",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Banküberweisung mit IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "etwas spenden (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "mein Patron werden",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Vielen Dank!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "Home:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Probleme melden:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Ich kann nur auf Englisch oder Slowakisch antworten",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "SocialMedia:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "speichern & schließen",
+    "common": true
+  },
+  "o_saved": {
+    "message": "gespeichert!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Keine passenden Ergebnisse",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Keine Daten",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Dunkler Modus",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Vom System gesteuert",
+    "common": true
+  },
+  "used_space": {
+    "message": "Gebrauchtraum: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Öffnen Sie in neuer Registerkarte",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Senden Sie Addon ein / aus",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon ist deaktiviert",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Warum?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Datenschutz-Bestimmungen",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Kürzlich hinzugefügte Funktionen:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Stichworte:",
+    "common": true
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Traduceți textul selectat (din meniul contextual)"
+  },
+  "_description_feature_2": {
+    "message": "Traducerea integrală a paginii"
+  },
+  "_description_feature_3": {
+    "message": "Modul întunecat!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, Dark, Email, Google, Lang, Limba, Microsoft, Pagina, Preklad, Prekladač, S3, Selecție, Text, Traducteur, Traducere, Translator, Übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ este ușor de utilizat traducător pentru browserul dvs. web / Thunderbird!"
+  },
+  "o_tab_translate": {
+    "message": "Traduceți"
+  },
+  "_description_supported_translators": {
+    "message": "Furnizori de traduceri acceptate:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Fereastra modală"
+  },
+  "open_in_1": {
+    "message": "Fereastra pop-up"
+  },
+  "open_in_2": {
+    "message": "Filă nouă"
+  },
+  "open_in_3": {
+    "message": "Fereastră nouă"
+  },
+  "open_in_4": {
+    "message": "Fila nouă (fără container)"
+  },
+  "modal_window": {
+    "message": "Fereastra modală"
+  },
+  "toolbar_icon_action": {
+    "message": "Acțiunea pictogramei barei de instrumente"
+  },
+  "toolbar_icon_text": {
+    "message": "Bara de instrumente text"
+  },
+  "sidebar_size": {
+    "message": "Dimensiunea barei laterale."
+  },
+  "translation_provider": {
+    "message": "Furnizor de traduceri"
+  },
+  "translate_to": {
+    "message": "Tradu in:"
+  },
+  "no_overlay": {
+    "message": "Fără suprapunere (zona întunecată din jur)"
+  },
+  "no_overlay_hint": {
+    "message": "Fereastra modală va rămâne deschisă chiar dacă faceți clic în exterior."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Deschideți traducerea în:"
+  },
+  "fallback_1": {
+    "message": "Metoda de rezervă"
+  },
+  "fallback_2": {
+    "message": "Metoda de rezervă"
+  },
+  "fallback_title": {
+    "message": "Fereastra modală și fereastra pop-up nu pot fi utilizate în unele cazuri."
+  },
+  "open_in_tab": {
+    "message": "Deschideți într-o filă nouă"
+  },
+  "translate_this_page": {
+    "message": "Traduceți această pagină"
+  },
+  "selection_translate": {
+    "message": "Traduceți „$1”"
+  },
+  "page_translate": {
+    "message": "Traducere pagină"
+  },
+  "selected_text": {
+    "message": "text selectat"
+  },
+  "disable_context_menu": {
+    "message": "Dezactivați meniul contextual: „$1”"
+  },
+  "import_finished": {
+    "message": "Import finalizat!"
+  },
+  "import_error": {
+    "message": "Eroare"
+  },
+  "import_backup_file": {
+    "message": "Importați fișierul de rezervă $1"
+  },
+  "search_search": {
+    "message": "Căutare"
+  },
+  "homepage": {
+    "message": "Pagina principala"
+  },
+  "addon_page": {
+    "message": "Pagina addon"
+  },
+  "safari_store": {
+    "message": "Magazin de aplicații Mac."
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store."
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-ons"
+  },
+  "label_font_size": {
+    "message": "Marimea fontului"
+  },
+  "label_next": {
+    "message": "Următor →"
+  },
+  "label_note": {
+    "message": "Notă:"
+  },
+  "label_remove": {
+    "message": "Elimina"
+  },
+  "label_warning": {
+    "message": "AVERTIZARE:"
+  },
+  "label_default": {
+    "message": "Mod implicit:"
+  },
+  "label_done": {
+    "message": "Terminat!"
+  },
+  "label_copied": {
+    "message": "Copiat!"
+  },
+  "label_close": {
+    "message": "Închide"
+  },
+  "label_open_page": {
+    "message": "Deschideți pagina"
+  },
+  "label_agree": {
+    "message": "De acord"
+  },
+  "label_cancel": {
+    "message": "Anulare"
+  },
+  "op_support_me": {
+    "message": "Ajutați acest proiect"
+  },
+  "support_developer": {
+    "message": "Sprijiniți dezvoltatorul independent!"
+  },
+  "hello_there": {
+    "message": "Salutare!"
+  },
+  "about_me": {
+    "message": "Sunt dezvoltator suplimentar din 2016 și obiectivul meu este să creez extensii puternice pentru browserul dvs. web pentru a vă face mai productivi."
+  },
+  "about_good_job": {
+    "message": "Dacă credeți că fac o treabă bună, vă rugăm să donați :)"
+  },
+  "about_income": {
+    "message": "Donația ta este singurul meu venit!"
+  },
+  "about_thanks": {
+    "message": "Vă mulțumesc pentru sprijinirea muncii mele!"
+  },
+  "o_tab_context_menu": {
+    "message": "Meniul contextual"
+  },
+  "o_tab_about": {
+    "message": "Despre"
+  },
+  "o_tab_settings": {
+    "message": "Setări"
+  },
+  "o_pixels": {
+    "message": "pixeli"
+  },
+  "o_seconds": {
+    "message": "secunde"
+  },
+  "label_or": {
+    "message": "sau"
+  },
+  "o_about_hello": {
+    "message": "Salut :)"
+  },
+  "o_about_intro": {
+    "message": "Numele meu este $1$ și sunt autorul lui $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Dacă vă place, vă rugăm să o evaluați aici:"
+  },
+  "o_about_thanks": {
+    "message": "Mulțumesc!"
+  },
+  "o_about_contact": {
+    "message": "A lua legatura:"
+  },
+  "o_about_issues": {
+    "message": "Raportați problemele:"
+  },
+  "o_about_social_media": {
+    "message": "Rețele sociale:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Transfer bancar folosind IBAN:"
+  },
+  "ps_no_results": {
+    "message": "Nu există rezultate potrivite"
+  },
+  "label_no_data": {
+    "message": "Nu există date"
+  },
+  "dark_mode": {
+    "message": "Mod întunecat"
+  },
+  "dark_mode_system": {
+    "message": "Controlat de sistem"
+  },
+  "_description_features": {
+    "message": "Caracteristici:"
+  },
+  "_description_why": {
+    "message": "De ce?"
+  },
+  "_description_privacy_policy": {
+    "message": "Politica de Confidențialitate"
+  },
+  "_description_recent_features": {
+    "message": "Caracteristici adăugate recent:"
+  },
+  "_description_common_tags": {
+    "message": "Etichete:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Disponibil și pentru Firefox:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Disponibil și pentru Thunderbird:"
+  }
+}

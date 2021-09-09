@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "Noen ganger er siden bare ikke designet godt, og informasjonen du leter etter, er ikke synlig nok."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Vanlige brukstilfeller:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Fremhev metadata som:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Fremhev \"Gratis frakt\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Søker du etter noe spesifikt på nettet? Bruk \"Temporal Highlight\" for å hjelpe deg med å finne den på alle sider. Temporal høydepunkter er automatisk slettet når du lukker nettleseren din."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Du kan til og med skjule ord ved å sette skriftstørrelse til null eller ved å gjøre dem gjennomsiktige."
+  },
+  "_description_tags_ah": {
+    "message": "fremhev, Mark, Metadata, Movie, Automatisk, Tekst, Synkronisering, Valg, Søk"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ vil automatisk markere definerte ord på definerte sider."
+  },
+  "match_type": {
+    "message": "Match Type:"
+  },
+  "match_type_0": {
+    "message": "Domenet er"
+  },
+  "match_type_1": {
+    "message": "URL er"
+  },
+  "match_type_2": {
+    "message": "URL inneholder"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "Hver side"
+  },
+  "selection_highlight": {
+    "message": "Markere $1."
+  },
+  "selection_temp": {
+    "message": "Midlertidig høydepunkt $1."
+  },
+  "selection_temp_everywhere": {
+    "message": "Midlertidig høydepunkt overalt $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ på denne siden"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Alltid åpne i ny fane - når du klikker på verktøylinjeikonet"
+  },
+  "disable_rule": {
+    "message": "Funksjonshemmet"
+  },
+  "temporal_rule": {
+    "message": "Temporal"
+  },
+  "each_word": {
+    "message": "Hvert ord"
+  },
+  "rules": {
+    "message": "Regler"
+  },
+  "delete": {
+    "message": "Slett"
+  },
+  "rename": {
+    "message": "Gi nytt navn til"
+  },
+  "duplicate": {
+    "message": "Duplisere"
+  },
+  "delete_rule": {
+    "message": "Slett regel"
+  },
+  "delete_rule_title": {
+    "message": "Slett regel \"$1\"?"
+  },
+  "on_pages": {
+    "message": "På sider:"
+  },
+  "disabled_rule": {
+    "message": "Funksjonshemmede regel"
+  },
+  "incomplete_rule": {
+    "message": "Ufullstendig regel"
+  },
+  "active_on_current_page": {
+    "message": "Aktiv på nåværende side"
+  },
+  "temporal_rule_helper": {
+    "message": "Temporal regel - vil bli slettet etter at du har startet nettleseren din"
+  },
+  "active_on_pages": {
+    "message": "Aktiv på sider:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Fremhev hvert ord separat"
+  },
+  "case_sensitive": {
+    "message": "Saksfølsom"
+  },
+  "ignore_diacritics": {
+    "message": "Ignorere diacritics."
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "Vanlig uttrykk"
+  },
+  "across_elements": {
+    "message": "På tvers av elementer"
+  },
+  "across_elements_help": {
+    "message": "Søk etter tekst over hele nabo HTML-elementer"
+  },
+  "style": {
+    "message": "Stil"
+  },
+  "preview": {
+    "message": "Forhåndsvisning:"
+  },
+  "empty_rule": {
+    "message": "tom regel"
+  },
+  "create_new_rule": {
+    "message": "Skape ny regel"
+  },
+  "import_export": {
+    "message": "Import Eksport"
+  },
+  "help_this_project": {
+    "message": "Hjelp dette prosjektet"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "FAQ:"
+  },
+  "storage_info": {
+    "message": "Lagringsinformasjon:"
+  },
+  "storage_safari_1": {
+    "message": "Safari støtter for øyeblikket ikke automatisk datasynkronisering."
+  },
+  "storage_safari_2": {
+    "message": "For å overføre (eller sikkerhetskopiere) dine høydepunkter, bruk funksjonen \"Import / eksport\"."
+  },
+  "storage_info_1": {
+    "message": "Dine regler lagres ved hjelp av Secure $1 Sync som synkroniserer reglene dine mellom alle enhetene dine (hvis du er logget inn på samme konto)."
+  },
+  "storage_info_2": {
+    "message": "Denne Cloud Storage kan lagre 100 KB data og opptil 500 høydepunktsregler."
+  },
+  "storage_info_3": {
+    "message": "Du kan også eksportere (backup) dine regler til en fil ved hjelp av \"Import / Export\" -funksjonen og deretter importere den på andre enheter."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Erstatte eksisterende høydepunktsregler"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Legg til side for å markere på"
+  },
+  "remove_highlight_from_page": {
+    "message": "Fjern høydepunkt fra siden"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "Kursiv"
+  },
+  "underline": {
+    "message": "Understreke"
+  },
+  "background_color": {
+    "message": "Bakgrunnsfarge"
+  },
+  "background": {
+    "message": "Bakgrunn"
+  },
+  "text_color": {
+    "message": "Tekstfarge"
+  },
+  "color": {
+    "message": "Farge"
+  },
+  "font_size": {
+    "message": "Skriftstørrelse"
+  },
+  "rule_name": {
+    "message": "Regelnavn"
+  },
+  "highlight_regular_expression": {
+    "message": "Fremhev vanlig uttrykk:"
+  },
+  "highlight_text": {
+    "message": "Fremhev tekst:"
+  },
+  "highlight_on_pages": {
+    "message": "Høydepunkt på sider"
+  },
+  "empty_name_helper": {
+    "message": "Legg tomt for å bruke \"Uthevet tekst\" som navn"
+  },
+  "faq_1": {
+    "message": "Slik markerer du raskt ord på nåværende side?"
+  },
+  "faq_1a": {
+    "message": "Bruk kontekstmeny - velg Tekst / Høyreklikk / \"Auto Highlight\". Hvis du høyreklikker på en side (uten å velge tekst), kan du bruke eksisterende regler til gjeldende side."
+  },
+  "faq_2": {
+    "message": "Jeg vil fremheve flere ord, må jeg lage ny regel for hvert ord separat?"
+  },
+  "faq_2a": {
+    "message": "Nei, bare sjekk avkrysningsboksen \"Hvert ord\". Deretter vil hvert ord bli uthevet separat."
+  },
+  "faq_3": {
+    "message": "Hva er det \"RegExp\"?"
+  },
+  "faq_3a": {
+    "message": "Også kjent som vanlig uttrykk, er det en sekvens av tegn som definerer et søkemønster. Det er en komplisert konstruksjon som gjør det mulig for komplisert utheving av elementer med noe lignende mønster. For eksempel priser, datoer, telefonnumre, etc ..."
+  },
+  "faq_4": {
+    "message": "Kan du vise meg noen RegExp eksempler?"
+  },
+  "faq_4a": {
+    "message": "Fremhev alle priser som $1"
+  },
+  "faq_5": {
+    "message": "Kan du forklare dem?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" Høydepunkter Dollar Sign. Backslashen er nødvendig her fordi dollar har en spesiell betydning i RegExp."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" Høydepunkter Single siffer"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" betyr gjenta en eller flere ganger. Når det er plassert etter siffervelger $2$, betyr det en eller flere siffer."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" Høydepunkter DOT. Backslashen er igjen nødvendig fordi dot symbol alene betyr noe enkelt tegn i RegExp."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" betyr null eller en gang. Når det plasseres etter braketter $2$, betyr det hva som er inne i disse parentesene er valgfrie (kan være der, eller ikke). Vi bruker den til desimaldelen av nummeret som er valgfritt."
+  },
+  "faq_5f": {
+    "message": "mer informasjon om RegExpregler"
+  },
+  "import_finished": {
+    "message": "Import ferdig!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Feil",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Importer backup fil $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Hjemmeside",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon Page.",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome nettbutikk",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox add-ons",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird add-ons",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Alternativer",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Skriftstørrelse",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Sidebar størrelse",
+    "common": true
+  },
+  "label_next": {
+    "message": "NESTE",
+    "common": true
+  },
+  "label_note": {
+    "message": "Merk:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Fjerne",
+    "common": true
+  },
+  "label_warning": {
+    "message": "ADVARSEL:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Alternativer:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Misligholde:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Gjort!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Kopiert!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Tilpasset:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Lukk",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Installert",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Åpne side",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Bli enige",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Avbryt",
+    "common": true
+  },
+  "label_save": {
+    "message": "Lagre",
+    "common": true
+  },
+  "label_required": {
+    "message": "Kreves",
+    "common": true
+  },
+  "label_sending": {
+    "message": "sende ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Skala:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Størrelse:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Kommer snart",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Lagre endringer",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Forkaste endringer",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Meny",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Besøk hjemmeside",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Hjelp dette prosjektet",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Støtte uavhengig utvikler!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Hei der!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Jeg er Addon Developer siden 2016. Målet mitt er å bygge kraftige utvidelser for nettleseren din for å gjøre deg mer produktiv.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Hvis du tror jeg gjør en god jobb, vennligst doner :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Din donasjon er min eneste inntekt!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Takk for at du støtter arbeidet mitt!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Hjelp",
+    "common": true
+  },
+  "o_title": {
+    "message": "Alternativer - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "backup.",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Opprett ny sikkerhetskopiering",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Lagre innstillinger",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Hvis du vil eksportere dataene dine til en fil, kan du åpne dette vinduet på nytt i en ny fane.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Høyreklikk / \"Last ned koblet fil\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Generell",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Bakgrunn",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Kontekstmenyen",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Miniatyrbilder",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Snarveier",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Import / backup.",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Innstillinger",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Tema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Generell:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "funksjonshemmet",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "aktivert",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "piksler",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "sekunder",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Kontekstmenyen:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Deaktiver kontekstmeny: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Sikkerhetskopierings- / gjenopprettingsinnstillinger til fil:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Import",
+    "common": true
+  },
+  "title_import": {
+    "message": "Import",
+    "common": true
+  },
+  "title_export": {
+    "message": "Eksport",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Eksporter backup.",
+    "common": true
+  },
+  "label_or": {
+    "message": "eller",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Hallo :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Mitt navn er $1$ og jeg er forfatteren av $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Hvis du liker det, vennligst vurder det her:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Hvis du ikke liker det, vennligst gi meg beskjed om hvorfor til min e-post. Jeg implementerer de fleste funksjonsforespørsler jeg mottar.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Vennligst vurder å støtte mitt arbeid av",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankoverføring ved hjelp av IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donasjon (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "blir min beskytter",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Takk skal du ha!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "hjem:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Ta kontakt med:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Rapporter problemer:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Jeg kan bare svare på engelsk / slovakisk",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sosiale medier:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Lagre endringer og lukk",
+    "common": true
+  },
+  "o_saved": {
+    "message": "lagret!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Ingen matchende resultater",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Ingen data",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Mørk modus",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Kontrollert av systemet",
+    "common": true
+  },
+  "used_space": {
+    "message": "Brukt plass: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Åpne i ny fane",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Bytt addon på / av",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon er deaktivert",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Hvorfor?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Personvernregler",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Nylig lagt funksjoner:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

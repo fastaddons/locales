@@ -1,0 +1,2543 @@
+{
+  "app_name": {
+    "message": "Group Speed Dial"
+  },
+  "app_desc": {
+    "message": "SpeedDial (znany także jako visual bookmarks) z grupami dla zaawansowanych użytkowników."
+  },
+  "welcome_header": {
+    "message": "Witaj w dodatku $app_name$"
+  },
+  "welcome_setup": {
+    "message": ""
+  },
+  "welcome_watch_video": {
+    "message": "Obejrzyj krótki film instruktarzowy (1:50) aby zapoznać się z głównymi funkcjami."
+  },
+  "welcome_watch_android_video": {
+    "message": "Obejrzyj wideo instalacji na Androidzie."
+  },
+  "welcome_home_group": {
+    "message": "Aktualna \"Grupa domowa\" ma 4 x 3 skróty, możesz to zmienić tutaj:"
+  },
+  "welcome_import_josep_del_rio": {
+    "message": "Jest opcja importu z \"Speed Dial by Josep del Rio\" i inne w opcjach:"
+  },
+  "welcome_options_page": {
+    "message": "Strona opcji"
+  },
+  "welcome_pick_color": {
+    "message": "Wybierz kolor motywu, którego chcesz użyć:"
+  },
+  "welcome_visuals": {
+    "message": "Więcej opcji znajdziesz na stronie Opcje"
+  },
+  "import_settings_button": {
+    "message": "Importuj ustawienia i skróty..."
+  },
+  "import_josep_button": {
+    "message": "Importuj plik \"CurrentSettings.speeddial\"..."
+  },
+  "import_firefox_button": {
+    "message": "Importuj plik \"bookmarks-2018-XX-XX.json\"..."
+  },
+  "import_fast_dial_button": {
+    "message": "Importuj plik \"fastdial.json\"..."
+  },
+  "import_super_start_button": {
+    "message": "Importuj plik \"sites.v1.json\"..."
+  },
+  "import_speed_dial_2_button": {
+    "message": "Importuj plik \"jakakolwiek_nazwa\"..."
+  },
+  "import_done_text": {
+    "message": "Zaimportowano zewnętrze skróty"
+  },
+  "import_skip": {
+    "message": ""
+  },
+  "import_pages_stats": {
+    "message": ""
+  },
+  "import_data_from": {
+    "message": ""
+  },
+  "load_bookmarks": {
+    "message": ""
+  },
+  "load_top_pages": {
+    "message": ""
+  },
+  "group_generated_name": {
+    "message": "Grupa $1"
+  },
+  "default_home_group_name": {
+    "message": "Grupa domowa"
+  },
+  "drag_group_hover_open": {
+    "message": "Otwórz grupę"
+  },
+  "replace_dial": {
+    "message": "Zamień skrót"
+  },
+  "replace_duplicate_dial": {
+    "message": ""
+  },
+  "create_multi_page_dial": {
+    "message": ""
+  },
+  "replace_multi_page_dial": {
+    "message": ""
+  },
+  "msg_pro_cloud_upload": {
+    "message": "Prześlij miniaturki do chmury - pozwoli to na zobaczenie ich w"
+  },
+  "msg_pro_cloud_web": {
+    "message": "Strona skrótów w chmurze"
+  },
+  "msg_pro_cloud_web_desc": {
+    "message": "Wersja w chmurze nie ma możliwości edycji, ale działa w każdej przeglądarce, nawet w Twoim telefonie!"
+  },
+  "msg_pro_same_thumbnails": {
+    "message": "Teraz możesz zapisywać miniaturki na każdym urządzeniu!"
+  },
+  "msg_pro_thumbnails_download": {
+    "message": "To pobierze wszystkie Twoje miniaturki z chmury i zamieni lokalne."
+  },
+  "msg_correct_account": {
+    "message": "Proszę odwiedź serwer w chmurze i upewnij się, że jesteś zalogowany na właściwym koncie:"
+  },
+  "msg_replace_text": {
+    "message": "Opcjonalnie możesz zamienić lokalne skróty."
+  },
+  "url_search": {
+    "message": ""
+  },
+  "msg_search_by": {
+    "message": "Szukaj wg.:"
+  },
+  "msg_search_tip": {
+    "message": "Porada: dodaj notatki do skrótów, dla lepszych wyników wyszukiwania"
+  },
+  "msg_search_url": {
+    "message": "Adres URL"
+  },
+  "msg_search_name": {
+    "message": "Nazwa"
+  },
+  "msg_search_note": {
+    "message": "Notatka"
+  },
+  "msg_add_dial_text": {
+    "message": "Możesz przenosić się między grupami, przesuwać lub usuwać istniejące skróty."
+  },
+  "msg_add_dial_no_show": {
+    "message": "Nie pokazuj więcej"
+  },
+  "msg_add_dials_here": {
+    "message": ""
+  },
+  "add_target_dial": {
+    "message": "Znajdź docelowy skrót dla tej strony:"
+  },
+  "add_target_dials": {
+    "message": ""
+  },
+  "add_image": {
+    "message": ""
+  },
+  "bc_first_group": {
+    "message": "Pierwsza grupa utworzona"
+  },
+  "show_all_groups": {
+    "message": ""
+  },
+  "fr_home_group": {
+    "message": "Grupa domowa"
+  },
+  "err_db_settings_loading": {
+    "message": "Wyjątek podczas ładowania ustawień i bazy danych"
+  },
+  "err_db_creation": {
+    "message": "Błąd podczas tworzenia bazy danych"
+  },
+  "err_db_loading": {
+    "message": "Błąd ładowania bazy danych"
+  },
+  "err_db_images": {
+    "message": "Błąd podczas pobierania obrazków z bazy danych"
+  },
+  "sync_synced_ok": {
+    "message": "zsynchronizowano z serwerem"
+  },
+  "sync_working": {
+    "message": "w toku..."
+  },
+  "sync_syncing": {
+    "message": "Synchronizacja w toku..."
+  },
+  "sync_synced": {
+    "message": "aktualne"
+  },
+  "sync_sync_ok": {
+    "message": "Synchronizacja zakończona powodzeniem"
+  },
+  "sync_err_label": {
+    "message": "błąd $1 - spróbuj później"
+  },
+  "sync_err_conflict": {
+    "message": "konflikt"
+  },
+  "sync_err_server_newer": {
+    "message": "Serwer zawiera nowszą wersję."
+  },
+  "sync_err_user_mismatch_": {
+    "message": "nieprawidłowy użytkownik"
+  },
+  "sync_err_wrong_account": {
+    "message": "Twoja wersja należy do innego konta."
+  },
+  "sync_err_not_empty": {
+    "message": "błąd - nie jest puste"
+  },
+  "sync_err_server_not_empty": {
+    "message": "Serwer już zawiera niektóre dane."
+  },
+  "sync_err_forbidden": {
+    "message": "Nie masz dostępu do tych danych"
+  },
+  "sync_downloading": {
+    "message": "pobieram..."
+  },
+  "sync_down_thumbnails": {
+    "message": "pobieranie miniaturek"
+  },
+  "sync_down_thumbnails_progress": {
+    "message": "pobieranie $1 / $2"
+  },
+  "sync_down_thumbnails_wait": {
+    "message": "pobieranie miniaturek, proszę czekać"
+  },
+  "sync_up": {
+    "message": "wysyłanie..."
+  },
+  "sync_up_sync_thumbnails": {
+    "message": "synchronizowanie miniaturek... przygotowywanie do wysyłania"
+  },
+  "sync_up_progress": {
+    "message": "wysyłanie $1 / $2"
+  },
+  "sync_up_wait": {
+    "message": "wysyłanie miniaturek, proszę czekać"
+  },
+  "sync_thumbnails_progress": {
+    "message": "synchronizacja miniatur... $1 / $2"
+  },
+  "add_page": {
+    "message": "Dodaj tę stronę do skrótu"
+  },
+  "add_dial": {
+    "message": "Dodaj tę zakładkę do skrótu"
+  },
+  "add_link": {
+    "message": ""
+  },
+  "use_image_as_thumbnail": {
+    "message": ""
+  },
+  "cm_choose_dial": {
+    "message": ""
+  },
+  "return_to_tab": {
+    "message": ""
+  },
+  "stay_here": {
+    "message": ""
+  },
+  "close_added_pages": {
+    "message": ""
+  },
+  "close_this_tab": {
+    "message": ""
+  },
+  "group_first_created": {
+    "message": "Pierwsza grupa stworzona"
+  },
+  "privacy_info_head": {
+    "message": "Ten dodatek umożliwia tworzenie kopii zapasowej twoich skrótów oraz jej synchronizację przy wykorzystaniu serwera w $1"
+  },
+  "privacy_info_body_1": {
+    "message": "Jeśli utworzysz konto w chmurze, twoje skróty będą synchronizowane z tym serwerem. Dane będą zawierały tylko podstawowe informacje (wprowadzone przez ciebie) o skrótach - takie jak nazwa, URL, etc... Nie będą przechowywane żadne dane śledzące ani statystyczne!"
+  },
+  "privacy_info_body_2": {
+    "message": "Bez konta w chmurze ten dodatek NIE wymienia danych z żadnym serwerem. Jeśli włączysz ładowanie Favicons z Google (w Opcjach), dane będą wysyłane do Google aby ściągnąć Favicons. Użycie opcjonalnych funkcji związanych z chmurą (przykładowo miniatury z publicznych bibliotek) spowoduje wymianę danych z chmurą. Te wymiany NIE będą zawierały żadnych danych osobistych."
+  },
+  "field_size_range": {
+    "message": "Wartość musi się znajdować pomiędzy $1 i $2"
+  },
+  "field_zoom_range": {
+    "message": "Przybliżenie musi się znajdować pomiędzy $1 i $2"
+  },
+  "field_scale_range": {
+    "message": "Skala musi być z przedziału $1 i $2"
+  },
+  "field_out_of_range": {
+    "message": "Poza skalą"
+  },
+  "file_load_label": {
+    "message": "Załaduj z pliku..."
+  },
+  "file_loaded_name": {
+    "message": "Załadowany plik: $1"
+  },
+  "image_err_loading": {
+    "message": "Błąd ładowania obrazka"
+  },
+  "field_hours_range": {
+    "message": "Godziny muszą być pomiędzy $1 i $2"
+  },
+  "field_minutes_range": {
+    "message": "Minuty muszą być pomiędzy $1 i $2"
+  },
+  "field_columns_range": {
+    "message": "Numery kolumn muszą być pomiędzy $1 i $2"
+  },
+  "field_rows_range": {
+    "message": "Numery rzędów muszą znajdować się między $1 i $2"
+  },
+  "validation_url": {
+    "message": "Wpisz prawidłowy adres (link)"
+  },
+  "save_dial_edited": {
+    "message": "skrót edytowany - $1"
+  },
+  "save_dials_added_to_group": {
+    "message": ""
+  },
+  "save_dial_moved": {
+    "message": "skrót przeniesiony - $1"
+  },
+  "save_dial_resized": {
+    "message": ""
+  },
+  "save_group_rc_color": {
+    "message": ""
+  },
+  "save_group_moved": {
+    "message": "grupa przeniesiona - $1"
+  },
+  "save_dial_names_saved": {
+    "message": "nowe nazwy skrótów zapisane - $1"
+  },
+  "save_dials_sorted": {
+    "message": ""
+  },
+  "save_thumbnail_uploaded": {
+    "message": "miniatura załadowana - -$1"
+  },
+  "save_public_thumbnail_uploaded": {
+    "message": "publiczna miniatura załadowana - -$1"
+  },
+  "save_productivity_selection_changed": {
+    "message": ""
+  },
+  "err_db_err_title": {
+    "message": "Błąd :("
+  },
+  "save_dial_removed": {
+    "message": "skrót usunięty - $1"
+  },
+  "field_position_range": {
+    "message": "Pozycja pomiędzy grupami musi być od $1 do $2"
+  },
+  "field_ratio_x_range": {
+    "message": "Proporcja X musi być od $1 do $2"
+  },
+  "field_ratio_y_range": {
+    "message": "Proporcja Y musi być od $1 do $2"
+  },
+  "validation_small_group_dimensions": {
+    "message": "Ta grupa już zawiera $1 skrótów. Użyj większej liczby rzędów lub kolumn, żeby je zmieścić."
+  },
+  "save_group_edited": {
+    "message": "grupa edytowana - Grupa: - $1"
+  },
+  "group_delete_title": {
+    "message": "Usuwanie grupy \"$1\" ze skrótami"
+  },
+  "group_delete_body": {
+    "message": "Czy jesteś pewny, że chcesz usunąć grupę i wszystkie zawarte skróty?"
+  },
+  "group_delete_yes": {
+    "message": "Tak"
+  },
+  "group_delete_no": {
+    "message": "Nie usuwaj"
+  },
+  "save_group_deleted": {
+    "message": "grupa usunięta - Grupa: $1"
+  },
+  "cm_shortcut_title": {
+    "message": "Skrót: \"$1\""
+  },
+  "cm_open_new_tab": {
+    "message": "Otwórz w nowej karcie"
+  },
+  "cm_new_tab_in_container": {
+    "message": ""
+  },
+  "firefox_containers_about": {
+    "message": ""
+  },
+  "cm_open_all_new": {
+    "message": "Otwórz wszystkie skróty - w nowych kartach"
+  },
+  "cm_open_all_replace": {
+    "message": "Otwórz wszystkie skróty - zamień bieżące"
+  },
+  "cm_replace_existing_title": {
+    "message": "Zamień istniejące zakładki skrótami z tej grupy."
+  },
+  "cm_edit_dial": {
+    "message": "Edytuj skrót"
+  },
+  "cm_create_dial": {
+    "message": "Tworzenie nowego skrótu"
+  },
+  "cm_copy_link": {
+    "message": "Skopiuj lokalizację linku"
+  },
+  "cm_move_dial": {
+    "message": ""
+  },
+  "cm_move_dial_to": {
+    "message": ""
+  },
+  "cm_cut_dial": {
+    "message": ""
+  },
+  "cm_copy_dial": {
+    "message": ""
+  },
+  "cm_paste_dial": {
+    "message": ""
+  },
+  "cm_paste_swap_dial": {
+    "message": ""
+  },
+  "cm_paste_replace_dial": {
+    "message": ""
+  },
+  "convert_to_multi": {
+    "message": ""
+  },
+  "add_to_multi": {
+    "message": ""
+  },
+  "cm_insert_up": {
+    "message": ""
+  },
+  "cm_insert_left": {
+    "message": ""
+  },
+  "cm_insert_right": {
+    "message": ""
+  },
+  "cm_insert_down": {
+    "message": ""
+  },
+  "cm_drop_replace": {
+    "message": ""
+  },
+  "cm_drop_copy_replace": {
+    "message": ""
+  },
+  "cm_drop_swap": {
+    "message": ""
+  },
+  "cm_clear_dial": {
+    "message": "Wyczyść skrót"
+  },
+  "cm_refresh_dial": {
+    "message": "Odśwież skrót"
+  },
+  "cm_refresh_image_here": {
+    "message": "Odśwież obrazek"
+  },
+  "cm_plus_delay": {
+    "message": "+$1s"
+  },
+  "cm_plus_delay_title": {
+    "message": "Odczekaj $1 sekund po przeładowaniu strony zanim pobierzesz obrazek"
+  },
+  "cm_btn_big": {
+    "message": "Duży"
+  },
+  "cm_bigger_title": {
+    "message": "Utwórz większą miniaturę"
+  },
+  "cm_refresh_visit": {
+    "message": "Odśwież poprzez odwiedzenie strony"
+  },
+  "cm_btn_left": {
+    "message": "lewo"
+  },
+  "cm_btn_left_title": {
+    "message": "Ułóż obraz po lewej (domyślnie na środku)"
+  },
+  "cm_group_open_new_tab": {
+    "message": "Otwórz w nowej karcie"
+  },
+  "cm_edit_group": {
+    "message": "Edytuj grupę"
+  },
+  "cm_create_new_group": {
+    "message": "Utwórz nową grupę"
+  },
+  "cm_sort_by": {
+    "message": ""
+  },
+  "sort_by_name": {
+    "message": ""
+  },
+  "sort_by_note": {
+    "message": ""
+  },
+  "sort_by_url": {
+    "message": ""
+  },
+  "sort_by_date": {
+    "message": ""
+  },
+  "sort_by_remove_empty_dials": {
+    "message": ""
+  },
+  "resize_dial": {
+    "message": ""
+  },
+  "resize_dial_normal": {
+    "message": ""
+  },
+  "resize_dial_v_half": {
+    "message": ""
+  },
+  "resize_dial_h_half": {
+    "message": ""
+  },
+  "resize_dial_small": {
+    "message": ""
+  },
+  "resize_dial_tiny": {
+    "message": ""
+  },
+  "resize_dial_micro": {
+    "message": ""
+  },
+  "rc_color": {
+    "message": ""
+  },
+  "row_color": {
+    "message": ""
+  },
+  "col_color": {
+    "message": ""
+  },
+  "cm_refresh_dials": {
+    "message": "Odśwież skróty"
+  },
+  "cm_change_thumbnail": {
+    "message": "Zmiana obrazka"
+  },
+  "cm_refresh_dial_background": {
+    "message": "Odśwież skrót w tle"
+  },
+  "cm_advanced": {
+    "message": "Zaawansowata utworzenia:ne"
+  },
+  "cm_legacy_features": {
+    "message": "Przestarzałe funkcje (nie używać)"
+  },
+  "cm_restore_previous_thumbnail": {
+    "message": "Przywróć poprzednią miniaturę"
+  },
+  "cm_public_upload": {
+    "message": "Wyślij miniaturę do publicznej biblioteki"
+  },
+  "cm_synchronize_thumbnails": {
+    "message": "Zsynchronizuj miniatury z kontem w chmurze"
+  },
+  "cm_user_consent_google_favicon": {
+    "message": "Ściągnij obrazki przy użyciu Google"
+  },
+  "cm_remove_group": {
+    "message": "Usuń grupę"
+  },
+  "cm_upload_thumbnails": {
+    "message": "Wyślij miniatury"
+  },
+  "cm_upgrade_pro": {
+    "message": "Ulepsz do wersji Pro"
+  },
+  "cm_pro_only": {
+    "message": "Tylko pro"
+  },
+  "save_group_created": {
+    "message": "Nowa grupa utworzona"
+  },
+  "refresh_all_title": {
+    "message": "Odśwież wszystkie miniaturki:"
+  },
+  "refresh_ok": {
+    "message": "Odśwież miniatury"
+  },
+  "refresh_all": {
+    "message": "Wszystkie miniatury"
+  },
+  "refresh_method": {
+    "message": "Metoda odświeżania:"
+  },
+  "refresh_this_group": {
+    "message": "Wszystkie w tej grupie"
+  },
+  "refresh_missing": {
+    "message": "Wszystkie puste miniaturki"
+  },
+  "refresh_group_dials": {
+    "message": "Tylko grupowe skróty"
+  },
+  "refresh_auto_reload": {
+    "message": ""
+  },
+  "pro_upgrade_label": {
+    "message": "Ulepsz do wersji Pro"
+  },
+  "pro_upgrade_now_label": {
+    "message": "Ulepsz teraz do wersji Pro"
+  },
+  "sync_down_thumbnails_title": {
+    "message": "Pobieranie miniaturek"
+  },
+  "sync_download_cloud_question": {
+    "message": "Czy jesteś pewny, że chcesz pobrać miniaturki z chmury?"
+  },
+  "sync_download_cloud_question_2": {
+    "message": "To nadpisze lokalne miniaturki."
+  },
+  "sync_download_yes": {
+    "message": "Tak, pobierz"
+  },
+  "sync_download_no": {
+    "message": "Nie"
+  },
+  "sync_conflict": {
+    "message": "Konflikt synchronizacji"
+  },
+  "sync_conflict_body": {
+    "message": "Jest nowsza wersja na serwerze w chmurze, ale masz pewne niezapisane lokalne zmiany."
+  },
+  "sync_conflict_body_2": {
+    "message": "Czy chcesz zastąpić swoją lokalną wersję?"
+  },
+  "sync_conflict_replace_local": {
+    "message": "Zamień lokalną"
+  },
+  "sync_conflict_replace_server": {
+    "message": "Zamień na serwerze"
+  },
+  "sync_err_account_title": {
+    "message": "Twoja wersja danych jest powiązana z innym kontem"
+  },
+  "sync_err_account_replace_local": {
+    "message": "Zamień lokalnie"
+  },
+  "sync_err_account_replace_cloud": {
+    "message": "Zamień w chmurze"
+  },
+  "sync_err_account_retry": {
+    "message": "Ponów"
+  },
+  "sync_not_empty_title": {
+    "message": "Pewne skróty już są w chmurze"
+  },
+  "sync_not_empty_replace_local": {
+    "message": "Zamień lokalnie"
+  },
+  "sync_not_empty_replace_cloud": {
+    "message": "Zamień w chmurze"
+  },
+  "sync_not_empty_replace_retry": {
+    "message": "Ponów"
+  },
+  "sync_changed_account": {
+    "message": ""
+  },
+  "sync_changed_account_body": {
+    "message": ""
+  },
+  "login_login_create": {
+    "message": "Zaloguj / Utwórz konto"
+  },
+  "history_title": {
+    "message": "Kopie zapasowe / Historia"
+  },
+  "history_restore": {
+    "message": "Przywróć wybrane"
+  },
+  "history_loading": {
+    "message": ""
+  },
+  "history_cancel": {
+    "message": "Anuluj"
+  },
+  "history_revert_dials": {
+    "message": ""
+  },
+  "save_history_restored": {
+    "message": "dane przywrócone z historii"
+  },
+  "search_title": {
+    "message": "Szukaj skrótu"
+  },
+  "unexpected_title": {
+    "message": "Pojawił się nieoczekiwany błąd!"
+  },
+  "unexpected_solution": {
+    "message": "Kliknij tutaj, aby przeładować wtyczkę (jeśli to nie pomoże, spróbuj zresetować przeglądarkę lub komputer)"
+  },
+  "unexpected_body": {
+    "message": "Proszę napisz mi maila z dziennikiem błędu na mój email:"
+  },
+  "unexpected_thanks": {
+    "message": "Dziękuję."
+  },
+  "unexpected_close": {
+    "message": "Zamknij"
+  },
+  "err_mutable_title": {
+    "message": "Błąd ładowania bazy danych spowodowany wyłączeniem historii w Twojej przeglądarce."
+  },
+  "err_mutable_body": {
+    "message": "Musisz ustawić \"Zapisuj historię\" w Firefox / Opcje / Prywatność i bezpieczeństwo / Historia."
+  },
+  "err_is_firefox_bug": {
+    "message": "To błąd w Firefoxie."
+  },
+  "err_error_details": {
+    "message": "Szczegóły błędu:"
+  },
+  "login_login_title": {
+    "message": "Zaloguj się by włączyć synchronizację w chmurze"
+  },
+  "menu_refresh_all": {
+    "message": "Odśwież wszystkie w grupie / wszystkie brakujące (po synchronizacji) / wszystkie grupowe skróty"
+  },
+  "menu_history_title": {
+    "message": "Otwiera nowe okno gdzie możesz zarządzać swoją historią/kopią zapasową"
+  },
+  "menu_pro_upload": {
+    "message": "Tylko w wersji Pro - Wyślij wszystkie miniaturki do chmury i spraw, żeby były dostępne na stronie Cloud-dials (nawet na Twoim telefonie!)"
+  },
+  "menu_pro_download": {
+    "message": "Tylko w wersji Pro - pobierz miniaturki z chmury zastępując lokalne."
+  },
+  "menu_page_to_dial": {
+    "message": "Dodaj tę stronę do skrótów"
+  },
+  "menu_pages_to_dial": {
+    "message": ""
+  },
+  "menu_cloud_dials": {
+    "message": "Skróty w chmurze"
+  },
+  "menu_dials_page": {
+    "message": "Menu strony skrótów"
+  },
+  "keys_ctrl_shift_f": {
+    "message": "Ctrl + Shift + F"
+  },
+  "ed_edit_dial": {
+    "message": "Edytuj skrót:"
+  },
+  "ed_tab_general": {
+    "message": "Ogólne"
+  },
+  "ed_auto_reload": {
+    "message": "Auto-przeładowanie"
+  },
+  "ed_crop_scale": {
+    "message": "Przytnij / skaluj"
+  },
+  "screen_width": {
+    "message": ""
+  },
+  "screen_height": {
+    "message": ""
+  },
+  "ed_tab_thumbnail": {
+    "message": "Miniaturka"
+  },
+  "ed_tab_visual": {
+    "message": "Wygląd"
+  },
+  "ed_tab_settings": {
+    "message": "Ustawienia"
+  },
+  "ed_dial_title": {
+    "message": "Tytuł skrótu:"
+  },
+  "ed_dial_note": {
+    "message": "Notatka:"
+  },
+  "ed_link_to_page": {
+    "message": "Odnośnik do strony:"
+  },
+  "ed_create_new_group": {
+    "message": "Odnośnik do nowych grup:"
+  },
+  "ed_group_name": {
+    "message": "Nazwa:"
+  },
+  "ed_columns": {
+    "message": "Kolumny:"
+  },
+  "ed_rows": {
+    "message": "Rzędy:"
+  },
+  "ed_link_to_group": {
+    "message": "Odnośnik do isniejącej grupy:"
+  },
+  "ed_page_dial": {
+    "message": ""
+  },
+  "ed_group_dial": {
+    "message": ""
+  },
+  "ed_text_dial": {
+    "message": ""
+  },
+  "ed_search_dial": {
+    "message": ""
+  },
+  "ed_multi_dial": {
+    "message": ""
+  },
+  "ed_live_dial": {
+    "message": ""
+  },
+  "ed_live_dial_title_1": {
+    "message": ""
+  },
+  "ed_live_dial_title_2": {
+    "message": ""
+  },
+  "page_name": {
+    "message": ""
+  },
+  "search_provider_name": {
+    "message": ""
+  },
+  "search_provider_url": {
+    "message": ""
+  },
+  "search_provider_icon": {
+    "message": ""
+  },
+  "search_provider_name_placeholder": {
+    "message": ""
+  },
+  "search_provider_url_placeholder": {
+    "message": ""
+  },
+  "search_provider_url_info": {
+    "message": ""
+  },
+  "search_add_more": {
+    "message": ""
+  },
+  "search_add_more_title": {
+    "message": ""
+  },
+  "search_provider_tip": {
+    "message": ""
+  },
+  "multi_dial_import": {
+    "message": ""
+  },
+  "multi_dial_import_help_0": {
+    "message": ""
+  },
+  "multi_dial_import_help_1": {
+    "message": ""
+  },
+  "multi_dial_import_current": {
+    "message": ""
+  },
+  "multi_dial_title_action": {
+    "message": ""
+  },
+  "multi_dial_link_action": {
+    "message": ""
+  },
+  "multi_dial_title_action_0": {
+    "message": ""
+  },
+  "multi_dial_title_action_1": {
+    "message": ""
+  },
+  "multi_dial_link_action_0": {
+    "message": ""
+  },
+  "multi_dial_link_action_1": {
+    "message": ""
+  },
+  "live_dial_opt_no_interaction": {
+    "message": ""
+  },
+  "live_dial_opt_hide_scrollbars": {
+    "message": ""
+  },
+  "dial_text_placeholder": {
+    "message": ""
+  },
+  "dial_click_to_clipboard": {
+    "message": ""
+  },
+  "ed_ar_title": {
+    "message": "Auto-przeładowanie miniatury"
+  },
+  "ed_ar_disabled_radio": {
+    "message": "Wyłączony"
+  },
+  "ed_ar_enabled_radio": {
+    "message": "Włączony"
+  },
+  "ed_au_type_0": {
+    "message": "Przeładuj co"
+  },
+  "ed_au_type_1": {
+    "message": "Dziennie"
+  },
+  "ed_au_type_2": {
+    "message": "Miesięcznie"
+  },
+  "ed_au_type_3": {
+    "message": "Dni tygodnia"
+  },
+  "ed_au_type_4": {
+    "message": "Weekendy"
+  },
+  "ed_au_type_5": {
+    "message": "Poniedziałek"
+  },
+  "ed_au_type_6": {
+    "message": "Wtorek"
+  },
+  "ed_au_type_7": {
+    "message": "Środa"
+  },
+  "ed_au_type_8": {
+    "message": "Czwartek"
+  },
+  "ed_au_type_9": {
+    "message": "Piątek"
+  },
+  "ed_au_type_10": {
+    "message": "Sobota"
+  },
+  "ed_au_type_11": {
+    "message": "Niedziela"
+  },
+  "ed_crop_off_radio": {
+    "message": "Automatycznie"
+  },
+  "ed_crop_on_radio": {
+    "message": "Własne"
+  },
+  "ar_at": {
+    "message": "na:"
+  },
+  "ar_hours": {
+    "message": "Godzin"
+  },
+  "ar_minutes": {
+    "message": "Minut"
+  },
+  "ar_dial_delay": {
+    "message": "Odstęp czasowy przed zrobieniem zrzutu ekranu:"
+  },
+  "ar_dial_delay_title": {
+    "message": "Gdy strona zostanie załadowana, zaczekamy zanim wykonamy miniaturkę. To pomaga przy stronach ładujących dane w czasie lub zawierających skomplikowane grafiki."
+  },
+  "ed_more_advanced": {
+    "message": "Bardziej zaawansowane opcje pojawią się w przyszłych wersjach."
+  },
+  "ed_auto_generated_th_radio": {
+    "message": "Auto-generowana miniatura:"
+  },
+  "ed_blank_radio": {
+    "message": "Pusta / jednokolorowa miniatura - przy użyciu koloru Tła"
+  },
+  "ed_make_text_radio": {
+    "message": "Tworzenie własnego tekstu miniatury przy użyciu strony $1:"
+  },
+  "use_for_dial": {
+    "message": "Użyj skrótu"
+  },
+  "ed_custom_th_file": {
+    "message": "Własna miniatura z pliku?"
+  },
+  "ed_custom_th_url": {
+    "message": "Własna miniatura z URL:"
+  },
+  "ed_public_thumbnail_radio": {
+    "message": "Miniatura z publicznej biblioteki:"
+  },
+  "load_images": {
+    "message": "Załaduj obrazki"
+  },
+  "load_images_empty": {
+    "message": "Nie znaleziono obrazków dla tej domeny"
+  },
+  "downloads": {
+    "message": "Pobrane:"
+  },
+  "image_info": {
+    "message": "Informacje o obrazku:"
+  },
+  "image_extension": {
+    "message": "Typ obrazu:"
+  },
+  "create_date": {
+    "message": "Utwórz datę:"
+  },
+  "image_file_size": {
+    "message": "Rozmiar obrazu:"
+  },
+  "resolution_too_low": {
+    "message": "Rozdzielczość jest za mała"
+  },
+  "report_image": {
+    "message": "Zgoś obraz"
+  },
+  "category_vector_images": {
+    "message": "Obrazki wektorowe"
+  },
+  "category_high_dpi": {
+    "message": "Wysoka rozdzielczość"
+  },
+  "category_medium_dpi": {
+    "message": "Średnia rozdzielczość"
+  },
+  "category_low_dpi": {
+    "message": "Niska rozdzielczość"
+  },
+  "public_upload_consent": {
+    "message": "Przesyłając miniatury do publicznej biblioteki wyrażasz zgodę na:"
+  },
+  "public_upload_body_1": {
+    "message": "Miniatura załadowana do publicznej biblioteki będzie dostępna dla wszystkich!"
+  },
+  "public_upload_body_2": {
+    "message": "Załadowane dane zawierają: obraz miniatury, umiejscowienie miniatury, nazwę skrótu. Inni użytkownicy nie zobaczą kto załadował miniaturę."
+  },
+  "label_sending": {
+    "message": "wysyłanie..."
+  },
+  "report_send": {
+    "message": "Raport!"
+  },
+  "report_details_placeholder": {
+    "message": "Informacje dodatkowe"
+  },
+  "report_type": {
+    "message": "Naruszenie typu:"
+  },
+  "report_type_spam": {
+    "message": "spam"
+  },
+  "report_type_copyright": {
+    "message": "copyright"
+  },
+  "report_type_violent": {
+    "message": "naruszenie"
+  },
+  "report_type_unethical": {
+    "message": "nieetyczne"
+  },
+  "report_type_other": {
+    "message": "inne"
+  },
+  "ed_save_on_disk": {
+    "message": "Zapisz na dysku"
+  },
+  "ed_vr_resolution": {
+    "message": "Rozdzielczość:"
+  },
+  "ed_vr_resolution_title": {
+    "message": "Rozdzielczość strony podczas tworzenia miniatury."
+  },
+  "ed_no_zoom": {
+    "message": "Brak przybliżenia"
+  },
+  "ed_top": {
+    "message": "Góra"
+  },
+  "ed_left": {
+    "message": "Lewo"
+  },
+  "ed_center": {
+    "message": "centrum"
+  },
+  "ed_align_left": {
+    "message": "Wyrównaj do lewej"
+  },
+  "ed_load_preview": {
+    "message": "Załaduj podgląd"
+  },
+  "ed_reset_position": {
+    "message": "Zresetuj pozycję"
+  },
+  "ed_reset_zoom": {
+    "message": "Zresetuj przybliżenie"
+  },
+  "ed_reset_size": {
+    "message": "Przywróć rozmiar"
+  },
+  "ed_reset_scale": {
+    "message": "Zresetuj skalę"
+  },
+  "label_reset_all": {
+    "message": ""
+  },
+  "label_coming_soon": {
+    "message": "Wkrótce"
+  },
+  "label_save_changes": {
+    "message": "Zapisz zmiany"
+  },
+  "label_discard_changes": {
+    "message": "Porzuć zmiany"
+  },
+  "label_create_all_thumbnails": {
+    "message": "Stwórz wszystkie miniatury"
+  },
+  "label_create_thumbnail": {
+    "message": "Stwórz miniaturę"
+  },
+  "ed_position": {
+    "message": "Pozycja:"
+  },
+  "ed_thumbnail_position_0": {
+    "message": "Centrum (zawiera)"
+  },
+  "ed_thumbnail_position_1": {
+    "message": "Pełna szerokość - wyrównanie do góry"
+  },
+  "ed_thumbnail_position_2": {
+    "message": "Okładka"
+  },
+  "ed_thumbnail_position_3": {
+    "message": "Wypełnij (rozciągnij)"
+  },
+  "ds_fetch_new_name": {
+    "message": "Aktualizuj tytuł skrótu podczas przeładowania (wymaga JavaScript)"
+  },
+  "ds_fetch_new_name_title": {
+    "message": "Podczas przeładowania (lub auto-przeładowania) tytuły skrótów będą zmienione na bieżący tytuł strony. Aby to zadziałało JavaScript musi być włączony."
+  },
+  "ds_no_script": {
+    "message": "Wyłącz JavaScript podczas przeładowania"
+  },
+  "ds_no_script_title": {
+    "message": "Wyłączenie JavaScript może pomóc w tworzeniu miniaturek na niektórych stronach."
+  },
+  "ds_open_dial_in": {
+    "message": "Otwórz skrót w:"
+  },
+  "ds_open_dial_in_0": {
+    "message": "Aktualna zakładka"
+  },
+  "ds_open_dial_in_1": {
+    "message": "Nowa zakładka (focus)"
+  },
+  "ds_open_dial_in_2": {
+    "message": "Nowa zakładka"
+  },
+  "ds_open_dial_in_3": {
+    "message": "Nowe okno"
+  },
+  "ds_open_dial_in_4": {
+    "message": "Nowe okno prywatne"
+  },
+  "open_in_chrome_incognito": {
+    "message": ""
+  },
+  "open_in_firefox_private": {
+    "message": ""
+  },
+  "firefox_containers": {
+    "message": ""
+  },
+  "no_container": {
+    "message": ""
+  },
+  "eg_title": {
+    "message": "Edytuj grupę"
+  },
+  "eg_position": {
+    "message": "Pozycja:"
+  },
+  "eg_name": {
+    "message": "Nazwa:"
+  },
+  "eg_columns": {
+    "message": "Kolumny:"
+  },
+  "eg_rows": {
+    "message": "Rzędy:"
+  },
+  "eg_dials_ratio": {
+    "message": "Proporcja skrótów:"
+  },
+  "eg_flexible": {
+    "message": "Elastyczne"
+  },
+  "eg_fixed": {
+    "message": "Ustalone"
+  },
+  "group_eg_scrollable": {
+    "message": "Zmień grupę na zwijaną"
+  },
+  "eg_background_color": {
+    "message": "Kolor tła"
+  },
+  "eg_text_color": {
+    "message": "Kolor tekstu"
+  },
+  "menu_search_title": {
+    "message": "Szukaj skrótu (Ctrl + Shift + F) - używajać adresu / Nazwy / Notatki"
+  },
+  "dial_number_title": {
+    "message": "Numer skrótu - może być uzyte z \"Ctrl + numer Group Speed Dial\" dodatku do otwarcia tego skrótu poprzez skrót klawiaturowy"
+  },
+  "dial_name_placeholder": {
+    "message": "auto-wygenerowany jeśli pusty"
+  },
+  "dial_note_placeholder": {
+    "message": "notatki pomagające znaleźć podczas wyszukiwania (Ctrl + Shift + F)"
+  },
+  "dial_url_placeholder": {
+    "message": "możesz pominąć prefix http:// (np.: google.com)"
+  },
+  "duplicate_dial_found": {
+    "message": ""
+  },
+  "op_search": {
+    "message": "Szukaj skrótu"
+  },
+  "op_refresh": {
+    "message": "Odśwież miniaturki"
+  },
+  "op_history": {
+    "message": "Historia / kopie zapasowe"
+  },
+  "menu_archive_title": {
+    "message": ""
+  },
+  "op_upload_thumbnails": {
+    "message": "Wyślij miniaturki"
+  },
+  "op_download_thumbnails": {
+    "message": "Pobierz miniaturki"
+  },
+  "op_pro_only": {
+    "message": "(tylko w wersji Pro)"
+  },
+  "op_bing_image": {
+    "message": "Bing tło"
+  },
+  "op_bing_next": {
+    "message": "Natępny obrazek"
+  },
+  "op_bing_previous": {
+    "message": "Poprzedni obrazek"
+  },
+  "op_bing_fullscreen": {
+    "message": ""
+  },
+  "op_bing_quiz": {
+    "message": ""
+  },
+  "o_bing_hide_dials": {
+    "message": ""
+  },
+  "o_no_dial_reflection": {
+    "message": ""
+  },
+  "o_background_url_placeholder": {
+    "message": "przykład: https://www.jakas_strona.com/nature.jpg"
+  },
+  "o_paste_import_placeholder": {
+    "message": "wklej wyeksportowany tekst tutaj"
+  },
+  "o_add_current_after_action": {
+    "message": ""
+  },
+  "o_add_current_after_action_0": {
+    "message": ""
+  },
+  "o_add_current_after_action_1": {
+    "message": ""
+  },
+  "o_add_current_after_action_2": {
+    "message": ""
+  },
+  "o_theme_title": {
+    "message": "domyślnie: czarny - dla lepszego snu nocą!"
+  },
+  "o_padding_title": {
+    "message": "Odstęp między każdym skrótem, pomiędzy dwoma skrótami wartość jest podwojona."
+  },
+  "o_sync_dials": {
+    "message": ""
+  },
+  "o_sync_settings": {
+    "message": ""
+  },
+  "o_disable_dials_sync": {
+    "message": ""
+  },
+  "o_disable_dials_sync_title": {
+    "message": ""
+  },
+  "o_auto_options_sync": {
+    "message": ""
+  },
+  "o_group_padding_title": {
+    "message": "Odległość między każdą nazwą grupy, odległość pomiędzy dwoma grupami jest podwojona"
+  },
+  "o_group_font_size_title": {
+    "message": "Rozmiar tekstu w górnej belce."
+  },
+  "o_recommended_for_performance_title": {
+    "message": "Rekomendowane dla najlepszej wydajności."
+  },
+  "o_two_gradient_colors_title": {
+    "message": "Wybierz przynajmniej 2 kolory by użyć gradientu - używanie skomplikowanych gradientów jako tło może lekko pogorszyć wydajność."
+  },
+  "o_background_preview_title": {
+    "message": "Podgląd tła"
+  },
+  "o_big_picture_warning_title": {
+    "message": "Używanie dużych obrazków może mieć negatywny wpływ na wydajność (czas ładowania nowej karty)"
+  },
+  "o_group_delayed_activation_title": {
+    "message": "To opóźnienie pozwala na wybór grupy. nawet gdy jest otoczona innymi grupami (jeśli masz np. 3 linie grup)"
+  },
+  "o_auto_upload_title": {
+    "message": "Wersja Pro jest wymagana. - Automatyczne wysyłanie może być aktywne tylko na jednym urządzeniu"
+  },
+  "o_no_title": {
+    "message": "Brak tytułów na skrótach (tylko miniaturki)"
+  },
+  "o_no_title_title": {
+    "message": "Domyślnie: wyłączone - gdy włączone, wszystkie tytuły będą ukryte."
+  },
+  "o_squared_edges": {
+    "message": "Brak zaokrąglonych rogów"
+  },
+  "o_squared_edges_title": {
+    "message": "domyślnie: wyłączone - gdy włączone, skróty będą miały ostre rogi"
+  },
+  "o_dial_font_size": {
+    "message": ""
+  },
+  "o_dial_title_down": {
+    "message": "Nazwy skrótów na dole"
+  },
+  "o_dial_title_down_title": {
+    "message": "domyślnie: wyłączone - gdy włączone, nazwy skrótów wyświetlą się na dole."
+  },
+  "o_scrollable_thumbnails": {
+    "message": ""
+  },
+  "o_no_shadow": {
+    "message": "Brak cieni dookoła skrótów"
+  },
+  "o_no_shadow_title": {
+    "message": "domyślnie: wyłączone - gdy włączone, domyślny cień dookoła skrótów będzie ukryty."
+  },
+  "o_hide_empty_dials": {
+    "message": "Ukryj puste skróty"
+  },
+  "o_hide_empty_dials_title": {
+    "message": "domyślnie: wyłączone - gdy włączone, wszystkie puste skróty będą ukryte."
+  },
+  "o_hide_hover_shadow": {
+    "message": "Ukryj cień po najechaniu myszką"
+  },
+  "o_dial_numbers_title": {
+    "message": "Numeracja skrótów będzie pokazana obok ich nazwy. Numery skrótów są przydatne, gdy chcesz używać dodatku \"Ctrl + Number for Group Speed Dial\" aby otwierać skróty przy pomocy klawiatury."
+  },
+  "o_dial_numbers": {
+    "message": "Pokazuj numery skrótów"
+  },
+  "o_hide_hover_shadow_title": {
+    "message": "domyślnie: wyłączone - gdy włączone, cień po najechaniu myszką będzie wyłączony."
+  },
+  "o_hide_login_part": {
+    "message": "Ukryj część od logowania"
+  },
+  "o_hide_login_part_title": {
+    "message": "Ukrywa \"Zaloguj / Utwórz konto\" lub nazwę Twojej chmury, gdy jesteś zalogowany."
+  },
+  "o_hide_top_bar": {
+    "message": "Ukryj grupy i logowanie"
+  },
+  "o_hide_top_bar_title": {
+    "message": "domyślnie: wyłączone - gdy włączone, grupy i logowanie będą ukryte."
+  },
+  "o_hide_add_group": {
+    "message": "Ukryj przycisk \"+\" na końcu listy grupy"
+  },
+  "o_hide_add_group_title": {
+    "message": "Ukrywa guzik \"+\""
+  },
+  "o_root_groups_only": {
+    "message": "Ukryj zagnieżdzone grupy na liście grup (górny pasek)"
+  },
+  "o_root_groups_only_title": {
+    "message": "Tylko główne grupy będą widoczne. Grupy które zawierają grupy skrótów będą ukryte."
+  },
+  "o_firefox_homepage_override": {
+    "message": "Ustaw Group Speed Dial jako stronę startową"
+  },
+  "o_pro_thumbnail_sync": {
+    "message": "Włącz automatyczną synchronizację miniatur w chmurze"
+  },
+  "o_group_name_as_title": {
+    "message": "Ustaw tytuł strony skrótu jako nazwa aktualnie wybranej grupy"
+  },
+  "o_prevent_new_tab_container": {
+    "message": ""
+  },
+  "o_prevent_new_tab_container_title": {
+    "message": ""
+  },
+  "o_group_name_as_title_title": {
+    "message": "Nazwa grupy będzie użyta jako tytuł strony - będzie to widoczne jako nazwa karty lub nazwa na pasku zadań,"
+  },
+  "o_instant_popup_redirect": {
+    "message": "Ikona paska narzędzi - natychmiastowe przekierowanie do strony skrótów"
+  },
+  "o_instant_popup_new_tab": {
+    "message": "otwórz w nowej karcie"
+  },
+  "o_instant_popup_new_tab_title": {
+    "message": "Nowa karta będzie zawsze otwierana obok aktywnej karty."
+  },
+  "o_user_consent_google_favicon": {
+    "message": "Włącz korzystanie z Google do pobierania Favicons dla skrótów (używane tylko gdy Favicon nie jest dostępne bezpośrednio) - zalecane"
+  },
+  "o_instant_popup_redirect_title": {
+    "message": "Kliknij ikonę paska narzędzi aby otworzyć stronę skrótów"
+  },
+  "o_disable_quick_edit": {
+    "message": "Wyłącz szybką edycję lewym kliknięciem"
+  },
+  "o_disable_quick_edit_title": {
+    "message": "Kliknięcie lewym przyciskiem myszy na pusty skrót nie będzie otwierać okna edycji."
+  },
+  "o_open_always_new_window": {
+    "message": "Zawsze otwieraj w nowym oknie"
+  },
+  "o_open_always_new_window_title": {
+    "message": "Klikanie skrótów otworzy swój adres w nowym oknie"
+  },
+  "o_open_always_new_tab": {
+    "message": "Zawsze otwieraj w nowej karcie"
+  },
+  "o_open_always_new_tab_title": {
+    "message": "Klikanie skrótów otworzy swój adres w nowej karcie"
+  },
+  "o_open_always_include_group_dials": {
+    "message": "Włączając w to grupy-skrótów"
+  },
+  "o_open_always_include_group_dials_title": {
+    "message": "Również grupy skrótów będą otwierane w nowych kartach"
+  },
+  "o_open_always_focused": {
+    "message": "Automatycznie przełącz na nową kartę"
+  },
+  "o_open_always_focused_title": {
+    "message": "Nowootwarte karty także będą aktywne"
+  },
+  "o_remember_group": {
+    "message": "Zapamiętaj ostatnio otwartą grupę"
+  },
+  "o_remember_group_title": {
+    "message": "Gdy włączone, następnym razem gdy otworzysz nową kartę, będziesz przekierowany do ostatnio odwiedzonej grupy."
+  },
+  "o_remember_group_runtime": {
+    "message": "Pamiętaj tylko do czasu ponownego uruchomienia przeglądarki"
+  },
+  "o_disable_auto_show_groups": {
+    "message": "Wyłącz automatyczne pokazywanie grup przy używaniu Przeciągnij i Upuść"
+  },
+  "o_disable_auto_show_groups_title": {
+    "message": "Domyślnie gdy przesuwasz i upuszczasz skróty - cała lista grup jest widoczna by umożliwić przemieszczanie się między nimi."
+  },
+  "o_scroll_groups": {
+    "message": "Przewijaj przez grupy"
+  },
+  "o_scroll_groups_title": {
+    "message": "Będziesz mógł używać kółka myszy do przewijania grup."
+  },
+  "o_scroll_groups_reverse": {
+    "message": "Odwróć kierunek przewijania"
+  },
+  "o_scroll_groups_reverse_title": {
+    "message": "Przesunięcie w górę przewinie do następnej grupy."
+  },
+  "o_scroll_groups_circle": {
+    "message": "Zawijaj początek i koniec"
+  },
+  "o_scroll_groups_circle_title": {
+    "message": "Gdy dotrzesz do końca, dalsze przewijanie przejdzie do początku (i vice-versa)."
+  },
+  "o_frame_jpeg": {
+    "message": "Używaj JPEG zamiast PNG"
+  },
+  "o_frame_jpeg_title": {
+    "message": "JPEG potrzebuje mniej pamięci i zajmuje mniej czasu by go wyświetlić."
+  },
+  "o_visit_jpeg": {
+    "message": "Użyj JPEG zamiast PNG"
+  },
+  "o_visit_jpeg_title": {
+    "message": "JPEG potrzebuje mniej pamięci i zajmuje mniej czasu by go wyświetlić."
+  },
+  "o_visit_jpeg_high_resolution": {
+    "message": "Użyj wysokiej rozdzielczości"
+  },
+  "o_visit_jpeg_high_resolution_title": {
+    "message": "Miniaturki będą mieć podwójną rozdzielczość, by poprawić jakość."
+  },
+  "o_current_dial_dimensions": {
+    "message": "Użyj aktualnych wymiarów skrótów (nie rekomendowane)"
+  },
+  "o_current_dial_dimensions_title": {
+    "message": "Gdy włączone, aktualne rozmiary skrótów będą używane dla docelowej rozdzielczości. Gdy wyłączone, rozdzielczość docelowego skrótuj jest wyliczana na podstawie rozdzielczości monitora i kolumn/rzędów grupy."
+  },
+  "o_context_menu_show_groups": {
+    "message": ""
+  },
+  "o_context_menu_internal": {
+    "message": "Menu kontekstowe strony skrótów:"
+  },
+  "o_dials_context_menu": {
+    "message": "Skróty i grupy-skrótów:"
+  },
+  "o_groups_context_menu": {
+    "message": "Grupy:"
+  },
+  "o_options_context_menu": {
+    "message": "Menu opcji:"
+  },
+  "o_tab_visual_dials": {
+    "message": "Skróty"
+  },
+  "o_tab_visual_groups": {
+    "message": "Grupy"
+  },
+  "o_tab_thumbnails": {
+    "message": "Miniaturki"
+  },
+  "o_tab_image": {
+    "message": "Jakość obrazków"
+  },
+  "o_theme": {
+    "message": "Motyw:"
+  },
+  "o_color_theme": {
+    "message": "Kolor motywu:"
+  },
+  "o_custom_css": {
+    "message": "Własny styl CSS"
+  },
+  "o_custom_css_placeholder": {
+    "message": "UWAGA: Tylko dla użytkowników zaawansowanych! Błędny styl może zakłócić widok."
+  },
+  "o_reload_group_dials": {
+    "message": "Odśwież grupy skrótów po zmianie tła"
+  },
+  "o_dials": {
+    "message": "Skróty:"
+  },
+  "o_dials_visual": {
+    "message": "Skróty - wygląd:"
+  },
+  "o_android_min_size": {
+    "message": ""
+  },
+  "o_android_min_dial_size": {
+    "message": ""
+  },
+  "o_space_around_dials": {
+    "message": "Odstęp dookoła skrótów:"
+  },
+  "o_group_list": {
+    "message": "Lista grup:"
+  },
+  "o_space_around_groups": {
+    "message": "Odstęp dookoła grup:"
+  },
+  "o_group_list_size": {
+    "message": "Rozmiar czcionki listy grup:"
+  },
+  "o_group_list_height": {
+    "message": "Wysokość listy grup:"
+  },
+  "o_background_pic": {
+    "message": "Obrazek tła:"
+  },
+  "o_gradient_type": {
+    "message": "Typ gradientu:"
+  },
+  "o_gradient_colors": {
+    "message": "Kolory gradientów:"
+  },
+  "o_gradient_solid": {
+    "message": "Sam kolor - bez gradientu"
+  },
+  "o_gradient_linear_up_down": {
+    "message": "liniowy - góra / dół"
+  },
+  "o_gradient_linear_left_right": {
+    "message": "liniowy - lewa / prawa"
+  },
+  "o_gradient_linear_diagonal": {
+    "message": "liniowy - ukośny"
+  },
+  "o_gradient_radial_elipse": {
+    "message": "sferyczny - elipsa"
+  },
+  "o_gradient_radial_circle": {
+    "message": "sferyczny - okrąg"
+  },
+  "o_choose_local_image": {
+    "message": "Wybierz lokalny obrazek z pliku..."
+  },
+  "o_copy_link": {
+    "message": "Kopiuj odnośnik do strony głównej"
+  },
+  "o_safari_dials_page_hotkeys": {
+    "message": ""
+  },
+  "o_how_to_homepage": {
+    "message": "aby ustawić $app_name$ jako stronę główną - kliknij na \"Skopiuj link do strony głównej\" i wklej go do Przeglądarka / Opcje / Strona główna"
+  },
+  "o_redirect_url": {
+    "message": "Nadpisz stronę \"Nowa Karta\" tym adresem:"
+  },
+  "o_redirect_url_placeholder": {
+    "message": "przykład: https://www.google.com/"
+  },
+  "o_redirect_url_title": {
+    "message": "UWAGA: możesz używać linków tylko dla normalnych stron internetowych. Wewnętrzne strony typu \"about:newtab\" nie będą działać! Jedyne wyjątki to \"about:blank\" / \"about:home\"."
+  },
+  "o_groups": {
+    "message": "Grupy:"
+  },
+  "o_group_activation_delay": {
+    "message": "Opóźnienie aktywacji podczas używania Przeciągnij i Upuść:"
+  },
+  "o_short_keys": {
+    "message": "Skróty - dodatkowa wtyczka jest wymagana:"
+  },
+  "o_key_extended_mode": {
+    "message": "Dopuść więcej niż 9 skrótów"
+  },
+  "o_key_extended_mode_title": {
+    "message": "-"
+  },
+  "o_dial_only_current_group": {
+    "message": "Wybieraj tylko z aktualnie prezentowanej grupy"
+  },
+  "o_dial_only_current_group_title": {
+    "message": "Przykład: wybranie \"1\" otworzy pierwszy skrót z aktualnie prezentowanej grupy."
+  },
+  "o_key_force_page_focus": {
+    "message": "Wymuś uaktywnienie na stronie (eksperymentalne, może przestać działać)"
+  },
+  "o_key_force_page_focus_title": {
+    "message": "Jeśli uaktywniony jest pasek adresu, będziemy przerzucać aktywność na stronę. Jednak wyłączy to guzik \"Cofnij\" po nawigacji. To jest eksperymentalna funkcja i może przestać działać w nowych wersjach Firefox'a."
+  },
+  "o_key_to_group_dial": {
+    "message": "Włącz dostęp do grup poprzez przytrzymanie klawisza:"
+  },
+  "o_key_to_group_dial_title": {
+    "message": "Przytrzymany klawisz daje możliwość wybierania grup zamiast skrótów."
+  },
+  "o_key_disable_alt": {
+    "message": "Wyłącz skróty klawiszowe \"ALT\" / \"CMD\""
+  },
+  "o_key_disable_alt_title": {
+    "message": "Wyłącza skróty klawiszowe używające klawisza \"Alt\" na Windows i \"Cmd\" na MacOS."
+  },
+  "o_key_disable_ctrl": {
+    "message": "Wyłacz skróty klawiszowe \"Ctrl\""
+  },
+  "o_key_disable_ctrl_title": {
+    "message": "Wyłącza skróty klawiszowe używające klawisza \"Ctrl\"."
+  },
+  "o_key_disable_shift": {
+    "message": "Wyłącz skróty klawiszowe \"Shift\""
+  },
+  "o_key_disable_shift_title": {
+    "message": "Wyłącza skróty klawiszowe używające klawisza \"Shift\", np. \"Ctrl + Shift + 1\" lub \"Alt + Shift + 1\"."
+  },
+  "o_key_disable_f4": {
+    "message": "Wyłącz skrót klawiszowy \"F4\" do otwierania nowej karty"
+  },
+  "o_key_disable_f4_title": {
+    "message": "Wciśnięcie \"F4\" nie otworzy nowej karty."
+  },
+  "o_key_f4_active_here": {
+    "message": ""
+  },
+  "o_key_disable_zero": {
+    "message": "Wyłącz skrót klawiszowy \"Ctrl + 0\" otwierający 10-ty skrót"
+  },
+  "o_key_disable_zero_title": {
+    "message": "Wciśnięcie klawisza \"Ctrl+0\" (używanego do \"przywrócenia przybliżenia\") nie będzie otwierało 10-tego skrótu."
+  },
+  "o_key_new_tab": {
+    "message": "Otwórz w nowej karcie"
+  },
+  "o_key_new_tab_title": {
+    "message": "Wybrane skróty będą zawsze otwierane w nowych kartach."
+  },
+  "o_key_next_to_current": {
+    "message": "Obok aktywnej karty"
+  },
+  "o_key_next_to_current_title": {
+    "message": "Wybrane skróty będą otwarte obok aktywnej karty."
+  },
+  "o_keys_delay": {
+    "message": "Odstęp czasowy dla wielocyfrowych liczb:"
+  },
+  "o_ar_settings": {
+    "message": "Ustawienia auto odświeżania"
+  },
+  "o_ar_disable_this_device": {
+    "message": "Wyłącz na tym urządzeniu"
+  },
+  "o_ar_disable_this_device_title": {
+    "message": "Auto odświeżanie będzie wyłączone w tej przeglądarce."
+  },
+  "o_ar_keep_pinned_tab": {
+    "message": "Odświeżaj kartę otwartą po odświeżeniu"
+  },
+  "o_ar_keep_pinned_tab_title": {
+    "message": "Ta karta użyta dla tworzenia miniaturek pozostanie otwarta po odświeżeniu."
+  },
+  "o_ar_concurrent_count": {
+    "message": "Maksymalna liczba ładowanych stron na raz"
+  },
+  "o_ar_concurrent_count_title": {
+    "message": "Ogranicz liczbę stron ładowanych w tym samym czasie podczas tworzenia miniaturek. Mniejsze wartości pozwolą zaoszczędzić moc procesora i pamięć."
+  },
+  "o_ar_screen_resolution": {
+    "message": "Auto odświeżaj ustawioną rozdzielczość ekranu"
+  },
+  "o_ar_auto_radio": {
+    "message": "Automatycznie - na podstawie bieżącej rozdzielczości monitora (zalecane)"
+  },
+  "o_ar_custom_radio": {
+    "message": "Ręcznie"
+  },
+  "o_ar_screen_resolution_help": {
+    "message": "Rozdzielczość miniaturki jest obliczana z rozmiaru ekranu i rozmiaru docelowej grupy."
+  },
+  "o_vr_screen_resolution": {
+    "message": "Rozdzielczość wirtualnej strony używana przy generowaniu miniaturki."
+  },
+  "o_vr_default_width": {
+    "message": "Domyślna szerokość wirtualnej strony"
+  },
+  "o_vr_default_width_title": {
+    "message": "Szerokość strony używana przy generowaniu miniaturki."
+  },
+  "o_thumb_timings": {
+    "message": "Ramy czasowe i opóźnienia tworzenia miniaturek:"
+  },
+  "o_load_timeout": {
+    "message": "Maksymalny czas dla załadowania strony:"
+  },
+  "o_context_menu_plus_delay": {
+    "message": "Opóźnienie dodatkowe menu kontekstowego:"
+  },
+  "o_normal_reload_fixed_delay": {
+    "message": "Normalny ustalony czas odświeżania:"
+  },
+  "o_reload_visit_fixed_delay": {
+    "message": "Odśwież poprzez odwiedzenie z opóźnieniem:"
+  },
+  "o_thumbnails_delays_help": {
+    "message": "Te opóźnienia są przydatne przy generowaniu miniaturek - wiele stron używa javascriptu, by ukończyć ładowanie treści i przeglądarka czesto potrzebuje tych kilku dodatkowych milisekund, by ją narysować."
+  },
+  "o_img_quality_default_reload": {
+    "message": "Jakość obrazków - domyślne odświeżenie:"
+  },
+  "o_img_compression_level": {
+    "message": "Poziom kompresji"
+  },
+  "o_img_quality_reload_visit": {
+    "message": "Jakość obrazków - odświeżenie przez odwiedzenie:"
+  },
+  "o_context_menu_dials_page": {
+    "message": ""
+  },
+  "o_backup_restore": {
+    "message": "Utwórz/przywróć kopię zapasową do/z pliku:"
+  },
+  "o_export_dials": {
+    "message": "Eksportuj ustawienia i skróty"
+  },
+  "o_export_thumbnails": {
+    "message": "Eksportuj również miniatury - znacząco zwiększy się rozmiar eksportowanego pliku"
+  },
+  "o_import_other_addons": {
+    "message": "Importuj z innych dodatków"
+  },
+  "o_import_josep": {
+    "message": "Importuj skróty z dodatku \"Speed Dial by Josep del Rio\":"
+  },
+  "o_import_fvd": {
+    "message": "Importuj skróty z dodatku \"Speed Dial [FVD] by Nimbus Web\":"
+  },
+  "o_import_firefox_bookmarks": {
+    "message": "Importuj skróty z pliku \".json\" Firefox'a:"
+  },
+  "o_import_fast_dial": {
+    "message": "Importuj skróty z dodatku \"Fast Dial by telega\":"
+  },
+  "o_import_super_start_bookmarks": {
+    "message": "Importuj skróty z dodatku \"Super Start by cyberscorpio\":"
+  },
+  "o_import_speed_dial_2": {
+    "message": "Importuj skróty z dodatku \"Speed Dial 2 by speeddial2.com\":"
+  },
+  "o_replace_existing": {
+    "message": "Zamień istniejące skróty"
+  },
+  "o_import_from_text": {
+    "message": "Z tekstu:"
+  },
+  "o_about_cloud_dials": {
+    "message": "Skróty w chmurze:"
+  },
+  "o_auto_upload_pro": {
+    "message": "Automatyczne wysyłanie miniaturek (tylko w wersji Pro)"
+  },
+  "o_picture_from_url": {
+    "message": "obraz z adresu WWW:"
+  },
+  "o_picture_is_web_page": {
+    "message": "strona internetowa jako tło:"
+  },
+  "o_picture_bing_of_the_day": {
+    "message": "Obrazek dnia Bing:"
+  },
+  "o_picture_bing_of_the_day_note": {
+    "message": "nowy obrazek codziennie z $1"
+  },
+  "o_picture_bing_of_the_day_help": {
+    "message": "Możesz kontrolować obrazek Bing z menu głównego strony skrótów."
+  },
+  "o_picture_from_pc": {
+    "message": "obraz z komputera:"
+  },
+  "o_gradient_colors_sm": {
+    "message": "Kolory gradientów:"
+  },
+  "o_none_fastest": {
+    "message": "Żaden (najszybsze)"
+  },
+  "o_watch_youtube_import": {
+    "message": "Obejrzyj poradnik na YouTube"
+  },
+  "o_cloud_backup_instead": {
+    "message": "Możesz też po prostu stworzyć darmowe konto w chmurze i Twoje skróty będą w niej tworzyć automatyczną kopię zapasową. Wszystkie dane wysyłane są zaszyfrowane przez połączenie HTTPS."
+  },
+  "reload_heading": {
+    "message": "$app_name$ - zakładka odświeżania miniatur"
+  },
+  "reload_subheading": {
+    "message": "Ta zakładka jest używana przez moduł Auto-przeładowania i tworzy miniatury w tle."
+  },
+  "archive": {
+    "message": ""
+  },
+  "archived": {
+    "message": ""
+  },
+  "archive_empty": {
+    "message": ""
+  },
+  "archive_empty_body": {
+    "message": ""
+  },
+  "archive_close_title": {
+    "message": ""
+  },
+  "group_archive_group": {
+    "message": ""
+  },
+  "group_archive_group_title": {
+    "message": ""
+  },
+  "productivity_mode": {
+    "message": ""
+  },
+  "productivity_mode_title": {
+    "message": ""
+  },
+  "auto_productivity_mode": {
+    "message": ""
+  },
+  "active_days": {
+    "message": ""
+  },
+  "start_time": {
+    "message": ""
+  },
+  "end_time": {
+    "message": ""
+  },
+  "elapsed_time": {
+    "message": ""
+  },
+  "remaining_time": {
+    "message": ""
+  },
+  "start_productivity": {
+    "message": ""
+  },
+  "end_productivity": {
+    "message": ""
+  },
+  "choose_distracting_dials": {
+    "message": ""
+  },
+  "selected_dials_groups": {
+    "message": ""
+  },
+  "s_cp": {
+    "message": ""
+  },
+  "sc_0": {
+    "message": ""
+  },
+  "sc_1": {
+    "message": ""
+  },
+  "sc_2": {
+    "message": ""
+  },
+  "sc_3": {
+    "message": ""
+  },
+  "sc_4": {
+    "message": ""
+  },
+  "sc_5": {
+    "message": ""
+  },
+  "sc_6": {
+    "message": ""
+  },
+  "sc_7": {
+    "message": ""
+  },
+  "sc_8": {
+    "message": ""
+  },
+  "search_engine": {
+    "message": "",
+    "common": true
+  },
+  "color_remove_color": {
+    "message": "usuń kolor",
+    "common": true
+  },
+  "color_transparent": {
+    "message": "przezroczysty",
+    "common": true
+  },
+  "color_rgb": {
+    "message": "RGB",
+    "common": true
+  },
+  "color_no_color": {
+    "message": "",
+    "common": true
+  },
+  "field_int_default_value": {
+    "message": "Domyślna wartość: $1, minimum: $2, maksimum: $3",
+    "common": true
+  },
+  "field_set_default": {
+    "message": "Zresetuj do domyślnych: $1",
+    "common": true
+  },
+  "import_finished": {
+    "message": "Importowanie zakończone!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Błąd",
+    "common": true
+  },
+  "pro_required": {
+    "message": "Wersja Pro wymagana",
+    "common": true
+  },
+  "version_free": {
+    "message": "$1 wersja (darmowa) - tylko do zastosowań niekomercyjnych",
+    "common": true
+  },
+  "version_pro": {
+    "message": "$1 wersja",
+    "common": true
+  },
+  "msg_pro_header": {
+    "message": "Ta funkcja jest dostępna tylko w wersji Pro.",
+    "common": true
+  },
+  "msg_pro_support": {
+    "message": "Proszę, pomóż wesprzeć przyszły rozwój tej wtyczki poprzez przejście na wersję Pro.",
+    "common": true
+  },
+  "statistics": {
+    "message": "",
+    "common": true
+  },
+  "color_black": {
+    "message": "Czarny",
+    "common": true
+  },
+  "color_white": {
+    "message": "Biały",
+    "common": true
+  },
+  "theme_light": {
+    "message": "",
+    "common": true
+  },
+  "theme_dark": {
+    "message": "",
+    "common": true
+  },
+  "title_introduction": {
+    "message": "Wstęp",
+    "common": true
+  },
+  "title_got_it": {
+    "message": "Dalej, zaczynamy!",
+    "common": true
+  },
+  "privacy_info": {
+    "message": "Dane osobiste",
+    "common": true
+  },
+  "search_search": {
+    "message": "Wyszukaj",
+    "common": true
+  },
+  "search_close": {
+    "message": "Zamknij",
+    "common": true
+  },
+  "email_send_me": {
+    "message": "Wyślij e-mail",
+    "common": true
+  },
+  "send_runtime_error_log": {
+    "message": "",
+    "common": true
+  },
+  "send_runtime_errors": {
+    "message": "Kliknij w poniższy link aby przesłać mi emaila z informacją widoczną poniżej:",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox strona dodatków",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Strona Chrome Web Store page",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Opcje",
+    "common": true
+  },
+  "menu_quick_options": {
+    "message": "Szybkie opcje",
+    "common": true
+  },
+  "menu_visit_homepage": {
+    "message": "Odwiedź stronę główną",
+    "common": true
+  },
+  "key_name_ctrl": {
+    "message": "Ctrl",
+    "common": true
+  },
+  "key_name_alt": {
+    "message": "Alt",
+    "common": true
+  },
+  "key_name_shift": {
+    "message": "Shift",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Rozmiar czcionki",
+    "common": true
+  },
+  "label_font_size_preview": {
+    "message": "",
+    "common": true
+  },
+  "label_previous": {
+    "message": "",
+    "common": true
+  },
+  "label_back": {
+    "message": "",
+    "common": true
+  },
+  "label_next": {
+    "message": "Następny",
+    "common": true
+  },
+  "label_note": {
+    "message": "Informacja:",
+    "common": true
+  },
+  "label_not_supported_by_browser": {
+    "message": "",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Usunąć",
+    "common": true
+  },
+  "label_warning": {
+    "message": "UWAGA:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Opcje:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Domyślna:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Gotowy!",
+    "common": true
+  },
+  "label_copy": {
+    "message": "",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Skopiowany!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Własna:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Zamknij",
+    "common": true
+  },
+  "label_maximize": {
+    "message": "",
+    "common": true
+  },
+  "label_minimize": {
+    "message": "",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Zainstalowane",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Otwórz stronę",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Zgoda",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Anuluj",
+    "common": true
+  },
+  "label_active": {
+    "message": "",
+    "common": true
+  },
+  "label_inactive": {
+    "message": "",
+    "common": true
+  },
+  "label_paused": {
+    "message": "",
+    "common": true
+  },
+  "label_pause": {
+    "message": "",
+    "common": true
+  },
+  "label_resume": {
+    "message": "",
+    "common": true
+  },
+  "label_select_all": {
+    "message": "",
+    "common": true
+  },
+  "label_select_none": {
+    "message": "",
+    "common": true
+  },
+  "label_minutes": {
+    "message": "",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Skala:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Przybliżenie:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Rozmiar:",
+    "common": true
+  },
+  "label_example": {
+    "message": "",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menu",
+    "common": true
+  },
+  "menu_visit_title": {
+    "message": "Odwiedź stronę główną",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Odwiedź stronę główną",
+    "common": true
+  },
+  "online_help": {
+    "message": "",
+    "common": true
+  },
+  "online_help_info": {
+    "message": "",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Wsparcie tego projektu",
+    "common": true
+  },
+  "op_help": {
+    "message": "Pomoc",
+    "common": true
+  },
+  "op_help_introduction": {
+    "message": "Wideo wprowadzające",
+    "common": true
+  },
+  "op_help_safari_setup": {
+    "message": "",
+    "common": true
+  },
+  "op_help_android_setup": {
+    "message": "Wideo instalacji na Androidzie",
+    "common": true
+  },
+  "o_title": {
+    "message": "Opcje - $1",
+    "common": true
+  },
+  "o_manual_options_sync": {
+    "message": "",
+    "common": true
+  },
+  "automatic_backup": {
+    "message": "",
+    "common": true
+  },
+  "backup": {
+    "message": "utworzyć kopię zapasową",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Utwórz nową kopię zapasową",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Zapisz ustawienia",
+    "common": true
+  },
+  "load_settings": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Ogólne",
+    "common": true
+  },
+  "o_tab_sync": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Tło",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Menu kontekstowe",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Skróty klawiszowe",
+    "common": true
+  },
+  "o_tab_import": {
+    "message": "Importuj / kopia zapasowa",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "Informacje",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "piksele",
+    "common": true
+  },
+  "o_general": {
+    "message": "Ogólne:",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milisekundy",
+    "common": true
+  },
+  "o_special_features": {
+    "message": "Specjalne funkcje:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "Wyłączone",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "Włączone",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "sekundy",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Menu kontekstowe:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Importuj",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Witaj :)",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Jeśli podoba Ci się, oceń go tutaj:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Jeśli Ci się nie podoba, proszę napisz mi email dlaczego. Dodaję większość funkcji, o które proszą użytkownicy.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Proszę, pomyśl o wsparciu mojej pracy poprzez",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "datek (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "konto na Patreon",
+    "common": true
+  },
+  "o_about_support_by_update": {
+    "message": "ulepszenie do wersji Pro",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Dziękuję!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "główna:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Zgłaszaj problemy:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Mogę odpisywać tylko po Angielsku / Słowacku.",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sieci społecznościowe:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Zapisz zmiany i zamknij",
+    "common": true
+  },
+  "o_saved": {
+    "message": "Zapisano!",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Mam na imię $1$ i jestem autorem $app_name$.",
+    "common": true
+  },
+  "s_baidu": {
+    "message": "",
+    "common": true
+  },
+  "s_google": {
+    "message": "",
+    "common": true
+  },
+  "s_bing": {
+    "message": "",
+    "common": true
+  },
+  "s_yahoo": {
+    "message": "",
+    "common": true
+  },
+  "s_brave": {
+    "message": "",
+    "common": true
+  },
+  "s_yandex": {
+    "message": "",
+    "common": true
+  },
+  "s_duck_duck_go": {
+    "message": "",
+    "common": true
+  },
+  "s_qwant": {
+    "message": "",
+    "common": true
+  },
+  "s_ecosia": {
+    "message": "",
+    "common": true
+  },
+  "s_seznam": {
+    "message": "",
+    "common": true
+  },
+  "s_translate_en": {
+    "message": "",
+    "common": true
+  },
+  "s_translate_microsoft_en": {
+    "message": "",
+    "common": true
+  },
+  "s_translate_deepl_en": {
+    "message": "",
+    "common": true
+  },
+  "s_translate_yandex_en": {
+    "message": "",
+    "common": true
+  },
+  "s_translate_baidu_en": {
+    "message": "",
+    "common": true
+  },
+  "s_wikipedia": {
+    "message": "",
+    "common": true
+  },
+  "s_youtube": {
+    "message": "",
+    "common": true
+  },
+  "s_google_maps": {
+    "message": "",
+    "common": true
+  },
+  "s_twitter": {
+    "message": "",
+    "common": true
+  },
+  "s_facebook": {
+    "message": "",
+    "common": true
+  },
+  "s_imdb": {
+    "message": "IMDb",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Brak wyników dopasowania",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Brak danych",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Ciemny tryb",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Kontrolowany przez system.",
+    "common": true
+  }
+}

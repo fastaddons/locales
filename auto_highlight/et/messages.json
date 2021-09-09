@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "Mõnikord ei ole leht lihtsalt loodud ja teave, mida otsite, ei ole piisavalt nähtav."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Ühised kasutusjuhtumid:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Tõstke esile metaandmed nagu:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Tõstke esile \"Tasuta kohaletoimetamine\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Kas otsite veebis midagi konkreetset? Kasutage \"ajalist esiletõstmist\", et aidata teil leida kõik leheküljed. Ajalised esiletõstmine on brauseri sulgemisel automaatselt kustutatud."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Võite isegi peita sõnu, seades fondi suuruse nullini või muutes need läbipaistvaks."
+  },
+  "_description_tags_ah": {
+    "message": "highlight, Mark, Metageta, Movie, Automaatne, Tekst, sünkroonimine, valik, Otsing"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ rõhutab automaatselt määratletud sõnad määratletud lehekülgedel."
+  },
+  "match_type": {
+    "message": "Match tüüp:"
+  },
+  "match_type_0": {
+    "message": "Domeen on"
+  },
+  "match_type_1": {
+    "message": "URL on"
+  },
+  "match_type_2": {
+    "message": "URL sisaldab"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "Iga lehekülg"
+  },
+  "selection_highlight": {
+    "message": "Tõstke esile $1"
+  },
+  "selection_temp": {
+    "message": "Ajutiselt esile tõsta $1"
+  },
+  "selection_temp_everywhere": {
+    "message": "Ajutiselt esile kõikjal $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ sellel lehel"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Avage alati uues vahekaardil - kui klõpsates tööriistariba ikooni"
+  },
+  "disable_rule": {
+    "message": "Puudega"
+  },
+  "temporal_rule": {
+    "message": "Ajaline"
+  },
+  "each_word": {
+    "message": "Iga sõna"
+  },
+  "rules": {
+    "message": "Reeglid"
+  },
+  "delete": {
+    "message": "Kustutama"
+  },
+  "rename": {
+    "message": "Ümbernimetama"
+  },
+  "duplicate": {
+    "message": "Duplikaat"
+  },
+  "delete_rule": {
+    "message": "Kustutama reegel"
+  },
+  "delete_rule_title": {
+    "message": "Kustuta reegel \"$1\"?"
+  },
+  "on_pages": {
+    "message": "Lehekülgedel:"
+  },
+  "disabled_rule": {
+    "message": "Puudega reegel"
+  },
+  "incomplete_rule": {
+    "message": "Mittetäielik reegel"
+  },
+  "active_on_current_page": {
+    "message": "Aktiivne praegusel lehel"
+  },
+  "temporal_rule_helper": {
+    "message": "Ajaline reegel - kustutatakse pärast brauseri taaskäivitamist"
+  },
+  "active_on_pages": {
+    "message": "Aktiivne lehekülgedel:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Tõstke iga sõna eraldi esile"
+  },
+  "case_sensitive": {
+    "message": "Tõstutundlik"
+  },
+  "ignore_diacritics": {
+    "message": "Ignoreeri diakriitiite"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "Regulaarne väljend"
+  },
+  "across_elements": {
+    "message": "Elementide vahel"
+  },
+  "across_elements_help": {
+    "message": "Otsi teksti üle naaber html elemente"
+  },
+  "style": {
+    "message": "Stiili"
+  },
+  "preview": {
+    "message": "Eelvaade:"
+  },
+  "empty_rule": {
+    "message": "tühi reegel"
+  },
+  "create_new_rule": {
+    "message": "Loo uus reegel"
+  },
+  "import_export": {
+    "message": "Import ja eksport"
+  },
+  "help_this_project": {
+    "message": "Aita seda projekti"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "KKK:"
+  },
+  "storage_info": {
+    "message": "Salvestusinfo:"
+  },
+  "storage_safari_1": {
+    "message": "Safari ei toeta praegu automaatset andmete sünkroniseerimist."
+  },
+  "storage_safari_2": {
+    "message": "Et edastada (või varukoopia) oma esiletõstmise reeglid, kasutage \"Import / Export\" funktsiooni."
+  },
+  "storage_info_1": {
+    "message": "Teie reeglid salvestatakse turvalise $1 sünkroonimise abil, mis sünkroniseerib teie reeglid kõigi oma seadmete vahel (kui olete samasse kontosse sisse logitud)."
+  },
+  "storage_info_2": {
+    "message": "See pilveladus võib salvestada 100 kB andmeid ja kuni 500 rõhutada reegleid."
+  },
+  "storage_info_3": {
+    "message": "Samuti saate eksportida (varukoopia) oma reegleid faili kasutades \"impordi / ekspordi\" funktsiooni ja seejärel importida see teiste seadmetega."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Vahetage olemasolevad esiletõstmised reeglid"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Lisa lehekülg esile"
+  },
+  "remove_highlight_from_page": {
+    "message": "Eemaldage esilehel"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "Kald-"
+  },
+  "underline": {
+    "message": "Rõhutama"
+  },
+  "background_color": {
+    "message": "Taustavärv"
+  },
+  "background": {
+    "message": "Taust"
+  },
+  "text_color": {
+    "message": "Teksti värv"
+  },
+  "color": {
+    "message": "Värv"
+  },
+  "font_size": {
+    "message": "Fondi suurus"
+  },
+  "rule_name": {
+    "message": "Nimetus"
+  },
+  "highlight_regular_expression": {
+    "message": "Tõstke regulaaravaldis:"
+  },
+  "highlight_text": {
+    "message": "Tõstke esile tekst:"
+  },
+  "highlight_on_pages": {
+    "message": "Esile lehekülgedel"
+  },
+  "empty_name_helper": {
+    "message": "Jäta tühi kasutada \"esiletõstetud teksti\" nime all"
+  },
+  "faq_1": {
+    "message": "Kuidas kiiresti esile tõsta sõna praegusel lehel?"
+  },
+  "faq_1a": {
+    "message": "Kasuta kontekstimenüü - valige Tekst / Paremklõps / \"Automaatne esiletõstmine\". Kui teil on paremklõps lehel (ilma teksti valimata), saate rakendada olemasolevaid reegleid praegusele lehele."
+  },
+  "faq_2": {
+    "message": "Ma tahan rõhutada mitu sõna, kas mul on vaja luua iga sõna iga sõna jaoks uus reegel?"
+  },
+  "faq_2a": {
+    "message": "Ei, kontrollige lihtsalt \"iga sõna\" märkeruut. Siis rõhutatakse iga sõna eraldi."
+  },
+  "faq_3": {
+    "message": "Mis on see, et \"RegExp\"?"
+  },
+  "faq_3a": {
+    "message": "Tuntud ka tavalise väljendusena, see on otsingumuderi määratlemise ja järjestus. See on keeruline konstrukt, mis võimaldab mõnede sarnase mustri elementide keerulist esiletõstmist. Näiteks hinnad, kuupäevad, telefoninumbrid jne."
+  },
+  "faq_4": {
+    "message": "Kas sa näita mulle mõned RegExp näited?"
+  },
+  "faq_4a": {
+    "message": "Tõstke esile kõik hinnad nagu $1"
+  },
+  "faq_5": {
+    "message": "Kas te saaksite neid selgitada?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" Tõstke esile dollari märk. Tagasillas on siin vaja, sest dollaril on RegExpis eriline tähendus."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" rõhutab ühekohalist"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" tähendab korrake ühte või mitu korda. Kui asetatakse pärast numbrit valijat $2$, tähendab see ühte või mitut numbrit."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" Tõstke dot. Backslash on vaja uuesti vaja, sest DOT-sümbol üksi tähendab mis tahes ühtegi märki RegExpis."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" tähendab null või üks kord. Kui asetatakse pärast sulgudes $2$, tähendab see olenemata nende sulgude sees on valikuline (võib olla seal või mitte). Me kasutame seda valikulise numbri kümnendosa jaoks."
+  },
+  "faq_5f": {
+    "message": "rohkem infot RegExp reeglite kohta"
+  },
+  "import_finished": {
+    "message": "Import lõpetas!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Viga",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Import varukoopia faili $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Koduleht",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon leht",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome'i veebipood",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefoxi lisandmoodulid",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird lisandmoodulid",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Valikuvõimalused",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Fondi suurus",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Külgriba suurus",
+    "common": true
+  },
+  "label_next": {
+    "message": "Järgmine",
+    "common": true
+  },
+  "label_note": {
+    "message": "Märge:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Eemaldama",
+    "common": true
+  },
+  "label_warning": {
+    "message": "HOIATUS:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Valikud:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Vaikimisi:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Tee!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Kopeeritud!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Kohandatud:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Sulge",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Installitud",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Avaleht",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Nõustuma",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Tühistama",
+    "common": true
+  },
+  "label_save": {
+    "message": "Säästa",
+    "common": true
+  },
+  "label_required": {
+    "message": "Nõutud",
+    "common": true
+  },
+  "label_sending": {
+    "message": "saadan ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Kaal:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Suumi:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Suurus:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Tulekul",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Salvesta muudatused",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Ära visata",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menüü",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Külasta kodulehekülge",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Aita seda projekti",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Tugi sõltumatu arendaja!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Tere!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Ma olen Addoni arendaja alates 2016. aastast. Minu eesmärk on ehitada teie veebibrauseri võimsaid laiendusi, et sind produktiivsemaks muuta.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Kui te arvate, et ma teen head tööd, annetage palun :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Teie annetus on minu ainus sissetulek!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Täname, et toetasite oma tööd!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Aitama",
+    "common": true
+  },
+  "o_title": {
+    "message": "Valikud - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "varukoopia",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Loo uus varukoopia",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Salvesta sätted",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Andmete eksportimiseks failile taasavake see aken uuesti uue vahekaardiga.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Paremklõps / allalaadimine Linked File \"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Üldine",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Taust",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Kontekstimenüü",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Pisipiltide",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Otseteed",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Import / backup",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Seaded",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Teema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Üldine:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "puudega",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "lubatud",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pikslit",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "second",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Kontekstimenüü:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Keela kontekstimenüü: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Varundus / taastamise seaded faili:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Import",
+    "common": true
+  },
+  "title_import": {
+    "message": "Import",
+    "common": true
+  },
+  "title_export": {
+    "message": "Eksport",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Ekspordi varukoopia",
+    "common": true
+  },
+  "label_or": {
+    "message": "või",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Tere :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Minu nimi on $1$ ja ma olen $app_name$ autor.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Kui sulle meeldib see, hinnake seda siin:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Kui sulle ei meeldi, siis palun andke mulle teada, miks minu e-posti teel. Ma rakendan enamikku funktsioonide taotlusi.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Palun kaaluge oma töö toetamist",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Pangaülekanne IBAN-i abil:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "annetus (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "minu patroon muutub",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Aitäh!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "kodu:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Aruande küsimused:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Võin vastata ainult inglise / slovaki keeles",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sotsiaalmeedia:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Salvesta muudatused ja sulgege",
+    "common": true
+  },
+  "o_saved": {
+    "message": "salvestatud!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Sobivaid tulemusi pole",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Andmed puuduvad",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Tume režiim",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Süsteemi kontrolli all",
+    "common": true
+  },
+  "used_space": {
+    "message": "Kasutatud ruum: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Ava uues vahekaardil",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Lülitage addon sisse / välja",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon on keelatud",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Miks?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Privaatsuspoliitika",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Hiljuti lisatud funktsioonid:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Sildid:",
+    "common": true
+  }
+}

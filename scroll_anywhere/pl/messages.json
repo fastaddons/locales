@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "wszędzie, przycisk, kursor, przeciągnij, chwyć, chwyć przeciągnij, chwyć i przeciągnij, nieskończony, lewe, średnie, tempo, mysz, ruch, strona, prawy, przewijanie, strona przewijania, paski przewijania, przewijanie, rzut"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Przeciągnij pasek przewijania za pomocą środkowego przycisku myszy w dowolnym miejscu na stronie. Obsługuje również styl \"chwytaki i przeciągania\"."
+  },
+  "field_int_default_value": {
+    "message": "Domyślna wartość: $1, minimum: $2, maksimum: $3"
+  },
+  "field_set_default": {
+    "message": "Zresetuj do domyślnych: $1"
+  },
+  "thunderbird_store": {
+    "message": "Dodatki Thunderbird"
+  },
+  "firefox_store": {
+    "message": "Firefox strona dodatków"
+  },
+  "chrome_store": {
+    "message": "Strona Chrome Web Store page"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "win_disable": {
+    "message": "Wyłącz na $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Wyłącz przewijanie poziome na $1"
+  },
+  "op_visit_home": {
+    "message": "Odwiedź stronę główną"
+  },
+  "op_support_me": {
+    "message": "Wsparcie tego projektu"
+  },
+  "o_title": {
+    "message": "Opcje - $1"
+  },
+  "o_tab_general": {
+    "message": "Ogólne"
+  },
+  "o_tab_momentum": {
+    "message": "Pęd"
+  },
+  "o_tab_cursor": {
+    "message": "Kursor"
+  },
+  "o_axis_locking": {
+    "message": "Blokowanie osi"
+  },
+  "o_tab_performance": {
+    "message": "Występ"
+  },
+  "o_tab_disabled_on": {
+    "message": "Wyłączony na"
+  },
+  "o_tab_advanced": {
+    "message": "Zaawansowane"
+  },
+  "o_tab_scrollbars": {
+    "message": "Paski przewijania"
+  },
+  "o_tab_backup": {
+    "message": "Importuj / kopia zapasowa"
+  },
+  "o_tab_about": {
+    "message": "Informacje"
+  },
+  "o_axis_lock_helper": {
+    "message": "Podczas przewijania pudełka przewijania w jednej osi, ale pudełko nadrzędne jest przewijane w innej osi, przewijaj przewijanie do jednej osi:"
+  },
+  "o_axis_lock_0": {
+    "message": "Smart Lock - Temporal Blokada za pomocą pędu"
+  },
+  "o_axis_lock_1": {
+    "message": "Ścisła blokada - natychmiastowa blokada kierunku"
+  },
+  "o_axis_lock_2": {
+    "message": "Brak blokady - bezpłatne przewijanie w obu osi"
+  },
+  "o_trend_momentum_window": {
+    "message": "Smart Lock stos"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Większa wartość będzie wymagała więcej przewijania w przeciwnej osi, aby zmienić oś przewijania."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon jest wyłączony! Kliknij tutaj, aby włączyć."
+  },
+  "o_cursor_change_default": {
+    "message": "brak zmian - najlepsza wydajność"
+  },
+  "o_scroll_button": {
+    "message": "Przycisk przewijania:"
+  },
+  "o_direction_speed": {
+    "message": "Styl przewijania / kierunek / prędkość:"
+  },
+  "o_multiplier": {
+    "message": "Mnożnik"
+  },
+  "o_times_speed": {
+    "message": "times Scroll Prędkość"
+  },
+  "o_maximum_speed": {
+    "message": "Maksymalna prędkość przewijania (0 - Wyłączona):"
+  },
+  "o_ratio_unit": {
+    "message": "stosunek (Wielkość długości strony / okna)"
+  },
+  "o_scroll_type_0": {
+    "message": "Naśladuj paski przewijania"
+  },
+  "o_scroll_type_1": {
+    "message": "Chwyć i przeciągnij - jak na smartfonie"
+  },
+  "o_scroll_type_2": {
+    "message": "Dynamiczna prędkość (eksperymentalna)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "To jak przeciąganie paska przewijania"
+  },
+  "o_scroll_type_title_1": {
+    "message": "To jak przeciąganie strony z palcem na ekranie telefonu"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Szybkość dynamiczna sprawia, że przewijanie prędkości wolniejsze, gdy strona jest dłuższa"
+  },
+  "o_disable_key": {
+    "message": "Wyłącz / Włącz przewijanie, gdy klawisz jest wyłączony:"
+  },
+  "o_momentum_category": {
+    "message": "Pęd:"
+  },
+  "o_momentum_formula": {
+    "message": "Formula pędu:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Jednolicie spowolniony ruch"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Przewijanie strony będzie jednolicie zwolnił, aż się zatrzyma"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Wykładniczo spowolniony ruch"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Scroll strony będzie szybko (wykładniczo) zwolnił"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Nieskończony ruch ∞."
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Przewijanie nigdy się nie przestanie"
+  },
+  "o_momentum_max_speed": {
+    "message": "Maksymalna prędkość (0 - Wyłączona):"
+  },
+  "o_page_weight": {
+    "message": "Waga stron:"
+  },
+  "o_grams": {
+    "message": "gramy :)"
+  },
+  "o_additional_speed": {
+    "message": "Dodatkowa prędkość:"
+  },
+  "o_pixels_second": {
+    "message": "piksele na sekundę"
+  },
+  "o_additional_duration": {
+    "message": "Dodatkowy czas trwania:"
+  },
+  "o_advanced_momentum": {
+    "message": "Zaawansowana konfiguracja pędu (tylko dla ekspertów!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Zmiana tych wartości może przerwać swój pęd!"
+  },
+  "o_compute_from_last": {
+    "message": "Oblicz się z ostatniego:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Wykrywanie zatrzymania myszy:"
+  },
+  "o_tracking_speed": {
+    "message": "Prędkość śledzenia:"
+  },
+  "o_reset_values": {
+    "message": "Zresetuj wartości"
+  },
+  "o_cursor_scrolling": {
+    "message": "Kursor używany podczas przewijania:"
+  },
+  "o_performance": {
+    "message": "Występ:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Zapobiegaj dużym skokom."
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Jeśli używasz narzędzia, które może teleportować kursor na ekranie (po osiągnięciu krawędzi), włącz tę opcję, aby umożliwić ciągłe (nieskończone) przewijanie."
+  },
+  "o_advanced": {
+    "message": "Zaawansowane:"
+  },
+  "o_movement_detection": {
+    "message": "Próg wykrywania ruchu myszy:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Ile pikseli musi przejść do ruchu do blokowania łącza. Czasami przy naciśnięciu przycisku przewijania przesuwasz mysz lekko, ale nie chcesz, aby link był wyłączony z tego powodu."
+  },
+  "o_context_menu_block": {
+    "message": "Blok menu kontekstowego:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Odblokuj opóźnienie menu kontekstowego"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Jeśli pojawi się menu kontekstowe po przewijaniu prawym przyciskiem myszy, zwiększ tę wartość"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Wyłącz poziome przewijanie domen:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Wyłączony na domenach:"
+  },
+  "o_is_disabled_url": {
+    "message": "Wyłączone na stronach / podstronach:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Możesz użyć symbolu gwiazdy (*), aby zdefiniować część URL, na przykład: \"Google.com/maps *"
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Wprowadź jedną domenę na linię."
+  },
+  "o_is_disabled": {
+    "message": "Wyłącz dodatek"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Użyj ikony paska narzędzi jako głównego przełącznika ON / OFF"
+  },
+  "o_scroll_button_middle": {
+    "message": "Środkowy przycisk"
+  },
+  "o_scroll_button_right": {
+    "message": "Prawy przycisk"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Użytkownicy Linux / Mac - zostaniesz poproszony o nowe uprawnienia \"Ustawienia przeglądarki i modyfikacji\" - jest to wymagane do stłumienia menu kontekstowego przed przewijaniem!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac użytkowników - Twoje menu kontekstowe zostanie zablokowane! Aby otworzyć menu kontekstowe przytrzymaj przycisk \"Shift\" lub przycisku potrójny kliknięcie prawy."
+  },
+  "o_scroll_button_left": {
+    "message": "Lewy przycisk (eksperymentalny)"
+  },
+  "o_scroll_on_links": {
+    "message": "Przewiń linki"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Po włączeniu nie będziesz mógł przeciągnąć i rozwijać linki (tylko za pomocą klawisza \"Wyłącz\")"
+  },
+  "o_scroll_on_text": {
+    "message": "Przewiń tekst"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emuluje przewijanie telefonu / Edycja - musisz kliknąć tekst, aby przełączyć się na \"Tryb edycji\". Kliknięcie poza tekstem umożliwia przewijanie."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Przewiń na Textarea."
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea to blok tekstu, zwykle rezygnacyjny. Na przykład na karcie \"Wyłączone na\" możesz zobaczyć Textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Przewiń na edytowalnym HTML"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Na przykład korpus e-mail w Gmailu jest edytowalny HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "włącz tekst umożliwi wybór / edycji tekstu."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Kliknij tekst, umożliwi \"tryb edycji\". Kliknij zewnętrzny tekst, aby włączyć \"tryb przewijania\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Pojedyńcze kliknięcie"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Podwójne kliknięcie"
+  },
+  "o_scrollbars_width": {
+    "message": "Look."
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normalne (bez zmian)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Chudy"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Ukryty"
+  },
+  "o_scrollbars_color": {
+    "message": "Kolor suwaka przewijania:"
+  },
+  "o_scrollbars_background": {
+    "message": "Kolor tła przewijania:"
+  },
+  "o_reverse": {
+    "message": "Odwróć kierunek przewijania."
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Zmiana"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl."
+  },
+  "o_disable_type_0": {
+    "message": "Wyłącz, gdy klawisz jest wyłączony:"
+  },
+  "o_disable_type_1": {
+    "message": "Włącz, gdy klawisz jest wyłączony:"
+  },
+  "o_momentum": {
+    "message": "włącz tempo - możesz \"rzucić\" stronę (jak na telefonie)"
+  },
+  "o_no_css_edit": {
+    "message": "Nie zamykaj iMrames i nie zmieniaj kursora podczas przewijania"
+  },
+  "o_no_prevent_default": {
+    "message": "Nie blokuj akcji domyślnej przycisku"
+  },
+  "o_auto_link_lock": {
+    "message": "Blokowanie linków:"
+  },
+  "o_no_link_block": {
+    "message": "Nie blokuj kliknięcia myszy na link po ruchu"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Po rozpoczęciu przewijania linku, a następnie zakończysz przewijanie tego samego łącza, przeglądarka otworzy link. Zwykle nie jest to pożądane zachowanie, więc domyślnie jest zablokowane."
+  },
+  "o_page_weight_title": {
+    "message": "To kontroluje, jak jest \"ciężka\" strona. Cięższe strony ma dłuższy pęd."
+  },
+  "o_additional_speed_title": {
+    "message": "Możesz przyspieszyć prędkość stawiania pędu."
+  },
+  "o_additional_duration_title": {
+    "message": "Dodatkowy czas dla każdego pędu."
+  },
+  "o_compute_from_last_title": {
+    "message": "Prędkość początkowa pędu zależy od prędkości przewijania w prawo przed zwolnieniem przycisku przewijania."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Ile czasu musi być nadal na mysz - przed zwolnieniem przycisku przewijania - aby nie aktywować pędu."
+  },
+  "o_tracking_speed_title": {
+    "message": "Interwał do pomiaru prędkości przewijania prądu."
+  },
+  "o_scrolling_area": {
+    "message": "Obszar przewijania:"
+  },
+  "o_outside_area_width": {
+    "message": "Obszar przewijania (0 - Wyłączone):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Przesuwanie kursora poza obszar przewijania powróci pozycję przewijania. Tak samo zachowanie widać podczas przeciągania paska przewijania."
+  },
+  "o_scroll_button_left_title": {
+    "message": "OSTRZEŻENIE - Obsługa lewej przycisku jest stosując przestarzałe API Firefoksa, które można usunąć w przyszłych wersjach Firefoksa."
+  },
+  "o_prevent_text_selection": {
+    "message": "Zapobiegaj wyborem tekstu podczas przewijania lewym przyciskiem"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Na niektórych urządzeniach przewijanie lewym przyciskiem myszy wybierze również tekst na stronie."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Nie blokuj menu kontekstowego podczas próby przewijania nie-przewijalnej strony"
+  },
+  "o_backup_restore": {
+    "message": "Kopia zapasowa / Przywróć ustawienia do pliku:"
+  },
+  "o_export_settings": {
+    "message": "Eksportuj ustawienia do pliku"
+  },
+  "import_settings_button": {
+    "message": "Importuj ustawienia z pliku $1 ..."
+  },
+  "import_finished": {
+    "message": "Importowanie zakończone!"
+  },
+  "test_page_title": {
+    "message": "Przetestuj tutaj swoje ustawienia przewijania"
+  },
+  "menu_options": {
+    "message": "Opcje"
+  },
+  "menu_visit_title": {
+    "message": "Odwiedź stronę główną"
+  },
+  "not_working": {
+    "message": "Wyłączone przez przeglądarkę internetową"
+  },
+  "disabled_by_user": {
+    "message": "Wyłączone w tej dziedzinie"
+  },
+  "not_working_title": {
+    "message": "Twoja przeglądarka zablokuje scrollonewhere w tym typu stronach:"
+  },
+  "not_working_body": {
+    "message": "Aby włączyć SCROLLONALIONE na stronach \"mozilla.org\", zobacz ten samouczek YouTube"
+  },
+  "show_scrollbars": {
+    "message": "Pokaż paski przewijania."
+  },
+  "show_scrollbars_title": {
+    "message": "Tymczasowo pokaż paski przewijania."
+  },
+  "switch_on_off": {
+    "message": "Przełącz dodatek OFF / ON"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Jeśli doświadczysz zauważalnego opóźnienia między naciśnięciem przycisku przewijania a uruchomienie przewijania, spróbuj włączyć tę opcję. Jednak nie będziesz mógł przewinąć \"IFRRES\", takich jak niektóre stare wbudowane filmy lub niektóre reklamy."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Dysponuje to również opcję zmiany kursora podczas przewijania."
+  },
+  "o_helper_text_default_action": {
+    "message": "Przydatne w Linuksie, aby włączyć pasta z środkowym przyciskiem."
+  },
+  "o_about_hello": {
+    "message": "Witaj :)"
+  },
+  "o_about_intro": {
+    "message": "Nazywam się $1$ i jestem autorem $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Jeśli podoba Ci się, oceń go tutaj:"
+  },
+  "o_about_dislike_it": {
+    "message": "Jeśli Ci się nie podoba, proszę napisz mi email dlaczego. Dodaję większość funkcji, o które proszą użytkownicy."
+  },
+  "o_disabled": {
+    "message": "Wyłączone",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "Włączone",
+    "common": true
+  },
+  "o_times": {
+    "message": "czasy",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "piksele",
+    "common": true
+  },
+  "o_items": {
+    "message": "przedmiotów",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milisekundy",
+    "common": true
+  },
+  "label_working": {
+    "message": "pracujący...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Zamknij",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Proszę, pomyśl o wsparciu mojej pracy poprzez",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "datek (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "konto na Patreon",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Dziękuję!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "główna:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Zgłaszaj problemy:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Mogę odpisywać tylko po Angielsku / Słowacku.",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sieci społecznościowe:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Zapisz zmiany i zamknij",
+    "common": true
+  },
+  "o_saved": {
+    "message": "Zapisano!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Wkrótce",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Zapisz zmiany",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Polityka prywatności",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Ostatnio dodane funkcje:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tagi:",
+    "common": true
+  }
+}

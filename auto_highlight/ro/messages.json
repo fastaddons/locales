@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "Uneori, pagina nu este proiectată bine și informațiile pe care le căutați nu sunt suficient de vizibile."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Cazuri comune de utilizare:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Evidențiați metadatele ca:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Evidențiați \"Transport gratuit\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Căutați ceva specific pe web? Utilizați \"evidențierea temporală\" pentru a vă ajuta să o găsiți pe toate paginile. Repere temporale sunt șterse automat când închideți browserul."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Puteți chiar să ascundeți cuvintele prin setarea dimensiunii fontului la zero sau făcându-le transparente."
+  },
+  "_description_tags_ah": {
+    "message": "evidențiați, marcaj, metadate, film, automat, text, sincronizare, selecție, căutare"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ va evidenția automat cuvintele definite pe paginile definite."
+  },
+  "match_type": {
+    "message": "Tipul de meci:"
+  },
+  "match_type_0": {
+    "message": "Domeniul este"
+  },
+  "match_type_1": {
+    "message": "Adresa URL este"
+  },
+  "match_type_2": {
+    "message": "URL-ul conține"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "Fiecare pagină"
+  },
+  "selection_highlight": {
+    "message": "Evidențiați $1."
+  },
+  "selection_temp": {
+    "message": "Temporar evidențiază $1"
+  },
+  "selection_temp_everywhere": {
+    "message": "Evidențiază temporar peste tot $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ pe această pagină"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Deschideți întotdeauna în fila Nou - când faceți clic pe pictograma barei de instrumente"
+  },
+  "disable_rule": {
+    "message": "Dezactivat"
+  },
+  "temporal_rule": {
+    "message": "Temporal"
+  },
+  "each_word": {
+    "message": "Fiecare cuvânt"
+  },
+  "rules": {
+    "message": "Reguli"
+  },
+  "delete": {
+    "message": "Șterge"
+  },
+  "rename": {
+    "message": "Redenumire"
+  },
+  "duplicate": {
+    "message": "Duplicat"
+  },
+  "delete_rule": {
+    "message": "Ștergeți regula"
+  },
+  "delete_rule_title": {
+    "message": "Ștergeți regula \"$1\"?"
+  },
+  "on_pages": {
+    "message": "Pe pagini:"
+  },
+  "disabled_rule": {
+    "message": "Dezactivat regulă"
+  },
+  "incomplete_rule": {
+    "message": "Regula incompletă"
+  },
+  "active_on_current_page": {
+    "message": "Active pe pagina curentă"
+  },
+  "temporal_rule_helper": {
+    "message": "Regula temporală - va fi ștearsă după repornirea browserului"
+  },
+  "active_on_pages": {
+    "message": "Active pe pagini:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Evidențiați fiecare cuvânt separat"
+  },
+  "case_sensitive": {
+    "message": "Caz sensibil"
+  },
+  "ignore_diacritics": {
+    "message": "Ignorați diacritica"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "Expresie uzuala"
+  },
+  "across_elements": {
+    "message": "Peste elemente"
+  },
+  "across_elements_help": {
+    "message": "Căutați text în vecinătatea elementelor HTML"
+  },
+  "style": {
+    "message": "Stil"
+  },
+  "preview": {
+    "message": "Previzualizare:"
+  },
+  "empty_rule": {
+    "message": "regula goală"
+  },
+  "create_new_rule": {
+    "message": "Creați o nouă regulă"
+  },
+  "import_export": {
+    "message": "Import Export"
+  },
+  "help_this_project": {
+    "message": "Ajutați acest proiect"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "FAQ:"
+  },
+  "storage_info": {
+    "message": "Informații despre stocare:"
+  },
+  "storage_safari_1": {
+    "message": "Safari În prezent nu acceptă sincronizarea automată a datelor."
+  },
+  "storage_safari_2": {
+    "message": "Pentru a transfera (sau backup) regulile de evidențiere, utilizați caracteristica \"Import / Export\"."
+  },
+  "storage_info_1": {
+    "message": "Regulile dvs. sunt stocate utilizând sincronizarea securizată $1, care vă va sincroniza regulile între toate dispozitivele (dacă sunteți conectat (dacă sunteți conectat (ă) în același cont)."
+  },
+  "storage_info_2": {
+    "message": "Acest stoc de stocare poate stoca 100 kb de date și până la 500 de reguli de evidențiere."
+  },
+  "storage_info_3": {
+    "message": "De asemenea, puteți exporta (Backup) regulile dvs. într-un fișier utilizând caracteristica \"Import / Export\" și apoi importați-l pe alte dispozitive."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Înlocuiți regulile existente de evidențiere"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Adăugați pagina pentru a evidenția pe"
+  },
+  "remove_highlight_from_page": {
+    "message": "Eliminați evidențierea din pagină"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "Cursiv"
+  },
+  "underline": {
+    "message": "Subliniază"
+  },
+  "background_color": {
+    "message": "Culoare de fundal"
+  },
+  "background": {
+    "message": "Fundal"
+  },
+  "text_color": {
+    "message": "Culoarea textului"
+  },
+  "color": {
+    "message": "Culoare"
+  },
+  "font_size": {
+    "message": "Marimea fontului"
+  },
+  "rule_name": {
+    "message": "Numele regulii."
+  },
+  "highlight_regular_expression": {
+    "message": "Evidențiați expresia regulată:"
+  },
+  "highlight_text": {
+    "message": "Text subliniat:"
+  },
+  "highlight_on_pages": {
+    "message": "Evidențiați pe paginile"
+  },
+  "empty_name_helper": {
+    "message": "Lăsați gol pentru a utiliza \"textul evidențiat\" ca nume"
+  },
+  "faq_1": {
+    "message": "Cum să evidențieți rapid cuvântul pe pagina curentă?"
+  },
+  "faq_1a": {
+    "message": "Utilizați meniul contextual - Selectați textul / clic dreapta / \"Auto evidențiere\". Dacă faceți clic dreapta pe o pagină (fără a selecta textul), puteți aplica regulile existente în pagina curentă."
+  },
+  "faq_2": {
+    "message": "Vreau să subliniez mai multe cuvinte, trebuie să creez o nouă regulă pentru fiecare cuvânt separat?"
+  },
+  "faq_2a": {
+    "message": "Nu, verificați caseta de selectare \"Fiecare cuvânt\". Apoi, fiecare cuvânt va fi evidențiat separat."
+  },
+  "faq_3": {
+    "message": "Ce este \"RegExp\"?"
+  },
+  "faq_3a": {
+    "message": "De asemenea, cunoscut sub numele de expresie regulată, este o secvență de caractere care definesc un model de căutare. Este un construct complicat care permite evidențierea complexă a elementelor cu un model similar. De exemplu, prețuri, date, numere de telefon etc."
+  },
+  "faq_4": {
+    "message": "Îmi puteți arăta câteva exemple RegExp?"
+  },
+  "faq_4a": {
+    "message": "Evidențiați toate prețurile precum $1"
+  },
+  "faq_5": {
+    "message": "Îi poți explica pe cei?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" evidențiază semnul dolarului. Backslash-ul este necesar aici, deoarece dolarul are un înțeles special în RegExp."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" evidențiază o singură cifră"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" înseamnă repetarea de una sau mai multe ori. Când sunt plasate după selectorul de cifre $2$, înseamnă una sau mai multe cifre."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" evidențiază punctul. Backslash-ul este necesar din nou deoarece simbolul Dot înseamnă un singur caracter în RegExp."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" înseamnă zero sau o singură dată. Când sunt plasate după paranteze $2$, înseamnă orice este în interiorul acestor paranteze este opțional (poate fi acolo sau nu). Îl folosim pentru partea zecimală a numărului care este opțional."
+  },
+  "faq_5f": {
+    "message": "mai multe informații despre regulile RegExp"
+  },
+  "import_finished": {
+    "message": "Importul sa terminat!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Eroare",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Importați fișierul de backup $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Pagina principala",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon pagina",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Magazin de aplicații Mac.",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store.",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-ons",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Opțiuni",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Marimea fontului",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Dimensiunea barei laterale.",
+    "common": true
+  },
+  "label_next": {
+    "message": "Următorul",
+    "common": true
+  },
+  "label_note": {
+    "message": "Notă:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Elimina",
+    "common": true
+  },
+  "label_warning": {
+    "message": "AVERTIZARE:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Opțiuni:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Mod implicit:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Terminat!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Copiat!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Personalizat:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Închide",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Instalat",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Deschideți pagina",
+    "common": true
+  },
+  "label_agree": {
+    "message": "De acord",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Anulare",
+    "common": true
+  },
+  "label_save": {
+    "message": "Salvați",
+    "common": true
+  },
+  "label_required": {
+    "message": "Necesar",
+    "common": true
+  },
+  "label_sending": {
+    "message": "trimiterea ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Scară:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Mărimea:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "In curand",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Salvează modificările",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Renunțați la modificări",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Meniul",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Vizitați pagina de pornire",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Ajutați acest proiect",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Sprijiniți dezvoltatorul independent!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Salutare!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Sunt Addon Developer din 2016. Scopul meu este de a construi extensii puternice pentru browserul dvs. web pentru a vă face mai productivi.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Dacă credeți că fac o treabă bună, vă rugăm să donați :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Donația dvs. este singurul meu venit!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Vă mulțumim că ați susținut munca mea!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Ajutor",
+    "common": true
+  },
+  "o_title": {
+    "message": "Opțiuni - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "backup.",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Creați o nouă backup",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Salvează setările",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Pentru a exporta datele dvs. într-un fișier, redeschideți această fereastră într-o filă nouă.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Faceți clic dreapta / \"Descărcați fișierul conectat\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "General",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Fundal",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Meniul contextual",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Miniaturi",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Comenzi rapide",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Import / Backup.",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Setări.",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Temă:",
+    "common": true
+  },
+  "o_general": {
+    "message": "General:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "dezactivat",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "activat",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixeli",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "secunde",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Meniul contextual:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Dezactivați meniul contextual: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Backup / Restore Setări la fișier:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Import",
+    "common": true
+  },
+  "title_import": {
+    "message": "Import",
+    "common": true
+  },
+  "title_export": {
+    "message": "Export",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Exportați backup",
+    "common": true
+  },
+  "label_or": {
+    "message": "sau",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Buna ziua :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Numele meu este $1$ și sunt autorul lui $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Dacă vă place, vă rugăm să îl evaluați aici:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Dacă nu vă place, vă rog să-mi spuneți de ce la e-mailul meu. Am implementat majoritatea celorlalte cereri pe care le primesc.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Vă rugăm să luați în considerare susținerea muncii mele",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Transfer bancar folosind IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donație (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "devenind patronul meu",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Mulțumesc!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "acasă:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "A lua legatura:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Raport Probleme:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Pot răspunde numai în limba engleză / slovacă",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Social Media:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Salvați modificările și închideți",
+    "common": true
+  },
+  "o_saved": {
+    "message": "salvate!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Nu există rezultate potrivite",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Nu există date",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Modul întunecat.",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Controlate de sistem",
+    "common": true
+  },
+  "used_space": {
+    "message": "Spațiu folosit: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Deschideți în fila nouă",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Comutați ADDON ON / OFF",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon este dezactivat",
+    "common": true
+  },
+  "_description_why": {
+    "message": "De ce?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Politica de Confidențialitate",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Caracteristici adăugate recent:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Etichete:",
+    "common": true
+  }
+}

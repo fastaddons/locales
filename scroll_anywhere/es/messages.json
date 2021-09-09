@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "en cualquier lugar, botón, cursor, arrastrar, agarrar, agarrar arrastre, agarrar y arrastrar, infinito, izquierdo, medio, impulso, mouse, mover, página, derecha, desplazamiento, página de desplazamiento, barra de desplazamiento, desplazamiento, tiro"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Arrastre la barra de desplazamiento con el botón de ratón medio en cualquier lugar de la página. Admite también el estilo \"Agarra y arrastre\"."
+  },
+  "field_int_default_value": {
+    "message": "Valor por defecto: $1, min: $2, max: $3"
+  },
+  "field_set_default": {
+    "message": "Reiniciar valor: $1"
+  },
+  "thunderbird_store": {
+    "message": "Add-Ons Thunderbird"
+  },
+  "firefox_store": {
+    "message": "Página de complementos de Firefox"
+  },
+  "chrome_store": {
+    "message": "Página Chrome Web Store"
+  },
+  "safari_store": {
+    "message": "App Store Mac App"
+  },
+  "win_disable": {
+    "message": "Desactivar en $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Deshabilitar el desplazamiento horizontal en $1"
+  },
+  "op_visit_home": {
+    "message": "Visitar página principal"
+  },
+  "op_support_me": {
+    "message": "Apoya este proyecto"
+  },
+  "o_title": {
+    "message": "Opciones - $1"
+  },
+  "o_tab_general": {
+    "message": "General"
+  },
+  "o_tab_momentum": {
+    "message": "Impulso"
+  },
+  "o_tab_cursor": {
+    "message": "Cursor"
+  },
+  "o_axis_locking": {
+    "message": "Bloqueo de eje"
+  },
+  "o_tab_performance": {
+    "message": "Actuación"
+  },
+  "o_tab_disabled_on": {
+    "message": "Discapacitado en"
+  },
+  "o_tab_advanced": {
+    "message": "Avanzada"
+  },
+  "o_tab_scrollbars": {
+    "message": "Barras de desplazamiento"
+  },
+  "o_tab_backup": {
+    "message": "Importar / copia de seguridad"
+  },
+  "o_tab_about": {
+    "message": "Acerca de"
+  },
+  "o_axis_lock_helper": {
+    "message": "Al desplazar un cuadro que está desplazable en un eje, pero la caja principal está desplazada en otro eje, bloquee el desplazamiento a un eje usando:"
+  },
+  "o_axis_lock_0": {
+    "message": "Bloqueo inteligente - Cerradura temporal con impulso"
+  },
+  "o_axis_lock_1": {
+    "message": "Bloqueo estricto - bloqueo de dirección instantánea"
+  },
+  "o_axis_lock_2": {
+    "message": "Sin bloqueo - desplazamiento libre en ambos ejes"
+  },
+  "o_trend_momentum_window": {
+    "message": "Tamaño de la pila de bloqueo inteligente"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "El mayor valor requerirá más desplazamiento en el eje opuesto para cambiar el eje de desplazamiento."
+  },
+  "o_addon_disabled_warning": {
+    "message": "¡Addon está deshabilitado! Haga clic aquí para habilitar."
+  },
+  "o_cursor_change_default": {
+    "message": "sin cambios - mejor rendimiento"
+  },
+  "o_scroll_button": {
+    "message": "Botón de desplazamiento:"
+  },
+  "o_direction_speed": {
+    "message": "Estilo / dirección de desplazamiento:"
+  },
+  "o_multiplier": {
+    "message": "Multiplicadora"
+  },
+  "o_times_speed": {
+    "message": "velocidad de desplazamiento de veces"
+  },
+  "o_maximum_speed": {
+    "message": "Velocidad máxima de desplazamiento (0 - deshabilitado):"
+  },
+  "o_ratio_unit": {
+    "message": "relación (longitud de página / tamaño de la ventana)"
+  },
+  "o_scroll_type_0": {
+    "message": "Emular la barra de desplazamiento"
+  },
+  "o_scroll_type_1": {
+    "message": "Agarra y arrastre, como en un teléfono inteligente."
+  },
+  "o_scroll_type_2": {
+    "message": "Velocidad dinámica (experimental)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Es como arrastrar una barra de desplazamiento."
+  },
+  "o_scroll_type_title_1": {
+    "message": "Es como arrastrar una página con el dedo en una pantalla de teléfono."
+  },
+  "o_scroll_type_title_2": {
+    "message": "La velocidad dinámica hace que la velocidad de desplazamiento sea más lenta cuando la página sea más larga"
+  },
+  "o_disable_key": {
+    "message": "Deshabilitar / Habilitar desplazamiento cuando la tecla está abajo:"
+  },
+  "o_momentum_category": {
+    "message": "Impulso:"
+  },
+  "o_momentum_formula": {
+    "message": "Fórmula de impulso:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Movimiento uniformemente desacelerado"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "El desplazamiento de la página se desacelerará de manera uniforme hasta que se detenga"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Movimiento exponencialmente desacelerado"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "El desplazamiento de la página será rápida (exponencialmente) disminuirá la velocidad"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Movimiento infinito ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "El desplazamiento nunca se detendrá"
+  },
+  "o_momentum_max_speed": {
+    "message": "Velocidad máxima (0 - Deshabilitado):"
+  },
+  "o_page_weight": {
+    "message": "Peso de la página:"
+  },
+  "o_grams": {
+    "message": "gramos :)"
+  },
+  "o_additional_speed": {
+    "message": "Velocidad adicional:"
+  },
+  "o_pixels_second": {
+    "message": "píxeles por segundo"
+  },
+  "o_additional_duration": {
+    "message": "Duración adicional:"
+  },
+  "o_advanced_momentum": {
+    "message": "Configuración de impulso avanzado (¡solo para expertos!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "¡Cambiar estos valores puede romper su impulso!"
+  },
+  "o_compute_from_last": {
+    "message": "Calcular por último:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Detección de la parada del mouse:"
+  },
+  "o_tracking_speed": {
+    "message": "Velocidad de seguimiento:"
+  },
+  "o_reset_values": {
+    "message": "Valores de reinicio"
+  },
+  "o_cursor_scrolling": {
+    "message": "Cursor utilizado al desplazarse:"
+  },
+  "o_performance": {
+    "message": "Actuación:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Prevenir grandes saltos"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Si está utilizando la herramienta que puede teletranse su cursor en la pantalla (cuando llegue a un borde), habilite esta opción para permitir el desplazamiento continuo (infinito)."
+  },
+  "o_advanced": {
+    "message": "Avanzada:"
+  },
+  "o_movement_detection": {
+    "message": "Umbral de detección del movimiento del ratón:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "¿Cuántos píxeles tiene que mover el mouse para bloquear el enlace? A veces, al presionar el botón de desplazamiento, mueve el mouse ligeramente, pero no desea que el enlace esté deshabilitado debido a eso."
+  },
+  "o_context_menu_block": {
+    "message": "Bloque de menú contextual:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Desbloquear el contexto del menú."
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Si ve el menú contextual después de desplazarse con el botón derecho del ratón, aumente este valor"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Deshabilitar el desplazamiento horizontal en los dominios:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Discapacitados en los dominios:"
+  },
+  "o_is_disabled_url": {
+    "message": "Deshabilitado en páginas / Subpáginas:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Puede usar STAR Symbol (*) para definir una parte de URL, por ejemplo: \"google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Ingrese un dominio por línea."
+  },
+  "o_is_disabled": {
+    "message": "Deshabilitar el complemento"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Use el icono de la barra de herramientas como el interruptor principal de encendido / apagado"
+  },
+  "o_scroll_button_middle": {
+    "message": "Botón medio"
+  },
+  "o_scroll_button_right": {
+    "message": "Botón derecho"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "USUARIOS DE LINUX / MAC: se le solicitará un nuevo permiso \"Lea y modifique la configuración del navegador\", ¡se requiere para suprimir el menú contextual que se muestra antes de desplazarse!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac Users: ¡Su menú contextual será bloqueado! Para abrir el menú contextual, mantenga presionada la tecla \"MAYÚS\" o haga clic en el botón derecho."
+  },
+  "o_scroll_button_left": {
+    "message": "Botón izquierdo (experimental)"
+  },
+  "o_scroll_on_links": {
+    "message": "Desplazarse en los enlaces"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Cuando está habilitado, no podrá arrastrar y soltar enlaces (solo usando la tecla 'Deshabilitar')"
+  },
+  "o_scroll_on_text": {
+    "message": "Desplazarse por el texto"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emula el desplazamiento / edición del teléfono: debe hacer clic en el texto para cambiar al \"Modo de edición\". Al hacer clic en Fuera del texto, permite desplazarse de nuevo."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Desplazarse por Textarea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea es un bloque de texto, generalmente resizable. Por ejemplo, en la pestaña \"Deshabilitado en\", puede ver Textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Desplácese en HTML editable"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Por ejemplo, el cuerpo del correo electrónico en Gmail es editable HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "en el texto permitirá seleccionar / editar texto."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Haga clic en el texto Habilitará \"Modo de edición\". Haga clic en Texto externo para habilitar \"Modo de desplazamiento\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Un solo click"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Haga doble clic"
+  },
+  "o_scrollbars_width": {
+    "message": "Barras de desplazamiento."
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normal (sin cambios)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Delgada"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Oculta"
+  },
+  "o_scrollbars_color": {
+    "message": "Color deslizador de la barra de desplazamiento:"
+  },
+  "o_scrollbars_background": {
+    "message": "Color de fondo de la barra de desplazamiento:"
+  },
+  "o_reverse": {
+    "message": "Dirección de desplazamiento inversa"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Cambiar"
+  },
+  "o_disable_ctrl": {
+    "message": "Control"
+  },
+  "o_disable_type_0": {
+    "message": "Deshabilitar cuando la tecla está abajo:"
+  },
+  "o_disable_type_1": {
+    "message": "Habilitar cuando la tecla está abajo:"
+  },
+  "o_momentum": {
+    "message": "habilitar impulso: puede \"lanzar\" la página (como en el teléfono)"
+  },
+  "o_no_css_edit": {
+    "message": "No bloquee los iframes y no cambie el cursor al desplazarse"
+  },
+  "o_no_prevent_default": {
+    "message": "No bloquee la acción del botón predeterminado"
+  },
+  "o_auto_link_lock": {
+    "message": "Enlaces de bloqueo:"
+  },
+  "o_no_link_block": {
+    "message": "No bloquee el clic del mouse en el enlace después del movimiento"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Cuando empiezas a desplazarse en un enlace y luego terminas de desplazarse en el mismo enlace, el navegador abrirá el enlace. Esto generalmente no es el comportamiento deseado, por defecto, está bloqueado."
+  },
+  "o_page_weight_title": {
+    "message": "Esto controla qué tan 'pesado' es la página. Las páginas más pesadas tienen un impulso más largo."
+  },
+  "o_additional_speed_title": {
+    "message": "Puedes acelerar el impulso que indica la velocidad."
+  },
+  "o_additional_duration_title": {
+    "message": "Tiempo adicional para cada impulso."
+  },
+  "o_compute_from_last_title": {
+    "message": "La velocidad inicial del impulso se determina mediante la velocidad de desplazamiento justo antes de liberar el botón de desplazamiento."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "¿Cuánto tiempo tiene que estar quieto el mouse? Antes de soltar el botón de desplazamiento, para no activar el impulso."
+  },
+  "o_tracking_speed_title": {
+    "message": "Intervalo para medir la velocidad de desplazamiento actual."
+  },
+  "o_scrolling_area": {
+    "message": "Área de desplazamiento:"
+  },
+  "o_outside_area_width": {
+    "message": "Área de desplazamiento (0 - deshabilitado):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Mover su cursor Fuera del área de desplazamiento, revertirá la posición de desplazamiento. Se puede ver el mismo comportamiento al arrastrar una barra de desplazamiento."
+  },
+  "o_scroll_button_left_title": {
+    "message": "ADVERTENCIA: el soporte del botón izquierdo está utilizando la API de Firefox desaprobada que podría eliminarse en futuras versiones de Firefox."
+  },
+  "o_prevent_text_selection": {
+    "message": "Evitar la selección de texto al desplazarse con el botón izquierdo"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "En algunos dispositivos, el desplazamiento con el botón izquierdo del mouse también seleccionará texto en la página."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "No bloquee el menú contextual al intentar desplazarse de la página no desplazable"
+  },
+  "o_backup_restore": {
+    "message": "Configuración de copia de seguridad / restauración al archivo:"
+  },
+  "o_export_settings": {
+    "message": "Ajustes de exportación a un archivo"
+  },
+  "import_settings_button": {
+    "message": "Importar configuración desde $1 Archivo ..."
+  },
+  "import_finished": {
+    "message": "¡Restauración finalizada!"
+  },
+  "test_page_title": {
+    "message": "Prueba aquí tu configuración de desplazamiento"
+  },
+  "menu_options": {
+    "message": "Opciones"
+  },
+  "menu_visit_title": {
+    "message": "Visitar página principal"
+  },
+  "not_working": {
+    "message": "Discapacitado por su navegador web"
+  },
+  "disabled_by_user": {
+    "message": "Deshabilitado en este dominio"
+  },
+  "not_working_title": {
+    "message": "Su navegador bloqueará desplazamiento en este tipo de páginas:"
+  },
+  "not_working_body": {
+    "message": "Para habilitar ScrollAnywhere en las páginas \"Mozilla.org\", consulte este tutorial de YouTube"
+  },
+  "show_scrollbars": {
+    "message": "Mostrar barras de desplazamiento"
+  },
+  "show_scrollbars_title": {
+    "message": "Mostrar temporalmente las barras de desplazamiento"
+  },
+  "switch_on_off": {
+    "message": "Cambiar el complemento OFF / ON"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Si experimenta un retraso notable entre el botón de desplazamiento de presión y el desplazamiento inicial, intente habilitar esta opción. Sin embargo, no podrá desplazarse por \"iframes\", como algunos videos incorporados anteriormente o algunos anuncios."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Esto también se deshabilitará la opción para cambiar el cursor mientras se desplaza."
+  },
+  "o_helper_text_default_action": {
+    "message": "Útil en Linux para habilitar la pasta con el botón central."
+  },
+  "o_about_hello": {
+    "message": "Hola :)"
+  },
+  "o_about_intro": {
+    "message": "Me llamo Juraj Mäsiar y soy el creador de ScrollAnywhere."
+  },
+  "o_about_like_it": {
+    "message": "Si te gusta, por favor valóralo aquí:"
+  },
+  "o_about_dislike_it": {
+    "message": "Si no te gusta, por favor hazme saber el porqué a mi correo. Estoy implementando la mayoría de peticiones que recibo."
+  },
+  "o_disabled": {
+    "message": "No",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "Sí",
+    "common": true
+  },
+  "o_times": {
+    "message": "veces",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "píxeles",
+    "common": true
+  },
+  "o_items": {
+    "message": "artículos",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milisegundos",
+    "common": true
+  },
+  "label_working": {
+    "message": "trabajando...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Cerrar",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Por favor, considera apoyar mi trabajo a través de:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "una donación (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "contratarme (Patreon)",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "¡Muchas gracias!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "Página oficial:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contacto:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Informa de un problema:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Sólo puedo responder en Inglés y Eslovaco",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Redes sociales:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Salvar cambios y cerrar",
+    "common": true
+  },
+  "o_saved": {
+    "message": "¡Salvado!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Muy pronto",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Guardar cambios",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Política de privacidad",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Características recientemente añadidas:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Etiquetas:",
+    "common": true
+  }
+}

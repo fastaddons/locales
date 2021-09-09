@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "n'importe où, bouton, curseur, traînée, grab, traînée, grab et glisser, infini, gauche, milieu, élan, souris, mouvement, page, droite, faites défiler, page de défilement, barre de défilement, faites défiler, lancer"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Faites glisser la barre de défilement avec le bouton de la souris du milieu n'importe où sur la page. Soutient également le style \"saisir et faire glisser\"."
+  },
+  "field_int_default_value": {
+    "message": "Valeur par défaut: $1, min: $2, max: $3"
+  },
+  "field_set_default": {
+    "message": "Réinitialiser par défaut: $1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-Ons"
+  },
+  "firefox_store": {
+    "message": "Firefox Add-Ons"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "win_disable": {
+    "message": "Désactiver sur $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Désactiver le défilement horizontal sur $1"
+  },
+  "op_visit_home": {
+    "message": "Accueil"
+  },
+  "op_support_me": {
+    "message": "Aider ce projet"
+  },
+  "o_title": {
+    "message": "Options - $1"
+  },
+  "o_tab_general": {
+    "message": "Général"
+  },
+  "o_tab_momentum": {
+    "message": "Élan"
+  },
+  "o_tab_cursor": {
+    "message": "Le curseur"
+  },
+  "o_axis_locking": {
+    "message": "Axe verrouillage"
+  },
+  "o_tab_performance": {
+    "message": "Performance"
+  },
+  "o_tab_disabled_on": {
+    "message": "Handicapé sur"
+  },
+  "o_tab_advanced": {
+    "message": "Avancée"
+  },
+  "o_tab_scrollbars": {
+    "message": "Barres de défilement"
+  },
+  "o_tab_backup": {
+    "message": "Import / Sauvegarde"
+  },
+  "o_tab_about": {
+    "message": "À propos"
+  },
+  "o_axis_lock_helper": {
+    "message": "Lors du défilement d'une boîte défilable dans un axe, mais une boîte parente est défilable dans d'autres axes, verrouiller le défilement sur un axe en utilisant:"
+  },
+  "o_axis_lock_0": {
+    "message": "Serrure intelligente - verrouillage temporel à l'aide de l'élan"
+  },
+  "o_axis_lock_1": {
+    "message": "Strict Lock - Serrure de direction instantanée"
+  },
+  "o_axis_lock_2": {
+    "message": "Pas de défilement sans verrouillage dans les deux axes"
+  },
+  "o_trend_momentum_window": {
+    "message": "Taille de la pile de serrure intelligente"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "La valeur plus grande nécessitera davantage de défilement dans l'axe opposé pour modifier l'axe de défilement."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon est désactivé! Cliquez ici pour activer."
+  },
+  "o_cursor_change_default": {
+    "message": "pas de changement - Meilleure performance"
+  },
+  "o_scroll_button": {
+    "message": "Bouton de défilement:"
+  },
+  "o_direction_speed": {
+    "message": "Style de défilement / Direction / Vitesse:"
+  },
+  "o_multiplier": {
+    "message": "Multiplicateur"
+  },
+  "o_times_speed": {
+    "message": "fois vitesse de défilement"
+  },
+  "o_maximum_speed": {
+    "message": "Vitesse de défilement maximale (0 - Désactivé):"
+  },
+  "o_ratio_unit": {
+    "message": "rapport (Taille de la longueur de la page / de la fenêtre)"
+  },
+  "o_scroll_type_0": {
+    "message": "Émuler la barre de défilement"
+  },
+  "o_scroll_type_1": {
+    "message": "Attraper et traîner - comme sur un smartphone"
+  },
+  "o_scroll_type_2": {
+    "message": "Vitesse dynamique (expérimentale)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "C'est comme traîner une barre de défilement"
+  },
+  "o_scroll_type_title_1": {
+    "message": "C'est comme glisser une page avec votre doigt sur un écran de téléphone"
+  },
+  "o_scroll_type_title_2": {
+    "message": "La vitesse dynamique rend la vitesse de défilement plus lente lorsque la page est plus longue"
+  },
+  "o_disable_key": {
+    "message": "Désactiver / activer le défilement lorsque la touche est en panne:"
+  },
+  "o_momentum_category": {
+    "message": "Élan:"
+  },
+  "o_momentum_formula": {
+    "message": "Formule de l'élan:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Mouvement uniformément décéléré"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Le défilement de la page sera uniformément ralentie jusqu'à ce qu'il s'arrête"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Mouvement exponentiellement décéléré"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Le défilement de la page sera rapidement ralentissement (exponentiellement)"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Mouvement infini ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Le défilement ne cessera jamais"
+  },
+  "o_momentum_max_speed": {
+    "message": "Vitesse maximale (0 - Désactivé):"
+  },
+  "o_page_weight": {
+    "message": "Poids de la page:"
+  },
+  "o_grams": {
+    "message": "grammes :)"
+  },
+  "o_additional_speed": {
+    "message": "Vitesse supplémentaire:"
+  },
+  "o_pixels_second": {
+    "message": "pixels par seconde"
+  },
+  "o_additional_duration": {
+    "message": "Durée supplémentaire:"
+  },
+  "o_advanced_momentum": {
+    "message": "Configuration de l'élan avancé (pour les experts seulement!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Changer ces valeurs peut casser votre élan!"
+  },
+  "o_compute_from_last": {
+    "message": "Calculer du dernier:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Détection d'arrêt de la souris:"
+  },
+  "o_tracking_speed": {
+    "message": "Vitesse de suivi:"
+  },
+  "o_reset_values": {
+    "message": "Réinitialiser les valeurs"
+  },
+  "o_cursor_scrolling": {
+    "message": "Curseur utilisé lors du défilement:"
+  },
+  "o_performance": {
+    "message": "Performance:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Empêcher de gros sauts"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Si vous utilisez un outil capable de téléporter votre curseur sur l'écran (lorsque vous atteignez un bord), activez cette option pour permettre le défilement continu (infini)."
+  },
+  "o_advanced": {
+    "message": "Avancée:"
+  },
+  "o_movement_detection": {
+    "message": "Seuil de détection des mouvements de la souris:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Combien de pixels doivent faire passer la souris pour bloquer le lien. Parfois, lorsque vous appuyez sur le bouton de défilement, vous déplacez légèrement la souris, mais vous ne voulez pas que le lien soit désactivé à cause de cela."
+  },
+  "o_context_menu_block": {
+    "message": "Bloc de menu contextuel:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Débloquer le délai de menu contextuel"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Si vous voyez le menu contextuel après le défilement avec le bouton droit de la souris, augmentez cette valeur."
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Désactiver le défilement horizontal sur les domaines:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Désactivé dans les domaines:"
+  },
+  "o_is_disabled_url": {
+    "message": "Désactivé sur les pages / sous-pages:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Vous pouvez utiliser un symbole étoile (*) pour définir une partie URL, par exemple: \"google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Entrez un domaine par ligne."
+  },
+  "o_is_disabled": {
+    "message": "Désactiver l'add-on"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Utilisez l'icône de la barre d'outils comme interrupteur marche / arrêt principal"
+  },
+  "o_scroll_button_middle": {
+    "message": "Bouton du milieu"
+  },
+  "o_scroll_button_right": {
+    "message": "Bouton de droite"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Utilisateurs Linux / Mac - Vous serez invité à demander une nouvelle autorisation \"Lecture et MODIFY Réglage du navigateur\" - Ceci est nécessaire pour supprimer le menu contextuel étant affiché avant défilement!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Utilisateurs Linux / Mac - Votre menu contextuel sera bloqué! Pour ouvrir le menu contextuel, maintenez la touche \"Shift\" ou sur le bouton droit du triple-clic."
+  },
+  "o_scroll_button_left": {
+    "message": "Bouton gauche (expérimental)"
+  },
+  "o_scroll_on_links": {
+    "message": "Faites défiler les liens"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Lorsqu'il est activé, vous ne pourrez pas faire glisser et déposer des liens (uniquement en utilisant la touche \"Désactiver\")"
+  },
+  "o_scroll_on_text": {
+    "message": "Faites défiler le texte"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Émule le défilement / l'édition de téléphone - Vous devez cliquer sur le texte afin de passer en \"mode d'édition\". En cliquant en dehors du texte permet de faire défiler à nouveau."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Faites défiler la Texarea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea est un bloc de texte, généralement redimensionnable. Par exemple sur l'onglet \"Désactivé sur\", vous pouvez voir Textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Faites défiler sur HTML modifiable"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Par exemple, le corps de courrier électronique dans Gmail est modifitable HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "sur le texte permettra de sélectionner / éditer du texte."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Cliquez sur le texte activera \"Mode d'édition\". Cliquez sur le texte extérieur pour activer \"Mode de défilement\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Simple clic"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Double-cliquez"
+  },
+  "o_scrollbars_width": {
+    "message": "Les barres de défilement"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normal (pas de changement)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Mince"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Cachée"
+  },
+  "o_scrollbars_color": {
+    "message": "Couleur du curseur de barre de défilement:"
+  },
+  "o_scrollbars_background": {
+    "message": "Couleur de fond de barre de défilement:"
+  },
+  "o_reverse": {
+    "message": "Direction de défilement inverse"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Changement"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl"
+  },
+  "o_disable_type_0": {
+    "message": "Désactiver quand la clé est en panne:"
+  },
+  "o_disable_type_1": {
+    "message": "Activer quand la clé est en panne:"
+  },
+  "o_momentum": {
+    "message": "activer l'élan - vous pouvez \"lancer\" la page (comme sur le téléphone)"
+  },
+  "o_no_css_edit": {
+    "message": "Ne verrouillez pas les iframes et ne changez pas de curseur lors du défilement"
+  },
+  "o_no_prevent_default": {
+    "message": "Ne bloquez pas l'action du bouton par défaut"
+  },
+  "o_auto_link_lock": {
+    "message": "LIENS Blocage:"
+  },
+  "o_no_link_block": {
+    "message": "Ne bloquez pas le clic de la souris sur le lien après le mouvement"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Lorsque vous commencez à défiler sur un lien, puis vous avez terminé le défilement sur le même lien, le navigateur ouvrira le lien. Ce n'est généralement pas le comportement souhaité, il est donc bloqué par défaut."
+  },
+  "o_page_weight_title": {
+    "message": "Cela contrôle la \"lourde\" de la page. Pages plus lourdes a plus de dynamique."
+  },
+  "o_additional_speed_title": {
+    "message": "Vous pouvez accélérer la vitesse d'indication de l'élan."
+  },
+  "o_additional_duration_title": {
+    "message": "Temps supplémentaire pour chaque élan."
+  },
+  "o_compute_from_last_title": {
+    "message": "La vitesse initiale de l'élan est déterminée par la vitesse de défilement juste avant de relâcher le bouton de défilement."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Combien de temps a pour la souris rester immobile - avant de relâcher le bouton de défilement - pour ne pas activer l'élan."
+  },
+  "o_tracking_speed_title": {
+    "message": "Intervalle pour mesurer la vitesse de défilement actuelle."
+  },
+  "o_scrolling_area": {
+    "message": "Zone de défilement:"
+  },
+  "o_outside_area_width": {
+    "message": "Zone de défilement (0 - Désactivé):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Déplacement de votre curseur en dehors de la zone de défilement reviendra de la position de défilement. Le même comportement peut être vu lorsque vous faites glisser une barre de défilement."
+  },
+  "o_scroll_button_left_title": {
+    "message": "AVERTISSEMENT - Le support de bouton gauche utilise une API de Firefox obsolète pouvant être supprimée dans les versions futures de Firefox."
+  },
+  "o_prevent_text_selection": {
+    "message": "Empêcher la sélection du texte lors du défilement avec le bouton gauche"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Sur certains appareils, le défilement avec le bouton gauche de la souris sélectionnera également un texte sur la page."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Ne bloquez pas le menu contextuel lorsque vous essayez de faire défiler la page sans défilement."
+  },
+  "o_backup_restore": {
+    "message": "Sauvegarde / Restaurer les paramètres pour fichier:"
+  },
+  "o_export_settings": {
+    "message": "Exporter les paramètres dans un fichier"
+  },
+  "import_settings_button": {
+    "message": "Importer les paramètres de $1 fichier ..."
+  },
+  "import_finished": {
+    "message": "Import terminé!"
+  },
+  "test_page_title": {
+    "message": "Testez ici vos paramètres de défilement"
+  },
+  "menu_options": {
+    "message": "Options"
+  },
+  "menu_visit_title": {
+    "message": "Visiter la page d'acceuil"
+  },
+  "not_working": {
+    "message": "Désactivé par votre navigateur Web"
+  },
+  "disabled_by_user": {
+    "message": "Désactivé sur ce domaine"
+  },
+  "not_working_title": {
+    "message": "Votre navigateur bloquera Scrollywhere sur ces types de pages:"
+  },
+  "not_working_body": {
+    "message": "Pour activer Scrollywhere sur les pages \"Mozilla.org\", voir ce tutoriel YouTube"
+  },
+  "show_scrollbars": {
+    "message": "Montrer des barres de défilement"
+  },
+  "show_scrollbars_title": {
+    "message": "Montrer temporairement les barres de défilement"
+  },
+  "switch_on_off": {
+    "message": "Interrupteur add-on / marche"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Si vous rencontrez un délai perceptible entre le bouton de défilement appuyé et le démarrage du défilement, essayez d'activer cette option. Cependant, vous ne pourrez pas faire défiler des \"iframes\" tels que de vieilles vidéos intégrées ou certaines annonces."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Cela désactivera également l'option pour modifier le curseur lors du défilement."
+  },
+  "o_helper_text_default_action": {
+    "message": "Utile sous Linux pour activer la pâte avec le bouton central."
+  },
+  "o_about_hello": {
+    "message": "Bonjour :)"
+  },
+  "o_about_intro": {
+    "message": "Mon nom est Juraj Mäsiar et je suis l'auteur de ScrollAnywhere."
+  },
+  "o_about_like_it": {
+    "message": "Si l'add-on vous plaît, notez-le ici:"
+  },
+  "o_about_dislike_it": {
+    "message": "Si quelque-chose ne vous plaît pas, faites le moi savoir par email, j'implémente la plupart des requêtes d'ajouts d'options que je recois."
+  },
+  "o_disabled": {
+    "message": "inactif",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "actif",
+    "common": true
+  },
+  "o_times": {
+    "message": "fois",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels",
+    "common": true
+  },
+  "o_items": {
+    "message": "éléments",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "millisecondes",
+    "common": true
+  },
+  "label_working": {
+    "message": "travail...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Fermer",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Je vous prie d'envisager de supporter mon travail via",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donations (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "en devenant un de mes Patreons",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Merci!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "acceuil",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contact:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Signaler les problèmes:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Je ne peux répondre qu'en Anglais ou Slovaque",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Réseaux sociaux:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Sauver les changements et fermer",
+    "common": true
+  },
+  "o_saved": {
+    "message": "Sauvegarde réussie!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "En développement",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Sauver les changements",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Politique de confidentialité",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Fonctionnalités récemment ajoutées:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Mots clés:",
+    "common": true
+  }
+}

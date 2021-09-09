@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "data, IMDB, Descrição, Episódio, Baling, Gráfico, IMDB, Informação, Medidor, Filme, Filmes, Netflix, IMDB, Rating, Séries, Shows, TV, TV Show, Vídeo, Visual, Votos, Temporada"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "filme não encontrado / filme errado encontrado - já que não há integração \"oficial\" com páginas de destino, não posso garantir 100% de resultados corretos (mas na maioria dos casos funciona perfeitamente)"
+  },
+  "_description_mm_not_working": {
+    "message": "Não funciona na sua página de filme favorita?"
+  },
+  "_description_mm_add_support": {
+    "message": "Entre em contato comigo e eu adicionarei - se possível (a página deve conter o nome do filme em inglês ou $visit_imdb$ link)."
+  },
+  "_description_mm_feature_1": {
+    "message": "classificação de filmes e popularidade de $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "next / Episódio anterior Data de $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "informações adicionais da série de filmes / TV"
+  },
+  "_description_mm_feature_4": {
+    "message": "notificação sobre novo episódio"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark Series TV como favorito e você receberá notificação quando o novo episódio estiver disponível"
+  },
+  "_description_mm_feature_7": {
+    "message": "ocultar automaticamente quando a reprodução de vídeo detectada"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ mostrará a sua classificação e popularidade de um filme (ou série de TV)"
+  },
+  "name": {
+    "message": "Nome"
+  },
+  "year": {
+    "message": "Ano"
+  },
+  "video_type": {
+    "message": "Modelo"
+  },
+  "video_type_0": {
+    "message": "Filme"
+  },
+  "video_type_1": {
+    "message": "Series"
+  },
+  "video_type_2": {
+    "message": "Episódio"
+  },
+  "runtime": {
+    "message": "Tempo de execução"
+  },
+  "premiered": {
+    "message": "Pré estreia"
+  },
+  "premiere_in": {
+    "message": "Premiere In."
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "País"
+  },
+  "actors": {
+    "message": "Atrizes"
+  },
+  "dvd": {
+    "message": "DVD"
+  },
+  "director": {
+    "message": "Diretora"
+  },
+  "totalseasons": {
+    "message": "Total Seasons."
+  },
+  "writer": {
+    "message": "Escritora"
+  },
+  "language": {
+    "message": "Língua"
+  },
+  "awards": {
+    "message": "Prêmios"
+  },
+  "rated": {
+    "message": "Avaliada"
+  },
+  "production": {
+    "message": "Produção"
+  },
+  "plot": {
+    "message": "Trama"
+  },
+  "website": {
+    "message": "Local na rede Internet"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Visite $visit_imdb$ Página"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Visite $visit_tvmaze$ Página para este show"
+  },
+  "make_favorite": {
+    "message": "Favorita"
+  },
+  "make_favorite_title": {
+    "message": "Adicionar série de TV aos favoritos. Isso permitirá que você receba notificação sobre novos episódios."
+  },
+  "last_episode": {
+    "message": "Durar"
+  },
+  "next_episode": {
+    "message": "Próxima"
+  },
+  "last_episode_title": {
+    "message": "Último episódio"
+  },
+  "next_episode_title": {
+    "message": "Próximo episódio"
+  },
+  "episode_airtime": {
+    "message": "Tempo de antena"
+  },
+  "episode_name": {
+    "message": "Nome"
+  },
+  "series_status": {
+    "message": "Status"
+  },
+  "episodes_count": {
+    "message": "Episódios"
+  },
+  "episodes_count_title": {
+    "message": "Temporada atual $1 tem $2 episódios"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "dias"
+  },
+  "hours": {
+    "message": "horas"
+  },
+  "na": {
+    "message": "Não disponível"
+  },
+  "user_rating": {
+    "message": "Classificação de usuários: $1"
+  },
+  "user_popularity": {
+    "message": "Popularidade: $1 Votos"
+  },
+  "source": {
+    "message": "Fonte: $1"
+  },
+  "show_details": {
+    "message": "mais..."
+  },
+  "hide_details": {
+    "message": "menos..."
+  },
+  "save_position": {
+    "message": "Salvar posição"
+  },
+  "revert_position": {
+    "message": "Reverter a posição"
+  },
+  "win_disable": {
+    "message": "Desativar em $1"
+  },
+  "cm_advanced": {
+    "message": "Avançada"
+  },
+  "op_visit_home": {
+    "message": "Visite Homepage"
+  },
+  "op_support_me": {
+    "message": "Ajude este projeto"
+  },
+  "hide": {
+    "message": "Esconder janela."
+  },
+  "show": {
+    "message": "Mostrar janela"
+  },
+  "reset_position": {
+    "message": "Redefinir posição"
+  },
+  "search": {
+    "message": "Procurar"
+  },
+  "configure_search": {
+    "message": "Configurar opções de pesquisa"
+  },
+  "selection_search": {
+    "message": "Pesquisar $1."
+  },
+  "menu_options": {
+    "message": "Opções"
+  },
+  "menu_quick_options": {
+    "message": "Opções rápidas"
+  },
+  "menu_visit_homepage": {
+    "message": "Visite Homepage"
+  },
+  "menu_request_support": {
+    "message": "Solicitar suporte para $1"
+  },
+  "show_introduction": {
+    "message": "Mostrar página de introdução"
+  },
+  "o_about_issues": {
+    "message": "Questões de relatório:"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "firefox_store": {
+    "message": "Add-ons do Firefox"
+  },
+  "chrome_store": {
+    "message": "Loja online do Chrome"
+  },
+  "movie_not_detected": {
+    "message": "Filme não detectado"
+  },
+  "movie_not_detected_title": {
+    "message": "Nenhuma série de filmes / TV não foi detectada nesta página."
+  },
+  "movie_not_found": {
+    "message": "Filme não encontrado"
+  },
+  "movie_not_found_title": {
+    "message": "As informações do filme não foram encontradas no servidor."
+  },
+  "status_type_0": {
+    "message": "Corrida"
+  },
+  "status_type_1": {
+    "message": "Terminou"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Mostrar continuará"
+  },
+  "status_type_title_1": {
+    "message": "Show terminou - não há mais estações planejadas"
+  },
+  "status_type_title_2": {
+    "message": "Mostra futuro não é claro"
+  },
+  "notify_movie_not_found": {
+    "message": "Filme não encontrado: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Use o nome do filme em inglês apenas!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "A pesquisa não é perfeita ..."
+  },
+  "notify_video_hide": {
+    "message": "Vídeo detectado - $app_name$ agora está escondido"
+  },
+  "notify_video_hide_body": {
+    "message": "Clique aqui para não mostrar esta notificação novamente"
+  },
+  "notify_new_episodes": {
+    "message": "Novo episódio foi exibido"
+  },
+  "title_introduction": {
+    "message": "Introdução"
+  },
+  "supported_pages": {
+    "message": "Páginas suportadas:"
+  },
+  "supported_grows": {
+    "message": "(Esta lista cresce maior e maior)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "As informações de classificações e popularidade são de $1$. Informações sobre episódios são de $2$."
+  },
+  "title_got_it": {
+    "message": "Entendi, vamos começar!"
+  },
+  "_description_privacy_policy": {
+    "message": "Política de Privacidade"
+  },
+  "_description_recent_features": {
+    "message": "Recursos recentemente adicionados:"
+  },
+  "_description_known_issues": {
+    "message": "Problemas conhecidos:"
+  },
+  "_description_common_tags": {
+    "message": "Tag:"
+  },
+  "_description_features": {
+    "message": "Características:"
+  },
+  "about_me": {
+    "message": "Eu sou Addon Developer desde 2016. Meu objetivo é construir extensões poderosas para o seu navegador para torná-lo mais produtivo."
+  },
+  "about_good_job": {
+    "message": "Se você acha que estou fazendo um bom trabalho, por favor doe :)"
+  },
+  "about_income": {
+    "message": "Sua doação é minha única renda!"
+  },
+  "about_thanks": {
+    "message": "Obrigado por apoiar meu trabalho!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Transferência bancária usando o Iban:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Apoie o desenvolvedor independente!"
+  }
+}

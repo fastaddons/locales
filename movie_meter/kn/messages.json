@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "ದಿನಾಂಕ, IMDB, ವಿವರಣೆ, ಸಂಚಿಕೆ, ಗೇಜ್, ಗ್ರಾಫ್, ಐಎಮ್ಡಿಬಿ, ಮಾಹಿತಿ, ಮೀಟರ್, ಚಿತ್ರ, ಚಿತ್ರ, ಚಲನಚಿತ್ರಗಳು, ನೆಟ್ಫ್ಲಿಕ್ಸ್, ಐಎಮ್ಡಿಬಿ, ರೇಟಿಂಗ್, ಸರಣಿ, ಪ್ರದರ್ಶನಗಳು, ಟಿವಿ, ಟಿವಿ ಶೋ, ವಿಡಿಯೋ, ದೃಶ್ಯ, ಮತಗಳು, ಋತುವಿನಲ್ಲಿ"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "ಚಲನಚಿತ್ರ ಕಂಡುಬಂದಿಲ್ಲ / ತಪ್ಪು ಚಿತ್ರ ಕಂಡುಬಂದಿಲ್ಲ - ಏಕೆಂದರೆ ಗುರಿ ಪುಟಗಳೊಂದಿಗೆ ಯಾವುದೇ \"ಅಧಿಕೃತ\" ಏಕೀಕರಣವಿಲ್ಲ, ನಾನು 100% ಸರಿಯಾದ ಫಲಿತಾಂಶಗಳನ್ನು ಖಾತರಿಪಡಿಸುವುದಿಲ್ಲ (ಆದರೆ ಬಹುಪಾಲು ಪ್ರಕರಣಗಳಲ್ಲಿ ಇದು ಸಂಪೂರ್ಣವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ)"
+  },
+  "_description_mm_not_working": {
+    "message": "ನಿಮ್ಮ ಮೆಚ್ಚಿನ ಚಲನಚಿತ್ರ ಪುಟದಲ್ಲಿ ಕೆಲಸ ಮಾಡುವುದಿಲ್ಲವೇ?"
+  },
+  "_description_mm_add_support": {
+    "message": "ನನ್ನನ್ನು ಸಂಪರ್ಕಿಸಿ ಮತ್ತು ನಾನು ಅದನ್ನು ಸೇರಿಸುತ್ತೇನೆ - ಸಾಧ್ಯವಾದರೆ (ಪುಟವು ಇಂಗ್ಲಿಷ್ನಲ್ಲಿ ಅಥವಾ $visit_imdb$ ಲಿಂಕ್ನಲ್ಲಿ ಚಲನಚಿತ್ರ ಹೆಸರನ್ನು ಹೊಂದಿರಬೇಕು)."
+  },
+  "_description_mm_feature_1": {
+    "message": "ಚಲನಚಿತ್ರ ರೇಟಿಂಗ್ ಮತ್ತು ಜನಪ್ರಿಯತೆ $visit_imdb$ ರಿಂದ ಜನಪ್ರಿಯತೆ"
+  },
+  "_description_mm_feature_2": {
+    "message": "ಮುಂದಿನ / ಹಿಂದಿನ ಎಪಿಸೋಡ್ ದಿನಾಂಕ $visit_tvmaze$ ರಿಂದ"
+  },
+  "_description_mm_feature_3": {
+    "message": "ಹೆಚ್ಚುವರಿ ಚಲನಚಿತ್ರ / ಟಿವಿ ಸರಣಿ ಮಾಹಿತಿ"
+  },
+  "_description_mm_feature_4": {
+    "message": "ಹೊಸ ಎಪಿಸೋಡ್ ಬಗ್ಗೆ ಅಧಿಸೂಚನೆ"
+  },
+  "_description_mm_feature_5": {
+    "message": "ಮಾರ್ಕ್ ಟಿವಿ ಸರಣಿಯನ್ನು ಮೆಚ್ಚಿನ ಎಂದು ಮತ್ತು ಹೊಸ ಎಪಿಸೋಡ್ ಲಭ್ಯವಿರುವಾಗ ನೀವು ಅಧಿಸೂಚನೆಯನ್ನು ಪಡೆಯುತ್ತೀರಿ"
+  },
+  "_description_mm_feature_7": {
+    "message": "ವೀಡಿಯೊ ಪ್ಲೇಬ್ಯಾಕ್ ಪತ್ತೆಯಾದಾಗ ಸ್ವಯಂ ಮರೆಮಾಡಿ"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ ಚಿತ್ರದ ರೇಟಿಂಗ್ ಮತ್ತು ಜನಪ್ರಿಯತೆಯನ್ನು ತೋರಿಸುತ್ತದೆ (ಅಥವಾ ಟಿವಿ ಸರಣಿ)"
+  },
+  "name": {
+    "message": "ಹೆಸರು"
+  },
+  "year": {
+    "message": "ವರ್ಷ"
+  },
+  "video_type": {
+    "message": "ಮಾದರಿ"
+  },
+  "video_type_0": {
+    "message": "ಚಲನಚಿತ್ರ"
+  },
+  "video_type_1": {
+    "message": "ಸರಣಿ"
+  },
+  "video_type_2": {
+    "message": "ಸಂಚಿಕೆ"
+  },
+  "runtime": {
+    "message": "ಚಾಲನಾವಧಿ"
+  },
+  "premiered": {
+    "message": "ಪ್ರಥಮ ಪ್ರದರ್ಶನ"
+  },
+  "premiere_in": {
+    "message": "ಪ್ರೀಮಿಯರ್ ಇನ್"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "ದೇಶ"
+  },
+  "actors": {
+    "message": "ನಟರು"
+  },
+  "dvd": {
+    "message": "ಡಿವಿಡಿ"
+  },
+  "director": {
+    "message": "ನಿರ್ದೇಶಕ"
+  },
+  "totalseasons": {
+    "message": "ಒಟ್ಟು ಋತುಗಳು"
+  },
+  "writer": {
+    "message": "ಬರಹಗಾರ"
+  },
+  "language": {
+    "message": "ಭಾಷೆ"
+  },
+  "awards": {
+    "message": "ಪ್ರಶಸ್ತಿಗಳು"
+  },
+  "rated": {
+    "message": "ರೇಟೆಡ್"
+  },
+  "production": {
+    "message": "ಉತ್ಪಾದನೆ"
+  },
+  "plot": {
+    "message": "ಕಥಾವಸ್ತು"
+  },
+  "website": {
+    "message": "ಜಾಲತಾಣ"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "$visit_imdb$ ಪುಟವನ್ನು ಭೇಟಿ ಮಾಡಿ"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "ಈ ಪ್ರದರ್ಶನಕ್ಕಾಗಿ $visit_tvmaze$ ಪುಟವನ್ನು ಭೇಟಿ ಮಾಡಿ"
+  },
+  "make_favorite": {
+    "message": "ನೆಚ್ಚಿನ"
+  },
+  "make_favorite_title": {
+    "message": "ಮೆಚ್ಚಿನವುಗಳಿಗೆ ಟಿವಿ ಸರಣಿಯನ್ನು ಸೇರಿಸಿ. ಇದು ನಿಮಗೆ ಹೊಸ ಕಂತುಗಳ ಬಗ್ಗೆ ಅಧಿಸೂಚನೆಯನ್ನು ಸ್ವೀಕರಿಸಲು ಅನುಮತಿಸುತ್ತದೆ."
+  },
+  "last_episode": {
+    "message": "ಕೊನೆಯ"
+  },
+  "next_episode": {
+    "message": "ಮುಂದಿನ"
+  },
+  "last_episode_title": {
+    "message": "ಕೊನೆಯ ಎಪಿಸೋಡ್"
+  },
+  "next_episode_title": {
+    "message": "ಮುಂದಿನ ಸಂಚಿಕೆ"
+  },
+  "episode_airtime": {
+    "message": "ವಾಯುಮಂಡಲ"
+  },
+  "episode_name": {
+    "message": "ಹೆಸರು"
+  },
+  "series_status": {
+    "message": "ಸ್ಥಿತಿ"
+  },
+  "episodes_count": {
+    "message": "ಕಂತುಗಳು"
+  },
+  "episodes_count_title": {
+    "message": "ಪ್ರಸ್ತುತ ಋತುವಿನಲ್ಲಿ $1 ಹೊಂದಿದೆ $2 ಕಂತುಗಳು"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "ದಿನಗಳು"
+  },
+  "hours": {
+    "message": "ಗಂಟೆಗಳು"
+  },
+  "na": {
+    "message": "ಲಭ್ಯವಿಲ್ಲ"
+  },
+  "user_rating": {
+    "message": "ಬಳಕೆದಾರ ರೇಟಿಂಗ್: $1"
+  },
+  "user_popularity": {
+    "message": "ಜನಪ್ರಿಯತೆ: $1 ಮತಗಳು"
+  },
+  "source": {
+    "message": "ಮೂಲ: $1"
+  },
+  "show_details": {
+    "message": "ಇನ್ನಷ್ಟು ..."
+  },
+  "hide_details": {
+    "message": "ಕಡಿಮೆ..."
+  },
+  "save_position": {
+    "message": "ಸ್ಥಾನ ಉಳಿಸಿ"
+  },
+  "revert_position": {
+    "message": "ಸ್ಥಾನವನ್ನು ಹಿಂದಿರುಗಿಸಿ"
+  },
+  "win_disable": {
+    "message": "$1 ರಂದು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
+  },
+  "cm_advanced": {
+    "message": "ಮುಂದುವರಿದ"
+  },
+  "op_visit_home": {
+    "message": "ಮುಖಪುಟಕ್ಕೆ ಭೇಟಿ ನೀಡಿ"
+  },
+  "op_support_me": {
+    "message": "ಈ ಯೋಜನೆಗೆ ಸಹಾಯ ಮಾಡಿ"
+  },
+  "hide": {
+    "message": "ಮರೆಮಾಡಿ"
+  },
+  "show": {
+    "message": "ತೋರಿಸು"
+  },
+  "reset_position": {
+    "message": "ಸ್ಥಾನ ಮರುಹೊಂದಿಸಿ"
+  },
+  "search": {
+    "message": "ಹುಡುಕಿ Kannada"
+  },
+  "configure_search": {
+    "message": "ಹುಡುಕಾಟ ಆಯ್ಕೆಗಳನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಿ"
+  },
+  "selection_search": {
+    "message": "ಹುಡುಕು $1"
+  },
+  "menu_options": {
+    "message": "ಆಯ್ಕೆಗಳು"
+  },
+  "menu_quick_options": {
+    "message": "ತ್ವರಿತ ಆಯ್ಕೆಗಳು"
+  },
+  "menu_visit_homepage": {
+    "message": "ಮುಖಪುಟಕ್ಕೆ ಭೇಟಿ ನೀಡಿ"
+  },
+  "menu_request_support": {
+    "message": "$1 ಗಾಗಿ ವಿನಂತಿಯನ್ನು ವಿನಂತಿಸಿ"
+  },
+  "show_introduction": {
+    "message": "ಪರಿಚಯ ಪುಟವನ್ನು ತೋರಿಸಿ"
+  },
+  "o_about_issues": {
+    "message": "ವರದಿ ಸಮಸ್ಯೆಗಳನ್ನು ವರದಿ ಮಾಡಿ:"
+  },
+  "safari_store": {
+    "message": "ಮ್ಯಾಕ್ ಆಪ್ ಸ್ಟೋರ್"
+  },
+  "firefox_store": {
+    "message": "ಫೈರ್ಫಾಕ್ಸ್ ಆಡ್-ಆನ್ಗಳು"
+  },
+  "chrome_store": {
+    "message": "ಕ್ರೋಮ್ ವೆಬ್ ಅಂಗಡಿ"
+  },
+  "movie_not_detected": {
+    "message": "ಚಲನಚಿತ್ರ ಪತ್ತೆಯಾಗಿಲ್ಲ"
+  },
+  "movie_not_detected_title": {
+    "message": "ಈ ಪುಟದಲ್ಲಿ ಯಾವುದೇ ಚಲನಚಿತ್ರ / ಟಿವಿ ಸರಣಿಯನ್ನು ಕಂಡುಹಿಡಿಯಲಾಗಲಿಲ್ಲ."
+  },
+  "movie_not_found": {
+    "message": "ಚಲನಚಿತ್ರ ಕಂಡುಬಂದಿಲ್ಲ"
+  },
+  "movie_not_found_title": {
+    "message": "ಮೂವಿ ಮಾಹಿತಿ ಸರ್ವರ್ನಲ್ಲಿ ಕಂಡುಬಂದಿಲ್ಲ."
+  },
+  "status_type_0": {
+    "message": "ರನ್ನಿಂಗ್"
+  },
+  "status_type_1": {
+    "message": "ಕೊನೆಗೊಂಡಿತು"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "ಶೋ ಮುಂದುವರಿಯುತ್ತದೆ"
+  },
+  "status_type_title_1": {
+    "message": "ಪ್ರದರ್ಶನ ಕೊನೆಗೊಂಡಿದೆ - ಯಾವುದೇ ಋತುಗಳು ಯೋಜಿಸಿಲ್ಲ"
+  },
+  "status_type_title_2": {
+    "message": "ಭವಿಷ್ಯವು ಅಸ್ಪಷ್ಟವಾಗಿದೆ ಎಂದು ತೋರಿಸುತ್ತದೆ"
+  },
+  "notify_movie_not_found": {
+    "message": "ಚಲನಚಿತ್ರ ಕಂಡುಬಂದಿಲ್ಲ: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "ಇಂಗ್ಲೀಷ್ ಚಲನಚಿತ್ರ ಹೆಸರನ್ನು ಮಾತ್ರ ಬಳಸಿ!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "ಹುಡುಕಾಟವು ಪರಿಪೂರ್ಣವಲ್ಲ ..."
+  },
+  "notify_video_hide": {
+    "message": "ವೀಡಿಯೊ ಪತ್ತೆಯಾಗಿದೆ - $app_name$ ಈಗ ಮರೆಮಾಡಲಾಗಿದೆ"
+  },
+  "notify_video_hide_body": {
+    "message": "ಈ ಅಧಿಸೂಚನೆಯನ್ನು ಮತ್ತೆ ತೋರಿಸಬೇಡ ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ"
+  },
+  "notify_new_episodes": {
+    "message": "ಹೊಸ ಎಪಿಸೋಡ್ ಪ್ರಸಾರವಾಯಿತು"
+  },
+  "title_introduction": {
+    "message": "ಪರಿಚಯ"
+  },
+  "supported_pages": {
+    "message": "ಬೆಂಬಲಿತ ಪುಟಗಳು:"
+  },
+  "supported_grows": {
+    "message": "(ಈ ಪಟ್ಟಿಯು ದೊಡ್ಡ ಮತ್ತು ದೊಡ್ಡದಾಗಿ ಬೆಳೆಯುತ್ತದೆ)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "ರೇಟಿಂಗ್ಗಳು ಮತ್ತು ಜನಪ್ರಿಯತೆ ಮಾಹಿತಿ $1$ ರಿಂದ ಬಂದಿದೆ. ಕಂತುಗಳ ಬಗ್ಗೆ ಮಾಹಿತಿ $2$ ರಿಂದ."
+  },
+  "title_got_it": {
+    "message": "ಸಿಕ್ಕಿತು, ಪ್ರಾರಂಭಿಸೋಣ!"
+  },
+  "_description_privacy_policy": {
+    "message": "ಗೌಪ್ಯತಾ ನೀತಿ"
+  },
+  "_description_recent_features": {
+    "message": "ಇತ್ತೀಚೆಗೆ ಸೇರಿಸಲಾಗಿದೆ ವೈಶಿಷ್ಟ್ಯಗಳು:"
+  },
+  "_description_known_issues": {
+    "message": "ತಿಳಿದಿರುವ ಸಮಸ್ಯೆಗಳು:"
+  },
+  "_description_common_tags": {
+    "message": "ಟ್ಯಾಗ್ಗಳು:"
+  },
+  "_description_features": {
+    "message": "ವೈಶಿಷ್ಟ್ಯಗಳು:"
+  },
+  "about_me": {
+    "message": "ನಾನು 2016 ರಿಂದ Addon ಡೆವಲಪರ್ ಆಗಿದ್ದೇನೆ. ನಿಮ್ಮ ವೆಬ್ ಬ್ರೌಸರ್ಗಾಗಿ ಪ್ರಬಲ ವಿಸ್ತರಣೆಗಳನ್ನು ನಿರ್ಮಿಸುವುದು ನನ್ನ ಗುರಿಯಾಗಿದೆ."
+  },
+  "about_good_job": {
+    "message": "ನಾನು ಒಳ್ಳೆಯ ಕೆಲಸವನ್ನು ಮಾಡುತ್ತಿದ್ದೇನೆ ಎಂದು ನೀವು ಭಾವಿಸಿದರೆ, ದಯವಿಟ್ಟು ದಾನ :)"
+  },
+  "about_income": {
+    "message": "ನಿಮ್ಮ ಕೊಡುಗೆ ನನ್ನ ಏಕೈಕ ಆದಾಯ!"
+  },
+  "about_thanks": {
+    "message": "ನನ್ನ ಕೆಲಸವನ್ನು ಬೆಂಬಲಿಸಿದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು!"
+  },
+  "o_about_support_by_iban": {
+    "message": "ಬ್ಯಾಂಕ್ ವರ್ಗಾವಣೆ ಐಬಿಎಎನ್ ಬಳಸಿ:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "ಸ್ವತಂತ್ರ ಡೆವಲಪರ್ ಬೆಂಬಲ!"
+  }
+}

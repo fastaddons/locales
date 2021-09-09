@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Übersetzen Sie den ausgewählten Text (aus Kontextmenü)"
+  },
+  "_description_feature_2": {
+    "message": "Ganze Seite Übersetzung"
+  },
+  "_description_feature_3": {
+    "message": "Dark-Modus!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, Dunkel, E-Mail, Google, Lang, Sprache, Microsoft, Seite, Preklad, Prekladač, S3, Selektion, Text, Tradeur, Übersetzen, Übersetzer, Übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ ist ein einfach zu bedienender Übersetzer für Ihren Webbrowser / Thunderbird!"
+  },
+  "o_tab_translate": {
+    "message": "Übersetzen"
+  },
+  "_description_supported_translators": {
+    "message": "Unterstützte Übersetzungsanbieter:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Modales Fenster"
+  },
+  "open_in_1": {
+    "message": "Pop-up-Fenster"
+  },
+  "open_in_2": {
+    "message": "Neue Registerkarte"
+  },
+  "open_in_3": {
+    "message": "Neues Fenster"
+  },
+  "open_in_4": {
+    "message": "Neue Registerkarte (ohne Container)"
+  },
+  "modal_window": {
+    "message": "Modales Fenster"
+  },
+  "toolbar_icon_action": {
+    "message": "Funktionsleistensymbolaktion"
+  },
+  "toolbar_icon_text": {
+    "message": "Symbolleistensymboltext."
+  },
+  "sidebar_size": {
+    "message": "Seitenleistengröße"
+  },
+  "translation_provider": {
+    "message": "Übersetzungsanbieter"
+  },
+  "translate_to": {
+    "message": "Übersetzen ins:"
+  },
+  "no_overlay": {
+    "message": "Keine Überlagerung (der umliegende dunkle Bereich)"
+  },
+  "no_overlay_hint": {
+    "message": "Das modale Fenster bleibt geöffnet, auch wenn Sie nach draußen klicken."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Offene Übersetzung in:"
+  },
+  "fallback_1": {
+    "message": "Fallback-Methode"
+  },
+  "fallback_2": {
+    "message": "Fallback-Methode"
+  },
+  "fallback_title": {
+    "message": "Das modale Fenster und das Popup-Fenster können in einigen Fällen nicht verwendet werden."
+  },
+  "open_in_tab": {
+    "message": "In neuem Tab öffnen"
+  },
+  "translate_this_page": {
+    "message": "Übersetze diese Seite"
+  },
+  "selection_translate": {
+    "message": "Übersetzen Sie \"$1\""
+  },
+  "page_translate": {
+    "message": "Seite übersetzen"
+  },
+  "selected_text": {
+    "message": "ausgewählter text"
+  },
+  "disable_context_menu": {
+    "message": "Kontextmenü deaktivieren: \"$1\""
+  },
+  "import_finished": {
+    "message": "Import beendet!"
+  },
+  "import_error": {
+    "message": "Fehler"
+  },
+  "import_backup_file": {
+    "message": "Importieren Sie die Sicherungsdatei $1"
+  },
+  "search_search": {
+    "message": "Suche"
+  },
+  "homepage": {
+    "message": "Startseite"
+  },
+  "addon_page": {
+    "message": "Addon-Seite"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Chrome WebStore-Seite"
+  },
+  "firefox_store": {
+    "message": "Firefox AddOn-Seite"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-Ons"
+  },
+  "label_font_size": {
+    "message": "Schriftgröße"
+  },
+  "label_next": {
+    "message": "Weiter"
+  },
+  "label_note": {
+    "message": "Hinweis:"
+  },
+  "label_remove": {
+    "message": "Entfernen"
+  },
+  "label_warning": {
+    "message": "WARNUNG:"
+  },
+  "label_default": {
+    "message": "Standard:"
+  },
+  "label_done": {
+    "message": "Fertig!"
+  },
+  "label_copied": {
+    "message": "Kopiert!"
+  },
+  "label_close": {
+    "message": "Schließen"
+  },
+  "label_open_page": {
+    "message": "Seite öffnen"
+  },
+  "label_agree": {
+    "message": "Zustimmen"
+  },
+  "label_cancel": {
+    "message": "Abbrechen"
+  },
+  "op_support_me": {
+    "message": "Diesem Projekt helfen"
+  },
+  "support_developer": {
+    "message": "Unterstützen Sie unabhängige Entwickler!"
+  },
+  "hello_there": {
+    "message": "Hallo!"
+  },
+  "about_me": {
+    "message": "Ich bin seit 2016 Addon-Entwickler und mein Ziel ist es, großartige Erweiterungen für Ihren Webbrowser zu erstellen, um Sie produktiver zu machen."
+  },
+  "about_good_job": {
+    "message": "Wenn Sie denken, ich mache einen guten Job, spende bitte :)"
+  },
+  "about_income": {
+    "message": "Ihre Spende ist mein einziges Einkommen!"
+  },
+  "about_thanks": {
+    "message": "Vielen Dank für die Unterstützung meiner Arbeit!"
+  },
+  "o_tab_context_menu": {
+    "message": "Kontextmenü"
+  },
+  "o_tab_about": {
+    "message": "Über"
+  },
+  "o_tab_settings": {
+    "message": "Einstellungen"
+  },
+  "o_pixels": {
+    "message": "Pixel"
+  },
+  "o_seconds": {
+    "message": "Sekunden"
+  },
+  "label_or": {
+    "message": "oder"
+  },
+  "o_about_hello": {
+    "message": "Hallo :-)"
+  },
+  "o_about_intro": {
+    "message": "Mein Name ist $1$ und ich bin der Autor von $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Wenn es Ihnen gefällt, bewerten Sie es bitte hier:"
+  },
+  "o_about_thanks": {
+    "message": "Vielen Dank!"
+  },
+  "o_about_contact": {
+    "message": "Kontakt:"
+  },
+  "o_about_issues": {
+    "message": "Probleme melden:"
+  },
+  "o_about_social_media": {
+    "message": "SocialMedia:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Banküberweisung mit IBAN:"
+  },
+  "ps_no_results": {
+    "message": "Keine passenden Ergebnisse"
+  },
+  "label_no_data": {
+    "message": "Keine Daten"
+  },
+  "dark_mode": {
+    "message": "Dunkler Modus"
+  },
+  "dark_mode_system": {
+    "message": "Vom System gesteuert"
+  },
+  "_description_features": {
+    "message": "Eigenschaften:"
+  },
+  "_description_why": {
+    "message": "Warum?"
+  },
+  "_description_privacy_policy": {
+    "message": "Datenschutz-Bestimmungen"
+  },
+  "_description_recent_features": {
+    "message": "Kürzlich hinzugefügte Funktionen:"
+  },
+  "_description_common_tags": {
+    "message": "Stichworte:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Auch für Ihr Firefox erhältlich:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Erhältlich auch für Ihren Thunderbird:"
+  }
+}

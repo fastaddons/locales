@@ -1,0 +1,341 @@
+{
+  "_description_feature_1": {
+    "message": ""
+  },
+  "_description_feature_2": {
+    "message": ""
+  },
+  "_description_tags_pn": {
+    "message": ""
+  },
+  "app_name": {
+    "message": "Private Notes"
+  },
+  "app_desc": {
+    "message": ""
+  },
+  "compression_level_0": {
+    "message": ""
+  },
+  "compression_level_1": {
+    "message": ""
+  },
+  "compression_level_2": {
+    "message": ""
+  },
+  "compression_level_info_0": {
+    "message": ""
+  },
+  "compression_level_info_1": {
+    "message": ""
+  },
+  "compression_level_info_2": {
+    "message": ""
+  },
+  "title_notes": {
+    "message": ""
+  },
+  "restore_backup": {
+    "message": ""
+  },
+  "create_new_note": {
+    "message": ""
+  },
+  "auto_locking_strategy_0": {
+    "message": ""
+  },
+  "auto_locking_strategy_1": {
+    "message": ""
+  },
+  "restore_note": {
+    "message": ""
+  },
+  "locked": {
+    "message": ""
+  },
+  "change_master_password": {
+    "message": ""
+  },
+  "import_export": {
+    "message": ""
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "notes_auto_saved_placeholder": {
+    "message": ""
+  },
+  "setup_new_pwd": {
+    "message": ""
+  },
+  "change_pwd": {
+    "message": ""
+  },
+  "pwd_to_change": {
+    "message": ""
+  },
+  "current_pwd": {
+    "message": ""
+  },
+  "new_pwd_advice": {
+    "message": ""
+  },
+  "repeat_pwd": {
+    "message": ""
+  },
+  "hint_pwd": {
+    "message": ""
+  },
+  "pwd_warning": {
+    "message": ""
+  },
+  "remember_pwd_0": {
+    "message": ""
+  },
+  "remember_pwd_1": {
+    "message": ""
+  },
+  "remember_pwd_2": {
+    "message": ""
+  },
+  "pwd_save": {
+    "message": ""
+  },
+  "error_saving_note": {
+    "message": ""
+  },
+  "quota_bytes_per_item": {
+    "message": ""
+  },
+  "quota_bytes": {
+    "message": ""
+  },
+  "max_items": {
+    "message": ""
+  },
+  "max_write_operations_per_hour": {
+    "message": ""
+  },
+  "max_write_operations_per_minute": {
+    "message": ""
+  },
+  "security": {
+    "message": ""
+  },
+  "visual_options": {
+    "message": ""
+  },
+  "compression_level": {
+    "message": ""
+  },
+  "auto_locking_strategy": {
+    "message": ""
+  },
+  "auto_lock_inactive_for": {
+    "message": ""
+  },
+  "dense_notes_list": {
+    "message": ""
+  },
+  "import_replace_all": {
+    "message": ""
+  },
+  "export_encrypted": {
+    "message": ""
+  },
+  "minutes": {
+    "message": ""
+  },
+  "label_font_size": {
+    "message": "Розмір шрифту"
+  },
+  "sidebar_size": {
+    "message": ""
+  },
+  "popup_window_width": {
+    "message": ""
+  },
+  "popup_window_height": {
+    "message": ""
+  },
+  "always_open_in_new_tab": {
+    "message": ""
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Сторінка Веб-магазину Chrome"
+  },
+  "firefox_store": {
+    "message": "Сторінка додатків Firefox"
+  },
+  "import_finished": {
+    "message": "Імпортування закінчено!"
+  },
+  "import_error": {
+    "message": "Помилка"
+  },
+  "import_backup_file": {
+    "message": "Імпорт файлу резервної копії $1"
+  },
+  "search_search": {
+    "message": "Пошук"
+  },
+  "title_import": {
+    "message": "Імпортувати"
+  },
+  "title_export": {
+    "message": "Експорт"
+  },
+  "title_backups": {
+    "message": ""
+  },
+  "homepage": {
+    "message": "Домашня сторінка"
+  },
+  "addon_page": {
+    "message": "Сторінка доповнення"
+  },
+  "settings": {
+    "message": ""
+  },
+  "options": {
+    "message": ""
+  },
+  "label_backups": {
+    "message": ""
+  },
+  "label_rename": {
+    "message": ""
+  },
+  "label_download": {
+    "message": ""
+  },
+  "label_delete": {
+    "message": ""
+  },
+  "label_next": {
+    "message": "Далі"
+  },
+  "label_note": {
+    "message": "Примітка:"
+  },
+  "label_remove": {
+    "message": "Вилучити"
+  },
+  "label_warning": {
+    "message": "УВАГА:"
+  },
+  "label_default": {
+    "message": "Типово:"
+  },
+  "label_done": {
+    "message": "Зроблено!"
+  },
+  "label_copied": {
+    "message": "Скопійовано!"
+  },
+  "label_close": {
+    "message": "Зачинити"
+  },
+  "label_open_page": {
+    "message": "Відкрити сторінку"
+  },
+  "label_agree": {
+    "message": "Згода"
+  },
+  "label_cancel": {
+    "message": "Скасувати"
+  },
+  "op_support_me": {
+    "message": "Допомогти цьому проекту"
+  },
+  "support_developer": {
+    "message": "Підтримайте незалежного розробника!"
+  },
+  "hello_there": {
+    "message": "Привіт!"
+  },
+  "about_me": {
+    "message": "Я розробник доповнень з 2016 року. Моя мета - створити якісні доповнення для браузерів, які зроблять Вашу робот"
+  },
+  "about_good_job": {
+    "message": "Якщо ви думаєте, що я роблю добру справу, будь ласка, підтримайте :)"
+  },
+  "about_income": {
+    "message": "Ваша пожертва - це мій єдиний прибуток!"
+  },
+  "about_thanks": {
+    "message": "Дякую за підтримку моєї роботи!"
+  },
+  "o_tab_context_menu": {
+    "message": "Контекстне меню"
+  },
+  "o_tab_about": {
+    "message": "Про додаток"
+  },
+  "o_pixels": {
+    "message": "пікселів"
+  },
+  "o_seconds": {
+    "message": "секунд"
+  },
+  "label_or": {
+    "message": "або ж"
+  },
+  "o_about_hello": {
+    "message": "Привіт :)"
+  },
+  "o_about_intro": {
+    "message": "Мене звуть $1$, і я автор $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Якщо Вам подобається додаток, будь ласка, оцініть його тут:"
+  },
+  "o_about_thanks": {
+    "message": "Дякую!"
+  },
+  "o_about_contact": {
+    "message": "Контакти:"
+  },
+  "o_about_issues": {
+    "message": "Звітувати про помилку:"
+  },
+  "o_about_social_media": {
+    "message": "Соціальні мережі:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Банківський переказ за допомогою IBAN:"
+  },
+  "used_space": {
+    "message": "Використано сховища: $1 / $2"
+  },
+  "ps_no_results": {
+    "message": "Немає відповідних результатів"
+  },
+  "label_no_data": {
+    "message": "Немає даних"
+  },
+  "dark_mode": {
+    "message": "Темний режим"
+  },
+  "dark_mode_system": {
+    "message": "Контролюється системою"
+  },
+  "open_in_new_tab": {
+    "message": "Відкрити в новій вкладці"
+  },
+  "_description_features": {
+    "message": ""
+  },
+  "_description_privacy_policy": {
+    "message": "Політика конфіденційності"
+  },
+  "_description_recent_features": {
+    "message": "Нещодавно додані функції:"
+  },
+  "_description_common_tags": {
+    "message": "Теги:"
+  }
+}

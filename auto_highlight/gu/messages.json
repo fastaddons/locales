@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "કેટલીકવાર પૃષ્ઠ હમણાં જ સારી રીતે ડિઝાઇન કરવામાં આવ્યું નથી અને તમે જે માહિતી શોધી રહ્યાં છો તે પૂરતી દેખાતી નથી."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "સામાન્ય ઉપયોગ-કેસો:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "મેટાડેટાને હાઇલાઇટ કરો:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "હાઇલાઇટ કરો \"ફ્રી શિપિંગ\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "શું તમે વેબ પર વિશિષ્ટ કંઈક શોધી રહ્યા છો? બધા પૃષ્ઠો પર તમને શોધવામાં તમારી સહાય કરવા માટે \"અસ્થાયી હાઇલાઇટ\" નો ઉપયોગ કરો. જ્યારે તમે તમારું બ્રાઉઝર બંધ કરો છો ત્યારે ટેમ્પોરલ હાઇલાઇટ્સ સ્વતઃ-કાઢી નાખવામાં આવે છે."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "તમે ફૉન્ટ-કદને શૂન્ય સુધી અથવા તેમને પારદર્શક બનાવીને શબ્દો પણ છુપાવી શકો છો."
+  },
+  "_description_tags_ah": {
+    "message": "હાઇલાઇટ, માર્ક, મેટાડેટા, મૂવી, સ્વચાલિત, ટેક્સ્ટ, સિંક્રનાઇઝેશન, પસંદગી, શોધ"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ વ્યાખ્યાયિત પૃષ્ઠો પર આપમેળે વ્યાખ્યાયિત શબ્દો પ્રકાશિત કરશે."
+  },
+  "match_type": {
+    "message": "મેચ પ્રકાર:"
+  },
+  "match_type_0": {
+    "message": "ડોમેન છે"
+  },
+  "match_type_1": {
+    "message": "URL છે"
+  },
+  "match_type_2": {
+    "message": "યુઆરએલ સમાવે છે"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "દરેક પૃષ્ઠ"
+  },
+  "selection_highlight": {
+    "message": "હાઇલાઇટ $1"
+  },
+  "selection_temp": {
+    "message": "અસ્થાયી રૂપે $1 ને હાઇલાઇટ કરો"
+  },
+  "selection_temp_everywhere": {
+    "message": "અસ્થાયી રૂપે દરેક જગ્યાએ $1 ને હાઇલાઇટ કરો"
+  },
+  "page_highlight": {
+    "message": "$app_name$ આ પૃષ્ઠ પર"
+  },
+  "toolbar_click_new_tab": {
+    "message": "હંમેશાં નવા ટૅબમાં ખોલો - ટૂલબાર આયકનને ક્લિક કરતી વખતે"
+  },
+  "disable_rule": {
+    "message": "અક્ષમ"
+  },
+  "temporal_rule": {
+    "message": "કાળગ્રસ્ત"
+  },
+  "each_word": {
+    "message": "દરેક શબ્દ"
+  },
+  "rules": {
+    "message": "નિયમો"
+  },
+  "delete": {
+    "message": "કાઢી નાખો"
+  },
+  "rename": {
+    "message": "નામ બદલવું"
+  },
+  "duplicate": {
+    "message": "ડુપ્લિકેટ"
+  },
+  "delete_rule": {
+    "message": "રદ કરવું"
+  },
+  "delete_rule_title": {
+    "message": "નિયમ \"$1\" કાઢી નાખો?"
+  },
+  "on_pages": {
+    "message": "પૃષ્ઠો પર"
+  },
+  "disabled_rule": {
+    "message": "અપંગ નિયમ"
+  },
+  "incomplete_rule": {
+    "message": "અપૂર્ણ નિયમ"
+  },
+  "active_on_current_page": {
+    "message": "વર્તમાન પૃષ્ઠ પર સક્રિય"
+  },
+  "temporal_rule_helper": {
+    "message": "ટેમ્પોરલ નિયમ - બ્રાઉઝરને ફરીથી પ્રારંભ કર્યા પછી કાઢી નાખવામાં આવશે"
+  },
+  "active_on_pages": {
+    "message": "પૃષ્ઠો પર સક્રિય:"
+  },
+  "highlight_each_word_separately": {
+    "message": "દરેક શબ્દને અલગથી પ્રકાશિત કરો"
+  },
+  "case_sensitive": {
+    "message": "સંવેદનશીલ કેસ"
+  },
+  "ignore_diacritics": {
+    "message": "ડાયાક્રિટિક્સ અવગણો"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "નિયમિત સમીકરણ"
+  },
+  "across_elements": {
+    "message": "સમગ્ર તત્વો"
+  },
+  "across_elements_help": {
+    "message": "પાડોશી HTML તત્વોમાં ટેક્સ્ટ માટે શોધો"
+  },
+  "style": {
+    "message": "પ્રકાર"
+  },
+  "preview": {
+    "message": "પૂર્વાવલોકન:"
+  },
+  "empty_rule": {
+    "message": "ખાલી નિયમ"
+  },
+  "create_new_rule": {
+    "message": "નવો નિયમ બનાવો"
+  },
+  "import_export": {
+    "message": "આયાત નિકાસ"
+  },
+  "help_this_project": {
+    "message": "આ પ્રોજેક્ટને સહાય કરો"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "એફએક્યુ:"
+  },
+  "storage_info": {
+    "message": "સંગ્રહ માહિતી:"
+  },
+  "storage_safari_1": {
+    "message": "સફારી હાલમાં સ્વચાલિત ડેટા સમન્વયનને સપોર્ટ કરતું નથી."
+  },
+  "storage_safari_2": {
+    "message": "તમારા હાઇલાઇટ નિયમોને સ્થાનાંતરિત કરવા (અથવા બેકઅપ) કરવા માટે, \"આયાત / નિકાસ\" સુવિધાનો ઉપયોગ કરો."
+  },
+  "storage_info_1": {
+    "message": "તમારા નિયમોને સુરક્ષિત $1 સમન્વયનનો ઉપયોગ કરીને સંગ્રહિત કરવામાં આવે છે જે તમારા નિયમોને તમારા બધા ઉપકરણો વચ્ચે સમન્વયિત કરશે (જો તમે સમાન એકાઉન્ટમાં લૉગ ઇન છો)."
+  },
+  "storage_info_2": {
+    "message": "આ ક્લાઉડ સ્ટોરેજ 100 કેબી ડેટા અને 500 હાઇલાઇટ નિયમોને સ્ટોર કરી શકે છે."
+  },
+  "storage_info_3": {
+    "message": "તમે \"આયાત / નિકાસ\" સુવિધાનો ઉપયોગ કરીને તમારા નિયમોને તમારા નિયમો (બેકઅપ) પણ નિકાસ કરી શકો છો અને પછી તેને અન્ય ઉપકરણો પર આયાત કરી શકો છો."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "અસ્તિત્વમાંના હાઇલાઇટ નિયમો બદલો"
+  },
+  "add_page_to_highlight_on": {
+    "message": "હાઇલાઇટ કરવા માટે પૃષ્ઠ ઉમેરો"
+  },
+  "remove_highlight_from_page": {
+    "message": "પૃષ્ઠથી હાઇલાઇટ દૂર કરો"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "ઇટાલિક"
+  },
+  "underline": {
+    "message": "અન્ડરલાઇન"
+  },
+  "background_color": {
+    "message": "પૃષ્ઠભૂમિ રંગ"
+  },
+  "background": {
+    "message": "પૃષ્ઠભૂમિ"
+  },
+  "text_color": {
+    "message": "લખાણ રંગ"
+  },
+  "color": {
+    "message": "રંગ"
+  },
+  "font_size": {
+    "message": "અક્ષર ની જાડાઈ"
+  },
+  "rule_name": {
+    "message": "નિયમનું નામ"
+  },
+  "highlight_regular_expression": {
+    "message": "નિયમિત અભિવ્યક્તિ પ્રકાશિત કરો:"
+  },
+  "highlight_text": {
+    "message": "હાઇલાઇટ ટેક્સ્ટ:"
+  },
+  "highlight_on_pages": {
+    "message": "પૃષ્ઠો પર હાઇલાઇટ કરો"
+  },
+  "empty_name_helper": {
+    "message": "નામ તરીકે \"હાઇલાઇટ કરેલ ટેક્સ્ટ\" નો ઉપયોગ કરવા માટે ખાલી છોડો"
+  },
+  "faq_1": {
+    "message": "વર્તમાન પૃષ્ઠ પર શબ્દ કેવી રીતે ઝડપથી પ્રકાશિત કરવું?"
+  },
+  "faq_1a": {
+    "message": "સંદર્ભ મેનૂનો ઉપયોગ કરો - ટેક્સ્ટ / જમણે ક્લિક કરો / \"ઑટો હાઇલાઇટ\" પસંદ કરો. જો તમે કોઈ પૃષ્ઠ પર જમણું ક્લિક કરો (ટેક્સ્ટ પસંદ કર્યા વિના) તમે વર્તમાન પૃષ્ઠ પર અસ્તિત્વમાંના નિયમોને લાગુ કરી શકો છો."
+  },
+  "faq_2": {
+    "message": "હું બહુવિધ શબ્દોને પ્રકાશિત કરવા માંગું છું, મારે દરેક શબ્દ માટે અલગથી નવું નિયમ બનાવવાની જરૂર છે?"
+  },
+  "faq_2a": {
+    "message": "ના, ફક્ત \"દરેક શબ્દ\" ચેકબૉક્સને તપાસો. પછી દરેક શબ્દ અલગથી પ્રકાશિત કરવામાં આવશે."
+  },
+  "faq_3": {
+    "message": "તે \"RegExp\" શું છે?"
+  },
+  "faq_3a": {
+    "message": "નિયમિત અભિવ્યક્તિ તરીકે પણ ઓળખાય છે, તે અક્ષરોનો ક્રમ છે જે શોધ પેટર્નને વ્યાખ્યાયિત કરે છે. તે એક જટિલ રચના છે જે કેટલાક સમાન પેટર્નવાળા તત્વોની જટિલ હાઇલાઇટિંગને મંજૂરી આપે છે. ઉદાહરણ તરીકે ભાવ, તારીખો, ફોન નંબર્સ, વગેરે ..."
+  },
+  "faq_4": {
+    "message": "શું તમે મને કેટલાક RegExp ઉદાહરણો બતાવી શકો છો?"
+  },
+  "faq_4a": {
+    "message": "$1 જેવા બધા ભાવોને હાઇલાઇટ કરો"
+  },
+  "faq_5": {
+    "message": "શું તમે તે સમજાવી શકો છો?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" હાઇલાઇટ્સ ડૉલર સાઇન. અહીં બેકસ્લેશની જરૂર છે કારણ કે ડૉલરમાં RegExp માં એક ખાસ અર્થ છે."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" એકલ અંકને હાઇલાઇટ કરે છે"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" નો અર્થ એક અથવા વધુ વખત પુનરાવર્તન થાય છે. જ્યારે ડિજિટલ પસંદગીકાર $2$ પછી મૂકવામાં આવે છે, તેનો અર્થ એ છે કે એક અથવા વધુ અંકો."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" હાઈલાઈટ્સ ડોટ. બેકસ્લેશને ફરીથી જરૂરી છે કારણ કે એકલા ડોટ પ્રતીકનો અર્થ એ છે કે RegExp માં કોઈ એક અક્ષર છે."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" નો અર્થ શૂન્ય અથવા એક વખત છે. જ્યારે કૌંસ $2$ પછી મૂકવામાં આવે છે, તેનો અર્થ એ છે કે તે કૌંસની અંદર જે પણ છે તે વૈકલ્પિક છે (ત્યાં હોઈ શકે છે, અથવા નહીં). અમે તેનો ઉપયોગ સંખ્યાના દશાંશ ભાગ માટે કરીએ છીએ જે વૈકલ્પિક છે."
+  },
+  "faq_5f": {
+    "message": "RegExp નિયમો વિશે વધુ માહિતી"
+  },
+  "import_finished": {
+    "message": "આયાત સમાપ્ત થાય છે!",
+    "common": true
+  },
+  "import_error": {
+    "message": "ભૂલ",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "આયાત બેકઅપ ફાઇલ $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "મુખપૃષ્ઠ",
+    "common": true
+  },
+  "addon_page": {
+    "message": "એડન પેજમાં",
+    "common": true
+  },
+  "safari_store": {
+    "message": "મેક એપ સ્ટોર",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "ક્રોમ વેબ સ્ટોર",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "ફાયરફોક્સ ઍડ-ઑન્સ",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "થન્ડરબર્ડ ઍડ-ઑન્સ",
+    "common": true
+  },
+  "menu_options": {
+    "message": "વિકલ્પો",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "અક્ષર ની જાડાઈ",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "સાઇડબાર કદ",
+    "common": true
+  },
+  "label_next": {
+    "message": "આગળ",
+    "common": true
+  },
+  "label_note": {
+    "message": "નૉૅધ:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "દૂર કરવું",
+    "common": true
+  },
+  "label_warning": {
+    "message": "ચેતવણી:",
+    "common": true
+  },
+  "label_options": {
+    "message": "વિકલ્પો:",
+    "common": true
+  },
+  "label_default": {
+    "message": "ડિફૉલ્ટ:",
+    "common": true
+  },
+  "label_done": {
+    "message": "થઈ ગયું!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "નકલ!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "કસ્ટમ:",
+    "common": true
+  },
+  "label_close": {
+    "message": "બંધ",
+    "common": true
+  },
+  "label_installed": {
+    "message": "સ્થાપિત",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "ખુલ્લું પૃષ્ઠ",
+    "common": true
+  },
+  "label_agree": {
+    "message": "સંમત થવું",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "રદ કરવું",
+    "common": true
+  },
+  "label_save": {
+    "message": "સાચવવું",
+    "common": true
+  },
+  "label_required": {
+    "message": "જરૂરી",
+    "common": true
+  },
+  "label_sending": {
+    "message": "મોકલી રહ્યું છે ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "સ્કેલ:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "ઝૂમ:",
+    "common": true
+  },
+  "label_size": {
+    "message": "કદ:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "ટૂક સમયમાં આવી રહ્યું છે",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "ફેરફારો સંગ્રહ",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "ફેરફારોને અવગણો",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "મેનૂ",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "હોમપેજની મુલાકાત લો",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "આ પ્રોજેક્ટને સહાય કરો",
+    "common": true
+  },
+  "support_developer": {
+    "message": "આધાર સ્વતંત્ર વિકાસકર્તા!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "ત્યાં હેલો!",
+    "common": true
+  },
+  "about_me": {
+    "message": "હું 2016 થી એડન ડેવલપર છું. મારો ધ્યેય તમને વધુ ઉત્પાદક બનાવવા માટે તમારા વેબ-બ્રાઉઝર માટે શક્તિશાળી એક્સ્ટેન્શન્સ બનાવવાનું છે.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "જો તમને લાગે કે હું સારી નોકરી કરી રહ્યો છું, તો કૃપા કરીને દાન કરો :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "તમારો દાન મારી એકમાત્ર આવક છે!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "મારા કામને ટેકો આપવા બદલ આભાર!",
+    "common": true
+  },
+  "op_help": {
+    "message": "મદદ",
+    "common": true
+  },
+  "o_title": {
+    "message": "વિકલ્પો - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "બેકઅપ",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "નવી બૅકઅપ બનાવો",
+    "common": true
+  },
+  "save_settings": {
+    "message": "સેટિંગ્સ સાચવો",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "ફાઇલમાં તમારો ડેટા નિકાસ કરવા માટે, આ વિંડોને નવી ટેબમાં ફરીથી ખોલો.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "જમણું ક્લિક / \"લિંક કરેલ ફાઇલ ડાઉનલોડ કરો\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "સામાન્ય",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "પૃષ્ઠભૂમિ",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "સંદર્ભ મેનુ",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "થંબનેલ્સ",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "શૉર્ટકટ્સ",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "આયાત / બેકઅપ",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "ગોઠવણીઓ",
+    "common": true
+  },
+  "o_theme": {
+    "message": "થીમ:",
+    "common": true
+  },
+  "o_general": {
+    "message": "જનરલ:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "અક્ષમ",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "સક્ષમ",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "પિક્સેલ્સ",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "સેકંડ",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "સંદર્ભ મેનૂ:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "સંદર્ભ મેનૂને અક્ષમ કરો: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "બૅકઅપ / સેટિંગ્સ સેટિંગ્સ ફાઇલમાં:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "આયાત",
+    "common": true
+  },
+  "title_import": {
+    "message": "આયાત",
+    "common": true
+  },
+  "title_export": {
+    "message": "નિકાસ",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "નિકાસ બેકઅપ",
+    "common": true
+  },
+  "label_or": {
+    "message": "અથવા",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "નમસ્તે :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "મારું નામ $1$ છે અને હું $app_name$ ના લેખક છું.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "જો તમને તે ગમે છે, તો કૃપા કરીને તેને અહીં રેટ કરો:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "જો તમને તે ગમતું નથી, તો કૃપા કરીને મને જણાવો કે મારા ઈ-મેલ કેમ છે. હું જે સુવિધા પ્રાપ્ત કરું છું તેમાંથી મોટાભાગની સુવિધા અમલમાં મૂકી રહ્યો છું.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "કૃપા કરીને મારા કાર્યને ટેકો આપવાનો વિચાર કરો",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "ઇબાનનો ઉપયોગ કરીને બેંક ટ્રાન્સફર:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "દાન (પેપાલ)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "મારા આશ્રયદાતા બનવું",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "આભાર!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "હોમ:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "સંપર્ક કરો:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "અહેવાલોની જાણ કરો:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "હું ફક્ત અંગ્રેજી / સ્લોવાકમાં જ જવાબ આપી શકું છું",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "સામાજિક મીડિયા:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "ફેરફારો અને બંધ સાચવો",
+    "common": true
+  },
+  "o_saved": {
+    "message": "બચાવેલ!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "કોઈ મેળ ખાતા પરિણામો",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "કોઈ ડેટા નથી",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "ડાર્ક મોડ",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "સિસ્ટમ દ્વારા નિયંત્રિત",
+    "common": true
+  },
+  "used_space": {
+    "message": "વપરાયેલ જગ્યા: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "નવી ટેબમાં ખોલો",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "એડન પર / બંધ સ્વિચ કરો",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "એડન અક્ષમ છે",
+    "common": true
+  },
+  "_description_why": {
+    "message": "શા માટે?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "ગોપનીયતા નીતિ",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "તાજેતરમાં ઉમેરાયેલ લક્ષણો:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "ટૅગ્સ:",
+    "common": true
+  }
+}

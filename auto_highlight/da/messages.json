@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "Nogle gange er siden bare ikke designet godt, og de oplysninger, du leder efter, er ikke synlig nok."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Fælles brugssager:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Fremhæv Metadata som:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Fremhæv \"Gratis forsendelse\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Søger du efter noget specifikt på nettet? Brug \"Temporal Highlight\" for at hjælpe dig med at finde den på alle sider. Temporale højdepunkter er automatisk slettet, når du lukker din browser."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Du kan endda skjule ord ved at indstille skriftstørrelse til nul eller ved at gøre dem gennemsigtige."
+  },
+  "_description_tags_ah": {
+    "message": "fremhæv, Mark, Metadata, Film, Automatisk, Tekst, Synkronisering, Valg, Søgning"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ vil automatisk fremhæve definerede ord på definerede sider."
+  },
+  "match_type": {
+    "message": "Match type:"
+  },
+  "match_type_0": {
+    "message": "Domæne er"
+  },
+  "match_type_1": {
+    "message": "URL er"
+  },
+  "match_type_2": {
+    "message": "URL indeholder"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "Hver side"
+  },
+  "selection_highlight": {
+    "message": "Fremhæv $1."
+  },
+  "selection_temp": {
+    "message": "Midlertidigt fremhæve $1."
+  },
+  "selection_temp_everywhere": {
+    "message": "Midlertidigt fremhæve overalt $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ på denne side"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Åbn altid i ny fane - når du klikker på værktøjslinjeikonet"
+  },
+  "disable_rule": {
+    "message": "Handicappet"
+  },
+  "temporal_rule": {
+    "message": "Temporal."
+  },
+  "each_word": {
+    "message": "Hvert ord"
+  },
+  "rules": {
+    "message": "Regler"
+  },
+  "delete": {
+    "message": "DELETE"
+  },
+  "rename": {
+    "message": "Omdøb"
+  },
+  "duplicate": {
+    "message": "Duplikere"
+  },
+  "delete_rule": {
+    "message": "Slet regel"
+  },
+  "delete_rule_title": {
+    "message": "Slet regel \"$1\"?"
+  },
+  "on_pages": {
+    "message": "På sider:"
+  },
+  "disabled_rule": {
+    "message": "Deaktiveret regel"
+  },
+  "incomplete_rule": {
+    "message": "Ufuldstændig regel"
+  },
+  "active_on_current_page": {
+    "message": "Aktiv på nuværende side"
+  },
+  "temporal_rule_helper": {
+    "message": "Temporal regel - slettes efter genstart af browseren"
+  },
+  "active_on_pages": {
+    "message": "Aktiv på sider:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Fremhæv hvert ord separat"
+  },
+  "case_sensitive": {
+    "message": "Sagsfølsomt"
+  },
+  "ignore_diacritics": {
+    "message": "Ignorere diacritics."
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "Almindelig udtryk"
+  },
+  "across_elements": {
+    "message": "På tværs af elementer"
+  },
+  "across_elements_help": {
+    "message": "Søg efter tekst på tværs af nabo HTML-elementer"
+  },
+  "style": {
+    "message": "Stil"
+  },
+  "preview": {
+    "message": "Forhåndsvisning:"
+  },
+  "empty_rule": {
+    "message": "tom regel"
+  },
+  "create_new_rule": {
+    "message": "Opret ny regel"
+  },
+  "import_export": {
+    "message": "Import Eksport"
+  },
+  "help_this_project": {
+    "message": "Hjælp dette projekt"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "FAQ:"
+  },
+  "storage_info": {
+    "message": "Opbevaringsinfo:"
+  },
+  "storage_safari_1": {
+    "message": "Safari understøtter i øjeblikket ikke automatisk datasynkronisering."
+  },
+  "storage_safari_2": {
+    "message": "Hvis du vil overføre (eller backup) dine fremhævningsregler, skal du bruge funktionen \"Import / Export\"."
+  },
+  "storage_info_1": {
+    "message": "Dine regler gemmes ved hjælp af Secure $1 Sync, der synkroniserer dine regler mellem alle dine enheder (hvis du er logget ind på samme konto)."
+  },
+  "storage_info_2": {
+    "message": "Denne Cloud Storage kan gemme 100 KB data og op til 500 højdepunkter."
+  },
+  "storage_info_3": {
+    "message": "Du kan også eksportere (backup) dine regler til en fil ved hjælp af funktionen \"Import / Export\" og derefter importere den på andre enheder."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Udskift eksisterende fremhævningsregler"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Tilføj side for at fremhæve på"
+  },
+  "remove_highlight_from_page": {
+    "message": "Fjern højdepunkt fra side"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "Kursiv"
+  },
+  "underline": {
+    "message": "Understrege"
+  },
+  "background_color": {
+    "message": "Baggrundsfarve"
+  },
+  "background": {
+    "message": "Baggrund"
+  },
+  "text_color": {
+    "message": "Tekstfarve."
+  },
+  "color": {
+    "message": "Farve"
+  },
+  "font_size": {
+    "message": "Skriftstørrelse"
+  },
+  "rule_name": {
+    "message": "Regel navn"
+  },
+  "highlight_regular_expression": {
+    "message": "Fremhæv regelmæssigt udtryk:"
+  },
+  "highlight_text": {
+    "message": "Fremhæv tekst:"
+  },
+  "highlight_on_pages": {
+    "message": "Fremhæv på sider."
+  },
+  "empty_name_helper": {
+    "message": "Forlad tomt at bruge \"Fremhævet tekst\" som navn"
+  },
+  "faq_1": {
+    "message": "Hvordan man hurtigt fremhæver ord på nuværende side?"
+  },
+  "faq_1a": {
+    "message": "Brug kontekstmenu - Vælg Tekst / Højreklik / \"Auto Highlight\". Hvis du højreklikker på en side (uden at vælge tekst), kan du anvende eksisterende regler til den aktuelle side."
+  },
+  "faq_2": {
+    "message": "Jeg vil fremhæve flere ord, skal jeg oprette en ny regel for hvert ord separat?"
+  },
+  "faq_2a": {
+    "message": "Nej, kontroller afkrydsningsfeltet \"hvert ord\". Så vil hvert ord blive fremhævet separat."
+  },
+  "faq_3": {
+    "message": "Hvad er det \"RegExp\"?"
+  },
+  "faq_3a": {
+    "message": "Også kendt som regelmæssig udtryk, er det en sekvens af tegn, der definerer et søgemønster. Det er en kompliceret konstruktion, der muliggør kompleks fremhævning af elementer med noget lignende mønster. For eksempel priser, datoer, telefonnumre osv. ..."
+  },
+  "faq_4": {
+    "message": "Kan du vise mig nogle RegExp eksempler?"
+  },
+  "faq_4a": {
+    "message": "Fremhæv alle priser som $1"
+  },
+  "faq_5": {
+    "message": "Kan du forklare dem?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" fremhæver dollar tegn. Backslash er nødvendig her, fordi dollar har en særlig betydning i RegExp."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" fremhæver singlecifre"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" betyder gentag en eller flere gange. Når den placeres efter ciffervælger $2$, betyder det et eller flere cifre."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" fremhæver prikken. Backslash er igen nødvendig, fordi DOT-symbol alene betyder noget enkelt tegn i RegExp."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" betyder nul eller en gang. Når den placeres efter beslag $2$, betyder det, hvad der er inde i disse parenteser, er valgfri (kan være der eller ej). Vi bruger det til decimaldelen af nummeret, som er valgfrit."
+  },
+  "faq_5f": {
+    "message": "mere info om RegExp regler"
+  },
+  "import_finished": {
+    "message": "Import færdig!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Fejl",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Import backup fil $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "HomePage.",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon side",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store.",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox add-ons",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-ons",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Muligheder",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Skriftstørrelse",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Sidebjælke størrelse",
+    "common": true
+  },
+  "label_next": {
+    "message": "Næste",
+    "common": true
+  },
+  "label_note": {
+    "message": "Bemærk:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Fjerne",
+    "common": true
+  },
+  "label_warning": {
+    "message": "ADVARSEL:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Muligheder:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Standard:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Færdig!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Kopieret!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Brugerdefinerede:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Tæt",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Installeret",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Åbn side",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Enig",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Afbestille",
+    "common": true
+  },
+  "label_save": {
+    "message": "Gemme",
+    "common": true
+  },
+  "label_required": {
+    "message": "Påkrævet",
+    "common": true
+  },
+  "label_sending": {
+    "message": "sende ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Vægt:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "ZOOM:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Størrelse:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Kommer snart",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Gem ændringer",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Kassere ændringer",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menu",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Besøg hjemmeside.",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Hjælp dette projekt",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Støtte uafhængig udvikler!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Hej med dig!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Jeg er addon udvikler siden 2016. Mit mål er at opbygge kraftfulde udvidelser til din webbrowser for at gøre dig mere produktiv.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Hvis du tror jeg laver et godt stykke arbejde, skal du donere :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Din donation er min eneste indkomst!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Tak for at støtte mit arbejde!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Hjælp",
+    "common": true
+  },
+  "o_title": {
+    "message": "Valg - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "backup.",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Opret ny sikkerhedskopiering",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Gem indstillinger",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "For at eksportere dine data til en fil, skal du genåbne dette vindue på en ny fane.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Højreklik / \"Download Linked File\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Generel",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Baggrund",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Kontekstmenu.",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Thumbnails.",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Genvejstaster.",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Import / Backup.",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Indstillinger.",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Tema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Generel:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "handicappet",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "aktiveret.",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels.",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "sekunder",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Kontekstmenu:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Deaktiver kontekstmenu: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Backup / Gendan indstillinger til fil:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Importere",
+    "common": true
+  },
+  "title_import": {
+    "message": "Importere",
+    "common": true
+  },
+  "title_export": {
+    "message": "Eksport",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Eksporter sikkerhedskopiering",
+    "common": true
+  },
+  "label_or": {
+    "message": "eller",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Hej :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Mit navn er $1$ og jeg er forfatteren af $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Hvis du kan lide det, bedes du bedømme det her:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Hvis du ikke kan lide det, så lad mig vide, hvorfor til min e-mail. Jeg implementerer de fleste af de funktion-anmodninger, jeg modtager.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Overvej venligst at støtte mit arbejde af",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankoverførsel ved hjælp af IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donation (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "bliver min protektor",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Tak skal du have!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "hjem:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Rapportér spørgsmål:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Jeg kan kun svare på engelsk / slovakisk",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sociale medier:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Gem ændringer og luk",
+    "common": true
+  },
+  "o_saved": {
+    "message": "gemt!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Ingen matchende resultater.",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Ingen data",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Mørk tilstand",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Kontrolleret af system",
+    "common": true
+  },
+  "used_space": {
+    "message": "Brugt plads: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Åbn i ny fane",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Switch Addon On / Off",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon er deaktiveret",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Hvorfor?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Fortrolighedspolitik",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Nyligt tilføjede funktioner:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "_description_feature_1": {
+    "message": ""
+  },
+  "_description_feature_2": {
+    "message": ""
+  },
+  "_description_tags_pn": {
+    "message": ""
+  },
+  "app_name": {
+    "message": "Private Notes"
+  },
+  "app_desc": {
+    "message": ""
+  },
+  "compression_level_0": {
+    "message": ""
+  },
+  "compression_level_1": {
+    "message": ""
+  },
+  "compression_level_2": {
+    "message": ""
+  },
+  "compression_level_info_0": {
+    "message": ""
+  },
+  "compression_level_info_1": {
+    "message": ""
+  },
+  "compression_level_info_2": {
+    "message": ""
+  },
+  "title_notes": {
+    "message": ""
+  },
+  "restore_backup": {
+    "message": ""
+  },
+  "create_new_note": {
+    "message": ""
+  },
+  "auto_locking_strategy_0": {
+    "message": ""
+  },
+  "auto_locking_strategy_1": {
+    "message": ""
+  },
+  "restore_note": {
+    "message": ""
+  },
+  "locked": {
+    "message": ""
+  },
+  "change_master_password": {
+    "message": ""
+  },
+  "import_export": {
+    "message": ""
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "notes_auto_saved_placeholder": {
+    "message": ""
+  },
+  "setup_new_pwd": {
+    "message": ""
+  },
+  "change_pwd": {
+    "message": ""
+  },
+  "pwd_to_change": {
+    "message": ""
+  },
+  "current_pwd": {
+    "message": ""
+  },
+  "new_pwd_advice": {
+    "message": ""
+  },
+  "repeat_pwd": {
+    "message": ""
+  },
+  "hint_pwd": {
+    "message": ""
+  },
+  "pwd_warning": {
+    "message": ""
+  },
+  "remember_pwd_0": {
+    "message": ""
+  },
+  "remember_pwd_1": {
+    "message": ""
+  },
+  "remember_pwd_2": {
+    "message": ""
+  },
+  "pwd_save": {
+    "message": ""
+  },
+  "error_saving_note": {
+    "message": ""
+  },
+  "quota_bytes_per_item": {
+    "message": ""
+  },
+  "quota_bytes": {
+    "message": ""
+  },
+  "max_items": {
+    "message": ""
+  },
+  "max_write_operations_per_hour": {
+    "message": ""
+  },
+  "max_write_operations_per_minute": {
+    "message": ""
+  },
+  "security": {
+    "message": ""
+  },
+  "visual_options": {
+    "message": ""
+  },
+  "compression_level": {
+    "message": ""
+  },
+  "auto_locking_strategy": {
+    "message": ""
+  },
+  "auto_lock_inactive_for": {
+    "message": ""
+  },
+  "dense_notes_list": {
+    "message": ""
+  },
+  "import_replace_all": {
+    "message": ""
+  },
+  "export_encrypted": {
+    "message": ""
+  },
+  "minutes": {
+    "message": ""
+  },
+  "label_font_size": {
+    "message": "Fondi suurus"
+  },
+  "sidebar_size": {
+    "message": ""
+  },
+  "popup_window_width": {
+    "message": ""
+  },
+  "popup_window_height": {
+    "message": ""
+  },
+  "always_open_in_new_tab": {
+    "message": ""
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Chrome'i veebipood"
+  },
+  "firefox_store": {
+    "message": "Firefoxi lisandmoodulid"
+  },
+  "import_finished": {
+    "message": "Import lõpetas!"
+  },
+  "import_error": {
+    "message": "Viga"
+  },
+  "import_backup_file": {
+    "message": "Import varukoopia faili $1"
+  },
+  "search_search": {
+    "message": ""
+  },
+  "title_import": {
+    "message": "Import"
+  },
+  "title_export": {
+    "message": "Eksport"
+  },
+  "title_backups": {
+    "message": ""
+  },
+  "homepage": {
+    "message": "Koduleht"
+  },
+  "addon_page": {
+    "message": "Addon leht"
+  },
+  "settings": {
+    "message": ""
+  },
+  "options": {
+    "message": ""
+  },
+  "label_backups": {
+    "message": ""
+  },
+  "label_rename": {
+    "message": ""
+  },
+  "label_download": {
+    "message": ""
+  },
+  "label_delete": {
+    "message": ""
+  },
+  "label_next": {
+    "message": "Järgmine"
+  },
+  "label_note": {
+    "message": "Märge:"
+  },
+  "label_remove": {
+    "message": "Eemaldama"
+  },
+  "label_warning": {
+    "message": "HOIATUS:"
+  },
+  "label_default": {
+    "message": "Vaikimisi:"
+  },
+  "label_done": {
+    "message": "Tee!"
+  },
+  "label_copied": {
+    "message": "Kopeeritud!"
+  },
+  "label_close": {
+    "message": "Sulge"
+  },
+  "label_open_page": {
+    "message": "Avaleht"
+  },
+  "label_agree": {
+    "message": "Nõustuma"
+  },
+  "label_cancel": {
+    "message": "Tühistama"
+  },
+  "op_support_me": {
+    "message": "Aita seda projekti"
+  },
+  "support_developer": {
+    "message": "Tugi sõltumatu arendaja!"
+  },
+  "hello_there": {
+    "message": "Tere!"
+  },
+  "about_me": {
+    "message": "Ma olen Addoni arendaja alates 2016. aastast. Minu eesmärk on ehitada teie veebibrauseri võimsaid laiendusi, et sind produktiivsemaks muuta."
+  },
+  "about_good_job": {
+    "message": "Kui te arvate, et ma teen head tööd, annetage palun :)"
+  },
+  "about_income": {
+    "message": "Teie annetus on minu ainus sissetulek!"
+  },
+  "about_thanks": {
+    "message": "Täname, et toetasite oma tööd!"
+  },
+  "o_tab_context_menu": {
+    "message": "Kontekstimenüü"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_pixels": {
+    "message": "pikslit"
+  },
+  "o_seconds": {
+    "message": "second"
+  },
+  "label_or": {
+    "message": "või"
+  },
+  "o_about_hello": {
+    "message": "Tere :)"
+  },
+  "o_about_intro": {
+    "message": "Minu nimi on $1$ ja ma olen $app_name$ autor."
+  },
+  "o_about_like_it": {
+    "message": "Kui sulle meeldib see, hinnake seda siin:"
+  },
+  "o_about_thanks": {
+    "message": "Aitäh!"
+  },
+  "o_about_contact": {
+    "message": "Kontakt:"
+  },
+  "o_about_issues": {
+    "message": "Aruande küsimused:"
+  },
+  "o_about_social_media": {
+    "message": "Sotsiaalmeedia:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Pangaülekanne IBAN-i abil:"
+  },
+  "used_space": {
+    "message": "Kasutatud ruum: $1 / $2"
+  },
+  "ps_no_results": {
+    "message": "Sobivaid tulemusi pole"
+  },
+  "label_no_data": {
+    "message": "Andmed puuduvad"
+  },
+  "dark_mode": {
+    "message": "Tume režiim"
+  },
+  "dark_mode_system": {
+    "message": "Süsteemi kontrolli all"
+  },
+  "open_in_new_tab": {
+    "message": "Ava uues vahekaardil"
+  },
+  "_description_features": {
+    "message": ""
+  },
+  "_description_privacy_policy": {
+    "message": "Privaatsuspoliitika"
+  },
+  "_description_recent_features": {
+    "message": "Hiljuti lisatud funktsioonid:"
+  },
+  "_description_common_tags": {
+    "message": "Sildid:"
+  }
+}

@@ -1,0 +1,2543 @@
+{
+  "app_name": {
+    "message": "Group Speed Dial"
+  },
+  "app_desc": {
+    "message": "SpeedDial (a.k.a. visual bookmarks) με ομάδες για έμπειρους χρήστες. Δωρεάν cloud συγχρονισμός μεταξύ συσκευών."
+  },
+  "welcome_header": {
+    "message": "Καλωσορίσατε στο πρόσθετο $app_name$"
+  },
+  "welcome_setup": {
+    "message": ""
+  },
+  "welcome_watch_video": {
+    "message": "Παρακολουθήστε ένα σύντομο βίντεο εισαγωγής (1:50) για να δείτε τα κύρια χαρακτηριστικά."
+  },
+  "welcome_watch_android_video": {
+    "message": "Παρακολουθήστε βίντεο εγκατάστασης για Android."
+  },
+  "welcome_home_group": {
+    "message": "Η τρέχουσα \"Αρχική ομάδα\" έχει 4 x 3 κλήσεις, μπορείτε να την αλλάξετε εδώ:"
+  },
+  "welcome_import_josep_del_rio": {
+    "message": "υπάρχει δυνατότητα εισαγωγής από το \"Speed Dial by Josep del Rio\" και άλλα στις επιλογές:"
+  },
+  "welcome_options_page": {
+    "message": "Σελίδα επιλογών"
+  },
+  "welcome_pick_color": {
+    "message": "Επιλέξτε ένα θέμα χρώματος που θέλετε να χρησιμοποιήσετε:"
+  },
+  "welcome_visuals": {
+    "message": "Για περισσότερες επιλογές, επισκεφθείτε τη σελίδα Επιλογές"
+  },
+  "import_settings_button": {
+    "message": "Εισαγωγή ρυθμίσεων και κλήσεων ..."
+  },
+  "import_josep_button": {
+    "message": "Εισαγωγή αρχείου \"CurrentSettings.speeddial\" ..."
+  },
+  "import_firefox_button": {
+    "message": "Εισαγωγή αρχείου \"bookmarks-2017-XX-XX.json\" ..."
+  },
+  "import_fast_dial_button": {
+    "message": "Εισαγωγή αρχείου \"fastdial.json\" ..."
+  },
+  "import_super_start_button": {
+    "message": "Εισαγωγή αρχείου \"sites.v1.json\" ..."
+  },
+  "import_speed_dial_2_button": {
+    "message": "Εισαγωγή αρχείου \"any_name\" ..."
+  },
+  "import_done_text": {
+    "message": "Εισαγόμενες εξωτερικές κλήσεις"
+  },
+  "import_skip": {
+    "message": "Καμία εισαγωγή"
+  },
+  "import_pages_stats": {
+    "message": "Εισαγωγή $1 σελίδων σε $2 ομάδες"
+  },
+  "import_data_from": {
+    "message": "Εισαγωγή δεδομένων από:"
+  },
+  "load_bookmarks": {
+    "message": "Φόρτωση σελιδοδεικτών"
+  },
+  "load_top_pages": {
+    "message": "Φόρτωση των πιο χρησιμοποιημένων σελίδων"
+  },
+  "group_generated_name": {
+    "message": "Ομάδα $1"
+  },
+  "default_home_group_name": {
+    "message": "Αρχική ομάδα"
+  },
+  "drag_group_hover_open": {
+    "message": "Άνοιγμα ομάδας"
+  },
+  "replace_dial": {
+    "message": "Αντικατάσταση κλήσης"
+  },
+  "replace_duplicate_dial": {
+    "message": "Διπλότυπη κλήση - κάντε κλικ για ενημέρωση μικρογραφίας"
+  },
+  "create_multi_page_dial": {
+    "message": ""
+  },
+  "replace_multi_page_dial": {
+    "message": ""
+  },
+  "msg_pro_cloud_upload": {
+    "message": "Μεταφόρτωση μικρογραφιών στο cloud - αυτό σας επιτρέπει να τις δείτε στο"
+  },
+  "msg_pro_cloud_web": {
+    "message": "Ιστοσελίδα cloud-κλήσεων"
+  },
+  "msg_pro_cloud_web_desc": {
+    "message": "Η έκδοση Cloud δεν είναι επεξεργάσιμη αυτή τη στιγμή αλλά λειτουργεί σε κάθε πρόγραμμα περιήγησης - ακόμα και στο τηλέφωνό σας!"
+  },
+  "msg_pro_same_thumbnails": {
+    "message": "Τώρα μπορείτε να έχετε τις ίδιες μικρογραφίες σε κάθε συσκευή!"
+  },
+  "msg_pro_thumbnails_download": {
+    "message": "Αυτό θα κάνει λήψη όλων τις μικρογραφιών που μεταφορτώσατε στο cloud και θα αντικαταστήσει τις τρέχουσες τοπικές σας."
+  },
+  "msg_correct_account": {
+    "message": "Επισκεφθείτε τον cloud διακομιστή και βεβαιωθείτε ότι έχετε συνδεθεί με σωστό λογαριασμό:"
+  },
+  "msg_replace_text": {
+    "message": "Εναλλακτικά μπορείτε να αντικαταστήσετε τις τοπικές κλήσεις σας."
+  },
+  "url_search": {
+    "message": ""
+  },
+  "msg_search_by": {
+    "message": "Αναζήτηση ανά:"
+  },
+  "msg_search_tip": {
+    "message": "Συμβουλή: προσθέστε σημειώσεις στις κλήσεις για καλύτερη αναζήτηση"
+  },
+  "msg_search_url": {
+    "message": "Διεύθυνση URL"
+  },
+  "msg_search_name": {
+    "message": "Όνομα"
+  },
+  "msg_search_note": {
+    "message": "Σημείωση"
+  },
+  "msg_add_dial_text": {
+    "message": "Μπορείτε επίσης να πλοηγηθείτε μεταξύ ομάδων, να μετακινήσετε ή να καταργήσετε υπάρχουσες κλήσεις."
+  },
+  "msg_add_dial_no_show": {
+    "message": "Να μην εμφανιστεί ξανά"
+  },
+  "msg_add_dials_here": {
+    "message": "Εισαγωγή σε άδειες κλήσεις"
+  },
+  "add_target_dial": {
+    "message": "Επιλογή στοχευμένης κενής κλήσης για σελίδα:"
+  },
+  "add_target_dials": {
+    "message": "Δημιουργία νέας κενής ομάδας ή επιλογή $1 κλήσεων"
+  },
+  "add_image": {
+    "message": "Εισαγωγή εικόνας"
+  },
+  "bc_first_group": {
+    "message": "Δημιουργήθηκε η πρώτη ομάδα"
+  },
+  "show_all_groups": {
+    "message": "Εμφάνιση όλων των ομάδων"
+  },
+  "fr_home_group": {
+    "message": "Αρχική ομάδα"
+  },
+  "err_db_settings_loading": {
+    "message": "Εξαίρεση κατά τη φόρτωση των ρυθμίσεων και της βάσης δεδομένων"
+  },
+  "err_db_creation": {
+    "message": "Σφάλμα κατά τη δημιουργία βάσης δεδομένων"
+  },
+  "err_db_loading": {
+    "message": "Σφάλμα στη φόρτωση της βάσης δεδομένων"
+  },
+  "err_db_images": {
+    "message": "Σφάλμα κατά τη λήψη εικόνων από τη βάση δεδομένων"
+  },
+  "sync_synced_ok": {
+    "message": "συγχρονισμένο με το διακομιστή"
+  },
+  "sync_working": {
+    "message": "σε εξέλιξη ..."
+  },
+  "sync_syncing": {
+    "message": "Ο συγχρονισμός σε εξέλιξη ..."
+  },
+  "sync_synced": {
+    "message": "συγχρονισμένο"
+  },
+  "sync_sync_ok": {
+    "message": "Επιτυχής συγχρονισμός"
+  },
+  "sync_err_label": {
+    "message": "σφάλμα $1 - δοκιμή αργότερα"
+  },
+  "sync_err_conflict": {
+    "message": "σύγκρουση"
+  },
+  "sync_err_server_newer": {
+    "message": "Ο διακομιστής περιέχει νεότερη έκδοση."
+  },
+  "sync_err_user_mismatch_": {
+    "message": "αναντιστοιχία χρήστη"
+  },
+  "sync_err_wrong_account": {
+    "message": "Η έκδοση σας ανήκει σε διαφορετικό λογαριασμό."
+  },
+  "sync_err_not_empty": {
+    "message": "σφάλμα - όχι κενό"
+  },
+  "sync_err_server_not_empty": {
+    "message": "Ο διακομιστής περιέχει ήδη ορισμένα δεδομένα."
+  },
+  "sync_err_forbidden": {
+    "message": "Δεν έχετε πρόσβαση σε αυτόν τον πόρο"
+  },
+  "sync_downloading": {
+    "message": "λήψη ..."
+  },
+  "sync_down_thumbnails": {
+    "message": "λήψη μικρογραφιών"
+  },
+  "sync_down_thumbnails_progress": {
+    "message": "λήψη $1 / $2"
+  },
+  "sync_down_thumbnails_wait": {
+    "message": "λήψη μικρογραφιών, περιμένετε"
+  },
+  "sync_up": {
+    "message": "μεταφόρτωση ..."
+  },
+  "sync_up_sync_thumbnails": {
+    "message": "συγχρονισμός μικρογραφιών ... προετοιμασία για μεταφόρτωση"
+  },
+  "sync_up_progress": {
+    "message": "μεταφόρτωση $1 / $2"
+  },
+  "sync_up_wait": {
+    "message": "μεταφόρτωση μικρογραφιών, περιμένετε"
+  },
+  "sync_thumbnails_progress": {
+    "message": "συγχρονισμός μικρογραφιών ... $1 / $2"
+  },
+  "add_page": {
+    "message": "Προσθήκη Σελίδας στις κλήσεις"
+  },
+  "add_dial": {
+    "message": "Προσθήκη Καρτέλας στις κλήσεις"
+  },
+  "add_link": {
+    "message": "Προσθήκη Συνδέσμου στις κλήσεις"
+  },
+  "use_image_as_thumbnail": {
+    "message": "Χρήση της εικόνας ως μικρογραφία κλήσης"
+  },
+  "cm_choose_dial": {
+    "message": "Επιλογή στοχευμένης κλήσης"
+  },
+  "return_to_tab": {
+    "message": "Επιστροφή στη καρτέλα"
+  },
+  "stay_here": {
+    "message": "Παραμονή εδώ"
+  },
+  "close_added_pages": {
+    "message": ""
+  },
+  "close_this_tab": {
+    "message": ""
+  },
+  "group_first_created": {
+    "message": "Δημιουργήθηκε η πρώτη ομάδα"
+  },
+  "privacy_info_head": {
+    "message": "Αυτό το πρόσθετο σάς επιτρέπει να δημιουργείτε αντίγραφα ασφαλείας και να συγχρονίζετε τις κλήσεις σας χρησιμοποιώντας το διακομιστή του Cloud στο $1"
+  },
+  "privacy_info_body_1": {
+    "message": "Αν δημιουργήσετε ένα cloud λογαριασμό εκεί, οι κλήσεις σας θα συγχρονιστούν με αυτό το διακομιστή. Αυτά τα δεδομένα περιέχουν μόνο βασικές πληροφορίες (που έχετε εισαγάγει εσείς) σχετικά με τις κλήσεις σας - όπως όνομα, διεύθυνση URL, κλπ. Δεν υπάρχουν δεδομένα παρακολούθησης ούτε στατιστικά στοιχεία!"
+  },
+  "privacy_info_body_2": {
+    "message": "Χωρίς λογαριασμό cloud, αυτό το πρόσθετο ΔΕΝ θα κάνει αιτήματα σε κανένα διακομιστή. Εάν ενεργοποιήσετε τη λήψη Favicons από την υπηρεσία Google (στη σελίδα \"Επιλογές\"), θα γίνει αιτήσεις στο διακομιστή Google για λήψη Favicons. Η χρήση προαιρετικών λειτουργιών σχετικών με το cloud (όπως μικρογραφίες από τη δημόσια βιβλιοθήκη) θα δημιουργήσει επίσης αιτήματα στον εξυπηρετητή του Cloud. Αυτά τα αιτήματα ΔΕΝ θα περιέχουν καμία ιδιωτική πληροφορία."
+  },
+  "field_size_range": {
+    "message": "Η τιμή πρέπει να είναι μεταξύ $1 και $2"
+  },
+  "field_zoom_range": {
+    "message": "Το ζουμ πρέπει να είναι μεταξύ $1 και $2"
+  },
+  "field_scale_range": {
+    "message": "Η κλίμακα πρέπει να είναι μεταξύ $1 και $2"
+  },
+  "field_out_of_range": {
+    "message": "Εκτός εμβέλειας"
+  },
+  "file_load_label": {
+    "message": "Φόρτωση από αρχείο ..."
+  },
+  "file_loaded_name": {
+    "message": "Φορτωμένο αρχείο: $1"
+  },
+  "image_err_loading": {
+    "message": "Σφάλμα κατά τη φόρτωση εικόνας"
+  },
+  "field_hours_range": {
+    "message": "Οι ώρες πρέπει να είναι μεταξύ $1 και $2"
+  },
+  "field_minutes_range": {
+    "message": "Τα λεπτά πρέπει να είναι μεταξύ $1 και $2"
+  },
+  "field_columns_range": {
+    "message": "Ο αριθμός των στηλών πρέπει να είναι μεταξύ $1 και $2"
+  },
+  "field_rows_range": {
+    "message": "Ο αριθμός των σειρών πρέπει να είναι μεταξύ $1 και $2"
+  },
+  "validation_url": {
+    "message": "Εισαγωγή έγκυρης διεύθυνσης URL (σύνδεσμος)"
+  },
+  "save_dial_edited": {
+    "message": "η κλήση επεξεργάστηκε - $1"
+  },
+  "save_dials_added_to_group": {
+    "message": "πολλαπλές κλήσεις προστέθηκαν στην ομάδα - $1"
+  },
+  "save_dial_moved": {
+    "message": "η κλήση μετακινήθηκε - $1"
+  },
+  "save_dial_resized": {
+    "message": "η κλήση άλλαξε μέγεθος - $1"
+  },
+  "save_group_rc_color": {
+    "message": "άλλαξε το χρώμα της ομάδας γραμμής / στήλης"
+  },
+  "save_group_moved": {
+    "message": "η ομάδα μετακινήθηκε - $1"
+  },
+  "save_dial_names_saved": {
+    "message": "τα νέα ονόματα κλήσεων αποθηκεύτηκαν - $1"
+  },
+  "save_dials_sorted": {
+    "message": "οι κλήσεις ταξινομήθηκαν σε ομάδα: $1"
+  },
+  "save_thumbnail_uploaded": {
+    "message": "η μικρογραφία μεταφορτώθηκε - $1"
+  },
+  "save_public_thumbnail_uploaded": {
+    "message": "η δημόσια μικρογραφία μεταφορτώθηκε - $1"
+  },
+  "save_productivity_selection_changed": {
+    "message": ""
+  },
+  "err_db_err_title": {
+    "message": "Σφάλμα :("
+  },
+  "save_dial_removed": {
+    "message": "η κλήση αφαιρέθηκε - $1"
+  },
+  "field_position_range": {
+    "message": "Η θέση μεταξύ των ομάδων πρέπει να είναι μεταξύ $1 και $2"
+  },
+  "field_ratio_x_range": {
+    "message": "Ο λόγος Χ πρέπει να είναι μεταξύ $1 και $2"
+  },
+  "field_ratio_y_range": {
+    "message": "Ο λόγος Y πρέπει να είναι μεταξύ $1 και $2"
+  },
+  "validation_small_group_dimensions": {
+    "message": "Αυτή η ομάδα περιέχει ήδη $1 κλήσεις. Χρησιμοποιήστε περισσότερες σειρές ή στήλες έτσι ώστε να ταιριάξουν."
+  },
+  "save_group_edited": {
+    "message": "η ομάδα επεξεργάστηκε - Ομάδα: - $1"
+  },
+  "group_delete_title": {
+    "message": "Διαγραφή ομάδας \"$1\" με κλήσεις"
+  },
+  "group_delete_body": {
+    "message": "Είστε βέβαιοι ότι θέλετε να διαγράψετε την ομάδα και όλες τις κλήσεις της;"
+  },
+  "group_delete_yes": {
+    "message": "Ναι"
+  },
+  "group_delete_no": {
+    "message": "Όχι, μην διαγράψετε"
+  },
+  "save_group_deleted": {
+    "message": "η ομάδα καταργήθηκε - Ομάδα: $1"
+  },
+  "cm_shortcut_title": {
+    "message": "Συντόμευση: \"$1\""
+  },
+  "cm_open_new_tab": {
+    "message": "Άνοιγμα σε νέα καρτέλα"
+  },
+  "cm_new_tab_in_container": {
+    "message": "Άνοιγμα σε Container"
+  },
+  "firefox_containers_about": {
+    "message": "Σχετικά με τα Firefox Containers"
+  },
+  "cm_open_all_new": {
+    "message": "Άνοιγμα όλων των κλήσων - σε νέες καρτέλες"
+  },
+  "cm_open_all_replace": {
+    "message": "Άνοιγμα όλων των κλήσων - αντικατάσταση τρέχοντος"
+  },
+  "cm_replace_existing_title": {
+    "message": "Αντικατάσταση υπάρχουσων καρτελών με κλήσεις από αυτή την ομάδα."
+  },
+  "cm_edit_dial": {
+    "message": "Επεξεργασία κλήσης"
+  },
+  "cm_create_dial": {
+    "message": "Δημιουργία νέας κλήσης"
+  },
+  "cm_copy_link": {
+    "message": "Αντιγραφή τοποθεσίας συνδέσμου"
+  },
+  "cm_move_dial": {
+    "message": "Μετακίνηση κλήσης"
+  },
+  "cm_move_dial_to": {
+    "message": "Μετακίνηση σε ομάδα"
+  },
+  "cm_cut_dial": {
+    "message": "Αποκοπή κλήσης"
+  },
+  "cm_copy_dial": {
+    "message": "Αντιγραφή κλήσης"
+  },
+  "cm_paste_dial": {
+    "message": "Επικόλληση κλήσης"
+  },
+  "cm_paste_swap_dial": {
+    "message": "Επικόλληση (εναλλαγή) κλήσης"
+  },
+  "cm_paste_replace_dial": {
+    "message": "Επικόλληση (αντικατάσταση) κλήσης"
+  },
+  "convert_to_multi": {
+    "message": ""
+  },
+  "add_to_multi": {
+    "message": ""
+  },
+  "cm_insert_up": {
+    "message": "Εισαγωγή πάνω"
+  },
+  "cm_insert_left": {
+    "message": "Εισαγωγή αριστερά"
+  },
+  "cm_insert_right": {
+    "message": "Εισαγωγή δεξιά"
+  },
+  "cm_insert_down": {
+    "message": "Εισαγωγή κάτω"
+  },
+  "cm_drop_replace": {
+    "message": "Αντικατάσταση κλήσης"
+  },
+  "cm_drop_copy_replace": {
+    "message": "Αντιγραφή και αντικατάσταση κλήσης"
+  },
+  "cm_drop_swap": {
+    "message": "Εναλλαγή κλήσεων (προεπιλογή)"
+  },
+  "cm_clear_dial": {
+    "message": "Εκκαθάριση κλήσης"
+  },
+  "cm_refresh_dial": {
+    "message": "Ανανέωση εικόνας"
+  },
+  "cm_refresh_image_here": {
+    "message": "Ανανέωση εικόνας εδώ"
+  },
+  "cm_plus_delay": {
+    "message": "+$1s"
+  },
+  "cm_plus_delay_title": {
+    "message": "Αναμονή $1 δευτερόλεπτα μετά τη φόρτωση της σελίδας προτού τραβήξετε στιγμιότυπο"
+  },
+  "cm_btn_big": {
+    "message": "Μεγάλο"
+  },
+  "cm_bigger_title": {
+    "message": "Δημιουργία μεγαλύτερης μικρογραφίας"
+  },
+  "cm_refresh_visit": {
+    "message": "Ανανέωση με επίσκεψη σελίδας"
+  },
+  "cm_btn_left": {
+    "message": "αριστερά"
+  },
+  "cm_btn_left_title": {
+    "message": "Ευθυγράμμιση στιγμιοτύπου αριστερά (προεπιλογή στο κέντρο)"
+  },
+  "cm_group_open_new_tab": {
+    "message": "Άνοιγμα σε νέα καρτέλα"
+  },
+  "cm_edit_group": {
+    "message": "Επεξεργασία ομάδας"
+  },
+  "cm_create_new_group": {
+    "message": "Δημιουργία νέας ομάδας"
+  },
+  "cm_sort_by": {
+    "message": "Ταξινόμηση κατά"
+  },
+  "sort_by_name": {
+    "message": "Όνομα"
+  },
+  "sort_by_note": {
+    "message": "Σημείωση"
+  },
+  "sort_by_url": {
+    "message": "URL"
+  },
+  "sort_by_date": {
+    "message": "Ημερομηνία δημιουργίας"
+  },
+  "sort_by_remove_empty_dials": {
+    "message": "Κατάργηση κενών κλήσεων"
+  },
+  "resize_dial": {
+    "message": "Αλλαγή μεγέθους"
+  },
+  "resize_dial_normal": {
+    "message": "Κανονική"
+  },
+  "resize_dial_v_half": {
+    "message": "Κάθετο μισό"
+  },
+  "resize_dial_h_half": {
+    "message": "Οριζόντιο μισό"
+  },
+  "resize_dial_small": {
+    "message": "Μικρή"
+  },
+  "resize_dial_tiny": {
+    "message": "Μικροσκοπική"
+  },
+  "resize_dial_micro": {
+    "message": "Υπερβολικά μικρή"
+  },
+  "rc_color": {
+    "message": "Χρώμα στήλης / σειράς"
+  },
+  "row_color": {
+    "message": "Χρώμα σειράς"
+  },
+  "col_color": {
+    "message": "Χρώμα στήλης"
+  },
+  "cm_refresh_dials": {
+    "message": "Ανανέωση εικόνων"
+  },
+  "cm_change_thumbnail": {
+    "message": "Αλλαγή εικόνας"
+  },
+  "cm_refresh_dial_background": {
+    "message": "Ανανέωση εικόνας στο παρασκήνιο"
+  },
+  "cm_advanced": {
+    "message": "Για προχωρημένους"
+  },
+  "cm_legacy_features": {
+    "message": "Χαρακτηριστικά παλαιού τύπου (μη χρησιμοποιείτε)"
+  },
+  "cm_restore_previous_thumbnail": {
+    "message": "Επαναφορά προηγούμενης μικρογραφίας"
+  },
+  "cm_public_upload": {
+    "message": "Μεταφόρτωση μικρογραφίας στη δημόσια βιβλιοθήκη"
+  },
+  "cm_synchronize_thumbnails": {
+    "message": "Συγχρονισμός μικρογραφιών με cloud λογαριασμό"
+  },
+  "cm_user_consent_google_favicon": {
+    "message": "Λήψη εικονιδίων με τη χρήση της υπηρεσίας Google"
+  },
+  "cm_remove_group": {
+    "message": "Κατάργηση ομάδας"
+  },
+  "cm_upload_thumbnails": {
+    "message": "Μεταφόρτωση μικρογραφιών"
+  },
+  "cm_upgrade_pro": {
+    "message": "Αναβάθμιση σε Pro"
+  },
+  "cm_pro_only": {
+    "message": "Μόνο σε Pro"
+  },
+  "save_group_created": {
+    "message": "Δημιουργήθηκε νέα ομάδα"
+  },
+  "refresh_all_title": {
+    "message": "Ανανέωση όλων των μικρογραφιών:"
+  },
+  "refresh_ok": {
+    "message": "Ανανέωση μικρογραφιών"
+  },
+  "refresh_all": {
+    "message": "Όλες οι μικρογραφίες"
+  },
+  "refresh_method": {
+    "message": "Μέθοδος ανανέωσης:"
+  },
+  "refresh_this_group": {
+    "message": "Όλα σε αυτήν την ομάδα"
+  },
+  "refresh_missing": {
+    "message": "Μόνο μικρογραφίες που λείπουν"
+  },
+  "refresh_group_dials": {
+    "message": "Μόνο ομάδες κλήσεων"
+  },
+  "refresh_auto_reload": {
+    "message": "Κλήσεις με ενεργοποιημένη την Αυτόματη επαναφόρτιση"
+  },
+  "pro_upgrade_label": {
+    "message": "Αναβάθμιση σε Pro"
+  },
+  "pro_upgrade_now_label": {
+    "message": "Αναβαθμίστε τώρα στο Pro"
+  },
+  "sync_down_thumbnails_title": {
+    "message": "Λήψη μικρογραφιών"
+  },
+  "sync_download_cloud_question": {
+    "message": "Είστε βέβαιοι ότι θέλετε να κάνετε λήψη των μικρογραφιών σας από το cloud;"
+  },
+  "sync_download_cloud_question_2": {
+    "message": "Αυτό θα αντικαταστήσει τις τρέχουσες τοπικές μικρογραφίες σας."
+  },
+  "sync_download_yes": {
+    "message": "Ναι, κατεβάστε"
+  },
+  "sync_download_no": {
+    "message": "Όχι"
+  },
+  "sync_conflict": {
+    "message": "Σύγκρουση συγχρονισμού"
+  },
+  "sync_conflict_body": {
+    "message": "Υπάρχει μια νεότερη έκδοση στο διακομιστή του Cloud, αλλά έχετε ορισμένες μη αποθηκευμένες τοπικές αλλαγές."
+  },
+  "sync_conflict_body_2": {
+    "message": "Θέλετε να αντικαταστήσετε την τοπική έκδοση;"
+  },
+  "sync_conflict_replace_local": {
+    "message": "Αντικατάσταση τοπικού"
+  },
+  "sync_conflict_replace_server": {
+    "message": "Αντικατάσταση στο διακομιστή"
+  },
+  "sync_err_account_title": {
+    "message": "Η έκδοση δεδομένων σας σχετίζεται με διαφορετικό λογαριασμό"
+  },
+  "sync_err_account_replace_local": {
+    "message": "Αντικατάσταση τοπικών"
+  },
+  "sync_err_account_replace_cloud": {
+    "message": "Αντικατάσταση στο cloud"
+  },
+  "sync_err_account_retry": {
+    "message": "Επανάληψη"
+  },
+  "sync_not_empty_title": {
+    "message": "Υπάρχουν ήδη κάποιες κλήσεις στο cloud"
+  },
+  "sync_not_empty_replace_local": {
+    "message": "Αντικατάσταση τοπικών"
+  },
+  "sync_not_empty_replace_cloud": {
+    "message": "Αντικατάσταση στο σύννεφο"
+  },
+  "sync_not_empty_replace_retry": {
+    "message": "Δοκιμή ξανά"
+  },
+  "sync_changed_account": {
+    "message": ""
+  },
+  "sync_changed_account_body": {
+    "message": ""
+  },
+  "login_login_create": {
+    "message": "Σύνδεση / Δημιουργία λογαριασμού"
+  },
+  "history_title": {
+    "message": "Δημιουργία αντιγράφων ασφαλείας / Ιστορικό"
+  },
+  "history_restore": {
+    "message": "Επαναφορά επιλεγμένων"
+  },
+  "history_loading": {
+    "message": "Φόρτωση ιστορικού..."
+  },
+  "history_cancel": {
+    "message": "Ακύρωση"
+  },
+  "history_revert_dials": {
+    "message": ""
+  },
+  "save_history_restored": {
+    "message": "τα δεδομένα αποκαταστάθηκαν από το ιστορικό"
+  },
+  "search_title": {
+    "message": "Αναζήτηση κλήσης"
+  },
+  "unexpected_title": {
+    "message": "Υπήρξε ένα απροσδόκητο σφάλμα!"
+  },
+  "unexpected_solution": {
+    "message": "Κάντε κλικ εδώ για να φορτώσετε ξανά το πρόσθετο (αν δεν σας βοηθήσει, προσπαθήστε να επανεκκινήσετε το πρόγραμμα περιήγησης ή τον υπολογιστή σας)."
+  },
+  "unexpected_body": {
+    "message": "Αποστολή ακόλουθου ημερολογίου σφαλμάτων στο e-mail υποστήριξης:"
+  },
+  "unexpected_thanks": {
+    "message": "Ευχαριστώ."
+  },
+  "unexpected_close": {
+    "message": "Κλείσιμο"
+  },
+  "err_mutable_title": {
+    "message": "Σφάλμα κατά τη φόρτωση της βάσης δεδομένων λόγω του απενεργοποιημένου Ιστορικού στο πρόγραμμα περιήγησής σας."
+  },
+  "err_mutable_body": {
+    "message": "Πρέπει να ορίσετε \"Θα διατηρεί το ιστορικό\" στον Firefox / Επιλογές / Απόρρητο και Ασφάλεια / Ιστορικό."
+  },
+  "err_is_firefox_bug": {
+    "message": "Πρόκειται για σφάλμα του Firefox."
+  },
+  "err_error_details": {
+    "message": "Λεπτομέρειες σφάλματος:"
+  },
+  "login_login_title": {
+    "message": "Σύνδεση για ενεργοποίηση cloud συγχρονισμού και πρόσβαση σε cloud-κλήσεις"
+  },
+  "menu_refresh_all": {
+    "message": "Ανανέωση όλων στην ομάδα / όσα λείπουν (μετά από συγχρονισμό) / όλες οι ομάδες κλήσεων"
+  },
+  "menu_history_title": {
+    "message": "Άνοιγμα παραθύρου διαχείρισης ιστορικού / αντιγράφων ασφαλείας"
+  },
+  "menu_pro_upload": {
+    "message": "Μόνο για εκδόσεις Pro - Μεταφόρτωση όλων των μικρογραφιών στο cloud και διαθέσιμες στην ιστοσελίδα των Cloud-κλήσων (ακόμα και στο τηλέφωνό σας!)"
+  },
+  "menu_pro_download": {
+    "message": "Μόνο για εκδόσεις Pro - Λήψη όλων των μικρογραφιών από το cloud που αντικαθιστούν τα τρέχοντα τοπικά."
+  },
+  "menu_page_to_dial": {
+    "message": "Προσθήκη σελίδας σε κλήση"
+  },
+  "menu_pages_to_dial": {
+    "message": "Προσθήκη καρτελών $1 στις κλήσεις"
+  },
+  "menu_cloud_dials": {
+    "message": "Cloud-κλήσεις"
+  },
+  "menu_dials_page": {
+    "message": "Μενού σελίδας κλήσεων"
+  },
+  "keys_ctrl_shift_f": {
+    "message": "Ctrl + Shift + F"
+  },
+  "ed_edit_dial": {
+    "message": "Επεξεργασία κλήσης:"
+  },
+  "ed_tab_general": {
+    "message": "Γενικά"
+  },
+  "ed_auto_reload": {
+    "message": "Αυτόματη επαναφόρτωση"
+  },
+  "ed_crop_scale": {
+    "message": "Περικοπή / Κλίμακα"
+  },
+  "screen_width": {
+    "message": "Πλάτος"
+  },
+  "screen_height": {
+    "message": "Ύψος"
+  },
+  "ed_tab_thumbnail": {
+    "message": "Μικρογραφία"
+  },
+  "ed_tab_visual": {
+    "message": "Οπτικό"
+  },
+  "ed_tab_settings": {
+    "message": "Ρυθμίσεις"
+  },
+  "ed_dial_title": {
+    "message": "Τίτλος κλήσης:"
+  },
+  "ed_dial_note": {
+    "message": "Σημείωση:"
+  },
+  "ed_link_to_page": {
+    "message": "Σύνδεση σε σελίδα:"
+  },
+  "ed_create_new_group": {
+    "message": "Σύνδεση σε νέα ομάδα:"
+  },
+  "ed_group_name": {
+    "message": "Όνομα:"
+  },
+  "ed_columns": {
+    "message": "Στήλες:"
+  },
+  "ed_rows": {
+    "message": "Σειρές:"
+  },
+  "ed_link_to_group": {
+    "message": "Σύνδεση σε υπάρχουσα ομάδα:"
+  },
+  "ed_page_dial": {
+    "message": "Κλήση ιστοσελίδας:"
+  },
+  "ed_group_dial": {
+    "message": "Ομαδική κλήση:"
+  },
+  "ed_text_dial": {
+    "message": "Κλήση κειμένου:"
+  },
+  "ed_search_dial": {
+    "message": "Κλήση αναζήτησης:"
+  },
+  "ed_multi_dial": {
+    "message": ""
+  },
+  "ed_live_dial": {
+    "message": "Ζωντανή κλήση:"
+  },
+  "ed_live_dial_title_1": {
+    "message": "Οι ζωντανές κλήσεις είναι ζωντανές ιστοσελίδες που φορτώνονται απευθείας σε μια κλήση."
+  },
+  "ed_live_dial_title_2": {
+    "message": "Δεν είναι δυνατή η φόρτωση κάθε ιστοσελίδας σε ζωντανή κλήση, αλλά οι περισσότερες σελίδες θα λειτουργήσουν."
+  },
+  "page_name": {
+    "message": ""
+  },
+  "search_provider_name": {
+    "message": "Όνομα"
+  },
+  "search_provider_url": {
+    "message": "URL"
+  },
+  "search_provider_icon": {
+    "message": "Εικονίδιο"
+  },
+  "search_provider_name_placeholder": {
+    "message": "Είσοδος ονόματος παρόχου αναζήτησης"
+  },
+  "search_provider_url_placeholder": {
+    "message": "Εισαγωγή διεύθυνσης URL - να περιέχει $1"
+  },
+  "search_provider_url_info": {
+    "message": "Δείτε ένα σεμινάριο για τη δημιουργία διεύθυνσης URL"
+  },
+  "search_add_more": {
+    "message": "προσθήκη περισσοτέρων μηχανών αναζήτησης"
+  },
+  "search_add_more_title": {
+    "message": "Μπορείτε να έχετε πολλές εισόδους αναζήτησης σε μία κλήση."
+  },
+  "search_provider_tip": {
+    "message": "Πατήστε \"Enter\" για αναζήτηση εδώ ή \"Ctrl + Enter\" για να ανοίξετε την αναζήτηση στη Νέα καρτέλα"
+  },
+  "multi_dial_import": {
+    "message": ""
+  },
+  "multi_dial_import_help_0": {
+    "message": ""
+  },
+  "multi_dial_import_help_1": {
+    "message": ""
+  },
+  "multi_dial_import_current": {
+    "message": ""
+  },
+  "multi_dial_title_action": {
+    "message": ""
+  },
+  "multi_dial_link_action": {
+    "message": ""
+  },
+  "multi_dial_title_action_0": {
+    "message": ""
+  },
+  "multi_dial_title_action_1": {
+    "message": ""
+  },
+  "multi_dial_link_action_0": {
+    "message": ""
+  },
+  "multi_dial_link_action_1": {
+    "message": ""
+  },
+  "live_dial_opt_no_interaction": {
+    "message": "Απενεργοποίηση αλληλεπίδρασης με τη σελίδα"
+  },
+  "live_dial_opt_hide_scrollbars": {
+    "message": "Απόκρυψη γραμμών κύλισης"
+  },
+  "dial_text_placeholder": {
+    "message": "Πληκτρολόγηση κειμένου εδώ"
+  },
+  "dial_click_to_clipboard": {
+    "message": "Αντιγραφή κειμένου στο πρόχειρο με κλικ στη κλήση"
+  },
+  "ed_ar_title": {
+    "message": "Αυτόματη επαναφόρτωση μικρογραφίας"
+  },
+  "ed_ar_disabled_radio": {
+    "message": "Απενεργοποιημένο"
+  },
+  "ed_ar_enabled_radio": {
+    "message": "Ενεργοποιημένο"
+  },
+  "ed_au_type_0": {
+    "message": "Επαναφόρτωση κάθε"
+  },
+  "ed_au_type_1": {
+    "message": "Καθημερινά"
+  },
+  "ed_au_type_2": {
+    "message": "Μηνιαία"
+  },
+  "ed_au_type_3": {
+    "message": "Καθημερινές"
+  },
+  "ed_au_type_4": {
+    "message": "Σαββατοκύριακα"
+  },
+  "ed_au_type_5": {
+    "message": "Δευτέρα"
+  },
+  "ed_au_type_6": {
+    "message": "Τρίτη"
+  },
+  "ed_au_type_7": {
+    "message": "Τετάρτη"
+  },
+  "ed_au_type_8": {
+    "message": "Πέμπτη"
+  },
+  "ed_au_type_9": {
+    "message": "Παρασκευή"
+  },
+  "ed_au_type_10": {
+    "message": "Σάββατο"
+  },
+  "ed_au_type_11": {
+    "message": "Κυριακή"
+  },
+  "ed_crop_off_radio": {
+    "message": "Αυτόματο"
+  },
+  "ed_crop_on_radio": {
+    "message": "Προσαρμοσμένο"
+  },
+  "ar_at": {
+    "message": "στο:"
+  },
+  "ar_hours": {
+    "message": "Ώρες"
+  },
+  "ar_minutes": {
+    "message": "Λεπτά"
+  },
+  "ar_dial_delay": {
+    "message": "Καθυστέρηση πριν από τη λήψη στιγμιότυπου:"
+  },
+  "ar_dial_delay_title": {
+    "message": "Μετά τη φόρτωση της σελίδας, θα περιμένουμε πριν δημιουργήσουμε μια μικρογραφία. Αυτό μπορεί να βοηθήσει αν η σελίδα φορτώνει το περιεχόμενό της με την πάροδο του χρόνου ή αν περιέχει σύνθετα γραφικά."
+  },
+  "ed_more_advanced": {
+    "message": "Περισσότερες επιλογές στις μελλοντικές εκδόσεις."
+  },
+  "ed_auto_generated_th_radio": {
+    "message": "Δημιουργία αυτόματης μικρογραφίας:"
+  },
+  "ed_blank_radio": {
+    "message": "Λευκό / συμπαγές χρώμα μικρογραφίας - χρήση χρώματος φόντου"
+  },
+  "ed_make_text_radio": {
+    "message": "Δημιουργία μικρογραφίας κειμένου με τη χρήση της ιστοσελίδας $1:"
+  },
+  "use_for_dial": {
+    "message": "Χρήση για κλήση"
+  },
+  "ed_custom_th_file": {
+    "message": "Προσαρμοσμένη μικρογραφία από αρχείο:"
+  },
+  "ed_custom_th_url": {
+    "message": "Προσαρμοσμένη μικρογραφία από διεύθυνση URL:"
+  },
+  "ed_public_thumbnail_radio": {
+    "message": "Μικρογραφία από τη δημόσια βιβλιοθήκη:"
+  },
+  "load_images": {
+    "message": "Φόρτωση εικόνων"
+  },
+  "load_images_empty": {
+    "message": "Δεν βρέθηκαν εικόνες για αυτόν τον τομέα"
+  },
+  "downloads": {
+    "message": "Λήψεις:"
+  },
+  "image_info": {
+    "message": "Πληροφορίες εικόνας:"
+  },
+  "image_extension": {
+    "message": "Τύπος εικόνας:"
+  },
+  "create_date": {
+    "message": "Ημερομηνία δημιουργίας:"
+  },
+  "image_file_size": {
+    "message": "Μέγεθος εικόνας:"
+  },
+  "resolution_too_low": {
+    "message": "Η ανάλυση είναι πολύ χαμηλή"
+  },
+  "report_image": {
+    "message": "Αναφορά εικόνας"
+  },
+  "category_vector_images": {
+    "message": "Διανυσματική εικόνα"
+  },
+  "category_high_dpi": {
+    "message": "Υψηλή ανάλυση"
+  },
+  "category_medium_dpi": {
+    "message": "Μεσαία ανάλυση"
+  },
+  "category_low_dpi": {
+    "message": "Χαμηλή ανάλυση"
+  },
+  "public_upload_consent": {
+    "message": "Μεταφορτώνοντας τη μικρογραφία στη δημόσια βιβλιοθήκη, συμφωνείτε με:"
+  },
+  "public_upload_body_1": {
+    "message": "Η μικρογραφία που φορτώθηκε στη δημόσια βιβλιοθήκη θα είναι διαθέσιμη σε όλους τους χρήστες!"
+  },
+  "public_upload_body_2": {
+    "message": "Μεταφορτωμένα δεδομένα περιέχουν - εικόνα μικρογραφίας, θέση μικρογραφίας, όνομα κλήσης. Άλλοι χρήστες δεν θα δουν ποιος μεταμόρφωσε τη μικρογραφία."
+  },
+  "label_sending": {
+    "message": "αποστολή ..."
+  },
+  "report_send": {
+    "message": "Αναφορά!"
+  },
+  "report_details_placeholder": {
+    "message": "Πρόσθετες πληροφορίες"
+  },
+  "report_type": {
+    "message": "Τύπος παραβίασης:"
+  },
+  "report_type_spam": {
+    "message": "ανεπιθύμητο"
+  },
+  "report_type_copyright": {
+    "message": "πνευματικά δικαιώματα"
+  },
+  "report_type_violent": {
+    "message": "βίαιη"
+  },
+  "report_type_unethical": {
+    "message": "ανήθικο"
+  },
+  "report_type_other": {
+    "message": "άλλο"
+  },
+  "ed_save_on_disk": {
+    "message": "Αποθήκευση στο δίσκο"
+  },
+  "ed_vr_resolution": {
+    "message": "Ανάλυση:"
+  },
+  "ed_vr_resolution_title": {
+    "message": "Ανάλυση της σελίδας κατά τη δημιουργία μικρογραφιών."
+  },
+  "ed_no_zoom": {
+    "message": "Χωρίς ζουμ"
+  },
+  "ed_top": {
+    "message": "επάνω"
+  },
+  "ed_left": {
+    "message": "αριστερά"
+  },
+  "ed_center": {
+    "message": "κέντρο"
+  },
+  "ed_align_left": {
+    "message": "ευθυγράμμιση αριστερά"
+  },
+  "ed_load_preview": {
+    "message": "Φόρτωση προεπισκόπησης"
+  },
+  "ed_reset_position": {
+    "message": "Επαναφορά θέσης"
+  },
+  "ed_reset_zoom": {
+    "message": "Επαναφορά ζουμ"
+  },
+  "ed_reset_size": {
+    "message": "Επαναφορά μεγέθους"
+  },
+  "ed_reset_scale": {
+    "message": "Επαναφορά κλίμακας"
+  },
+  "label_reset_all": {
+    "message": "Επαναφορά όλων"
+  },
+  "label_coming_soon": {
+    "message": "Σύντομα κοντά σας"
+  },
+  "label_save_changes": {
+    "message": "Αποθήκευση αλλαγών"
+  },
+  "label_discard_changes": {
+    "message": "Απόρριψη αλλαγών"
+  },
+  "label_create_all_thumbnails": {
+    "message": "Δημιουργία όλων των μικρογραφιών"
+  },
+  "label_create_thumbnail": {
+    "message": "Δημιουργία μικρογραφίας"
+  },
+  "ed_position": {
+    "message": "Θέση:"
+  },
+  "ed_thumbnail_position_0": {
+    "message": "Κέντρο (περιέχει)"
+  },
+  "ed_thumbnail_position_1": {
+    "message": "Πλήρες πλάτος - κορυφή ευθυγράμμισης"
+  },
+  "ed_thumbnail_position_2": {
+    "message": "Εξώφυλλο"
+  },
+  "ed_thumbnail_position_3": {
+    "message": "Συμπλήρωση (τεντώμενο)"
+  },
+  "ds_fetch_new_name": {
+    "message": "Ενημέρωση τίτλου κλήσης κατά την επαναφόρτωση (απαιτεί JavaScript)"
+  },
+  "ds_fetch_new_name_title": {
+    "message": "Κατά την επαναφόρτωση (ή αυτόματη επαναφόρτωση), ο τίτλος κλήσεων θα αλλάξει στον τρέχοντα τίτλο σελίδας. Για να λειτουργήσει αυτό, απαιτείται η ενεργοποίηση της JavaScript."
+  },
+  "ds_no_script": {
+    "message": "Απενεργοποίηση JavaScript κατά την επαναφόρτωση"
+  },
+  "ds_no_script_title": {
+    "message": "Η απενεργοποίηση της JavaScript μπορεί να βοηθήσει στην δημιουργία μικρογραφιών για ορισμένες σελίδες."
+  },
+  "ds_open_dial_in": {
+    "message": "Άνοιγμα κλήσης σε:"
+  },
+  "ds_open_dial_in_0": {
+    "message": "Τρέχουσα καρτέλα"
+  },
+  "ds_open_dial_in_1": {
+    "message": "Νέα καρτέλα (εστιασμένη)"
+  },
+  "ds_open_dial_in_2": {
+    "message": "Νέα καρτέλα"
+  },
+  "ds_open_dial_in_3": {
+    "message": "Νέο παράθυρο"
+  },
+  "ds_open_dial_in_4": {
+    "message": "Νέο Ιδιωτικό παράθυρο"
+  },
+  "open_in_chrome_incognito": {
+    "message": "Παράθυρο ανώνυμης περιήγησης"
+  },
+  "open_in_firefox_private": {
+    "message": "Ιδιωτικό παράθυρο"
+  },
+  "firefox_containers": {
+    "message": "Containers"
+  },
+  "no_container": {
+    "message": "Χωρίς container"
+  },
+  "eg_title": {
+    "message": "Επεξεργασία ομάδας"
+  },
+  "eg_position": {
+    "message": "Θέση:"
+  },
+  "eg_name": {
+    "message": "Όνομα:"
+  },
+  "eg_columns": {
+    "message": "Στήλες:"
+  },
+  "eg_rows": {
+    "message": "Σειρές:"
+  },
+  "eg_dials_ratio": {
+    "message": "Αναλογία κλήσεων:"
+  },
+  "eg_flexible": {
+    "message": "ευέλικτο"
+  },
+  "eg_fixed": {
+    "message": "σταθερό"
+  },
+  "group_eg_scrollable": {
+    "message": "Ομάδα με δυνατότητα κύλισης"
+  },
+  "eg_background_color": {
+    "message": "Χρώμα φόντου"
+  },
+  "eg_text_color": {
+    "message": "Χρώμα κειμένου"
+  },
+  "menu_search_title": {
+    "message": "Αναζήτηση κλήσης (Ctrl + Shift + F) - χρησιμοποιώντας τη διεύθυνση URL / Όνομα / Σημείωση"
+  },
+  "dial_number_title": {
+    "message": "Αριθμός κλήσης - χρήση με το πρόσθετο \"Ctrl + Number for Group Speed Dial\" για άνοιγμα αυτής της κλήσης με τη συντόμευση πληκτρολογίου."
+  },
+  "dial_name_placeholder": {
+    "message": "αυτόματη δημιουργία αν είναι κενό"
+  },
+  "dial_note_placeholder": {
+    "message": "οι σημειώσεις σας βοηθούν να βρείτε κλήσεις μέσω της δυνατότητας αναζήτησης (Ctrl + Shift + F)"
+  },
+  "dial_url_placeholder": {
+    "message": "δυνατότητα παράλείψης προθέματος http:// (παράδειγμα: google.com)"
+  },
+  "duplicate_dial_found": {
+    "message": ""
+  },
+  "op_search": {
+    "message": "Αναζήτηση κλήσης"
+  },
+  "op_refresh": {
+    "message": "Ανανέωση εικόνων"
+  },
+  "op_history": {
+    "message": "Ιστορικό / αντίγραφα ασφαλείας"
+  },
+  "menu_archive_title": {
+    "message": "Το Αρχείο περιέχει τις ομάδες σας που έχουν επισημανθεί ως Αρχειοθετημένες."
+  },
+  "op_upload_thumbnails": {
+    "message": "Μεταφόρτωση μικρογραφιών"
+  },
+  "op_download_thumbnails": {
+    "message": "Λήψη μικρογραφιών"
+  },
+  "op_pro_only": {
+    "message": "(μόνο Pro)"
+  },
+  "op_bing_image": {
+    "message": "Φόντο Bing"
+  },
+  "op_bing_next": {
+    "message": "Επόμενη εικόνα"
+  },
+  "op_bing_previous": {
+    "message": "Προηγούμενη εικόνα"
+  },
+  "op_bing_fullscreen": {
+    "message": "Εμφάνιση πλήρους εικόνας"
+  },
+  "op_bing_quiz": {
+    "message": "Κουίζ εικόνας Bing"
+  },
+  "o_bing_hide_dials": {
+    "message": "Αυτόματη απόκρυψη κλήσεων για θέαση φόντου"
+  },
+  "o_no_dial_reflection": {
+    "message": ""
+  },
+  "o_background_url_placeholder": {
+    "message": "παράδειγμα: https://www.some_page.com/nature.jpg"
+  },
+  "o_paste_import_placeholder": {
+    "message": "επικόλληση εξαγόμενου κειμένου εδώ"
+  },
+  "o_add_current_after_action": {
+    "message": "Μετά τη προσθήκη της τρέχουσας σελίδας σε κλήσεις:"
+  },
+  "o_add_current_after_action_0": {
+    "message": "Ερώτηση στο χρήστη για Επιστροφή / Παραμονή"
+  },
+  "o_add_current_after_action_1": {
+    "message": "Επιστροφή στη προηγούμενη καρτέλα"
+  },
+  "o_add_current_after_action_2": {
+    "message": "Παραμονή στη σελίδα κλήσεων"
+  },
+  "o_theme_title": {
+    "message": "προεπιλογή: μαύρο - για καλύτερο ύπνο τη νύχτα!"
+  },
+  "o_padding_title": {
+    "message": "Διάστημα γύρω από κάθε κλήση, ανάμεσα σε δύο κλήσεις η τιμή διπλασιάζεται."
+  },
+  "o_sync_dials": {
+    "message": "Συγχρονισμός κλήσεων"
+  },
+  "o_sync_settings": {
+    "message": "Συγχρονισμός ρυθμίσεων"
+  },
+  "o_disable_dials_sync": {
+    "message": "Απενεργοποίηση συγχρονισμού κλήσεων σε αυτή τη συσκευή"
+  },
+  "o_disable_dials_sync_title": {
+    "message": "Οι κλήσεις σας ΔΕΝ θα δημιουργούν αντίγραφα ασφαλείας στο cloud. Φροντίστε να δημιουργείτε τοπικά αντίγραφα ασφαλείας τακτικά για να αποτρέψετε απώλεια δεδομένων!"
+  },
+  "o_auto_options_sync": {
+    "message": "Αυτόματα αντίγραφα ασφαλείας και συγχρονισμός των επιλογών σας με όλες τις συσκευές"
+  },
+  "o_group_padding_title": {
+    "message": "Χώρος γύρω από κάθε όνομα ομάδας, μεταξύ δύο ομάδων η τιμή διπλασιάζεται."
+  },
+  "o_group_font_size_title": {
+    "message": "Μέγεθος κειμένου στην επάνω μπάρα."
+  },
+  "o_recommended_for_performance_title": {
+    "message": "Συνιστάται για καλύτερη απόδοση."
+  },
+  "o_two_gradient_colors_title": {
+    "message": "Επιλέξτε τουλάχιστον 2 χρώματα για να χρησιμοποιήσετε διαβάθμιση. - Η χρήση περίπλοκου βαθμιαίου φόντου μπορεί να επηρεάσει ελαφρώς την απόδοση."
+  },
+  "o_background_preview_title": {
+    "message": "Προεπισκόπηση φόντου"
+  },
+  "o_big_picture_warning_title": {
+    "message": "Η χρήση υπερβολικά μεγάλων εικόνων ενδέχεται να επηρεάσει αρνητικά την απόδοση (χρόνος φόρτωσης νέας καρτέλας)."
+  },
+  "o_group_delayed_activation_title": {
+    "message": "Αυτή η καθυστέρηση επιτρέπει την επιλογή μιας ομάδας ακόμα και όταν περιβάλλεται από άλλες ομάδες (αν έχετε 3 γραμμές από ομάδες)"
+  },
+  "o_auto_upload_title": {
+    "message": "Απαιτείται επαγγελματική έκδοση. - Η αυτόματη μεταφόρτωση μπορεί να είναι ενεργή μόνο σε μία συσκευή."
+  },
+  "o_no_title": {
+    "message": "Χωρίς τίτλο στις κλήσεις (μόνο μικρογραφίες)"
+  },
+  "o_no_title_title": {
+    "message": "Όταν είναι ενεργοποιημένο, όλα τα ονόματα κλήσεων θα αποκρύπτονται."
+  },
+  "o_squared_edges": {
+    "message": "Χωρίς στρογγυλές γωνίες"
+  },
+  "o_squared_edges_title": {
+    "message": "Όταν είναι ενεργοποιημένο, οι κλήσεις θα έχουν αιχμηρές γωνίες."
+  },
+  "o_dial_font_size": {
+    "message": "Μέγεθος γραμματοσειράς ονομάτων κλήσης"
+  },
+  "o_dial_title_down": {
+    "message": "Ονόματα κλήσης στο κάτω μέρος"
+  },
+  "o_dial_title_down_title": {
+    "message": "Όταν είναι ενεργοποιημένο, το όνομα κλήσης θα βρίσκεται στο κάτω μέρος."
+  },
+  "o_scrollable_thumbnails": {
+    "message": "Αποδοχή μετακίνησης της μικρογραφίας μέσα στη κλήση"
+  },
+  "o_no_shadow": {
+    "message": "Χωρίς σκιά γύρω από τις κλήσεις"
+  },
+  "o_no_shadow_title": {
+    "message": "Όταν είναι ενεργοποιημένο, η προεπιλεγμένη σκίαση γύρω από τις κλήσεις θα κρύβεται."
+  },
+  "o_hide_empty_dials": {
+    "message": "Απόκρυψη κενών κλήσεων"
+  },
+  "o_hide_empty_dials_title": {
+    "message": "Όταν είναι ενεργοποιημένο, όλες οι κενές κλήσεις θα είναι κρυμμένες."
+  },
+  "o_hide_hover_shadow": {
+    "message": "Απόκρυψη αιωρούμενης σκιάς"
+  },
+  "o_dial_numbers_title": {
+    "message": "Οι αριθμοί κλήσης θα εμφανίζονται δίπλα στο όνομα κλήσης. Οι αριθμοί για τις κλήσεις είναι χρήσιμοι στη χρήση του πρόσθετου \"Ctrl + Number for Group Speed Dial\" για να ανοίξετε τις κλήσεις χρησιμοποιώντας συντομεύσεις πληκτρολογίου."
+  },
+  "o_dial_numbers": {
+    "message": "Εμφάνιση αριθμών κλήσης"
+  },
+  "o_hide_hover_shadow_title": {
+    "message": "Όταν είναι ενεργοποιημένο, η αιωρούμενη σκιά θα απενεργοποιηθεί."
+  },
+  "o_hide_login_part": {
+    "message": "Απόκρυψη τμήματος σύνδεσης"
+  },
+  "o_hide_login_part_title": {
+    "message": "Κρύβει την ετικέτα \"Είσοδος / Δημιουργία λογαριασμού\" ή το cloud όνομα σας, αν είστε συνδεδεμένοι."
+  },
+  "o_hide_top_bar": {
+    "message": "Απόκρυψη ομάδων και τμήματος σύνδεσης"
+  },
+  "o_hide_top_bar_title": {
+    "message": "Όταν είναι ενεργοποιημένο, η λίστα ομάδων και το τμήμα σύνδεσης θα είναι κρυμμένα."
+  },
+  "o_hide_add_group": {
+    "message": "Απόκρυψη κουμπιού \"+\" στο τέλος της λίστας ομάδων"
+  },
+  "o_hide_add_group_title": {
+    "message": "Απόκρυψη κουμπιού +"
+  },
+  "o_root_groups_only": {
+    "message": "Απόκρυψη ενοποιημένων ομάδων από τη λίστα ομάδων (επάνω γραμμή)"
+  },
+  "o_root_groups_only_title": {
+    "message": "Εμφάνιση μόνο ομάδων ρίζας. Οι ομάδες που έχουν ομάδα- κλήση σε οποιαδήποτε ομάδα θα αποκρύπτονται."
+  },
+  "o_firefox_homepage_override": {
+    "message": "Όταν ξεκινά ο Firefox, άνοιγμα της σελίδας κλήσεων"
+  },
+  "o_pro_thumbnail_sync": {
+    "message": "Ενεργοποίηση αυτόματου συγχρονισμού μικρογραφιών με τον cloud διακομιστή"
+  },
+  "o_group_name_as_title": {
+    "message": "Ορισμός Τίτλου σελίδας κλήσεων ως ονόματος της τρέχουσας επιλεγμένης ομάδας"
+  },
+  "o_prevent_new_tab_container": {
+    "message": "Αποτροπή ανοίγματος σελίδας κλήσεων σε Firefox container"
+  },
+  "o_prevent_new_tab_container_title": {
+    "message": "Η σελίδα κλήσεων θα ανοίξει χωρίς container"
+  },
+  "o_group_name_as_title_title": {
+    "message": "Το όνομα ομάδας θα οριστεί ως Τίτλος σελίδας - αυτό μπορεί να είναι ορατό ως όνομα Καρτέλας ή όνομα στη γραμμή εργασιών."
+  },
+  "o_instant_popup_redirect": {
+    "message": "Εικονίδιο γραμμής εργαλείων - άμεση ανακατεύθυνση στη σελίδα κλήσεων"
+  },
+  "o_instant_popup_new_tab": {
+    "message": "άνοιγμα σε νέα καρτέλα"
+  },
+  "o_instant_popup_new_tab_title": {
+    "message": "Η νέα καρτέλα θα ανοίγει πάντα δίπλα στη τρέχουσα καρτέλα."
+  },
+  "o_user_consent_google_favicon": {
+    "message": "Ενεργοποιήστε τη χρήση της υπηρεσίας Google για να λάβετε Favicons για κλήσεις (χρησιμοποιείται μόνο όταν δεν είναι δυνατή η άμεση λήψη του favicon) - συνιστάται"
+  },
+  "o_instant_popup_redirect_title": {
+    "message": "Κλικ στο εικονίδιο της γραμμής εργαλείων για άνοιγμα σελίδας κλήσεων"
+  },
+  "o_disable_quick_edit": {
+    "message": "Απενεργοποίηση γρήγορης επεξεργασίας με αριστερό κλικ"
+  },
+  "o_disable_quick_edit_title": {
+    "message": "Το αριστερό κλικ σε κενή κλήση δεν θα εμφανίζει πλέον το πλαίσιο επεξεργασίας."
+  },
+  "o_open_always_new_window": {
+    "message": "Παντοτινό άνοιγμα σε Νέο παράθυρο"
+  },
+  "o_open_always_new_window_title": {
+    "message": "Κλικ στη κλήση θα ανοίγει τη διεύθυνση URL του σε νέο παράθυρο"
+  },
+  "o_open_always_new_tab": {
+    "message": "Παντοτινό άνοιγμα σε Νέα καρτέλα"
+  },
+  "o_open_always_new_tab_title": {
+    "message": "Κλικ στη κλήση θα ανοίγει τη διεύθυνση URL του σε νέα καρτέλα"
+  },
+  "o_open_always_include_group_dials": {
+    "message": "Συμπερίληψη ομάδων κλήσεων"
+  },
+  "o_open_always_include_group_dials_title": {
+    "message": "Οι ομάδες κλήσεων θα ανοίξουν επίσης σε νέα καρτέλα"
+  },
+  "o_open_always_focused": {
+    "message": "Αυτόματη εναλλαγή στη νέα καρτέλα"
+  },
+  "o_open_always_focused_title": {
+    "message": "Η πρόσφατη ανοικτή καρτέλα θα επικεντρωθεί επίσης"
+  },
+  "o_remember_group": {
+    "message": "Απομνημόνευση τελευταίας ανοιχτής ομάδας"
+  },
+  "o_remember_group_title": {
+    "message": "Όταν είναι ενεργοποιημένο, την επόμενη φορά που θα ανοίξετε τη σελίδα Νέα καρτέλα, θα μεταφερθείτε στη τελευταία επισκεπτόμενη ομάδα κλήσεων."
+  },
+  "o_remember_group_runtime": {
+    "message": "Απομνημόνευση μόνο μέχρι την επανεκκίνηση του προγράμματος περιήγησης"
+  },
+  "o_disable_auto_show_groups": {
+    "message": "Απενεργοποίηση της αυτόματης εμφάνισης λίστας ομάδων κατά τη χρήση της λειτουργίας \"Μεταφορά και απόθεση\""
+  },
+  "o_disable_auto_show_groups_title": {
+    "message": "Από προεπιλογή, όταν μετακινείτε και αποεπιλέγετε τις κλήσεις - είναι ορατή ολόκληρη η λίστα ομάδων για να ενεργοποιήσετε τη μετακίνηση μεταξύ όλων των ομάδων."
+  },
+  "o_scroll_groups": {
+    "message": "Μετακίνηση στις ομάδες"
+  },
+  "o_scroll_groups_title": {
+    "message": "Θα μπορείτε να χρησιμοποιήσετε τον τροχό του ποντικιού για μετακίνηση στις ομάδες."
+  },
+  "o_scroll_groups_reverse": {
+    "message": "Κατεύθυνση αντίστροφης κύλισης"
+  },
+  "o_scroll_groups_reverse_title": {
+    "message": "Η κύλιση ΠΑΝΩ μετακινεί στην επόμενη ομάδα."
+  },
+  "o_scroll_groups_circle": {
+    "message": "Κύκλος από την αρχή / το τέλος"
+  },
+  "o_scroll_groups_circle_title": {
+    "message": "Όταν ολοκληρωθεί, η περαιτέρω κύλιση θα μεταβεί στην αρχή (και αντίστροφα)."
+  },
+  "o_frame_jpeg": {
+    "message": "Χρήση JPEG αντί PNG"
+  },
+  "o_frame_jpeg_title": {
+    "message": "Η μορφή JPEG καταναλώνει λιγότερη μνήμη και χρειάζεται λιγότερο χρόνο για να σχεδιαστεί."
+  },
+  "o_visit_jpeg": {
+    "message": "Χρήση JPEG αντί PNG"
+  },
+  "o_visit_jpeg_title": {
+    "message": "Η μορφή JPEG καταναλώνει λιγότερη μνήμη και χρειάζεται λιγότερο χρόνο για να σχεδιαστεί."
+  },
+  "o_visit_jpeg_high_resolution": {
+    "message": "Χρησιμοποίηση υψηλής ανάλυσης"
+  },
+  "o_visit_jpeg_high_resolution_title": {
+    "message": "Η μικρογραφία θα έχει διπλή ανάλυση για τη βελτίωση της ποιότητας."
+  },
+  "o_current_dial_dimensions": {
+    "message": "Χρήση διαστάσεων τρέχουσας κλήσης (δεν συνιστάται)"
+  },
+  "o_current_dial_dimensions_title": {
+    "message": "Όταν είναι ενεργοποιημένο, το τρέχον μέγεθος κλήσης θα χρησιμοποιηθεί για τη στοχευμένη ανάλυση. Όταν απενεργοποιείται, η ανάλυση της στοχευμένης κλήσης υπολογίζεται με βάση την ανάλυση της οθόνης και τις σειρές / στήλες της ομάδας."
+  },
+  "o_context_menu_show_groups": {
+    "message": "Εμφάνιση λίστας ομάδων στο μενού περιβάλλοντος για γρήγορη εισαγωγή"
+  },
+  "o_context_menu_internal": {
+    "message": "Μενού περιβάλλοντος σελίδας κλήσεων:"
+  },
+  "o_dials_context_menu": {
+    "message": "Κλήσεις και ομάδες κλήσεων:"
+  },
+  "o_groups_context_menu": {
+    "message": "Ομάδες:"
+  },
+  "o_options_context_menu": {
+    "message": "Μενού επιλογών:"
+  },
+  "o_tab_visual_dials": {
+    "message": "Κλήσεις"
+  },
+  "o_tab_visual_groups": {
+    "message": "Ομάδες"
+  },
+  "o_tab_thumbnails": {
+    "message": "Μικρογραφίες"
+  },
+  "o_tab_image": {
+    "message": "Ποιότητα εικόνας"
+  },
+  "o_theme": {
+    "message": "Θέμα:"
+  },
+  "o_color_theme": {
+    "message": "Θέμα χρώματος:"
+  },
+  "o_custom_css": {
+    "message": "Προσαρμοσμένα στυλ CSS:"
+  },
+  "o_custom_css_placeholder": {
+    "message": "ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Μόνο για έμπειρους χρήστες! Λάθος στυλ μπορούν να χαλάσουν την οπτική εμπειρία."
+  },
+  "o_reload_group_dials": {
+    "message": "Επαναφόρτωση Ομάδων κλήσεων μετά την αλλαγή φόντου"
+  },
+  "o_dials": {
+    "message": "Κλήσεις:"
+  },
+  "o_dials_visual": {
+    "message": "Κλήσεις - οπτικό:"
+  },
+  "o_android_min_size": {
+    "message": "Μέγεθος κλήσης  σε Android"
+  },
+  "o_android_min_dial_size": {
+    "message": "Ελάχιστο μέγεθος κλήσης σε Android (0 - απενεργοποιημένο):"
+  },
+  "o_space_around_dials": {
+    "message": "Χώρος γύρω από τις κλήσεις:"
+  },
+  "o_group_list": {
+    "message": "Λίστα ομάδων:"
+  },
+  "o_space_around_groups": {
+    "message": "Χώρος γύρω από ομάδες:"
+  },
+  "o_group_list_size": {
+    "message": "Μέγεθος γραμματοσειράς λίστας ομάδας:"
+  },
+  "o_group_list_height": {
+    "message": "Ύψος λίστας ομάδας:"
+  },
+  "o_background_pic": {
+    "message": "Εικόνα φόντου:"
+  },
+  "o_gradient_type": {
+    "message": "Τύπος διαβάθμισης:"
+  },
+  "o_gradient_colors": {
+    "message": "Χρώματα διαβάθμισης:"
+  },
+  "o_gradient_solid": {
+    "message": "συμπαγές χρώμα - χωρίς διαβάθμιση"
+  },
+  "o_gradient_linear_up_down": {
+    "message": "γραμμική - πάνω / κάτω"
+  },
+  "o_gradient_linear_left_right": {
+    "message": "γραμμική - αριστερά / δεξιά"
+  },
+  "o_gradient_linear_diagonal": {
+    "message": "γραμμική - διαγώνια"
+  },
+  "o_gradient_radial_elipse": {
+    "message": "ακτινική - έλλειψη"
+  },
+  "o_gradient_radial_circle": {
+    "message": "ακτινική - κύκλος"
+  },
+  "o_choose_local_image": {
+    "message": "Επιλογή τοπικού αρχείου εικόνας..."
+  },
+  "o_copy_link": {
+    "message": "Αντιγραφή συνδέσμου αρχικής σελίδας"
+  },
+  "o_safari_dials_page_hotkeys": {
+    "message": ""
+  },
+  "o_how_to_homepage": {
+    "message": "για να ορίσετε το $app_name$ ως αρχική σελίδα - κάντε κλικ στο κουμπί \"Αντιγραφή συνδέσμου αρχικής σελίδας\" και, στη συνέχεια, επικολλήστε το στο Επιλογές / Αρχική"
+  },
+  "o_redirect_url": {
+    "message": "Παράκαμψη της σελίδας \"Νέα καρτέλα\" με URL:"
+  },
+  "o_redirect_url_placeholder": {
+    "message": "παράδειγμα: https://www.google.com/"
+  },
+  "o_redirect_url_title": {
+    "message": "ΠΡΟΕΙΔΟΠΟΙΗΣΗ: μπορείτε να χρησιμοποιείτε μόνο συνδέσμους για κανονικές ιστοσελίδες. Εσωτερικές σελίδες όπως η \"about:newtab\" δεν δουλεύουν! Μοναδικές εξαιρέσεις οι \"about:blank\" / \"about:home\"."
+  },
+  "o_groups": {
+    "message": "Ομάδες:"
+  },
+  "o_group_activation_delay": {
+    "message": "Καθυστέρηση ενεργοποίησης κατά τη χρήση της λειτουργίας \"Μεταφορά και Απόθεση\":"
+  },
+  "o_short_keys": {
+    "message": "Σύντομα πλήκτρα - απαιτείται ένα άλλο πρόσθετο:"
+  },
+  "o_key_extended_mode": {
+    "message": "Ενεργοποίηση πρόσβασης σε περισσότερες από 9 κλήσεις"
+  },
+  "o_key_extended_mode_title": {
+    "message": "Θα μπορείτε να καλέσετε αριθμούς πολλών ψηφίων."
+  },
+  "o_dial_only_current_group": {
+    "message": "Ταχεία κλήση μόνο στη τρέχουσα ανοικτή ομάδα"
+  },
+  "o_dial_only_current_group_title": {
+    "message": "Παράδειγμα: η κλήση \"1\" θα ανοίξει τη πρώτη κλήση στη τρέχουσα ανοικτή ομάδα."
+  },
+  "o_key_force_page_focus": {
+    "message": "Δέσμευση εστίασης στη σελίδα (πειραματική - μπορεί να σταματήσει να λειτουργεί)"
+  },
+  "o_key_force_page_focus_title": {
+    "message": "Αν η γραμμή διευθύνσεων είναι εστιασμένη, θα προσπαθήσουμε να εστιάσουμε στη σελίδα. Εντούτοις, θα απενεργοποιηθεί το κουμπί \"Πίσω\" μετά την πλοήγηση. Αυτό είναι πειραματικό χαρακτηριστικό και ενδέχεται να σταματήσει να λειτουργεί σε νέες εκδόσεις του Firefox."
+  },
+  "o_key_to_group_dial": {
+    "message": "Ενεργοποίηση πρόσβασης στις ομάδες κρατώντας το πλήκτρο:"
+  },
+  "o_key_to_group_dial_title": {
+    "message": "Παρόλο που το πλήκτρο είναι εκτός λειτουργίας - θα μπορείτε να καλέσετε ομάδες αντί για κλήσεις."
+  },
+  "o_key_disable_alt": {
+    "message": "Απενεργοποίηση πλήκτρων \"Alt\" / \"CMD\""
+  },
+  "o_key_disable_alt_title": {
+    "message": "Απενεργοποιεί τα σύντομα πλήκτρα με το πλήκτρο \"Alt\" στα Windows και το πλήκτρο εντολής \"CMD\" στο Mac OS."
+  },
+  "o_key_disable_ctrl": {
+    "message": "Απενεργοποίηση σύντομων πλήκτρων \"Ctrl\""
+  },
+  "o_key_disable_ctrl_title": {
+    "message": "Απενεργοποιεί τα σύντομα πλήκτρα με το πλήκτρο ελέγχου \"Ctrl\"."
+  },
+  "o_key_disable_shift": {
+    "message": "Απενεργοποίηση σύντομων πλήκτρων \"Shift\""
+  },
+  "o_key_disable_shift_title": {
+    "message": "Απενεργοποιεί τα σύντομα πλήκτρα με το πλήκτρο \"Shift\", για παράδειγμα \"Ctrl + Shift + 1\" ή \"Alt + Shift + 1\"."
+  },
+  "o_key_disable_f4": {
+    "message": "Απενεργοποίηση σύντομου πλήκτρου \"F4\" για άνοιγμα Νέας καρτέλας"
+  },
+  "o_key_disable_f4_title": {
+    "message": "Πατώντας το πλήκτρο \"F4\" δεν θα ανοίξει Νέας καρτέλα."
+  },
+  "o_key_f4_active_here": {
+    "message": "Άνοιγμα σελίδας κλήσεων στην ενεργή καρτέλα"
+  },
+  "o_key_disable_zero": {
+    "message": "Απενεργοποίηση σύντομου πλήκτρου \"Ctrl + 0\" για άνοιγμα δέκατης κλήσης"
+  },
+  "o_key_disable_zero_title": {
+    "message": "Πατώντας το πλήκτρο \"Ctrl + 0\" (χρησιμοποιείται για το \"Επαναφορά ζουμ\") δεν θα ανοίγει πλέον τη κλήση νούμερο 10."
+  },
+  "o_key_new_tab": {
+    "message": "Άνοιγμα σε Νέα καρτέλα"
+  },
+  "o_key_new_tab_title": {
+    "message": "Οι εισερχόμενες κλήσεις θα ανοίγουν πάντα σε νέες καρτέλες."
+  },
+  "o_key_next_to_current": {
+    "message": "δίπλα στη τρέχουσα καρτέλα"
+  },
+  "o_key_next_to_current_title": {
+    "message": "Οι εισερχόμενες κλήσεις θα ανοίξουν δίπλα στη τρέχουσα καρτέλα."
+  },
+  "o_keys_delay": {
+    "message": "Καθυστέρηση για αριθμούς πολλών ψηφίων:"
+  },
+  "o_ar_settings": {
+    "message": "Ρυθμίσεις αυτόματης επαναφόρτισης"
+  },
+  "o_ar_disable_this_device": {
+    "message": "Απενεργοποίηση σε αυτήν τη συσκευή"
+  },
+  "o_ar_disable_this_device_title": {
+    "message": "Η αυτόματη επαναφόρτωση θα απενεργοποιηθεί σε αυτό το πρόγραμμα περιήγησης."
+  },
+  "o_ar_keep_pinned_tab": {
+    "message": "Διατήρηση της καρτέλας επαναφόρτωσης ανοιγμένη μετά την επαναφόρτωση"
+  },
+  "o_ar_keep_pinned_tab_title": {
+    "message": "Η καρτέλα που χρησιμοποιείται για τη δημιουργία μικρογραφιών θα παραμείνει ανοικτή μετά την επαναφόρτωση."
+  },
+  "o_ar_concurrent_count": {
+    "message": "Μέγιστη ταυτόχρονη φόρτωση σελίδων"
+  },
+  "o_ar_concurrent_count_title": {
+    "message": "Περιορισμός αριθμού σελίδων που φορτώνονται  ταυτόχρονα κατά τη δημιουργία των μικρογραφιών. Η χαμηλότερη τιμή μπορεί να εξοικονομήσει CPU και μνήμη."
+  },
+  "o_ar_screen_resolution": {
+    "message": "Αυτόματη επαναφόρτωση της στοχευμένης ανάλυσης οθόνης"
+  },
+  "o_ar_auto_radio": {
+    "message": "Αυτόματη - με βάση την ανάλυση τρέχουσας οθόνης (συνιστάται)"
+  },
+  "o_ar_custom_radio": {
+    "message": "Εγχειρίδιο"
+  },
+  "o_ar_screen_resolution_help": {
+    "message": "Η ανάλυση μικρογραφιών υπολογίζεται από το μέγεθος της οθόνης και το στοχευμένο μέγεθος της ομάδας."
+  },
+  "o_vr_screen_resolution": {
+    "message": "Ανάλυση εικονικής σελίδας που χρησιμοποιείται κατά τη δημιουργία μικρογραφίας."
+  },
+  "o_vr_default_width": {
+    "message": "Προεπιλεγμένο εικονικό πλάτος σελίδας"
+  },
+  "o_vr_default_width_title": {
+    "message": "Πλάτος της σελίδας που χρησιμοποιείται κατά τη δημιουργία μικρογραφίας."
+  },
+  "o_thumb_timings": {
+    "message": "Χρονοδιαγράμματα και καθυστερήσεις δημιουργίας μικρογραφιών:"
+  },
+  "o_load_timeout": {
+    "message": "Μέγιστο χρονικό όριο για φόρτωση σελίδας:"
+  },
+  "o_context_menu_plus_delay": {
+    "message": "Επιπρόσθετη καθυστέρηση μενού περιβάλλοντος:"
+  },
+  "o_normal_reload_fixed_delay": {
+    "message": "Σταθερή καθυστέρηση κανονικής επαναφόρτωσης:"
+  },
+  "o_reload_visit_fixed_delay": {
+    "message": "Σταθερή καθυστέρηση επαναφόρτωσης με επίσκεψη:"
+  },
+  "o_thumbnails_delays_help": {
+    "message": "Αυτές οι καθυστερήσεις είναι χρήσιμες για τη δημιουργία μικρογραφιών - πολλές σελίδες χρησιμοποιούν javascript για να ολοκληρώσουν τη φόρτωση του περιεχομένου και το πρόγραμμα περιήγησης συχνά χρειάζεται λίγα χιλιοστά του δευτερολέπτου για να σχεδιάσει τη σελίδα."
+  },
+  "o_img_quality_default_reload": {
+    "message": "Ποιότητα εικόνας - προεπιλεγμένη φόρτωση:"
+  },
+  "o_img_compression_level": {
+    "message": "επίπεδο συμπίεσης"
+  },
+  "o_img_quality_reload_visit": {
+    "message": "Ποιότητα εικόνας - επαναφόρτωση κατά επίσκεψη:"
+  },
+  "o_context_menu_dials_page": {
+    "message": "Μενού περιβάλλοντος στη σελίδα Κλήσεων:"
+  },
+  "o_backup_restore": {
+    "message": "Δημιουργία αντιγράφων ασφαλείας / επαναφορά ρυθμίσεων σε αρχείο:"
+  },
+  "o_export_dials": {
+    "message": "Εξαγωγή ρυθμίσεων και κλήσεων"
+  },
+  "o_export_thumbnails": {
+    "message": "Εξαγωγή επίσης μικρογραφιών - αυτό θα αυξήσει σημαντικά το μέγεθος του αρχείου εξαγωγής"
+  },
+  "o_import_other_addons": {
+    "message": "Εισαγωγή από άλλα πρόσθετα:"
+  },
+  "o_import_josep": {
+    "message": "Εισαγωγή κλήσεων από το πρόσθετο \"Speed Dial by Josep del Rio\":"
+  },
+  "o_import_fvd": {
+    "message": "Εισαγωγή κλήσεων από το πρόσθετο \"Speed Dial [FVD] by Nimbus Web\":"
+  },
+  "o_import_firefox_bookmarks": {
+    "message": "Εισαγωγή κλήσεων από τους σελιδοδείκτες του Firefox αρχείο \".json\":"
+  },
+  "o_import_fast_dial": {
+    "message": "Εισαγωγή κλήσεων από το πρόσθετο \"Fast Dial by telega\":"
+  },
+  "o_import_super_start_bookmarks": {
+    "message": "Εισαγωγή κλήσεων από το πρόσθετο \"Super Start by cyberscorpio\":"
+  },
+  "o_import_speed_dial_2": {
+    "message": "Εισαγωγή κλήσεων από το πρόσθετο \"Speed Dial 2 by speeddial2.com\":"
+  },
+  "o_replace_existing": {
+    "message": "Αντικατάσταση υπαρχουσών κλήσεων"
+  },
+  "o_import_from_text": {
+    "message": "Από κείμενο:"
+  },
+  "o_about_cloud_dials": {
+    "message": "Cloud-κλήσεις:"
+  },
+  "o_auto_upload_pro": {
+    "message": "Αυτόματη μεταφόρτωση μικρογραφιών (μόνο Pro)"
+  },
+  "o_picture_from_url": {
+    "message": "εικόνα από διεύθυνση URL:"
+  },
+  "o_picture_is_web_page": {
+    "message": "ιστοσελίδα ως φόντο:"
+  },
+  "o_picture_bing_of_the_day": {
+    "message": "Εικόνα Bing της ημέρας:"
+  },
+  "o_picture_bing_of_the_day_note": {
+    "message": "νέα εικόνα κάθε μέρα από $1"
+  },
+  "o_picture_bing_of_the_day_help": {
+    "message": "Μπορείτε να ελέγξετε την εικόνα Bing από το κύριο μενού στη σελίδα κλήσεων."
+  },
+  "o_picture_from_pc": {
+    "message": "εικόνα από υπολογιστή:"
+  },
+  "o_gradient_colors_sm": {
+    "message": "Χρώματα διαβάθμισης:"
+  },
+  "o_none_fastest": {
+    "message": "κανένα (ταχύτερο)"
+  },
+  "o_watch_youtube_import": {
+    "message": "Παρακολουθήστε ένα σεμινάριο στο YouTube"
+  },
+  "o_cloud_backup_instead": {
+    "message": "Ωστόσο, μπορείτε να δημιουργήσετε έναν δωρεάν λογαριασμό στο cloud και οι κλήσεις σας θα αποθηκεύονται αυτόματα στο cloud. Όλα τα δεδομένα μεταφέρονται μέσω κρυπτογραφημένης σύνδεσης HTTPS."
+  },
+  "reload_heading": {
+    "message": "$app_name$ - καρτέλα επαναφόρτωσης μικρογραφιών"
+  },
+  "reload_subheading": {
+    "message": "Αυτή η καρτέλα χρησιμοποιείται από τη λειτουργία Αυτόματης επαναφόρτισης και δημιουργεί μικρογραφίες στο παρασκήνιο."
+  },
+  "archive": {
+    "message": "Αρχείο"
+  },
+  "archived": {
+    "message": "αρχειοθετημένο"
+  },
+  "archive_empty": {
+    "message": "Το αρχείο είναι άδειο"
+  },
+  "archive_empty_body": {
+    "message": "Σημειώστε πρώτα κάποια ομάδα ως αρχειοθετημένη."
+  },
+  "archive_close_title": {
+    "message": "Κάντε κλικ για να κλείσετε το αρχείο"
+  },
+  "group_archive_group": {
+    "message": "Μετακίνηση ομάδας σε αρχειοθέτηση"
+  },
+  "group_archive_group_title": {
+    "message": "Οι αρχειοθετημένες ομάδες δεν είναι ορατές στη λίστα των ομάδων. Μπορείτε να αποκτήσετε πρόσβαση σε αυτές από το Κύριο μενού / Αρχείο."
+  },
+  "productivity_mode": {
+    "message": ""
+  },
+  "productivity_mode_title": {
+    "message": ""
+  },
+  "auto_productivity_mode": {
+    "message": ""
+  },
+  "active_days": {
+    "message": ""
+  },
+  "start_time": {
+    "message": ""
+  },
+  "end_time": {
+    "message": ""
+  },
+  "elapsed_time": {
+    "message": ""
+  },
+  "remaining_time": {
+    "message": ""
+  },
+  "start_productivity": {
+    "message": ""
+  },
+  "end_productivity": {
+    "message": ""
+  },
+  "choose_distracting_dials": {
+    "message": ""
+  },
+  "selected_dials_groups": {
+    "message": ""
+  },
+  "s_cp": {
+    "message": "Προμηθευτής προσαρμοσμένης αναζήτησης"
+  },
+  "sc_0": {
+    "message": "Προσαρμοσμένο"
+  },
+  "sc_1": {
+    "message": "Διαδικτυακή αναζήτηση"
+  },
+  "sc_2": {
+    "message": "Μετάφραση"
+  },
+  "sc_3": {
+    "message": "Βίντεο"
+  },
+  "sc_4": {
+    "message": "Μέσα κοινωνικής δικτύωσης"
+  },
+  "sc_5": {
+    "message": "Χάρτες"
+  },
+  "sc_6": {
+    "message": "Μουσική"
+  },
+  "sc_7": {
+    "message": "Βίντεο"
+  },
+  "sc_8": {
+    "message": "Άλλα"
+  },
+  "search_engine": {
+    "message": "",
+    "common": true
+  },
+  "color_remove_color": {
+    "message": "αφαίρεση χρώματος",
+    "common": true
+  },
+  "color_transparent": {
+    "message": "διαφανές",
+    "common": true
+  },
+  "color_rgb": {
+    "message": "RGB",
+    "common": true
+  },
+  "color_no_color": {
+    "message": "χωρίς χρώμα",
+    "common": true
+  },
+  "field_int_default_value": {
+    "message": "Προεπιλεγμένη τιμή: $1, min: $2, max: $3",
+    "common": true
+  },
+  "field_set_default": {
+    "message": "Επαναφορά στην προεπιλογή: $1",
+    "common": true
+  },
+  "import_finished": {
+    "message": "Η εισαγωγή ολοκληρώθηκε!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Σφάλμα",
+    "common": true
+  },
+  "pro_required": {
+    "message": "Απαιτείται έκδοση Pro",
+    "common": true
+  },
+  "version_free": {
+    "message": "$1 έκδοση (δωρεάν) - μόνο για μη εμπορική χρήση",
+    "common": true
+  },
+  "version_pro": {
+    "message": "έκδοση $1",
+    "common": true
+  },
+  "msg_pro_header": {
+    "message": "Αυτή η λειτουργία είναι διαθέσιμη μόνο στην επαγγελματική έκδοση.",
+    "common": true
+  },
+  "msg_pro_support": {
+    "message": "Υποστηρίξτε τη μελλοντική ανάπτυξη αυτού του πρόσθετου με αναβάθμιση.",
+    "common": true
+  },
+  "statistics": {
+    "message": "",
+    "common": true
+  },
+  "color_black": {
+    "message": "Μαύρο",
+    "common": true
+  },
+  "color_white": {
+    "message": "Λευκό",
+    "common": true
+  },
+  "theme_light": {
+    "message": "",
+    "common": true
+  },
+  "theme_dark": {
+    "message": "",
+    "common": true
+  },
+  "title_introduction": {
+    "message": "Εισαγωγή",
+    "common": true
+  },
+  "title_got_it": {
+    "message": "Το κατάλαβα, Ας ξεκινήσουμε!",
+    "common": true
+  },
+  "privacy_info": {
+    "message": "Πληροφορίες απορρήτου",
+    "common": true
+  },
+  "search_search": {
+    "message": "Αναζήτηση",
+    "common": true
+  },
+  "search_close": {
+    "message": "Κλείσιμο",
+    "common": true
+  },
+  "email_send_me": {
+    "message": "αποστολή e-mail",
+    "common": true
+  },
+  "send_runtime_error_log": {
+    "message": "Αποστολή αρχείων καταγραφής σφαλμάτων...",
+    "common": true
+  },
+  "send_runtime_errors": {
+    "message": "Κάντε κλικ στον παρακάτω σύνδεσμο για να μου στείλετε ένα e-mail με τις πληροφορίες που μπορείτε να δείτε παρακάτω:",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Σελίδα πρόσθετων για τον Firefox",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "σελίδα Chrome Web Store",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Επιλογές",
+    "common": true
+  },
+  "menu_quick_options": {
+    "message": "Γρήγορες επιλογές",
+    "common": true
+  },
+  "menu_visit_homepage": {
+    "message": "Επίσκεψη αρχικής σελίδας",
+    "common": true
+  },
+  "key_name_ctrl": {
+    "message": "Ctrl",
+    "common": true
+  },
+  "key_name_alt": {
+    "message": "Alt",
+    "common": true
+  },
+  "key_name_shift": {
+    "message": "Μετατόπιση",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Μέγεθος γραμματοσειράς",
+    "common": true
+  },
+  "label_font_size_preview": {
+    "message": "Προεπισκόπηση μεγέθους γραμματοσειράς",
+    "common": true
+  },
+  "label_previous": {
+    "message": "",
+    "common": true
+  },
+  "label_back": {
+    "message": "",
+    "common": true
+  },
+  "label_next": {
+    "message": "Επόμενο",
+    "common": true
+  },
+  "label_note": {
+    "message": "Σημείωση:",
+    "common": true
+  },
+  "label_not_supported_by_browser": {
+    "message": "",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Αφαίρεση",
+    "common": true
+  },
+  "label_warning": {
+    "message": "ΠΡΟΕΙΔΟΠΟΙΗΣΗ:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Επιλογές:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Προεπιλογή:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Ολοκληρώθηκε!",
+    "common": true
+  },
+  "label_copy": {
+    "message": "",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Αντιγράφηκε!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Προσαρμοσμένο:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Κλείσιμο",
+    "common": true
+  },
+  "label_maximize": {
+    "message": "Μεγιστοποίηση",
+    "common": true
+  },
+  "label_minimize": {
+    "message": "",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Εγκαταστήθηκε",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Άνοιγμα σελίδας",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Έγκριση",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Ακύρωση",
+    "common": true
+  },
+  "label_active": {
+    "message": "",
+    "common": true
+  },
+  "label_inactive": {
+    "message": "",
+    "common": true
+  },
+  "label_paused": {
+    "message": "",
+    "common": true
+  },
+  "label_pause": {
+    "message": "",
+    "common": true
+  },
+  "label_resume": {
+    "message": "",
+    "common": true
+  },
+  "label_select_all": {
+    "message": "",
+    "common": true
+  },
+  "label_select_none": {
+    "message": "",
+    "common": true
+  },
+  "label_minutes": {
+    "message": "",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Κλίμακα:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Ζουμ:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Μέγεθος:",
+    "common": true
+  },
+  "label_example": {
+    "message": "",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Μενού",
+    "common": true
+  },
+  "menu_visit_title": {
+    "message": "Επίσκεψη αρχικής σελίδας",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Επισκεφθείτε την αρχική σελίδα",
+    "common": true
+  },
+  "online_help": {
+    "message": "",
+    "common": true
+  },
+  "online_help_info": {
+    "message": "",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Βοηθήστε αυτό το έργο",
+    "common": true
+  },
+  "op_help": {
+    "message": "Βοήθεια",
+    "common": true
+  },
+  "op_help_introduction": {
+    "message": "Εισαγωγικό βίντεο",
+    "common": true
+  },
+  "op_help_safari_setup": {
+    "message": "",
+    "common": true
+  },
+  "op_help_android_setup": {
+    "message": "Βίντεο ρύθμισης Android",
+    "common": true
+  },
+  "o_title": {
+    "message": "Επιλογές - $1",
+    "common": true
+  },
+  "o_manual_options_sync": {
+    "message": "Μη αυτόματη δημιουργία αντιγράφων ασφαλείας",
+    "common": true
+  },
+  "automatic_backup": {
+    "message": "αυτόματη δημιουργία αντιγράφων ασφαλείας",
+    "common": true
+  },
+  "backup": {
+    "message": "αντίγραφο ασφαλείας",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Δημιουργία νέου αντίγραφου ασφαλείας",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Αποθήκευση ρυθμίσεων",
+    "common": true
+  },
+  "load_settings": {
+    "message": "Φόρτωση ρυθμίσεων",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Γενικά",
+    "common": true
+  },
+  "o_tab_sync": {
+    "message": "Συγχρονισμός",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Φόντο",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Μενού περιβάλλοντος",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Σύντομα πλήκτρα",
+    "common": true
+  },
+  "o_tab_import": {
+    "message": "Αντίγραφα ασφαλείας",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "Σχετικά",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "εικονοκύτταρα",
+    "common": true
+  },
+  "o_general": {
+    "message": "Γενικά:",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "χιλιοστά του δευτερολέπτου",
+    "common": true
+  },
+  "o_special_features": {
+    "message": "Ειδικά χαρακτηριστικά:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "απενεργοποιημένο",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "ενεργοποιημένο",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "δευτερόλεπτα",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Μενού περιβάλλοντος:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Εισαγωγή",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Γεια σας :)",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Εάν σας αρέσει, παρακαλώ βαθμολογήστε το εδώ:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Αν δεν σας αρέσει, παρακαλώ ενημερώστε μας γιατί στο e-mail μου. Αποδέχομαι τα περισσότερα αιτήματα χαρακτηριστικών που δέχομαι.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Παρακαλώ σκεφτείτε να υποστηρίξετε το έργο μου με το να",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "δωρεά (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "να γίνετε ο Patron μου",
+    "common": true
+  },
+  "o_about_support_by_update": {
+    "message": "αναβαθμιστείτε σε έκδοση Professional",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Σας ευχαριστώ!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "Αρχική σελίδα:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Επικοινωνία:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Αναφορά ζητημάτων:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Μπορώ να απαντήσω μόνο στα Αγγλικά / Σλοβακικά",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Μέσα κοινωνικής δικτύωσης:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Αποθήκευση αλλαγών και κλείσιμο",
+    "common": true
+  },
+  "o_saved": {
+    "message": "αποθηκεύτηκε!",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Το όνομά μου είναι ο $1$ και είμαι ο συντάκτης του $app_name$.",
+    "common": true
+  },
+  "s_baidu": {
+    "message": "Baidu",
+    "common": true
+  },
+  "s_google": {
+    "message": "Google",
+    "common": true
+  },
+  "s_bing": {
+    "message": "Bing",
+    "common": true
+  },
+  "s_yahoo": {
+    "message": "Yahoo",
+    "common": true
+  },
+  "s_brave": {
+    "message": "Brave",
+    "common": true
+  },
+  "s_yandex": {
+    "message": "Yandex",
+    "common": true
+  },
+  "s_duck_duck_go": {
+    "message": "DuckDuckGo",
+    "common": true
+  },
+  "s_qwant": {
+    "message": "Qwant",
+    "common": true
+  },
+  "s_ecosia": {
+    "message": "Ecosia",
+    "common": true
+  },
+  "s_seznam": {
+    "message": "Seznam",
+    "common": true
+  },
+  "s_translate_en": {
+    "message": "Google Translate",
+    "common": true
+  },
+  "s_translate_microsoft_en": {
+    "message": "Microsoft Translator",
+    "common": true
+  },
+  "s_translate_deepl_en": {
+    "message": "DeepL Translator",
+    "common": true
+  },
+  "s_translate_yandex_en": {
+    "message": "Yandex Translator",
+    "common": true
+  },
+  "s_translate_baidu_en": {
+    "message": "Baidu Translator",
+    "common": true
+  },
+  "s_wikipedia": {
+    "message": "Wikipedia",
+    "common": true
+  },
+  "s_youtube": {
+    "message": "YouTube",
+    "common": true
+  },
+  "s_google_maps": {
+    "message": "Google Maps",
+    "common": true
+  },
+  "s_twitter": {
+    "message": "Twitter",
+    "common": true
+  },
+  "s_facebook": {
+    "message": "Facebook",
+    "common": true
+  },
+  "s_imdb": {
+    "message": "IMDb",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Κανένα αποτελέσμα",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Χωρίς δεδομένα",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Σκοτεινή λειτουργία",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Έλεγχος από το σύστημα",
+    "common": true
+  }
+}

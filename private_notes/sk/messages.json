@@ -1,0 +1,341 @@
+{
+  "_description_feature_1": {
+    "message": ""
+  },
+  "_description_feature_2": {
+    "message": ""
+  },
+  "_description_tags_pn": {
+    "message": ""
+  },
+  "app_name": {
+    "message": "Private Notes"
+  },
+  "app_desc": {
+    "message": ""
+  },
+  "compression_level_0": {
+    "message": ""
+  },
+  "compression_level_1": {
+    "message": ""
+  },
+  "compression_level_2": {
+    "message": ""
+  },
+  "compression_level_info_0": {
+    "message": ""
+  },
+  "compression_level_info_1": {
+    "message": ""
+  },
+  "compression_level_info_2": {
+    "message": ""
+  },
+  "title_notes": {
+    "message": ""
+  },
+  "restore_backup": {
+    "message": ""
+  },
+  "create_new_note": {
+    "message": ""
+  },
+  "auto_locking_strategy_0": {
+    "message": ""
+  },
+  "auto_locking_strategy_1": {
+    "message": ""
+  },
+  "restore_note": {
+    "message": ""
+  },
+  "locked": {
+    "message": ""
+  },
+  "change_master_password": {
+    "message": ""
+  },
+  "import_export": {
+    "message": ""
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "notes_auto_saved_placeholder": {
+    "message": ""
+  },
+  "setup_new_pwd": {
+    "message": ""
+  },
+  "change_pwd": {
+    "message": ""
+  },
+  "pwd_to_change": {
+    "message": ""
+  },
+  "current_pwd": {
+    "message": ""
+  },
+  "new_pwd_advice": {
+    "message": ""
+  },
+  "repeat_pwd": {
+    "message": ""
+  },
+  "hint_pwd": {
+    "message": ""
+  },
+  "pwd_warning": {
+    "message": ""
+  },
+  "remember_pwd_0": {
+    "message": ""
+  },
+  "remember_pwd_1": {
+    "message": ""
+  },
+  "remember_pwd_2": {
+    "message": ""
+  },
+  "pwd_save": {
+    "message": ""
+  },
+  "error_saving_note": {
+    "message": ""
+  },
+  "quota_bytes_per_item": {
+    "message": ""
+  },
+  "quota_bytes": {
+    "message": ""
+  },
+  "max_items": {
+    "message": ""
+  },
+  "max_write_operations_per_hour": {
+    "message": ""
+  },
+  "max_write_operations_per_minute": {
+    "message": ""
+  },
+  "security": {
+    "message": ""
+  },
+  "visual_options": {
+    "message": ""
+  },
+  "compression_level": {
+    "message": ""
+  },
+  "auto_locking_strategy": {
+    "message": ""
+  },
+  "auto_lock_inactive_for": {
+    "message": ""
+  },
+  "dense_notes_list": {
+    "message": ""
+  },
+  "import_replace_all": {
+    "message": ""
+  },
+  "export_encrypted": {
+    "message": ""
+  },
+  "minutes": {
+    "message": ""
+  },
+  "label_font_size": {
+    "message": "Veľkosť textu"
+  },
+  "sidebar_size": {
+    "message": ""
+  },
+  "popup_window_width": {
+    "message": ""
+  },
+  "popup_window_height": {
+    "message": ""
+  },
+  "always_open_in_new_tab": {
+    "message": ""
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Chrome obchod"
+  },
+  "firefox_store": {
+    "message": "Firefox doplnky"
+  },
+  "import_finished": {
+    "message": "Import dokočený"
+  },
+  "import_error": {
+    "message": "Error"
+  },
+  "import_backup_file": {
+    "message": "Importovať zálohovací súbor $1"
+  },
+  "search_search": {
+    "message": "Hľadaj"
+  },
+  "title_import": {
+    "message": "Import"
+  },
+  "title_export": {
+    "message": "Export"
+  },
+  "title_backups": {
+    "message": ""
+  },
+  "homepage": {
+    "message": "Domovská stránka"
+  },
+  "addon_page": {
+    "message": "Stránka dopnku"
+  },
+  "settings": {
+    "message": ""
+  },
+  "options": {
+    "message": ""
+  },
+  "label_backups": {
+    "message": ""
+  },
+  "label_rename": {
+    "message": ""
+  },
+  "label_download": {
+    "message": ""
+  },
+  "label_delete": {
+    "message": ""
+  },
+  "label_next": {
+    "message": "Ďalej"
+  },
+  "label_note": {
+    "message": "Poznámka:"
+  },
+  "label_remove": {
+    "message": "Odstrániť"
+  },
+  "label_warning": {
+    "message": "POZOR:"
+  },
+  "label_default": {
+    "message": "Štandardné:"
+  },
+  "label_done": {
+    "message": "Hotovo!"
+  },
+  "label_copied": {
+    "message": "Skopírované!"
+  },
+  "label_close": {
+    "message": "Zavrieť"
+  },
+  "label_open_page": {
+    "message": "Otvoriť stránku"
+  },
+  "label_agree": {
+    "message": "Súhlasím"
+  },
+  "label_cancel": {
+    "message": "Zrušiť"
+  },
+  "op_support_me": {
+    "message": "Pomôž tomuto projektu"
+  },
+  "support_developer": {
+    "message": "Podpor programátora z Dolného Kubína!"
+  },
+  "hello_there": {
+    "message": "Ahoj!"
+  },
+  "about_me": {
+    "message": "Som vývojár doplnkov od roku 2016 a mojím cieľom je vytvoriť výkonné rozšírenia pre Tvoj webový prehliadač, aby si dosiahol vyššiu produktivitu."
+  },
+  "about_good_job": {
+    "message": "Ak si myslíš, že odvádzam dobrú prácu, prosím podpor ma :)"
+  },
+  "about_income": {
+    "message": "Tvoj dar je mojím jediným príjmom!"
+  },
+  "about_thanks": {
+    "message": "Ďakujem za podporu mojej práce!"
+  },
+  "o_tab_context_menu": {
+    "message": "Kontextové menu"
+  },
+  "o_tab_about": {
+    "message": "O rozšírení"
+  },
+  "o_pixels": {
+    "message": "pixelov"
+  },
+  "o_seconds": {
+    "message": "sekúnd"
+  },
+  "label_or": {
+    "message": "alebo"
+  },
+  "o_about_hello": {
+    "message": "Ahoj :)"
+  },
+  "o_about_intro": {
+    "message": "Volám sa $1$, som z Dolného Kubína a som autorom rozšírenia $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Ak sa ti páči, neváhaj a napíš mi hodnotenie tu:"
+  },
+  "o_about_thanks": {
+    "message": "Ďakujem!"
+  },
+  "o_about_contact": {
+    "message": "Kontakt:"
+  },
+  "o_about_issues": {
+    "message": "Nahlásiť problémy:"
+  },
+  "o_about_social_media": {
+    "message": "Sociálne médiá:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankový prevod pomocou IBAN:"
+  },
+  "used_space": {
+    "message": "Použitý priestor: $1 / $2"
+  },
+  "ps_no_results": {
+    "message": "Žiadne zodpovedajúce výsledky"
+  },
+  "label_no_data": {
+    "message": "Žiadne dáta"
+  },
+  "dark_mode": {
+    "message": "Tmavý režim"
+  },
+  "dark_mode_system": {
+    "message": "Ovládané systémom"
+  },
+  "open_in_new_tab": {
+    "message": "Otvoriť v novej karte"
+  },
+  "_description_features": {
+    "message": ""
+  },
+  "_description_privacy_policy": {
+    "message": "Zásady ochrany osobných údajov"
+  },
+  "_description_recent_features": {
+    "message": "Nedávno pridané funkcie:"
+  },
+  "_description_common_tags": {
+    "message": "Tagy:"
+  }
+}

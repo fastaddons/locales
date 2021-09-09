@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "ఎంచుకున్న వచనాన్ని అనువదించండి (సందర్భం మెను నుండి)"
+  },
+  "_description_feature_2": {
+    "message": "మొత్తం పేజీ అనువాదం"
+  },
+  "_description_feature_3": {
+    "message": "డార్క్ మోడ్!"
+  },
+  "_description_tags_wt": {
+    "message": "బైడు, బింగ్, కృష్ణ, ఇమెయిల్, గూగుల్, లాంగ్, భాష, Microsoft, పేజీ, preklad, prekladač, s3, ఎంపిక, టెక్స్ట్, traducteur, అనువదించు, అనువాదకుడు, übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ మీ వెబ్ బ్రౌజర్ / థండర్బర్డ్ కోసం అనువాదకుడు ఉపయోగించడానికి సులభం!"
+  },
+  "o_tab_translate": {
+    "message": "అనువదించు"
+  },
+  "_description_supported_translators": {
+    "message": "మద్దతు అనువాద ప్రొవైడర్స్:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "మోడల్ విండో"
+  },
+  "open_in_1": {
+    "message": "పాప్అప్ విండో"
+  },
+  "open_in_2": {
+    "message": "కొత్త టాబ్"
+  },
+  "open_in_3": {
+    "message": "కొత్త విండో"
+  },
+  "open_in_4": {
+    "message": "క్రొత్త ట్యాబ్ (కంటైనర్ లేకుండా)"
+  },
+  "modal_window": {
+    "message": "మోడల్ విండో"
+  },
+  "toolbar_icon_action": {
+    "message": "ఉపకరణపట్టీ ఐకాన్ యాక్షన్"
+  },
+  "toolbar_icon_text": {
+    "message": "ఉపకరణపట్టీ చిహ్నం టెక్స్ట్"
+  },
+  "sidebar_size": {
+    "message": "సైడ్బార్ పరిమాణం"
+  },
+  "translation_provider": {
+    "message": "అనువాద ప్రదాత"
+  },
+  "translate_to": {
+    "message": "అనువదించు:"
+  },
+  "no_overlay": {
+    "message": "ఓవర్లే (చుట్టూ చీకటి ప్రాంతం)"
+  },
+  "no_overlay_hint": {
+    "message": "మీరు వెలుపల క్లిక్ చేస్తే మోడల్ విండో కూడా తెరవబడుతుంది."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "ఓపెన్ అనువాదం:"
+  },
+  "fallback_1": {
+    "message": "పతనం పద్ధతి"
+  },
+  "fallback_2": {
+    "message": "పతనం పద్ధతి"
+  },
+  "fallback_title": {
+    "message": "మోడల్ విండో మరియు పాపప్ విండో కొన్ని సందర్భాల్లో ఉపయోగించబడదు."
+  },
+  "open_in_tab": {
+    "message": "క్రొత్త ట్యాబ్లో తెరవండి"
+  },
+  "translate_this_page": {
+    "message": "ఈ పేజీని అనువదించండి"
+  },
+  "selection_translate": {
+    "message": "అనువదించు \"$1\""
+  },
+  "page_translate": {
+    "message": "పేజీని అనువదించు"
+  },
+  "selected_text": {
+    "message": "ఎంచుకున్న టెక్స్ట్"
+  },
+  "disable_context_menu": {
+    "message": "కాంటెక్స్ట్ మెనుని ఆపివేయి: $1"
+  },
+  "import_finished": {
+    "message": "దిగుమతి పూర్తయింది!"
+  },
+  "import_error": {
+    "message": "లోపం"
+  },
+  "import_backup_file": {
+    "message": "దిగుమతి బ్యాకప్ ఫైల్ $1"
+  },
+  "search_search": {
+    "message": "వెతకండి"
+  },
+  "homepage": {
+    "message": "హోమ్పేజీ"
+  },
+  "addon_page": {
+    "message": "యాడ్ఆన్ పేజీ"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Chrome వెబ్ స్టోర్"
+  },
+  "firefox_store": {
+    "message": "Firefox add-ons"
+  },
+  "thunderbird_store": {
+    "message": "థండర్బర్డ్ యాడ్-ఆన్లు"
+  },
+  "label_font_size": {
+    "message": "ఫాంట్ పరిమాణం"
+  },
+  "label_next": {
+    "message": "తరువాత"
+  },
+  "label_note": {
+    "message": "గమనిక:"
+  },
+  "label_remove": {
+    "message": "తొలగించు"
+  },
+  "label_warning": {
+    "message": "హెచ్చరిక:"
+  },
+  "label_default": {
+    "message": "డిఫాల్ట్:"
+  },
+  "label_done": {
+    "message": "పూర్తి!"
+  },
+  "label_copied": {
+    "message": "కాపీ!"
+  },
+  "label_close": {
+    "message": "దగ్గరగా"
+  },
+  "label_open_page": {
+    "message": "పేజీని తెరవండి"
+  },
+  "label_agree": {
+    "message": "అంగీకరిస్తున్నారు"
+  },
+  "label_cancel": {
+    "message": "రద్దు చేయండి"
+  },
+  "op_support_me": {
+    "message": "ఈ ప్రాజెక్ట్ సహాయం"
+  },
+  "support_developer": {
+    "message": "స్వతంత్ర డెవలపర్ మద్దతు!"
+  },
+  "hello_there": {
+    "message": "ఉన్నారా!"
+  },
+  "about_me": {
+    "message": "నేను 2016 నుండి యాడ్ఆన్ డెవలపర్ ఉన్నాను. నా లక్ష్యం మీ వెబ్ బ్రౌజర్ కోసం మీరు మరింత ఉత్పాదకంగా చేయడానికి శక్తివంతమైన పొడిగింపులను నిర్మించడం."
+  },
+  "about_good_job": {
+    "message": "నేను మంచి ఉద్యోగం చేస్తున్నానని అనుకుంటే, దయచేసి దానం చేయండి :)"
+  },
+  "about_income": {
+    "message": "మీ విరాళం నా మాత్రమే ఆదాయం!"
+  },
+  "about_thanks": {
+    "message": "నా పనికి మద్దతు ఇచ్చినందుకు ధన్యవాదాలు!"
+  },
+  "o_tab_context_menu": {
+    "message": "కాంటెక్స్ట్ మెను"
+  },
+  "o_tab_about": {
+    "message": "గురించి"
+  },
+  "o_tab_settings": {
+    "message": "సెట్టింగులు"
+  },
+  "o_pixels": {
+    "message": "పిక్సెల్స్"
+  },
+  "o_seconds": {
+    "message": "సెకనుల"
+  },
+  "label_or": {
+    "message": "లేక"
+  },
+  "o_about_hello": {
+    "message": "హలో :)"
+  },
+  "o_about_intro": {
+    "message": "నా పేరు $1$ మరియు $app_name$ రచయిత."
+  },
+  "o_about_like_it": {
+    "message": "మీకు కావాలనుకుంటే, దయచేసి ఇక్కడ రేట్ చేయండి:"
+  },
+  "o_about_thanks": {
+    "message": "ధన్యవాదాలు!"
+  },
+  "o_about_contact": {
+    "message": "సంప్రదించండి:"
+  },
+  "o_about_issues": {
+    "message": "నివేదిక సమస్యలు:"
+  },
+  "o_about_social_media": {
+    "message": "సాంఘిక ప్రసార మాధ్యమం:"
+  },
+  "o_about_support_by_iban": {
+    "message": "ఐకాన్ ఉపయోగించి బ్యాంకు బదిలీ:"
+  },
+  "ps_no_results": {
+    "message": "సరిపోలే ఫలితాలు లేవు"
+  },
+  "label_no_data": {
+    "message": "సమాచారం లేదు"
+  },
+  "dark_mode": {
+    "message": "డార్క్ మోడ్"
+  },
+  "dark_mode_system": {
+    "message": "వ్యవస్థ ద్వారా నియంత్రించబడుతుంది"
+  },
+  "_description_features": {
+    "message": "లక్షణాలు:"
+  },
+  "_description_why": {
+    "message": "ఎందుకు?"
+  },
+  "_description_privacy_policy": {
+    "message": "గోప్యతా విధానం"
+  },
+  "_description_recent_features": {
+    "message": "ఇటీవల జోడించిన లక్షణాలు:"
+  },
+  "_description_common_tags": {
+    "message": "టాగ్లు:"
+  },
+  "_description_also_for_firefox": {
+    "message": "మీ ఫైర్ఫాక్స్ కోసం కూడా అందుబాటులో ఉంటుంది:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "మీ థండర్బర్డ్ కోసం కూడా అందుబాటులో ఉంటుంది:"
+  }
+}

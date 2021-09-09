@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "कहीं भी, बटन, कर्सर, ड्रैग, ग्रैब, ड्रैग ड्रैग, ग्रैब और ड्रैग, अनंत, बाएं, मध्य, गति, माउस, मूव, पेज, दाएं, स्क्रॉल, स्क्रॉल पेज, स्क्रॉलबार, स्क्रॉलिंग, फेंक"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "पृष्ठ पर कहीं भी अपने मध्य माउस बटन के साथ स्क्रॉलबार खींचें। भी \"हथियार और खींचें\" शैली का समर्थन करता है।"
+  },
+  "field_int_default_value": {
+    "message": "डिफ़ॉल्ट मान: $1, न्यूनतम: $2, अधिकतम: $3"
+  },
+  "field_set_default": {
+    "message": "डिफ़ॉल्ट पर रीसेट करें: $1"
+  },
+  "thunderbird_store": {
+    "message": "थंडरबर्ड ऐड-ऑन"
+  },
+  "firefox_store": {
+    "message": "फ़ायरफ़ॉक्स ऐड-ऑन"
+  },
+  "chrome_store": {
+    "message": "क्रोम वेब स्टोर"
+  },
+  "safari_store": {
+    "message": "मैक ऐप स्टोर"
+  },
+  "win_disable": {
+    "message": "$1 पर अक्षम करें"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "$1 पर क्षैतिज स्क्रॉलिंग को अक्षम करें"
+  },
+  "op_visit_home": {
+    "message": "होमपेज पर जाएं"
+  },
+  "op_support_me": {
+    "message": "इस परियोजना में मदद करें"
+  },
+  "o_title": {
+    "message": "विकल्प - $1"
+  },
+  "o_tab_general": {
+    "message": "आम"
+  },
+  "o_tab_momentum": {
+    "message": "गति"
+  },
+  "o_tab_cursor": {
+    "message": "कर्सर"
+  },
+  "o_axis_locking": {
+    "message": "एक्सिस लॉकिंग"
+  },
+  "o_tab_performance": {
+    "message": "प्रदर्शन"
+  },
+  "o_tab_disabled_on": {
+    "message": "पर अक्षम"
+  },
+  "o_tab_advanced": {
+    "message": "उन्नत"
+  },
+  "o_tab_scrollbars": {
+    "message": "स्क्रॉलबार"
+  },
+  "o_tab_backup": {
+    "message": "आयात / बैकअप"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "एक अक्ष में स्क्रॉल करने के दौरान जो एक अक्ष में स्क्रॉल करने योग्य है लेकिन माता-पिता बॉक्स अन्य अक्ष में स्क्रॉल करने योग्य है, एक अक्ष में स्क्रॉलिंग लॉक करें:"
+  },
+  "o_axis_lock_0": {
+    "message": "स्मार्ट लॉक - गति का उपयोग कर अस्थायी ताला"
+  },
+  "o_axis_lock_1": {
+    "message": "सख्त ताला - तत्काल दिशा लॉक"
+  },
+  "o_axis_lock_2": {
+    "message": "कोई लॉक नहीं - दोनों धुरी में मुफ्त स्क्रॉलिंग"
+  },
+  "o_trend_momentum_window": {
+    "message": "स्मार्ट लॉक स्टैक आकार"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "स्क्रॉलिंग अक्ष को बदलने के लिए बड़े मूल्य को विपरीत अक्ष में अधिक स्क्रॉलिंग की आवश्यकता होगी।"
+  },
+  "o_addon_disabled_warning": {
+    "message": "एडन अक्षम है! सक्षम करने के लिए यहां क्लिक करें।"
+  },
+  "o_cursor_change_default": {
+    "message": "कोई परिवर्तन नहीं - सर्वश्रेष्ठ प्रदर्शन"
+  },
+  "o_scroll_button": {
+    "message": "स्क्रॉल बटन:"
+  },
+  "o_direction_speed": {
+    "message": "स्क्रॉल शैली / दिशा / गति:"
+  },
+  "o_multiplier": {
+    "message": "गुणक"
+  },
+  "o_times_speed": {
+    "message": "बार स्क्रॉल गति"
+  },
+  "o_maximum_speed": {
+    "message": "अधिकतम स्क्रॉल गति (0 - अक्षम):"
+  },
+  "o_ratio_unit": {
+    "message": "अनुपात (पृष्ठ की लंबाई / खिड़की का आकार)"
+  },
+  "o_scroll_type_0": {
+    "message": "स्क्रॉलबार अनुकरण करें"
+  },
+  "o_scroll_type_1": {
+    "message": "एक स्मार्टफोन पर पकड़ो और खींचें"
+  },
+  "o_scroll_type_2": {
+    "message": "गतिशील गति (प्रायोगिक)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "यह एक स्क्रॉलबार खींचने जैसा है"
+  },
+  "o_scroll_type_title_1": {
+    "message": "यह एक फोन स्क्रीन पर अपनी उंगली के साथ एक पेज खींचने की तरह है"
+  },
+  "o_scroll_type_title_2": {
+    "message": "गतिशील गति स्क्रॉल गति धीमी होती है जब पृष्ठ लंबा होता है"
+  },
+  "o_disable_key": {
+    "message": "कुंजी नीचे होने पर स्क्रॉलिंग / अक्षम करें:"
+  },
+  "o_momentum_category": {
+    "message": "गति:"
+  },
+  "o_momentum_formula": {
+    "message": "मोमेंटम फॉर्मूला:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "समान रूप से decelerated आंदोलन"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "पृष्ठ स्क्रॉल को तब तक धीमा कर दिया जाएगा जब तक यह बंद नहीं हो जाता"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "तेजी से decelerated आंदोलन"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "पेज स्क्रॉल तेजी से (तेजी से) धीमा हो जाएगा"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "अनंत आंदोलन ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "स्क्रॉलिंग कभी नहीं रुक जाएगी"
+  },
+  "o_momentum_max_speed": {
+    "message": "अधिकतम गति (0 - अक्षम):"
+  },
+  "o_page_weight": {
+    "message": "पृष्ठ वजन:"
+  },
+  "o_grams": {
+    "message": "ग्राम :)"
+  },
+  "o_additional_speed": {
+    "message": "अतिरिक्त गति:"
+  },
+  "o_pixels_second": {
+    "message": "पिक्सेल प्रति सेकंड"
+  },
+  "o_additional_duration": {
+    "message": "अतिरिक्त अवधि:"
+  },
+  "o_advanced_momentum": {
+    "message": "उन्नत गति सेटअप (केवल विशेषज्ञों के लिए!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "इन मूल्यों को बदलना आपकी गति को तोड़ सकता है!"
+  },
+  "o_compute_from_last": {
+    "message": "अंतिम से गणना:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "माउस स्टॉप डिटेक्शन:"
+  },
+  "o_tracking_speed": {
+    "message": "ट्रैकिंग गति:"
+  },
+  "o_reset_values": {
+    "message": "रीसेट मान"
+  },
+  "o_cursor_scrolling": {
+    "message": "स्क्रॉलिंग करते समय कर्सर का उपयोग किया जाता है:"
+  },
+  "o_performance": {
+    "message": "प्रदर्शन:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "बड़े कूद को रोकें"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "यदि आप टूल का उपयोग कर रहे हैं जो स्क्रीन पर अपने कर्सर को टेलीपोर्ट कर सकता है (जब आप किनारे तक पहुंचते हैं), तो इस विकल्प को निरंतर (अनंत) स्क्रॉलिंग की अनुमति देने के लिए सक्षम करें।"
+  },
+  "o_advanced": {
+    "message": "उन्नत:"
+  },
+  "o_movement_detection": {
+    "message": "माउस मूवमेंट डिटेक्शन थ्रेसहोल्ड:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "लिंक को ब्लॉक करने के लिए कितने पिक्सेल को ले जाना है। कभी-कभी स्क्रॉल बटन दबाते समय आप माउस को थोड़ा ले जाते हैं लेकिन आप नहीं चाहते कि उस के कारण लिंक अक्षम हो।"
+  },
+  "o_context_menu_block": {
+    "message": "संदर्भ मेनू ब्लॉक:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "अनब्लॉक संदर्भ मेनू देरी"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "यदि आप सही माउस बटन के साथ स्क्रॉल करने के बाद संदर्भ मेनू देखते हैं, तो इस मान को बढ़ाएं"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "डोमेन पर क्षैतिज स्क्रॉलिंग अक्षम करें:"
+  },
+  "o_is_disabled_domains": {
+    "message": "डोमेन पर अक्षम:"
+  },
+  "o_is_disabled_url": {
+    "message": "पृष्ठों / उप-पृष्ठों पर अक्षम:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "आप एक यूआरएल भाग को परिभाषित करने के लिए स्टार प्रतीक (*) का उपयोग कर सकते हैं, उदाहरण के लिए: \"google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "प्रति पंक्ति एक डोमेन दर्ज करें।"
+  },
+  "o_is_disabled": {
+    "message": "एड-ऑन अक्षम करें"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "मुख्य ऑन / ऑफ स्विच के रूप में टूलबार आइकन का उपयोग करें"
+  },
+  "o_scroll_button_middle": {
+    "message": "बीच का बटन"
+  },
+  "o_scroll_button_right": {
+    "message": "सही बटन"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "लिनक्स / मैक उपयोगकर्ता - आपको नई अनुमति के लिए कहा जाएगा \"ब्राउज़र सेटिंग को पढ़ें और संशोधित करें\" - स्क्रॉलिंग से पहले संदर्भ मेनू को दबाने के लिए यह आवश्यक है!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "लिनक्स / मैक उपयोगकर्ता - आपका संदर्भ मेनू अवरुद्ध हो जाएगा! संदर्भ मेनू खोलने के लिए \"Shift\" कुंजी या ट्रिपल-क्लिक दाएं बटन दबाएं।"
+  },
+  "o_scroll_button_left": {
+    "message": "बाएं बटन (प्रायोगिक)"
+  },
+  "o_scroll_on_links": {
+    "message": "लिंक पर स्क्रॉल करें"
+  },
+  "o_scroll_on_links_title": {
+    "message": "सक्षम होने पर, आप लिंक खींचने और छोड़ने में सक्षम नहीं होंगे (केवल 'अक्षम' कुंजी का उपयोग करके)"
+  },
+  "o_scroll_on_text": {
+    "message": "पाठ पर स्क्रॉल करें"
+  },
+  "o_scroll_on_text_title": {
+    "message": "फोन स्क्रॉलिंग / संपादन को अनुकरण करता है - आपको \"संपादन मोड\" पर स्विच करने के लिए टेक्स्ट पर क्लिक करने की आवश्यकता है। पाठ के बाहर क्लिक करने से फिर से स्क्रॉलिंग सक्षम हो जाती है।"
+  },
+  "o_scroll_on_textarea": {
+    "message": "Textarea पर स्क्रॉल करें"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea पाठ का एक ब्लॉक है, आमतौर पर आकार बदलने योग्य। उदाहरण के लिए \"अक्षम\" टैब पर आप Textarea देख सकते हैं।"
+  },
+  "o_scroll_on_editable_html": {
+    "message": "संपादन योग्य HTML पर स्क्रॉल करें"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "उदाहरण के लिए जीमेल में ईमेल बॉडी संपादन योग्य एचटीएमएल है।"
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "पाठ पर टेक्स्ट का चयन / संपादन करने में सक्षम होगा।"
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "टेक्स्ट पर क्लिक करें \"मोड संपादित करें\" सक्षम करेगा। \"स्क्रॉल मोड\" को सक्षम करने के लिए टेक्स्ट के बाहर क्लिक करें।"
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "एकल क्लिक"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "डबल क्लिक करें"
+  },
+  "o_scrollbars_width": {
+    "message": "स्क्रॉलबार देखो"
+  },
+  "o_scrollbars_width_0": {
+    "message": "सामान्य (कोई परिवर्तन नहीं)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "पतला"
+  },
+  "o_scrollbars_width_2": {
+    "message": "छिपा हुआ"
+  },
+  "o_scrollbars_color": {
+    "message": "स्क्रॉलबार स्लाइडर रंग:"
+  },
+  "o_scrollbars_background": {
+    "message": "स्क्रॉलबार पृष्ठभूमि रंग:"
+  },
+  "o_reverse": {
+    "message": "रिवर्स स्क्रॉल दिशा"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "खिसक जाना"
+  },
+  "o_disable_ctrl": {
+    "message": "सीटीआरएल"
+  },
+  "o_disable_type_0": {
+    "message": "कुंजी नीचे होने पर अक्षम करें:"
+  },
+  "o_disable_type_1": {
+    "message": "जब कुंजी नीचे हो तो सक्षम करें:"
+  },
+  "o_momentum": {
+    "message": "गति सक्षम करें - आप पृष्ठ को \"फेंक\" सकते हैं (जैसे फोन पर)"
+  },
+  "o_no_css_edit": {
+    "message": "अगर स्क्रॉल करते समय कर्सर को न तो कर्सर न करें"
+  },
+  "o_no_prevent_default": {
+    "message": "डिफ़ॉल्ट बटन कार्रवाई को ब्लॉक न करें"
+  },
+  "o_auto_link_lock": {
+    "message": "लिंक अवरुद्ध:"
+  },
+  "o_no_link_block": {
+    "message": "आंदोलन के बाद लिंक पर माउस क्लिक न करें"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "जब आप किसी लिंक पर स्क्रॉल करना शुरू करते हैं और फिर आप एक ही लिंक पर स्क्रॉलिंग समाप्त करते हैं, तो ब्राउज़र लिंक खोल देगा। यह आमतौर पर वांछित व्यवहार नहीं होता है, इसलिए डिफ़ॉल्ट रूप से यह अवरुद्ध है।"
+  },
+  "o_page_weight_title": {
+    "message": "यह नियंत्रित करता है कि पृष्ठ 'भारी' कैसे है। भारी पृष्ठों में अधिक गति है।"
+  },
+  "o_additional_speed_title": {
+    "message": "आप गति की गति गति को तेज कर सकते हैं।"
+  },
+  "o_additional_duration_title": {
+    "message": "प्रत्येक गति के लिए अतिरिक्त समय।"
+  },
+  "o_compute_from_last_title": {
+    "message": "गति प्रारंभिक गति स्क्रॉल बटन जारी करने से पहले स्क्रॉलिंग की गति से निर्धारित की जाती है।"
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "स्क्रॉल बटन को जारी करने से पहले, स्क्रॉल बटन जारी करने से पहले माउस को कितना समय लगता है - गति को सक्रिय न करने के लिए।"
+  },
+  "o_tracking_speed_title": {
+    "message": "वर्तमान स्क्रॉल गति को मापने के लिए अंतराल।"
+  },
+  "o_scrolling_area": {
+    "message": "स्क्रॉलिंग क्षेत्र:"
+  },
+  "o_outside_area_width": {
+    "message": "स्क्रॉलिंग क्षेत्र (0 - अक्षम):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "स्क्रॉलिंग क्षेत्र के बाहर अपने कर्सर को स्थानांतरित करने से स्क्रॉलिंग स्थिति को वापस कर दिया जाएगा। स्क्रॉलबार खींचते समय एक ही व्यवहार देखा जा सकता है।"
+  },
+  "o_scroll_button_left_title": {
+    "message": "चेतावनी - बाएं बटन समर्थन बहिष्कृत फ़ायरफ़ॉक्स एपीआई का उपयोग कर रहा है जिसे फ़ायरफ़ॉक्स के भविष्य के संस्करणों में हटाया जा सकता है।"
+  },
+  "o_prevent_text_selection": {
+    "message": "बाएं बटन के साथ स्क्रॉल करते समय टेक्स्ट चयन को रोकें"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "कुछ उपकरणों पर, बाएं माउस बटन के साथ स्क्रॉलिंग पृष्ठ पर टेक्स्ट का चयन भी करेगा।"
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "स्क्रॉल करने योग्य पृष्ठ को स्क्रॉल करने का प्रयास करते समय संदर्भ मेनू को अवरुद्ध न करें"
+  },
+  "o_backup_restore": {
+    "message": "बैकअप / पुनर्स्थापित सेटिंग्स फ़ाइल में:"
+  },
+  "o_export_settings": {
+    "message": "एक फ़ाइल में सेटिंग्स निर्यात करें"
+  },
+  "import_settings_button": {
+    "message": "$1 फ़ाइल से सेटिंग्स आयात करें ..."
+  },
+  "import_finished": {
+    "message": "आयात समाप्त हो गया!"
+  },
+  "test_page_title": {
+    "message": "यहां अपनी स्क्रॉलिंग सेटिंग्स का परीक्षण करें"
+  },
+  "menu_options": {
+    "message": "विकल्प"
+  },
+  "menu_visit_title": {
+    "message": "होमपेज पर जाएं"
+  },
+  "not_working": {
+    "message": "अपने वेब-ब्राउज़र द्वारा अक्षम"
+  },
+  "disabled_by_user": {
+    "message": "इस डोमेन पर अक्षम"
+  },
+  "not_working_title": {
+    "message": "आपका ब्राउज़र इन प्रकार के पृष्ठों पर स्क्रॉलवेयर को अवरुद्ध करेगा:"
+  },
+  "not_working_body": {
+    "message": "\"Mozilla.org\" पृष्ठों पर स्क्रॉल कहीं भी सक्षम करने के लिए, इस यूट्यूब ट्यूटोरियल को देखें"
+  },
+  "show_scrollbars": {
+    "message": "स्क्रॉलबार दिखाएं"
+  },
+  "show_scrollbars_title": {
+    "message": "अस्थायी रूप से स्क्रॉलबार दिखाएं"
+  },
+  "switch_on_off": {
+    "message": "ऐड-ऑन / ऑन स्विच करें"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "यदि आपको स्क्रॉल बटन दबाकर और स्क्रॉलिंग शुरू करने के बीच ध्यान देने योग्य देरी का अनुभव होता है, तो इस विकल्प को सक्षम करने का प्रयास करें। हालांकि आप कुछ पुराने एम्बेडेड वीडियो या कुछ विज्ञापनों जैसे \"iframes\" पर स्क्रॉल करने में सक्षम नहीं होंगे।"
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "यह स्क्रॉल करते समय कर्सर बदलने के विकल्प को भी अक्षम कर देगा।"
+  },
+  "o_helper_text_default_action": {
+    "message": "मध्यम बटन के साथ पेस्ट सक्षम करने के लिए लिनक्स में उपयोगी।"
+  },
+  "o_about_hello": {
+    "message": "नमस्ते :)"
+  },
+  "o_about_intro": {
+    "message": "मेरा नाम $1$ है और मैं $app_name$ के लेखक हूं।"
+  },
+  "o_about_like_it": {
+    "message": "अगर आपको यह पसंद है, तो कृपया इसे यहां रेट करें:"
+  },
+  "o_about_dislike_it": {
+    "message": "अगर आपको यह पसंद नहीं है, तो कृपया मुझे बताएं कि मेरे ई-मेल को क्यों। मैं अपने अधिकांश फीचर-अनुरोधों को लागू कर रहा हूं।"
+  },
+  "o_disabled": {
+    "message": "विकलांग",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "सक्षम",
+    "common": true
+  },
+  "o_times": {
+    "message": "बार",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "पिक्सल",
+    "common": true
+  },
+  "o_items": {
+    "message": "आइटम",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "मिलीसेकेंड",
+    "common": true
+  },
+  "label_working": {
+    "message": "काम में हो...",
+    "common": true
+  },
+  "label_close": {
+    "message": "बंद करे",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "कृपया मेरे काम का समर्थन करने पर विचार करें",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "दान (पेपैल)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "मेरा संरक्षक बन रहा है",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "धन्यवाद!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "घर:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "संपर्क करें:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "रिपोर्ट समस्याएं:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "मैं केवल अंग्रेजी / स्लोवाक में जवाब दे सकता हूं",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "सामाजिक मीडिया:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "परिवर्तन और करीब सहेजें",
+    "common": true
+  },
+  "o_saved": {
+    "message": "बचाया!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "जल्द आ रहा है",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "परिवर्तनों को सुरक्षित करें",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "गोपनीयता नीति",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "हाल ही में जोड़ा गया विशेषताएं:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "टैग:",
+    "common": true
+  }
+}

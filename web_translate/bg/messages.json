@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Превод на избрания текст (от контекстното меню)"
+  },
+  "_description_feature_2": {
+    "message": "Цял превод"
+  },
+  "_description_feature_3": {
+    "message": "Тъмен режим!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, Dark, Email, Google, Lang, език, Microsoft, Page, Preklad, Prekladač, S3, избор, текст, традиционен, translate, преводач, übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ е лесен за използване преводач за вашия уеб браузър / Thunderbird!"
+  },
+  "o_tab_translate": {
+    "message": "Превод"
+  },
+  "_description_supported_translators": {
+    "message": "Поддържани доставчици на преводи:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Модален прозорец"
+  },
+  "open_in_1": {
+    "message": "Изскачащ прозорец"
+  },
+  "open_in_2": {
+    "message": "Нов прозорец"
+  },
+  "open_in_3": {
+    "message": "Нов прозорец"
+  },
+  "open_in_4": {
+    "message": "Нов раздел (без контейнер)"
+  },
+  "modal_window": {
+    "message": "Модален прозорец"
+  },
+  "toolbar_icon_action": {
+    "message": "Икона на лентата с инструменти. \\ T"
+  },
+  "toolbar_icon_text": {
+    "message": "Text Text Text."
+  },
+  "sidebar_size": {
+    "message": "Размер на страничната лента"
+  },
+  "translation_provider": {
+    "message": "Доставчик на преводи"
+  },
+  "translate_to": {
+    "message": "Превод:"
+  },
+  "no_overlay": {
+    "message": "Без наслагване (тъмната зона около)"
+  },
+  "no_overlay_hint": {
+    "message": "Модал прозорецът ще остане отворен, дори ако кликнете навън."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Отворен превод в:"
+  },
+  "fallback_1": {
+    "message": "Реден метод"
+  },
+  "fallback_2": {
+    "message": "Реден метод"
+  },
+  "fallback_title": {
+    "message": "Модал прозорец и изскачащ прозорец не може да се използва в някои случаи."
+  },
+  "open_in_tab": {
+    "message": "Отворете в нов раздел"
+  },
+  "translate_this_page": {
+    "message": "Превод на тази страница."
+  },
+  "selection_translate": {
+    "message": "Превод \"$1\""
+  },
+  "page_translate": {
+    "message": "Превод на страница"
+  },
+  "selected_text": {
+    "message": "избран текст"
+  },
+  "disable_context_menu": {
+    "message": "Деактивиране на контекстното меню: $1"
+  },
+  "import_finished": {
+    "message": "Внос завърши!"
+  },
+  "import_error": {
+    "message": "Грешка"
+  },
+  "import_backup_file": {
+    "message": "Импортиране на архивен файл $1"
+  },
+  "search_search": {
+    "message": "Търсене"
+  },
+  "homepage": {
+    "message": "Начална страница"
+  },
+  "addon_page": {
+    "message": "Addon страница"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Хром уеб магазин"
+  },
+  "firefox_store": {
+    "message": "Добавки от Firefox"
+  },
+  "thunderbird_store": {
+    "message": "Добавки от гръмотевици"
+  },
+  "label_font_size": {
+    "message": "Размер на шрифта"
+  },
+  "label_next": {
+    "message": "Следващия"
+  },
+  "label_note": {
+    "message": "Забележка:"
+  },
+  "label_remove": {
+    "message": "Премахване"
+  },
+  "label_warning": {
+    "message": "ВНИМАНИЕ:"
+  },
+  "label_default": {
+    "message": "По подразбиране:"
+  },
+  "label_done": {
+    "message": "Свършен!"
+  },
+  "label_copied": {
+    "message": "Копиран!"
+  },
+  "label_close": {
+    "message": "Близо"
+  },
+  "label_open_page": {
+    "message": "Отворете страницата"
+  },
+  "label_agree": {
+    "message": "Съгласен"
+  },
+  "label_cancel": {
+    "message": "Отказ"
+  },
+  "op_support_me": {
+    "message": "Помогнете на този проект"
+  },
+  "support_developer": {
+    "message": "Поддръжка на независим разработчик!"
+  },
+  "hello_there": {
+    "message": "Здравей!"
+  },
+  "about_me": {
+    "message": "Аз съм предприемач на Addon от 2016 г. Целта ми е да изградя мощни разширения за вашия уеб браузър, за да ви направи по-продуктивни."
+  },
+  "about_good_job": {
+    "message": "Ако мислите, че правя добра работа, моля да даря :)"
+  },
+  "about_income": {
+    "message": "Вашето дарение е единственият ми доход!"
+  },
+  "about_thanks": {
+    "message": "Благодарим ви, че подкрепяхте работата ми!"
+  },
+  "o_tab_context_menu": {
+    "message": "Контекстно меню"
+  },
+  "o_tab_about": {
+    "message": "Относно"
+  },
+  "o_tab_settings": {
+    "message": "Настройки"
+  },
+  "o_pixels": {
+    "message": "пиксели"
+  },
+  "o_seconds": {
+    "message": "секунди"
+  },
+  "label_or": {
+    "message": "или"
+  },
+  "o_about_hello": {
+    "message": "Здравейте :)"
+  },
+  "o_about_intro": {
+    "message": "Моето име е $1$ и аз съм автор на $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Ако ви харесва, моля, оценете го тук:"
+  },
+  "o_about_thanks": {
+    "message": "Благодаря ти!"
+  },
+  "o_about_contact": {
+    "message": "Контакт:"
+  },
+  "o_about_issues": {
+    "message": "Доклад Въпроси:"
+  },
+  "o_about_social_media": {
+    "message": "Социална медия:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Банков превод, използващ IBAN:"
+  },
+  "ps_no_results": {
+    "message": "Няма съвпадение"
+  },
+  "label_no_data": {
+    "message": "Няма данни"
+  },
+  "dark_mode": {
+    "message": "Тъмен режим"
+  },
+  "dark_mode_system": {
+    "message": "Контролирано от системата"
+  },
+  "_description_features": {
+    "message": "Характеристика:"
+  },
+  "_description_why": {
+    "message": "Защо?"
+  },
+  "_description_privacy_policy": {
+    "message": "Декларация за поверителност"
+  },
+  "_description_recent_features": {
+    "message": "Наскоро добавени функции:"
+  },
+  "_description_common_tags": {
+    "message": "Тагове:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Предлага се и за вашия Firefox:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Предлага се и за вашия Thunderbird:"
+  }
+}

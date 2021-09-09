@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "때로는 페이지가 잘 설계되지 않았으며 찾고있는 정보는 충분히 보이지 않습니다."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "일반적인 사용 사례 :"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "다음과 같은 메타 데이터를 강조 표시하십시오."
+  },
+  "_description_ah_use_cases_2": {
+    "message": "\"무료 배송\"하이라이트 :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "웹에 특정한 것을 찾고 있습니까? \"시간적 강조 표시\"를 사용하여 모든 페이지에서 찾을 수 있습니다. 시간적 주요 항목은 브라우저를 닫을 때 자동 삭제됩니다."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "글꼴 크기를 0으로 설정하거나 투명하게 만드는 단어를 숨길 수도 있습니다."
+  },
+  "_description_tags_ah": {
+    "message": "하이라이트, 마크, 메타 데이터, 동영상, 자동, 텍스트, 동기화, 선택, 검색"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$은 정의 된 페이지에서 정의 된 단어를 자동으로 강조 표시합니다."
+  },
+  "match_type": {
+    "message": "일치 유형 :"
+  },
+  "match_type_0": {
+    "message": "도메인이 있습니다"
+  },
+  "match_type_1": {
+    "message": "URL입니다"
+  },
+  "match_type_2": {
+    "message": "URL이 들어 있습니다"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "모든 페이지"
+  },
+  "selection_highlight": {
+    "message": "$1을 강조 표시합니다"
+  },
+  "selection_temp": {
+    "message": "일시적으로 $1을 강조 표시합니다"
+  },
+  "selection_temp_everywhere": {
+    "message": "일시적으로 모든 곳에서 $1을 강조 표시합니다"
+  },
+  "page_highlight": {
+    "message": "이 페이지에서 $app_name$"
+  },
+  "toolbar_click_new_tab": {
+    "message": "툴바 아이콘을 클릭 할 때 항상 새 탭에서 열려 있습니다."
+  },
+  "disable_rule": {
+    "message": "장애인"
+  },
+  "temporal_rule": {
+    "message": "일시적인"
+  },
+  "each_word": {
+    "message": "각 단어"
+  },
+  "rules": {
+    "message": "규칙"
+  },
+  "delete": {
+    "message": "지우다"
+  },
+  "rename": {
+    "message": "이름 바꾸기"
+  },
+  "duplicate": {
+    "message": "복제"
+  },
+  "delete_rule": {
+    "message": "규칙 삭제"
+  },
+  "delete_rule_title": {
+    "message": "규칙 삭제 \"$1\"?"
+  },
+  "on_pages": {
+    "message": "페이지에 :"
+  },
+  "disabled_rule": {
+    "message": "장애인 규칙"
+  },
+  "incomplete_rule": {
+    "message": "불완전한 규칙"
+  },
+  "active_on_current_page": {
+    "message": "현재 페이지에서 활성화됩니다"
+  },
+  "temporal_rule_helper": {
+    "message": "시간적 규칙 - 브라우저를 다시 시작한 후에 삭제됩니다"
+  },
+  "active_on_pages": {
+    "message": "페이지에서 활성화 :"
+  },
+  "highlight_each_word_separately": {
+    "message": "각 단어를 별도로 강조 표시하십시오"
+  },
+  "case_sensitive": {
+    "message": "대소 문자를 구분합니다"
+  },
+  "ignore_diacritics": {
+    "message": "Diacritics 무시"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "정규식"
+  },
+  "across_elements": {
+    "message": "요소를 가로 질러"
+  },
+  "across_elements_help": {
+    "message": "이웃 HTML 요소를 가로 지르는 텍스트를 검색하십시오"
+  },
+  "style": {
+    "message": "스타일"
+  },
+  "preview": {
+    "message": "시사:"
+  },
+  "empty_rule": {
+    "message": "빈 규칙"
+  },
+  "create_new_rule": {
+    "message": "새 규칙을 만듭니다"
+  },
+  "import_export": {
+    "message": "수입 수출"
+  },
+  "help_this_project": {
+    "message": "이 프로젝트에 도움이됩니다"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "자주하는 질문:"
+  },
+  "storage_info": {
+    "message": "저장소 정보 :"
+  },
+  "storage_safari_1": {
+    "message": "Safari는 현재 자동 데이터 동기화를 지원하지 않습니다."
+  },
+  "storage_safari_2": {
+    "message": "하이라이트 규칙을 전송 (또는 백업)하려면 \"가져 오기 / 내보내기\"기능을 사용하십시오."
+  },
+  "storage_info_1": {
+    "message": "규칙은 보안 $1 동기화를 사용하여 저장되어 있으므로 모든 장치간에 규칙을 동기화합니다 (동일한 계정에 로그인 한 경우)."
+  },
+  "storage_info_2": {
+    "message": "이 클라우드 스토리지는 100KB의 데이터와 최대 500 개의 하이라이트 규칙을 저장할 수 있습니다."
+  },
+  "storage_info_3": {
+    "message": "\"가져 오기 / 내보내기\"기능을 사용하여 규칙을 파일로 내보낼 수도 있습니다 (다른 장치에서 가져옵니다."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "기존 하이라이트 규칙을 바꾸십시오"
+  },
+  "add_page_to_highlight_on": {
+    "message": "하이라이트에 페이지를 추가하십시오"
+  },
+  "remove_highlight_from_page": {
+    "message": "페이지에서 하이라이트를 제거하십시오"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "이탤릭체"
+  },
+  "underline": {
+    "message": "밑줄"
+  },
+  "background_color": {
+    "message": "배경색"
+  },
+  "background": {
+    "message": "배경"
+  },
+  "text_color": {
+    "message": "텍스트 색상"
+  },
+  "color": {
+    "message": "색깔"
+  },
+  "font_size": {
+    "message": "글꼴 크기"
+  },
+  "rule_name": {
+    "message": "규칙 이름"
+  },
+  "highlight_regular_expression": {
+    "message": "정규식을 강조 표시하십시오."
+  },
+  "highlight_text": {
+    "message": "텍스트 강조 표시 :"
+  },
+  "highlight_on_pages": {
+    "message": "페이지에 강조 표시"
+  },
+  "empty_name_helper": {
+    "message": "\"강조 표시된 텍스트\"를 이름으로 사용하려면 비워 두십시오."
+  },
+  "faq_1": {
+    "message": "현재 페이지에서 단어를 빨리 강조하는 방법은 무엇입니까?"
+  },
+  "faq_1a": {
+    "message": "컨텍스트 메뉴 사용 - 텍스트 / 오른쪽 클릭 / \"자동 강조 표시\"를 선택하십시오. 페이지를 마우스 오른쪽 버튼으로 클릭하면 (텍스트를 선택하지 않고) 현재 페이지에 기존 규칙을 적용 할 수 있습니다."
+  },
+  "faq_2": {
+    "message": "여러 단어를 강조 표시하고 싶습니다. 각 단어에 대해 새 규칙을 별도로 만들어야합니까?"
+  },
+  "faq_2a": {
+    "message": "아니요, \"각 단어\"확인란을 확인하십시오. 그런 다음 각 단어는 별도로 강조 표시됩니다."
+  },
+  "faq_3": {
+    "message": "그 \"RegExp\"란 무엇입니까?"
+  },
+  "faq_3a": {
+    "message": "정규 표현식이라고도 알려져 있으며 검색 패턴을 정의하는 일련의 문자입니다. 일부 유사한 패턴으로 요소의 복잡한 강조 표시를 허용하는 복잡한 구조물입니다. 예를 들어 가격, 날짜, 전화 번호 등 ..."
+  },
+  "faq_4": {
+    "message": "정규 표현 예제를 보여줄 수 있습니까?"
+  },
+  "faq_4a": {
+    "message": "$1과 같은 모든 가격을 강조 표시합니다"
+  },
+  "faq_5": {
+    "message": "그걸 설명해 주시겠습니까?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\"하이라이트 달러 기호입니다. RegExp에서 달러가 특별한 의미가 있기 때문에 백 슬래시가 필요합니다."
+  },
+  "faq_5b": {
+    "message": "\"$1$\"은 단일 숫자를 강조 표시합니다"
+  },
+  "faq_5c": {
+    "message": "\"$1$\"은 1 회 이상 반복을 의미합니다. Digit Selector $2$ 이후에 배치하면 하나 이상의 자리를 의미합니다."
+  },
+  "faq_5d": {
+    "message": "\"$1$\"은 점이 강조 표시됩니다. DOT 기호만으로는 RegExp의 단일 문자를 의미하기 때문에 백 슬래시가 필요합니다."
+  },
+  "faq_5e": {
+    "message": "\"$1$\"은 0 또는 한 번만 의미합니다. 브래킷 $2$ 이후에 배치하면 해당 괄호 안에있는 것이 무엇이든간에 선택 사항입니다 (거기에있을 수 있음). 우리는 선택 사항 인 번호의 소수 부분에 사용합니다."
+  },
+  "faq_5f": {
+    "message": "RegExp 규칙에 대한 추가 정보"
+  },
+  "import_finished": {
+    "message": "가져 오기 완료!",
+    "common": true
+  },
+  "import_error": {
+    "message": "오류",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "백업 파일 가져 오기 $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "홈페이지",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon 페이지",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "크롬 웹 스토어",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox 부가 기능",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "썬더 버드 애드온",
+    "common": true
+  },
+  "menu_options": {
+    "message": "옵션",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "글꼴 크기",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "사이드 바 크기",
+    "common": true
+  },
+  "label_next": {
+    "message": "다음",
+    "common": true
+  },
+  "label_note": {
+    "message": "노트 :",
+    "common": true
+  },
+  "label_remove": {
+    "message": "없애다",
+    "common": true
+  },
+  "label_warning": {
+    "message": "경고:",
+    "common": true
+  },
+  "label_options": {
+    "message": "옵션 :",
+    "common": true
+  },
+  "label_default": {
+    "message": "기본:",
+    "common": true
+  },
+  "label_done": {
+    "message": "끝난!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "복사!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "커스텀:",
+    "common": true
+  },
+  "label_close": {
+    "message": "닫기",
+    "common": true
+  },
+  "label_installed": {
+    "message": "설치",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "페이지를 엽니 다",
+    "common": true
+  },
+  "label_agree": {
+    "message": "동의하다",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "취소",
+    "common": true
+  },
+  "label_save": {
+    "message": "저장",
+    "common": true
+  },
+  "label_required": {
+    "message": "요구 사항",
+    "common": true
+  },
+  "label_sending": {
+    "message": "배상...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "규모:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "줌:",
+    "common": true
+  },
+  "label_size": {
+    "message": "크기:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "곧 제공합니다",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "변경 사항을 저장하다",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "변경 사항을 취소",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "메뉴",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "홈페이지를 방문하십시오",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "이 프로젝트에 도움이됩니다",
+    "common": true
+  },
+  "support_developer": {
+    "message": "독립적 인 개발자를 지원하십시오!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "안녕하십니까!",
+    "common": true
+  },
+  "about_me": {
+    "message": "저는 2016 년 이래 Addon Developer입니다. 내 목표는 귀하의 웹 브라우저에 대한 강력한 확장을 구축하여 더 생산적으로 만드는 것입니다.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "내가 좋은 일을하고 있다고 생각한다면, 기부하십시오 :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "기부금은 나의 유일한 수입입니다!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "내 일을 지원해 주셔서 감사합니다!",
+    "common": true
+  },
+  "op_help": {
+    "message": "도움",
+    "common": true
+  },
+  "o_title": {
+    "message": "옵션 - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "지원",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "새 백업 생성",
+    "common": true
+  },
+  "save_settings": {
+    "message": "설정을 저장하십시오",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "데이터를 파일로 내보내려면이 창을 새 탭으로 다시 열립니다.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "오른쪽 클릭 / \"링크 된 파일 다운로드\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "일반",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "배경",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "상황에 맞는 메뉴",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "썸네일",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "바로 가기",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "가져 오기 / 백업",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "설정",
+    "common": true
+  },
+  "o_theme": {
+    "message": "테마:",
+    "common": true
+  },
+  "o_general": {
+    "message": "일반:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "장애인",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "활성화",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "픽셀",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "초월",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "상황에 맞는 메뉴 :",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "상황에 맞는 메뉴 사용 안 함 : $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "백업 / 복원 설정 파일 :",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "수입",
+    "common": true
+  },
+  "title_import": {
+    "message": "수입",
+    "common": true
+  },
+  "title_export": {
+    "message": "수출",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "내보내기 백업",
+    "common": true
+  },
+  "label_or": {
+    "message": "또는",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "안녕하세요 :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "내 이름은 $1$이고 $app_name$의 저자입니다.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "당신이 그것을 좋아한다면, 그것을 평가하십시오.",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "당신이 그것을 좋아하지 않는다면, 이메일을 보내주십시오. 나는 내가받는 대부분의 기능을 구현하고 있습니다.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "제 일을 지원하는 것을 고려하십시오",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN을 이용한 은행 송금 :",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "기부 (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "내 후원자가되기",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "감사합니다!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "집:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "접촉:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "보고서 문제 :",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "나는 영어 / 슬로바키아에서만 회신 할 수 있습니다",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "소셜 미디어:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "변경 사항을 저장하고 닫습니다",
+    "common": true
+  },
+  "o_saved": {
+    "message": "저장!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "일치하는 결과가 없습니다",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "데이터 없음",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "어두운 모드",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "시스템에 의해 통제됩니다",
+    "common": true
+  },
+  "used_space": {
+    "message": "중고 공간 : $1 / $2.",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "새 탭에서 열립니다",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Addon 스위치 on / off.",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon은 비활성화되어 있습니다",
+    "common": true
+  },
+  "_description_why": {
+    "message": "왜?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "개인 정보 정책",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "최근 추가 된 기능 :",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "태그 :",
+    "common": true
+  }
+}

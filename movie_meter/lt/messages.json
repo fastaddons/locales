@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "data, IMDB, aprašymas, epizodas, grafikas, grafikas, informacija, informacija, skaitiklis, filmas, filmas, filmai, netflix, imdb, reitingas, serija, šou, televizija, televizijos laidos, vaizdo, vaizdo, balsai, sezonas"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "filmas nerastas / neteisingas filmas - nes nėra \"oficialios\" integracijos su tiksliniais puslapiais, negaliu garantuoti 100% teisingų rezultatų (bet dauguma atvejų jis puikiai veikia)"
+  },
+  "_description_mm_not_working": {
+    "message": "Neveikia jūsų mėgstamiausiame filmo puslapyje?"
+  },
+  "_description_mm_add_support": {
+    "message": "Susisiekite su manimi ir aš jį pridėsiu - jei įmanoma (puslapyje turi būti filmo pavadinimas anglų arba $visit_imdb$ nuoroda)."
+  },
+  "_description_mm_feature_1": {
+    "message": "filmų įvertinimas ir populiarumas nuo $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "toliau / Ankstesnė epizodo data nuo $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "papildoma filmo / TV serijos informacija"
+  },
+  "_description_mm_feature_4": {
+    "message": "pranešimas apie naują epizodą"
+  },
+  "_description_mm_feature_5": {
+    "message": "pažymėkite televizijos seriją kaip mėgstamą ir gausite pranešimą, kai yra naujas epizodas"
+  },
+  "_description_mm_feature_7": {
+    "message": "automatiškai paslėpti, kai aptinkamas vaizdo atkūrimas"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ bus rodomas filmo (arba TV serijos) reitingas ir populiarumas)"
+  },
+  "name": {
+    "message": "Vardas"
+  },
+  "year": {
+    "message": "Metai. \\ T"
+  },
+  "video_type": {
+    "message": "Tipas. \\ T"
+  },
+  "video_type_0": {
+    "message": "Filmas"
+  },
+  "video_type_1": {
+    "message": "Serija. \\ T"
+  },
+  "video_type_2": {
+    "message": "Epizodas"
+  },
+  "runtime": {
+    "message": "Runtime."
+  },
+  "premiered": {
+    "message": "Premjera"
+  },
+  "premiere_in": {
+    "message": "Premjera. \\ T"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Šalis"
+  },
+  "actors": {
+    "message": "Aktoriai"
+  },
+  "dvd": {
+    "message": "DVD."
+  },
+  "director": {
+    "message": "Direktorius"
+  },
+  "totalseasons": {
+    "message": "Iš viso sezonų"
+  },
+  "writer": {
+    "message": "Rašytojas"
+  },
+  "language": {
+    "message": "Kalba. \\ T"
+  },
+  "awards": {
+    "message": "Apdovanojimai. \\ T"
+  },
+  "rated": {
+    "message": "Įvertintas"
+  },
+  "production": {
+    "message": "Gamyba"
+  },
+  "plot": {
+    "message": "Sklypas. \\ T"
+  },
+  "website": {
+    "message": "Interneto svetainė"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Apsilankykite $visit_imdb$ puslapyje"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Apsilankykite $visit_tvmaze$ puslapio šiam šou"
+  },
+  "make_favorite": {
+    "message": "Mėgstamiausia"
+  },
+  "make_favorite_title": {
+    "message": "Pridėti televizoriaus serialą į Favoritus. Tai leis jums gauti pranešimą apie naujus epizodus."
+  },
+  "last_episode": {
+    "message": "Paskutinis"
+  },
+  "next_episode": {
+    "message": "Kitas"
+  },
+  "last_episode_title": {
+    "message": "Paskutinis epizodas"
+  },
+  "next_episode_title": {
+    "message": "Kitas epizodas"
+  },
+  "episode_airtime": {
+    "message": "Laiko"
+  },
+  "episode_name": {
+    "message": "Vardas"
+  },
+  "series_status": {
+    "message": "Statusas"
+  },
+  "episodes_count": {
+    "message": "Epizodai"
+  },
+  "episodes_count_title": {
+    "message": "Dabartinis sezonas $1 turi $2 epizodus"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "dienos"
+  },
+  "hours": {
+    "message": "valandos"
+  },
+  "na": {
+    "message": "Nepasiekiamas"
+  },
+  "user_rating": {
+    "message": "Vartotojo įvertinimas: $1"
+  },
+  "user_popularity": {
+    "message": "Populiarumas: $1 balsai"
+  },
+  "source": {
+    "message": "Šaltinis: $1"
+  },
+  "show_details": {
+    "message": "daugiau ..."
+  },
+  "hide_details": {
+    "message": "mažiau ..."
+  },
+  "save_position": {
+    "message": "Išsaugokite poziciją"
+  },
+  "revert_position": {
+    "message": "Grįžti į poziciją"
+  },
+  "win_disable": {
+    "message": "Išjungti $1"
+  },
+  "cm_advanced": {
+    "message": "Išplėstinė. \\ T"
+  },
+  "op_visit_home": {
+    "message": "Apsilankykite pagrindiniame puslapyje"
+  },
+  "op_support_me": {
+    "message": "Padėti šiam projektui"
+  },
+  "hide": {
+    "message": "Slėpti langą"
+  },
+  "show": {
+    "message": "Rodyti langą"
+  },
+  "reset_position": {
+    "message": "Atstatyti poziciją"
+  },
+  "search": {
+    "message": "Paieška"
+  },
+  "configure_search": {
+    "message": "Konfigūruoti paieškos parinktis"
+  },
+  "selection_search": {
+    "message": "Ieškoti $1."
+  },
+  "menu_options": {
+    "message": "Galimybės"
+  },
+  "menu_quick_options": {
+    "message": "Greitos galimybės"
+  },
+  "menu_visit_homepage": {
+    "message": "Apsilankykite pagrindiniame puslapyje"
+  },
+  "menu_request_support": {
+    "message": "Prašyti paramos $1"
+  },
+  "show_introduction": {
+    "message": "Rodyti įvadą"
+  },
+  "o_about_issues": {
+    "message": "Ataskaitos problemos:"
+  },
+  "safari_store": {
+    "message": "\"Mac App Store\""
+  },
+  "firefox_store": {
+    "message": "\"Firefox\" priedai"
+  },
+  "chrome_store": {
+    "message": "\"Chrome\" internetinė parduotuvė"
+  },
+  "movie_not_detected": {
+    "message": "Filmas nėra aptiktas"
+  },
+  "movie_not_detected_title": {
+    "message": "Šiame puslapyje nebuvo aptikta filmo / televizijos serija."
+  },
+  "movie_not_found": {
+    "message": "Filmas nerastas"
+  },
+  "movie_not_found_title": {
+    "message": "Filmų informacija nerasta serveryje."
+  },
+  "status_type_0": {
+    "message": "Veikia"
+  },
+  "status_type_1": {
+    "message": "Baigėsi"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Rodyti tęsis"
+  },
+  "status_type_title_1": {
+    "message": "Pasirodys baigėsi - planuojama daugiau sezonų"
+  },
+  "status_type_title_2": {
+    "message": "Rodo ateitį neaišku"
+  },
+  "notify_movie_not_found": {
+    "message": "Filmas nerastas: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Naudokite tik anglų kalbos filmo pavadinimą!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Paieška nėra tobula ..."
+  },
+  "notify_video_hide": {
+    "message": "Video aptikta - $app_name$ dabar yra paslėpta"
+  },
+  "notify_video_hide_body": {
+    "message": "Spauskite čia norėdami dar kartą nerodyti šio pranešimo"
+  },
+  "notify_new_episodes": {
+    "message": "Naujas epizodas buvo išstumtas"
+  },
+  "title_introduction": {
+    "message": "ĮVADAS. \\ T"
+  },
+  "supported_pages": {
+    "message": "Palaikomi puslapiai:"
+  },
+  "supported_grows": {
+    "message": "(Šis sąrašas auga didesnis ir didesnis)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Reitingai ir populiarumo informacija yra iš $1$. Informacija apie epizodus yra iš $2$."
+  },
+  "title_got_it": {
+    "message": "Gavo tai, pradėkime!"
+  },
+  "_description_privacy_policy": {
+    "message": "Privatumo politika"
+  },
+  "_description_recent_features": {
+    "message": "Paskutinės patalpos:"
+  },
+  "_description_known_issues": {
+    "message": "Žinomos problemos:"
+  },
+  "_description_common_tags": {
+    "message": "Žymos:"
+  },
+  "_description_features": {
+    "message": "Funkcijos:"
+  },
+  "about_me": {
+    "message": "Aš esu \"Addon\" kūrėjas nuo 2016 m. Mano tikslas yra sukurti galingus jūsų žiniatinklio naršyklės plėtinius, kad padarytumėte našesnį."
+  },
+  "about_good_job": {
+    "message": "Jei manote, kad darau gerą darbą, prašome paaukoti :)"
+  },
+  "about_income": {
+    "message": "Jūsų donorystė yra vienintelė pajamos!"
+  },
+  "about_thanks": {
+    "message": "Dėkojame, kad palaikėte mano darbą!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Banko pervedimas naudojant IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Palaikykite nepriklausomą kūrėją!"
+  }
+}

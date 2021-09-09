@@ -1,0 +1,703 @@
+{
+  "_description_ah_why_1": {
+    "message": "Sometimes the page is just not designed well and the information you are looking for is not visible enough."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Common use-cases:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Highlight metadata like:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Highlight \"Free shipping\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Are you searching for something specific on the web? Use \"Temporal Highlight\" to help you find it on all pages. Temporal highlights are auto-deleted when you close your browser."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "You can even hide words by setting font-size to zero or by making them transparent."
+  },
+  "_description_tags_ah": {
+    "message": "highlight, mark, metadata, movie, automatic, text, synchronization, selection, search"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ will automatically highlight defined words on defined pages."
+  },
+  "match_type": {
+    "message": "Match type:"
+  },
+  "match_type_0": {
+    "message": "Domain is"
+  },
+  "match_type_1": {
+    "message": "URL is"
+  },
+  "match_type_2": {
+    "message": "URL contains"
+  },
+  "match_type_3": {
+    "message": "URL matches RegEx"
+  },
+  "match_type_4": {
+    "message": "Every page"
+  },
+  "selection_highlight": {
+    "message": "Highlight $1"
+  },
+  "selection_temp": {
+    "message": "Temporarily highlight $1"
+  },
+  "selection_temp_everywhere": {
+    "message": "Temporarily highlight everywhere $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ on this page"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Always open in New tab - when clicking toolbar icon"
+  },
+  "disable_rule": {
+    "message": "Disabled"
+  },
+  "temporal_rule": {
+    "message": "Temporal"
+  },
+  "each_word": {
+    "message": "Each word"
+  },
+  "rules": {
+    "message": "Rules"
+  },
+  "delete": {
+    "message": "Delete"
+  },
+  "rename": {
+    "message": "Rename"
+  },
+  "duplicate": {
+    "message": "Duplicate"
+  },
+  "delete_rule": {
+    "message": "Delete rule"
+  },
+  "delete_rule_title": {
+    "message": "Delete rule \"$1\"?"
+  },
+  "on_pages": {
+    "message": "On pages:"
+  },
+  "disabled_rule": {
+    "message": "Disabled rule"
+  },
+  "incomplete_rule": {
+    "message": "Incomplete rule"
+  },
+  "active_on_current_page": {
+    "message": "Active on current page"
+  },
+  "temporal_rule_helper": {
+    "message": "Temporal rule - will be deleted after restarting browser"
+  },
+  "active_on_pages": {
+    "message": "Active on pages:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Highlight each word separately"
+  },
+  "case_sensitive": {
+    "message": "Case Sensitive"
+  },
+  "ignore_diacritics": {
+    "message": "Ignore Diacritics"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "Regular expression"
+  },
+  "across_elements": {
+    "message": "Across elements"
+  },
+  "across_elements_help": {
+    "message": "Search for text across neighbor html elements"
+  },
+  "style": {
+    "message": "Style"
+  },
+  "preview": {
+    "message": "Preview:"
+  },
+  "empty_rule": {
+    "message": "empty rule"
+  },
+  "create_new_rule": {
+    "message": "Create new rule"
+  },
+  "import_export": {
+    "message": "Import / Export"
+  },
+  "help_this_project": {
+    "message": "Help this project"
+  },
+  "about_faq": {
+    "message": "About / FAQ"
+  },
+  "faq": {
+    "message": "FAQ:"
+  },
+  "storage_info": {
+    "message": "Storage info:"
+  },
+  "storage_safari_1": {
+    "message": "Safari currently doesn't support automatic data synchronization."
+  },
+  "storage_safari_2": {
+    "message": "To transfer (or backup) your highlight rules, use the \"Import / Export\" feature."
+  },
+  "storage_info_1": {
+    "message": "Your rules are stored using secure $1 Sync that will synchronize your rules between all your devices (if you are logged in to the same account)."
+  },
+  "storage_info_2": {
+    "message": "This cloud storage can store 100 KB of data and up to 500 highlight rules."
+  },
+  "storage_info_3": {
+    "message": "You can also export (backup) your rules to a file using \"Import / Export\" feature and then import it on other devices."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Replace existing highlight rules"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Add page to highlight on"
+  },
+  "remove_highlight_from_page": {
+    "message": "Remove highlight from page"
+  },
+  "bold": {
+    "message": "Bold"
+  },
+  "italic": {
+    "message": "Italic"
+  },
+  "underline": {
+    "message": "Underline"
+  },
+  "background_color": {
+    "message": "Background color"
+  },
+  "background": {
+    "message": "Background"
+  },
+  "text_color": {
+    "message": "Text color"
+  },
+  "color": {
+    "message": "Color"
+  },
+  "font_size": {
+    "message": "Font size"
+  },
+  "rule_name": {
+    "message": "Rule name"
+  },
+  "highlight_regular_expression": {
+    "message": "Highlight regular expression:"
+  },
+  "highlight_text": {
+    "message": "Highlight text:"
+  },
+  "highlight_on_pages": {
+    "message": "Highlight on pages"
+  },
+  "empty_name_helper": {
+    "message": "Leave empty to use \"Highlighted text\" as name"
+  },
+  "faq_1": {
+    "message": "How to quickly highlight word on current page?"
+  },
+  "faq_1a": {
+    "message": "Use context menu - select text / right click / \"Auto Highlight\". If you right click on a page (without selecting text) you can apply existing rules to current page."
+  },
+  "faq_2": {
+    "message": "I want to highlight multiple words, do I need to create new rule for each word separately?"
+  },
+  "faq_2a": {
+    "message": "No, just check the \"Each word\" checkbox. Then each word will be highlighted separately."
+  },
+  "faq_3": {
+    "message": "What is that \"RegExp\"?"
+  },
+  "faq_3a": {
+    "message": "Also known as Regular expression, it's a sequence of characters that define a search pattern. It's a complicated construct that allows complex highlighting of elements with some similar pattern. For example prices, dates, phone numbers, etc..."
+  },
+  "faq_4": {
+    "message": "Can you show me some RegExp examples?"
+  },
+  "faq_4a": {
+    "message": "Highlight all prices like $1"
+  },
+  "faq_5": {
+    "message": "Could you explain those?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" highlights dollar sign. The backslash is needed here because dollar has a special meaning in RegExp.",
+    "placeholders": {
+      "1": {
+        "content": "\\$"
+      }
+    }
+  },
+  "faq_5b": {
+    "message": "\"$1$\" highlights single digit",
+    "placeholders": {
+      "1": {
+        "content": "\\d"
+      }
+    }
+  },
+  "faq_5c": {
+    "message": "\"$1$\" means repeat one or more times. When placed after digit selector $2$, it means one or more digits.",
+    "placeholders": {
+      "1": {
+        "content": "+"
+      },
+      "2": {
+        "content": "\\d+"
+      }
+    }
+  },
+  "faq_5d": {
+    "message": "\"$1$\" highlights dot. The backslash is again needed because dot symbol alone means any single character in RegExp.",
+    "placeholders": {
+      "1": {
+        "content": "\\."
+      }
+    }
+  },
+  "faq_5e": {
+    "message": "\"$1$\" means zero or one time. When placed after brackets $2$, it means whatever is inside those brackets is optional (can be there, or not). We use it for the decimal part of the number which is optional.",
+    "placeholders": {
+      "1": {
+        "content": "?"
+      },
+      "2": {
+        "content": "()?"
+      }
+    }
+  },
+  "faq_5f": {
+    "message": "more info about RegExp rules"
+  },
+  "import_finished": {
+    "message": "Import finished!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Error",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Import backup file $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Homepage",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon page",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-ons",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Options",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Font size",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Sidebar size",
+    "common": true
+  },
+  "label_next": {
+    "message": "Next",
+    "common": true
+  },
+  "label_note": {
+    "message": "Note:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Remove",
+    "common": true
+  },
+  "label_warning": {
+    "message": "WARNING:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Options:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Default:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Done!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Copied!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Custom:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Close",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Installed",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Open page",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Agree",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Cancel",
+    "common": true
+  },
+  "label_save": {
+    "message": "Save",
+    "common": true
+  },
+  "label_required": {
+    "message": "Required",
+    "common": true
+  },
+  "label_sending": {
+    "message": "sending...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Scale:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Size:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Coming soon",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Save changes",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Discard changes",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menu",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Visit homepage",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Help this project",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Support independent developer!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Hello there!",
+    "common": true
+  },
+  "about_me": {
+    "message": "I'm addon developer since 2016. My goal is to build powerful extensions for your web-browser to make you more productive.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "If you think I'm doing a good job, please donate :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Your donation is my only income!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Thank you for supporting my work!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Help",
+    "common": true
+  },
+  "o_title": {
+    "message": "Options - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "backup",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Create new backup",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Save settings",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "To export your data to a file, reopen this window in a new tab.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Right click / \"Download Linked File\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "General",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Background",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Context menu",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Thumbnails",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Shortcuts",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Import / backup",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "About",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Settings",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Theme:",
+    "common": true
+  },
+  "o_general": {
+    "message": "General:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "disabled",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "enabled",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "seconds",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Context menu:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Disable context menu: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Backup / restore settings to file:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Import",
+    "common": true
+  },
+  "title_import": {
+    "message": "Import",
+    "common": true
+  },
+  "title_export": {
+    "message": "Export",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Export backup",
+    "common": true
+  },
+  "label_or": {
+    "message": "or",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Hello :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "My name is $1$ and I'm the author of $app_name$.",
+    "common": true,
+    "placeholders": {
+      "1": {
+        "content": "Juraj Mäsiar"
+      }
+    }
+  },
+  "o_about_like_it": {
+    "message": "If you like it, please rate it here:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "If you don't like it, please let me know why to my e-mail. I'm implementing most of the feature-requests I receive.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Please consider supporting my work by",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Bank transfer using IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donation (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "becoming my Patron",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Thank you!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "home:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contact:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Report issues:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "I can reply only in English / Slovak",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Social media:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Save changes and close",
+    "common": true
+  },
+  "o_saved": {
+    "message": "saved!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "No matching results",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "No data",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Dark mode",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Controlled by system",
+    "common": true
+  },
+  "used_space": {
+    "message": "Used space: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Open in new tab",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Switch addon ON / OFF",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon is disabled",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Why?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Privacy Policy",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Recently added features:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

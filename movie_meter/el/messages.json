@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "ημερομηνία, IMDB, Περιγραφή, Επεισόδιο, Μετρητής, Γράφημα, IMDB, Info, Μετρητής, Ταινία, Ταινία, Ταινίες, Netflix, IMDB, Βαθμολογία, Σειρά, Εμφάνιση, Τηλεόραση, Τηλεόραση, Βίντεο, Οπτική, Ψήφοι, Σεζόν"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "η ταινία δεν βρέθηκε / λανθασμένη ταινία που βρέθηκε - Δεδομένου ότι δεν υπάρχει \"επίσημη\" ενσωμάτωση με σελίδες στόχους, δεν μπορώ να εγγυηθώ 100% σωστά αποτελέσματα (αλλά στην πλειοψηφία των περιπτώσεων λειτουργεί τέλεια)"
+  },
+  "_description_mm_not_working": {
+    "message": "Δεν λειτουργεί στην αγαπημένη σας σελίδα ταινιών;"
+  },
+  "_description_mm_add_support": {
+    "message": "Επικοινωνήστε μαζί μου και θα το προσθέσω - αν είναι δυνατόν (σελίδα πρέπει να περιέχει όνομα ταινίας στα αγγλικά ή $visit_imdb$)."
+  },
+  "_description_mm_feature_1": {
+    "message": "ταινία και δημοτικότητα από $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "επόμενο / Προηγούμενο επεισόδιο Ημερομηνία από $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "πρόσθετες πληροφορίες σειράς ταινιών / τηλεόρασης"
+  },
+  "_description_mm_feature_4": {
+    "message": "ειδοποίηση σχετικά με το νέο επεισόδιο"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark TV σειρά ως αγαπημένο και θα λάβετε ειδοποίηση όταν υπάρχει νέο επεισόδιο"
+  },
+  "_description_mm_feature_7": {
+    "message": "αυτόματη απόκρυψη κατά την ανίχνευση αναπαραγωγής βίντεο"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ θα σας δείξει βαθμολογία και δημοτικότητα μιας ταινίας (ή τηλεοπτικών σειρών)"
+  },
+  "name": {
+    "message": "Ονομα"
+  },
+  "year": {
+    "message": "Ετος"
+  },
+  "video_type": {
+    "message": "Τύπος"
+  },
+  "video_type_0": {
+    "message": "Ταινία"
+  },
+  "video_type_1": {
+    "message": "Σειρά"
+  },
+  "video_type_2": {
+    "message": "Επεισόδιο"
+  },
+  "runtime": {
+    "message": "Χρόνος εκτέλεσης"
+  },
+  "premiered": {
+    "message": "Πρεμιέρα"
+  },
+  "premiere_in": {
+    "message": "Πρεμιέρα"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Χώρα"
+  },
+  "actors": {
+    "message": "Ηθοποιοί"
+  },
+  "dvd": {
+    "message": "DVD"
+  },
+  "director": {
+    "message": "Διευθυντής"
+  },
+  "totalseasons": {
+    "message": "Συνολικές εποχές"
+  },
+  "writer": {
+    "message": "Συγγραφέας"
+  },
+  "language": {
+    "message": "Γλώσσα"
+  },
+  "awards": {
+    "message": "Βραβεία"
+  },
+  "rated": {
+    "message": "Βαθμολογήθηκε"
+  },
+  "production": {
+    "message": "Παραγωγή"
+  },
+  "plot": {
+    "message": "Οικόπεδο"
+  },
+  "website": {
+    "message": "Δικτυακός τόπος"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Επισκεφθείτε $visit_imdb$ σελίδα"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Επισκεφθείτε $visit_tvmaze$ σελίδα για αυτή την παράσταση"
+  },
+  "make_favorite": {
+    "message": "Αγαπημένη"
+  },
+  "make_favorite_title": {
+    "message": "Προσθέστε τηλεοπτικές σειρές προς τα αγαπημένα. Αυτό θα σας επιτρέψει να λαμβάνετε ειδοποίηση σχετικά με τα νέα επεισόδια."
+  },
+  "last_episode": {
+    "message": "Τελευταίος"
+  },
+  "next_episode": {
+    "message": "Επόμενο"
+  },
+  "last_episode_title": {
+    "message": "Τελευταίο επεισόδιο"
+  },
+  "next_episode_title": {
+    "message": "Επόμενο επεισόδιο"
+  },
+  "episode_airtime": {
+    "message": "Χρόνος ομιλίας"
+  },
+  "episode_name": {
+    "message": "Ονομα"
+  },
+  "series_status": {
+    "message": "Κατάσταση"
+  },
+  "episodes_count": {
+    "message": "Επεισόδια"
+  },
+  "episodes_count_title": {
+    "message": "Η τρέχουσα εποχή $1 έχει $2 επεισόδια"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "μέρες"
+  },
+  "hours": {
+    "message": "ώρες"
+  },
+  "na": {
+    "message": "Μη διαθέσιμος"
+  },
+  "user_rating": {
+    "message": "Βαθμολογία χρήστη: $1"
+  },
+  "user_popularity": {
+    "message": "Δημοτικότητα: $1 ψήφους"
+  },
+  "source": {
+    "message": "Πηγή: $1"
+  },
+  "show_details": {
+    "message": "περισσότερο..."
+  },
+  "hide_details": {
+    "message": "πιο λιγο..."
+  },
+  "save_position": {
+    "message": "Αποθήκευση θέσης"
+  },
+  "revert_position": {
+    "message": "Επαναφέρετε τη θέση"
+  },
+  "win_disable": {
+    "message": "Απενεργοποιήστε το $1"
+  },
+  "cm_advanced": {
+    "message": "Προχωρημένος"
+  },
+  "op_visit_home": {
+    "message": "Επισκεφθείτε την αρχική σελίδα"
+  },
+  "op_support_me": {
+    "message": "Βοηθήστε αυτό το έργο"
+  },
+  "hide": {
+    "message": "Απόκρυψη παράθυρο"
+  },
+  "show": {
+    "message": "Εμφάνιση παραθύρου"
+  },
+  "reset_position": {
+    "message": "Επαναφορά θέσης"
+  },
+  "search": {
+    "message": "Αναζήτηση"
+  },
+  "configure_search": {
+    "message": "Ρυθμίστε τις επιλογές αναζήτησης"
+  },
+  "selection_search": {
+    "message": "Αναζήτηση $1"
+  },
+  "menu_options": {
+    "message": "Επιλογές"
+  },
+  "menu_quick_options": {
+    "message": "Γρήγορες επιλογές"
+  },
+  "menu_visit_homepage": {
+    "message": "Επίσκεψη αρχικής σελίδας"
+  },
+  "menu_request_support": {
+    "message": "Ζητήστε υποστήριξη για $1"
+  },
+  "show_introduction": {
+    "message": "Εμφάνιση σελίδας εισαγωγής"
+  },
+  "o_about_issues": {
+    "message": "Αναφορά ζητημάτων:"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "firefox_store": {
+    "message": "Σελίδα πρόσθετων για τον Firefox"
+  },
+  "chrome_store": {
+    "message": "σελίδα Chrome Web Store"
+  },
+  "movie_not_detected": {
+    "message": "Η ταινία δεν ανιχνεύθηκε"
+  },
+  "movie_not_detected_title": {
+    "message": "Δεν ανιχνεύθηκε καμία σειρά ταινιών / τηλεόρασης σε αυτή τη σελίδα."
+  },
+  "movie_not_found": {
+    "message": "Η ταινία δεν βρέθηκε"
+  },
+  "movie_not_found_title": {
+    "message": "Οι πληροφορίες ταινιών δεν βρέθηκαν στο διακομιστή."
+  },
+  "status_type_0": {
+    "message": "Τρέξιμο"
+  },
+  "status_type_1": {
+    "message": "Τελείωτος"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Η επίδειξη θα συνεχιστεί"
+  },
+  "status_type_title_1": {
+    "message": "Επίδειξη έχει λήξει - δεν έχουν προγραμματιστεί περισσότερες εποχές"
+  },
+  "status_type_title_2": {
+    "message": "Δείχνει ότι το μέλλον είναι ασαφές"
+  },
+  "notify_movie_not_found": {
+    "message": "Η ταινία δεν βρέθηκε: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Χρησιμοποιήστε μόνο το όνομα της αγγλικής ταινίας!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Η αναζήτηση δεν είναι τέλεια ..."
+  },
+  "notify_video_hide": {
+    "message": "Ανίχνευση βίντεο - $app_name$ είναι τώρα κρυμμένο"
+  },
+  "notify_video_hide_body": {
+    "message": "Κάντε κλικ εδώ για να μην εμφανιστεί ξανά αυτή η ειδοποίηση"
+  },
+  "notify_new_episodes": {
+    "message": "Νέο επεισόδιο"
+  },
+  "title_introduction": {
+    "message": "Εισαγωγή"
+  },
+  "supported_pages": {
+    "message": "Υποστηριζόμενες σελίδες:"
+  },
+  "supported_grows": {
+    "message": "(Αυτή η λίστα αναπτύσσεται μεγαλύτερη και μεγαλύτερη)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Οι βαθμολογίες και οι πληροφορίες δημοτικότητας είναι από το $1$. Οι πληροφορίες σχετικά με τα επεισόδια προέρχονται από $2$."
+  },
+  "title_got_it": {
+    "message": "Το κατάλαβα, Ας ξεκινήσουμε!"
+  },
+  "_description_privacy_policy": {
+    "message": "Πολιτική απορρήτου"
+  },
+  "_description_recent_features": {
+    "message": "Πρόσφατα πρόσθετα χαρακτηριστικά:"
+  },
+  "_description_known_issues": {
+    "message": "Γνωστά προβλήματα:"
+  },
+  "_description_common_tags": {
+    "message": "Ετικέτες:"
+  },
+  "_description_features": {
+    "message": "Χαρακτηριστικά:"
+  },
+  "about_me": {
+    "message": "Είμαι προγραμματιστής addon από το 2016. Ο στόχος μου είναι να χτίσουμε ισχυρές επεκτάσεις για το web-browser σας για να σας κάνει πιο παραγωγικούς."
+  },
+  "about_good_job": {
+    "message": "Αν νομίζετε ότι κάνω μια καλή δουλειά, παρακαλώ δωρίνετε :)"
+  },
+  "about_income": {
+    "message": "Η δωρεά σας είναι το μόνο εισόδημά μου!"
+  },
+  "about_thanks": {
+    "message": "Σας ευχαριστώ που υποστηρίζετε το έργο μου!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Τραπεζική μεταφορά χρησιμοποιώντας IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Υποστήριξη ανεξάρτητου προγραμματιστή!"
+  }
+}

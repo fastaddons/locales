@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "ಎಲ್ಲಿಯಾದರೂ, ಬಟನ್, ಕರ್ಸರ್, ಡ್ರ್ಯಾಗ್, ದೋಚಿದ, ದೋಚಿದ, ದೋಚಿದ ಮತ್ತು ಡ್ರ್ಯಾಗ್, ಅನಂತ, ಎಡ, ಮಧ್ಯಮ, ಆವೇಗ, ಮೌಸ್, ಚಲನೆ, ಪುಟ, ಬಲ, ಸ್ಕ್ರಾಲ್, ಸ್ಕ್ರಾಲ್ ಪುಟ, ಸ್ಕ್ರೋಲ್ಬಾರ್ವೊಂದನ್ನು, ಸ್ಕ್ರೋಲಿಂಗ್, ಎಸೆಯಿರಿ"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "ಪುಟದಲ್ಲಿ ಎಲ್ಲಿಯಾದರೂ ನಿಮ್ಮ ಮಧ್ಯದ ಮೌಸ್ ಗುಂಡಿಯೊಂದಿಗೆ ಸ್ಕ್ರೋಲ್ಬಾರ್ ಅನ್ನು ಎಳೆಯಿರಿ. \"ದೋಚಿದ ಮತ್ತು ಡ್ರ್ಯಾಗ್\" ಶೈಲಿಯನ್ನು ಸಹ ಬೆಂಬಲಿಸುತ್ತದೆ."
+  },
+  "field_int_default_value": {
+    "message": "ಡೀಫಾಲ್ಟ್ ಮೌಲ್ಯ: $1, min: $2, max: $3"
+  },
+  "field_set_default": {
+    "message": "ಡೀಫಾಲ್ಟ್ಗೆ ಮರುಹೊಂದಿಸಿ: $1"
+  },
+  "thunderbird_store": {
+    "message": "ಥಂಡರ್ಬರ್ಡ್ ಆಡ್-ಆನ್ಗಳು"
+  },
+  "firefox_store": {
+    "message": "ಫೈರ್ಫಾಕ್ಸ್ ಆಡ್-ಆನ್ಗಳು"
+  },
+  "chrome_store": {
+    "message": "ಕ್ರೋಮ್ ವೆಬ್ ಅಂಗಡಿ"
+  },
+  "safari_store": {
+    "message": "ಮ್ಯಾಕ್ ಆಪ್ ಸ್ಟೋರ್"
+  },
+  "win_disable": {
+    "message": "$1 ರಂದು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "$1 ರಂದು ಸಮತಲ ಸ್ಕ್ರೋಲಿಂಗ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
+  },
+  "op_visit_home": {
+    "message": "ಮುಖಪುಟಕ್ಕೆ ಭೇಟಿ ನೀಡಿ"
+  },
+  "op_support_me": {
+    "message": "ಈ ಯೋಜನೆಗೆ ಸಹಾಯ ಮಾಡಿ"
+  },
+  "o_title": {
+    "message": "ಆಯ್ಕೆಗಳು - $1"
+  },
+  "o_tab_general": {
+    "message": "ಸಾಮಾನ್ಯ"
+  },
+  "o_tab_momentum": {
+    "message": "ಮೊಮೆಂಟಮ್"
+  },
+  "o_tab_cursor": {
+    "message": "ಕರ್ಸರ್"
+  },
+  "o_axis_locking": {
+    "message": "ಆಕ್ಸಿಸ್ ಲಾಕಿಂಗ್"
+  },
+  "o_tab_performance": {
+    "message": "ಕಾರ್ಯಕ್ಷೇತ್ರ"
+  },
+  "o_tab_disabled_on": {
+    "message": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+  },
+  "o_tab_advanced": {
+    "message": "ಮುಂದುವರಿದ"
+  },
+  "o_tab_scrollbars": {
+    "message": "ಸ್ಕ್ರೋಲ್ಬಾರ್ಗಳು"
+  },
+  "o_tab_backup": {
+    "message": "ಆಮದು / ಬ್ಯಾಕಪ್"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "ಒಂದು ಆಕ್ಸಿಸ್ನಲ್ಲಿ ಸ್ಕ್ರೋಲ್ ಮಾಡಬಹುದಾದ ಪೆಟ್ಟಿಗೆಯನ್ನು ಸ್ಕ್ರೋಲ್ ಮಾಡುವಾಗ ಆದರೆ ಪೋಷಕ ಬಾಕ್ಸ್ ಇತರ ಅಕ್ಷದಲ್ಲಿ ಸ್ಕ್ರೋಲ್ ಮಾಡಬಹುದಾದವು, ಬಳಸಿಕೊಂಡು ಒಂದು ಅಕ್ಷಕ್ಕೆ ಸ್ಕ್ರೋಲಿಂಗ್:"
+  },
+  "o_axis_lock_0": {
+    "message": "ಸ್ಮಾರ್ಟ್ ಲಾಕ್ - ಟೆಂಪರಲ್ ಲಾಕ್ ಆವೇಗವನ್ನು ಬಳಸಿ"
+  },
+  "o_axis_lock_1": {
+    "message": "ಸ್ಟ್ರಿಕ್ಟ್ ಲಾಕ್ - ಇನ್ಸ್ಟೆಂಟ್ ದಿಕ್ಕಿನಲ್ಲಿ ಲಾಕ್"
+  },
+  "o_axis_lock_2": {
+    "message": "ಯಾವುದೇ ಲಾಕ್ - ಎರಡೂ ಅಕ್ಷದಲ್ಲಿ ಉಚಿತ ಸ್ಕ್ರೋಲಿಂಗ್"
+  },
+  "o_trend_momentum_window": {
+    "message": "ಸ್ಮಾರ್ಟ್ ಲಾಕ್ ಸ್ಟ್ಯಾಕ್ ಗಾತ್ರ"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "ಸ್ಕ್ರೋಲಿಂಗ್ ಆಕ್ಸಿಸ್ ಅನ್ನು ಬದಲಾಯಿಸಲು ದೊಡ್ಡ ಮೌಲ್ಯವು ವಿರುದ್ಧ ಅಕ್ಷದಲ್ಲಿ ಹೆಚ್ಚು ಸ್ಕ್ರೋಲಿಂಗ್ ಅಗತ್ಯವಿರುತ್ತದೆ."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ! ಸಕ್ರಿಯಗೊಳಿಸಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ."
+  },
+  "o_cursor_change_default": {
+    "message": "ಬದಲಾವಣೆ ಇಲ್ಲ - ಅತ್ಯುತ್ತಮ ಪ್ರದರ್ಶನ"
+  },
+  "o_scroll_button": {
+    "message": "ಸ್ಕ್ರಾಲ್ ಬಟನ್:"
+  },
+  "o_direction_speed": {
+    "message": "ಸ್ಕ್ರಾಲ್ ಶೈಲಿ / ನಿರ್ದೇಶನ / ವೇಗ:"
+  },
+  "o_multiplier": {
+    "message": "ಮಲ್ಟಿಪ್ಲೇಯರ್"
+  },
+  "o_times_speed": {
+    "message": "ಟೈಮ್ಸ್ ಸ್ಕ್ರೋಲ್ ಸ್ಪೀಡ್"
+  },
+  "o_maximum_speed": {
+    "message": "ಗರಿಷ್ಠ ಸ್ಕ್ರೋಲ್ ವೇಗ (0 - ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ):"
+  },
+  "o_ratio_unit": {
+    "message": "ಅನುಪಾತ (ಪುಟ ಉದ್ದ / ವಿಂಡೋ ಗಾತ್ರ)"
+  },
+  "o_scroll_type_0": {
+    "message": "ಸ್ಕ್ರೋಲ್ಬಾರ್ ಅನ್ನು ಅನುಕರಿಸಿ"
+  },
+  "o_scroll_type_1": {
+    "message": "ದೋಚಿದ ಮತ್ತು ಡ್ರ್ಯಾಗ್ - ಸ್ಮಾರ್ಟ್ಫೋನ್ನಲ್ಲಿ ಲೈಕ್"
+  },
+  "o_scroll_type_2": {
+    "message": "ಡೈನಮಿಕ್ ಸ್ಪೀಡ್ (ಪ್ರಾಯೋಗಿಕ)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "ಇದು ಸ್ಕ್ರೋಲ್ಬಾರ್ವೊಂದನ್ನು ಎಳೆಯಲು ಹಾಗೆ"
+  },
+  "o_scroll_type_title_1": {
+    "message": "ಫೋನ್ ಪರದೆಯ ಮೇಲೆ ನಿಮ್ಮ ಬೆರಳಿನಿಂದ ಪುಟವನ್ನು ಎಳೆಯುವಂತೆಯೇ ಇದು"
+  },
+  "o_scroll_type_title_2": {
+    "message": "ಪುಟವು ಮುಂದೆ ಇರುವಾಗ ಡೈನಾಮಿಕ್ ವೇಗ ಸ್ಕ್ರಾಲ್ ಸ್ಪೀಡ್ ನಿಧಾನವಾಗಿ ಮಾಡುತ್ತದೆ"
+  },
+  "o_disable_key": {
+    "message": "ಕೀಲಿಯು ಕೆಳಗಿರುವಾಗ ಸ್ಕ್ರೋಲಿಂಗ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ / ಸಕ್ರಿಯಗೊಳಿಸಿ:"
+  },
+  "o_momentum_category": {
+    "message": "ಮೊಮೆಂಟಮ್:"
+  },
+  "o_momentum_formula": {
+    "message": "ಮೊಮೆಂಟಮ್ ಫಾರ್ಮುಲಾ:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "ಏಕರೂಪವಾಗಿ ವೇಗವರ್ಧಿತ ಚಳುವಳಿ"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "ಪುಟ ಸ್ಕ್ರಾಲ್ ಇದು ನಿಲ್ಲುವವರೆಗೆ ಏಕರೂಪವಾಗಿ ನಿಧಾನವಾಗಿ ನಿಧಾನಗೊಳ್ಳುತ್ತದೆ"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "ಘಾತೀಯವಾಗಿ ಕೆರಳಿದ ಚಳುವಳಿ"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "ಪುಟ ಸ್ಕ್ರಾಲ್ ವೇಗವಾಗಿ (ಘಾತೀಯವಾಗಿ) ನಿಧಾನಗೊಳಿಸುತ್ತದೆ"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "ಇನ್ಫೈನೈಟ್ ಚಳುವಳಿ ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "ಸ್ಕ್ರೋಲಿಂಗ್ ಎಂದಿಗೂ ನಿಲ್ಲಿಸುವುದಿಲ್ಲ"
+  },
+  "o_momentum_max_speed": {
+    "message": "ಗರಿಷ್ಠ ವೇಗ (0 - ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ):"
+  },
+  "o_page_weight": {
+    "message": "ಪುಟ ತೂಕ:"
+  },
+  "o_grams": {
+    "message": "ಗ್ರಾಂಗಳು :)"
+  },
+  "o_additional_speed": {
+    "message": "ಹೆಚ್ಚುವರಿ ವೇಗ:"
+  },
+  "o_pixels_second": {
+    "message": "ಪ್ರತಿ ಸೆಕೆಂಡಿಗೆ ಪಿಕ್ಸೆಲ್ಗಳು"
+  },
+  "o_additional_duration": {
+    "message": "ಹೆಚ್ಚುವರಿ ಅವಧಿ:"
+  },
+  "o_advanced_momentum": {
+    "message": "ಸುಧಾರಿತ ಮೊಮೆಂಟಮ್ ಸೆಟಪ್ (ತಜ್ಞರಿಗೆ ಮಾತ್ರ!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "ಈ ಮೌಲ್ಯಗಳನ್ನು ಬದಲಾಯಿಸುವುದು ನಿಮ್ಮ ಆವೇಗವನ್ನು ಮುರಿಯಬಹುದು!"
+  },
+  "o_compute_from_last": {
+    "message": "ಕೊನೆಯದಾಗಿ ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "ಮೌಸ್ ಸ್ಟಾಪ್ ಪತ್ತೆ:"
+  },
+  "o_tracking_speed": {
+    "message": "ಟ್ರ್ಯಾಕಿಂಗ್ ವೇಗ:"
+  },
+  "o_reset_values": {
+    "message": "ಮೌಲ್ಯಗಳನ್ನು ಮರುಹೊಂದಿಸಿ"
+  },
+  "o_cursor_scrolling": {
+    "message": "ಸ್ಕ್ರೋಲಿಂಗ್ ಮಾಡುವಾಗ ಕರ್ಸರ್ ಬಳಸಲಾಗುತ್ತದೆ:"
+  },
+  "o_performance": {
+    "message": "ಕಾರ್ಯಕ್ಷಮತೆ:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "ದೊಡ್ಡ ಜಿಗಿತಗಳನ್ನು ತಡೆಯಿರಿ"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "ಪರದೆಯ ಉದ್ದಕ್ಕೂ ನಿಮ್ಮ ಕರ್ಸರ್ ಅನ್ನು ಟೆಲಿಪೋರ್ಟ್ ಮಾಡುವ ಸಾಧನವನ್ನು ನೀವು ಬಳಸುತ್ತಿದ್ದರೆ (ನೀವು ಒಂದು ತುದಿಯನ್ನು ತಲುಪಿದಾಗ), ನಿರಂತರ (ಅನಂತ) ಸ್ಕ್ರೋಲಿಂಗ್ ಅನ್ನು ಅನುಮತಿಸಲು ಈ ಆಯ್ಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ."
+  },
+  "o_advanced": {
+    "message": "ಮುಂದುವರಿದ:"
+  },
+  "o_movement_detection": {
+    "message": "ಮೌಸ್ ಚಲನೆ ಪತ್ತೆ ಥ್ರೆಶೋಲ್ಡ್:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "ಲಿಂಕ್ ಅನ್ನು ನಿರ್ಬಂಧಿಸಲು ಎಷ್ಟು ಪಿಕ್ಸೆಲ್ಗಳು ಮೌಸ್ ಚಲಿಸುತ್ತವೆ. ಕೆಲವೊಮ್ಮೆ ಸ್ಕ್ರಾಲ್ ಬಟನ್ ಒತ್ತುವ ಸಂದರ್ಭದಲ್ಲಿ ನೀವು ಮೌಸ್ ಅನ್ನು ಸ್ವಲ್ಪಮಟ್ಟಿಗೆ ಚಲಿಸುತ್ತೀರಿ ಆದರೆ ಅದರ ಕಾರಣದಿಂದಾಗಿ ನೀವು ಲಿಂಕ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಬೇಕೆಂದು ಬಯಸುವುದಿಲ್ಲ."
+  },
+  "o_context_menu_block": {
+    "message": "ಸನ್ನಿವೇಶ ಮೆನು ಬ್ಲಾಕ್:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "ಸನ್ನಿವೇಶ ಮೆನು ವಿಳಂಬವನ್ನು ಅನಿರ್ಬಂಧಿಸಿ"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "ಬಲ ಮೌಸ್ ಗುಂಡಿಯೊಂದಿಗೆ ಸ್ಕ್ರೋಲಿಂಗ್ ಮಾಡಿದ ನಂತರ ನೀವು ಸನ್ನಿವೇಶ ಮೆನುವನ್ನು ನೋಡಿದರೆ, ಈ ಮೌಲ್ಯವನ್ನು ಹೆಚ್ಚಿಸಿ"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "ಡೊಮೇನ್ಗಳಲ್ಲಿ ಸಮತಲ ಸ್ಕ್ರೋಲಿಂಗ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ:"
+  },
+  "o_is_disabled_domains": {
+    "message": "ಡೊಮೇನ್ಗಳಲ್ಲಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ:"
+  },
+  "o_is_disabled_url": {
+    "message": "ಪುಟಗಳು / ಉಪ-ಪುಟಗಳಲ್ಲಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "ನೀವು URL ಭಾಗವನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಲು ಸ್ಟಾರ್ ಚಿಹ್ನೆ (*) ಅನ್ನು ಬಳಸಬಹುದು, ಉದಾಹರಣೆಗೆ: \"google.com/maps\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "ಪ್ರತಿ ಸಾಲಿಗೆ ಒಂದು ಡೊಮೇನ್ ನಮೂದಿಸಿ."
+  },
+  "o_is_disabled": {
+    "message": "ಆಡ್-ಆನ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "ಮುಖ್ಯ ಆನ್ / ಆಫ್ ಸ್ವಿಚ್ ಆಗಿ ಟೂಲ್ಬಾರ್ ಐಕಾನ್ ಬಳಸಿ"
+  },
+  "o_scroll_button_middle": {
+    "message": "ಮಧ್ಯಮ ಗುಂಡಿ"
+  },
+  "o_scroll_button_right": {
+    "message": "ಬಲ ಬಟನ್"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "ಲಿನಕ್ಸ್ / ಮ್ಯಾಕ್ ಬಳಕೆದಾರರು - ಹೊಸ ಅನುಮತಿಗಾಗಿ \"ಬ್ರೌಸರ್ ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ಓದಿ\" ಎಂಬ ಹೊಸ ಅನುಮತಿಗಾಗಿ ನಿಮ್ಮನ್ನು ಕೇಳಲಾಗುತ್ತದೆ - ಸ್ಕ್ರೋಲಿಂಗ್ ಮೊದಲು ತೋರಿಸಲಾದ ಸನ್ನಿವೇಶ ಮೆನುವನ್ನು ನಿಗ್ರಹಿಸಲು ಇದು ಅಗತ್ಯವಿದೆ!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "ಲಿನಕ್ಸ್ / ಮ್ಯಾಕ್ ಬಳಕೆದಾರರು - ನಿಮ್ಮ ಸನ್ನಿವೇಶ ಮೆನು ನಿರ್ಬಂಧಿಸಲಾಗುವುದು! ಸನ್ನಿವೇಶ ಮೆನುವನ್ನು ತೆರೆಯಲು \"ಶಿಫ್ಟ್\" ಕೀಲಿ ಅಥವಾ ಟ್ರಿಪಲ್-ಕ್ಲಿಕ್ ರೈಟ್ ಬಟನ್ ಅನ್ನು ಹಿಡಿದಿಡಲು."
+  },
+  "o_scroll_button_left": {
+    "message": "ಎಡ ಬಟನ್ (ಪ್ರಾಯೋಗಿಕ)"
+  },
+  "o_scroll_on_links": {
+    "message": "ಲಿಂಕ್ಗಳಲ್ಲಿ ಸ್ಕ್ರಾಲ್ ಮಾಡಿ"
+  },
+  "o_scroll_on_links_title": {
+    "message": "ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಲಿಂಕ್ಗಳನ್ನು ಎಳೆಯಲು ಮತ್ತು ಬಿಡಿಸಲು ನಿಮಗೆ ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ ('ಕೀಲಿಯನ್ನು' ಕೀಲಿಯನ್ನು ಬಳಸಿ)"
+  },
+  "o_scroll_on_text": {
+    "message": "ಪಠ್ಯದಲ್ಲಿ ಸ್ಕ್ರಾಲ್ ಮಾಡಿ"
+  },
+  "o_scroll_on_text_title": {
+    "message": "ಫೋನ್ ಸ್ಕ್ರೋಲಿಂಗ್ / ಎಡಿಟಿಂಗ್ ಅನ್ನು ಅನುಕರಿಸುತ್ತದೆ - \"ಎಡಿಟಿಂಗ್ ಮೋಡ್\" ಗೆ ಬದಲಾಯಿಸಲು ನೀವು ಪಠ್ಯವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಬೇಕಾಗುತ್ತದೆ. ಪಠ್ಯದ ಹೊರಗೆ ಕ್ಲಿಕ್ ಮಾಡುವುದರಿಂದ ಮತ್ತೆ ಸ್ಕ್ರೋಲಿಂಗ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ."
+  },
+  "o_scroll_on_textarea": {
+    "message": "ಟೆಕ್ಸ್ಟ್ಯಾರಿಯಾದಲ್ಲಿ ಸ್ಕ್ರಾಲ್ ಮಾಡಿ"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea ಪಠ್ಯದ ಒಂದು ಬ್ಲಾಕ್, ಸಾಮಾನ್ಯವಾಗಿ ಮರುಗಾತ್ರಗೊಳಿಸಬಹುದು. ಉದಾಹರಣೆಗೆ \"ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ\" ಟ್ಯಾಬ್ನಲ್ಲಿ ನೀವು ಟೆಕ್ಸ್ಟ್ಯಾರಿಯಾವನ್ನು ನೋಡಬಹುದು."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "ಸಂಪಾದಿಸಬಹುದಾದ HTML ನಲ್ಲಿ ಸ್ಕ್ರಾಲ್ ಮಾಡಿ"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "ಉದಾಹರಣೆಗೆ Gmail ನಲ್ಲಿ ಇಮೇಲ್ ದೇಹವು ಸಂಪಾದಿಸಬಹುದಾದ HTML ಆಗಿದೆ."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "ಪಠ್ಯದಲ್ಲಿ ಆಯ್ಕೆ / ಸಂಪಾದನೆ ಪಠ್ಯವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "ಪಠ್ಯದ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ \"ಸಂಪಾದನೆ ಮೋಡ್\" ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ. \"ಸ್ಕ್ರಾಲ್ ಮೋಡ್\" ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಹೊರಗಿನ ಪಠ್ಯವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "ಒಂದೇ ಕ್ಲಿಕ್"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "ಎರಡು ಬಾರಿ ಕ್ಲಿಕ್ಕಿಸು"
+  },
+  "o_scrollbars_width": {
+    "message": "ಸ್ಕ್ರೋಲ್ಬಾರ್ಗಳು ನೋಡಿ"
+  },
+  "o_scrollbars_width_0": {
+    "message": "ಸಾಮಾನ್ಯ (ಬದಲಾವಣೆ ಇಲ್ಲ)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "ತೆಳುವಾದ"
+  },
+  "o_scrollbars_width_2": {
+    "message": "ಮರೆಮಾಡಲಾಗಿದೆ"
+  },
+  "o_scrollbars_color": {
+    "message": "ಸ್ಕ್ರೋಲ್ಬಾರ್ವೊಂದನಾ ಸ್ಲೈಡರ್ ಬಣ್ಣ:"
+  },
+  "o_scrollbars_background": {
+    "message": "ಸ್ಕ್ರೋಲ್ಬಾರ್ವೊಂದನ್ನು ಹಿನ್ನೆಲೆ ಬಣ್ಣ:"
+  },
+  "o_reverse": {
+    "message": "ರಿವರ್ಸ್ ಸ್ಕ್ರಾಲ್ ನಿರ್ದೇಶನ"
+  },
+  "o_disable_alt": {
+    "message": "ಆಲ್ಟ್"
+  },
+  "o_disable_shift": {
+    "message": "ಶಿಫ್ಟ್"
+  },
+  "o_disable_ctrl": {
+    "message": "ಸಿಟಿಆರ್"
+  },
+  "o_disable_type_0": {
+    "message": "ಕೀಲಿಯು ಕೆಳಗಿರುವಾಗ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ:"
+  },
+  "o_disable_type_1": {
+    "message": "ಕೀಲಿಯು ಕೆಳಗಿರುವಾಗ ಸಕ್ರಿಯಗೊಳಿಸಿ:"
+  },
+  "o_momentum": {
+    "message": "ಆವೇಗವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ - ನೀವು ಪುಟವನ್ನು (ಫೋನ್ನಲ್ಲಿರುವಂತೆ \"ಎಸೆಯಬಹುದು\""
+  },
+  "o_no_css_edit": {
+    "message": "ಐಫ್ರೇಮ್ಗಳನ್ನು ಲಾಕ್ ಮಾಡಬೇಡಿ ಮತ್ತು ಸ್ಕ್ರೋಲಿಂಗ್ ಮಾಡುವಾಗ ಕರ್ಸರ್ ಅನ್ನು ಬದಲಾಯಿಸಬೇಡಿ"
+  },
+  "o_no_prevent_default": {
+    "message": "ಡೀಫಾಲ್ಟ್ ಬಟನ್ ಕ್ರಿಯೆಯನ್ನು ನಿರ್ಬಂಧಿಸಬೇಡಿ"
+  },
+  "o_auto_link_lock": {
+    "message": "ಲಿಂಕ್ಸ್ ನಿರ್ಬಂಧಿಸುವುದು:"
+  },
+  "o_no_link_block": {
+    "message": "ಚಳುವಳಿಯ ನಂತರ ಲಿಂಕ್ ಮೇಲೆ ಮೌಸ್ ಕ್ಲಿಕ್ ಮಾಡಬೇಡಿ"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "ನೀವು ಲಿಂಕ್ನಲ್ಲಿ ಸ್ಕ್ರೋಲಿಂಗ್ ಪ್ರಾರಂಭಿಸಿದಾಗ ಮತ್ತು ನಂತರ ನೀವು ಅದೇ ಲಿಂಕ್ನಲ್ಲಿ ಸ್ಕ್ರೋಲಿಂಗ್ ಅನ್ನು ಮುಗಿಸಿದಾಗ, ಬ್ರೌಸರ್ ಲಿಂಕ್ ತೆರೆಯುತ್ತದೆ. ಇದು ಸಾಮಾನ್ಯವಾಗಿ ಅಪೇಕ್ಷಿತ ನಡವಳಿಕೆಯಾಗಿಲ್ಲ, ಆದ್ದರಿಂದ ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ ಇದು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ."
+  },
+  "o_page_weight_title": {
+    "message": "ಈ ಪುಟವು 'ಭಾರೀ' ಎಂಬುದು ಹೇಗೆ ನಿಯಂತ್ರಿಸುತ್ತದೆ. ಭಾರವಾದ ಪುಟಗಳು ಮುಂದೆ ಆವೇಗವನ್ನು ಹೊಂದಿರುತ್ತವೆ."
+  },
+  "o_additional_speed_title": {
+    "message": "ನೀವು ಆವೇಗವನ್ನು ವೇಗಗೊಳಿಸುವ ವೇಗವನ್ನು ವೇಗಗೊಳಿಸಬಹುದು."
+  },
+  "o_additional_duration_title": {
+    "message": "ಪ್ರತಿ ಆವೇಗಕ್ಕೆ ಹೆಚ್ಚುವರಿ ಸಮಯ."
+  },
+  "o_compute_from_last_title": {
+    "message": "ಸ್ಕ್ರೋಲ್ ಬಟನ್ ಅನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವ ಮೊದಲು ಸ್ಕ್ರೋಲಿಂಗ್ನ ವೇಗದಿಂದ ಮೊಮೆಂಟಮ್ ಆರಂಭಿಕ ವೇಗವನ್ನು ನಿರ್ಧರಿಸಲಾಗುತ್ತದೆ."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "ಅಲ್ಲಿ ಮೌಸ್ ಇರಬೇಕು - ಸ್ಕ್ರಾಲ್ ಬಟನ್ ಅನ್ನು ಬಿಡುಗಡೆ ಮಾಡುವ ಮೊದಲು - ಆವೇಗವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುವುದಿಲ್ಲ."
+  },
+  "o_tracking_speed_title": {
+    "message": "ಪ್ರಸ್ತುತ ಸ್ಕ್ರಾಲ್ ವೇಗವನ್ನು ಅಳೆಯಲು ಮಧ್ಯಂತರ."
+  },
+  "o_scrolling_area": {
+    "message": "ಸ್ಕ್ರೋಲಿಂಗ್ ಪ್ರದೇಶ:"
+  },
+  "o_outside_area_width": {
+    "message": "ಸ್ಕ್ರೋಲಿಂಗ್ ಪ್ರದೇಶ (0 - ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "ಸ್ಕ್ರೋಲಿಂಗ್ ಪ್ರದೇಶದ ಹೊರಗೆ ನಿಮ್ಮ ಕರ್ಸರ್ ಅನ್ನು ಚಲಿಸುವ ಸ್ಕ್ರೋಲಿಂಗ್ ಸ್ಥಾನವನ್ನು ಹಿಂತಿರುಗಿಸುತ್ತದೆ. ಸ್ಕ್ರೋಲ್ಬಾರ್ವೊಂದನ್ನು ಎಳೆಯುವಾಗ ಅದೇ ವರ್ತನೆಯನ್ನು ಕಾಣಬಹುದು."
+  },
+  "o_scroll_button_left_title": {
+    "message": "ಎಚ್ಚರಿಕೆ - ಎಡ ಬಟನ್ ಬೆಂಬಲವು ಫೈರ್ಫಾಕ್ಸ್ನ ಭವಿಷ್ಯದ ಆವೃತ್ತಿಗಳಲ್ಲಿ ತೆಗೆದುಹಾಕಬಹುದಾದ ಅಸಮ್ಮತಿಗೊಂಡ ಫೈರ್ಫಾಕ್ಸ್ API ಅನ್ನು ಬಳಸುತ್ತಿದೆ."
+  },
+  "o_prevent_text_selection": {
+    "message": "ಎಡ ಗುಂಡಿಯೊಂದಿಗೆ ಸ್ಕ್ರೋಲಿಂಗ್ ಮಾಡುವಾಗ ಪಠ್ಯ ಆಯ್ಕೆಯನ್ನು ತಡೆಯಿರಿ"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "ಕೆಲವು ಸಾಧನಗಳಲ್ಲಿ, ಎಡ ಮೌಸ್ ಗುಂಡಿಯೊಂದಿಗೆ ಸ್ಕ್ರೋಲಿಂಗ್ ಕೂಡ ಪುಟದಲ್ಲಿ ಪಠ್ಯವನ್ನು ಆಯ್ಕೆ ಮಾಡುತ್ತದೆ."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "ಸ್ಕ್ರೋಲ್-ಸ್ಕ್ರೋಲ್ ಮಾಡಬಹುದಾದ ಪುಟವನ್ನು ಸ್ಕ್ರಾಲ್ ಮಾಡಲು ಪ್ರಯತ್ನಿಸುವಾಗ ಸನ್ನಿವೇಶ ಮೆನುವನ್ನು ನಿರ್ಬಂಧಿಸಬೇಡಿ"
+  },
+  "o_backup_restore": {
+    "message": "ಬ್ಯಾಕಪ್ / ಮರುಸ್ಥಾಪಿಸಿ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಫೈಲ್ ಮಾಡಿ:"
+  },
+  "o_export_settings": {
+    "message": "ಫೈಲ್ಗೆ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ರಫ್ತು ಮಾಡಿ"
+  },
+  "import_settings_button": {
+    "message": "$1 ಫೈಲ್ನಿಂದ ಆಮದು ಸೆಟ್ಟಿಂಗ್ಗಳು ..."
+  },
+  "import_finished": {
+    "message": "ಆಮದು ಮುಗಿದಿದೆ!"
+  },
+  "test_page_title": {
+    "message": "ನಿಮ್ಮ ಸ್ಕ್ರೋಲಿಂಗ್ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಇಲ್ಲಿ ಪರೀಕ್ಷಿಸಿ"
+  },
+  "menu_options": {
+    "message": "ಆಯ್ಕೆಗಳು"
+  },
+  "menu_visit_title": {
+    "message": "ಮುಖಪುಟಕ್ಕೆ ಭೇಟಿ ನೀಡಿ"
+  },
+  "not_working": {
+    "message": "ನಿಮ್ಮ ವೆಬ್ ಬ್ರೌಸರ್ನಿಂದ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+  },
+  "disabled_by_user": {
+    "message": "ಈ ಡೊಮೇನ್ನಲ್ಲಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+  },
+  "not_working_title": {
+    "message": "ನಿಮ್ಮ ಬ್ರೌಸರ್ ಈ ರೀತಿಯ ಪುಟಗಳಲ್ಲಿ ಸ್ಕ್ರೋಲಿನ್ ಅನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತದೆ:"
+  },
+  "not_working_body": {
+    "message": "\"Mozilla.org\" ಪುಟಗಳಲ್ಲಿ ಸ್ಕ್ರೋಲಿನ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು, ಈ YouTube ಟ್ಯುಟೋರಿಯಲ್ ಅನ್ನು ನೋಡಿ"
+  },
+  "show_scrollbars": {
+    "message": "ಸ್ಕ್ರಾಲ್ಬಾರ್ಗಳನ್ನು ತೋರಿಸಿ"
+  },
+  "show_scrollbars_title": {
+    "message": "ತಾತ್ಕಾಲಿಕವಾಗಿ ಸ್ಕ್ರಾಲ್ಬಾರ್ಗಳನ್ನು ತೋರಿಸು"
+  },
+  "switch_on_off": {
+    "message": "ಆಡ್-ಆನ್ ಅನ್ನು ಆಫ್ / ಆನ್ ಮಾಡಿ"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "ಸ್ಕ್ರಾಲ್ ಬಟನ್ ಮತ್ತು ಸ್ಕ್ರೋಲಿಂಗ್ ಅನ್ನು ಪ್ರಾರಂಭಿಸುವ ನಡುವೆ ನೀವು ಗಮನಾರ್ಹವಾದ ವಿಳಂಬವನ್ನು ಅನುಭವಿಸಿದರೆ, ಈ ಆಯ್ಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಪ್ರಯತ್ನಿಸಿ. ಆದಾಗ್ಯೂ, ಕೆಲವು ಹಳೆಯ ಎಂಬೆಡೆಡ್ ವೀಡಿಯೊಗಳು ಅಥವಾ ಕೆಲವು ಜಾಹೀರಾತುಗಳಂತಹ \"ಐಫ್ರೇಮ್\" ಅನ್ನು ನೀವು ಸ್ಕ್ರಾಲ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "ಸ್ಕ್ರೋಲಿಂಗ್ ಮಾಡುವಾಗ ಕರ್ಸರ್ ಅನ್ನು ಬದಲಾಯಿಸುವ ಆಯ್ಕೆಯನ್ನು ಇದು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ."
+  },
+  "o_helper_text_default_action": {
+    "message": "ಮಧ್ಯದ ಗುಂಡಿಯೊಂದಿಗೆ ಪೇಸ್ಟ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಲಿನಕ್ಸ್ನಲ್ಲಿ ಉಪಯುಕ್ತವಾಗಿದೆ."
+  },
+  "o_about_hello": {
+    "message": "ಹಲೋ :)"
+  },
+  "o_about_intro": {
+    "message": "ನನ್ನ ಹೆಸರು $1$ ಮತ್ತು ನಾನು $app_name$ ನ ಲೇಖಕ."
+  },
+  "o_about_like_it": {
+    "message": "ನಿಮಗೆ ಇಷ್ಟವಾದಲ್ಲಿ, ದಯವಿಟ್ಟು ಇಲ್ಲಿ ರೇಟ್ ಮಾಡಿ:"
+  },
+  "o_about_dislike_it": {
+    "message": "ನಿಮಗೆ ಇಷ್ಟವಿಲ್ಲದಿದ್ದರೆ, ನನ್ನ ಇ-ಮೇಲ್ಗೆ ಏಕೆ ನನಗೆ ತಿಳಿಸಿ. ನಾನು ಸ್ವೀಕರಿಸುವ ವೈಶಿಷ್ಟ್ಯ-ವಿನಂತಿಗಳನ್ನು ನಾನು ಅನುಷ್ಠಾನಗೊಳಿಸುತ್ತಿದ್ದೇನೆ."
+  },
+  "o_disabled": {
+    "message": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ",
+    "common": true
+  },
+  "o_times": {
+    "message": "ಸಮಯ",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "ಪಿಕ್ಸೆಲ್ಗಳು",
+    "common": true
+  },
+  "o_items": {
+    "message": "ವಸ್ತುಗಳು",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "ಮಿಲಿಸೆಕೆಂಡುಗಳು",
+    "common": true
+  },
+  "label_working": {
+    "message": "ಕೆಲಸ ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "ಮುಚ್ಚು",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "ದಯವಿಟ್ಟು ನನ್ನ ಕೆಲಸವನ್ನು ಬೆಂಬಲಿಸುವುದನ್ನು ಪರಿಗಣಿಸಿ",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "ಕೊಡುಗೆ (ಪೇಪಾಲ್)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "ನನ್ನ ಪೋಷಕ ಬಿಕಮಿಂಗ್",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "ಧನ್ಯವಾದಗಳು!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "ಮುಖಪುಟ:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "ಸಂಪರ್ಕಿಸಿ:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "ವರದಿ ಸಮಸ್ಯೆಗಳನ್ನು ವರದಿ ಮಾಡಿ:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "ಇಂಗ್ಲಿಷ್ / ಸ್ಲೋವಾಕ್ನಲ್ಲಿ ಮಾತ್ರ ನಾನು ಪ್ರತ್ಯುತ್ತರಿಸಬಹುದು",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ ಮತ್ತು ಮುಚ್ಚಿ",
+    "common": true
+  },
+  "o_saved": {
+    "message": "ಉಳಿಸಲಾಗಿದೆ!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "ಶೀಘ್ರದಲ್ಲೇ ಬರಲಿದೆ",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸು",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "ಗೌಪ್ಯತಾ ನೀತಿ",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "ಇತ್ತೀಚೆಗೆ ಸೇರಿಸಲಾಗಿದೆ ವೈಶಿಷ್ಟ್ಯಗಳು:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "ಟ್ಯಾಗ್ಗಳು:",
+    "common": true
+  }
+}

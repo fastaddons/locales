@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "Soms is de pagina gewoon niet goed ontworpen en is de informatie die u zoekt niet zichtbaar genoeg."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Gemeenschappelijke gebruiksgevallen:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Markeer metadata zoals:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Markeer \"Gratis verzending\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Ben je op zoek naar iets specifieks op het web? Gebruik \"Temporal Highlight\" om u te helpen het op alle pagina's te vinden. Temporale hoogtepunten zijn automatisch verwijderd wanneer u uw browser sluit."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Je kunt zelfs woorden verbergen door lettertype-formaat in te stellen op nul of door ze transparant te maken."
+  },
+  "_description_tags_ah": {
+    "message": "markering, Mark, Metagegevens, Film, Automatisch, Tekst, Synchronisatie, Selectie, Zoeken"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ markeert automatisch gedefinieerde woorden op gedefinieerde pagina's."
+  },
+  "match_type": {
+    "message": "Match Type:"
+  },
+  "match_type_0": {
+    "message": "Domein is"
+  },
+  "match_type_1": {
+    "message": "URL is"
+  },
+  "match_type_2": {
+    "message": "URL bevat"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "Elke pagina"
+  },
+  "selection_highlight": {
+    "message": "Markeer $1"
+  },
+  "selection_temp": {
+    "message": "Tijdelijk benadrukt $1"
+  },
+  "selection_temp_everywhere": {
+    "message": "Tijdelijk hooglichten everywhere $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ op deze pagina"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Open altijd in het nieuwe tabblad - bij het klikken op de werkbalkpictogram"
+  },
+  "disable_rule": {
+    "message": "Gehandicapt"
+  },
+  "temporal_rule": {
+    "message": "Tijdelijk"
+  },
+  "each_word": {
+    "message": "Elk woord"
+  },
+  "rules": {
+    "message": "Reglement"
+  },
+  "delete": {
+    "message": "Verwijderen"
+  },
+  "rename": {
+    "message": "Hernoemen"
+  },
+  "duplicate": {
+    "message": "Duplicaat"
+  },
+  "delete_rule": {
+    "message": "Regel verwijderen"
+  },
+  "delete_rule_title": {
+    "message": "Regel \"$1\" verwijderen?"
+  },
+  "on_pages": {
+    "message": "Op pagina's:"
+  },
+  "disabled_rule": {
+    "message": "Gehandicapte regel"
+  },
+  "incomplete_rule": {
+    "message": "Onvolledige regel"
+  },
+  "active_on_current_page": {
+    "message": "Actief op de huidige pagina"
+  },
+  "temporal_rule_helper": {
+    "message": "Temporale regel - wordt verwijderd na het opnieuw opstarten van de browser"
+  },
+  "active_on_pages": {
+    "message": "Actief op pagina's:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Markeer elk woord afzonderlijk"
+  },
+  "case_sensitive": {
+    "message": "Hoofdlettergevoelig"
+  },
+  "ignore_diacritics": {
+    "message": "Negeer diakritici"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "Reguliere expressie"
+  },
+  "across_elements": {
+    "message": "Over elementen"
+  },
+  "across_elements_help": {
+    "message": "Zoek naar tekst in buurman HTML-elementen"
+  },
+  "style": {
+    "message": "Stijl"
+  },
+  "preview": {
+    "message": "Voorbeeld:"
+  },
+  "empty_rule": {
+    "message": "lege regel"
+  },
+  "create_new_rule": {
+    "message": "Maak een nieuwe regel"
+  },
+  "import_export": {
+    "message": "Importeren / exporteren"
+  },
+  "help_this_project": {
+    "message": "Help dit project"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "FAQ:"
+  },
+  "storage_info": {
+    "message": "Opslaginfo:"
+  },
+  "storage_safari_1": {
+    "message": "Safari ondersteunt momenteel geen automatische datasynchronisatie."
+  },
+  "storage_safari_2": {
+    "message": "Gebruik de functie \"Importeren / exporteren\" om (of back-up) uw markeringsregels over te dragen."
+  },
+  "storage_info_1": {
+    "message": "Uw regels worden opgeslagen met Secure $1-synchronisatie die uw regels tussen al uw apparaten zal synchroniseren (als u bent ingelogd op hetzelfde account)."
+  },
+  "storage_info_2": {
+    "message": "Deze cloudopslag kan 100 KB van gegevens opslaan en maximaal 500 markeerregels."
+  },
+  "storage_info_3": {
+    "message": "U kunt uw regels ook naar een bestand exporteren (back-up) met behulp van de functie \"Importeren / exporteren\" en vervolgens op andere apparaten importeren."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Vervang bestaande markeringsregels"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Pagina toevoegen om op te markeren"
+  },
+  "remove_highlight_from_page": {
+    "message": "Hoogtepunt van pagina verwijderen"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "Cursief"
+  },
+  "underline": {
+    "message": "Onderstrepen"
+  },
+  "background_color": {
+    "message": "Achtergrond kleur"
+  },
+  "background": {
+    "message": "Achtergrond"
+  },
+  "text_color": {
+    "message": "Tekst kleur"
+  },
+  "color": {
+    "message": "Kleur"
+  },
+  "font_size": {
+    "message": "Lettertypegrootte"
+  },
+  "rule_name": {
+    "message": "Regelnaam"
+  },
+  "highlight_regular_expression": {
+    "message": "Markeer reguliere expressie:"
+  },
+  "highlight_text": {
+    "message": "Tekst markeren:"
+  },
+  "highlight_on_pages": {
+    "message": "Markeer op pagina's"
+  },
+  "empty_name_helper": {
+    "message": "Laat leeg om \"gemarkeerde tekst\" als naam te gebruiken"
+  },
+  "faq_1": {
+    "message": "Hoe snel woord op de huidige pagina te markeren?"
+  },
+  "faq_1a": {
+    "message": "Gebruik contextmenu - Selecteer Tekst / Rechtsklikken / \"Auto Highlight\". Als u met de rechtermuisknop op een pagina klikt (zonder tekst te selecteren) kunt u bestaande regels toepassen op de huidige pagina."
+  },
+  "faq_2": {
+    "message": "Ik wil meerdere woorden markeren, moet ik een nieuwe regel voor elk woord apart maken?"
+  },
+  "faq_2a": {
+    "message": "Nee, controleer gewoon het selectievakje \"Elk woord\". Dan wordt elk woord afzonderlijk gemarkeerd."
+  },
+  "faq_3": {
+    "message": "Wat is dat \"RegExp\"?"
+  },
+  "faq_3a": {
+    "message": "Ook bekend als reguliere expressie, het is een reeks tekens die een zoekpatroon definiëren. Het is een gecompliceerde construct die complexe markering van elementen met een soortgelijk patroon mogelijk maakt. Bijvoorbeeld prijzen, data, telefoonnummers, enz ..."
+  },
+  "faq_4": {
+    "message": "Kun je me wat RegExp-voorbeelden laten zien?"
+  },
+  "faq_4a": {
+    "message": "Markeer alle prijzen zoals $1"
+  },
+  "faq_5": {
+    "message": "Kun je die uitleggen?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" Hoogtepunten dollarteken. De backslash is hier nodig omdat dollar een speciale betekenis heeft in RegExp."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" Hoogtepunten één cijfer"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" betekent een of meerdere keren herhalen. Wanneer geplaatst na de cijferschakelaar $2$, betekent dit een of meer cijfers."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" Hoogtepunten punt. De backslash is opnieuw nodig omdat DOT-symbool alleen een enkel teken in RegExp betekent."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" betekent nul of één keer. Wanneer geplaatst na haakjes $2$, betekent dit wat er in die beugels is, is optioneel (kan er zijn, of niet). We gebruiken het voor het decimale deel van het getal dat optioneel is."
+  },
+  "faq_5f": {
+    "message": "meer info over RegExp-regels"
+  },
+  "import_finished": {
+    "message": "Importeren is afgerond!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Foutmelding",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Importeer back-upbestand $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Startpagina",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon-pagina",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store pagina",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons pagina",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-Ons",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Opties",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Lettergrootte",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Zijbalkgrootte",
+    "common": true
+  },
+  "label_next": {
+    "message": "Volgende",
+    "common": true
+  },
+  "label_note": {
+    "message": "Opmerking:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Verwijder",
+    "common": true
+  },
+  "label_warning": {
+    "message": "WAARSCHUWING:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Opties:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Standaard:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Klaar!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Gekopieerd!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Aangepast:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Sluiten",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Geïnstalleerd",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Open pagina",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Mee eens",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Annuleren",
+    "common": true
+  },
+  "label_save": {
+    "message": "Sparen",
+    "common": true
+  },
+  "label_required": {
+    "message": "Verplicht",
+    "common": true
+  },
+  "label_sending": {
+    "message": "bezig met verzenden...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Schaal:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Grootte:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Binnenkort beschikbaar",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Wijzigingen opslaan",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Veranderingen ongedaan maken",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menu",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Ga naar de startpagina",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Help dit project",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Ondersteuning onafhankelijke ontwikkelaar!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Hallo daar!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Ik ben sinds 2016 Addon-ontwikkelaar. Mijn doel is om krachtige extensies voor uw webbrowser te bouwen om u productiever te maken.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Als je denkt dat ik goed werk doe, doneer alsjeblieft :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Uw donatie is mijn enige inkomen!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Bedankt voor het ondersteunen van mijn werk!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Help",
+    "common": true
+  },
+  "o_title": {
+    "message": "Opties - $1 Opties",
+    "common": true
+  },
+  "backup": {
+    "message": "back-up",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Maak nieuwe back-up",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Instellingen opslaan",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Om uw gegevens naar een bestand te exporteren, heropen dit venster op een nieuw tabblad.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Klik met de rechtermuisknop / \"Linked bestand downloaden\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Algemeen",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Achtergrond",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Context menu",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Miniaturen",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Sneltoetsen",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Importeren / back-up",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "Over",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Instellingen",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Thema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Algemeen:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "uitgeschakeld",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "ingeschakeld",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "seconden",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Context menu:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Schakel contextmenu uit: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Back-up / herstelinstellingen naar bestand:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Import",
+    "common": true
+  },
+  "title_import": {
+    "message": "Importeren",
+    "common": true
+  },
+  "title_export": {
+    "message": "Exporteren",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Back-up exporteren",
+    "common": true
+  },
+  "label_or": {
+    "message": "of",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Hallo :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Mijn naam is $1$ en ik ben de auteur van $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Als de add-on je bevalt, beoordeel hem dan hier:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Als hij je niet bevalt, laat me dan in een e-mail weten waarom niet. Ik implementeer de meeste functieverzoeken die ik ontvang.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Overweeg alsjeblieft om mijn werk te ondersteunen door",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankoverschrijving met behulp van IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donatie (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "mijn Beschermheer worden",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Bedankt!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "start:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contact:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Rapporteer problemen:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Ik kan alleen antwoorden in het Engels / Slowaaks",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sociale media:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Wijzigingen opslaan en sluiten",
+    "common": true
+  },
+  "o_saved": {
+    "message": "opgeslagen!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Geen overeenkomende resultaten",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Geen data",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Donkere modus",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Gecontroleerd door het systeem",
+    "common": true
+  },
+  "used_space": {
+    "message": "Gebruikte Ruimte: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Openen in nieuw tabblad",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Schakel Addon aan / uit",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon is uitgeschakeld",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Waarom?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Privacybeleid",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Recent toegevoegde functies:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

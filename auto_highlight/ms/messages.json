@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "Kadang-kadang halaman hanya tidak direka dengan baik dan maklumat yang anda cari tidak kelihatan cukup."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Kes Penggunaan Biasa:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Sorot metadata seperti:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Sorot \"Penghantaran Percuma\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Adakah anda mencari sesuatu yang khusus di web? Gunakan \"Sorotan Temporal\" untuk membantu anda menemuinya di semua halaman. Sorotan temporal adalah auto-dipadam apabila anda menutup penyemak imbas anda."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Anda juga boleh menyembunyikan kata-kata dengan menetapkan saiz font kepada sifar atau dengan membuatnya telus."
+  },
+  "_description_tags_ah": {
+    "message": "sorotan, Mark, Metadata, Filem, Automatik, Teks, Penyegerakan, Pemilihan, Cari"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ akan secara automatik menyerlahkan kata-kata yang ditetapkan pada halaman yang ditetapkan."
+  },
+  "match_type": {
+    "message": "Jenis Padanan:"
+  },
+  "match_type_0": {
+    "message": "Domain adalah"
+  },
+  "match_type_1": {
+    "message": "URL ialah"
+  },
+  "match_type_2": {
+    "message": "Url mengandungi"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "Setiap halaman"
+  },
+  "selection_highlight": {
+    "message": "Sorot $1."
+  },
+  "selection_temp": {
+    "message": "Sorotan sementara $1."
+  },
+  "selection_temp_everywhere": {
+    "message": "Sorotan sementara di mana-mana $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ pada halaman ini"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Sentiasa terbuka dalam tab baru - apabila mengklik ikon Toolbar"
+  },
+  "disable_rule": {
+    "message": "Dilumpuhkan"
+  },
+  "temporal_rule": {
+    "message": "Temporal."
+  },
+  "each_word": {
+    "message": "Setiap perkataan"
+  },
+  "rules": {
+    "message": "Peraturan"
+  },
+  "delete": {
+    "message": "Memadam"
+  },
+  "rename": {
+    "message": "Menamakan semula"
+  },
+  "duplicate": {
+    "message": "Salinan"
+  },
+  "delete_rule": {
+    "message": "Padam peraturan"
+  },
+  "delete_rule_title": {
+    "message": "Padam peraturan \"$1\"?"
+  },
+  "on_pages": {
+    "message": "Di halaman:"
+  },
+  "disabled_rule": {
+    "message": "Peraturan yang dilumpuhkan"
+  },
+  "incomplete_rule": {
+    "message": "Peraturan yang tidak lengkap"
+  },
+  "active_on_current_page": {
+    "message": "Aktif pada halaman semasa"
+  },
+  "temporal_rule_helper": {
+    "message": "Peraturan Temporal - akan dipadamkan selepas memulakan semula penyemak imbas"
+  },
+  "active_on_pages": {
+    "message": "Aktif pada halaman:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Menyerlahkan setiap perkataan secara berasingan"
+  },
+  "case_sensitive": {
+    "message": "Kes sensitif"
+  },
+  "ignore_diacritics": {
+    "message": "Mengabaikan diacritics."
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "Ekspresi biasa"
+  },
+  "across_elements": {
+    "message": "Merentasi unsur-unsur"
+  },
+  "across_elements_help": {
+    "message": "Cari teks di seluruh unsur HTML jiran"
+  },
+  "style": {
+    "message": "Gaya"
+  },
+  "preview": {
+    "message": "Pratonton:"
+  },
+  "empty_rule": {
+    "message": "peraturan kosong"
+  },
+  "create_new_rule": {
+    "message": "Buat peraturan baru"
+  },
+  "import_export": {
+    "message": "Eksport import"
+  },
+  "help_this_project": {
+    "message": "Bantu projek ini"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "Soalan Lazim:"
+  },
+  "storage_info": {
+    "message": "Maklumat Penyimpanan:"
+  },
+  "storage_safari_1": {
+    "message": "Safari kini tidak menyokong penyegerakan data automatik."
+  },
+  "storage_safari_2": {
+    "message": "Untuk memindahkan (atau sandaran) Peraturan Sorotan anda, gunakan ciri \"Import / Eksport\"."
+  },
+  "storage_info_1": {
+    "message": "Peraturan anda disimpan menggunakan Secure $1 Sync yang akan menyegerakkan peraturan anda antara semua peranti anda (jika anda log masuk ke akaun yang sama)."
+  },
+  "storage_info_2": {
+    "message": "Penyimpanan awan ini boleh menyimpan 100 KB data dan sehingga 500 Peraturan Sorotan."
+  },
+  "storage_info_3": {
+    "message": "Anda juga boleh mengeksport (sandaran) peraturan anda ke fail menggunakan ciri \"Import / Eksport\" dan kemudian mengimportnya pada peranti lain."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Menggantikan peraturan sorot yang sedia ada"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Tambah halaman untuk menyerlahkan"
+  },
+  "remove_highlight_from_page": {
+    "message": "Keluarkan kemuncak dari halaman"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "Italik"
+  },
+  "underline": {
+    "message": "Garis bawah"
+  },
+  "background_color": {
+    "message": "Warna latar belakang"
+  },
+  "background": {
+    "message": "Latar belakang"
+  },
+  "text_color": {
+    "message": "Warna teks"
+  },
+  "color": {
+    "message": "Warna"
+  },
+  "font_size": {
+    "message": "Saiz huruf"
+  },
+  "rule_name": {
+    "message": "Nama peraturan"
+  },
+  "highlight_regular_expression": {
+    "message": "Menyerlahkan ungkapan biasa:"
+  },
+  "highlight_text": {
+    "message": "Sorotan teks:"
+  },
+  "highlight_on_pages": {
+    "message": "Sorot pada halaman."
+  },
+  "empty_name_helper": {
+    "message": "Tinggalkan kosong untuk menggunakan \"teks yang diserlahkan\" sebagai nama"
+  },
+  "faq_1": {
+    "message": "Bagaimana dengan cepat menyerlahkan perkataan pada halaman semasa?"
+  },
+  "faq_1a": {
+    "message": "Gunakan menu konteks - Pilih teks / klik kanan / \"Sorotan Auto\". Jika anda klik kanan pada halaman (tanpa memilih teks), anda boleh memohon peraturan yang sedia ada ke halaman semasa."
+  },
+  "faq_2": {
+    "message": "Saya ingin menyerlahkan beberapa perkataan, adakah saya perlu membuat peraturan baru untuk setiap perkataan secara berasingan?"
+  },
+  "faq_2a": {
+    "message": "Tidak, semak kotak semak \"setiap perkataan\". Kemudian setiap perkataan akan diserlahkan secara berasingan."
+  },
+  "faq_3": {
+    "message": "Apa itu \"RegExp\"?"
+  },
+  "faq_3a": {
+    "message": "Juga dikenali sebagai ungkapan biasa, ia adalah urutan aksara yang menentukan corak carian. Ia adalah sebuah bangunan yang rumit yang membolehkan penonjolan kompleks unsur dengan beberapa corak yang sama. Sebagai contoh harga, tarikh, nombor telefon, dan sebagainya ..."
+  },
+  "faq_4": {
+    "message": "Bolehkah anda menunjukkan kepada saya beberapa contoh RegExp?"
+  },
+  "faq_4a": {
+    "message": "Serlahkan semua harga seperti $1"
+  },
+  "faq_5": {
+    "message": "Bolehkah anda menerangkan mereka?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" Sorotan tanda dolar. Backslash diperlukan di sini kerana dolar mempunyai makna yang istimewa di RegExp."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" menyoroti satu digit tunggal"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" bermakna ulangi satu atau lebih kali. Apabila diletakkan selepas pemilih digit $2$, ini bermakna satu atau lebih digit."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" Sorotan DOT. Backslash diperlukan lagi kerana simbol dot sahaja bermakna mana-mana watak tunggal dalam RegExp."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" bermaksud sifar atau satu masa. Apabila diletakkan selepas kurungan $2$, ini bermakna apa sahaja yang ada di dalam kurungan tersebut adalah pilihan (boleh berada di sana, atau tidak). Kami menggunakannya untuk bahagian perpuluhan nombor yang merupakan pilihan."
+  },
+  "faq_5f": {
+    "message": "maklumat lanjut mengenai peraturan RegExp"
+  },
+  "import_finished": {
+    "message": "Import selesai!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Kesilapan",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Fail Backup Import $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Laman web",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon Page.",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store.",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Add-on Firefox",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Tambah thunderbird",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Pilihan",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Saiz huruf",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Saiz Sidebar.",
+    "common": true
+  },
+  "label_next": {
+    "message": "Seterusnya",
+    "common": true
+  },
+  "label_note": {
+    "message": "Nota:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Keluarkan",
+    "common": true
+  },
+  "label_warning": {
+    "message": "AMARAN:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Pilihan:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Lalai:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Selesai!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Disalin!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Adat:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Tutup",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Dipasang",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Buka halaman",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Bersetuju",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Membatalkan",
+    "common": true
+  },
+  "label_save": {
+    "message": "JIMAT",
+    "common": true
+  },
+  "label_required": {
+    "message": "Diperlukan",
+    "common": true
+  },
+  "label_sending": {
+    "message": "menghantar ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Skala:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Saiz:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Akan datang",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Simpan perubahan",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Membuang perubahan",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menu",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Lawati Homepage.",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Bantu projek ini",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Menyokong pemaju bebas!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Apa khabar di sana!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Saya pengembara addon sejak 2016. Matlamat saya adalah untuk membina sambungan yang kuat untuk pelayar web anda untuk menjadikan anda lebih produktif.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Jika anda fikir saya melakukan kerja yang baik, sila sumbangkan :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Derma anda adalah satu-satunya pendapatan saya!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Terima kasih kerana menyokong kerja saya!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Bantuan",
+    "common": true
+  },
+  "o_title": {
+    "message": "Pilihan - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "backup.",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Buat sandaran baru.",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Simpan Tetapan",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Untuk mengeksport data anda ke fail, buka tetingkap ini dalam tab baru.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Klik kanan / \"Muat turun fail yang dipautkan\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Am",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Latar belakang",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Menu konteks",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Thumbnail.",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Pintasan",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Import / sandaran",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Tetapan",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Tema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Umum:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "dilumpuhkan",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "diaktifkan",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "piksel.",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "saat-saat",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Menu Konteks:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Lumpuhkan Menu Konteks: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Backup / Restore Tetapan ke Fail:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Mengimport",
+    "common": true
+  },
+  "title_import": {
+    "message": "Mengimport",
+    "common": true
+  },
+  "title_export": {
+    "message": "Eksport",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Backup Eksport.",
+    "common": true
+  },
+  "label_or": {
+    "message": "atau",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Hello :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Nama saya $1$ dan saya pengarang $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Jika anda suka, sila nilaikan di sini:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Jika anda tidak menyukainya, sila beritahu saya mengapa ke e-mel saya. Saya melaksanakan kebanyakan permintaan ciri yang saya terima.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Sila pertimbangkan untuk menyokong kerja saya oleh",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Pemindahan bank menggunakan Iban:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "dONASI (PAYPAL)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "menjadi penaung saya",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Terima kasih!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "rumah:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Hubungi:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Laporkan isu:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Saya boleh membalas hanya dalam bahasa Inggeris / Slovak",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Media Sosial:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Simpan perubahan dan tutup",
+    "common": true
+  },
+  "o_saved": {
+    "message": "disimpan!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Tiada keputusan yang sepadan",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Tiada data",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Mode Dark.",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Dikawal oleh sistem",
+    "common": true
+  },
+  "used_space": {
+    "message": "Ruang yang digunakan: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Dibuka dalam tab baru",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Suis addon on / off",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon dilumpuhkan",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Kenapa?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Dasar Privasi.",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Ciri-ciri yang baru ditambah:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

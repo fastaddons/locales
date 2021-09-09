@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "Μερικές φορές η σελίδα δεν έχει σχεδιαστεί καλά και οι πληροφορίες που ψάχνετε δεν είναι αρκετά ορατό."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Κοινή χρήση-Θήκες:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Επισημάνετε τα μεταδεδομένα όπως:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Επισημάνετε την \"δωρεάν αποστολή\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Ψάχνετε για κάτι συγκεκριμένο στο διαδίκτυο; Χρησιμοποιήστε το \"temporal highlight\" για να σας βοηθήσει να το βρείτε σε όλες τις σελίδες. Τα χρονικά χαρακτηριστικά αυτά διαγράφονται αυτόματα όταν κλείνετε το πρόγραμμα περιήγησης."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Μπορείτε ακόμη να αποκρύψετε λέξεις με τη ρύθμιση του μεγέθους γραμματοσειράς στο μηδέν ή κάνοντας τα διαφανή."
+  },
+  "_description_tags_ah": {
+    "message": "επισκέψεις, σήμα, μεταδεδομένα, ταινία, αυτόματο, κείμενο, συγχρονισμός, επιλογή, αναζήτηση"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "Το $app_name$ θα επισημάνει αυτόματα τις καθορισμένες λέξεις σε καθορισμένες σελίδες."
+  },
+  "match_type": {
+    "message": "Τύπος αντιστοίχισης:"
+  },
+  "match_type_0": {
+    "message": "Ο τομέας είναι"
+  },
+  "match_type_1": {
+    "message": "Η διεύθυνση URL είναι"
+  },
+  "match_type_2": {
+    "message": "Η διεύθυνση URL περιέχει"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "Κάθε σελίδα"
+  },
+  "selection_highlight": {
+    "message": "Επισημάνετε το $1"
+  },
+  "selection_temp": {
+    "message": "Προσωρινά επισημάνετε το $1"
+  },
+  "selection_temp_everywhere": {
+    "message": "Προσωρινά επισημαίνει παντού $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ Σε αυτή τη σελίδα"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Πάντα να ανοίγετε σε νέα καρτέλα - Όταν κάνετε κλικ στο εικονίδιο της γραμμής εργαλείων"
+  },
+  "disable_rule": {
+    "message": "Άτομα με ειδικές ανάγκες"
+  },
+  "temporal_rule": {
+    "message": "Χρονικός"
+  },
+  "each_word": {
+    "message": "Κάθε λέξη"
+  },
+  "rules": {
+    "message": "Κανόνες"
+  },
+  "delete": {
+    "message": "Διαγράφω"
+  },
+  "rename": {
+    "message": "Μετονομάζω"
+  },
+  "duplicate": {
+    "message": "Αντίγραφο"
+  },
+  "delete_rule": {
+    "message": "Διαγραφή κανόνας"
+  },
+  "delete_rule_title": {
+    "message": "Διαγραφή κανόνα \"$1\";"
+  },
+  "on_pages": {
+    "message": "Στις σελίδες:"
+  },
+  "disabled_rule": {
+    "message": "Κανόνας με ειδικές ανάγκες"
+  },
+  "incomplete_rule": {
+    "message": "Ελλιπής κανόνας"
+  },
+  "active_on_current_page": {
+    "message": "Ενεργό στην τρέχουσα σελίδα"
+  },
+  "temporal_rule_helper": {
+    "message": "Χρονικός κανόνας - θα διαγραφεί μετά την επανεκκίνηση του προγράμματος περιήγησης"
+  },
+  "active_on_pages": {
+    "message": "Ενεργό στις σελίδες:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Επισημάνετε κάθε λέξη ξεχωριστά"
+  },
+  "case_sensitive": {
+    "message": "Διάκριση πεζών"
+  },
+  "ignore_diacritics": {
+    "message": "Αγνοήστε το Diacitics"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "Κοινή έκφραση"
+  },
+  "across_elements": {
+    "message": "Σε στοιχεία"
+  },
+  "across_elements_help": {
+    "message": "Αναζήτηση κειμένου σε όλα τα γειτονικά στοιχεία HTML"
+  },
+  "style": {
+    "message": "Στυλ"
+  },
+  "preview": {
+    "message": "Προεπισκόπηση:"
+  },
+  "empty_rule": {
+    "message": "άδειος κανόνας"
+  },
+  "create_new_rule": {
+    "message": "Δημιουργία νέου κανόνα"
+  },
+  "import_export": {
+    "message": "Εισαγωγή εξαγωγή"
+  },
+  "help_this_project": {
+    "message": "Βοηθήστε αυτό το έργο"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "Συχνές ερωτήσεις:"
+  },
+  "storage_info": {
+    "message": "Πληροφορίες αποθήκευσης:"
+  },
+  "storage_safari_1": {
+    "message": "Το Safari δεν υποστηρίζει αυτή τη στιγμή αυτόματη συγχρονισμό δεδομένων."
+  },
+  "storage_safari_2": {
+    "message": "Για να μεταφέρετε (ή δημιουργία αντιγράφων ασφαλείας), χρησιμοποιήστε τη λειτουργία \"Εισαγωγή / εξαγωγή\"."
+  },
+  "storage_info_1": {
+    "message": "Οι κανόνες σας αποθηκεύονται χρησιμοποιώντας το Secure $1 Sync που θα συγχρονίσει τους κανόνες σας μεταξύ όλων των συσκευών σας (εάν είστε συνδεδεμένοι στον ίδιο λογαριασμό)."
+  },
+  "storage_info_2": {
+    "message": "Αυτή η αποθήκευση Cloud μπορεί να αποθηκεύσει 100 kB δεδομένων και μέχρι 500 κανόνες επισημάνσεως."
+  },
+  "storage_info_3": {
+    "message": "Μπορείτε επίσης να εξαγάγετε (αντίγραφα ασφαλείας) των κανόνων σας σε ένα αρχείο χρησιμοποιώντας τη λειτουργία \"Εισαγωγή / εξαγωγή\" και, στη συνέχεια, εισαγωγή του σε άλλες συσκευές."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Αντικαταστήστε τους υπάρχοντες κανόνες επισημάνσεως"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Προσθήκη σελίδας για να επισημάνετε"
+  },
+  "remove_highlight_from_page": {
+    "message": "Κατάργηση επισήμανσης από τη σελίδα"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "Πλάγιος"
+  },
+  "underline": {
+    "message": "Υπογραμμίζω"
+  },
+  "background_color": {
+    "message": "Χρώμα του φόντου"
+  },
+  "background": {
+    "message": "Ιστορικό"
+  },
+  "text_color": {
+    "message": "Χρώμα κειμένου"
+  },
+  "color": {
+    "message": "Χρώμα"
+  },
+  "font_size": {
+    "message": "Μέγεθος γραμματοσειράς"
+  },
+  "rule_name": {
+    "message": "Όνομα"
+  },
+  "highlight_regular_expression": {
+    "message": "Επισημάνετε την κανονική έκφραση:"
+  },
+  "highlight_text": {
+    "message": "Υπογραμμισμένο κείμενο:"
+  },
+  "highlight_on_pages": {
+    "message": "Επισημάνετε τις σελίδες"
+  },
+  "empty_name_helper": {
+    "message": "Αφήστε άδειο για να χρησιμοποιήσετε το \"επισημασμένο κείμενο\" ως όνομα"
+  },
+  "faq_1": {
+    "message": "Πώς να επισημάνετε γρήγορα τη λέξη στην τρέχουσα σελίδα;"
+  },
+  "faq_1a": {
+    "message": "Χρησιμοποιήστε το μενού περιβάλλοντος - επιλέξτε κείμενο / δεξί κλικ / \"αυτόματη επισήμανση\". Εάν κάνετε δεξί κλικ σε μια σελίδα (χωρίς επιλογή κειμένου), μπορείτε να εφαρμόσετε τους υπάρχοντες κανόνες στην τρέχουσα σελίδα."
+  },
+  "faq_2": {
+    "message": "Θέλω να επισημάνω πολλές λέξεις, πρέπει να δημιουργήσω νέο κανόνα για κάθε λέξη ξεχωριστά;"
+  },
+  "faq_2a": {
+    "message": "Όχι, ελέγξτε μόνο το πλαίσιο ελέγχου \"Κάθε λέξη\". Στη συνέχεια, κάθε λέξη θα επισημανθεί ξεχωριστά."
+  },
+  "faq_3": {
+    "message": "Τι είναι αυτό το \"RegExp\";"
+  },
+  "faq_3a": {
+    "message": "Επίσης γνωστή ως κανονική έκφραση, είναι μια ακολουθία χαρακτήρων που ορίζουν ένα μοτίβο αναζήτησης. Είναι ένα περίπλοκο κατασκεύασμα που επιτρέπει πολύπλοκη επισημοποίηση στοιχείων με κάποιο παρόμοιο μοτίβο. Για παράδειγμα, οι τιμές, οι ημερομηνίες, οι αριθμοί τηλεφώνου κ.λπ. ..."
+  },
+  "faq_4": {
+    "message": "Μπορείτε να μου δείξετε κάποια παραδείγματα RegExp;"
+  },
+  "faq_4a": {
+    "message": "Επισημάνετε όλες τις τιμές όπως το $1"
+  },
+  "faq_5": {
+    "message": "Θα μπορούσατε να εξηγήσετε αυτά;"
+  },
+  "faq_5a": {
+    "message": "Το \"$1$\" υπογραμμίζει το σύμβολο του δολαρίου. Το backslash απαιτείται εδώ επειδή το δολάριο έχει ένα ιδιαίτερο νόημα στο RegExp."
+  },
+  "faq_5b": {
+    "message": "Το \"$1$\" υπογραμμίζει ένα μόνο ψηφίο"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" σημαίνει επαναλάβετε μία ή περισσότερες φορές. Όταν τοποθετείται μετά τον ψηφίο επιλογέα $2$, σημαίνει ένα ή περισσότερα ψηφία."
+  },
+  "faq_5d": {
+    "message": "Το \"$1$\" επισημαίνει την κουκκίδα. Το backslash απαιτείται και πάλι επειδή το σύμβολο Dot μόνο σημαίνει οποιονδήποτε χαρακτήρα στο RegExp."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" σημαίνει μηδέν ή μία φορά. Όταν τοποθετείται μετά τις βραχίονες $2$, σημαίνει ό, τι είναι μέσα σε αυτές τις αγκύλες είναι προαιρετική (μπορεί να είναι εκεί, ή όχι). Το χρησιμοποιούμε για το δεκαδικό μέρος του αριθμού που είναι προαιρετικό."
+  },
+  "faq_5f": {
+    "message": "περισσότερες πληροφορίες σχετικά με τους κανόνες RegExp"
+  },
+  "import_finished": {
+    "message": "Η εισαγωγή ολοκληρώθηκε!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Σφάλμα",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Εισαγωγή αρχείου αντιγράφων ασφαλείας $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Αρχική σελίδα",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon σελίδα",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "σελίδα Chrome Web Store",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Σελίδα πρόσθετων για τον Firefox",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird add-ons",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Επιλογές",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Μέγεθος γραμματοσειράς",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Μέγεθος πλευρικής γραμμής",
+    "common": true
+  },
+  "label_next": {
+    "message": "Επόμενο",
+    "common": true
+  },
+  "label_note": {
+    "message": "Σημείωση:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Αφαίρεση",
+    "common": true
+  },
+  "label_warning": {
+    "message": "ΠΡΟΕΙΔΟΠΟΙΗΣΗ:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Επιλογές:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Προεπιλογή:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Ολοκληρώθηκε!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Αντιγράφηκε!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Προσαρμοσμένο:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Κλείσιμο",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Εγκαταστήθηκε",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Άνοιγμα σελίδας",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Έγκριση",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Ακύρωση",
+    "common": true
+  },
+  "label_save": {
+    "message": "Σώσει",
+    "common": true
+  },
+  "label_required": {
+    "message": "Απαιτείται",
+    "common": true
+  },
+  "label_sending": {
+    "message": "αποστολή ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Κλίμακα:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Ζουμ:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Μέγεθος:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Ερχομαι συντομα",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Αποθήκευσε τις αλλαγές",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Απορρίψετε τις αλλαγές",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Μενού",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Επισκεφθείτε την αρχική σελίδα",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Βοηθήστε αυτό το έργο",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Υποστήριξη ανεξάρτητου προγραμματιστή!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Γειά σου!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Είμαι προγραμματιστής addon από το 2016. Ο στόχος μου είναι να χτίσουμε ισχυρές επεκτάσεις για το web-browser σας για να σας κάνει πιο παραγωγικούς.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Αν νομίζετε ότι κάνω μια καλή δουλειά, παρακαλώ δωρίνετε :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Η δωρεά σας είναι το μόνο εισόδημά μου!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Σας ευχαριστώ που υποστηρίζετε το έργο μου!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Βοήθεια",
+    "common": true
+  },
+  "o_title": {
+    "message": "Επιλογές - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "αντίγραφο ασφαλείας",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Δημιουργία νέου αντίγραφου ασφαλείας",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Αποθήκευση ρυθμίσεων",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Για να εξάγετε τα δεδομένα σας σε ένα αρχείο, ανοίξτε ξανά αυτό το παράθυρο σε μια νέα καρτέλα.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Κάντε δεξί κλικ / \"Λήψη συνδεδεμένου αρχείου\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Γενικά",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Φόντο",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Μενού περιβάλλοντος",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Μικρογραφίες",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Σύντομα πλήκτρα",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Εισαγωγή / αντίγραφα ασφαλείας",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "Σχετικά",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Ρυθμίσεις",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Θέμα:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Γενικά:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "απενεργοποιημένο",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "ενεργοποιημένο",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "εικονοκύτταρα",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "δευτερόλεπτα",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Μενού περιβάλλοντος:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Απενεργοποιήστε το μενού περιβάλλοντος: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Ρυθμίσεις δημιουργίας αντιγράφων ασφαλείας / επαναφοράς στο αρχείο:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Εισαγωγή",
+    "common": true
+  },
+  "title_import": {
+    "message": "Εισαγωγή",
+    "common": true
+  },
+  "title_export": {
+    "message": "Εξαγωγή",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Εξαγωγή δημιουργίας αντιγράφων ασφαλείας",
+    "common": true
+  },
+  "label_or": {
+    "message": "ή",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Γεια σας :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Το όνομά μου είναι $1$ και είμαι ο συγγραφέας του $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Εάν σας αρέσει, παρακαλώ βαθμολογήστε το εδώ:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Αν δεν σας αρέσει, παρακαλώ ενημερώστε μας γιατί στο e-mail μου. Αποδέχομαι τα περισσότερα αιτήματα χαρακτηριστικών που δέχομαι.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Παρακαλώ σκεφτείτε να υποστηρίξετε το έργο μου με το να",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Τραπεζική μεταφορά χρησιμοποιώντας IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "δωρεά (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "να γίνετε ο Patron μου",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Σας ευχαριστώ!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "Αρχική σελίδα:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Επικοινωνία:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Αναφορά ζητημάτων:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Μπορώ να απαντήσω μόνο στα Αγγλικά / Σλοβακικά",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Μέσα κοινωνικής δικτύωσης:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Αποθήκευση αλλαγών και κλείσιμο",
+    "common": true
+  },
+  "o_saved": {
+    "message": "αποθηκεύτηκε!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Κανένα αποτελέσμα",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Χωρίς δεδομένα",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Σκοτεινή λειτουργία",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Έλεγχος από το σύστημα",
+    "common": true
+  },
+  "used_space": {
+    "message": "Χρησιμοποιείται χώρος: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Ανοίξτε σε νέα καρτέλα",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Ενεργοποίηση / απενεργοποίηση του Addon",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Το addon είναι απενεργοποιημένο",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Γιατί;",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Πολιτική απορρήτου",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Πρόσφατα πρόσθετα χαρακτηριστικά:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Ετικέτες:",
+    "common": true
+  }
+}

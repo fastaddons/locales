@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "எங்கும், பொத்தானை, கர்சர், இழுத்து, இழுத்து, இழுத்து இழுத்து இழுத்து, இழுத்து, எல்லையற்ற, இடது, நடுத்தர, வேகத்தை, சுட்டி, நடவடிக்கை, பக்கம், வலது, சுருள், உருள் பக்கம், சுருள், ஸ்க்ரோலிங், தூக்கி"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "பக்கத்தில் எங்கும் உங்கள் நடுத்தர சுட்டி பொத்தானை கொண்டு சுருள் இழுக்கவும். மேலும் \"அடையவும் இழுக்கவும்\" பாணியை ஆதரிக்கிறது."
+  },
+  "field_int_default_value": {
+    "message": "இயல்புநிலை மதிப்பு: $1, MIN: MIN: $2, மேக்ஸ்: $3"
+  },
+  "field_set_default": {
+    "message": "இயல்புநிலை மீட்டமை: $1."
+  },
+  "thunderbird_store": {
+    "message": "தண்டர்பேர்ட் add-ons."
+  },
+  "firefox_store": {
+    "message": "பயர்பாக்ஸ் add-ons."
+  },
+  "chrome_store": {
+    "message": "குரோம் வலை கடை"
+  },
+  "safari_store": {
+    "message": "மேக் ஆப் ஸ்டோர்"
+  },
+  "win_disable": {
+    "message": "$1 இல் முடக்கவும்"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "$1 இல் கிடைமட்ட ஸ்க்ரோலிங் முடக்கவும்"
+  },
+  "op_visit_home": {
+    "message": "முகப்புப்பக்கத்தைப் பார்வையிடவும்"
+  },
+  "op_support_me": {
+    "message": "இந்த திட்டத்தை உதவுங்கள்"
+  },
+  "o_title": {
+    "message": "விருப்பங்கள் - $1."
+  },
+  "o_tab_general": {
+    "message": "பொது"
+  },
+  "o_tab_momentum": {
+    "message": "வேகமான"
+  },
+  "o_tab_cursor": {
+    "message": "கர்சர்"
+  },
+  "o_axis_locking": {
+    "message": "அச்சு பூட்டுதல்"
+  },
+  "o_tab_performance": {
+    "message": "செயல்திறன்"
+  },
+  "o_tab_disabled_on": {
+    "message": "முடக்கப்பட்டுள்ளது"
+  },
+  "o_tab_advanced": {
+    "message": "மேம்படுத்தபட்ட"
+  },
+  "o_tab_scrollbars": {
+    "message": "சுருள்பட்டுகள்"
+  },
+  "o_tab_backup": {
+    "message": "இறக்குமதி / காப்பு"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "ஒரு அச்சில் உருளும் ஒரு பெட்டியை ஸ்க்ரோலிங் செய்யும் போது, பெற்றோர் பெட்டி மற்ற அச்சில் உருளும், ஒரு அச்சுக்கு ஸ்க்ரோலிங் ஸ்க்ரோலிங்:"
+  },
+  "o_axis_lock_0": {
+    "message": "ஸ்மார்ட் லாக் - தற்காலிக பூட்டு வேகத்தை பயன்படுத்தி"
+  },
+  "o_axis_lock_1": {
+    "message": "கண்டிப்பான பூட்டு - உடனடி திசையில் பூட்டு"
+  },
+  "o_axis_lock_2": {
+    "message": "இல்லை பூட்டு - இரண்டு அச்சு இலவச ஸ்க்ரோலிங்"
+  },
+  "o_trend_momentum_window": {
+    "message": "ஸ்மார்ட் லாக் ஸ்டேக் அளவு"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "ஸ்க்ரோலிங் அச்சை மாற்றுவதற்கு பதிலாக பெரிய மதிப்பில் அதிக ஸ்க்ரோலிங் தேவைப்படும்."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon முடக்கப்பட்டுள்ளது! செயல்படுத்த இங்கே கிளிக் செய்யவும்."
+  },
+  "o_cursor_change_default": {
+    "message": "எந்த மாற்றமும் - சிறந்த செயல்திறன்"
+  },
+  "o_scroll_button": {
+    "message": "உருள் பொத்தானை:"
+  },
+  "o_direction_speed": {
+    "message": "ஸ்க்ரோல் உடை / திசை / வேகம்:"
+  },
+  "o_multiplier": {
+    "message": "மல்டிபிளேயர்"
+  },
+  "o_times_speed": {
+    "message": "முறை உருள் வேகம்"
+  },
+  "o_maximum_speed": {
+    "message": "அதிகபட்ச சுருள் வேகம் (0 - முடக்கப்பட்டது):"
+  },
+  "o_ratio_unit": {
+    "message": "விகிதம் (பக்கம் நீளம் / சாளர அளவு)"
+  },
+  "o_scroll_type_0": {
+    "message": "சுருள்பட்டை வெல்லவும்"
+  },
+  "o_scroll_type_1": {
+    "message": "ஒரு ஸ்மார்ட்போன் போலவே இழுக்கவும்"
+  },
+  "o_scroll_type_2": {
+    "message": "டைனமிக் வேகம் (சோதனை)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "இது ஒரு சுருள்பட்டை இழுப்பது போல"
+  },
+  "o_scroll_type_title_1": {
+    "message": "இது ஒரு தொலைபேசி திரையில் உங்கள் விரல் ஒரு பக்கம் இழுத்து போன்றது"
+  },
+  "o_scroll_type_title_2": {
+    "message": "டைனமிக் வேகம் பக்கம் நீண்டதாக இருக்கும் போது ஸ்க்ரோ ஸ்பீட் மெதுவான மெதுவானதாகிறது"
+  },
+  "o_disable_key": {
+    "message": "முக்கிய கீழே இருக்கும் போது ஸ்க்ரோலிங் முடக்கு / இயக்கு:"
+  },
+  "o_momentum_category": {
+    "message": "வேகமான:"
+  },
+  "o_momentum_formula": {
+    "message": "வேகமான சூத்திரம்:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "சீரான முறையில் நீக்கப்பட்ட இயக்கம்"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "பக்கம் உருட்டு நிறுத்தப்படும் வரை சீராக மெதுவாக மெதுவாக இருக்கும்"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "அதிவேகமாக நீக்கப்பட்ட இயக்கம்"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "பக்கம் சுருள் விரைவாக (அதிவேகமாக) மெதுவாக கீழே இருக்கும்"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "எல்லையற்ற இயக்கம் ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "ஸ்க்ரோலிங் நிறுத்தப்படாது"
+  },
+  "o_momentum_max_speed": {
+    "message": "அதிகபட்ச வேகம் (0 - முடக்கப்பட்டது):"
+  },
+  "o_page_weight": {
+    "message": "பக்கம் எடை:"
+  },
+  "o_grams": {
+    "message": "கிராம் :)"
+  },
+  "o_additional_speed": {
+    "message": "கூடுதல் வேகம்:"
+  },
+  "o_pixels_second": {
+    "message": "வினாடிக்கு பிக்சல்கள்"
+  },
+  "o_additional_duration": {
+    "message": "கூடுதல் காலம்:"
+  },
+  "o_advanced_momentum": {
+    "message": "மேம்பட்ட வேகமான அமைப்பு (நிபுணர்களுக்காக மட்டுமே!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "இந்த மதிப்புகளை மாற்றுதல் உங்கள் வேகத்தை உடைக்கலாம்!"
+  },
+  "o_compute_from_last": {
+    "message": "கடைசியாக இருந்து கணக்கிட:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "சுட்டி நிறுத்தத்தை கண்டறிதல்:"
+  },
+  "o_tracking_speed": {
+    "message": "கண்காணிப்பு வேகம்:"
+  },
+  "o_reset_values": {
+    "message": "மதிப்புகள் மீட்டமைக்கவும்"
+  },
+  "o_cursor_scrolling": {
+    "message": "ஸ்க்ரோலிங் போது பயன்படுத்தப்படும் கர்சர்:"
+  },
+  "o_performance": {
+    "message": "செயல்திறன்:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "பெரிய தாவல்களைத் தடுக்கவும்"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "திரை முழுவதும் உங்கள் கர்சரைத் தட்டச்சு செய்யும் கருவியைப் பயன்படுத்தினால் (நீங்கள் ஒரு விளிம்பை அடையும்போது), தொடர்ச்சியான (முடிவிலா) ஸ்க்ரோலிங் அனுமதிக்க இந்த விருப்பத்தை இயக்கு."
+  },
+  "o_advanced": {
+    "message": "மேம்படுத்தபட்ட:"
+  },
+  "o_movement_detection": {
+    "message": "சுட்டி இயக்கம் கண்டறிதல் வாசகம்:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "இணைப்பைத் தடுக்க எத்தனை பிக்சல்கள் சுட்டி நகர்த்த வேண்டும். சில நேரங்களில் உருள் பொத்தானை அழுத்தி போது நீங்கள் சுட்டி சற்று நகர்த்த ஆனால் நீங்கள் அந்த இணைப்பு முடக்க வேண்டும் என்று விரும்பவில்லை."
+  },
+  "o_context_menu_block": {
+    "message": "சூழல் மெனு தொகுதி:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "சூழல் மெனு தாமதத்தை விடுவித்தல்"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "வலது சுட்டி பொத்தானுடன் ஸ்க்ரோலிங் பிறகு சூழல் மெனுவை நீங்கள் பார்த்தால், இந்த மதிப்பை அதிகரிக்கவும்"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "களங்களில் கிடைமட்ட ஸ்க்ரோலிங் முடக்கு:"
+  },
+  "o_is_disabled_domains": {
+    "message": "களங்களில் முடக்கப்பட்டுள்ளது:"
+  },
+  "o_is_disabled_url": {
+    "message": "பக்கங்கள் / துணை பக்கங்களில் முடக்கப்பட்டுள்ளது:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "உதாரணமாக: \"Google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "வரிக்கு ஒரு டொமைனை உள்ளிடவும்."
+  },
+  "o_is_disabled": {
+    "message": "Add-on ஐ முடக்கு"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "சுவிட்ச் ஆஃப் / ஆஃப் முக்கிய கருவிப்பட்டை ஐகானைப் பயன்படுத்தவும்"
+  },
+  "o_scroll_button_middle": {
+    "message": "நடு பொத்தானை அழுத்தவும்"
+  },
+  "o_scroll_button_right": {
+    "message": "வலது பொத்தானை அழுத்தவும்"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "லினக்ஸ் / மேக் பயனர்கள் - நீங்கள் புதிய அனுமதிக்கு \"உலாவி அமைப்பை வாசிக்கவும் மாற்றவும்\" கேட்கப்படுவீர்கள் - இது ஸ்க்ரோலிங்கிற்கு முன்பாக காட்டப்படும் சூழல் மெனுவைக் காட்ட வேண்டும்!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "லினக்ஸ் / மேக் பயனர்கள் - உங்கள் சூழல் மெனு தடுக்கப்படும்! சூழல் மெனுவை திறக்க \"Shift\" விசை அல்லது மூன்று-கிளிக் வலது பொத்தானை அழுத்தவும்."
+  },
+  "o_scroll_button_left": {
+    "message": "இடது பொத்தானை (சோதனை)"
+  },
+  "o_scroll_on_links": {
+    "message": "இணைப்புகள் மீது உருட்டும்"
+  },
+  "o_scroll_on_links_title": {
+    "message": "இயலுமைப்படுத்தும்போது, இணைப்புகளை இழுத்து இழுக்க முடியாது ('ஐப் பயன்படுத்துவதன் மூலம்'"
+  },
+  "o_scroll_on_text": {
+    "message": "உரையில் உருட்டும்"
+  },
+  "o_scroll_on_text_title": {
+    "message": "தொலைபேசி ஸ்க்ரோலிங் / எடிட்டிங் எமிரேட்ஸ் - \"எடிட்டிங் பயன்முறையில்\" மாறுவதற்கு உரையில் கிளிக் செய்ய வேண்டும். உரை வெளியே கிளிக் செய்வதன் மூலம் மீண்டும் ஸ்க்ரோலிங் செயல்படுத்துகிறது."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Textarea மீது உருட்டும்"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea உரை ஒரு தொகுதி, பொதுவாக மறுஅளவிடத்தக்கது. உதாரணமாக \"முடக்கப்பட்டுள்ளது\" தாவலில் நீங்கள் textarea பார்க்க முடியும்."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "திருத்தும்படி HTML மீது உருட்டவும்"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "உதாரணமாக Gmail இல் மின்னஞ்சல் உடல் திருத்தும்படி HTML ஆகும்."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "உரை தேர்வு / எடிட்டிங் உரை செயல்படுத்த உதவும்."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "உரை கிளிக் \"திருத்த முறை\" செயல்படுத்த உதவும். \"ஸ்க்ரோல் பயன்முறையை\" செயல்படுத்த உரைக்கு வெளியே சொடுக்கவும்."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "ஒற்றை கிளிக்"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "இரட்டை கிளிக்"
+  },
+  "o_scrollbars_width": {
+    "message": "சுருள்பட்டுகள் தோற்றமளிக்கிறது"
+  },
+  "o_scrollbars_width_0": {
+    "message": "சாதாரண (மாற்றம் இல்லை)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "மெல்லிய"
+  },
+  "o_scrollbars_width_2": {
+    "message": "மறைக்கப்பட்ட"
+  },
+  "o_scrollbars_color": {
+    "message": "சுருள் ஸ்லைடர் நிறம்:"
+  },
+  "o_scrollbars_background": {
+    "message": "சுருள் பின்னணி நிறம்:"
+  },
+  "o_reverse": {
+    "message": "பின்னோக்கு சுருள் திசையில்"
+  },
+  "o_disable_alt": {
+    "message": "Alt."
+  },
+  "o_disable_shift": {
+    "message": "Shift."
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl."
+  },
+  "o_disable_type_0": {
+    "message": "முக்கிய கீழே இருக்கும் போது முடக்கு:"
+  },
+  "o_disable_type_1": {
+    "message": "முக்கிய கீழே இருக்கும் போது செயல்படுத்த:"
+  },
+  "o_momentum": {
+    "message": "வேகத்தை இயக்கு - நீங்கள் பக்கம் \"தூக்கி\" (தொலைபேசி போன்றவை)"
+  },
+  "o_no_css_edit": {
+    "message": "ஸ்க்ரோலிங் செய்யும் போது கர்சரை மாற்ற வேண்டாம்"
+  },
+  "o_no_prevent_default": {
+    "message": "இயல்புநிலை பொத்தானை நடவடிக்கை தடுக்க வேண்டாம்"
+  },
+  "o_auto_link_lock": {
+    "message": "இணைப்புகள் தடுக்கும்:"
+  },
+  "o_no_link_block": {
+    "message": "இயக்கத்திற்குப் பின் இணைப்பில் சுட்டியை சொடுக்க வேண்டாம்"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "நீங்கள் ஒரு இணைப்பை ஸ்க்ரோலிங் தொடங்கும்போது, அதே இணைப்பில் ஸ்க்ரோலிங் முடிக்கும்போது, உலாவி இணைப்பு திறக்கும். இது வழக்கமாக விரும்பிய நடத்தை அல்ல, இதனால் இயல்புநிலையாக அது தடுக்கப்பட்டது."
+  },
+  "o_page_weight_title": {
+    "message": "இது எப்படி இருக்கும் என்பதைக் கட்டுப்படுத்துகிறது. கனமான பக்கங்கள் நீண்ட வேகத்தை கொண்டிருக்கின்றன."
+  },
+  "o_additional_speed_title": {
+    "message": "வேகத்தை வேகத்தை வேகப்படுத்தலாம்."
+  },
+  "o_additional_duration_title": {
+    "message": "ஒவ்வொரு வேகத்திற்கும் கூடுதல் நேரம்."
+  },
+  "o_compute_from_last_title": {
+    "message": "வேகமான தொடக்க வேகம் ஸ்க்ரோல் பொத்தானை வெளியிடும் முன் ஸ்க்ரோலிங் வேகத்தின் வேகத்தால் தீர்மானிக்கப்படுகிறது."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "ஸ்க்ரோல் பொத்தானை வெளியிடும் முன் மவுஸ் இன்னும் எவ்வளவு நேரம் இருக்க வேண்டும் - வேகத்தை செயல்படுத்த வேண்டாம்."
+  },
+  "o_tracking_speed_title": {
+    "message": "தற்போதைய உருள் வேகத்தை அளவிடுவதற்கான இடைவெளி."
+  },
+  "o_scrolling_area": {
+    "message": "ஸ்க்ரோலிங் பகுதி:"
+  },
+  "o_outside_area_width": {
+    "message": "ஸ்க்ரோலிங் பகுதி (0 - முடக்கப்பட்டது):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "ஸ்க்ரோலிங் பகுதிக்கு வெளியே உங்கள் கர்சரை நகர்த்துவது ஸ்க்ரோலிங் நிலையை மாற்றியமைக்கும். ஒரு சுருள் இழுக்கப்படும் போது அதே நடத்தை காணலாம்."
+  },
+  "o_scroll_button_left_title": {
+    "message": "எச்சரிக்கை - இடது பொத்தானை ஆதரவு பயர்பாக்ஸ் எதிர்கால பதிப்புகள் நீக்க முடியும் என்று நீக்கப்பட்டது பயர்பாக்ஸ் ஏபிஐ பயன்படுத்தி வருகிறது."
+  },
+  "o_prevent_text_selection": {
+    "message": "இடது பொத்தானை ஸ்க்ரோலிங் போது உரை தேர்வு தடுக்க"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "சில சாதனங்களில், இடது சுட்டி பொத்தானுடன் ஸ்க்ரோலிங் பக்கத்தின் உரையைத் தேர்ந்தெடுக்கும்."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "உருளும் பக்கத்தை உருட்டும் போது சூழல் மெனுவைத் தடுக்க வேண்டாம்"
+  },
+  "o_backup_restore": {
+    "message": "கோப்பை காப்புப்பிரதி / மீட்டமை அமைப்புகள்:"
+  },
+  "o_export_settings": {
+    "message": "ஒரு கோப்பில் ஏற்றுமதி அமைப்புகள்"
+  },
+  "import_settings_button": {
+    "message": "$1 கோப்பில் இருந்து இறக்குமதி அமைப்புகள் ..."
+  },
+  "import_finished": {
+    "message": "இறக்குமதி முடிந்தது!"
+  },
+  "test_page_title": {
+    "message": "இங்கே உங்கள் ஸ்க்ரோலிங் அமைப்புகளை சோதிக்கவும்"
+  },
+  "menu_options": {
+    "message": "விருப்பங்கள்"
+  },
+  "menu_visit_title": {
+    "message": "முகப்புப்பக்கத்தைப் பார்வையிடவும்"
+  },
+  "not_working": {
+    "message": "உங்கள் வலை உலாவியில் முடக்கப்பட்டுள்ளது"
+  },
+  "disabled_by_user": {
+    "message": "இந்த டொமைனில் முடக்கப்பட்டது"
+  },
+  "not_working_title": {
+    "message": "உங்கள் உலாவி இந்த வகை பக்கங்களில் உருளகள் தடுக்கும்:"
+  },
+  "not_working_body": {
+    "message": "\"Mozilla.org\" பக்கங்களில் ஸ்க்ரோல்ஸ்வில் இயக்குவதற்கு, இந்த YouTube டுடோரியலைப் பார்க்கவும்"
+  },
+  "show_scrollbars": {
+    "message": "சுருள்பட்டைக் காண்பி"
+  },
+  "show_scrollbars_title": {
+    "message": "தற்காலிகமாக சுருள்பட்டிகளை காட்டுகின்றன"
+  },
+  "switch_on_off": {
+    "message": "Add-on Off / on"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "நீங்கள் உருள் பொத்தானை அழுத்தி மற்றும் ஸ்க்ரோலிங் தொடங்கும் இடையே குறிப்பிடத்தக்க தாமதம் அனுபவிக்க என்றால், இந்த விருப்பத்தை செயல்படுத்த முயற்சி. இருப்பினும் சில பழைய உட்பொதிக்கப்பட்ட வீடியோக்கள் அல்லது சில விளம்பரங்கள் போன்ற \"iframes\" மீது நீங்கள் உருட்ட முடியாது."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "ஸ்க்ரோலிங் போது கர்சரை மாற்ற விருப்பத்தை முடக்கலாம்."
+  },
+  "o_helper_text_default_action": {
+    "message": "நடுத்தர பொத்தானை கொண்டு பேஸ்ட் செயல்படுத்த லினக்ஸில் பயனுள்ளதாக இருக்கும்."
+  },
+  "o_about_hello": {
+    "message": "வணக்கம் :)"
+  },
+  "o_about_intro": {
+    "message": "என் பெயர் $1$ மற்றும் நான் $app_name$ எழுத்தாளர் ஆவார்."
+  },
+  "o_about_like_it": {
+    "message": "நீங்கள் விரும்பினால், அதை இங்கே மதிப்பிடுங்கள்:"
+  },
+  "o_about_dislike_it": {
+    "message": "நீங்கள் விரும்பவில்லை என்றால், என் மின்னஞ்சல் ஏன் எனக்குத் தெரியப்படுத்துங்கள். நான் பெறும் அம்ச கோரிக்கைகளை பெரும்பாலானவற்றை செயல்படுத்துகிறேன்."
+  },
+  "o_disabled": {
+    "message": "முடக்கப்பட்டது",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "இயக்கப்பட்டது",
+    "common": true
+  },
+  "o_times": {
+    "message": "முறை",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "பிக்சல்கள்",
+    "common": true
+  },
+  "o_items": {
+    "message": "பொருட்களை",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "மில்லிசெகண்ட்ஸ்",
+    "common": true
+  },
+  "label_working": {
+    "message": "வேலை ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "நெருக்கமான",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "என் வேலையை ஆதரிக்கவும்",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "நன்கொடை (பேபால்)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "என் புரவலர் ஆனார்",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "நன்றி!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "வீடு:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "தொடர்பு",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "அறிக்கை சிக்கல்கள்:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "நான் ஆங்கிலம் / ஸ்லோவாக மட்டுமே பதிலளிக்க முடியும்",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "சமூக ஊடகம்:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "மாற்றங்கள் மற்றும் நெருக்கமாக சேமிக்கவும்",
+    "common": true
+  },
+  "o_saved": {
+    "message": "சேமிக்கப்பட்டது!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "விரைவில் வரும்",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "மாற்றங்களை சேமியுங்கள்",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "தனியுரிமை கொள்கை",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "சமீபத்தில் சேர்க்கப்பட்டது அம்சங்கள்:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "குறிச்சொற்கள்:",
+    "common": true
+  }
+}

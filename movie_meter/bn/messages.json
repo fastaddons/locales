@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "তারিখ, আইএমডিবি, বর্ণনা, পর্ব, গেজ, গ্রাফ, আইএমডিবি, তথ্য, মিটার, চলচ্চিত্র, চলচ্চিত্র, সিনেমা, নেটফ্লিক্স, আইএমডিবি, রেটিং, সিরিজ, শো, টিভি, টিভি শো, ভিডিও, চাক্ষুষ, ভোট, ঋতু"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "চলচ্চিত্রটি পাওয়া যায় না / ভুল চলচ্চিত্রটি পাওয়া যায়নি - যেহেতু লক্ষ্য পৃষ্ঠাগুলির সাথে কোনও \"অফিসিয়াল\" ইন্টিগ্রেশন নেই, আমি 100% সঠিক ফলাফলের নিশ্চয়তা দিতে পারি না (কিন্তু বেশিরভাগ ক্ষেত্রে এটি পুরোপুরি কাজ করে)"
+  },
+  "_description_mm_not_working": {
+    "message": "আপনার প্রিয় সিনেমা পৃষ্ঠায় কাজ করে না?"
+  },
+  "_description_mm_add_support": {
+    "message": "আমার সাথে যোগাযোগ করুন এবং আমি এটি যুক্ত করব - যদি সম্ভব হয় (পৃষ্ঠাতে ইংরেজীতে চলচ্চিত্র নাম বা $visit_imdb$ লিঙ্ক থাকতে হবে)।"
+  },
+  "_description_mm_feature_1": {
+    "message": "$visit_imdb$ থেকে মুভি রেটিং এবং জনপ্রিয়তা"
+  },
+  "_description_mm_feature_2": {
+    "message": "পরবর্তী / পূর্ববর্তী পর্বের তারিখ $visit_tvmaze$ থেকে"
+  },
+  "_description_mm_feature_3": {
+    "message": "অতিরিক্ত সিনেমা / টিভি সিরিজ তথ্য"
+  },
+  "_description_mm_feature_4": {
+    "message": "নতুন পর্ব সম্পর্কে বিজ্ঞপ্তি"
+  },
+  "_description_mm_feature_5": {
+    "message": "প্রিয় হিসাবে চিহ্নিত করুন এবং নতুন পর্বটি উপলব্ধ হলে আপনি বিজ্ঞপ্তি পাবেন"
+  },
+  "_description_mm_feature_7": {
+    "message": "ভিডিও প্লেব্যাক সনাক্ত যখন অটো-লুকান"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ আপনাকে একটি চলচ্চিত্র (বা টিভি সিরিজ) এর রেটিং এবং জনপ্রিয়তা প্রদর্শন করবে"
+  },
+  "name": {
+    "message": "নাম"
+  },
+  "year": {
+    "message": "বছর"
+  },
+  "video_type": {
+    "message": "টাইপ."
+  },
+  "video_type_0": {
+    "message": "সিনেমা"
+  },
+  "video_type_1": {
+    "message": "সিরিজ"
+  },
+  "video_type_2": {
+    "message": "পর্ব"
+  },
+  "runtime": {
+    "message": "রানটাইম"
+  },
+  "premiered": {
+    "message": "প্রিমিয়ার"
+  },
+  "premiere_in": {
+    "message": "প্রিমিয়ার ইন"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "দেশ"
+  },
+  "actors": {
+    "message": "অভিনেতা"
+  },
+  "dvd": {
+    "message": "ডিভিডি"
+  },
+  "director": {
+    "message": "পরিচালক"
+  },
+  "totalseasons": {
+    "message": "মোট ঋতু"
+  },
+  "writer": {
+    "message": "লেখক"
+  },
+  "language": {
+    "message": "ভাষা"
+  },
+  "awards": {
+    "message": "পুরস্কার"
+  },
+  "rated": {
+    "message": "রেট"
+  },
+  "production": {
+    "message": "উৎপাদন"
+  },
+  "plot": {
+    "message": "পটভূমি"
+  },
+  "website": {
+    "message": "ওয়েবসাইট"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "দেখুন $visit_imdb$ পৃষ্ঠা"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "এই শোটির জন্য $visit_tvmaze$ পৃষ্ঠা দেখুন"
+  },
+  "make_favorite": {
+    "message": "প্রিয়"
+  },
+  "make_favorite_title": {
+    "message": "ফেভারিটে টিভি সিরিজ যোগ করুন। এটি আপনাকে নতুন পর্ব সম্পর্কে বিজ্ঞপ্তি পেতে অনুমতি দেবে।"
+  },
+  "last_episode": {
+    "message": "শেষ পর্যন্ত"
+  },
+  "next_episode": {
+    "message": "পরবর্তী"
+  },
+  "last_episode_title": {
+    "message": "শেষ পর্ব"
+  },
+  "next_episode_title": {
+    "message": "পরবর্তী পর্ব"
+  },
+  "episode_airtime": {
+    "message": "এয়ারটাইম"
+  },
+  "episode_name": {
+    "message": "নাম"
+  },
+  "series_status": {
+    "message": "অবস্থা"
+  },
+  "episodes_count": {
+    "message": "Episodes."
+  },
+  "episodes_count_title": {
+    "message": "বর্তমান ঋতু $1 $2 এপিসোড রয়েছে"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "দিনগুলোতে"
+  },
+  "hours": {
+    "message": "ঘন্টার"
+  },
+  "na": {
+    "message": "পাওয়া যায় না"
+  },
+  "user_rating": {
+    "message": "ব্যবহারকারী রেটিং: $1"
+  },
+  "user_popularity": {
+    "message": "জনপ্রিয়তা: $1 ভোট"
+  },
+  "source": {
+    "message": "উত্স: $1"
+  },
+  "show_details": {
+    "message": "আরো ..."
+  },
+  "hide_details": {
+    "message": "কম ..."
+  },
+  "save_position": {
+    "message": "অবস্থান সংরক্ষণ করুন"
+  },
+  "revert_position": {
+    "message": "অবস্থান ফেরত পাঠান"
+  },
+  "win_disable": {
+    "message": "$1 এ নিষ্ক্রিয় করুন"
+  },
+  "cm_advanced": {
+    "message": "উন্নত"
+  },
+  "op_visit_home": {
+    "message": "হোমপেজে যান"
+  },
+  "op_support_me": {
+    "message": "এই প্রকল্পের সাহায্য করুন"
+  },
+  "hide": {
+    "message": "উইন্ডো লুকান"
+  },
+  "show": {
+    "message": "জানালা দেখাও"
+  },
+  "reset_position": {
+    "message": "অবস্থান রিসেট করুন"
+  },
+  "search": {
+    "message": "অনুসন্ধান করুন"
+  },
+  "configure_search": {
+    "message": "অনুসন্ধান বিকল্প কনফিগার করুন"
+  },
+  "selection_search": {
+    "message": "অনুসন্ধান $1"
+  },
+  "menu_options": {
+    "message": "অপশন"
+  },
+  "menu_quick_options": {
+    "message": "দ্রুত বিকল্প"
+  },
+  "menu_visit_homepage": {
+    "message": "হোমপেজে যান"
+  },
+  "menu_request_support": {
+    "message": "$1 এর জন্য সমর্থন অনুরোধ করুন"
+  },
+  "show_introduction": {
+    "message": "পরিচিতি পৃষ্ঠা দেখান"
+  },
+  "o_about_issues": {
+    "message": "সমস্যা রিপোর্ট করুন:"
+  },
+  "safari_store": {
+    "message": "ম্যাক অ্যাপ স্টোর"
+  },
+  "firefox_store": {
+    "message": "ফায়ারফক্স অ্যাড-অন"
+  },
+  "chrome_store": {
+    "message": "ক্রোম ওয়েব দোকান"
+  },
+  "movie_not_detected": {
+    "message": "সিনেমা সনাক্ত করা হয়নি"
+  },
+  "movie_not_detected_title": {
+    "message": "কোন সিনেমা / টিভি সিরিজ এই পৃষ্ঠায় সনাক্ত করা হয়নি।"
+  },
+  "movie_not_found": {
+    "message": "সিনেমা পাওয়া যায় নি"
+  },
+  "movie_not_found_title": {
+    "message": "সিনেমা তথ্য সার্ভারে পাওয়া যায় নি।"
+  },
+  "status_type_0": {
+    "message": "চলমান"
+  },
+  "status_type_1": {
+    "message": "শেষ"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "শো চলতে থাকবে"
+  },
+  "status_type_title_1": {
+    "message": "শো শেষ হয়েছে - কোন ঋতু পরিকল্পনা আছে"
+  },
+  "status_type_title_2": {
+    "message": "ভবিষ্যতে স্পষ্ট নয়"
+  },
+  "notify_movie_not_found": {
+    "message": "সিনেমা পাওয়া যায় নি: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "শুধুমাত্র ইংরেজি সিনেমা নাম ব্যবহার করুন!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "অনুসন্ধান নিখুঁত নয় ..."
+  },
+  "notify_video_hide": {
+    "message": "ভিডিও সনাক্ত - $app_name$ এখন লুকানো আছে"
+  },
+  "notify_video_hide_body": {
+    "message": "আবার এই বিজ্ঞপ্তিটি দেখানোর জন্য এখানে ক্লিক করুন"
+  },
+  "notify_new_episodes": {
+    "message": "নতুন পর্ব প্রচারিত হয়"
+  },
+  "title_introduction": {
+    "message": "ভূমিকা"
+  },
+  "supported_pages": {
+    "message": "সমর্থিত পৃষ্ঠা:"
+  },
+  "supported_grows": {
+    "message": "(এই তালিকা বড় এবং বড় বৃদ্ধি পায়)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "রেটিং এবং জনপ্রিয়তা তথ্য $1$ থেকে এসেছে। Episodes সম্পর্কে তথ্য $2$ থেকে।"
+  },
+  "title_got_it": {
+    "message": "এটা পেয়েছিলাম, শুরু করি!"
+  },
+  "_description_privacy_policy": {
+    "message": "গোপনীয়তা নীতি"
+  },
+  "_description_recent_features": {
+    "message": "সম্প্রতি যোগ বৈশিষ্ট্য:"
+  },
+  "_description_known_issues": {
+    "message": "জ্ঞাত সমস্যা:"
+  },
+  "_description_common_tags": {
+    "message": "ট্যাগ:"
+  },
+  "_description_features": {
+    "message": "বৈশিষ্ট্য:"
+  },
+  "about_me": {
+    "message": "আমি ২016 সাল থেকে অ্যাডন ডেভেলপার। আমার লক্ষ্যটি আপনার ওয়েব ব্রাউজারের জন্য আরও বেশি উত্পাদনশীল করার জন্য শক্তিশালী এক্সটেনশান তৈরি করা।"
+  },
+  "about_good_job": {
+    "message": "যদি আপনি মনে করেন আমি একটি ভাল কাজ করছি, দয়া করে দান করুন :)"
+  },
+  "about_income": {
+    "message": "আপনার দান আমার একমাত্র আয়!"
+  },
+  "about_thanks": {
+    "message": "আমার কাজ সমর্থন করার জন্য আপনাকে ধন্যবাদ!"
+  },
+  "o_about_support_by_iban": {
+    "message": "আইবান ব্যবহার করে ব্যাংক স্থানান্তর:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "স্বাধীন বিকাশকারী সমর্থন!"
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "પસંદ કરેલ ટેક્સ્ટનો અનુવાદ કરો (સંદર્ભ મેનૂથી)"
+  },
+  "_description_feature_2": {
+    "message": "સંપૂર્ણ પૃષ્ઠ અનુવાદ"
+  },
+  "_description_feature_3": {
+    "message": "ડાર્ક મોડ!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, શ્યામ, ઇમેઇલ, Google, lang, ભાષા, માઇક્રોસોફ્ટ, પાનું, preklad, prekladač, s3, પસંદગી, લખાણ, martucteur, અનુવાદ, અનુવાદક, übersetere, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ તમારા વેબ બ્રાઉઝર / થન્ડરબર્ડ માટે અનુવાદકનો ઉપયોગ કરવો સરળ છે!"
+  },
+  "o_tab_translate": {
+    "message": "ભાષાંતર કરવું"
+  },
+  "_description_supported_translators": {
+    "message": "સમર્થિત અનુવાદ પ્રદાતાઓ:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "મોડલ વિન્ડો"
+  },
+  "open_in_1": {
+    "message": "પોપઅપ વિન્ડો"
+  },
+  "open_in_2": {
+    "message": "નવી ટેબ"
+  },
+  "open_in_3": {
+    "message": "નવી વિંડો"
+  },
+  "open_in_4": {
+    "message": "નવું ટેબ (કન્ટેનર વિના)"
+  },
+  "modal_window": {
+    "message": "મોડલ વિન્ડો"
+  },
+  "toolbar_icon_action": {
+    "message": "ટૂલબાર ચિહ્ન ક્રિયા"
+  },
+  "toolbar_icon_text": {
+    "message": "ટૂલબાર ચિહ્ન ટેક્સ્ટ"
+  },
+  "sidebar_size": {
+    "message": "સાઇડબાર કદ"
+  },
+  "translation_provider": {
+    "message": "અનુવાદ પ્રદાતા"
+  },
+  "translate_to": {
+    "message": "ભાષાંતર કરો:"
+  },
+  "no_overlay": {
+    "message": "કોઈ ઓવરલે (આસપાસનો ડાર્ક વિસ્તાર)"
+  },
+  "no_overlay_hint": {
+    "message": "જો તમે બહાર ક્લિક કરો તો પણ મોડલ વિન્ડો ખોલવામાં આવશે."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "માં ભાષાંતર ચલાવો:"
+  },
+  "fallback_1": {
+    "message": "ફોલબેક પદ્ધતિ"
+  },
+  "fallback_2": {
+    "message": "ફોલબેક પદ્ધતિ"
+  },
+  "fallback_title": {
+    "message": "મોડલ વિંડો અને પૉપઅપ વિંડોનો ઉપયોગ કેટલાક કિસ્સાઓમાં કરી શકાતો નથી."
+  },
+  "open_in_tab": {
+    "message": "નવી ટેબમાં ખોલો"
+  },
+  "translate_this_page": {
+    "message": "આ પૃષ્ઠનું ભાષાંતર કરો"
+  },
+  "selection_translate": {
+    "message": "અનુવાદ \"$1\""
+  },
+  "page_translate": {
+    "message": "પૃષ્ઠનું ભાષાંતર કરો"
+  },
+  "selected_text": {
+    "message": "પસંદ કરેલ ટેક્સ્ટ"
+  },
+  "disable_context_menu": {
+    "message": "સંદર્ભ મેનૂને અક્ષમ કરો: $1"
+  },
+  "import_finished": {
+    "message": "આયાત સમાપ્ત થાય છે!"
+  },
+  "import_error": {
+    "message": "ભૂલ"
+  },
+  "import_backup_file": {
+    "message": "આયાત બેકઅપ ફાઇલ $1"
+  },
+  "search_search": {
+    "message": "શોધ"
+  },
+  "homepage": {
+    "message": "મુખપૃષ્ઠ"
+  },
+  "addon_page": {
+    "message": "એડન પેજમાં"
+  },
+  "safari_store": {
+    "message": "મેક એપ સ્ટોર"
+  },
+  "chrome_store": {
+    "message": "ક્રોમ વેબ સ્ટોર"
+  },
+  "firefox_store": {
+    "message": "ફાયરફોક્સ ઍડ-ઑન્સ"
+  },
+  "thunderbird_store": {
+    "message": "થન્ડરબર્ડ ઍડ-ઑન્સ"
+  },
+  "label_font_size": {
+    "message": "અક્ષર ની જાડાઈ"
+  },
+  "label_next": {
+    "message": "આગળ"
+  },
+  "label_note": {
+    "message": "નૉૅધ:"
+  },
+  "label_remove": {
+    "message": "દૂર કરવું"
+  },
+  "label_warning": {
+    "message": "ચેતવણી:"
+  },
+  "label_default": {
+    "message": "ડિફૉલ્ટ:"
+  },
+  "label_done": {
+    "message": "થઈ ગયું!"
+  },
+  "label_copied": {
+    "message": "નકલ!"
+  },
+  "label_close": {
+    "message": "બંધ"
+  },
+  "label_open_page": {
+    "message": "ખુલ્લું પૃષ્ઠ"
+  },
+  "label_agree": {
+    "message": "સંમત થવું"
+  },
+  "label_cancel": {
+    "message": "રદ કરવું"
+  },
+  "op_support_me": {
+    "message": "આ પ્રોજેક્ટને સહાય કરો"
+  },
+  "support_developer": {
+    "message": "આધાર સ્વતંત્ર વિકાસકર્તા!"
+  },
+  "hello_there": {
+    "message": "ત્યાં હેલો!"
+  },
+  "about_me": {
+    "message": "હું 2016 થી એડન ડેવલપર છું. મારો ધ્યેય તમને વધુ ઉત્પાદક બનાવવા માટે તમારા વેબ-બ્રાઉઝર માટે શક્તિશાળી એક્સ્ટેન્શન્સ બનાવવાનું છે."
+  },
+  "about_good_job": {
+    "message": "જો તમને લાગે કે હું સારી નોકરી કરી રહ્યો છું, તો કૃપા કરીને દાન કરો :)"
+  },
+  "about_income": {
+    "message": "તમારો દાન મારી એકમાત્ર આવક છે!"
+  },
+  "about_thanks": {
+    "message": "મારા કામને ટેકો આપવા બદલ આભાર!"
+  },
+  "o_tab_context_menu": {
+    "message": "સંદર્ભ મેનુ"
+  },
+  "o_tab_about": {
+    "message": "લગભગ"
+  },
+  "o_tab_settings": {
+    "message": "ગોઠવણીઓ"
+  },
+  "o_pixels": {
+    "message": "પિક્સેલ્સ"
+  },
+  "o_seconds": {
+    "message": "સેકંડ"
+  },
+  "label_or": {
+    "message": "અથવા"
+  },
+  "o_about_hello": {
+    "message": "નમસ્તે :)"
+  },
+  "o_about_intro": {
+    "message": "મારું નામ $1$ છે અને હું $app_name$ ના લેખક છું."
+  },
+  "o_about_like_it": {
+    "message": "જો તમને તે ગમે છે, તો કૃપા કરીને તેને અહીં રેટ કરો:"
+  },
+  "o_about_thanks": {
+    "message": "આભાર!"
+  },
+  "o_about_contact": {
+    "message": "સંપર્ક કરો:"
+  },
+  "o_about_issues": {
+    "message": "અહેવાલોની જાણ કરો:"
+  },
+  "o_about_social_media": {
+    "message": "સામાજિક મીડિયા:"
+  },
+  "o_about_support_by_iban": {
+    "message": "ઇબાનનો ઉપયોગ કરીને બેંક ટ્રાન્સફર:"
+  },
+  "ps_no_results": {
+    "message": "કોઈ મેળ ખાતા પરિણામો"
+  },
+  "label_no_data": {
+    "message": "કોઈ ડેટા નથી"
+  },
+  "dark_mode": {
+    "message": "ડાર્ક મોડ"
+  },
+  "dark_mode_system": {
+    "message": "સિસ્ટમ દ્વારા નિયંત્રિત"
+  },
+  "_description_features": {
+    "message": "વિશેષતા:"
+  },
+  "_description_why": {
+    "message": "શા માટે?"
+  },
+  "_description_privacy_policy": {
+    "message": "ગોપનીયતા નીતિ"
+  },
+  "_description_recent_features": {
+    "message": "તાજેતરમાં ઉમેરાયેલ લક્ષણો:"
+  },
+  "_description_common_tags": {
+    "message": "ટૅગ્સ:"
+  },
+  "_description_also_for_firefox": {
+    "message": "તમારા ફાયરફોક્સ માટે પણ ઉપલબ્ધ છે:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "તમારા થન્ડરબર્ડ માટે પણ ઉપલબ્ધ છે:"
+  }
+}

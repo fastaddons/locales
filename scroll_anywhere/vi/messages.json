@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "bất cứ nơi nào, nút, con trỏ, kéo, lấy, lấy kéo, lấy và kéo, vô hạn, trái, giữa, động lượng, chuột, di chuyển, thanh cuộn, cuộn, thanh cuộn, ném"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Kéo thanh cuộn bằng nút chuột giữa của bạn ở bất cứ đâu trên trang. Hỗ trợ cũng có phong cách \"Grab và kéo\"."
+  },
+  "field_int_default_value": {
+    "message": "Giá trị mặc định: $1, MIN: $2, MAX: $3"
+  },
+  "field_set_default": {
+    "message": "Đặt lại về mặc định: $1"
+  },
+  "thunderbird_store": {
+    "message": "Tiện ích Thunderbird"
+  },
+  "firefox_store": {
+    "message": "Tiện ích Firefox"
+  },
+  "chrome_store": {
+    "message": "Cửa hàng Chrome trực tuyến"
+  },
+  "safari_store": {
+    "message": "Cửa hàng ứng dụng Mac"
+  },
+  "win_disable": {
+    "message": "Vô hiệu hóa trên $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Vô hiệu hóa cuộn ngang trên $1"
+  },
+  "op_visit_home": {
+    "message": "Truy cập trang chủ"
+  },
+  "op_support_me": {
+    "message": "Giúp dự án này"
+  },
+  "o_title": {
+    "message": "Tùy chọn - $1."
+  },
+  "o_tab_general": {
+    "message": "Chung"
+  },
+  "o_tab_momentum": {
+    "message": "Quán tính"
+  },
+  "o_tab_cursor": {
+    "message": "Con trỏ"
+  },
+  "o_axis_locking": {
+    "message": "Khóa trục"
+  },
+  "o_tab_performance": {
+    "message": "Hiệu suất"
+  },
+  "o_tab_disabled_on": {
+    "message": "Tàn tật trên"
+  },
+  "o_tab_advanced": {
+    "message": "Nâng cao"
+  },
+  "o_tab_scrollbars": {
+    "message": "Thanh cuộn"
+  },
+  "o_tab_backup": {
+    "message": "Nhập / sao lưu."
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Khi cuộn một hộp có thể cuộn trong một trục nhưng hộp phụ huynh có thể cuộn bằng trục khác, cuộn cuộn thành một trục bằng cách sử dụng:"
+  },
+  "o_axis_lock_0": {
+    "message": "Khóa thông minh - Khóa tạm thời bằng đà"
+  },
+  "o_axis_lock_1": {
+    "message": "Khóa nghiêm ngặt - Khóa hướng tức thời"
+  },
+  "o_axis_lock_2": {
+    "message": "Không khóa - cuộn miễn phí trong cả hai trục"
+  },
+  "o_trend_momentum_window": {
+    "message": "Kích thước ngăn xếp khóa thông minh"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Giá trị lớn hơn sẽ yêu cầu cuộn nhiều hơn trong trục đối diện để thay đổi trục cuộn."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon bị vô hiệu hóa! Nhấn vào đây để bật."
+  },
+  "o_cursor_change_default": {
+    "message": "không thay đổi - hiệu suất tốt nhất"
+  },
+  "o_scroll_button": {
+    "message": "Nút cuộn:"
+  },
+  "o_direction_speed": {
+    "message": "Kiểu cuộn / hướng / tốc độ:"
+  },
+  "o_multiplier": {
+    "message": "Số nhân"
+  },
+  "o_times_speed": {
+    "message": "times tốc độ cuộn"
+  },
+  "o_maximum_speed": {
+    "message": "Tốc độ cuộn tối đa (0 - bị vô hiệu hóa):"
+  },
+  "o_ratio_unit": {
+    "message": "tỷ lệ (chiều dài trang / kích thước cửa sổ)"
+  },
+  "o_scroll_type_0": {
+    "message": "Mô phỏng thanh cuộn."
+  },
+  "o_scroll_type_1": {
+    "message": "Lấy và kéo - giống như trên điện thoại thông minh"
+  },
+  "o_scroll_type_2": {
+    "message": "Tốc độ động (thử nghiệm)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Nó giống như kéo một thanh cuộn"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Nó giống như kéo một trang bằng ngón tay của bạn trên màn hình điện thoại"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Tốc độ động làm cho tốc độ cuộn chậm hơn khi trang dài hơn"
+  },
+  "o_disable_key": {
+    "message": "Vô hiệu hóa / bật cuộn khi phím bị hỏng:"
+  },
+  "o_momentum_category": {
+    "message": "Quán tính:"
+  },
+  "o_momentum_formula": {
+    "message": "Công thức động lượng:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Phong trào giảm tốc thống nhất"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Cuộn trang sẽ được chậm lại một cách đồng đều cho đến khi nó dừng lại"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Phong trào giảm tốc theo cấp số nhân"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Cuộn trang sẽ nhanh chóng (theo cấp số nhân) chậm lại"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Phong trào vô hạn"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Cuộn sẽ không bao giờ dừng lại"
+  },
+  "o_momentum_max_speed": {
+    "message": "Tốc độ tối đa (0 - bị vô hiệu hóa):"
+  },
+  "o_page_weight": {
+    "message": "Trọng lượng trang:"
+  },
+  "o_grams": {
+    "message": "gram :)"
+  },
+  "o_additional_speed": {
+    "message": "Tốc độ bổ sung:"
+  },
+  "o_pixels_second": {
+    "message": "pixel mỗi giây"
+  },
+  "o_additional_duration": {
+    "message": "Thời lượng bổ sung:"
+  },
+  "o_advanced_momentum": {
+    "message": "Thiết lập động lượng nâng cao (chỉ dành cho các chuyên gia!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Thay đổi các giá trị này có thể phá vỡ động lực của bạn!"
+  },
+  "o_compute_from_last": {
+    "message": "Tính toán từ cuối:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Phát hiện chuột dừng:"
+  },
+  "o_tracking_speed": {
+    "message": "Tốc độ theo dõi:"
+  },
+  "o_reset_values": {
+    "message": "Đặt lại giá trị"
+  },
+  "o_cursor_scrolling": {
+    "message": "Con trỏ được sử dụng khi cuộn:"
+  },
+  "o_performance": {
+    "message": "Hiệu suất:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Ngăn chặn nhảy lớn"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Nếu bạn đang sử dụng công cụ có thể dịch chuyển con trỏ của bạn trên màn hình (khi bạn đạt đến cạnh), hãy bật tùy chọn này cho phép cuộn liên tục (vô hạn)."
+  },
+  "o_advanced": {
+    "message": "Nâng cao:"
+  },
+  "o_movement_detection": {
+    "message": "Ngưỡng phát hiện chuyển động chuột:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Có bao nhiêu pixel để di chuyển chuột để chặn liên kết. Đôi khi nhấn nút cuộn, bạn di chuyển chuột một chút nhưng bạn không muốn liên kết bị vô hiệu hóa vì điều đó."
+  },
+  "o_context_menu_block": {
+    "message": "Khối menu ngữ cảnh:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Bỏ chặn menu ngữ cảnh Độ trễ"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Nếu bạn thấy menu ngữ cảnh sau khi cuộn bằng nút chuột phải, hãy tăng giá trị này"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Vô hiệu hóa cuộn ngang trên các tên miền:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Vô hiệu hóa trên tên miền:"
+  },
+  "o_is_disabled_url": {
+    "message": "Vô hiệu hóa trên các trang / trang con:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Bạn có thể sử dụng biểu tượng sao (*) để xác định một phần URL, ví dụ: \"google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Nhập một tên miền trên mỗi dòng."
+  },
+  "o_is_disabled": {
+    "message": "Vô hiệu hóa tiện ích bổ sung"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Sử dụng biểu tượng thanh công cụ dưới dạng công tắc bật / tắt chính"
+  },
+  "o_scroll_button_middle": {
+    "message": "Phím giữa"
+  },
+  "o_scroll_button_right": {
+    "message": "Nút phải"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Người dùng Linux / Mac - Bạn sẽ được nhắc về quyền mới \"Đọc và sửa đổi cài đặt trình duyệt\" - Điều này là bắt buộc để ngăn chặn menu ngữ cảnh được hiển thị trước khi cuộn!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Người dùng Linux / Mac - Menu ngữ cảnh của bạn sẽ bị chặn! Để mở menu ngữ cảnh giữ phím \"Shift\" hoặc nút nhấp chuột phải gấp ba."
+  },
+  "o_scroll_button_left": {
+    "message": "Nút trái (thử nghiệm)"
+  },
+  "o_scroll_on_links": {
+    "message": "Cuộn trên Links."
+  },
+  "o_scroll_on_links_title": {
+    "message": "Khi được bật, bạn sẽ không thể kéo và thả liên kết (chỉ bằng cách sử dụng phím 'Vô hiệu hóa')"
+  },
+  "o_scroll_on_text": {
+    "message": "Cuộn trên văn bản."
+  },
+  "o_scroll_on_text_title": {
+    "message": "Đề xuất cuộn / chỉnh sửa điện thoại - bạn cần nhấp vào văn bản để chuyển sang chế độ chỉnh sửa \". Nhấp vào bên ngoài văn bản cho phép cuộn lại."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Cuộn trên Textarea."
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea là một khối văn bản, thường có thể thay đổi kích thước. Ví dụ về tab \"bị vô hiệu hóa trên\", bạn có thể thấy Textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Cuộn trên HTML có thể chỉnh sửa"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Ví dụ: Thân email trong Gmail là HTML có thể chỉnh sửa."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "trên văn bản sẽ cho phép chọn / chỉnh sửa văn bản."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Nhấp vào văn bản sẽ bật \"Chế độ chỉnh sửa\". Nhấp vào văn bản bên ngoài để bật \"Chế độ cuộn\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Một cú nhấp chuột"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Nhấn đúp chuột"
+  },
+  "o_scrollbars_width": {
+    "message": "Scrollbars nhìn"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Bình thường (không thay đổi)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Gầy"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Ẩn"
+  },
+  "o_scrollbars_color": {
+    "message": "Slollbar Slider Color:"
+  },
+  "o_scrollbars_background": {
+    "message": "Thanh cuộn màu nền:"
+  },
+  "o_reverse": {
+    "message": "Hướng di chuyển ngược"
+  },
+  "o_disable_alt": {
+    "message": "Alt."
+  },
+  "o_disable_shift": {
+    "message": "Thay đổi."
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl."
+  },
+  "o_disable_type_0": {
+    "message": "Vô hiệu hóa khi phím bị hỏng:"
+  },
+  "o_disable_type_1": {
+    "message": "Kích hoạt khi phím bị hỏng:"
+  },
+  "o_momentum": {
+    "message": "kích hoạt động lượng - bạn có thể \"ném\" trang (như trên điện thoại)"
+  },
+  "o_no_css_edit": {
+    "message": "Đừng khóa iframes và không thay đổi con trỏ khi cuộn"
+  },
+  "o_no_prevent_default": {
+    "message": "Không chặn hành động nút mặc định"
+  },
+  "o_auto_link_lock": {
+    "message": "Liên kết chặn:"
+  },
+  "o_no_link_block": {
+    "message": "Đừng chặn chuột Nhấp vào liên kết sau khi di chuyển"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Khi bạn bắt đầu cuộn trên một liên kết và sau đó bạn cuộn xong trên cùng một liên kết, trình duyệt sẽ mở liên kết. Điều này thường không phải là hành vi mong muốn như vậy theo mặc định, nó bị chặn."
+  },
+  "o_page_weight_title": {
+    "message": "Điều này kiểm soát trang 'nặng' như thế nào. Những trang nặng hơn có động lượng lâu hơn."
+  },
+  "o_additional_speed_title": {
+    "message": "Bạn có thể tăng tốc tốc độ nêu đà."
+  },
+  "o_additional_duration_title": {
+    "message": "Thêm thời gian cho mỗi động lượng."
+  },
+  "o_compute_from_last_title": {
+    "message": "Tốc độ ban đầu của động lượng được xác định bởi tốc độ cuộn ngay trước khi phát hành nút cuộn."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Bao nhiêu thời gian để chuột vẫn còn - trước khi phát hành nút cuộn - để không kích hoạt động lượng."
+  },
+  "o_tracking_speed_title": {
+    "message": "Khoảng thời gian để đo tốc độ cuộn hiện tại."
+  },
+  "o_scrolling_area": {
+    "message": "Khu vực cuộn:"
+  },
+  "o_outside_area_width": {
+    "message": "Khu vực cuộn (0 - bị vô hiệu hóa):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Di chuyển con trỏ của bạn bên ngoài khu vực cuộn sẽ hoàn nguyên vị trí cuộn. Hành vi tương tự có thể được nhìn thấy khi kéo thanh cuộn."
+  },
+  "o_scroll_button_left_title": {
+    "message": "CẢNH BÁO - Hỗ trợ nút trái đang sử dụng API Firefox không dùng được có thể bị xóa trong các phiên bản Firefox trong tương lai."
+  },
+  "o_prevent_text_selection": {
+    "message": "Ngăn chặn lựa chọn văn bản khi cuộn bằng nút trái"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Trên một số thiết bị, cuộn bằng nút chuột trái cũng sẽ chọn văn bản trên trang."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Không chặn menu ngữ cảnh khi cố cuộn trang không thể cuộn"
+  },
+  "o_backup_restore": {
+    "message": "Cài đặt sao lưu / khôi phục vào tệp:"
+  },
+  "o_export_settings": {
+    "message": "Xuất cài đặt vào một tập tin"
+  },
+  "import_settings_button": {
+    "message": "Nhập cài đặt từ tệp $1 ..."
+  },
+  "import_finished": {
+    "message": "Nhập xong!"
+  },
+  "test_page_title": {
+    "message": "Kiểm tra cài đặt cuộn của bạn ở đây"
+  },
+  "menu_options": {
+    "message": "Tùy chọn"
+  },
+  "menu_visit_title": {
+    "message": "Truy cập trang chủ"
+  },
+  "not_working": {
+    "message": "Bị vô hiệu hóa bởi trình duyệt web của bạn"
+  },
+  "disabled_by_user": {
+    "message": "Vô hiệu hóa trên tên miền này"
+  },
+  "not_working_title": {
+    "message": "Trình duyệt của bạn sẽ chặn Scrollanywhere trên các loại trang này:"
+  },
+  "not_working_body": {
+    "message": "Để bật các trang \"Mozilla.org\", hãy xem hướng dẫn YouTube này"
+  },
+  "show_scrollbars": {
+    "message": "Hiển thị cuộn tròn"
+  },
+  "show_scrollbars_title": {
+    "message": "Tạm thời hiển thị thanh cuộn"
+  },
+  "switch_on_off": {
+    "message": "Công tắc bổ sung / bật"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Nếu bạn gặp sự chậm trễ đáng chú ý giữa nhấn nút cuộn và bắt đầu cuộn, hãy thử kích hoạt tùy chọn này. Tuy nhiên, bạn sẽ không thể cuộn qua \"iframes\", chẳng hạn như một số video được nhúng cũ hoặc một số quảng cáo."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Điều này cũng sẽ vô hiệu hóa tùy chọn để thay đổi con trỏ trong khi cuộn."
+  },
+  "o_helper_text_default_action": {
+    "message": "Hữu ích trong Linux để cho phép dán bằng nút giữa."
+  },
+  "o_about_hello": {
+    "message": "Xin chào :)"
+  },
+  "o_about_intro": {
+    "message": "Tên tôi là $1$ và tôi là tác giả của $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Nếu bạn thích nó, xin vui lòng đánh giá nó ở đây:"
+  },
+  "o_about_dislike_it": {
+    "message": "Nếu bạn không thích nó, xin vui lòng cho tôi biết tại sao e-mail của tôi. Tôi đang thực hiện hầu hết các yêu cầu tính năng tôi nhận được."
+  },
+  "o_disabled": {
+    "message": "tàn tật",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "đã bật",
+    "common": true
+  },
+  "o_times": {
+    "message": "thời gian",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "điểm ảnh",
+    "common": true
+  },
+  "o_items": {
+    "message": "mặt hàng",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "mili giây",
+    "common": true
+  },
+  "label_working": {
+    "message": "đang làm việc...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Đóng",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Hãy xem xét hỗ trợ công việc của tôi bởi",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "đóng góp (Paypal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "trở thành người bảo trợ của tôi",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Cảm ơn bạn!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "trang Chủ:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Tiếp xúc:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Các vấn đề báo cáo:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Tôi chỉ có thể trả lời bằng tiếng Anh / Slovak",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Truyền thông xã hội:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Lưu các thay đổi và đóng",
+    "common": true
+  },
+  "o_saved": {
+    "message": "tiết kiệm!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Sắp có",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Lưu thay đổi",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Chính sách bảo mật",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Các tính năng được thêm gần đây:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "tarih, imdb, açıklama, bölüm, gösterge, grafik, imdb, bilgi, metre, film, film, filmler, netflix, imdb, derecelendirme, seri, gösteriler, tv, tv şovu, video, görsel, oy, sezon"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "film bulunamadı / yanlış film bulundu - Hedef sayfalarla \"resmi\" entegrasyonu olmadığından,% 100 doğru sonuçları garanti edemiyorum (ancak çoğu durumda mükemmel çalışıyor)"
+  },
+  "_description_mm_not_working": {
+    "message": "En sevdiğiniz film sayfasında çalışmıyor mu?"
+  },
+  "_description_mm_add_support": {
+    "message": "Bana ulaşın ve ekleyeceğim - mümkünse (sayfa İngilizce veya $visit_imdb$ linkte film adı içermelidir)."
+  },
+  "_description_mm_feature_1": {
+    "message": "film derecelendirmesi ve $visit_imdb$'dan popülerlik"
+  },
+  "_description_mm_feature_2": {
+    "message": "$visit_tvmaze$'dan sonraki / önceki bölüm tarihi"
+  },
+  "_description_mm_feature_3": {
+    "message": "ek Film / TV Serisi Bilgi"
+  },
+  "_description_mm_feature_4": {
+    "message": "yeni Bölüm Hakkında Bildirim"
+  },
+  "_description_mm_feature_5": {
+    "message": "tV dizisini favori olarak işaretleyin ve yeni bölüm mevcut olduğunda bildirim kazanacaksınız"
+  },
+  "_description_mm_feature_7": {
+    "message": "video oynatma algılandığında otomatik gizle"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ Size bir filmin (veya TV dizisinin) popülerliğini gösterir."
+  },
+  "name": {
+    "message": "İsim vermek"
+  },
+  "year": {
+    "message": "Yıl"
+  },
+  "video_type": {
+    "message": "Tip"
+  },
+  "video_type_0": {
+    "message": "Film"
+  },
+  "video_type_1": {
+    "message": "Dizi"
+  },
+  "video_type_2": {
+    "message": "Bölüm"
+  },
+  "runtime": {
+    "message": "Çalışma süresi"
+  },
+  "premiered": {
+    "message": "Prömiyer"
+  },
+  "premiere_in": {
+    "message": "Prömiyer"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Ülke"
+  },
+  "actors": {
+    "message": "Aktörler"
+  },
+  "dvd": {
+    "message": "DVD"
+  },
+  "director": {
+    "message": "Yönetici"
+  },
+  "totalseasons": {
+    "message": "Toplam mevsim"
+  },
+  "writer": {
+    "message": "Yazar"
+  },
+  "language": {
+    "message": "Dil"
+  },
+  "awards": {
+    "message": "Ödüller"
+  },
+  "rated": {
+    "message": "Oy"
+  },
+  "production": {
+    "message": "Üretim"
+  },
+  "plot": {
+    "message": "Arsa"
+  },
+  "website": {
+    "message": "İnternet sitesi"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "$visit_imdb$ sayfayı ziyaret edin"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Bu gösteri için #$visit_tvmaze$ sayfayı ziyaret edin"
+  },
+  "make_favorite": {
+    "message": "Favori"
+  },
+  "make_favorite_title": {
+    "message": "Sık kullanılanlara TV dizisi ekleyin. Bu, yeni bölümler hakkında bildirim almanıza izin verecektir."
+  },
+  "last_episode": {
+    "message": "Son"
+  },
+  "next_episode": {
+    "message": "Sonraki"
+  },
+  "last_episode_title": {
+    "message": "Son bölüm"
+  },
+  "next_episode_title": {
+    "message": "Gelecek bölüm"
+  },
+  "episode_airtime": {
+    "message": "Airtime"
+  },
+  "episode_name": {
+    "message": "İsim vermek"
+  },
+  "series_status": {
+    "message": "Durum"
+  },
+  "episodes_count": {
+    "message": "Epizotlar"
+  },
+  "episodes_count_title": {
+    "message": "Mevcut sezon $1 $2 bölümleri vardır"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "günler"
+  },
+  "hours": {
+    "message": "saatler"
+  },
+  "na": {
+    "message": "Müsait değil"
+  },
+  "user_rating": {
+    "message": "Kullanıcı Değerlendirmesi: $1"
+  },
+  "user_popularity": {
+    "message": "Popülerlik: $1 oy"
+  },
+  "source": {
+    "message": "Kaynak: $1"
+  },
+  "show_details": {
+    "message": "daha..."
+  },
+  "hide_details": {
+    "message": "daha az..."
+  },
+  "save_position": {
+    "message": "Pozisyondan tasarruf"
+  },
+  "revert_position": {
+    "message": "Geri döndürmek"
+  },
+  "win_disable": {
+    "message": "Devre Dışı Bırak $1"
+  },
+  "cm_advanced": {
+    "message": "Ileri"
+  },
+  "op_visit_home": {
+    "message": "Ana Sayfa Ziyaret Edin"
+  },
+  "op_support_me": {
+    "message": "Bu projeye yardım et"
+  },
+  "hide": {
+    "message": "Pencereyi gizle"
+  },
+  "show": {
+    "message": "Pencere göster"
+  },
+  "reset_position": {
+    "message": "Sıfırlama pozisyonu"
+  },
+  "search": {
+    "message": "Arama"
+  },
+  "configure_search": {
+    "message": "Arama seçeneklerini yapılandırma"
+  },
+  "selection_search": {
+    "message": "Arama $1"
+  },
+  "menu_options": {
+    "message": "Seçenekleri"
+  },
+  "menu_quick_options": {
+    "message": "Hızlı Seçenekler"
+  },
+  "menu_visit_homepage": {
+    "message": "Ana Sayfa Ziyaret Edin"
+  },
+  "menu_request_support": {
+    "message": "$1 için talep isteği"
+  },
+  "show_introduction": {
+    "message": "GİRİŞ sayfasını göster"
+  },
+  "o_about_issues": {
+    "message": "Sorunları bildir:"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "firefox_store": {
+    "message": "Firefox eklentileri"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Mağazası"
+  },
+  "movie_not_detected": {
+    "message": "Film algılanmadı"
+  },
+  "movie_not_detected_title": {
+    "message": "Bu sayfada hiçbir film / TV dizisi tespit edilmedi."
+  },
+  "movie_not_found": {
+    "message": "Film bulunamadı"
+  },
+  "movie_not_found_title": {
+    "message": "Sunucuda film bilgisi bulunamadı."
+  },
+  "status_type_0": {
+    "message": "Çalışan"
+  },
+  "status_type_1": {
+    "message": "Bitti"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Gösteri devam edecek"
+  },
+  "status_type_title_1": {
+    "message": "Şov sona erdi - planlanan daha fazla mevsim yok."
+  },
+  "status_type_title_2": {
+    "message": "Geleceği belirsizliğini gösterir"
+  },
+  "notify_movie_not_found": {
+    "message": "Film bulunamadı: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Sadece İngilizce film adını kullanın!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Arama mükemmel değil ..."
+  },
+  "notify_video_hide": {
+    "message": "Video algılandı - $app_name$ şimdi gizlendi"
+  },
+  "notify_video_hide_body": {
+    "message": "Bu bildirimi tekrar göstermemek için buraya tıklayın."
+  },
+  "notify_new_episodes": {
+    "message": "Yeni bölüm yayınlandı"
+  },
+  "title_introduction": {
+    "message": "Giriş"
+  },
+  "supported_pages": {
+    "message": "Desteklenen Sayfalar:"
+  },
+  "supported_grows": {
+    "message": "(Bu liste daha büyük ve daha büyük büyür)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Derecelendirmeler ve popülerlik bilgileri $1$'dandır. Bölümler hakkındaki bilgiler $2$'dendir."
+  },
+  "title_got_it": {
+    "message": "Anladım, başlayalım!"
+  },
+  "_description_privacy_policy": {
+    "message": "Gizlilik Politikası"
+  },
+  "_description_recent_features": {
+    "message": "Son Eklenen Özellikler:"
+  },
+  "_description_known_issues": {
+    "message": "Bilinen Sorunlar:"
+  },
+  "_description_common_tags": {
+    "message": "Etiketler:"
+  },
+  "_description_features": {
+    "message": "Özellikleri:"
+  },
+  "about_me": {
+    "message": "Ben 2016 yılından beri Addon Geliştiriciyim. Amacım, web tarayıcınızın sizi daha üretken hale getirmesi için güçlü uzantılar oluşturmaktır."
+  },
+  "about_good_job": {
+    "message": "Eğer iyi bir iş yaptığımı düşünüyorsanız, lütfen bağış yapın :)"
+  },
+  "about_income": {
+    "message": "Bağışın benim tek gelirim!"
+  },
+  "about_thanks": {
+    "message": "İşimi desteklediğin için teşekkür ederim!"
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN kullanarak banka havalesi:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Bağımsız geliştiriciyi destekleyin!"
+  }
+}

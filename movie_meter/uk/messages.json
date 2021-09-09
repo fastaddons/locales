@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "дата, IMDB, опис, епізод, калібр, графік, IMDB, інформація, метр, фільм, фільми, фільми, Netflix, IMDB, рейтинг, серія, шоу, телевізор, телевізійне шоу, відео, візуальні, голоси, сезон"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "фільм не знайдено / неправильний фільм - Оскільки немає \"офіційної\" інтеграції з цільовими сторінками, я не можу гарантувати 100% правильних результатів (але в більшості випадків це ідеально працює)"
+  },
+  "_description_mm_not_working": {
+    "message": "Не працює на вашій улюбленій сторінці фільму?"
+  },
+  "_description_mm_add_support": {
+    "message": "Зв'яжіться зі мною, і я додам це - якщо це можливо (сторінка повинна містити назву фільму англійською або $visit_imdb$ Link)."
+  },
+  "_description_mm_feature_1": {
+    "message": "рейтинг фільму та популярність від $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "далі / Попередня епізод Дата від $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "додаткова інформація про фільм / ТВ серії"
+  },
+  "_description_mm_feature_4": {
+    "message": "повідомлення про новий епізод"
+  },
+  "_description_mm_feature_5": {
+    "message": "марка телевізійна серія як улюблена, і ви отримаєте повідомлення, коли доступний новий епізод"
+  },
+  "_description_mm_feature_7": {
+    "message": "автоматичне приховування, коли виявлено відтворення відео"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ покаже вам рейтинг та популярність фільму (або телевізійної серії)"
+  },
+  "name": {
+    "message": "Назва"
+  },
+  "year": {
+    "message": "Рік"
+  },
+  "video_type": {
+    "message": "Тип"
+  },
+  "video_type_0": {
+    "message": "Фільм"
+  },
+  "video_type_1": {
+    "message": "Серія"
+  },
+  "video_type_2": {
+    "message": "Епізод"
+  },
+  "runtime": {
+    "message": "Запуск"
+  },
+  "premiered": {
+    "message": "Прем'єра"
+  },
+  "premiere_in": {
+    "message": "Прем'єра"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Країна"
+  },
+  "actors": {
+    "message": "Актори"
+  },
+  "dvd": {
+    "message": "Двійник"
+  },
+  "director": {
+    "message": "Директор"
+  },
+  "totalseasons": {
+    "message": "Загальний сезон"
+  },
+  "writer": {
+    "message": "Письменник"
+  },
+  "language": {
+    "message": "Мову"
+  },
+  "awards": {
+    "message": "Нагороди"
+  },
+  "rated": {
+    "message": "Оцінений"
+  },
+  "production": {
+    "message": "Виробництво"
+  },
+  "plot": {
+    "message": "Сюжет"
+  },
+  "website": {
+    "message": "Веб-сайт"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Відвідайте сторінку $visit_imdb$"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Відвідайте сторінку $visit_tvmaze$ для цього шоу"
+  },
+  "make_favorite": {
+    "message": "Улюблений"
+  },
+  "make_favorite_title": {
+    "message": "Додати телевізійну серію до вибраного. Це дозволить вам отримувати повідомлення про нові епізоди."
+  },
+  "last_episode": {
+    "message": "Остання"
+  },
+  "next_episode": {
+    "message": "Наступний"
+  },
+  "last_episode_title": {
+    "message": "Останній епізод"
+  },
+  "next_episode_title": {
+    "message": "Наступний епізод"
+  },
+  "episode_airtime": {
+    "message": "Ефірний час"
+  },
+  "episode_name": {
+    "message": "Назва"
+  },
+  "series_status": {
+    "message": "Статус"
+  },
+  "episodes_count": {
+    "message": "Епізоди"
+  },
+  "episodes_count_title": {
+    "message": "Поточний сезон $1 має $2 епізоди"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "дроти"
+  },
+  "hours": {
+    "message": "годинник"
+  },
+  "na": {
+    "message": "Недоступний"
+  },
+  "user_rating": {
+    "message": "Рейтинг користувачів: $1"
+  },
+  "user_popularity": {
+    "message": "Популярність: $1 Голосів"
+  },
+  "source": {
+    "message": "Джерело: $1"
+  },
+  "show_details": {
+    "message": "більше ..."
+  },
+  "hide_details": {
+    "message": "менше ..."
+  },
+  "save_position": {
+    "message": "Зберегти позицію"
+  },
+  "revert_position": {
+    "message": "Повертати позиції"
+  },
+  "win_disable": {
+    "message": "Вимкнути на $1"
+  },
+  "cm_advanced": {
+    "message": "Просунутий"
+  },
+  "op_visit_home": {
+    "message": "Відвідати домівку"
+  },
+  "op_support_me": {
+    "message": "Допомогти цьому проекту"
+  },
+  "hide": {
+    "message": "Сховати вікно"
+  },
+  "show": {
+    "message": "Показати вікно"
+  },
+  "reset_position": {
+    "message": "Положення"
+  },
+  "search": {
+    "message": "Пошук"
+  },
+  "configure_search": {
+    "message": "Налаштувати параметри пошуку"
+  },
+  "selection_search": {
+    "message": "Пошук $1"
+  },
+  "menu_options": {
+    "message": "Опції"
+  },
+  "menu_quick_options": {
+    "message": "Швидкі налаштування"
+  },
+  "menu_visit_homepage": {
+    "message": "Відвідати домівку"
+  },
+  "menu_request_support": {
+    "message": "Підтримка запиту $1"
+  },
+  "show_introduction": {
+    "message": "Показати сторінку введення"
+  },
+  "o_about_issues": {
+    "message": "Звітувати про помилку:"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "firefox_store": {
+    "message": "Сторінка додатків Firefox"
+  },
+  "chrome_store": {
+    "message": "Сторінка Веб-магазину Chrome"
+  },
+  "movie_not_detected": {
+    "message": "Фільм не виявлено"
+  },
+  "movie_not_detected_title": {
+    "message": "На цій сторінці не виявлено жодних фільмів / телевізійних серій."
+  },
+  "movie_not_found": {
+    "message": "Фільм не знайдено"
+  },
+  "movie_not_found_title": {
+    "message": "Інформація про фільм не знайдено на сервері."
+  },
+  "status_type_0": {
+    "message": "Запуск"
+  },
+  "status_type_1": {
+    "message": "Закінчений"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Шоу буде продовжуватися"
+  },
+  "status_type_title_1": {
+    "message": "Show закінчилося - планується більше сезонів"
+  },
+  "status_type_title_2": {
+    "message": "Показує майбутнє незрозуміло"
+  },
+  "notify_movie_not_found": {
+    "message": "Фільм не знайдено: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Використовуйте лише англійську назву фільму!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Пошук не ідеальний ..."
+  },
+  "notify_video_hide": {
+    "message": "Відео виявлене - $app_name$ тепер приховано"
+  },
+  "notify_video_hide_body": {
+    "message": "Натисніть тут, щоб не відображати це повідомлення знову"
+  },
+  "notify_new_episodes": {
+    "message": "Новий епізод"
+  },
+  "title_introduction": {
+    "message": "Вступ"
+  },
+  "supported_pages": {
+    "message": "Підтримувані сторінки:"
+  },
+  "supported_grows": {
+    "message": "(Цей список росте більшим і більшим)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Рейтинги та інформація про популярність - з $1$. Інформація про епізоди з $2$."
+  },
+  "title_got_it": {
+    "message": "Зрозуміло, розпочнімо!"
+  },
+  "_description_privacy_policy": {
+    "message": "Політика конфіденційності"
+  },
+  "_description_recent_features": {
+    "message": "Нещодавно додані функції:"
+  },
+  "_description_known_issues": {
+    "message": "Відомі проблеми:"
+  },
+  "_description_common_tags": {
+    "message": "Теги:"
+  },
+  "_description_features": {
+    "message": "Особливості:"
+  },
+  "about_me": {
+    "message": "Я розробник доповнень з 2016 року. Моя мета - створити якісні доповнення для браузерів, які зроблять Вашу робот"
+  },
+  "about_good_job": {
+    "message": "Якщо ви думаєте, що я роблю добру справу, будь ласка, підтримайте :)"
+  },
+  "about_income": {
+    "message": "Ваша пожертва - це мій єдиний прибуток!"
+  },
+  "about_thanks": {
+    "message": "Дякую за підтримку моєї роботи!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Банківський переказ за допомогою IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Підтримайте незалежного розробника!"
+  }
+}

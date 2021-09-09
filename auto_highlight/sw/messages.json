@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "Wakati mwingine ukurasa haujaundwa vizuri na habari unayotafuta haionekani."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Matumizi ya kawaida ya matumizi:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Eleza metadata kama:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Eleza \"meli ya bure\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Je! Unatafuta kitu maalum kwenye wavuti? Tumia \"Mtazamo wa Muda\" ili kukusaidia kupata kwenye kurasa zote. Mambo muhimu ya muda yanaondolewa auto wakati unapofunga kivinjari chako."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Unaweza hata kujificha maneno kwa kuweka ukubwa wa font hadi sifuri au kwa kuwafanya uwazi."
+  },
+  "_description_tags_ah": {
+    "message": "onyesha, alama, metadata, movie, moja kwa moja, maandishi, maingiliano, uteuzi, utafutaji"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ itaonyesha moja kwa moja maneno yaliyoelezwa kwenye kurasa zilizoelezwa."
+  },
+  "match_type": {
+    "message": "Aina ya mechi:"
+  },
+  "match_type_0": {
+    "message": "Domain ni."
+  },
+  "match_type_1": {
+    "message": "URL ni"
+  },
+  "match_type_2": {
+    "message": "URL ina"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "Kila ukurasa"
+  },
+  "selection_highlight": {
+    "message": "Eleza $1."
+  },
+  "selection_temp": {
+    "message": "Eleza kwa muda mfupi $1."
+  },
+  "selection_temp_everywhere": {
+    "message": "Eleza kila mahali $1."
+  },
+  "page_highlight": {
+    "message": "$app_name$ kwenye ukurasa huu"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Daima kufungua katika tab mpya - wakati wa kubonyeza icon ya toolbar"
+  },
+  "disable_rule": {
+    "message": "Walemavu."
+  },
+  "temporal_rule": {
+    "message": "Temporal."
+  },
+  "each_word": {
+    "message": "Kila neno"
+  },
+  "rules": {
+    "message": "Kanuni"
+  },
+  "delete": {
+    "message": "Futa"
+  },
+  "rename": {
+    "message": "Rename."
+  },
+  "duplicate": {
+    "message": "Duplicate."
+  },
+  "delete_rule": {
+    "message": "Futa utawala"
+  },
+  "delete_rule_title": {
+    "message": "Futa utawala \"$1\"?"
+  },
+  "on_pages": {
+    "message": "Kwenye kurasa:"
+  },
+  "disabled_rule": {
+    "message": "Sheria ya ulemavu"
+  },
+  "incomplete_rule": {
+    "message": "Utawala usio kamili"
+  },
+  "active_on_current_page": {
+    "message": "Kazi kwenye ukurasa wa sasa"
+  },
+  "temporal_rule_helper": {
+    "message": "Utawala wa muda - utafutwa baada ya kuanzisha tena kivinjari"
+  },
+  "active_on_pages": {
+    "message": "Kazi kwenye kurasa:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Eleza kila neno tofauti"
+  },
+  "case_sensitive": {
+    "message": "Kesi nyeti."
+  },
+  "ignore_diacritics": {
+    "message": "Kupuuza diacritics."
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "Kujieleza mara kwa mara."
+  },
+  "across_elements": {
+    "message": "Katika vipengele."
+  },
+  "across_elements_help": {
+    "message": "Tafuta maandishi katika mambo ya jirani ya HTML"
+  },
+  "style": {
+    "message": "Style."
+  },
+  "preview": {
+    "message": "Angalia:"
+  },
+  "empty_rule": {
+    "message": "sheria tupu."
+  },
+  "create_new_rule": {
+    "message": "Unda utawala mpya"
+  },
+  "import_export": {
+    "message": "Ingiza / kuuza nje."
+  },
+  "help_this_project": {
+    "message": "Msaada mradi huu"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "FAQ:"
+  },
+  "storage_info": {
+    "message": "Maelezo ya kuhifadhi:"
+  },
+  "storage_safari_1": {
+    "message": "Safari sasa haina kuunga mkono maingiliano ya data ya moja kwa moja."
+  },
+  "storage_safari_2": {
+    "message": "Ili kuhamisha (au kuhifadhi) sheria zako za kuonyesha, tumia kipengele cha \"Import / Export\"."
+  },
+  "storage_info_1": {
+    "message": "Sheria zako zimehifadhiwa kwa kutumia salama $1 Sync ambayo itafanana na sheria zako kati ya vifaa vyako vyote (ikiwa umeingia kwenye akaunti sawa)."
+  },
+  "storage_info_2": {
+    "message": "Uhifadhi huu wa wingu unaweza kuhifadhi 100 KB ya data na hadi sheria 500 za kuonyesha."
+  },
+  "storage_info_3": {
+    "message": "Unaweza pia kuuza nje (Backup) sheria zako kwa faili kwa kutumia kipengele cha \"Import / Export\" na kisha uingize kwenye vifaa vingine."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Badilisha nafasi zilizopo zilizopo"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Ongeza ukurasa ili uonyeshe"
+  },
+  "remove_highlight_from_page": {
+    "message": "Ondoa Eleza kutoka ukurasa."
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "Italic."
+  },
+  "underline": {
+    "message": "Kusisitiza"
+  },
+  "background_color": {
+    "message": "Rangi ya rangi"
+  },
+  "background": {
+    "message": "Background"
+  },
+  "text_color": {
+    "message": "Rangi ya maandishi."
+  },
+  "color": {
+    "message": "Rangi"
+  },
+  "font_size": {
+    "message": "Ukubwa wa font."
+  },
+  "rule_name": {
+    "message": "Jina la utawala"
+  },
+  "highlight_regular_expression": {
+    "message": "Eleza kujieleza mara kwa mara:"
+  },
+  "highlight_text": {
+    "message": "Eleza maandishi:"
+  },
+  "highlight_on_pages": {
+    "message": "Eleza kwenye kurasa"
+  },
+  "empty_name_helper": {
+    "message": "Acha tupu kutumia \"Nakala iliyoonyeshwa\" kama jina"
+  },
+  "faq_1": {
+    "message": "Jinsi ya kuonyesha haraka neno kwenye ukurasa wa sasa?"
+  },
+  "faq_1a": {
+    "message": "Tumia Menyu ya Muktadha - chagua Nakala / Bonyeza Bonyeza / \"Auto Eleza\". Ikiwa unabonyeza haki kwenye ukurasa (bila kuchagua maandishi) unaweza kutumia sheria zilizopo kwa ukurasa wa sasa."
+  },
+  "faq_2": {
+    "message": "Ninataka kuonyesha maneno mengi, ninahitaji kuunda utawala mpya kwa kila neno tofauti?"
+  },
+  "faq_2a": {
+    "message": "Hapana, angalia tu \"Neno la kila neno\". Kisha kila neno litaonyeshwa tofauti."
+  },
+  "faq_3": {
+    "message": "Je, ni \"RegExp\" hiyo ni nini?"
+  },
+  "faq_3a": {
+    "message": "Pia inajulikana kama kujieleza mara kwa mara, ni mlolongo wa wahusika ambao hufafanua muundo wa utafutaji. Ni kujenga ngumu ambayo inaruhusu kuonyesha tata ya vipengele na muundo sawa. Kwa mfano bei, tarehe, namba za simu, nk ..."
+  },
+  "faq_4": {
+    "message": "Je, unaweza kunionyesha mifano ya RegExp?"
+  },
+  "faq_4a": {
+    "message": "Eleza bei zote kama $1."
+  },
+  "faq_5": {
+    "message": "Je! Unaweza kuelezea wale?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" inaonyesha ishara ya dola. Backslash inahitajika hapa kwa sababu dola ina maana maalum katika RegExp."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" inaonyesha tarakimu moja"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" inamaanisha kurudia mara moja au zaidi. Wakati wa kuwekwa baada ya mchezaji wa tarakimu $2$, inamaanisha tarakimu moja au zaidi."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" inaonyesha dot. Backslash inahitajika tena kwa sababu ishara ya dot peke yake inamaanisha tabia yoyote ya RegExp."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" inamaanisha sifuri au wakati mmoja. Wakati wa kuwekwa baada ya mabango ya $2$, inamaanisha chochote ndani ya mabano hayo ni chaguo (inaweza kuwa pale, au la). Tunatumia kwa sehemu ya decimal ya namba ambayo ni ya hiari."
+  },
+  "faq_5f": {
+    "message": "maelezo zaidi kuhusu sheria za RegExp."
+  },
+  "import_finished": {
+    "message": "Kuagiza kumaliza!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Hitilafu",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Ingiza faili ya salama $1.",
+    "common": true
+  },
+  "homepage": {
+    "message": "Homepage.",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Ukurasa wa Addon.",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Duka la App Mac.",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Duka la Wavuti wa Chrome.",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Vidokezo vya Firefox.",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Vidokezo vya Thunderbird.",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Chaguzi.",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Ukubwa wa font.",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Ukubwa wa sidebar.",
+    "common": true
+  },
+  "label_next": {
+    "message": "Ijayo",
+    "common": true
+  },
+  "label_note": {
+    "message": "Kumbuka:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Ondoa",
+    "common": true
+  },
+  "label_warning": {
+    "message": "Onyo:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Chaguzi:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Default:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Kufanyika!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Ilikosa!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Desturi:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Karibu",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Imewekwa",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Fungua ukurasa",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Kubali",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Futa.",
+    "common": true
+  },
+  "label_save": {
+    "message": "Hifadhi",
+    "common": true
+  },
+  "label_required": {
+    "message": "Inahitajika",
+    "common": true
+  },
+  "label_sending": {
+    "message": "inatuma ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Kiwango:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Ukubwa:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Kuja hivi karibuni.",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Hifadhi mabadiliko",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Kuondoa mabadiliko.",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menyu.",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Tembelea Homepage.",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Msaada mradi huu",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Kusaidia msanidi wa kujitegemea!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Habari!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Mimi ni msanidi wa addon tangu 2016. Lengo langu ni kujenga upanuzi wenye nguvu kwa kivinjari chako cha wavuti ili kukuwezesha kuzalisha zaidi.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Ikiwa unafikiri ninafanya kazi nzuri, tafadhali chagua :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Mchango wako ni mapato yangu tu!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Asante kwa kuunga mkono kazi yangu!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Msaada",
+    "common": true
+  },
+  "o_title": {
+    "message": "Chaguzi - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "backup.",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Unda salama mpya",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Hifadhi Mipangilio",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Ili kuuza nje data yako kwenye faili, fungua dirisha hili kwenye kichupo kipya.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Bonyeza haki / \"Pakua faili iliyounganishwa\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Mkuu",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Background",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Menyu ya Muktadha.",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Vidokezo",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Shortcuts.",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Ingiza / Backup.",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Mipangilio",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Mandhari:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Mkuu:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "walemavu.",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "imewezeshwa",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels.",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "sekunde",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Menyu ya Muktadha:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Zima orodha ya Muktadha: $1.",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Backup / kurejesha mipangilio ya faili:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Import.",
+    "common": true
+  },
+  "title_import": {
+    "message": "Import.",
+    "common": true
+  },
+  "title_export": {
+    "message": "Export.",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Export Backup.",
+    "common": true
+  },
+  "label_or": {
+    "message": "au",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Hello :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Jina langu ni $1$ na mimi ni mwandishi wa $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Ikiwa unapenda, tafadhali piga kiwango hapa:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Ikiwa hupendi, tafadhali nijulishe kwa nini kwa barua pepe yangu. Ninatekeleza zaidi ya maombi ya kipengele ninayopokea.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Tafadhali fikiria kusaidia kazi yangu na",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Uhamisho wa Benki kwa kutumia Iban:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "mchango (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "kuwa Patron yangu",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Asante!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "nyumbani:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Wasiliana:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Ripoti masuala:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Ninaweza kujibu tu kwa Kiingereza / Kislovakia",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Mtandao wa kijamii:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Hifadhi mabadiliko na karibu.",
+    "common": true
+  },
+  "o_saved": {
+    "message": "imehifadhiwa!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Hakuna matokeo yanayofanana",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Hakuna data.",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Mode ya giza.",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Kudhibitiwa na mfumo",
+    "common": true
+  },
+  "used_space": {
+    "message": "Kutumika nafasi: $1 / $2.",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Fungua kwenye kichupo kipya",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Badilisha addon juu / mbali",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon imezimwa.",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Kwa nini?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Sera ya faragha.",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Features zilizoongezwa hivi karibuni:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

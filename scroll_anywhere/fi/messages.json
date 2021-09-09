@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "missä tahansa, painike, kohdistin, vedä, napata, napata vedä, napata ja vedä, ääretön, vasen, keski-, vauhti, hiiri, liikkua, sivua, oikeaa, selausta, vierityssivua, vierityspalkkia, vieritys, heittää"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Vedä vierityspalkki keskimmäisellä hiiren painikkeella missä tahansa sivulla. Tukee myös \"tarttua ja vedä\" tyyliä."
+  },
+  "field_int_default_value": {
+    "message": "Oletusarvo: $1, min: $2, max: $3"
+  },
+  "field_set_default": {
+    "message": "Palauta oletusarvoisesti: $1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird lisäosat"
+  },
+  "firefox_store": {
+    "message": "Firefoxin lisäosat"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store"
+  },
+  "safari_store": {
+    "message": "Mac App Storesta"
+  },
+  "win_disable": {
+    "message": "Poista käytöstä $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Poista horisontaalinen vieritys käytöstä $1"
+  },
+  "op_visit_home": {
+    "message": "Käy kotisivulla"
+  },
+  "op_support_me": {
+    "message": "Auta tätä hanketta"
+  },
+  "o_title": {
+    "message": "Asetukset - $1"
+  },
+  "o_tab_general": {
+    "message": "Yleinen"
+  },
+  "o_tab_momentum": {
+    "message": "Vauhti"
+  },
+  "o_tab_cursor": {
+    "message": "Kohdistin"
+  },
+  "o_axis_locking": {
+    "message": "Akselin lukitus"
+  },
+  "o_tab_performance": {
+    "message": "Esitys"
+  },
+  "o_tab_disabled_on": {
+    "message": "Käytössä"
+  },
+  "o_tab_advanced": {
+    "message": "Pitkälle kehittynyt"
+  },
+  "o_tab_scrollbars": {
+    "message": "Vierityspalkit"
+  },
+  "o_tab_backup": {
+    "message": "Tuo / varmuuskopiointi"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Kun vierittämällä laatikkoa, joka on rullattava yhdellä akselilla, mutta vanhempi laatikko on rullattava muussa akselissa, lukitus vierittää yhteen akseliin käyttämällä:"
+  },
+  "o_axis_lock_0": {
+    "message": "Smart Lock - Temporal Lukko käyttäen vauhtia"
+  },
+  "o_axis_lock_1": {
+    "message": "Tiukka lukko - Instant Direct Lock"
+  },
+  "o_axis_lock_2": {
+    "message": "Ei lukitusta - Ilmainen vieritys molemmissa akseleissa"
+  },
+  "o_trend_momentum_window": {
+    "message": "Älykäs lukituspinko"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Suurempi arvo vaatii enemmän vierittämistä vastakkaiseen akseliin, jotta voit vaihtaa vieritysakselin."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon on poistettu käytöstä! Klikkaa tästä, jos haluat ottaa käyttöön."
+  },
+  "o_cursor_change_default": {
+    "message": "ei muutosta - Paras suorituskyky"
+  },
+  "o_scroll_button": {
+    "message": "Scroll-painike:"
+  },
+  "o_direction_speed": {
+    "message": "Vieritä tyyli / suunta / nopeus:"
+  },
+  "o_multiplier": {
+    "message": "Kertomus"
+  },
+  "o_times_speed": {
+    "message": "kertaa vieritysnopeus"
+  },
+  "o_maximum_speed": {
+    "message": "Suurin vieritysnopeus (0 - Ei käytössä):"
+  },
+  "o_ratio_unit": {
+    "message": "suhde (sivupituus / ikkunakoko)"
+  },
+  "o_scroll_type_0": {
+    "message": "Emuloida vierityspalkkia"
+  },
+  "o_scroll_type_1": {
+    "message": "Tartu ja vedä - kuten älypuhelimella"
+  },
+  "o_scroll_type_2": {
+    "message": "Dynaaminen nopeus (kokeellinen)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Se on kuin vetää vierityspalkki"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Se on kuin vetää sivua sormella puhelimen näytöllä"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Dynaaminen nopeus tekee vieritysnopeuden hitaammin, kun sivu on pidempi"
+  },
+  "o_disable_key": {
+    "message": "Poista vieritys käytöstä / Ota käyttöön, kun näppäintä on alaspäin:"
+  },
+  "o_momentum_category": {
+    "message": "Momentti:"
+  },
+  "o_momentum_formula": {
+    "message": "Momentum Formula:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Tasaisesti hidastettu liike"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Sivun selaus hidastuu tasaisesti, kunnes se pysähtyy"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Eksponentiaalisesti hidastettu liike"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Sivun selaus nopeasti (eksponentiaalisesti) hidastuu"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Infinite liike ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Vieritys ei koskaan pysähdy"
+  },
+  "o_momentum_max_speed": {
+    "message": "Suurin nopeus (0 - Poista käytöstä):"
+  },
+  "o_page_weight": {
+    "message": "Sivun paino:"
+  },
+  "o_grams": {
+    "message": "grammaa :)"
+  },
+  "o_additional_speed": {
+    "message": "Lisäopeus:"
+  },
+  "o_pixels_second": {
+    "message": "pikselit sekunnissa"
+  },
+  "o_additional_duration": {
+    "message": "Lisäkesto:"
+  },
+  "o_advanced_momentum": {
+    "message": "Advanced Momentum Setup (vain asiantuntijoille!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Näiden arvojen muuttaminen voi rikkoa vauhtia!"
+  },
+  "o_compute_from_last": {
+    "message": "Laske viimeisestä:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Hiiren pysäytystunnistus:"
+  },
+  "o_tracking_speed": {
+    "message": "Seurannanopeus:"
+  },
+  "o_reset_values": {
+    "message": "Nollaa arvot"
+  },
+  "o_cursor_scrolling": {
+    "message": "Kohdistin käytetään vieritys:"
+  },
+  "o_performance": {
+    "message": "Esitys:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Estä suuret hyppyjä"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Jos käytät työkalua, joka voi ittää kohdistimesi näytön yli (kun pääset reunaan), ota tämä vaihtoehto mahdollistaa jatkuvan (ääretön) vierityksen."
+  },
+  "o_advanced": {
+    "message": "Pitkälle kehittynyt:"
+  },
+  "o_movement_detection": {
+    "message": "Hiiren liiketunnistuskynnys:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Kuinka monta pikselin on hiiren siirtyminen lohkolinkkiin. Joskus kun painat Scroll-painiketta, siirrä hiirtä hieman, mutta et halua, että linkki on poistettu käytöstä sen takia."
+  },
+  "o_context_menu_block": {
+    "message": "Kontekstivalikon lohko:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Unblock Context -valikon viive"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Jos näet kontekstivalikon vierityksen jälkeen hiiren oikealla painikkeella, lisää tätä arvoa"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Poista horisontaalinen vieritys verkkotunnuksista:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Ei käytössä verkkotunnuksissa:"
+  },
+  "o_is_disabled_url": {
+    "message": "Vammaiset sivuilla / alisivuilla:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Voit käyttää Star-symbolia (*) määrittämään URL-osan esimerkiksi: \"Google.com/maps\" \""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Anna yksi verkkotunnus riville."
+  },
+  "o_is_disabled": {
+    "message": "Poista lisäosa käytöstä"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Käytä työkalupalkin kuvaketta pääkytkimellä"
+  },
+  "o_scroll_button_middle": {
+    "message": "Keskipainike"
+  },
+  "o_scroll_button_right": {
+    "message": "Oikea painike"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Mac-käyttäjät - Sinua pyydetään uutta lupaa \"Lue ja muokkaa selaimen asetusta\" - Tämä edellyttää Context Menu näytetään ennen vieritystä!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac-käyttäjät - kontekstivalikko on estetty! Avaa kontekstivalikon pitämällä \"Shift\" -näppäintä tai kolminkertainen napsauttamalla oikeaa painiketta."
+  },
+  "o_scroll_button_left": {
+    "message": "Vasen painike (kokeellinen)"
+  },
+  "o_scroll_on_links": {
+    "message": "Selaa linkkejä"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Kun se on käytössä, et voi vetää ja pudottaa linkkejä (vain \"Disable\" -näppäimellä)"
+  },
+  "o_scroll_on_text": {
+    "message": "Selaa tekstiä"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emuloi puhelimen vieritys / muokkaaminen - Sinun on napsautettava tekstiä, jotta voit siirtyä \"muokkaustilaan\". Napsauttamalla tekstin ulkopuolella mahdollistaa vierityksen uudelleen."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Selaa textarea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea on tekstin lohko, joka yleensä toteuttaa. Esimerkiksi \"Pois käytöstä\" -välilehdellä näet Textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Selaa muokattavissa HTML"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Esimerkiksi Gmailin sähköpostiosoite on muokattava HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "teksti mahdollistaa tekstin valitsemisen / muokkaamisen."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Napsauta tekstiä Ota käyttöön \"Muokkaa tila\". Napsauta ulkopuolista tekstiä, jos haluat ottaa käyttöön \"Scroll Mode\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Yhdellä napsautuksella"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Tuplaklikkaus"
+  },
+  "o_scrollbars_width": {
+    "message": "Vierityspalkit näyttävät"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normaali (ei muutosta)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Ohut"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Piilotettu"
+  },
+  "o_scrollbars_color": {
+    "message": "Scrollbar Slider Väri:"
+  },
+  "o_scrollbars_background": {
+    "message": "Scrollbar tausta Väri:"
+  },
+  "o_reverse": {
+    "message": "Käänteinen vierityssuunta"
+  },
+  "o_disable_alt": {
+    "message": "ALT"
+  },
+  "o_disable_shift": {
+    "message": "Siirtää"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl"
+  },
+  "o_disable_type_0": {
+    "message": "Poista käytöstä, kun avain on alaspäin:"
+  },
+  "o_disable_type_1": {
+    "message": "Ota käyttöön, kun avain on alaspäin:"
+  },
+  "o_momentum": {
+    "message": "ota vauhti käyttöön - voit \"heittää\" sivun (kuten puhelimessa)"
+  },
+  "o_no_css_edit": {
+    "message": "Älä lukitse iFRAMESia ja älä muuta kohdistinta vierittämällä"
+  },
+  "o_no_prevent_default": {
+    "message": "Älä estä oletuspainiketta"
+  },
+  "o_auto_link_lock": {
+    "message": "Linkit estävät:"
+  },
+  "o_no_link_block": {
+    "message": "Älä estä hiiren napsauttamalla linkkiä liikkumisen jälkeen"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Kun aloitat linkin vierityksen ja lopetat sitten selauksen samalla linkillä, selain avaa linkin. Tämä ei yleensä ole toivottu käyttäytyminen, joten oletusarvoisesti se on estetty."
+  },
+  "o_page_weight_title": {
+    "message": "Tämä ohjaa, kuinka \"raskas\" sivu on. Heavier-sivuilla on enää vauhtia."
+  },
+  "o_additional_speed_title": {
+    "message": "Voit nopeuttaa vauhtia sidoksen nopeutta."
+  },
+  "o_additional_duration_title": {
+    "message": "Lisäaika jokaiselle vauhtia varten."
+  },
+  "o_compute_from_last_title": {
+    "message": "Momentum Alkuperäinen nopeus määräytyy vieritysnopeuden nopeudella ennen selauspainikkeen vapauttamista."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Kuinka paljon aikaa hiiren pysähtyy edelleen - ennen kuin vapauttaa vierityspainikkeen - ei aktivoida vauhtia."
+  },
+  "o_tracking_speed_title": {
+    "message": "Interval nykyisen vieritysnopeuden mittaamiseen."
+  },
+  "o_scrolling_area": {
+    "message": "Vieritysalue:"
+  },
+  "o_outside_area_width": {
+    "message": "Vieritysalue (0 - Ei käytössä):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Kohdistimen siirtäminen vieritysalueen ulkopuolella palaa vieritysasennon. Sama käyttäytyminen näkyy vierityspalkin vetämisessä."
+  },
+  "o_scroll_button_left_title": {
+    "message": "VAROITUS - Vasen painikkeen tuki käyttää poistettua Firefox-sovellusliittymää, joka voitaisiin poistaa Firefoxin tulevissa versioissa."
+  },
+  "o_prevent_text_selection": {
+    "message": "Estä tekstin valinta vierittämällä vasemmalla painikkeella"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Joissakin laitteissa vieritys vasemmalla hiiren painikkeella valitse myös sivun teksti."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Älä estä kontekstivalikkoa, kun yrität vierittää ei-scrollable-sivua"
+  },
+  "o_backup_restore": {
+    "message": "Varmuuskopiointi / palautusasetukset tiedostoon:"
+  },
+  "o_export_settings": {
+    "message": "Vie asetukset tiedostoon"
+  },
+  "import_settings_button": {
+    "message": "Tuo asetukset $1 tiedostosta ..."
+  },
+  "import_finished": {
+    "message": "Tuo valmis!"
+  },
+  "test_page_title": {
+    "message": "Testaa vieritysasetukset täältä"
+  },
+  "menu_options": {
+    "message": "Vaihtoehdot"
+  },
+  "menu_visit_title": {
+    "message": "Käy kotisivulla"
+  },
+  "not_working": {
+    "message": "Web-selain käytöstä"
+  },
+  "disabled_by_user": {
+    "message": "Pois käytöstä tällä verkkotunnuksella"
+  },
+  "not_working_title": {
+    "message": "Selaimesi estää scrollaania tällaisissa sivuilla:"
+  },
+  "not_working_body": {
+    "message": "Voit ottaa scrollanywhere käyttöön \"mozilla.org\" sivuilla, katso tämä YouTube-opetusohjelma"
+  },
+  "show_scrollbars": {
+    "message": "Näytä vierityspalkit"
+  },
+  "show_scrollbars_title": {
+    "message": "Näytä tilapäisesti vierityspalkit"
+  },
+  "switch_on_off": {
+    "message": "Kytke lisäosa käytöstä / päälle"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Jos havaitset näkyvää viivettä painamalla Scroll-painiketta ja käynnistää vieritys, yritä ottaa käyttöön tämä vaihtoehto. Kuitenkin et voi selata \"IFRAMES\", kuten joitakin vanhoja sulautettuja videoita tai joitain mainoksia."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Tämä poistaa myös mahdollisuuden vaihtaa kohdistinta vierittämällä."
+  },
+  "o_helper_text_default_action": {
+    "message": "Hyödyllinen Linuxissa, jotta liitä voidaan ottaa keskipainikkeella."
+  },
+  "o_about_hello": {
+    "message": "Hei :)"
+  },
+  "o_about_intro": {
+    "message": "Nimeni on $1$ ja olen kirjoittaja $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Jos pidät siitä, tarkista se täältä:"
+  },
+  "o_about_dislike_it": {
+    "message": "Jos et pidä siitä, kerro minulle miksi sähköpostini. Olen toteuttanut suurimman osan ominaisuuspyynnöistä."
+  },
+  "o_disabled": {
+    "message": "liikuntarajoitteinen",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "käytössä",
+    "common": true
+  },
+  "o_times": {
+    "message": "ajat",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pikselit",
+    "common": true
+  },
+  "o_items": {
+    "message": "tuotteet",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "millisekuntaa",
+    "common": true
+  },
+  "label_working": {
+    "message": "työskentely ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Kiinni",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Harkitse työn tukemista",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "lahjoitus (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "tulossa minun suojelija",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Kiitos!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "koti:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Ottaa yhteyttä:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Ilmoita:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Voin vastata vain englanniksi / slovakiksi",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sosiaalinen media:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Tallenna muutokset ja sulje",
+    "common": true
+  },
+  "o_saved": {
+    "message": "tallennettu!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Tulossa pian",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Tallenna muutokset",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Tietosuojakäytäntö",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Äskettäin lisätyt ominaisuudet:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tunnisteet:",
+    "common": true
+  }
+}

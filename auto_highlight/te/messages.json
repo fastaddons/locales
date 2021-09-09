@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "కొన్నిసార్లు పేజీ కేవలం బాగా రూపొందించబడలేదు మరియు మీరు వెతుకుతున్న సమాచారం తగినంత కనిపించదు."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "సాధారణ ఉపయోగ కేసులు:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "వంటి మెటాడేటా హైలైట్:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "హైలైట్ \"ఫ్రీ షిప్పింగ్\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "మీరు వెబ్లో నిర్దిష్ట ఏదో కోసం శోధిస్తున్నారా? మీరు అన్ని పేజీలలో కనుగొనడంలో సహాయపడటానికి \"తాత్కాలిక హైలైట్\" ఉపయోగించండి. మీరు మీ బ్రౌజర్ను మూసివేసినప్పుడు తాత్కాలిక ముఖ్యాంశాలు స్వీయ-తొలగించబడతాయి."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "మీరు ఫాంట్-పరిమాణాన్ని సున్నాకి లేదా వాటిని పారదర్శకంగా తయారు చేయడం ద్వారా పదాలను దాచవచ్చు."
+  },
+  "_description_tags_ah": {
+    "message": "హైలైట్, మార్క్, మెటాడేటా, చిత్రం, ఆటోమేటిక్, టెక్స్ట్, సమకాలీకరణ, ఎంపిక, శోధన"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ నిర్వచించిన పేజీలలో నిర్వచించిన పదాలను స్వయంచాలకంగా హైలైట్ చేస్తుంది."
+  },
+  "match_type": {
+    "message": "మ్యాచ్ రకం:"
+  },
+  "match_type_0": {
+    "message": "డొమైన్"
+  },
+  "match_type_1": {
+    "message": "URL ఉంది"
+  },
+  "match_type_2": {
+    "message": "URL కలిగి ఉంటుంది"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "ప్రతి పేజీ"
+  },
+  "selection_highlight": {
+    "message": "$1 హైలైట్"
+  },
+  "selection_temp": {
+    "message": "తాత్కాలికంగా $1 ను హైలైట్ చేయండి"
+  },
+  "selection_temp_everywhere": {
+    "message": "తాత్కాలికంగా $1 ప్రతిచోటా హైలైట్"
+  },
+  "page_highlight": {
+    "message": "ఈ పేజీలో $app_name$"
+  },
+  "toolbar_click_new_tab": {
+    "message": "ఎల్లప్పుడూ క్రొత్త ట్యాబ్లో తెరవండి - టూల్బార్ ఐకాన్ క్లిక్ చేసినప్పుడు"
+  },
+  "disable_rule": {
+    "message": "నిలిపివేయబడింది"
+  },
+  "temporal_rule": {
+    "message": "తాత్కాలికమైనవి"
+  },
+  "each_word": {
+    "message": "ప్రతి పదం"
+  },
+  "rules": {
+    "message": "నియమాలు"
+  },
+  "delete": {
+    "message": "తొలగింపు"
+  },
+  "rename": {
+    "message": "పేరుమార్చు"
+  },
+  "duplicate": {
+    "message": "నకిలీ"
+  },
+  "delete_rule": {
+    "message": "నియమాన్ని తొలగించండి"
+  },
+  "delete_rule_title": {
+    "message": "నిబంధనను తొలగించండి \"$1\"?"
+  },
+  "on_pages": {
+    "message": "పేజీలలో:"
+  },
+  "disabled_rule": {
+    "message": "వికలాంగ నియమం"
+  },
+  "incomplete_rule": {
+    "message": "అసంపూర్ణ రూల్"
+  },
+  "active_on_current_page": {
+    "message": "ప్రస్తుత పేజీలో చురుకుగా ఉంటుంది"
+  },
+  "temporal_rule_helper": {
+    "message": "టెంపోరల్ పాలన - బ్రౌజర్ పునఃప్రారంభం తర్వాత తొలగించబడుతుంది"
+  },
+  "active_on_pages": {
+    "message": "పేజీలలో యాక్టివ్:"
+  },
+  "highlight_each_word_separately": {
+    "message": "విడిగా ప్రతి పదం హైలైట్"
+  },
+  "case_sensitive": {
+    "message": "కేస్ సెన్సిటివ్"
+  },
+  "ignore_diacritics": {
+    "message": "డయాక్రిటిక్స్ను విస్మరించండి"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "రెగ్యులర్ వ్యక్తీకరణ"
+  },
+  "across_elements": {
+    "message": "అంశాల అంతటా"
+  },
+  "across_elements_help": {
+    "message": "పొరుగు HTML అంశాలు అంతటా టెక్స్ట్ కోసం శోధించండి"
+  },
+  "style": {
+    "message": "శైలి"
+  },
+  "preview": {
+    "message": "ప్రివ్యూ:"
+  },
+  "empty_rule": {
+    "message": "ఖాళీ నియమం"
+  },
+  "create_new_rule": {
+    "message": "కొత్త నియమాలను సృష్టించండి"
+  },
+  "import_export": {
+    "message": "దిగుమతి ఎగుమతి"
+  },
+  "help_this_project": {
+    "message": "ఈ ప్రాజెక్ట్ సహాయం"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "ఎఫ్ ఎ క్యూ:"
+  },
+  "storage_info": {
+    "message": "నిల్వ సమాచారం:"
+  },
+  "storage_safari_1": {
+    "message": "సఫారి ప్రస్తుతం ఆటోమేటిక్ డేటా సమకాలీకరణకు మద్దతు ఇవ్వదు."
+  },
+  "storage_safari_2": {
+    "message": "(లేదా బ్యాకప్) మీ హైలైట్ నియమాలను బదిలీ చేయడానికి, \"దిగుమతి / ఎగుమతి\" లక్షణాన్ని ఉపయోగించండి."
+  },
+  "storage_info_1": {
+    "message": "మీ నియమాలు సురక్షిత $1 సమకాలీకరణను ఉపయోగించి నిల్వ చేయబడతాయి, ఇది మీ అన్ని పరికరాల మధ్య మీ నియమాలను సమకాలీకరించడానికి (మీరు అదే ఖాతాకు లాగిన్ అయినట్లయితే)."
+  },
+  "storage_info_2": {
+    "message": "ఈ క్లౌడ్ నిల్వ 100 KB డేటాను మరియు 500 హైలైట్ నియమాలను నిల్వ చేస్తుంది."
+  },
+  "storage_info_3": {
+    "message": "\"దిగుమతి / ఎగుమతి\" లక్షణాన్ని ఉపయోగించి ఫైల్ను మీ నియమాలను (బ్యాకప్) ఎగుమతి చేయవచ్చు మరియు ఇతర పరికరాల్లో దాన్ని దిగుమతి చేసుకోవచ్చు."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "ఇప్పటికే ఉన్న హైలైట్ నియమాలను భర్తీ చేయండి"
+  },
+  "add_page_to_highlight_on": {
+    "message": "హైలైట్ చేయడానికి పేజీని జోడించండి"
+  },
+  "remove_highlight_from_page": {
+    "message": "పేజీ నుండి హైలైట్ తొలగించండి"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "ఇటాలిక్"
+  },
+  "underline": {
+    "message": "అండర్లైన్"
+  },
+  "background_color": {
+    "message": "నేపథ్య రంగు"
+  },
+  "background": {
+    "message": "నేపథ్య"
+  },
+  "text_color": {
+    "message": "టెక్స్ట్ రంగు"
+  },
+  "color": {
+    "message": "రంగు"
+  },
+  "font_size": {
+    "message": "ఫాంట్ పరిమాణం"
+  },
+  "rule_name": {
+    "message": "నియమం పేరు"
+  },
+  "highlight_regular_expression": {
+    "message": "హైలైట్ రెగ్యులర్ వ్యక్తీకరణ:"
+  },
+  "highlight_text": {
+    "message": "హైలైట్ టెక్స్ట్:"
+  },
+  "highlight_on_pages": {
+    "message": "పేజీలలో హైలైట్"
+  },
+  "empty_name_helper": {
+    "message": "పేరు \"హైలైట్డ్ టెక్స్ట్\" ను ఉపయోగించడానికి ఖాళీని వదిలివేయండి"
+  },
+  "faq_1": {
+    "message": "ప్రస్తుత పేజీలో త్వరగా పదం హైలైట్ ఎలా?"
+  },
+  "faq_1a": {
+    "message": "సందర్భ మెనుని ఉపయోగించండి - టెక్స్ట్ / కుడి క్లిక్ / \"ఆటో హైలైట్\" ఎంచుకోండి. మీరు ఒక పేజీలో కుడి క్లిక్ చేస్తే (టెక్స్ట్ను ఎంచుకోకుండా) మీరు ప్రస్తుత పేజీకి ఇప్పటికే ఉన్న నియమాలను దరఖాస్తు చేసుకోవచ్చు."
+  },
+  "faq_2": {
+    "message": "నేను బహుళ పదాలను హైలైట్ చేయాలనుకుంటున్నాను, ప్రతి పదం విడిగా ప్రతి పదం కోసం కొత్త నియమం సృష్టించాలి?"
+  },
+  "faq_2a": {
+    "message": "లేదు, \"ప్రతి పదం\" చెక్బాక్స్ను తనిఖీ చేయండి. ప్రతి పదం విడిగా హైలైట్ చేయబడుతుంది."
+  },
+  "faq_3": {
+    "message": "ఆ \"RegExp\" అంటే ఏమిటి?"
+  },
+  "faq_3a": {
+    "message": "రెగ్యులర్ వ్యక్తీకరణగా కూడా పిలువబడుతుంది, ఇది ఒక శోధన నమూనాను నిర్వచించే అక్షరాల క్రమం. ఇది కొన్ని సారూప్య నమూనాతో సంక్లిష్ట హైలైటింగ్ను అనుమతించే సంక్లిష్టమైన నిర్మాణం. ఉదాహరణకు ధరలు, తేదీలు, ఫోన్ నంబర్లు మొదలైనవి ..."
+  },
+  "faq_4": {
+    "message": "మీరు నాకు కొన్ని RegExp ఉదాహరణలు చూపించగలరా?"
+  },
+  "faq_4a": {
+    "message": "$1 వంటి అన్ని ధరలను హైలైట్ చేయండి"
+  },
+  "faq_5": {
+    "message": "మీరు ఆ వివరిస్తారా?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" హైలైట్స్ డాలర్ సైన్. డాలర్ RegExp లో ఒక ప్రత్యేక అర్ధాన్ని కలిగి ఉన్నందున ఇక్కడ బాక్ స్లాష్ అవసరమవుతుంది."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" హైలైట్ సింగిల్ అంకె"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" అనగా ఒకటి లేదా అంతకంటే ఎక్కువ సార్లు పునరావృతం చేయండి. అంకెల సెలెక్టర్ $2$ తర్వాత ఉంచినప్పుడు, ఇది ఒకటి లేదా అంతకంటే ఎక్కువ అంకెలు."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" ముఖ్యాంశాలు డాట్. డాట్ సింబల్ మాత్రమే RegExp లో ఏ ఒక్క పాత్ర అని బాక్స్లాష్ అవసరం."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" సున్నా లేదా ఒక సారి. బ్రాకెట్లలో $2$ తర్వాత ఉంచినప్పుడు, ఆ బ్రాకెట్లలో ఉన్నది ఐచ్ఛికం (అక్కడ ఉంటుంది, లేదా కాదు). ఐచ్ఛికం అయిన సంఖ్య యొక్క దశాంశ భాగానికి మేము దాన్ని ఉపయోగిస్తాము."
+  },
+  "faq_5f": {
+    "message": "RegExp నియమాల గురించి మరింత సమాచారం"
+  },
+  "import_finished": {
+    "message": "దిగుమతి పూర్తయింది!",
+    "common": true
+  },
+  "import_error": {
+    "message": "లోపం",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "దిగుమతి బ్యాకప్ ఫైల్ $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "హోమ్పేజీ",
+    "common": true
+  },
+  "addon_page": {
+    "message": "యాడ్ఆన్ పేజీ",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome వెబ్ స్టోర్",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox add-ons",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "థండర్బర్డ్ యాడ్-ఆన్లు",
+    "common": true
+  },
+  "menu_options": {
+    "message": "ఐచ్ఛికాలు",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "ఫాంట్ పరిమాణం",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "సైడ్బార్ పరిమాణం",
+    "common": true
+  },
+  "label_next": {
+    "message": "తరువాత",
+    "common": true
+  },
+  "label_note": {
+    "message": "గమనిక:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "తొలగించు",
+    "common": true
+  },
+  "label_warning": {
+    "message": "హెచ్చరిక:",
+    "common": true
+  },
+  "label_options": {
+    "message": "ఐచ్ఛికాలు:",
+    "common": true
+  },
+  "label_default": {
+    "message": "డిఫాల్ట్:",
+    "common": true
+  },
+  "label_done": {
+    "message": "పూర్తి!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "కాపీ!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "కస్టమ్:",
+    "common": true
+  },
+  "label_close": {
+    "message": "దగ్గరగా",
+    "common": true
+  },
+  "label_installed": {
+    "message": "ఇన్స్టాల్ చేయబడింది",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "పేజీని తెరవండి",
+    "common": true
+  },
+  "label_agree": {
+    "message": "అంగీకరిస్తున్నారు",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "రద్దు చేయండి",
+    "common": true
+  },
+  "label_save": {
+    "message": "సేవ్",
+    "common": true
+  },
+  "label_required": {
+    "message": "అవసరం",
+    "common": true
+  },
+  "label_sending": {
+    "message": "పంపడం ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "స్కేల్:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "జూమ్:",
+    "common": true
+  },
+  "label_size": {
+    "message": "పరిమాణం:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "త్వరలో",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "మార్పులను ఊంచు",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "మార్పులను విస్మరించు",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "మెను",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "హోమ్పేజీని సందర్శించండి",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "ఈ ప్రాజెక్ట్ సహాయం",
+    "common": true
+  },
+  "support_developer": {
+    "message": "స్వతంత్ర డెవలపర్ మద్దతు!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "ఉన్నారా!",
+    "common": true
+  },
+  "about_me": {
+    "message": "నేను 2016 నుండి యాడ్ఆన్ డెవలపర్ ఉన్నాను. నా లక్ష్యం మీ వెబ్ బ్రౌజర్ కోసం మీరు మరింత ఉత్పాదకంగా చేయడానికి శక్తివంతమైన పొడిగింపులను నిర్మించడం.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "నేను మంచి ఉద్యోగం చేస్తున్నానని అనుకుంటే, దయచేసి దానం చేయండి :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "మీ విరాళం నా మాత్రమే ఆదాయం!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "నా పనికి మద్దతు ఇచ్చినందుకు ధన్యవాదాలు!",
+    "common": true
+  },
+  "op_help": {
+    "message": "సహాయం",
+    "common": true
+  },
+  "o_title": {
+    "message": "ఐచ్ఛికాలు - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "బ్యాకప్",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "కొత్త బ్యాకప్ సృష్టించండి",
+    "common": true
+  },
+  "save_settings": {
+    "message": "అమరికలను భద్రపరచు",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "ఒక ఫైల్ కు మీ డేటాను ఎగుమతి చేయడానికి, ఈ విండోను క్రొత్త ట్యాబ్లో తిరిగి తెరవండి.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "కుడి క్లిక్ / \"డౌన్లోడ్ లింక్ ఫైల్\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "జనరల్",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "నేపథ్య",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "కాంటెక్స్ట్ మెను",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "సూక్ష్మచిత్రాలను",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "సత్వరమార్గములు",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "దిగుమతి / బ్యాకప్",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "సెట్టింగులు",
+    "common": true
+  },
+  "o_theme": {
+    "message": "థీమ్:",
+    "common": true
+  },
+  "o_general": {
+    "message": "జనరల్:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "నిలిపివేయబడింది",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "ప్రారంభించబడింది",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "పిక్సెల్స్",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "సెకనుల",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "కాంటెక్స్ట్ మెను:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "కాంటెక్స్ట్ మెనుని ఆపివేయి: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "ఫైల్ను బ్యాకప్ / పునరుద్ధరించండి:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "దిగుమతి",
+    "common": true
+  },
+  "title_import": {
+    "message": "దిగుమతి",
+    "common": true
+  },
+  "title_export": {
+    "message": "ఎగుమతి",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "బ్యాకప్ను ఎగుమతి చేయండి",
+    "common": true
+  },
+  "label_or": {
+    "message": "లేక",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "హలో :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "నా పేరు $1$ మరియు $app_name$ రచయిత.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "మీకు కావాలనుకుంటే, దయచేసి ఇక్కడ రేట్ చేయండి:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "మీకు నచ్చకపోతే, దయచేసి నా ఇ-మెయిల్కు ఎందుకు నాకు తెలపండి. నేను అందుకున్న ఫీచర్-అభ్యర్థనలను ఎక్కువగా అమలు చేస్తున్నాను.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "దయచేసి నా పనిని మద్దతునివ్వండి",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "ఐకాన్ ఉపయోగించి బ్యాంకు బదిలీ:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "విరాళం (పేపాల్)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "నా పోషకుడిగా మారింది",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "ధన్యవాదాలు!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "హోమ్:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "సంప్రదించండి:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "నివేదిక సమస్యలు:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "నేను ఇంగ్లీష్ / స్లోవాక్లో మాత్రమే ప్రత్యుత్తరం ఇవ్వగలను",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "సాంఘిక ప్రసార మాధ్యమం:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "మార్పులను మరియు దగ్గరగా సేవ్ చేయండి",
+    "common": true
+  },
+  "o_saved": {
+    "message": "సేవ్!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "సరిపోలే ఫలితాలు లేవు",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "సమాచారం లేదు",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "డార్క్ మోడ్",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "వ్యవస్థ ద్వారా నియంత్రించబడుతుంది",
+    "common": true
+  },
+  "used_space": {
+    "message": "ఉపయోగించిన స్థలం: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "క్రొత్త ట్యాబ్లో తెరవండి",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Addon ఆన్ / ఆఫ్ మారండి",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "యాడ్ఆన్ నిలిపివేయబడింది",
+    "common": true
+  },
+  "_description_why": {
+    "message": "ఎందుకు?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "గోప్యతా విధానం",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "ఇటీవల జోడించిన లక్షణాలు:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "టాగ్లు:",
+    "common": true
+  }
+}

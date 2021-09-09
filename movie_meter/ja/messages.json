@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "日付、IMDB、説明、エピソード、ゲージ、グラフ、IMDB、情報、メーター、映画、フィルム、映画、Netflix、IMDB、評価、シリーズ、ショー、テレビ、テレビ番組、ビデオ、ビジュアル、投票、季節"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "映画が見つかりません/間違った映画が見つかりました - ターゲットページとの「公式」統合がありませんので、100％正しい結果を保証することはできません（ただし、それは完全に機能します）。"
+  },
+  "_description_mm_not_working": {
+    "message": "あなたのお気に入りの映画ページには機能しませんか？"
+  },
+  "_description_mm_add_support": {
+    "message": "私に連絡してください、私はそれを追加します - 可能であれば（ページに英語または $visit_imdb$ リンクで映画名を含める必要があります）。"
+  },
+  "_description_mm_feature_1": {
+    "message": "映画の評価と$visit_imdb$からの人気"
+  },
+  "_description_mm_feature_2": {
+    "message": "$visit_tvmaze$からの次/前のエピソード日付"
+  },
+  "_description_mm_feature_3": {
+    "message": "追加の映画/テレビシリーズの情報"
+  },
+  "_description_mm_feature_4": {
+    "message": "新しいエピソードに関する通知"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark TVシリーズをお気に入りとしてマークしており、新しいエピソードが利用可能な場合は通知が取得されます。"
+  },
+  "_description_mm_feature_7": {
+    "message": "ビデオ再生が検出されたときに自動非表示"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$はあなたに映画の評価と人気が表示されます（またはテレビシリーズ）"
+  },
+  "name": {
+    "message": "名前"
+  },
+  "year": {
+    "message": "年"
+  },
+  "video_type": {
+    "message": "タイプ"
+  },
+  "video_type_0": {
+    "message": "映画"
+  },
+  "video_type_1": {
+    "message": "シリーズ"
+  },
+  "video_type_2": {
+    "message": "エピソード"
+  },
+  "runtime": {
+    "message": "ランタイム"
+  },
+  "premiered": {
+    "message": "初めて"
+  },
+  "premiere_in": {
+    "message": "プレミア"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "国"
+  },
+  "actors": {
+    "message": "俳優"
+  },
+  "dvd": {
+    "message": "DVD"
+  },
+  "director": {
+    "message": "ディレクター"
+  },
+  "totalseasons": {
+    "message": "総季節"
+  },
+  "writer": {
+    "message": "作家"
+  },
+  "language": {
+    "message": "言語"
+  },
+  "awards": {
+    "message": "賞"
+  },
+  "rated": {
+    "message": "定格された"
+  },
+  "production": {
+    "message": "製造"
+  },
+  "plot": {
+    "message": "プロット"
+  },
+  "website": {
+    "message": "ウェブサイト"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "$visit_imdb$ページにアクセスしてください"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "このショーのために$visit_tvmaze$ページを参照してください"
+  },
+  "make_favorite": {
+    "message": "Favorite favorite"
+  },
+  "make_favorite_title": {
+    "message": "TVシリーズをお気に入りに追加します。 これにより、新しいエピソードに関する通知を受け取ることができます。"
+  },
+  "last_episode": {
+    "message": "最終"
+  },
+  "next_episode": {
+    "message": "次"
+  },
+  "last_episode_title": {
+    "message": "最終話"
+  },
+  "next_episode_title": {
+    "message": "次のエピソード"
+  },
+  "episode_airtime": {
+    "message": "航空券"
+  },
+  "episode_name": {
+    "message": "名前"
+  },
+  "series_status": {
+    "message": "状態"
+  },
+  "episodes_count": {
+    "message": "エピソード"
+  },
+  "episodes_count_title": {
+    "message": "現在のシーズン$1があります$2エピソード"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "日々"
+  },
+  "hours": {
+    "message": "時間"
+  },
+  "na": {
+    "message": "利用不可"
+  },
+  "user_rating": {
+    "message": "ユーザー評価：$1."
+  },
+  "user_popularity": {
+    "message": "人気：$1票"
+  },
+  "source": {
+    "message": "ソース：$1."
+  },
+  "show_details": {
+    "message": "もっと..."
+  },
+  "hide_details": {
+    "message": "もっと少なく..."
+  },
+  "save_position": {
+    "message": "節約を節約します"
+  },
+  "revert_position": {
+    "message": "位置を元に戻す"
+  },
+  "win_disable": {
+    "message": "$1を無効にする"
+  },
+  "cm_advanced": {
+    "message": "先進的に"
+  },
+  "op_visit_home": {
+    "message": "ホームページを訪問してください"
+  },
+  "op_support_me": {
+    "message": "このプロジェクトを支援します"
+  },
+  "hide": {
+    "message": "ウィンドウを隠す"
+  },
+  "show": {
+    "message": "窓を表示します"
+  },
+  "reset_position": {
+    "message": "位置をリセットします"
+  },
+  "search": {
+    "message": "探す"
+  },
+  "configure_search": {
+    "message": "検索オプションを設定します"
+  },
+  "selection_search": {
+    "message": "検索$1."
+  },
+  "menu_options": {
+    "message": "オプション"
+  },
+  "menu_quick_options": {
+    "message": "クイックオプション"
+  },
+  "menu_visit_homepage": {
+    "message": "ホームページを訪問してください"
+  },
+  "menu_request_support": {
+    "message": "$1のサポートを要求します"
+  },
+  "show_introduction": {
+    "message": "紹介ページを表示"
+  },
+  "o_about_issues": {
+    "message": "問題の報告："
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "firefox_store": {
+    "message": "Firefoxアドオン"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store"
+  },
+  "movie_not_detected": {
+    "message": "映画が検出されません"
+  },
+  "movie_not_detected_title": {
+    "message": "このページではムービー/ TVシリーズが検出されませんでした。"
+  },
+  "movie_not_found": {
+    "message": "映画が見つかりません"
+  },
+  "movie_not_found_title": {
+    "message": "ムービー情報はサーバー上に見つかりませんでした。"
+  },
+  "status_type_0": {
+    "message": "ランニング"
+  },
+  "status_type_1": {
+    "message": "終了しました"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "ショーは続行されます"
+  },
+  "status_type_title_1": {
+    "message": "ショーは終了しました - それ以上季節が計画されていない"
+  },
+  "status_type_title_2": {
+    "message": "未来は不明確です"
+  },
+  "notify_movie_not_found": {
+    "message": "ムービーが見つかりません：$1."
+  },
+  "notify_movie_not_found_body": {
+    "message": "英語の映画名のみを使用してください。"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "検索は完璧ではありません..."
+  },
+  "notify_video_hide": {
+    "message": "Video検出 -  $app_name$が隠れています"
+  },
+  "notify_video_hide_body": {
+    "message": "この通知をもう一度表示しないでください"
+  },
+  "notify_new_episodes": {
+    "message": "新しいエピソードが放映されました"
+  },
+  "title_introduction": {
+    "message": "前書き"
+  },
+  "supported_pages": {
+    "message": "サポートされているページ："
+  },
+  "supported_grows": {
+    "message": "（このリストは大きくて大きくなります）"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "評価と人気情報は$1$からのものです。 エピソードに関する情報は$2$からです。"
+  },
+  "title_got_it": {
+    "message": "それを手に入れた、始めましょう！"
+  },
+  "_description_privacy_policy": {
+    "message": "個人情報保護方針"
+  },
+  "_description_recent_features": {
+    "message": "最近追加された機能："
+  },
+  "_description_known_issues": {
+    "message": "既知の問題点："
+  },
+  "_description_common_tags": {
+    "message": "タグ："
+  },
+  "_description_features": {
+    "message": "特徴："
+  },
+  "about_me": {
+    "message": "私は2016年からアドオン開発者です。私の目標はあなたのWebブラウザのための強力な拡張を構築してあなたをより生産的にすることです。"
+  },
+  "about_good_job": {
+    "message": "あなたが私が良い仕事をしていると思うならば、寄付してください:)"
+  },
+  "about_income": {
+    "message": "あなたの寄付は私の唯一の収入です！"
+  },
+  "about_thanks": {
+    "message": "私の仕事を支えてくれてありがとう！"
+  },
+  "o_about_support_by_iban": {
+    "message": "IBANを使用した銀行振込："
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "独立開発者をサポート！"
+  }
+}

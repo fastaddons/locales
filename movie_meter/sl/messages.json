@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "datum, IMDB, Opis, Episode, Merilnik, Graph, IMDB, Info, Merilnik, Movie, Film, Filmi, Netflix, IMDB, Ocena, Series, Shows, TV, TV Show, Video, Visual, Glasu, Sezona"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "film Ni mogoče najti / Napačen film Najden - Ker ni \"uradno\" integracijo s ciljnimi stranemi, ne morem zagotoviti 100% pravilnih rezultatov (vendar v večini primerov deluje popolnoma)"
+  },
+  "_description_mm_not_working": {
+    "message": "Ne deluje na vaši najljubši filmski strani?"
+  },
+  "_description_mm_add_support": {
+    "message": "Kontaktirajte me in jo bom dodal - če je mogoče (stran mora vsebovati ime filma v angleščini ali $visit_imdb$ povezavo)."
+  },
+  "_description_mm_feature_1": {
+    "message": "ocena in priljubljenost filma iz $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "naslednja / prejšnji datum epizode od $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "dodatne informacije o filmu / TV seriji"
+  },
+  "_description_mm_feature_4": {
+    "message": "obvestilo o novi epizodi"
+  },
+  "_description_mm_feature_5": {
+    "message": "označite TV serije kot priljubljene in dobite obvestilo, ko je na voljo nova epizoda"
+  },
+  "_description_mm_feature_7": {
+    "message": "samodejno skrivanje, ko je zaznan predvajanje videa"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ vam bo pokazala oceno in priljubljenost filma (ali TV serije)"
+  },
+  "name": {
+    "message": "Ime"
+  },
+  "year": {
+    "message": "Leto"
+  },
+  "video_type": {
+    "message": "Tip."
+  },
+  "video_type_0": {
+    "message": "Film."
+  },
+  "video_type_1": {
+    "message": "Serija"
+  },
+  "video_type_2": {
+    "message": "Epizoda"
+  },
+  "runtime": {
+    "message": "Runtime."
+  },
+  "premiered": {
+    "message": "Premiera."
+  },
+  "premiere_in": {
+    "message": "Premiera v."
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Država"
+  },
+  "actors": {
+    "message": "Igralci"
+  },
+  "dvd": {
+    "message": "DVD."
+  },
+  "director": {
+    "message": "Direktorica"
+  },
+  "totalseasons": {
+    "message": "Total Seasons."
+  },
+  "writer": {
+    "message": "Pisatelj"
+  },
+  "language": {
+    "message": "Jezik"
+  },
+  "awards": {
+    "message": "Nagrade"
+  },
+  "rated": {
+    "message": "Ocenjeno"
+  },
+  "production": {
+    "message": "Proizvodnja"
+  },
+  "plot": {
+    "message": "Plot."
+  },
+  "website": {
+    "message": "Spletna stran"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Obiščite $visit_imdb$ Stran"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Obiščite $visit_tvmaze$ Stran za to predstavo"
+  },
+  "make_favorite": {
+    "message": "Najljubši"
+  },
+  "make_favorite_title": {
+    "message": "Dodajte TV serijo na priljubljene. To vam bo omogočilo prejemanje obvestila o novih epizodah."
+  },
+  "last_episode": {
+    "message": "Zadnja"
+  },
+  "next_episode": {
+    "message": "Naslednji"
+  },
+  "last_episode_title": {
+    "message": "Zadnja epizoda"
+  },
+  "next_episode_title": {
+    "message": "Naslednja epizoda"
+  },
+  "episode_airtime": {
+    "message": "AIRTIME."
+  },
+  "episode_name": {
+    "message": "Ime"
+  },
+  "series_status": {
+    "message": "Stanje"
+  },
+  "episodes_count": {
+    "message": "Epizode"
+  },
+  "episodes_count_title": {
+    "message": "Trenutna sezona $1 ima $2 Epizode"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "dnevi"
+  },
+  "hours": {
+    "message": "ure"
+  },
+  "na": {
+    "message": "Ni na voljo"
+  },
+  "user_rating": {
+    "message": "Ocena uporabnika: $1"
+  },
+  "user_popularity": {
+    "message": "Priljubljenost: $1 Glasovi"
+  },
+  "source": {
+    "message": "Vir: $1"
+  },
+  "show_details": {
+    "message": "več ..."
+  },
+  "hide_details": {
+    "message": "manj ..."
+  },
+  "save_position": {
+    "message": "Shrani položaj"
+  },
+  "revert_position": {
+    "message": "Ponavljajte položaj"
+  },
+  "win_disable": {
+    "message": "Onemogoči na $1"
+  },
+  "cm_advanced": {
+    "message": "Napredoval"
+  },
+  "op_visit_home": {
+    "message": "Obiščite domačo stran"
+  },
+  "op_support_me": {
+    "message": "Pomagajte ta projekt"
+  },
+  "hide": {
+    "message": "Skrij okno"
+  },
+  "show": {
+    "message": "Pokaži okno"
+  },
+  "reset_position": {
+    "message": "Ponastavi položaj"
+  },
+  "search": {
+    "message": "Iskanje"
+  },
+  "configure_search": {
+    "message": "Konfigurirajte možnosti iskanja"
+  },
+  "selection_search": {
+    "message": "Išči $1."
+  },
+  "menu_options": {
+    "message": "Opcije"
+  },
+  "menu_quick_options": {
+    "message": "Hitre možnosti"
+  },
+  "menu_visit_homepage": {
+    "message": "Obiščite domačo stran"
+  },
+  "menu_request_support": {
+    "message": "Zahtevajte podporo za $1"
+  },
+  "show_introduction": {
+    "message": "Pokaži uvod Page."
+  },
+  "o_about_issues": {
+    "message": "Vprašanja poročila:"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "firefox_store": {
+    "message": "Firefox dodatki"
+  },
+  "chrome_store": {
+    "message": "Spletna trgovina Chrome."
+  },
+  "movie_not_detected": {
+    "message": "Film ni zaznan"
+  },
+  "movie_not_detected_title": {
+    "message": "Na tej strani ni bila zaznana nobena serija filmov / TV."
+  },
+  "movie_not_found": {
+    "message": "Movie ni našli"
+  },
+  "movie_not_found_title": {
+    "message": "Na strežniku ni bilo mogoče najti informacij o filmu."
+  },
+  "status_type_0": {
+    "message": "Tek"
+  },
+  "status_type_1": {
+    "message": "Končal"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Show bo nadaljeval"
+  },
+  "status_type_title_1": {
+    "message": "Show se je končala - ni načrtovanih več let"
+  },
+  "status_type_title_2": {
+    "message": "Prihodnost je nejasna"
+  },
+  "notify_movie_not_found": {
+    "message": "Film ni bil najden: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Uporabite samo angleško ime filma!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Iskanje ni popolno ..."
+  },
+  "notify_video_hide": {
+    "message": "Video zaznan - $app_name$ je zdaj skrit"
+  },
+  "notify_video_hide_body": {
+    "message": "Kliknite tukaj, da ne prikažete tega obvestila"
+  },
+  "notify_new_episodes": {
+    "message": "Nova epizoda je bila predvajana"
+  },
+  "title_introduction": {
+    "message": "Uvod"
+  },
+  "supported_pages": {
+    "message": "Podprte strani:"
+  },
+  "supported_grows": {
+    "message": "(Ta seznam raste večje in večje)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Informacije o ocenah in priljubljenosti so iz $1$. Informacije o epizodah so iz $2$."
+  },
+  "title_got_it": {
+    "message": "Dobil je, začeti smo!"
+  },
+  "_description_privacy_policy": {
+    "message": "Pravilnik o zasebnosti"
+  },
+  "_description_recent_features": {
+    "message": "Nedavno dodane funkcije:"
+  },
+  "_description_known_issues": {
+    "message": "Znana vprašanja:"
+  },
+  "_description_common_tags": {
+    "message": "Oznake:"
+  },
+  "_description_features": {
+    "message": "Lastnosti:"
+  },
+  "about_me": {
+    "message": "Jaz sem addon razvijalec od leta 2016. Moj cilj je graditi močne razširitve za vaš spletni brskalnik, da bi vas bolj produktivno."
+  },
+  "about_good_job": {
+    "message": "Če misliš, da delam dobro delo, prosim donirajte :)"
+  },
+  "about_income": {
+    "message": "Vaša donacija je moj edini dohodek!"
+  },
+  "about_thanks": {
+    "message": "Hvala, ker ste podprli moje delo!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Bančni prenos z uporabo IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Podpora neodvisnemu razvijalcu!"
+  }
+}

@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "কখনও কখনও পৃষ্ঠাটি ঠিক ডিজাইন করা হয় না এবং আপনি যে তথ্যটি খুঁজছেন তা যথেষ্ট দৃশ্যমান নয়।"
+  },
+  "_description_ah_use_cases_0": {
+    "message": "সাধারণ ব্যবহার-ক্ষেত্রে:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "মত মেটাডাটা হাইলাইট করুন:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "\"ফ্রি শিপিং\" হাইলাইট :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "আপনি ওয়েবে কিছু নির্দিষ্ট জন্য অনুসন্ধান করা হয়? আপনি সমস্ত পৃষ্ঠায় এটি খুঁজে পেতে সাহায্য করার জন্য \"টেম্পোরাল হাইলাইট\" ব্যবহার করুন। আপনি আপনার ব্রাউজারটি বন্ধ করার সময় অস্থায়ী হাইলাইটগুলি স্বয়ংক্রিয়ভাবে মুছে ফেলা হয়।"
+  },
+  "_description_ah_use_cases_4": {
+    "message": "আপনি ফন্ট-আকার শূন্যে বা তাদের স্বচ্ছ করে তৈরি করে শব্দগুলি লুকাতে পারেন।"
+  },
+  "_description_tags_ah": {
+    "message": "হাইলাইট, মার্ক, মেটাডেটা, সিনেমা, স্বয়ংক্রিয়, পাঠ্য, সিঙ্ক্রোনাইজেশন, নির্বাচন, অনুসন্ধান"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ স্বয়ংক্রিয়ভাবে সংজ্ঞায়িত পৃষ্ঠাগুলিতে নির্ধারিত শব্দগুলি হাইলাইট করবে।"
+  },
+  "match_type": {
+    "message": "ম্যাচ প্রকার:"
+  },
+  "match_type_0": {
+    "message": "ডোমেইন হয়"
+  },
+  "match_type_1": {
+    "message": "ইউআরএল"
+  },
+  "match_type_2": {
+    "message": "ইউআরএল রয়েছে"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "প্রতি পাতা"
+  },
+  "selection_highlight": {
+    "message": "$1 হাইলাইট করুন"
+  },
+  "selection_temp": {
+    "message": "সাময়িকভাবে $1 হাইলাইট করুন"
+  },
+  "selection_temp_everywhere": {
+    "message": "সাময়িকভাবে $1 সর্বত্র হাইলাইট"
+  },
+  "page_highlight": {
+    "message": "এই পৃষ্ঠায় $app_name$"
+  },
+  "toolbar_click_new_tab": {
+    "message": "সর্বদা নতুন ট্যাবে খুলুন - টুলবার আইকনে ক্লিক করার সময়"
+  },
+  "disable_rule": {
+    "message": "নিষ্ক্রিয়"
+  },
+  "temporal_rule": {
+    "message": "Temporal."
+  },
+  "each_word": {
+    "message": "প্রতিটি শব্দ"
+  },
+  "rules": {
+    "message": "নিয়মাবলী"
+  },
+  "delete": {
+    "message": "মুছে ফেলা"
+  },
+  "rename": {
+    "message": "নামকরণ করা হয়"
+  },
+  "duplicate": {
+    "message": "প্রতিলিপি"
+  },
+  "delete_rule": {
+    "message": "নিয়ম মুছে ফেলুন"
+  },
+  "delete_rule_title": {
+    "message": "নিয়ম মুছুন \"$1\"?"
+  },
+  "on_pages": {
+    "message": "পেজে:"
+  },
+  "disabled_rule": {
+    "message": "নিষ্ক্রিয় নিয়ম"
+  },
+  "incomplete_rule": {
+    "message": "অসম্পূর্ণ শাসন"
+  },
+  "active_on_current_page": {
+    "message": "বর্তমান পৃষ্ঠায় সক্রিয়"
+  },
+  "temporal_rule_helper": {
+    "message": "অস্থায়ী নিয়ম - ব্রাউজার পুনরায় আরম্ভ করার পরে মুছে ফেলা হবে"
+  },
+  "active_on_pages": {
+    "message": "পৃষ্ঠাতে সক্রিয়:"
+  },
+  "highlight_each_word_separately": {
+    "message": "আলাদাভাবে প্রতিটি শব্দ হাইলাইট"
+  },
+  "case_sensitive": {
+    "message": "কেস সংবেদনশীল"
+  },
+  "ignore_diacritics": {
+    "message": "Diacritics উপেক্ষা করুন"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "নিয়মিত অভিব্যক্তি"
+  },
+  "across_elements": {
+    "message": "উপাদান জুড়ে"
+  },
+  "across_elements_help": {
+    "message": "প্রতিবেশী এইচটিএমএল উপাদান জুড়ে টেক্সট জন্য অনুসন্ধান করুন"
+  },
+  "style": {
+    "message": "স্টাইল"
+  },
+  "preview": {
+    "message": "পূর্বরূপ:"
+  },
+  "empty_rule": {
+    "message": "খালি নিয়ম"
+  },
+  "create_new_rule": {
+    "message": "নতুন নিয়ম তৈরি করুন"
+  },
+  "import_export": {
+    "message": "আমদানি রপ্তানি"
+  },
+  "help_this_project": {
+    "message": "এই প্রকল্পের সাহায্য করুন"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "FAQ:"
+  },
+  "storage_info": {
+    "message": "স্টোরেজ তথ্য:"
+  },
+  "storage_safari_1": {
+    "message": "Safari বর্তমানে স্বয়ংক্রিয় তথ্য সিঙ্ক্রোনাইজেশন সমর্থন করে না।"
+  },
+  "storage_safari_2": {
+    "message": "আপনার হাইলাইট নিয়ম স্থানান্তর (বা ব্যাকআপ), \"আমদানি / রপ্তানি\" বৈশিষ্ট্যটি ব্যবহার করুন।"
+  },
+  "storage_info_1": {
+    "message": "আপনার নিয়মগুলি নিরাপদ $1 সিঙ্ক ব্যবহার করে সংরক্ষণ করা হয় যা আপনার সমস্ত ডিভাইসের মধ্যে আপনার নিয়মগুলি সিঙ্ক্রোনাইজ করবে (যদি আপনি একই অ্যাকাউন্টে লগ ইন করেছেন)।"
+  },
+  "storage_info_2": {
+    "message": "এই ক্লাউড স্টোরেজ 100 কেবি ডেটা এবং 500 টি হাইলাইট নিয়ম সঞ্চয় করতে পারে।"
+  },
+  "storage_info_3": {
+    "message": "আপনি \"আমদানি / রপ্তানি\" বৈশিষ্ট্যটি ব্যবহার করে একটি ফাইলে আপনার নিয়মগুলি (ব্যাকআপ) রপ্তানি করতে পারেন এবং তারপরে এটি অন্যান্য ডিভাইসগুলিতে আমদানি করতে পারেন।"
+  },
+  "replace_existing_highlight_rules": {
+    "message": "বিদ্যমান হাইলাইট নিয়ম প্রতিস্থাপন করুন"
+  },
+  "add_page_to_highlight_on": {
+    "message": "উপর হাইলাইট পৃষ্ঠা যোগ করুন"
+  },
+  "remove_highlight_from_page": {
+    "message": "পাতা থেকে হাইলাইট সরান"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "ইটালিক"
+  },
+  "underline": {
+    "message": "আন্ডারলাইন"
+  },
+  "background_color": {
+    "message": "পেছনের রঙ"
+  },
+  "background": {
+    "message": "পটভূমি"
+  },
+  "text_color": {
+    "message": "লেখার রঙ"
+  },
+  "color": {
+    "message": "রঙ"
+  },
+  "font_size": {
+    "message": "অক্ষরের আকার"
+  },
+  "rule_name": {
+    "message": "নিয়ম নাম"
+  },
+  "highlight_regular_expression": {
+    "message": "নিয়মিত অভিব্যক্তি হাইলাইট করুন:"
+  },
+  "highlight_text": {
+    "message": "হাইলাইট টেক্সট:"
+  },
+  "highlight_on_pages": {
+    "message": "পেজে হাইলাইট"
+  },
+  "empty_name_helper": {
+    "message": "নাম হিসাবে \"হাইলাইট টেক্সট\" ব্যবহার খালি ছেড়ে"
+  },
+  "faq_1": {
+    "message": "কিভাবে দ্রুত বর্তমান পৃষ্ঠায় শব্দ হাইলাইট করবেন?"
+  },
+  "faq_1a": {
+    "message": "প্রসঙ্গ মেনু ব্যবহার করুন - পাঠ্য / ডান ক্লিক / \"স্বয়ংক্রিয় হাইলাইট\" নির্বাচন করুন। আপনি যদি একটি পৃষ্ঠায় ডান ক্লিক করুন (পাঠ্য নির্বাচন না করেই) আপনি বর্তমান পৃষ্ঠাতে বিদ্যমান নিয়ম প্রয়োগ করতে পারেন।"
+  },
+  "faq_2": {
+    "message": "আমি একাধিক শব্দ হাইলাইট করতে চাই, আমাকে আলাদাভাবে প্রতিটি শব্দের জন্য নতুন নিয়ম তৈরি করতে হবে?"
+  },
+  "faq_2a": {
+    "message": "না, শুধু \"প্রতিটি শব্দ\" চেকবাক্সটি চেক করুন। তারপর প্রতিটি শব্দ আলাদাভাবে হাইলাইট করা হবে।"
+  },
+  "faq_3": {
+    "message": "যে \"RegExp\" কি?"
+  },
+  "faq_3a": {
+    "message": "এছাড়াও নিয়মিত অভিব্যক্তি হিসাবে পরিচিত, এটি একটি অনুসন্ধান প্যাটার্ন সংজ্ঞায়িত অক্ষর একটি ক্রম। এটি একটি জটিল গঠন যা কিছু অনুরূপ প্যাটার্নের সাথে উপাদানগুলির জটিল হাইলাইটকে অনুমতি দেয়। উদাহরণস্বরূপ দাম, তারিখ, ফোন নম্বর, ইত্যাদি ..."
+  },
+  "faq_4": {
+    "message": "আপনি আমাকে কিছু RegExp উদাহরণ প্রদর্শন করতে পারেন?"
+  },
+  "faq_4a": {
+    "message": "$1 মত সব দাম হাইলাইট"
+  },
+  "faq_5": {
+    "message": "আপনি কি তাদের ব্যাখ্যা করতে পারেন?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" ডলার সাইন হাইলাইট করুন। ব্যাকস্ল্যাশ এখানে প্রয়োজন কারণ ডলার RegExp একটি বিশেষ অর্থ আছে।"
+  },
+  "faq_5b": {
+    "message": "\"$1$\" একক অঙ্ক হাইলাইট করুন"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" মানে এক বা একাধিক বার পুনরাবৃত্তি করুন। যখন সংখ্যার নির্বাচক $2$ এর পরে স্থাপন করা হয়, তখন এটি একটি বা একাধিক সংখ্যা মানে।"
+  },
+  "faq_5d": {
+    "message": "\"$1$\" হাইলাইট ডট। Backslash আবার প্রয়োজন কারণ ডট প্রতীক একা মানে RegExp মধ্যে কোন একক চরিত্র মানে।"
+  },
+  "faq_5e": {
+    "message": "\"$1$\" শূন্য বা এক সময় মানে। বন্ধনী $2$ এর পরে স্থাপন করা হলে, এটি যে বন্ধনীগুলির ভিতরে থাকে তা ঐচ্ছিক (সেখানে থাকতে পারে না)। আমরা ঐচ্ছিক সংখ্যা দশমিক অংশের জন্য এটি ব্যবহার করি।"
+  },
+  "faq_5f": {
+    "message": "RegExp নিয়ম সম্পর্কে আরো তথ্য"
+  },
+  "import_finished": {
+    "message": "আমদানি শেষ!",
+    "common": true
+  },
+  "import_error": {
+    "message": "ত্রুটি",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "ব্যাকআপ ফাইল $1 আমদানি করুন",
+    "common": true
+  },
+  "homepage": {
+    "message": "হোমপেজে",
+    "common": true
+  },
+  "addon_page": {
+    "message": "অ্যাডঅন পৃষ্ঠা",
+    "common": true
+  },
+  "safari_store": {
+    "message": "ম্যাক অ্যাপ স্টোর",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "ক্রোম ওয়েব দোকান",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "ফায়ারফক্স অ্যাড-অন",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "থান্ডারবার্ড অ্যাড-অন",
+    "common": true
+  },
+  "menu_options": {
+    "message": "অপশন",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "অক্ষরের আকার",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "সাইডবারের আকার",
+    "common": true
+  },
+  "label_next": {
+    "message": "পরবর্তী",
+    "common": true
+  },
+  "label_note": {
+    "message": "বিঃদ্রঃ:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "অপসারণ",
+    "common": true
+  },
+  "label_warning": {
+    "message": "সতর্কতা:",
+    "common": true
+  },
+  "label_options": {
+    "message": "বিকল্প:",
+    "common": true
+  },
+  "label_default": {
+    "message": "ডিফল্ট:",
+    "common": true
+  },
+  "label_done": {
+    "message": "সম্পন্ন!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "কপি!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "কাস্টম:",
+    "common": true
+  },
+  "label_close": {
+    "message": "বন্ধ",
+    "common": true
+  },
+  "label_installed": {
+    "message": "ইনস্টল",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "খোলা পৃষ্ঠা",
+    "common": true
+  },
+  "label_agree": {
+    "message": "একমত",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "বাতিল করুন",
+    "common": true
+  },
+  "label_save": {
+    "message": "সংরক্ষণ",
+    "common": true
+  },
+  "label_required": {
+    "message": "প্রয়োজন",
+    "common": true
+  },
+  "label_sending": {
+    "message": "পাঠানো হচ্ছে ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "স্কেল:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "জুম:",
+    "common": true
+  },
+  "label_size": {
+    "message": "আকার:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "শীঘ্রই আসছে",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "পরিবর্তনগুলোর সংরক্ষন",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "পরিবর্তন বাতিল",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "তালিকা",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "হোমপেজে যান",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "এই প্রকল্পের সাহায্য করুন",
+    "common": true
+  },
+  "support_developer": {
+    "message": "স্বাধীন বিকাশকারী সমর্থন!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "হ্যালো!",
+    "common": true
+  },
+  "about_me": {
+    "message": "আমি ২016 সাল থেকে অ্যাডন ডেভেলপার। আমার লক্ষ্যটি আপনার ওয়েব ব্রাউজারের জন্য আরও বেশি উত্পাদনশীল করার জন্য শক্তিশালী এক্সটেনশান তৈরি করা।",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "যদি আপনি মনে করেন আমি একটি ভাল কাজ করছি, দয়া করে দান করুন :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "আপনার দান আমার একমাত্র আয়!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "আমার কাজ সমর্থন করার জন্য আপনাকে ধন্যবাদ!",
+    "common": true
+  },
+  "op_help": {
+    "message": "সাহায্য করুন",
+    "common": true
+  },
+  "o_title": {
+    "message": "বিকল্প - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "ব্যাকআপ",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "নতুন ব্যাকআপ তৈরি করুন",
+    "common": true
+  },
+  "save_settings": {
+    "message": "সেটিংস সংরক্ষণ করুন",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "একটি ফাইল আপনার ডেটা রপ্তানি করতে, এই উইন্ডোটি একটি নতুন ট্যাবে পুনরায় খুলুন।",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "ডান ক্লিক করুন / \"লিঙ্কযুক্ত ফাইল ডাউনলোড করুন\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "সাধারণ",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "পটভূমি",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "কনটেক্সট মেনু",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "থাম্বনেল",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "শর্টকাটস",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "আমদানি / ব্যাকআপ",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "সেটিংস",
+    "common": true
+  },
+  "o_theme": {
+    "message": "থিম:",
+    "common": true
+  },
+  "o_general": {
+    "message": "সাধারণ:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "নিষ্ক্রিয়",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "সক্ষম",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "পিক্সেল",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "সেকেন্ড",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "কনটেক্সট মেনু:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "প্রসঙ্গ মেনু নিষ্ক্রিয় করুন: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "ব্যাকআপ / ফাইল থেকে সেটিংস পুনরুদ্ধার করুন:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "আমদানি",
+    "common": true
+  },
+  "title_import": {
+    "message": "আমদানি",
+    "common": true
+  },
+  "title_export": {
+    "message": "এক্সপোর্ট",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "এক্সপোর্ট ব্যাকআপ",
+    "common": true
+  },
+  "label_or": {
+    "message": "অথবা",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "হ্যালো :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "আমার নাম $1$ এবং আমি $app_name$ এর লেখক।",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "যদি আপনি এটি পছন্দ করেন তবে দয়া করে এখানে এটি রেট করুন:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "যদি আপনি এটি পছন্দ করেন না, দয়া করে আমাকে জানান কেন আমার ই-মেইল। আমি প্রাপ্ত বৈশিষ্ট্যগুলির বেশিরভাগই বাস্তবায়ন করছি।",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "আমার কাজ সমর্থন করে বিবেচনা করুন",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "আইবান ব্যবহার করে ব্যাংক স্থানান্তর:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "দান (পেপ্যাল)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "আমার পৃষ্ঠপোষক হয়ে উঠছে",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "ধন্যবাদ!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "বাড়ি:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "যোগাযোগ:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "সমস্যা রিপোর্ট করুন:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "আমি শুধুমাত্র ইংরেজি / স্লোভাক উত্তর দিতে পারেন",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "সামাজিক মাধ্যম:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "পরিবর্তন এবং বন্ধ সংরক্ষণ করুন",
+    "common": true
+  },
+  "o_saved": {
+    "message": "সংরক্ষিত!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "কোন মিলে ফলাফল",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "কোন তথ্য নেই",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "অন্ধকার মোড",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "সিস্টেম দ্বারা নিয়ন্ত্রিত",
+    "common": true
+  },
+  "used_space": {
+    "message": "ব্যবহৃত স্থান: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "নতুন ট্যাবে খুলুন",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Addon চালু / বন্ধ",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon নিষ্ক্রিয় করা হয়",
+    "common": true
+  },
+  "_description_why": {
+    "message": "কেন?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "গোপনীয়তা নীতি",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "সম্প্রতি যোগ বৈশিষ্ট্য:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "ট্যাগ:",
+    "common": true
+  }
+}

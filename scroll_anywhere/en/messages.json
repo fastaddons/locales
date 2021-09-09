@@ -1,0 +1,556 @@
+{
+  "_description_tags_sa": {
+    "message": "anywhere, button, cursor, drag, grab, grab drag, grab and drag, infinite, left, middle, momentum, mouse, move, page, right, scroll, scroll page, scrollbar, scrolling, throw"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Drag scrollbar with your middle mouse button anywhere on the page. Supports also \"grab and drag\" style."
+  },
+  "field_int_default_value": {
+    "message": "Default value: $1, min: $2, max: $3"
+  },
+  "field_set_default": {
+    "message": "Reset to default: $1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-ons page"
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons page"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store page"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "win_disable": {
+    "message": "Disable on $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Disable horizontal scrolling on $1"
+  },
+  "op_visit_home": {
+    "message": "Visit homepage"
+  },
+  "op_support_me": {
+    "message": "Help this project"
+  },
+  "o_title": {
+    "message": "Options - $1"
+  },
+  "o_tab_general": {
+    "message": "General"
+  },
+  "o_tab_momentum": {
+    "message": "Momentum"
+  },
+  "o_tab_cursor": {
+    "message": "Cursor"
+  },
+  "o_axis_locking": {
+    "message": "Axis locking"
+  },
+  "o_tab_performance": {
+    "message": "Performance"
+  },
+  "o_tab_disabled_on": {
+    "message": "Disabled on"
+  },
+  "o_tab_advanced": {
+    "message": "Advanced"
+  },
+  "o_tab_scrollbars": {
+    "message": "Scrollbars"
+  },
+  "o_tab_backup": {
+    "message": "Backup"
+  },
+  "o_tab_about": {
+    "message": "About"
+  },
+  "o_axis_lock_helper": {
+    "message": "When scrolling a box that is scrollable in one axis but parent box is scrollable in other axis, lock scrolling to one axis using:"
+  },
+  "o_axis_lock_0": {
+    "message": "Smart lock - temporal lock using momentum"
+  },
+  "o_axis_lock_1": {
+    "message": "Strict lock - instant direction lock"
+  },
+  "o_axis_lock_2": {
+    "message": "No lock - free scrolling in both axis"
+  },
+  "o_trend_momentum_window": {
+    "message": "Smart lock stack size"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Larger value will require more scrolling in opposite axis to change the scrolling axis."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon is disabled! Click here to enable."
+  },
+  "o_cursor_change_default": {
+    "message": "no change - best performance"
+  },
+  "o_scroll_button": {
+    "message": "Scroll button:"
+  },
+  "o_direction_speed": {
+    "message": "Scroll style  / direction / speed:"
+  },
+  "o_multiplier": {
+    "message": "Multiplier"
+  },
+  "o_times_speed": {
+    "message": "times scroll speed"
+  },
+  "o_maximum_speed": {
+    "message": "Maximum scroll speed (0 - disabled):"
+  },
+  "o_ratio_unit": {
+    "message": "ratio (page length / window size)"
+  },
+  "o_scroll_type_0": {
+    "message": "Emulate Scrollbar"
+  },
+  "o_scroll_type_1": {
+    "message": "Grab and Drag - like on a smartphone"
+  },
+  "o_scroll_type_2": {
+    "message": "Dynamic Speed (experimental)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "It's like dragging a scrollbar"
+  },
+  "o_scroll_type_title_1": {
+    "message": "It's like dragging a page with your finger on a phone screen"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Dynamic Speed makes scroll speed slower when page is longer"
+  },
+  "o_disable_key": {
+    "message": "Disable / Enable scrolling when key is down:"
+  },
+  "o_momentum_category": {
+    "message": "Momentum:"
+  },
+  "o_momentum_formula": {
+    "message": "Momentum formula:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Uniformly decelerated movement"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Page scroll will be uniformly slowed down until it stops"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Exponentially decelerated movement"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Page scroll will rapidly (exponentially) slow down"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Infinite movement ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Scrolling will never stop"
+  },
+  "o_momentum_max_speed": {
+    "message": "Maximum speed (0 - disabled):"
+  },
+  "o_page_weight": {
+    "message": "Page weight:"
+  },
+  "o_grams": {
+    "message": "grams :)"
+  },
+  "o_additional_speed": {
+    "message": "Additional speed:"
+  },
+  "o_pixels_second": {
+    "message": "pixels per second"
+  },
+  "o_additional_duration": {
+    "message": "Additional duration:"
+  },
+  "o_advanced_momentum": {
+    "message": "Advanced momentum setup (for experts only!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Changing these values can break your momentum!"
+  },
+  "o_compute_from_last": {
+    "message": "Compute from last:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Mouse stop detection:"
+  },
+  "o_tracking_speed": {
+    "message": "Tracking speed:"
+  },
+  "o_reset_values": {
+    "message": "Reset values"
+  },
+  "o_cursor_scrolling": {
+    "message": "Cursor used when scrolling:"
+  },
+  "o_performance": {
+    "message": "Performance:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Prevent big jumps"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "If you are using tool that can teleport your cursor across the screen (when you reach an edge), enable this option to allow continuous (infinite) scrolling."
+  },
+  "o_advanced": {
+    "message": "Advanced:"
+  },
+  "o_movement_detection": {
+    "message": "Mouse movement detection threshold:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "How many pixels has to mouse move to block link. Sometimes when pressing scroll button you move mouse slightly but you don't want the link to be disabled because of that."
+  },
+  "o_context_menu_block": {
+    "message": "Context menu block:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Unblock context menu delay"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "If you see context menu after scrolling with Right mouse button, increase this value"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Disable horizontal scrolling on domains:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Disabled on domains:"
+  },
+  "o_is_disabled_url": {
+    "message": "Disabled on pages / sub-pages:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "You can use star symbol (*) to define a URL part, for example: \"google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Enter one domain per line."
+  },
+  "o_is_disabled": {
+    "message": "Disable add-on"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Use toolbar icon as the main ON / OFF switch"
+  },
+  "o_scroll_button_middle": {
+    "message": "Middle button"
+  },
+  "o_scroll_button_right": {
+    "message": "Right button"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Mac users - you will be prompted for new permission \"Read and modify browser setting\" - this is required to suppress context menu being shown before scrolling!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac users - your context menu will be blocked! To open context menu hold \"Shift\" key or triple-click right button."
+  },
+  "o_scroll_button_left": {
+    "message": "Left button (experimental)"
+  },
+  "o_scroll_on_links": {
+    "message": "Scroll on links"
+  },
+  "o_scroll_on_links_title": {
+    "message": "When enabled, you won't be able to drag and drop links (only by using 'Disable' key)"
+  },
+  "o_scroll_on_text": {
+    "message": "Scroll on text"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emulates phone scrolling / editing - you need to click on text in order to switch to \"editing mode\". Clicking outside of text enables scrolling again."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Scroll on textarea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea is a block of text, usually resizable. For example on \"Disabled on\" tab you can see textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Scroll on editable html"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "For example email body in Gmail is editable html."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "on text will enable selecting / editing text."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Click on text will enable \"Edit mode\". Click outside text to enable \"Scroll mode\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Single click"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Double click"
+  },
+  "o_scrollbars_width": {
+    "message": "Scrollbars look"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normal (no change)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Thin"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Hidden"
+  },
+  "o_scrollbars_color": {
+    "message": "Scrollbar slider color:"
+  },
+  "o_scrollbars_background": {
+    "message": "Scrollbar background color:"
+  },
+  "o_reverse": {
+    "message": "Reverse scroll direction"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Shift"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl"
+  },
+  "o_disable_type_0": {
+    "message": "Disable when key is down:"
+  },
+  "o_disable_type_1": {
+    "message": "Enable when key is down:"
+  },
+  "o_momentum": {
+    "message": "enable momentum - you can \"throw\" the page (like on phone)"
+  },
+  "o_no_css_edit": {
+    "message": "Don't lock iframes and don't change cursor when scrolling"
+  },
+  "o_no_prevent_default": {
+    "message": "Don't block default button action"
+  },
+  "o_auto_link_lock": {
+    "message": "Links blocking:"
+  },
+  "o_no_link_block": {
+    "message": "Don't block mouse click on link after movement"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "When you start scrolling on a link and then you finish scrolling on the same link, browser will open the link. This is usually not desired behaviour so by default it's blocked."
+  },
+  "o_page_weight_title": {
+    "message": "This controls how 'heavy' the page is. Heavier pages has longer momentum."
+  },
+  "o_additional_speed_title": {
+    "message": "You can accelerate momentum stating speed."
+  },
+  "o_additional_duration_title": {
+    "message": "Additional time for each momentum."
+  },
+  "o_compute_from_last_title": {
+    "message": "Momentum initial speed is determined by the speed of scrolling right before releasing the Scroll button."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "How much time has to mouse stay still - before releasing the Scroll button - to NOT activate Momentum."
+  },
+  "o_tracking_speed_title": {
+    "message": "Interval for measuring current scroll speed."
+  },
+  "o_scrolling_area": {
+    "message": "Scrolling area:"
+  },
+  "o_outside_area_width": {
+    "message": "Scrolling area (0 - disabled):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Moving your cursor outside of scrolling area will revert scrolling position. Same behavior can be seen when dragging a scrollbar."
+  },
+  "o_scroll_button_left_title": {
+    "message": "Warning - Left button support is using deprecated Firefox API that could be removed in future versions of Firefox."
+  },
+  "o_prevent_text_selection": {
+    "message": "Prevent text selection when scrolling with left button"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "On some devices, scrolling with left mouse button will also select text on the page."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Don't block context menu when trying to scroll not-scrollable page"
+  },
+  "o_backup_restore": {
+    "message": "Backup / Restore settings:"
+  },
+  "o_export_settings": {
+    "message": "Export settings to a file"
+  },
+  "import_settings_button": {
+    "message": "Import settings from $1 file..."
+  },
+  "import_finished": {
+    "message": "Import finished!"
+  },
+  "test_page_title": {
+    "message": "Test your scrolling settings here"
+  },
+  "menu_options": {
+    "message": "Options"
+  },
+  "menu_visit_title": {
+    "message": "Visit homepage"
+  },
+  "not_working": {
+    "message": "Disabled by your web-browser"
+  },
+  "disabled_by_user": {
+    "message": "Disabled on this domain"
+  },
+  "not_working_title": {
+    "message": "Your browser will block ScrollAnywhere on these type of pages:"
+  },
+  "not_working_body": {
+    "message": "To enable ScrollAnywhere on \"mozilla.org\" pages, see this YouTube tutorial"
+  },
+  "show_scrollbars": {
+    "message": "Show scrollbars"
+  },
+  "show_scrollbars_title": {
+    "message": "Temporarily show scrollbars"
+  },
+  "switch_on_off": {
+    "message": "Switch add-on OFF / ON"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "If you experience noticeable delay between pressing scroll button and starting scrolling, try to enable this option. However you will not be able to scroll over \"iframes\" such as some old embedded videos or some ads."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "This will also disable option to change cursor while scrolling."
+  },
+  "o_helper_text_default_action": {
+    "message": "Useful in Linux to enable Paste with middle button."
+  },
+  "o_about_hello": {
+    "message": "Hello :)"
+  },
+  "o_about_intro": {
+    "message": "My name is $1 and I'm the author of $app_name$.",
+    "placeholders": {
+      "1": {
+        "content": "Juraj Mäsiar"
+      }
+    }
+  },
+  "o_about_like_it": {
+    "message": "If you like it, please rate it here:"
+  },
+  "o_about_dislike_it": {
+    "message": "If you don't like it, please let me know why to my e-mail. I'm implementing most of the feature-requests I receive."
+  },
+  "o_disabled": {
+    "message": "disabled",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "enabled",
+    "common": true
+  },
+  "o_times": {
+    "message": "times",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels",
+    "common": true
+  },
+  "o_items": {
+    "message": "items",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milliseconds",
+    "common": true
+  },
+  "label_working": {
+    "message": "working...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Close",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Please consider supporting my work by",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donation (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "becoming my Patron",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Thank you!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "home:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contact:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Report issues:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "I can reply only in English / Slovak",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Social media:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Save changes and close",
+    "common": true
+  },
+  "o_saved": {
+    "message": "saved!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Coming soon",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Save changes",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Privacy Policy",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Recently added features:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

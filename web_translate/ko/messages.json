@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "선택한 텍스트 번역 (컨텍스트 메뉴에서)"
+  },
+  "_description_feature_2": {
+    "message": "전체 페이지 번역"
+  },
+  "_description_feature_3": {
+    "message": "어두운 모드!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, Dark, 이메일, Google, Lang, 언어, Microsoft, 페이지, Preklad, Prekladač, S3, 선택, 텍스트, Traductur, 번역, 번역기, Übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ 웹 브라우저 / 썬더 버드 용 번역기를 사용하기 쉽습니다!"
+  },
+  "o_tab_translate": {
+    "message": "옮기다"
+  },
+  "_description_supported_translators": {
+    "message": "지원되는 번역 공급자 :"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "모달 창"
+  },
+  "open_in_1": {
+    "message": "팝업창"
+  },
+  "open_in_2": {
+    "message": "새 탭"
+  },
+  "open_in_3": {
+    "message": "새창"
+  },
+  "open_in_4": {
+    "message": "새 탭 (컨테이너 없음)"
+  },
+  "modal_window": {
+    "message": "모달 창"
+  },
+  "toolbar_icon_action": {
+    "message": "도구 모음 아이콘 조치"
+  },
+  "toolbar_icon_text": {
+    "message": "도구 모음 아이콘 텍스트"
+  },
+  "sidebar_size": {
+    "message": "사이드 바 크기"
+  },
+  "translation_provider": {
+    "message": "번역 공급자"
+  },
+  "translate_to": {
+    "message": "번역 :"
+  },
+  "no_overlay": {
+    "message": "오버레이 없음 (어두운 영역 주위)"
+  },
+  "no_overlay_hint": {
+    "message": "외부를 클릭하더라도 모달 창이 열립니다."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "번역을 연기 :"
+  },
+  "fallback_1": {
+    "message": "폴백 방법"
+  },
+  "fallback_2": {
+    "message": "폴백 방법"
+  },
+  "fallback_title": {
+    "message": "모달 창 및 팝업 창은 경우에 따라 사용할 수 없습니다."
+  },
+  "open_in_tab": {
+    "message": "새 탭에서 열립니다"
+  },
+  "translate_this_page": {
+    "message": "이 페이지 번역"
+  },
+  "selection_translate": {
+    "message": "\"$1\"번역"
+  },
+  "page_translate": {
+    "message": "번역 페이지"
+  },
+  "selected_text": {
+    "message": "선택한 텍스트"
+  },
+  "disable_context_menu": {
+    "message": "상황에 맞는 메뉴 사용 안 함 : $1"
+  },
+  "import_finished": {
+    "message": "가져 오기 완료!"
+  },
+  "import_error": {
+    "message": "오류"
+  },
+  "import_backup_file": {
+    "message": "백업 파일 가져 오기 $1"
+  },
+  "search_search": {
+    "message": "검색"
+  },
+  "homepage": {
+    "message": "홈페이지"
+  },
+  "addon_page": {
+    "message": "Addon 페이지"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "크롬 웹 스토어"
+  },
+  "firefox_store": {
+    "message": "Firefox 부가 기능"
+  },
+  "thunderbird_store": {
+    "message": "썬더 버드 애드온"
+  },
+  "label_font_size": {
+    "message": "글꼴 크기"
+  },
+  "label_next": {
+    "message": "다음"
+  },
+  "label_note": {
+    "message": "노트 :"
+  },
+  "label_remove": {
+    "message": "없애다"
+  },
+  "label_warning": {
+    "message": "경고:"
+  },
+  "label_default": {
+    "message": "기본:"
+  },
+  "label_done": {
+    "message": "끝난!"
+  },
+  "label_copied": {
+    "message": "복사!"
+  },
+  "label_close": {
+    "message": "닫기"
+  },
+  "label_open_page": {
+    "message": "페이지를 엽니 다"
+  },
+  "label_agree": {
+    "message": "동의하다"
+  },
+  "label_cancel": {
+    "message": "취소"
+  },
+  "op_support_me": {
+    "message": "이 프로젝트에 도움이됩니다"
+  },
+  "support_developer": {
+    "message": "독립적 인 개발자를 지원하십시오!"
+  },
+  "hello_there": {
+    "message": "안녕하십니까!"
+  },
+  "about_me": {
+    "message": "저는 2016 년 이래 Addon Developer입니다. 내 목표는 귀하의 웹 브라우저에 대한 강력한 확장을 구축하여 더 생산적으로 만드는 것입니다."
+  },
+  "about_good_job": {
+    "message": "내가 좋은 일을하고 있다고 생각한다면, 기부하십시오 :)"
+  },
+  "about_income": {
+    "message": "기부금은 나의 유일한 수입입니다!"
+  },
+  "about_thanks": {
+    "message": "내 일을 지원해 주셔서 감사합니다!"
+  },
+  "o_tab_context_menu": {
+    "message": "상황에 맞는 메뉴"
+  },
+  "o_tab_about": {
+    "message": "약"
+  },
+  "o_tab_settings": {
+    "message": "설정"
+  },
+  "o_pixels": {
+    "message": "픽셀"
+  },
+  "o_seconds": {
+    "message": "초월"
+  },
+  "label_or": {
+    "message": "또는"
+  },
+  "o_about_hello": {
+    "message": "안녕하세요 :)"
+  },
+  "o_about_intro": {
+    "message": "내 이름은 $1$이고 $app_name$의 저자입니다."
+  },
+  "o_about_like_it": {
+    "message": "당신이 그것을 좋아한다면, 그것을 평가하십시오."
+  },
+  "o_about_thanks": {
+    "message": "감사합니다!"
+  },
+  "o_about_contact": {
+    "message": "접촉:"
+  },
+  "o_about_issues": {
+    "message": "보고서 문제 :"
+  },
+  "o_about_social_media": {
+    "message": "소셜 미디어:"
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN을 이용한 은행 송금 :"
+  },
+  "ps_no_results": {
+    "message": "일치하는 결과가 없습니다"
+  },
+  "label_no_data": {
+    "message": "데이터 없음"
+  },
+  "dark_mode": {
+    "message": "어두운 모드"
+  },
+  "dark_mode_system": {
+    "message": "시스템에 의해 통제됩니다"
+  },
+  "_description_features": {
+    "message": "풍모:"
+  },
+  "_description_why": {
+    "message": "왜?"
+  },
+  "_description_privacy_policy": {
+    "message": "개인 정보 정책"
+  },
+  "_description_recent_features": {
+    "message": "최근 추가 된 기능 :"
+  },
+  "_description_common_tags": {
+    "message": "태그 :"
+  },
+  "_description_also_for_firefox": {
+    "message": "Firefox에도 사용할 수 있습니다."
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Thunderbird에도 사용할 수 있습니다."
+  }
+}

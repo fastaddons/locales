@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "随时随地，按钮，光标，拖动，抓取，抓住拖动，抓住和拖动，无限，左，中间，势头，鼠标，移动，页面，右，滚动，滚动页面，滚动条，滚动，扔"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "使用鼠标中键在页面上的任何位置拖动滚动条。还支持“抓取和拖动”样式和动画。"
+  },
+  "field_int_default_value": {
+    "message": "默认值： $1，最小： $2，最大： $3"
+  },
+  "field_set_default": {
+    "message": "重置为默认值：$1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird附加组件"
+  },
+  "firefox_store": {
+    "message": "Firefox火狐 附加组件页面"
+  },
+  "chrome_store": {
+    "message": "Chrome 网上应用店页面"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "win_disable": {
+    "message": "在$1上禁用"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "在$1上禁用水平滚动"
+  },
+  "op_visit_home": {
+    "message": "访问首页"
+  },
+  "op_support_me": {
+    "message": "助力此项目"
+  },
+  "o_title": {
+    "message": "选项 - $1"
+  },
+  "o_tab_general": {
+    "message": "常规"
+  },
+  "o_tab_momentum": {
+    "message": "动画"
+  },
+  "o_tab_cursor": {
+    "message": "光标"
+  },
+  "o_axis_locking": {
+    "message": "轴锁定"
+  },
+  "o_tab_performance": {
+    "message": "性能"
+  },
+  "o_tab_disabled_on": {
+    "message": "禁用于"
+  },
+  "o_tab_advanced": {
+    "message": "高级"
+  },
+  "o_tab_scrollbars": {
+    "message": "滚动条"
+  },
+  "o_tab_backup": {
+    "message": "备份"
+  },
+  "o_tab_about": {
+    "message": "关于"
+  },
+  "o_axis_lock_helper": {
+    "message": "滚动在一个轴上滚动的框，但父框在其他轴中可滚动，请使用以下锁定到一个轴："
+  },
+  "o_axis_lock_0": {
+    "message": "智能锁 - 使用动量的时间锁"
+  },
+  "o_axis_lock_1": {
+    "message": "严格锁定 - 即时方向锁"
+  },
+  "o_axis_lock_2": {
+    "message": "在两个轴上没有锁定滚动"
+  },
+  "o_trend_momentum_window": {
+    "message": "智能锁定堆栈大小"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "较大的值将需要在相对的轴上滚动更多以更改滚动轴。"
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon被禁用！ 单击此处启用。"
+  },
+  "o_cursor_change_default": {
+    "message": "不变-最佳性能"
+  },
+  "o_scroll_button": {
+    "message": "滚动按钮设置："
+  },
+  "o_direction_speed": {
+    "message": "滚动样式/方向/速度："
+  },
+  "o_multiplier": {
+    "message": "乘数"
+  },
+  "o_times_speed": {
+    "message": "滚动所用时间"
+  },
+  "o_maximum_speed": {
+    "message": "最大滚动速度（0为禁用）："
+  },
+  "o_ratio_unit": {
+    "message": "比例（页面长度/窗口大小）"
+  },
+  "o_scroll_type_0": {
+    "message": "模拟滚动条"
+  },
+  "o_scroll_type_1": {
+    "message": "抓取和拖动-模拟智能手机的操作"
+  },
+  "o_scroll_type_2": {
+    "message": "动态滚动（实验功能）"
+  },
+  "o_scroll_type_title_0": {
+    "message": "就像拖动滚动条"
+  },
+  "o_scroll_type_title_1": {
+    "message": "就像用手指在手机屏幕上滚动页面一样"
+  },
+  "o_scroll_type_title_2": {
+    "message": "当页面较长时，使用动态滚动会使速度变慢"
+  },
+  "o_disable_key": {
+    "message": "按下键时禁用/启用滚动："
+  },
+  "o_momentum_category": {
+    "message": "动画："
+  },
+  "o_momentum_formula": {
+    "message": "动画方式："
+  },
+  "o_momentum_formula_type_0": {
+    "message": "匀速减速"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "页面滚动将慢慢减速直到停止"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "指数减速"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "页面滚动将迅速（以指数方式）减慢"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "无限滚动∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "滚动永远不会停止"
+  },
+  "o_momentum_max_speed": {
+    "message": "最高速度（0为禁用）："
+  },
+  "o_page_weight": {
+    "message": "页面重量："
+  },
+  "o_grams": {
+    "message": "克:)"
+  },
+  "o_additional_speed": {
+    "message": "附加速度："
+  },
+  "o_pixels_second": {
+    "message": "像素/每秒"
+  },
+  "o_additional_duration": {
+    "message": "额外时间："
+  },
+  "o_advanced_momentum": {
+    "message": "高级动画设置（仅适用于专家！）："
+  },
+  "o_advanced_momentum_title": {
+    "message": "更改这些值可能会破坏您的动画！"
+  },
+  "o_compute_from_last": {
+    "message": "从最后算起："
+  },
+  "o_mouse_stop_detection": {
+    "message": "停止鼠标检测："
+  },
+  "o_tracking_speed": {
+    "message": "滚动速度："
+  },
+  "o_reset_values": {
+    "message": "重置"
+  },
+  "o_cursor_scrolling": {
+    "message": "滚动时使用的光标："
+  },
+  "o_performance": {
+    "message": "性能："
+  },
+  "o_prevent_big_jumps": {
+    "message": "防止大跳跃"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "如果您使用的工具可以在屏幕上传输光标（当您到达边缘时），请启用此选项以允许连续（无限）滚动。"
+  },
+  "o_advanced": {
+    "message": "高级："
+  },
+  "o_movement_detection": {
+    "message": "鼠标移动检测阈值："
+  },
+  "o_helper_text_move_detection": {
+    "message": "鼠标必须移动多少像素才能阻止链接。有时，当按下滚动按钮时，您会稍微移动鼠标，但是您不希望因此而禁用链接。"
+  },
+  "o_context_menu_block": {
+    "message": "内容菜单"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "取消阻止内容菜单内容菜单延迟"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "如果使用鼠标右键滚动后看到上下文菜单，请提高此值"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "在域上禁用水平滚动："
+  },
+  "o_is_disabled_domains": {
+    "message": "在域上禁用："
+  },
+  "o_is_disabled_url": {
+    "message": "在页面/子页面上禁用："
+  },
+  "o_is_disabled_url_help": {
+    "message": "您可以使用星号（*）定义网址部分，例如：“ google.com/maps*”"
+  },
+  "o_is_disabled_domain_help": {
+    "message": "每行输入一个域。"
+  },
+  "o_is_disabled": {
+    "message": "禁用附加组件"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "使用工具栏图标作为主开/关开关"
+  },
+  "o_scroll_button_middle": {
+    "message": "中键"
+  },
+  "o_scroll_button_right": {
+    "message": "右键"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Mac用户-系统将提示您输入新权限“读取和修改浏览器设置”-这是取消滚动显示上下文菜单所必需的！"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac用户-您的上下文菜单将被阻止！要打开上下文菜单，请按住“ Shift”键或三击右键。"
+  },
+  "o_scroll_button_left": {
+    "message": "左键（实验性功能）"
+  },
+  "o_scroll_on_links": {
+    "message": "滚动链接"
+  },
+  "o_scroll_on_links_title": {
+    "message": "启用后，您将无法拖放链接（除非使用“禁用”键）"
+  },
+  "o_scroll_on_text": {
+    "message": "滚动文字"
+  },
+  "o_scroll_on_text_title": {
+    "message": "模拟手机滚动/编辑-您需要单击文本才能切换到“编辑模式”。在文本外部单击可以再次滚动。"
+  },
+  "o_scroll_on_textarea": {
+    "message": "在文字区域上滚动"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "文字区域是一块文本，通常可调整大小。例如，在“禁用于”选项卡上，您可以看到文本区域。"
+  },
+  "o_scroll_on_editable_html": {
+    "message": "滚动可编辑的html文件"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "例如，Gmail中的电子邮件正文是可编辑的html文件。"
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "启用文字功能可以选择/编辑文字。"
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "单击文本将启用“编辑模式”。单击外部文本以启用“滚动模式”。"
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "一键点击"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "双击"
+  },
+  "o_scrollbars_width": {
+    "message": "滚动条外观"
+  },
+  "o_scrollbars_width_0": {
+    "message": "正常（不变）"
+  },
+  "o_scrollbars_width_1": {
+    "message": "瘦"
+  },
+  "o_scrollbars_width_2": {
+    "message": "隐藏"
+  },
+  "o_scrollbars_color": {
+    "message": "滚动条滑块颜色："
+  },
+  "o_scrollbars_background": {
+    "message": "滚动条背景色："
+  },
+  "o_reverse": {
+    "message": "反向滚动方向"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Shift"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl"
+  },
+  "o_disable_type_0": {
+    "message": "按下键时禁用："
+  },
+  "o_disable_type_1": {
+    "message": "按下键时启用："
+  },
+  "o_momentum": {
+    "message": "启用动力-您可以“抛出”页面（例如在电话上）"
+  },
+  "o_no_css_edit": {
+    "message": "滚动时请勿锁定iframe，也不要更改光标"
+  },
+  "o_no_prevent_default": {
+    "message": "不要阻止默认按钮动作"
+  },
+  "o_auto_link_lock": {
+    "message": "链接拦截："
+  },
+  "o_no_link_block": {
+    "message": "移动后不要阻止鼠标点击链接"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "当您开始在一个链接上滚动然后在同一链接上完成滚动时，浏览器将打开该链接。通常这不是您想要的行为，因此默认情况下它被阻止。"
+  },
+  "o_page_weight_title": {
+    "message": "这控制页面的重量。较重的页面具有较长的动画。"
+  },
+  "o_additional_speed_title": {
+    "message": "您可以加快动画速度。"
+  },
+  "o_additional_duration_title": {
+    "message": "每个动画需要额外的时间。"
+  },
+  "o_compute_from_last_title": {
+    "message": "动画初始速度由释放“滚动”按钮之前向右滚动的速度确定。"
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "释放“滚动”按钮之前，鼠标必须静止不动多少时间才能激活动画。"
+  },
+  "o_tracking_speed_title": {
+    "message": "测量当前滚动速度的时间间隔。"
+  },
+  "o_scrolling_area": {
+    "message": "滚动区域："
+  },
+  "o_outside_area_width": {
+    "message": "滚动区域（0  - 禁用）："
+  },
+  "o_outside_area_width_helper": {
+    "message": "将光标移动到滚动区域外将恢复滚动位置。 拖动滚动条时可以看到相同的行为。"
+  },
+  "o_scroll_button_left_title": {
+    "message": "警告-左键支持正在使用已弃用的Firefox API，将来的Firefox版本中可能会删除该API。"
+  },
+  "o_prevent_text_selection": {
+    "message": "使用向左按钮滚动时防止文本选择"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "在某些设备上，用鼠标左键滚动也会选择页面上的文本。"
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "尝试滚动不可滚动页面时，不阻止上下文菜单"
+  },
+  "o_backup_restore": {
+    "message": "备份/恢复设置到文件："
+  },
+  "o_export_settings": {
+    "message": "将设置导出到文件"
+  },
+  "import_settings_button": {
+    "message": "从 $1 导入设置..."
+  },
+  "import_finished": {
+    "message": "导入已完成！"
+  },
+  "test_page_title": {
+    "message": "在此处测试您的滚动设置"
+  },
+  "menu_options": {
+    "message": "选项"
+  },
+  "menu_visit_title": {
+    "message": "访问首页"
+  },
+  "not_working": {
+    "message": "已被您的浏览器禁用"
+  },
+  "disabled_by_user": {
+    "message": "禁用此域名"
+  },
+  "not_working_title": {
+    "message": "您的浏览器将在以下类型的页面上阻止ScrollAnywhere："
+  },
+  "not_working_body": {
+    "message": "要在“ mozilla.org”页面上启用ScrollAnywhere，请参阅此YouTube教程"
+  },
+  "show_scrollbars": {
+    "message": "显示Scrollbars."
+  },
+  "show_scrollbars_title": {
+    "message": "暂时显示滚动栏"
+  },
+  "switch_on_off": {
+    "message": "开关附件 OFF / ON"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "如果您在按滚动按钮和开始滚动之间遇到明显的延迟，请尝试启用此选项。但是，您将无法滚动“ iframe”，例如某些旧的嵌入式视频或某些广告。"
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "这也将禁用在滚动时更改光标的选项。"
+  },
+  "o_helper_text_default_action": {
+    "message": "在Linux中有用，以启用带有中间按钮的粘贴。"
+  },
+  "o_about_hello": {
+    "message": "您好 :)"
+  },
+  "o_about_intro": {
+    "message": "我的名字是 Juraj Mäsiar，我是这个插件的作者。"
+  },
+  "o_about_like_it": {
+    "message": "若您喜欢它，请在此评分："
+  },
+  "o_about_dislike_it": {
+    "message": "如果您不喜欢它，请发邮件让我知道原因。我会实现更多我收到的功能请求。"
+  },
+  "o_disabled": {
+    "message": "已禁用",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "已启用",
+    "common": true
+  },
+  "o_times": {
+    "message": "次",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "像素",
+    "common": true
+  },
+  "o_items": {
+    "message": "项目",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "毫秒",
+    "common": true
+  },
+  "label_working": {
+    "message": "工作中...",
+    "common": true
+  },
+  "label_close": {
+    "message": "关闭",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "请考虑支持我的作品，通过：",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "捐款 (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "成为我的赞助商",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "谢谢！",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "首页：",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "联系：",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "报告问题：",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "我只会以英语/斯洛伐克语回复",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "社交媒体：",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "保存变更并关闭",
+    "common": true
+  },
+  "o_saved": {
+    "message": "已保存！",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "即将到来",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "保存变更",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "隐私政策",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "最近添加的功能：",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "标签：",
+    "common": true
+  }
+}

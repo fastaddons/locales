@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Преведи изабрани текст (из контекстног менија)"
+  },
+  "_description_feature_2": {
+    "message": "Превод целог странице"
+  },
+  "_description_feature_3": {
+    "message": "Тамни режим!"
+  },
+  "_description_tags_wt": {
+    "message": "баиду, Бинг, Дарк, Емаил, Гоогле, Ланг, Језик, Мицрософт, Страница, Преклад, Прекладач, С3, Селецтион, Текст, Традецтеур, Транслате, Транслатор, Уберсетзер, 翻译берсетзер, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ је једноставан за употребу преводитеља за ваш веб претраживач / Тхундербирд!"
+  },
+  "o_tab_translate": {
+    "message": "Превести"
+  },
+  "_description_supported_translators": {
+    "message": "Подржани провајдери превођења:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Модални прозор"
+  },
+  "open_in_1": {
+    "message": "Поп-уп прозор"
+  },
+  "open_in_2": {
+    "message": "Нови прозор"
+  },
+  "open_in_3": {
+    "message": "Нови прозор"
+  },
+  "open_in_4": {
+    "message": "Нова картица (без контејнера)"
+  },
+  "modal_window": {
+    "message": "Модални прозор"
+  },
+  "toolbar_icon_action": {
+    "message": "Икона алатне траке"
+  },
+  "toolbar_icon_text": {
+    "message": "Текст икона алатне траке"
+  },
+  "sidebar_size": {
+    "message": "Величина бочне траке"
+  },
+  "translation_provider": {
+    "message": "Провајдер превођења"
+  },
+  "translate_to": {
+    "message": "Преведи на:"
+  },
+  "no_overlay": {
+    "message": "Без прекривања (мрачно подручје около)"
+  },
+  "no_overlay_hint": {
+    "message": "Модални прозор ће остати отворен чак и ако кликнете напоље."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Отворени превод у:"
+  },
+  "fallback_1": {
+    "message": "Метода за повратак"
+  },
+  "fallback_2": {
+    "message": "Метода за повратак"
+  },
+  "fallback_title": {
+    "message": "У неким случајевима се не могу користити модални прозор и прозор прозора."
+  },
+  "open_in_tab": {
+    "message": "Отвори на новој картици"
+  },
+  "translate_this_page": {
+    "message": "Преведи ову страницу"
+  },
+  "selection_translate": {
+    "message": "Превести \"$1\""
+  },
+  "page_translate": {
+    "message": "Преведи страницу"
+  },
+  "selected_text": {
+    "message": "изабрани текст"
+  },
+  "disable_context_menu": {
+    "message": "Онемогући контекстни мени: $1"
+  },
+  "import_finished": {
+    "message": "Увоз завршено!"
+  },
+  "import_error": {
+    "message": "Грешка"
+  },
+  "import_backup_file": {
+    "message": "Увоз резервне датотеке $1"
+  },
+  "search_search": {
+    "message": "Претрага"
+  },
+  "homepage": {
+    "message": "Почетна страница"
+  },
+  "addon_page": {
+    "message": "Паге Аддон"
+  },
+  "safari_store": {
+    "message": "Мац Апп Сторе"
+  },
+  "chrome_store": {
+    "message": "Цхроме веб продавница"
+  },
+  "firefox_store": {
+    "message": "Фирефок додаци"
+  },
+  "thunderbird_store": {
+    "message": "Тхундербирд додаци"
+  },
+  "label_font_size": {
+    "message": "Величина фонта"
+  },
+  "label_next": {
+    "message": "Следећи"
+  },
+  "label_note": {
+    "message": "Белешка:"
+  },
+  "label_remove": {
+    "message": "Скинути"
+  },
+  "label_warning": {
+    "message": "УПОЗОРЕЊЕ:"
+  },
+  "label_default": {
+    "message": "Уобичајено:"
+  },
+  "label_done": {
+    "message": "Готово!"
+  },
+  "label_copied": {
+    "message": "Копирано!"
+  },
+  "label_close": {
+    "message": "Близу"
+  },
+  "label_open_page": {
+    "message": "Отворена страна"
+  },
+  "label_agree": {
+    "message": "Договорити се"
+  },
+  "label_cancel": {
+    "message": "Поништити, отказати"
+  },
+  "op_support_me": {
+    "message": "Помозите овом пројекту"
+  },
+  "support_developer": {
+    "message": "Подржите независни програмер!"
+  },
+  "hello_there": {
+    "message": "Поздрав!"
+  },
+  "about_me": {
+    "message": "Ја сам Аддон Девелопер од 2016. Мој циљ је да изградим моћно проширење за ваш веб претраживач да вас учини продуктивнијим."
+  },
+  "about_good_job": {
+    "message": "Ако мислите да радим добар посао, молим вас донирајте :)"
+  },
+  "about_income": {
+    "message": "Ваша донација је мој једини приход!"
+  },
+  "about_thanks": {
+    "message": "Хвала вам што сте подржали мој рад!"
+  },
+  "o_tab_context_menu": {
+    "message": "Садржај"
+  },
+  "o_tab_about": {
+    "message": "О томе"
+  },
+  "o_tab_settings": {
+    "message": "Подешавања"
+  },
+  "o_pixels": {
+    "message": "пиксела"
+  },
+  "o_seconds": {
+    "message": "секунди"
+  },
+  "label_or": {
+    "message": "или"
+  },
+  "o_about_hello": {
+    "message": "Здраво :)"
+  },
+  "o_about_intro": {
+    "message": "Моје име је $1$ и ја сам аутор $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Ако вам се свиђа, оцените је овде:"
+  },
+  "o_about_thanks": {
+    "message": "Хвала вам!"
+  },
+  "o_about_contact": {
+    "message": "Контакт:"
+  },
+  "o_about_issues": {
+    "message": "Извештај о извештају:"
+  },
+  "o_about_social_media": {
+    "message": "Друштвени медији:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Банковни пренос помоћу ИБАН:"
+  },
+  "ps_no_results": {
+    "message": "Нема одговарајућих резултата"
+  },
+  "label_no_data": {
+    "message": "Нема података"
+  },
+  "dark_mode": {
+    "message": "Тамни режим"
+  },
+  "dark_mode_system": {
+    "message": "Контролише системом"
+  },
+  "_description_features": {
+    "message": "Карактеристике:"
+  },
+  "_description_why": {
+    "message": "Зашто?"
+  },
+  "_description_privacy_policy": {
+    "message": "Правила о приватности"
+  },
+  "_description_recent_features": {
+    "message": "Недавно додате карактеристике:"
+  },
+  "_description_common_tags": {
+    "message": "Ознаке:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Доступно и за ваш Фирефок:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Доступно и за ваш Тхундербирд:"
+  }
+}

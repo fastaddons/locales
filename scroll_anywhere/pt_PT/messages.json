@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "em qualquer lugar, botão, cursor, arrastar, agarrar, pegar arrastar, pegar e arrastar, infinito, esquerdo, meio, momentum, mouse, mover, página, direita, rolar, rolar página, barra de rolagem, rolagem, jogar"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Arraste a barra de rolagem com o botão do meio do mouse em qualquer lugar da página. Suporta também o estilo \"pegar e arrastar\"."
+  },
+  "field_int_default_value": {
+    "message": "Valor padrão: $1, min: $2, max: $3"
+  },
+  "field_set_default": {
+    "message": "Redefinir para o padrão: $1"
+  },
+  "thunderbird_store": {
+    "message": "Add-ons do Thunderbird"
+  },
+  "firefox_store": {
+    "message": "Add-ons do Firefox"
+  },
+  "chrome_store": {
+    "message": "Loja online do Chrome"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "win_disable": {
+    "message": "Desativar em $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Desativar rolagem horizontal em $1"
+  },
+  "op_visit_home": {
+    "message": "Visite Homepage"
+  },
+  "op_support_me": {
+    "message": "Ajude este projeto"
+  },
+  "o_title": {
+    "message": "Opções - $1."
+  },
+  "o_tab_general": {
+    "message": "Em geral"
+  },
+  "o_tab_momentum": {
+    "message": "Momentum."
+  },
+  "o_tab_cursor": {
+    "message": "Cursora"
+  },
+  "o_axis_locking": {
+    "message": "Travamento do eixo."
+  },
+  "o_tab_performance": {
+    "message": "Desempenho"
+  },
+  "o_tab_disabled_on": {
+    "message": "Desativado em."
+  },
+  "o_tab_advanced": {
+    "message": "Avançada"
+  },
+  "o_tab_scrollbars": {
+    "message": "Barras de rolagem"
+  },
+  "o_tab_backup": {
+    "message": "Importar / Backup"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Ao rolar uma caixa que está rolável em um eixo, mas a caixa pai é rolável em outro eixo, bloqueia a rolagem para um eixo usando:"
+  },
+  "o_axis_lock_0": {
+    "message": "Bloqueio inteligente - fechamento temporal usando momentum"
+  },
+  "o_axis_lock_1": {
+    "message": "Bloqueio estrito - bloqueio de direção instantânea"
+  },
+  "o_axis_lock_2": {
+    "message": "Sem bloqueio - rolagem grátis em ambos os eixos"
+  },
+  "o_trend_momentum_window": {
+    "message": "Tamanho da pilha de bloqueio inteligente"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "O valor maior exigirá mais rolagem no eixo oposto para alterar o eixo de rolagem."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon está desativado! Clique aqui para ativar."
+  },
+  "o_cursor_change_default": {
+    "message": "nenhuma mudança - melhor desempenho"
+  },
+  "o_scroll_button": {
+    "message": "Botão de rolagem:"
+  },
+  "o_direction_speed": {
+    "message": "Estilo de rolagem / direção / velocidade:"
+  },
+  "o_multiplier": {
+    "message": "Multiplicador"
+  },
+  "o_times_speed": {
+    "message": "vezes velocidade de rolagem"
+  },
+  "o_maximum_speed": {
+    "message": "Velocidade máxima de rolagem (0 - desativado):"
+  },
+  "o_ratio_unit": {
+    "message": "relação (comprimento da página / tamanho da janela)"
+  },
+  "o_scroll_type_0": {
+    "message": "Emulate Scrollbar."
+  },
+  "o_scroll_type_1": {
+    "message": "Agarre e arrastar - como em um smartphone"
+  },
+  "o_scroll_type_2": {
+    "message": "Velocidade dinâmica (experimental)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "É como arrastar uma barra de rolagem"
+  },
+  "o_scroll_type_title_1": {
+    "message": "É como arrastar uma página com o dedo em uma tela do telefone"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Velocidade dinâmica torna a velocidade de rolagem mais lenta quando a página é mais longa"
+  },
+  "o_disable_key": {
+    "message": "Desativar / habilitar a rolagem quando a tecla está inativa:"
+  },
+  "o_momentum_category": {
+    "message": "Momentum:"
+  },
+  "o_momentum_formula": {
+    "message": "Fórmula Momentum:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Movimento uniformemente desacelerado"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Rolagem de página será uniformemente desacelerada até que ele pare"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Movimento exponencialmente desacelerado"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Pergaminho da página vai rapidamente (exponencialmente) desacelerar"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Movimento infinito ∞."
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Rolagem nunca vai parar"
+  },
+  "o_momentum_max_speed": {
+    "message": "Velocidade máxima (0 - desativado):"
+  },
+  "o_page_weight": {
+    "message": "Peso da página:"
+  },
+  "o_grams": {
+    "message": "gramas :)"
+  },
+  "o_additional_speed": {
+    "message": "Velocidade adicional:"
+  },
+  "o_pixels_second": {
+    "message": "pixels por segundo"
+  },
+  "o_additional_duration": {
+    "message": "Duração adicional:"
+  },
+  "o_advanced_momentum": {
+    "message": "Configuração avançada de momentum (apenas para especialistas!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Alterar esses valores pode quebrar seu impulso!"
+  },
+  "o_compute_from_last": {
+    "message": "Compute do último:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Detecção de parada de mouse:"
+  },
+  "o_tracking_speed": {
+    "message": "Velocidade de rastreamento:"
+  },
+  "o_reset_values": {
+    "message": "Redefinir valores"
+  },
+  "o_cursor_scrolling": {
+    "message": "Cursor usado ao rolar:"
+  },
+  "o_performance": {
+    "message": "Desempenho:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Evite grandes saltos"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Se você estiver usando a ferramenta que possa teleportar seu cursor na tela (quando chegar a uma borda), ative essa opção para permitir a rolagem contínua (infinita)."
+  },
+  "o_advanced": {
+    "message": "Avançada:"
+  },
+  "o_movement_detection": {
+    "message": "Limite de detecção de movimento do mouse:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Quantos pixels tem que mover o mouse para bloquear o link. Às vezes, ao pressionar o botão de rolagem, você move ligeiramente o mouse, mas você não quer que o link seja desativado por causa disso."
+  },
+  "o_context_menu_block": {
+    "message": "Bloco de menu de contexto:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Atraso de menu de contexto desbloqueado"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Se você ver o menu de contexto após a rolagem com o botão direito do mouse, aumente este valor"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Desativar rolagem horizontal em domínios:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Desativado em domínios:"
+  },
+  "o_is_disabled_url": {
+    "message": "Desativado em páginas / subpas:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Você pode usar símbolo da estrela (*) para definir uma parte de URL, por exemplo: \"google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Digite um domínio por linha."
+  },
+  "o_is_disabled": {
+    "message": "Desativar add-on"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Use o ícone da barra de ferramentas como o interruptor liga / desliga principal"
+  },
+  "o_scroll_button_middle": {
+    "message": "Botão do meio"
+  },
+  "o_scroll_button_right": {
+    "message": "Botão direito"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Usuários Linux / Mac - Você será solicitado para nova permissão \"Ler e modificar a configuração do navegador\" - isso é necessário para suprimir o menu de contexto sendo mostrado antes de rolar!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Usuários do Linux / Mac - Seu menu de contexto será bloqueado! Para abrir o menu de contexto Segure a tecla \"Shift\" ou triplo clique no botão direito."
+  },
+  "o_scroll_button_left": {
+    "message": "Botão esquerdo (experimental)"
+  },
+  "o_scroll_on_links": {
+    "message": "Role em links"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Quando ativado, você não poderá arrastar e soltar links (apenas usando a tecla 'Desativar')"
+  },
+  "o_scroll_on_text": {
+    "message": "Role no texto"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emula a rolagem / edição do telefone - você precisa clicar no texto para alternar para \"Modo de Edição\". Clicar fora do texto permite a rolagem novamente."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Role em textarea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea é um bloco de texto, geralmente redimensionável. Por exemplo, na guia \"Desativado\", você pode ver Textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Rolar em HTML editável"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Por exemplo, o corpo de e-mail no Gmail é editável HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "no texto permitirá selecionar / editar o texto."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Clique no texto irá ativar o \"modo de edição\". Clique em texto externo para ativar o \"modo de rolagem\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Único clique"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Duplo click"
+  },
+  "o_scrollbars_width": {
+    "message": "Scrollbars look"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normal (sem alteração)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Fino"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Escondida"
+  },
+  "o_scrollbars_color": {
+    "message": "Cor do controle deslizante da barra de rolagem:"
+  },
+  "o_scrollbars_background": {
+    "message": "Cor do fundo da barra de rolagem:"
+  },
+  "o_reverse": {
+    "message": "Direção de rolagem reversa."
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Mudança"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl."
+  },
+  "o_disable_type_0": {
+    "message": "Desativar quando a chave está inativa:"
+  },
+  "o_disable_type_1": {
+    "message": "Ativar quando a tecla está inativa:"
+  },
+  "o_momentum": {
+    "message": "ativar momentum - você pode \"jogar\" a página (como no telefone)"
+  },
+  "o_no_css_edit": {
+    "message": "Não bloqueie os iframes e não mude o cursor ao rolar"
+  },
+  "o_no_prevent_default": {
+    "message": "Não bloqueie a ação do botão padrão"
+  },
+  "o_auto_link_lock": {
+    "message": "Bloqueio de links:"
+  },
+  "o_no_link_block": {
+    "message": "Não bloqueie o clique do mouse no link após o movimento"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Quando você começa a rolar em um link e conclua a rolagem no mesmo link, o navegador abrirá o link. Isso geralmente não é o comportamento desejado, portanto, por padrão, ele está bloqueado."
+  },
+  "o_page_weight_title": {
+    "message": "Isso controla como a página \"pesada\" é. Páginas mais pesadas tem um ótimo momento."
+  },
+  "o_additional_speed_title": {
+    "message": "Você pode acelerar a velocidade indicando momentum."
+  },
+  "o_additional_duration_title": {
+    "message": "Tempo adicional para cada momento."
+  },
+  "o_compute_from_last_title": {
+    "message": "A velocidade inicial do momento é determinada pela velocidade de rolagem antes de liberar o botão de rolagem."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Quanto tempo tem que ficar parada - antes de liberar o botão de rolagem - para não ativar o momentum."
+  },
+  "o_tracking_speed_title": {
+    "message": "Intervalo para medir a velocidade de rolagem atual."
+  },
+  "o_scrolling_area": {
+    "message": "Área de rolagem:"
+  },
+  "o_outside_area_width": {
+    "message": "Área de rolagem (0 - desativado):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Mover seu cursor fora da área de rolagem irá reverter a posição de rolagem. O mesmo comportamento pode ser visto ao arrastar uma barra de rolagem."
+  },
+  "o_scroll_button_left_title": {
+    "message": "AVISO - O suporte do botão esquerdo está usando a API do Firefox obsoleta que poderia ser removida em versões futuras do Firefox."
+  },
+  "o_prevent_text_selection": {
+    "message": "Impedir a seleção de texto ao rolar com o botão esquerdo"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Em alguns dispositivos, a rolagem com botão esquerdo do mouse também selecione o texto na página."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Não bloqueie o menu de contexto ao tentar rolar a página não-rolável"
+  },
+  "o_backup_restore": {
+    "message": "Configurações de backup / restauração para arquivar:"
+  },
+  "o_export_settings": {
+    "message": "Exportar configurações para um arquivo"
+  },
+  "import_settings_button": {
+    "message": "Importar configurações de $1 arquivo ..."
+  },
+  "import_finished": {
+    "message": "Importação terminada!"
+  },
+  "test_page_title": {
+    "message": "Teste suas configurações de rolagem aqui"
+  },
+  "menu_options": {
+    "message": "Opções"
+  },
+  "menu_visit_title": {
+    "message": "Visite Homepage"
+  },
+  "not_working": {
+    "message": "Desativado pelo seu navegador da Web"
+  },
+  "disabled_by_user": {
+    "message": "Desativado neste domínio"
+  },
+  "not_working_title": {
+    "message": "Seu navegador bloqueará a rolagem nesses tipos de páginas:"
+  },
+  "not_working_body": {
+    "message": "Para habilitar a rolagem em páginas \"mozilla.org\", consulte este tutorial do YouTube"
+  },
+  "show_scrollbars": {
+    "message": "Mostrar barras de rolagem"
+  },
+  "show_scrollbars_title": {
+    "message": "Temporariamente mostrar barras de rolagem"
+  },
+  "switch_on_off": {
+    "message": "Switch add-on off / on"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Se você tiver um atraso perceptível entre pressionar o botão de rolagem e iniciar a rolagem, tente ativar essa opção. No entanto, você não poderá rolar \"iframes\", como alguns vídeos antigos incorporados ou alguns anúncios."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Isso também desabilitará a opção para alterar o cursor durante a rolagem."
+  },
+  "o_helper_text_default_action": {
+    "message": "Útil no Linux para permitir a pasta com o botão do meio."
+  },
+  "o_about_hello": {
+    "message": "Olá :)"
+  },
+  "o_about_intro": {
+    "message": "Meu nome é $1$ e eu sou o autor de $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Se você gosta, por favor, avalie aqui:"
+  },
+  "o_about_dislike_it": {
+    "message": "Se você não gosta, por favor, deixe-me saber porque meu e-mail. Estou implementando a maioria dos pedidos de recursos que recebo."
+  },
+  "o_disabled": {
+    "message": "desativada",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "ativada",
+    "common": true
+  },
+  "o_times": {
+    "message": "vezes",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "píxeis",
+    "common": true
+  },
+  "o_items": {
+    "message": "itens",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milissegundos",
+    "common": true
+  },
+  "label_working": {
+    "message": "trabalhando...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Perto",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Por favor, considere apoiar meu trabalho por",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "doação (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "tornando-se meu patrono",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Obrigada!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "casa:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contato:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Questões de relatório:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Eu posso responder apenas em inglês / eslovaco",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Mídia social:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Salvar alterações e fechar",
+    "common": true
+  },
+  "o_saved": {
+    "message": "salvou!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Em breve",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Salvar alterações",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Política de Privacidade",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Recursos recentemente adicionados:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tag:",
+    "common": true
+  }
+}

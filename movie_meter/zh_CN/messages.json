@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "日期，IMDB，描述，剧集，仪表，图形，IMDB，信息，仪表，电影，电影，电影，Netflix，IMDB，评级，系列，节目，电视，电视节目，视频，视觉，投票，季节"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "找不到/错误电影发现 - 由于没有与目标页面的“官方”集成，我无法保证100％正确的结果（但在大多数情况下它完美地工作）"
+  },
+  "_description_mm_not_working": {
+    "message": "不适用于您最喜欢的电影页面？"
+  },
+  "_description_mm_add_support": {
+    "message": "联系我，我会添加它 - 如果可能的话（页面必须包含英文中的电影名称或$visit_imdb$链接）。"
+  },
+  "_description_mm_feature_1": {
+    "message": "来自$visit_imdb$的电影额定值和人气"
+  },
+  "_description_mm_feature_2": {
+    "message": "下一个/上一个第0章日期$visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "额外的电影/电视系列信息"
+  },
+  "_description_mm_feature_4": {
+    "message": "关于新集的通知"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark TV系列作为收藏率，您将在新集发电时收到通知"
+  },
+  "_description_mm_feature_7": {
+    "message": "检测到视频播放时自动隐藏"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$将向您展示电影（或电视剧）的评级和普及"
+  },
+  "name": {
+    "message": "名称"
+  },
+  "year": {
+    "message": "年"
+  },
+  "video_type": {
+    "message": "类型"
+  },
+  "video_type_0": {
+    "message": "电影"
+  },
+  "video_type_1": {
+    "message": "系列"
+  },
+  "video_type_2": {
+    "message": "插曲"
+  },
+  "runtime": {
+    "message": "运行"
+  },
+  "premiered": {
+    "message": "首映"
+  },
+  "premiere_in": {
+    "message": "首映"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "国家"
+  },
+  "actors": {
+    "message": "演员"
+  },
+  "dvd": {
+    "message": "DVD"
+  },
+  "director": {
+    "message": "导演"
+  },
+  "totalseasons": {
+    "message": "总季节"
+  },
+  "writer": {
+    "message": "作家"
+  },
+  "language": {
+    "message": "语"
+  },
+  "awards": {
+    "message": "奖项"
+  },
+  "rated": {
+    "message": "评分为"
+  },
+  "production": {
+    "message": "生产"
+  },
+  "plot": {
+    "message": "阴谋"
+  },
+  "website": {
+    "message": "网站"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "访问$visit_imdb$页"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "访问$visit_tvmaze$页的此节目"
+  },
+  "make_favorite": {
+    "message": "最喜欢的"
+  },
+  "make_favorite_title": {
+    "message": "将电视系列添加到收藏夹。 这将允许您收到有关新剧集的通知。"
+  },
+  "last_episode": {
+    "message": "最后的"
+  },
+  "next_episode": {
+    "message": "下一个"
+  },
+  "last_episode_title": {
+    "message": "最后一集"
+  },
+  "next_episode_title": {
+    "message": "下一集"
+  },
+  "episode_airtime": {
+    "message": "通话时间"
+  },
+  "episode_name": {
+    "message": "名称"
+  },
+  "series_status": {
+    "message": "地位"
+  },
+  "episodes_count": {
+    "message": "剧集"
+  },
+  "episodes_count_title": {
+    "message": "当前的季节$1有$2剧集"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "天"
+  },
+  "hours": {
+    "message": "小时"
+  },
+  "na": {
+    "message": "无法使用"
+  },
+  "user_rating": {
+    "message": "用户评分：$1"
+  },
+  "user_popularity": {
+    "message": "人气：$1投票"
+  },
+  "source": {
+    "message": "来源：$1"
+  },
+  "show_details": {
+    "message": "更多的..."
+  },
+  "hide_details": {
+    "message": "较少的..."
+  },
+  "save_position": {
+    "message": "保存位置"
+  },
+  "revert_position": {
+    "message": "恢复姿势"
+  },
+  "win_disable": {
+    "message": "禁用$1"
+  },
+  "cm_advanced": {
+    "message": "先进的"
+  },
+  "op_visit_home": {
+    "message": "访问首页"
+  },
+  "op_support_me": {
+    "message": "助力此项目"
+  },
+  "hide": {
+    "message": "隐藏窗口"
+  },
+  "show": {
+    "message": "橱窗"
+  },
+  "reset_position": {
+    "message": "重置位置"
+  },
+  "search": {
+    "message": "搜索"
+  },
+  "configure_search": {
+    "message": "配置搜索选项"
+  },
+  "selection_search": {
+    "message": "搜索$1."
+  },
+  "menu_options": {
+    "message": "选项"
+  },
+  "menu_quick_options": {
+    "message": "快速选项"
+  },
+  "menu_visit_homepage": {
+    "message": "访问首页"
+  },
+  "menu_request_support": {
+    "message": "请求支持$1"
+  },
+  "show_introduction": {
+    "message": "显示介绍页面"
+  },
+  "o_about_issues": {
+    "message": "报告问题："
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "firefox_store": {
+    "message": "Firefox 附加组件页面"
+  },
+  "chrome_store": {
+    "message": "Chrome 网上应用店页面"
+  },
+  "movie_not_detected": {
+    "message": "电影未检测到"
+  },
+  "movie_not_detected_title": {
+    "message": "此页面上未检测到电影/电视系列。"
+  },
+  "movie_not_found": {
+    "message": "没有找到电影"
+  },
+  "movie_not_found_title": {
+    "message": "在服务器上找不到电影信息。"
+  },
+  "status_type_0": {
+    "message": "跑步"
+  },
+  "status_type_1": {
+    "message": "结束了"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "显示将继续"
+  },
+  "status_type_title_1": {
+    "message": "表演已经结束 - 没有更多的季节计划"
+  },
+  "status_type_title_2": {
+    "message": "显示未来尚不清楚"
+  },
+  "notify_movie_not_found": {
+    "message": "没有找到电影：$1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "仅使用英文电影名称！"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "搜索并不完美......"
+  },
+  "notify_video_hide": {
+    "message": "检测到视频 -  $app_name$现在隐藏"
+  },
+  "notify_video_hide_body": {
+    "message": "单击此处无法再次显示此通知"
+  },
+  "notify_new_episodes": {
+    "message": "新的剧集被播出了"
+  },
+  "title_introduction": {
+    "message": "简介"
+  },
+  "supported_pages": {
+    "message": "支持的页面："
+  },
+  "supported_grows": {
+    "message": "（这个名单变得更大，更大）"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "评级和人气信息来自$1$。 关于剧集的信息来自$2$。"
+  },
+  "title_got_it": {
+    "message": "好的，开始吧！"
+  },
+  "_description_privacy_policy": {
+    "message": "隐私政策"
+  },
+  "_description_recent_features": {
+    "message": "最近添加的功能："
+  },
+  "_description_known_issues": {
+    "message": "已知的问题："
+  },
+  "_description_common_tags": {
+    "message": "标签："
+  },
+  "_description_features": {
+    "message": "特征："
+  },
+  "about_me": {
+    "message": "自2016年以来我是Addon开发人员。我的目标是为您的网络浏览器构建强大的扩展，以使您更富有成效。"
+  },
+  "about_good_job": {
+    "message": "如果你认为我做得很好，请捐赠:)"
+  },
+  "about_income": {
+    "message": "你的捐款是我唯一的收入！"
+  },
+  "about_thanks": {
+    "message": "谢谢你支持我的工作！"
+  },
+  "o_about_support_by_iban": {
+    "message": "使用IBAN转帐："
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "支持独立开发人员！"
+  }
+}

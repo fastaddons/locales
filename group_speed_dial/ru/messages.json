@@ -1,0 +1,2543 @@
+{
+  "app_name": {
+    "message": "Group Speed Dial"
+  },
+  "app_desc": {
+    "message": "Наиболее продвинутый SpeedDial в мире для Ваших закладок! Он значительно улучшит Вашу продуктивность!"
+  },
+  "welcome_header": {
+    "message": "Добро пожаловать в дополнение $app_name$"
+  },
+  "welcome_setup": {
+    "message": ""
+  },
+  "welcome_watch_video": {
+    "message": "Краткое ознакомительное видео (1:50) с ключевыми особенностями."
+  },
+  "welcome_watch_android_video": {
+    "message": "Посмотреть видео настройки Android"
+  },
+  "welcome_home_group": {
+    "message": "В текущей \"Домашней группе\" 4 x 3 диала, изменить их можно здесь:"
+  },
+  "welcome_import_josep_del_rio": {
+    "message": "также существует возможность импорта диалов из \"Speed Dial by Josep del Rio\" и других:"
+  },
+  "welcome_options_page": {
+    "message": "Настройки"
+  },
+  "welcome_pick_color": {
+    "message": "выберите понравившийся цвет темы:"
+  },
+  "welcome_visuals": {
+    "message": "Для дополнительных опций перейдите на страницу Настройки"
+  },
+  "import_settings_button": {
+    "message": "Импорт настроек и диалов..."
+  },
+  "import_josep_button": {
+    "message": "Импорт файла \"CurrentSettings.speeddial\"..."
+  },
+  "import_firefox_button": {
+    "message": "Импорт файла \"bookmarks-2017-XX-XX.json\"..."
+  },
+  "import_fast_dial_button": {
+    "message": "Импорт файла \"fastdial.json\"..."
+  },
+  "import_super_start_button": {
+    "message": "Импорт файла \"sites.v1.json\"..."
+  },
+  "import_speed_dial_2_button": {
+    "message": "Импорт файла \"имя_файла\"..."
+  },
+  "import_done_text": {
+    "message": "Внешние диалы импортированы"
+  },
+  "import_skip": {
+    "message": "Ничего не импортировать"
+  },
+  "import_pages_stats": {
+    "message": "Импорт $1 страниц в $2 группы"
+  },
+  "import_data_from": {
+    "message": "Импорт данных из:"
+  },
+  "load_bookmarks": {
+    "message": "Загрузить закладки"
+  },
+  "load_top_pages": {
+    "message": "Загрузить наиболее используемые страницы"
+  },
+  "group_generated_name": {
+    "message": "Группа $1"
+  },
+  "default_home_group_name": {
+    "message": "Домашняя группа"
+  },
+  "drag_group_hover_open": {
+    "message": "Открыть группу"
+  },
+  "replace_dial": {
+    "message": "Заменить диал"
+  },
+  "replace_duplicate_dial": {
+    "message": "Дубликаты диалов - клик для обновления миниатюры"
+  },
+  "create_multi_page_dial": {
+    "message": ""
+  },
+  "replace_multi_page_dial": {
+    "message": ""
+  },
+  "msg_pro_cloud_upload": {
+    "message": "Загрузка миниатюр в облако - позволяет увидеть их на"
+  },
+  "msg_pro_cloud_web": {
+    "message": "странице Cloud-диалов"
+  },
+  "msg_pro_cloud_web_desc": {
+    "message": "Облачная версия пока не редактируемая, но работает во всех браузерах - даже в телефоне!"
+  },
+  "msg_pro_same_thumbnails": {
+    "message": "Можно иметь одинаковые диалы на всех устройствах!"
+  },
+  "msg_pro_thumbnails_download": {
+    "message": "Это скачает все загруженные миниатюры из облака и заменит текущие локальные."
+  },
+  "msg_correct_account": {
+    "message": "Посетите облачный сервер и убедитесь, что вошли в правильный аккаунт:"
+  },
+  "msg_replace_text": {
+    "message": "Также можно заменить локальные диалы."
+  },
+  "url_search": {
+    "message": "URL / Поиск"
+  },
+  "msg_search_by": {
+    "message": "Искать на:"
+  },
+  "msg_search_tip": {
+    "message": "Добавьте подписи диалов для лучшего поиска"
+  },
+  "msg_search_url": {
+    "message": "URL"
+  },
+  "msg_search_name": {
+    "message": "Имя"
+  },
+  "msg_search_note": {
+    "message": "Заметки"
+  },
+  "msg_add_dial_text": {
+    "message": "Можно перемещаться между группами, двигая или удаляя имеющиеся диалы."
+  },
+  "msg_add_dial_no_show": {
+    "message": "Больше не отображать"
+  },
+  "msg_add_dials_here": {
+    "message": "Вставить в пустой диал"
+  },
+  "add_target_dial": {
+    "message": "Выбрать целевой диал для страницы:"
+  },
+  "add_target_dials": {
+    "message": "Создать новую группу или выбрать диалы: $1"
+  },
+  "add_image": {
+    "message": "Вставить изображение"
+  },
+  "bc_first_group": {
+    "message": "Первая созданная группа"
+  },
+  "show_all_groups": {
+    "message": "Показать все группы"
+  },
+  "fr_home_group": {
+    "message": "Домашняя группа"
+  },
+  "err_db_settings_loading": {
+    "message": "Ошибка при загрузке настроек и базы данных"
+  },
+  "err_db_creation": {
+    "message": "Ошибка создания базы данных"
+  },
+  "err_db_loading": {
+    "message": "Ошибка чтения базы данных"
+  },
+  "err_db_images": {
+    "message": "Ошибка загрузки изображений из базы"
+  },
+  "sync_synced_ok": {
+    "message": "Синхронизировано с сервером"
+  },
+  "sync_working": {
+    "message": "Работа..."
+  },
+  "sync_syncing": {
+    "message": "Происходит синхронизация..."
+  },
+  "sync_synced": {
+    "message": "Готово"
+  },
+  "sync_sync_ok": {
+    "message": "Синхронизировано"
+  },
+  "sync_err_label": {
+    "message": "ошибка $1 - попробуйте позже"
+  },
+  "sync_err_conflict": {
+    "message": "конфликт"
+  },
+  "sync_err_server_newer": {
+    "message": "На сервере есть более новая версия."
+  },
+  "sync_err_user_mismatch_": {
+    "message": "Неправильное имя пользователя"
+  },
+  "sync_err_wrong_account": {
+    "message": "Версия принадлежит другому аккаунту."
+  },
+  "sync_err_not_empty": {
+    "message": "ошибка - не пусто"
+  },
+  "sync_err_server_not_empty": {
+    "message": "Сервер уже содержит данные"
+  },
+  "sync_err_forbidden": {
+    "message": "Нет доступа к этому ресурсу"
+  },
+  "sync_downloading": {
+    "message": "скачивается..."
+  },
+  "sync_down_thumbnails": {
+    "message": "скачивание миниатюр"
+  },
+  "sync_down_thumbnails_progress": {
+    "message": "скачивание $1 / $2"
+  },
+  "sync_down_thumbnails_wait": {
+    "message": "скачивание миниатюр, подождите"
+  },
+  "sync_up": {
+    "message": "загрузка..."
+  },
+  "sync_up_sync_thumbnails": {
+    "message": "синхронизация миниатюр... подготовка загрузки"
+  },
+  "sync_up_progress": {
+    "message": "загрузка $1 / $2"
+  },
+  "sync_up_wait": {
+    "message": "загрузка миниатюр, подождите"
+  },
+  "sync_thumbnails_progress": {
+    "message": "синхронизация миниатюр... $1 из $2"
+  },
+  "add_page": {
+    "message": "Добавить эту страницу на диал"
+  },
+  "add_dial": {
+    "message": "Добавить эту вкладку на диал"
+  },
+  "add_link": {
+    "message": "Добавить эту ссылку на диал"
+  },
+  "use_image_as_thumbnail": {
+    "message": "Использовать это изображение как фоновое"
+  },
+  "cm_choose_dial": {
+    "message": "Выбрать целевой диал"
+  },
+  "return_to_tab": {
+    "message": "Вернуться на вкладку"
+  },
+  "stay_here": {
+    "message": "Остаться здесь"
+  },
+  "close_added_pages": {
+    "message": ""
+  },
+  "close_this_tab": {
+    "message": ""
+  },
+  "group_first_created": {
+    "message": "Первая созданная группа"
+  },
+  "privacy_info_head": {
+    "message": "Это дополнение позволяет резервировать и синхронизировать Ваши диалы с использованием облачного сервера на $1"
+  },
+  "privacy_info_body_1": {
+    "message": "После создания аккаунта в этом облаке Ваши диалы будут синхронизированы с ним. Данные будут содержать только базовую информацию (введённую Вами) о Ваших диалах - именах, ссылках и т.д. Без сбора статистики и отслеживания!"
+  },
+  "privacy_info_body_2": {
+    "message": "Без создания аккаунта в облаке это дополнение НЕ будет отправлять запросы на сервер. При разрешении скачивания иконок с сервисов Google будут формироваться запросы на сервисы Google  для из скачивания. Использование дополнительных облачных возможностей (вроде миниатюр из публичной библиотеки) также формирует запросы на облачный сервер. Эти запросы НЕ содержат никакой личной информации."
+  },
+  "field_size_range": {
+    "message": "Значение должно быть между $1 и $2"
+  },
+  "field_zoom_range": {
+    "message": "Зум должен быть от $1 до $2"
+  },
+  "field_scale_range": {
+    "message": "Масштаб должен быть от $1 до $2"
+  },
+  "field_out_of_range": {
+    "message": "Вне диапазона"
+  },
+  "file_load_label": {
+    "message": "Загрузить из файла..."
+  },
+  "file_loaded_name": {
+    "message": "Загружен файл: $1"
+  },
+  "image_err_loading": {
+    "message": "Ошибка загрузки изображения"
+  },
+  "field_hours_range": {
+    "message": "Часы должны быть от $1 до $2"
+  },
+  "field_minutes_range": {
+    "message": "Минуты должны быть от $1 до $2"
+  },
+  "field_columns_range": {
+    "message": "Кол-во столбцов должно быть от $1 до $2"
+  },
+  "field_rows_range": {
+    "message": "Кол-во строк должно быть от $1 до $2"
+  },
+  "validation_url": {
+    "message": "Введите URL (ссылку)"
+  },
+  "save_dial_edited": {
+    "message": "диал изменен - $1"
+  },
+  "save_dials_added_to_group": {
+    "message": "несколько диалов добавлено в группу - $1"
+  },
+  "save_dial_moved": {
+    "message": "диал перемещён - $1"
+  },
+  "save_dial_resized": {
+    "message": "размер диала изменен - $1"
+  },
+  "save_group_rc_color": {
+    "message": "цвет группы строка/столбец изменен"
+  },
+  "save_group_moved": {
+    "message": "группа перемещена - $1"
+  },
+  "save_dial_names_saved": {
+    "message": "новые имена сохранены - $1"
+  },
+  "save_dials_sorted": {
+    "message": "отсортированы диалы в группе: $1"
+  },
+  "save_thumbnail_uploaded": {
+    "message": "миниатюра загружена - $1"
+  },
+  "save_public_thumbnail_uploaded": {
+    "message": "публичная миниатюра загружена - $1"
+  },
+  "save_productivity_selection_changed": {
+    "message": ""
+  },
+  "err_db_err_title": {
+    "message": "Ошибка :("
+  },
+  "save_dial_removed": {
+    "message": "диал удалён - $1"
+  },
+  "field_position_range": {
+    "message": "Позиция среди групп должна быть между $1 и $2"
+  },
+  "field_ratio_x_range": {
+    "message": "Множитель X должен быть от $1 до $2"
+  },
+  "field_ratio_y_range": {
+    "message": "Множитель Y должен быть от $1 до $2"
+  },
+  "validation_small_group_dimensions": {
+    "message": "Группа уже содержит $1 диалов. Используйте больше строк и столбцов, чтобы всё поместилось."
+  },
+  "save_group_edited": {
+    "message": "группа изменена - Группа: - $1"
+  },
+  "group_delete_title": {
+    "message": "Удаление группы \"$1\" с диалами"
+  },
+  "group_delete_body": {
+    "message": "Действительно удалить группу со всеми диалами?"
+  },
+  "group_delete_yes": {
+    "message": "Да"
+  },
+  "group_delete_no": {
+    "message": "Нет, не удалять"
+  },
+  "save_group_deleted": {
+    "message": "группа удалена - Группа: $1"
+  },
+  "cm_shortcut_title": {
+    "message": "Ярлык: \"$1\""
+  },
+  "cm_open_new_tab": {
+    "message": "Открыть в новой вкладке"
+  },
+  "cm_new_tab_in_container": {
+    "message": "Открыть в Контейнере"
+  },
+  "firefox_containers_about": {
+    "message": "О контейнерах Firefox"
+  },
+  "cm_open_all_new": {
+    "message": "Открыть все диалы - в новых вкладках"
+  },
+  "cm_open_all_replace": {
+    "message": "Открыть все диалы - заменить текущие"
+  },
+  "cm_replace_existing_title": {
+    "message": "Заменить существующие вкладки диалами из этой группы."
+  },
+  "cm_edit_dial": {
+    "message": "Изменить диал"
+  },
+  "cm_create_dial": {
+    "message": "Создать новый диал"
+  },
+  "cm_copy_link": {
+    "message": "Копировать ссылку"
+  },
+  "cm_move_dial": {
+    "message": "Переместить диал"
+  },
+  "cm_move_dial_to": {
+    "message": "Переместить в группу"
+  },
+  "cm_cut_dial": {
+    "message": "Вырезать диал"
+  },
+  "cm_copy_dial": {
+    "message": "Копировать диал"
+  },
+  "cm_paste_dial": {
+    "message": "Вставить диал"
+  },
+  "cm_paste_swap_dial": {
+    "message": "Вставить (поменять) диал"
+  },
+  "cm_paste_replace_dial": {
+    "message": "Вставить (заменить) диал"
+  },
+  "convert_to_multi": {
+    "message": ""
+  },
+  "add_to_multi": {
+    "message": ""
+  },
+  "cm_insert_up": {
+    "message": "Вставить выше"
+  },
+  "cm_insert_left": {
+    "message": "Вставить слева"
+  },
+  "cm_insert_right": {
+    "message": "Вставить справа"
+  },
+  "cm_insert_down": {
+    "message": "Вставить ниже"
+  },
+  "cm_drop_replace": {
+    "message": "Заменить диал"
+  },
+  "cm_drop_copy_replace": {
+    "message": "Скопировать и заменить диал"
+  },
+  "cm_drop_swap": {
+    "message": "Поменять диалы (по умолчанию)"
+  },
+  "cm_clear_dial": {
+    "message": "Очистить диал"
+  },
+  "cm_refresh_dial": {
+    "message": "Обновить диал"
+  },
+  "cm_refresh_image_here": {
+    "message": "Обновить здесь изображение"
+  },
+  "cm_plus_delay": {
+    "message": "+$1с"
+  },
+  "cm_plus_delay_title": {
+    "message": "Ждать $1 секунд после загрузки перед снятием скриншота"
+  },
+  "cm_btn_big": {
+    "message": "Бол"
+  },
+  "cm_bigger_title": {
+    "message": "Сгенерировать миниатюру побольше"
+  },
+  "cm_refresh_visit": {
+    "message": "Обновить посещением"
+  },
+  "cm_btn_left": {
+    "message": "Лев"
+  },
+  "cm_btn_left_title": {
+    "message": "Выровнять по левому краю (обычно - центр)"
+  },
+  "cm_group_open_new_tab": {
+    "message": "Открыть в новой вкладке"
+  },
+  "cm_edit_group": {
+    "message": "Изменить группу"
+  },
+  "cm_create_new_group": {
+    "message": "Создать новую группу"
+  },
+  "cm_sort_by": {
+    "message": "Сортировка по"
+  },
+  "sort_by_name": {
+    "message": "Имени"
+  },
+  "sort_by_note": {
+    "message": "Заметкам"
+  },
+  "sort_by_url": {
+    "message": "URL"
+  },
+  "sort_by_date": {
+    "message": "Дате создания"
+  },
+  "sort_by_remove_empty_dials": {
+    "message": "Удалить пустые диалы"
+  },
+  "resize_dial": {
+    "message": "Изменить размер"
+  },
+  "resize_dial_normal": {
+    "message": "Обычный"
+  },
+  "resize_dial_v_half": {
+    "message": "Половина по вертикали"
+  },
+  "resize_dial_h_half": {
+    "message": "Половина по горизонтали"
+  },
+  "resize_dial_small": {
+    "message": "Мелкий"
+  },
+  "resize_dial_tiny": {
+    "message": "Крошечный"
+  },
+  "resize_dial_micro": {
+    "message": "Микро"
+  },
+  "rc_color": {
+    "message": "Цвет Столбца / Строки"
+  },
+  "row_color": {
+    "message": "Цвет строки"
+  },
+  "col_color": {
+    "message": "Цвет столбца"
+  },
+  "cm_refresh_dials": {
+    "message": "Обновить диалы"
+  },
+  "cm_change_thumbnail": {
+    "message": "Изменить изображение"
+  },
+  "cm_refresh_dial_background": {
+    "message": "Обновить диалы в фоне"
+  },
+  "cm_advanced": {
+    "message": "Расширено"
+  },
+  "cm_legacy_features": {
+    "message": "Устаревшие опции (не используйте)"
+  },
+  "cm_restore_previous_thumbnail": {
+    "message": "Восстановить прежнюю миниатюру"
+  },
+  "cm_public_upload": {
+    "message": "Закачать миниатюру в публичную библиотеку"
+  },
+  "cm_synchronize_thumbnails": {
+    "message": "Синхронизировать миниатюры с облачным аккаунтом"
+  },
+  "cm_user_consent_google_favicon": {
+    "message": "Скачать иконки из Google"
+  },
+  "cm_remove_group": {
+    "message": "Удалить группу"
+  },
+  "cm_upload_thumbnails": {
+    "message": "Загрузка миниатюр"
+  },
+  "cm_upgrade_pro": {
+    "message": "Апгрейд до Pro"
+  },
+  "cm_pro_only": {
+    "message": "Только Pro"
+  },
+  "save_group_created": {
+    "message": "Создана новая группа"
+  },
+  "refresh_all_title": {
+    "message": "Обновить все миниатюры:"
+  },
+  "refresh_ok": {
+    "message": "Обновление миниатюр"
+  },
+  "refresh_all": {
+    "message": "Все миниатюры"
+  },
+  "refresh_method": {
+    "message": "Метод обновления:"
+  },
+  "refresh_this_group": {
+    "message": "В этой группе"
+  },
+  "refresh_missing": {
+    "message": "Только потерянные"
+  },
+  "refresh_group_dials": {
+    "message": "Только диалы группы"
+  },
+  "refresh_auto_reload": {
+    "message": "Диалы с авто-обновлением разрешены"
+  },
+  "pro_upgrade_label": {
+    "message": "Апгрейд до Pro"
+  },
+  "pro_upgrade_now_label": {
+    "message": "Апгрейдить до Pro"
+  },
+  "sync_down_thumbnails_title": {
+    "message": "Скачивание миниатюр"
+  },
+  "sync_download_cloud_question": {
+    "message": "Действительно скачать миниатюры из облака?"
+  },
+  "sync_download_cloud_question_2": {
+    "message": "Это заменит локальные миниатюры."
+  },
+  "sync_download_yes": {
+    "message": "Да, скачать"
+  },
+  "sync_download_no": {
+    "message": "Нет"
+  },
+  "sync_conflict": {
+    "message": "Конфликт при синхронизации"
+  },
+  "sync_conflict_body": {
+    "message": "В облаке есть более новая версия, но у Вас есть несохранённые локальные изменения."
+  },
+  "sync_conflict_body_2": {
+    "message": "Заменить локальную версию?"
+  },
+  "sync_conflict_replace_local": {
+    "message": "Заменить локальную"
+  },
+  "sync_conflict_replace_server": {
+    "message": "Заменить на сервере"
+  },
+  "sync_err_account_title": {
+    "message": "Версия данных ассоциирована с другим аккаунтом."
+  },
+  "sync_err_account_replace_local": {
+    "message": "Заменить локальную"
+  },
+  "sync_err_account_replace_cloud": {
+    "message": "Заменить в облаке"
+  },
+  "sync_err_account_retry": {
+    "message": "Повтор"
+  },
+  "sync_not_empty_title": {
+    "message": "В облаке уже есть несколько диалов"
+  },
+  "sync_not_empty_replace_local": {
+    "message": "Заменить локальные"
+  },
+  "sync_not_empty_replace_cloud": {
+    "message": "Заменить в облаке"
+  },
+  "sync_not_empty_replace_retry": {
+    "message": "Повтор"
+  },
+  "sync_changed_account": {
+    "message": "Активен другой аккаунт"
+  },
+  "sync_changed_account_body": {
+    "message": "Вы вошли в другой аккаунт."
+  },
+  "login_login_create": {
+    "message": "Войти/Создать аккаунт"
+  },
+  "history_title": {
+    "message": "Бэкап / История"
+  },
+  "history_restore": {
+    "message": "Восстановить выбранные"
+  },
+  "history_loading": {
+    "message": "Загрузка истории..."
+  },
+  "history_cancel": {
+    "message": "Отмена"
+  },
+  "history_revert_dials": {
+    "message": "Для возвращения диала успользуйте опцию $1."
+  },
+  "save_history_restored": {
+    "message": "данные восстановлены из истории"
+  },
+  "search_title": {
+    "message": "Искать диалы"
+  },
+  "unexpected_title": {
+    "message": "Возникла неожиданная ошибка!"
+  },
+  "unexpected_solution": {
+    "message": "Нажмите для перезагрузки дополнения (если это не поможет, попробуйте перезагрузить браузер или компьютер)."
+  },
+  "unexpected_body": {
+    "message": "Отправьте мне следующий лог ошибки на мой e-mail поддержки:"
+  },
+  "unexpected_thanks": {
+    "message": "Спасибо."
+  },
+  "unexpected_close": {
+    "message": "Закрыть"
+  },
+  "err_mutable_title": {
+    "message": "Ошибка загрузки базы данных из-за запрета Истории в вашем браузере."
+  },
+  "err_mutable_body": {
+    "message": "Нужно установить \"Запоминать историю\" в Firefox / Настройки / Приватность и Защита / История."
+  },
+  "err_is_firefox_bug": {
+    "message": "Это баг Firefox."
+  },
+  "err_error_details": {
+    "message": "Подробности:"
+  },
+  "login_login_title": {
+    "message": "Войти для облачной синхронизации и доступа к облачным диалам"
+  },
+  "menu_refresh_all": {
+    "message": "Обновить всё в группе/всё потерянное (после синхронизации)/все диалы группы"
+  },
+  "menu_history_title": {
+    "message": "Открывает окно управления историей/бэкапами"
+  },
+  "menu_pro_upload": {
+    "message": "Только в Pro версии - Закачка всех миниатюр в облако и возможность доступа к ним со страницы-облака (даже в телефоне!)."
+  },
+  "menu_pro_download": {
+    "message": "Только в Pro версии - Скачивание всех миниатюр из облака с заменой текущих локальных."
+  },
+  "menu_page_to_dial": {
+    "message": "Добавить в диал"
+  },
+  "menu_pages_to_dial": {
+    "message": "Добавить вкладки на диалы: $1"
+  },
+  "menu_cloud_dials": {
+    "message": "Cloud-диалы"
+  },
+  "menu_dials_page": {
+    "message": "Меню страницы диалов"
+  },
+  "keys_ctrl_shift_f": {
+    "message": "Ctrl + Shift + F"
+  },
+  "ed_edit_dial": {
+    "message": "Изменить:"
+  },
+  "ed_tab_general": {
+    "message": "Общие"
+  },
+  "ed_auto_reload": {
+    "message": "Автообновление"
+  },
+  "ed_crop_scale": {
+    "message": "Масштаб"
+  },
+  "screen_width": {
+    "message": "Ширина"
+  },
+  "screen_height": {
+    "message": "Высота"
+  },
+  "ed_tab_thumbnail": {
+    "message": "Миниатюра"
+  },
+  "ed_tab_visual": {
+    "message": "Визуальные"
+  },
+  "ed_tab_settings": {
+    "message": "Установки"
+  },
+  "ed_dial_title": {
+    "message": "Заголовок диала:"
+  },
+  "ed_dial_note": {
+    "message": "Заметки:"
+  },
+  "ed_link_to_page": {
+    "message": "Ссылка на страницу:"
+  },
+  "ed_create_new_group": {
+    "message": "Создать новую группу:"
+  },
+  "ed_group_name": {
+    "message": "Имя:"
+  },
+  "ed_columns": {
+    "message": "Столбцов:"
+  },
+  "ed_rows": {
+    "message": "Строк:"
+  },
+  "ed_link_to_group": {
+    "message": "Ссылка на существующую группу:"
+  },
+  "ed_page_dial": {
+    "message": "Диал веб-страницы:"
+  },
+  "ed_group_dial": {
+    "message": "Диал группы:"
+  },
+  "ed_text_dial": {
+    "message": "Текст:"
+  },
+  "ed_search_dial": {
+    "message": "Поиск диала:"
+  },
+  "ed_multi_dial": {
+    "message": ""
+  },
+  "ed_live_dial": {
+    "message": "Живой диал:"
+  },
+  "ed_live_dial_title_1": {
+    "message": "Живые диалы - это живые страницы сайта, загруженные в диал."
+  },
+  "ed_live_dial_title_2": {
+    "message": "Не каждую страницу сайта можно загрузить как живую, но многие - можно."
+  },
+  "page_name": {
+    "message": ""
+  },
+  "search_provider_name": {
+    "message": "Имя"
+  },
+  "search_provider_url": {
+    "message": "URL"
+  },
+  "search_provider_icon": {
+    "message": "Иконка"
+  },
+  "search_provider_name_placeholder": {
+    "message": "Введите имя поискового провайдера"
+  },
+  "search_provider_url_placeholder": {
+    "message": "Введите поисковый URL - должен содержать $1"
+  },
+  "search_provider_url_info": {
+    "message": "Смотрите это видео руководство как создать поисковый URL"
+  },
+  "search_add_more": {
+    "message": "добавить поисковые движки..."
+  },
+  "search_add_more_title": {
+    "message": "В одном диале может быть несколько поисковых полей."
+  },
+  "search_provider_tip": {
+    "message": "Нажмите \"Enter\" для поиска здесь или \"Ctrl + Enter\" для открытия поиска в Новой вкладке"
+  },
+  "multi_dial_import": {
+    "message": ""
+  },
+  "multi_dial_import_help_0": {
+    "message": ""
+  },
+  "multi_dial_import_help_1": {
+    "message": ""
+  },
+  "multi_dial_import_current": {
+    "message": ""
+  },
+  "multi_dial_title_action": {
+    "message": ""
+  },
+  "multi_dial_link_action": {
+    "message": ""
+  },
+  "multi_dial_title_action_0": {
+    "message": ""
+  },
+  "multi_dial_title_action_1": {
+    "message": ""
+  },
+  "multi_dial_link_action_0": {
+    "message": ""
+  },
+  "multi_dial_link_action_1": {
+    "message": ""
+  },
+  "live_dial_opt_no_interaction": {
+    "message": "Запретить взаимодействие со страницей"
+  },
+  "live_dial_opt_hide_scrollbars": {
+    "message": "Спрятать полосы скроллинга"
+  },
+  "dial_text_placeholder": {
+    "message": "Введите текст"
+  },
+  "dial_click_to_clipboard": {
+    "message": "Копировать текст в буфер при клике на диал"
+  },
+  "ed_ar_title": {
+    "message": "Автозагрузка миниатюр"
+  },
+  "ed_ar_disabled_radio": {
+    "message": "Запрещено"
+  },
+  "ed_ar_enabled_radio": {
+    "message": "Разрешено"
+  },
+  "ed_au_type_0": {
+    "message": "Обновлять"
+  },
+  "ed_au_type_1": {
+    "message": "Ежедневно"
+  },
+  "ed_au_type_2": {
+    "message": "Ежемесячно"
+  },
+  "ed_au_type_3": {
+    "message": "Дни недели"
+  },
+  "ed_au_type_4": {
+    "message": "Выходные"
+  },
+  "ed_au_type_5": {
+    "message": "Понедельник"
+  },
+  "ed_au_type_6": {
+    "message": "Вторник"
+  },
+  "ed_au_type_7": {
+    "message": "Среда"
+  },
+  "ed_au_type_8": {
+    "message": "Четверг"
+  },
+  "ed_au_type_9": {
+    "message": "Пятница"
+  },
+  "ed_au_type_10": {
+    "message": "Суббота"
+  },
+  "ed_au_type_11": {
+    "message": "Воскресенье"
+  },
+  "ed_crop_off_radio": {
+    "message": "Авто"
+  },
+  "ed_crop_on_radio": {
+    "message": "Вручную"
+  },
+  "ar_at": {
+    "message": "в:"
+  },
+  "ar_hours": {
+    "message": "Часы"
+  },
+  "ar_minutes": {
+    "message": "Минуты"
+  },
+  "ar_dial_delay": {
+    "message": "Задержка перед созданием скриншота:"
+  },
+  "ar_dial_delay_title": {
+    "message": "После загрузки страницы, но перед созданием миниатюры, будет небольшое ожидание. Это может помочь в случае отложенной загрузки страницей своего содержимого или при использовании комплексной графики."
+  },
+  "ed_more_advanced": {
+    "message": "Больше расширенных опций появится в будущих версиях."
+  },
+  "ed_auto_generated_th_radio": {
+    "message": "Автоматические миниатюры:"
+  },
+  "ed_blank_radio": {
+    "message": "Миниатюра пустая / сплошного цвета - используя цвет фона"
+  },
+  "ed_make_text_radio": {
+    "message": "Создать свой Фон из Текста при помощи $1"
+  },
+  "use_for_dial": {
+    "message": "Использовать для диала"
+  },
+  "ed_custom_th_file": {
+    "message": "Своя миниатюра из файла:"
+  },
+  "ed_custom_th_url": {
+    "message": "Своя миниатюра с URL:"
+  },
+  "ed_public_thumbnail_radio": {
+    "message": "Миниатюра из публичной библиотеки:"
+  },
+  "load_images": {
+    "message": "Скачать изображения"
+  },
+  "load_images_empty": {
+    "message": "Для этого сайта изображений нет"
+  },
+  "downloads": {
+    "message": "Закачки:"
+  },
+  "image_info": {
+    "message": "Инфо об изображении"
+  },
+  "image_extension": {
+    "message": "Тип изображения:"
+  },
+  "create_date": {
+    "message": "Создано:"
+  },
+  "image_file_size": {
+    "message": "Размер изображения:"
+  },
+  "resolution_too_low": {
+    "message": "Разрешение слишком мало"
+  },
+  "report_image": {
+    "message": "Пожаловаться на изображение"
+  },
+  "category_vector_images": {
+    "message": "Векторные изображения"
+  },
+  "category_high_dpi": {
+    "message": "Высокое разрешение"
+  },
+  "category_medium_dpi": {
+    "message": "Среднее разрешение"
+  },
+  "category_low_dpi": {
+    "message": "Низкое разрешение"
+  },
+  "public_upload_consent": {
+    "message": "При загрузке миниатюры в публичную библиотеку Вы соглашаетесь с:"
+  },
+  "public_upload_body_1": {
+    "message": "Миниатюры из публичной библиотеки будут доступны всем пользователям!"
+  },
+  "public_upload_body_2": {
+    "message": "Загруженные данные содержат - размер и позицию миниатюры, имя диала. Другие пользователи не увидят, кто загрузил миниатюру."
+  },
+  "label_sending": {
+    "message": "оправка..."
+  },
+  "report_send": {
+    "message": "Сообщить!"
+  },
+  "report_details_placeholder": {
+    "message": "Дополнительная информация"
+  },
+  "report_type": {
+    "message": "Тип нарушения:"
+  },
+  "report_type_spam": {
+    "message": "спам"
+  },
+  "report_type_copyright": {
+    "message": "авторское право"
+  },
+  "report_type_violent": {
+    "message": "насилие"
+  },
+  "report_type_unethical": {
+    "message": "неэтично"
+  },
+  "report_type_other": {
+    "message": "другое"
+  },
+  "ed_save_on_disk": {
+    "message": "Сохранить"
+  },
+  "ed_vr_resolution": {
+    "message": "Разрешение:"
+  },
+  "ed_vr_resolution_title": {
+    "message": "Разрешение страницы для создания миниатюры."
+  },
+  "ed_no_zoom": {
+    "message": "Без зума"
+  },
+  "ed_top": {
+    "message": "верх"
+  },
+  "ed_left": {
+    "message": "лево"
+  },
+  "ed_center": {
+    "message": "центр"
+  },
+  "ed_align_left": {
+    "message": "По левому"
+  },
+  "ed_load_preview": {
+    "message": "Загрузить превью"
+  },
+  "ed_reset_position": {
+    "message": "Сброс позиции"
+  },
+  "ed_reset_zoom": {
+    "message": "Сброс зума"
+  },
+  "ed_reset_size": {
+    "message": "Сброс размера"
+  },
+  "ed_reset_scale": {
+    "message": "Сброс масштаба"
+  },
+  "label_reset_all": {
+    "message": "Сброс всего"
+  },
+  "label_coming_soon": {
+    "message": "Скоро будет"
+  },
+  "label_save_changes": {
+    "message": "Сохранить изменения"
+  },
+  "label_discard_changes": {
+    "message": "Отмена изменений"
+  },
+  "label_create_all_thumbnails": {
+    "message": "Создать все миниатюры"
+  },
+  "label_create_thumbnail": {
+    "message": "Создать миниатюру"
+  },
+  "ed_position": {
+    "message": "Позиция:"
+  },
+  "ed_thumbnail_position_0": {
+    "message": "Центр (содержимое)"
+  },
+  "ed_thumbnail_position_1": {
+    "message": "Полная ширина - выравнивание по верху"
+  },
+  "ed_thumbnail_position_2": {
+    "message": "Обложка"
+  },
+  "ed_thumbnail_position_3": {
+    "message": "Заполнить (растянуть)"
+  },
+  "ds_fetch_new_name": {
+    "message": "При обновлении также обновлять заголовок диала (нужен JavaScript)"
+  },
+  "ds_fetch_new_name_title": {
+    "message": "При обновлении (или автообновлении) заголовки диалов будут заменены на текущие для этой страницы. Чтобы это работало, требуется JavaScript."
+  },
+  "ds_no_script": {
+    "message": "Запретить JavaScript при обновлении"
+  },
+  "ds_no_script_title": {
+    "message": "Запрещение JavaScript может помочь с генерацией миниатюр на некоторых страницах."
+  },
+  "ds_open_dial_in": {
+    "message": "Открыть диал в:"
+  },
+  "ds_open_dial_in_0": {
+    "message": "Текущая вкладка"
+  },
+  "ds_open_dial_in_1": {
+    "message": "Новая вкладка (в фокусе)"
+  },
+  "ds_open_dial_in_2": {
+    "message": "Новая вкладка"
+  },
+  "ds_open_dial_in_3": {
+    "message": "Новое окно"
+  },
+  "ds_open_dial_in_4": {
+    "message": "Новое приватное окно"
+  },
+  "open_in_chrome_incognito": {
+    "message": "Окно Инкогнито"
+  },
+  "open_in_firefox_private": {
+    "message": "Приватное Окно"
+  },
+  "firefox_containers": {
+    "message": "Контейнеры"
+  },
+  "no_container": {
+    "message": "Нет контейнера"
+  },
+  "eg_title": {
+    "message": "Изменить группу"
+  },
+  "eg_position": {
+    "message": "Позиция:"
+  },
+  "eg_name": {
+    "message": "Имя:"
+  },
+  "eg_columns": {
+    "message": "Столбцы:"
+  },
+  "eg_rows": {
+    "message": "Строки:"
+  },
+  "eg_dials_ratio": {
+    "message": "Соотношение:"
+  },
+  "eg_flexible": {
+    "message": "мягкое"
+  },
+  "eg_fixed": {
+    "message": "фиксированное"
+  },
+  "group_eg_scrollable": {
+    "message": "Разрешить скроллинг в группе"
+  },
+  "eg_background_color": {
+    "message": "Цвет фона"
+  },
+  "eg_text_color": {
+    "message": "Цвет текста"
+  },
+  "menu_search_title": {
+    "message": "Искать диал (Ctrl + Shift + F) используя URL / Имя / Заметку"
+  },
+  "dial_number_title": {
+    "message": "Номер диала - его можно использовать для открытия соответствующего диала при помощи горячих клавиш и дополнения \"Ctrl + Номер для Group Speed Dial\"."
+  },
+  "dial_name_placeholder": {
+    "message": "автоматически, если пусто"
+  },
+  "dial_note_placeholder": {
+    "message": "Заметки помогают искать диалы, используя поиск (Ctrl + Shift + F)"
+  },
+  "dial_url_placeholder": {
+    "message": "можно опустить http://  (например: google.com)"
+  },
+  "duplicate_dial_found": {
+    "message": "Дубликат диала в группе $1"
+  },
+  "op_search": {
+    "message": "Искать диал"
+  },
+  "op_refresh": {
+    "message": "Обновить миниатюры"
+  },
+  "op_history": {
+    "message": "История / бэкапы"
+  },
+  "menu_archive_title": {
+    "message": "Архив содержит группы с пометкой Архивируемые."
+  },
+  "op_upload_thumbnails": {
+    "message": "Загрузить миниатюры"
+  },
+  "op_download_thumbnails": {
+    "message": "Скачать миниатюры"
+  },
+  "op_pro_only": {
+    "message": "(только Pro)"
+  },
+  "op_bing_image": {
+    "message": "Bing фон"
+  },
+  "op_bing_next": {
+    "message": "Следующее"
+  },
+  "op_bing_previous": {
+    "message": "Предыдущее"
+  },
+  "op_bing_fullscreen": {
+    "message": "Показать полное изображение"
+  },
+  "op_bing_quiz": {
+    "message": "Bing image Quiz"
+  },
+  "o_bing_hide_dials": {
+    "message": "Автоскрытие диалов для просмотра фона"
+  },
+  "o_no_dial_reflection": {
+    "message": ""
+  },
+  "o_background_url_placeholder": {
+    "message": "например: https://www.google.com/logo.jpg"
+  },
+  "o_paste_import_placeholder": {
+    "message": "вставить экспортируемый текст"
+  },
+  "o_add_current_after_action": {
+    "message": "После добавления текущей страницы на диалы:"
+  },
+  "o_add_current_after_action_0": {
+    "message": "Справшивать: Вернуться / Остаться"
+  },
+  "o_add_current_after_action_1": {
+    "message": "Вернуться на прежнюю вкладку"
+  },
+  "o_add_current_after_action_2": {
+    "message": "Остаться на странице диалов"
+  },
+  "o_theme_title": {
+    "message": "по умолчанию: черная - для лучшего ночного сна!"
+  },
+  "o_padding_title": {
+    "message": "Пространство вокруг каждого диала, между двумя соседними диалами - удваивается."
+  },
+  "o_sync_dials": {
+    "message": "Синхронизация диалов"
+  },
+  "o_sync_settings": {
+    "message": "Синхронизация настроек"
+  },
+  "o_disable_dials_sync": {
+    "message": "Запретить бэкап диалов для этого устройства"
+  },
+  "o_disable_dials_sync_title": {
+    "message": "Бэкап ваших диалов в облако НЕ будет произведен. Регулярно проводите локальные бэкапы для предотвращения потери данных!"
+  },
+  "o_auto_options_sync": {
+    "message": "Автоматический бэкап и синхронизация настроек на всех устройствах"
+  },
+  "o_group_padding_title": {
+    "message": "Пространство вокруг каждого имени группы, между двумя соседними именами - удваивается."
+  },
+  "o_group_font_size_title": {
+    "message": "Размер текста на верхней панели."
+  },
+  "o_recommended_for_performance_title": {
+    "message": "Рекомендуется для лучшей производительности."
+  },
+  "o_two_gradient_colors_title": {
+    "message": "Выберите не менее 2 цветов для градиента. - Использование сложных градиентных фонов негативно влияет на производительность."
+  },
+  "o_background_preview_title": {
+    "message": "Предпросмотр фона"
+  },
+  "o_big_picture_warning_title": {
+    "message": "Использование слишком больших картинок негативно влияет на производительность (время открывание новых вкладок)."
+  },
+  "o_group_delayed_activation_title": {
+    "message": "Эта задержка позволяет выбрать группу даже если она окружена другими группами (если, например, имеется 3 линии групп)"
+  },
+  "o_auto_upload_title": {
+    "message": "Требуется Professional версия. - Автозагрузка может быть активна только на 1 устройстве."
+  },
+  "o_no_title": {
+    "message": "Без заголовков (только миниатюры)"
+  },
+  "o_no_title_title": {
+    "message": "Когда разрешено, все текстовые заголовки диалов будут скрыты."
+  },
+  "o_squared_edges": {
+    "message": "Без закруглений"
+  },
+  "o_squared_edges_title": {
+    "message": "Когда разрешено, у диалов будут прямые углы."
+  },
+  "o_dial_font_size": {
+    "message": "Размер шрифта имён диалов"
+  },
+  "o_dial_title_down": {
+    "message": "Имена диалов - снизу"
+  },
+  "o_dial_title_down_title": {
+    "message": "Когда разрешено, имена диалов будут снизу."
+  },
+  "o_scrollable_thumbnails": {
+    "message": "Скроллинг миниатюры внутри диала"
+  },
+  "o_no_shadow": {
+    "message": "Без тени"
+  },
+  "o_no_shadow_title": {
+    "message": "Когда разрешено, тень вокруг диалов будет скрыта."
+  },
+  "o_hide_empty_dials": {
+    "message": "Прятать пустые диалы"
+  },
+  "o_hide_empty_dials_title": {
+    "message": "Когда разрешено, пустые диалы будут скрыты."
+  },
+  "o_hide_hover_shadow": {
+    "message": "Прятать тень при наведении"
+  },
+  "o_dial_numbers_title": {
+    "message": "В конце имён диалов будут отображаться номера. Эти номера нужны, если вы хотите использовать горячие клавиши для открытия соответствующих диалов. Для этого также должно быть установлено дополнение \"Ctrl + Number for Group Speed Dial\"."
+  },
+  "o_dial_numbers": {
+    "message": "Показывать номера диалов"
+  },
+  "o_hide_hover_shadow_title": {
+    "message": "Когда разрешено, при наведении курсора тень диала будет скрываться."
+  },
+  "o_hide_login_part": {
+    "message": "Скрыть область с учётной записью"
+  },
+  "o_hide_login_part_title": {
+    "message": "Скрывает метку \"Логин / Создать аккаунт\" или облачное имя, если осуществлён вход."
+  },
+  "o_hide_top_bar": {
+    "message": "Спрятать область с группами и учётной записью"
+  },
+  "o_hide_top_bar_title": {
+    "message": "Когда разрешено, панель вверху экрана с группами и логином будет скрыта."
+  },
+  "o_hide_add_group": {
+    "message": "Убрать кнопку \"+\" в конце списка групп"
+  },
+  "o_hide_add_group_title": {
+    "message": "Прячет кнопку с +"
+  },
+  "o_root_groups_only": {
+    "message": "Прятать вложенные группы из списка групп (верхняя панель)"
+  },
+  "o_root_groups_only_title": {
+    "message": "Будут отображаться только только корневые группы. Группы с групповыми диалами будут скрыты."
+  },
+  "o_firefox_homepage_override": {
+    "message": "Открывать страницу с диалами при запуске Firefox"
+  },
+  "o_pro_thumbnail_sync": {
+    "message": "Разрешить авто-синхронизацию миниатюр с облачным сервером"
+  },
+  "o_group_name_as_title": {
+    "message": "Устанавливать имя страницы с диалами как имя текущей группы"
+  },
+  "o_prevent_new_tab_container": {
+    "message": "Предотвращать открытие страницы диалов в Firefox-контейнере"
+  },
+  "o_prevent_new_tab_container_title": {
+    "message": "Страница диалов будет открыта без контейнера"
+  },
+  "o_group_name_as_title_title": {
+    "message": "Имя группы будет использовано как Заголовок страницы - это позволяет видеть имя закладки в панели задач."
+  },
+  "o_instant_popup_redirect": {
+    "message": "Иконка панели инструментов - использовать для перенаправления на страницу диалов"
+  },
+  "o_instant_popup_new_tab": {
+    "message": "открыть в новой вкладке"
+  },
+  "o_instant_popup_new_tab_title": {
+    "message": "Новые вкладки будут открывать по соседству с текущей."
+  },
+  "o_user_consent_google_favicon": {
+    "message": "Использовать сервисы Google для получения иконок диалов (если они не могут быть загружены напрямую) - рекомендуется"
+  },
+  "o_instant_popup_redirect_title": {
+    "message": "Кликнуть иконку панели инструментов для открытия страницы диалов"
+  },
+  "o_disable_quick_edit": {
+    "message": "Запретить быстрое редактирование по левому клику"
+  },
+  "o_disable_quick_edit_title": {
+    "message": "Левый клик на пустом диале больше не будет показывать окно редактирования."
+  },
+  "o_open_always_new_window": {
+    "message": "Всегда открывать в новом окне"
+  },
+  "o_open_always_new_window_title": {
+    "message": "Клик на диале будет открывать URL в новом окне"
+  },
+  "o_open_always_new_tab": {
+    "message": "Всегда открывать диалы в новой вкладке"
+  },
+  "o_open_always_new_tab_title": {
+    "message": "Клик по диалу будет открывать URL в новой вкладке"
+  },
+  "o_open_always_include_group_dials": {
+    "message": "Включая групповые диалы"
+  },
+  "o_open_always_include_group_dials_title": {
+    "message": "Групповые диалы также будут открываться в новой вкладке"
+  },
+  "o_open_always_focused": {
+    "message": "Автопереключение на новую вкладку"
+  },
+  "o_open_always_focused_title": {
+    "message": "Переключаться на только что открытую вкладку"
+  },
+  "o_remember_group": {
+    "message": "Запоминать последнюю открытую группу"
+  },
+  "o_remember_group_title": {
+    "message": "Когда разрешено, при открытии Новой вкладки она будет открываться с последней использовавшейся группой."
+  },
+  "o_remember_group_runtime": {
+    "message": "Помнить только до перезагрузки браузера"
+  },
+  "o_disable_auto_show_groups": {
+    "message": "Запретить автопоказ группы при использовании Drag and Drop"
+  },
+  "o_disable_auto_show_groups_title": {
+    "message": "По умолчанию, при перетягивании диалов виден весь список групп для реализации перемещения между группами."
+  },
+  "o_scroll_groups": {
+    "message": "Скроллинг для групп"
+  },
+  "o_scroll_groups_title": {
+    "message": "Позволит использовать колесо мыши для скроллинга внутри группы."
+  },
+  "o_scroll_groups_reverse": {
+    "message": "Реверс направления скроллинга"
+  },
+  "o_scroll_groups_reverse_title": {
+    "message": "Скроллинг вверх приведёт в следующую группу."
+  },
+  "o_scroll_groups_circle": {
+    "message": "Закольцевать начало/конец"
+  },
+  "o_scroll_groups_circle_title": {
+    "message": "При достижении конца дальнейший скроллинг переведёт в начало (и наоборот)"
+  },
+  "o_frame_jpeg": {
+    "message": "Использовать JPEG вместо PNG"
+  },
+  "o_frame_jpeg_title": {
+    "message": "Формат JPEG потребляет меньше памяти и быстрее прорисовывается."
+  },
+  "o_visit_jpeg": {
+    "message": "Использовать JPEG вместо PNG"
+  },
+  "o_visit_jpeg_title": {
+    "message": "Формат JPEG потребляет меньше памяти и быстрее прорисовывается."
+  },
+  "o_visit_jpeg_high_resolution": {
+    "message": "Высокое разрешение"
+  },
+  "o_visit_jpeg_high_resolution_title": {
+    "message": "Миниатюры будут с двойным разрешением для улучшения качества."
+  },
+  "o_current_dial_dimensions": {
+    "message": "Использовать текущие размеры диала (не рекомендуется)"
+  },
+  "o_current_dial_dimensions_title": {
+    "message": "Если разрешено, будет использован текущий размер диала. Если запрещено, разрешение целевого диала вычисляется из разрешения экрана и групповых столбцов / строк."
+  },
+  "o_context_menu_show_groups": {
+    "message": "Показывать список групп в контекстном меню для быстрой вставки"
+  },
+  "o_context_menu_internal": {
+    "message": "Контекстное меню страницы диалов:"
+  },
+  "o_dials_context_menu": {
+    "message": "Диалы и группы диалов:"
+  },
+  "o_groups_context_menu": {
+    "message": "Группы:"
+  },
+  "o_options_context_menu": {
+    "message": "Меню настроек:"
+  },
+  "o_tab_visual_dials": {
+    "message": "Диалы"
+  },
+  "o_tab_visual_groups": {
+    "message": "Группы"
+  },
+  "o_tab_thumbnails": {
+    "message": "Миниатюры"
+  },
+  "o_tab_image": {
+    "message": "Качество картинок"
+  },
+  "o_theme": {
+    "message": "Тема:"
+  },
+  "o_color_theme": {
+    "message": "Цветовая тема:"
+  },
+  "o_custom_css": {
+    "message": "Особые CSS стили:"
+  },
+  "o_custom_css_placeholder": {
+    "message": "ВНИМАНИЕ! Только для опытных пользователей! Неправильные стили могут всё испортить."
+  },
+  "o_reload_group_dials": {
+    "message": "Обновить Группу диалов после изменения фона"
+  },
+  "o_dials": {
+    "message": "Диалы:"
+  },
+  "o_dials_visual": {
+    "message": "Диалы - визуально:"
+  },
+  "o_android_min_size": {
+    "message": "Размер диала Android"
+  },
+  "o_android_min_dial_size": {
+    "message": "Минимальный размер диала Android (0 - запретить):"
+  },
+  "o_space_around_dials": {
+    "message": "Пространство вокруг диалов:"
+  },
+  "o_group_list": {
+    "message": "Список групп:"
+  },
+  "o_space_around_groups": {
+    "message": "Пространство вокруг групп:"
+  },
+  "o_group_list_size": {
+    "message": "Размер шрифта списка групп:"
+  },
+  "o_group_list_height": {
+    "message": "Высота списка групп:"
+  },
+  "o_background_pic": {
+    "message": "Фоновая картинка:"
+  },
+  "o_gradient_type": {
+    "message": "Тип градиента:"
+  },
+  "o_gradient_colors": {
+    "message": "Цвета градиента:"
+  },
+  "o_gradient_solid": {
+    "message": "Сплошной цвет - без градиента"
+  },
+  "o_gradient_linear_up_down": {
+    "message": "линейно сверху вниз"
+  },
+  "o_gradient_linear_left_right": {
+    "message": "линейно слева направо"
+  },
+  "o_gradient_linear_diagonal": {
+    "message": "линейно по диагонали"
+  },
+  "o_gradient_radial_elipse": {
+    "message": "радиально эллипсом"
+  },
+  "o_gradient_radial_circle": {
+    "message": "радиально кругом"
+  },
+  "o_choose_local_image": {
+    "message": "Выбрать файл картинки..."
+  },
+  "o_copy_link": {
+    "message": "Копировать ссылку"
+  },
+  "o_safari_dials_page_hotkeys": {
+    "message": "Комбинация клавиш для открытия страницы диалов:"
+  },
+  "o_how_to_homepage": {
+    "message": "для установки $app_name$ домашней страницей нажмите кнопку \"Копировать ссылку\" и вставьте её в настройки: Firefox / Настройки / Домашняя страница"
+  },
+  "o_redirect_url": {
+    "message": "Заменять страницу \"Новая вкладка\" этим URL:"
+  },
+  "o_redirect_url_placeholder": {
+    "message": "например: https://www.google.com/"
+  },
+  "o_redirect_url_title": {
+    "message": "ВНИМАНИЕ: можно использовать только ссылки на обычные страницы. Внутренние страницы вроде \"about:newtab\" не будет работать! Исключение только для \"about:blank\"."
+  },
+  "o_groups": {
+    "message": "Группы:"
+  },
+  "o_group_activation_delay": {
+    "message": "Задержка при активации Drag and Drop:"
+  },
+  "o_short_keys": {
+    "message": "Shortkeys - требуется ещё одно дополнение:"
+  },
+  "o_key_extended_mode": {
+    "message": "Открыть доступ к более чем 9 диалам"
+  },
+  "o_key_extended_mode_title": {
+    "message": "Становится доступно использование многоциферных чисел."
+  },
+  "o_dial_only_current_group": {
+    "message": "Диал только из текущей открытой группы"
+  },
+  "o_dial_only_current_group_title": {
+    "message": "Пример: нажатие \"1\" откроет первый диал в текущей группе."
+  },
+  "o_key_force_page_focus": {
+    "message": "Установить фокус на странице (экспериментально - может перестать работать)"
+  },
+  "o_key_force_page_focus_title": {
+    "message": "Если фокус установлен на адресную строку, постараемся вместо этого установить фокус на саму страницу. Но это запретит в навигации кнопку \"Назад\". Эта экспериментальная возможность может перестать работать в новых версиях Firefox."
+  },
+  "o_key_to_group_dial": {
+    "message": "Разрешить доступ к группам при удержании клавиши:"
+  },
+  "o_key_to_group_dial_title": {
+    "message": "При удержании этой клавиши будет осуществляться доступ к группам диалов вместо самих диалов."
+  },
+  "o_key_disable_alt": {
+    "message": "Запретить комбинации с \"Alt\" / \"CMD\""
+  },
+  "o_key_disable_alt_title": {
+    "message": "Запрещает комбинации с клавишей \"Alt\" в Windows и клавишей \"CMD\" в Mac OS."
+  },
+  "o_key_disable_ctrl": {
+    "message": "Запретить комбинации с \"Ctrl\""
+  },
+  "o_key_disable_ctrl_title": {
+    "message": "Запрещает комбинации с клавишей \"Ctrl\"."
+  },
+  "o_key_disable_shift": {
+    "message": "Запретить комбинации с \"Shift\"."
+  },
+  "o_key_disable_shift_title": {
+    "message": "Запрещает комбинации с клавишей \"Shift\", например, \"Ctrl + Shift + 1\" или \"Alt + Shift + 1\"."
+  },
+  "o_key_disable_f4": {
+    "message": "Запретить открывать Новую вкладку при нажатии \"F4\""
+  },
+  "o_key_disable_f4_title": {
+    "message": "Нажатие \"F4\" больше не будет открывать Новую вкладку."
+  },
+  "o_key_f4_active_here": {
+    "message": "Открытие страницы диалов в активной вкладке"
+  },
+  "o_key_disable_zero": {
+    "message": "Запретить открывать 10-ый диал комбинацией \"Ctrl + 0\""
+  },
+  "o_key_disable_zero_title": {
+    "message": "Нажатие комбинации \"Ctrl + 0\" (используемое для \"Сброса масштаба\") больше не будет открывать диал с номером 10."
+  },
+  "o_key_new_tab": {
+    "message": "Открывать в Новой вкладке"
+  },
+  "o_key_new_tab_title": {
+    "message": "Диалы всегда будут открываться только в новых вкладках."
+  },
+  "o_key_next_to_current": {
+    "message": "рядом с текущей вкладкой"
+  },
+  "o_key_next_to_current_title": {
+    "message": "Диалы будут открываться в соседних вкладках."
+  },
+  "o_keys_delay": {
+    "message": "Задержка для многоциферных чисел:"
+  },
+  "o_ar_settings": {
+    "message": "Настройка автообновления"
+  },
+  "o_ar_disable_this_device": {
+    "message": "Запретить на этом устройстве"
+  },
+  "o_ar_disable_this_device_title": {
+    "message": "Автообновление в этом браузере будет запрещено."
+  },
+  "o_ar_keep_pinned_tab": {
+    "message": "Оставлять вкладку открытой после автообновления"
+  },
+  "o_ar_keep_pinned_tab_title": {
+    "message": "Вкладка, использованная для создания миниатюры, после автообновления останется открытой."
+  },
+  "o_ar_concurrent_count": {
+    "message": "Максимум параллельно загружаемых страниц"
+  },
+  "o_ar_concurrent_count_title": {
+    "message": "Ограничивает число страниц, загружаемых одновременно во время создания миниатюр. Уменьшение числа может снизить потребление памяти и процессорного времени."
+  },
+  "o_ar_screen_resolution": {
+    "message": "Разрешение экрана для автообновления"
+  },
+  "o_ar_auto_radio": {
+    "message": "Автоматически - на основе текущего разрешения экрана (рекомендуется)"
+  },
+  "o_ar_custom_radio": {
+    "message": "Вручную"
+  },
+  "o_ar_screen_resolution_help": {
+    "message": "Разрешение миниатюры вычисляется из размера экрана и требуемого размера группы."
+  },
+  "o_vr_screen_resolution": {
+    "message": "Разрешение страницы, используемое при генерации миниатюры."
+  },
+  "o_vr_default_width": {
+    "message": "Ширина виртуальной страницы по умолчанию"
+  },
+  "o_vr_default_width_title": {
+    "message": "Ширина страницы, используемая при генерации миниатюры."
+  },
+  "o_thumb_timings": {
+    "message": "Тайминги и задержки при генерации миниатюр:"
+  },
+  "o_load_timeout": {
+    "message": "Макс таймаут для загрузки:"
+  },
+  "o_context_menu_plus_delay": {
+    "message": "Допзадержка контекстного меню:"
+  },
+  "o_normal_reload_fixed_delay": {
+    "message": "Обычная задержка обновления:"
+  },
+  "o_reload_visit_fixed_delay": {
+    "message": "При посещении задержка обновления:"
+  },
+  "o_thumbnails_delays_help": {
+    "message": "Эти задержки полезны при создании миниатюр - многие ресурсы используют javascript при загрузке содержимого страниц и браузеру нужно дополнительное время для их прорисовки."
+  },
+  "o_img_quality_default_reload": {
+    "message": "Качество картинок - обычное обновление:"
+  },
+  "o_img_compression_level": {
+    "message": "уровень сжатия"
+  },
+  "o_img_quality_reload_visit": {
+    "message": "Качество картинок - обновление посещением:"
+  },
+  "o_context_menu_dials_page": {
+    "message": "Контекстное меню на странице Диалов:"
+  },
+  "o_backup_restore": {
+    "message": "Файл для бэкапа / восстановления:"
+  },
+  "o_export_dials": {
+    "message": "Экспорт настроек и диалов"
+  },
+  "o_export_thumbnails": {
+    "message": "экспорт миниатюр тоже - это сильно увеличит размер файла для экспорта"
+  },
+  "o_import_other_addons": {
+    "message": "Импорт из других дополнений:"
+  },
+  "o_import_josep": {
+    "message": "Импорт диалов из дополнения \"Speed Dial by Josep del Rio\":"
+  },
+  "o_import_fvd": {
+    "message": "Импорт диалов из дополнения \"Speed Dial [FVD] by Nimbus Web\":"
+  },
+  "o_import_firefox_bookmarks": {
+    "message": "Импорт диалов из закладок Firefox \".json\" файл:"
+  },
+  "o_import_fast_dial": {
+    "message": "Импорт диалов из дополнения \"Fast Dial by telega\":"
+  },
+  "o_import_super_start_bookmarks": {
+    "message": "Импорт диалов из дополнения \"Super Start by cyberscorpio\""
+  },
+  "o_import_speed_dial_2": {
+    "message": "Импорт диалов из дополнения \"Speed Dial 2 by speeddial2.com\":"
+  },
+  "o_replace_existing": {
+    "message": "Заменять существующие"
+  },
+  "o_import_from_text": {
+    "message": "Из текста:"
+  },
+  "o_about_cloud_dials": {
+    "message": "Облачные диалы:"
+  },
+  "o_auto_upload_pro": {
+    "message": "Автозагрузка миниатюр (только Pro)"
+  },
+  "o_picture_from_url": {
+    "message": "картинка из URL:"
+  },
+  "o_picture_is_web_page": {
+    "message": "web страница как фон:"
+  },
+  "o_picture_bing_of_the_day": {
+    "message": "Изображение дня Bing:"
+  },
+  "o_picture_bing_of_the_day_note": {
+    "message": "новое изображение каждый день из $1"
+  },
+  "o_picture_bing_of_the_day_help": {
+    "message": "Изображением Bing можно управлять в главном меню страницы диалов."
+  },
+  "o_picture_from_pc": {
+    "message": "картинка с ПК:"
+  },
+  "o_gradient_colors_sm": {
+    "message": "градиент цветов:"
+  },
+  "o_none_fastest": {
+    "message": "нет (самый быстрый)"
+  },
+  "o_watch_youtube_import": {
+    "message": "Смотреть руководство на YouTube"
+  },
+  "o_cloud_backup_instead": {
+    "message": "Вы можете создать бесплатный аккаунт в облаке и резервная копия диалов будет автоматически сделана в облако. Все передаваемые данные шифруются HTTPS соединением."
+  },
+  "reload_heading": {
+    "message": "$app_name$ - вкладка перезагрузки миниатюр"
+  },
+  "reload_subheading": {
+    "message": "Эта вкладка используется средством Автозагрузки для создания миниатюр в фоновом режиме."
+  },
+  "archive": {
+    "message": "Архивирование"
+  },
+  "archived": {
+    "message": "заархивировано"
+  },
+  "archive_empty": {
+    "message": "Архив пуст"
+  },
+  "archive_empty_body": {
+    "message": "Сначала отметьте несколько групп как архивируемые."
+  },
+  "archive_close_title": {
+    "message": "Нажмите для закрытия архива"
+  },
+  "group_archive_group": {
+    "message": "Переместить группу в архив"
+  },
+  "group_archive_group_title": {
+    "message": "Архивированные группы не видны в списке групп. Получить доступ к ним можно через Главное меню / Архивирование."
+  },
+  "productivity_mode": {
+    "message": ""
+  },
+  "productivity_mode_title": {
+    "message": ""
+  },
+  "auto_productivity_mode": {
+    "message": ""
+  },
+  "active_days": {
+    "message": ""
+  },
+  "start_time": {
+    "message": ""
+  },
+  "end_time": {
+    "message": ""
+  },
+  "elapsed_time": {
+    "message": ""
+  },
+  "remaining_time": {
+    "message": ""
+  },
+  "start_productivity": {
+    "message": ""
+  },
+  "end_productivity": {
+    "message": ""
+  },
+  "choose_distracting_dials": {
+    "message": ""
+  },
+  "selected_dials_groups": {
+    "message": ""
+  },
+  "s_cp": {
+    "message": "Другой поисковый провайдер"
+  },
+  "sc_0": {
+    "message": "Другое"
+  },
+  "sc_1": {
+    "message": "Веб поиск"
+  },
+  "sc_2": {
+    "message": "Перевод"
+  },
+  "sc_3": {
+    "message": "Видео"
+  },
+  "sc_4": {
+    "message": "Соцсети"
+  },
+  "sc_5": {
+    "message": "Карты"
+  },
+  "sc_6": {
+    "message": "Музыка"
+  },
+  "sc_7": {
+    "message": "Видео"
+  },
+  "sc_8": {
+    "message": "Другое"
+  },
+  "search_engine": {
+    "message": "Движок поиска",
+    "common": true
+  },
+  "color_remove_color": {
+    "message": "убрать цвет",
+    "common": true
+  },
+  "color_transparent": {
+    "message": "прозрачный",
+    "common": true
+  },
+  "color_rgb": {
+    "message": "RGB",
+    "common": true
+  },
+  "color_no_color": {
+    "message": "",
+    "common": true
+  },
+  "field_int_default_value": {
+    "message": "По умолчанию: $1, мин: $2, макс: $3",
+    "common": true
+  },
+  "field_set_default": {
+    "message": "Сброс на умолчания: $1",
+    "common": true
+  },
+  "import_finished": {
+    "message": "Импорт завершён!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Ошибка",
+    "common": true
+  },
+  "pro_required": {
+    "message": "Требуется Pro версия",
+    "common": true
+  },
+  "version_free": {
+    "message": "$1 версия (бесплатная) - только для некоммерческого использования",
+    "common": true
+  },
+  "version_pro": {
+    "message": "$1 версия",
+    "common": true
+  },
+  "msg_pro_header": {
+    "message": "Эта функция доступна только в версии Professional",
+    "common": true
+  },
+  "msg_pro_support": {
+    "message": "Поддержите разработку этого дополнения, используя апгрейд до Pro.",
+    "common": true
+  },
+  "statistics": {
+    "message": "Статистика",
+    "common": true
+  },
+  "color_black": {
+    "message": "Черная",
+    "common": true
+  },
+  "color_white": {
+    "message": "Белая",
+    "common": true
+  },
+  "theme_light": {
+    "message": "",
+    "common": true
+  },
+  "theme_dark": {
+    "message": "",
+    "common": true
+  },
+  "title_introduction": {
+    "message": "Знакомство",
+    "common": true
+  },
+  "title_got_it": {
+    "message": "Понятно, начинаем!",
+    "common": true
+  },
+  "privacy_info": {
+    "message": "Информация о приватности",
+    "common": true
+  },
+  "search_search": {
+    "message": "Искать",
+    "common": true
+  },
+  "search_close": {
+    "message": "Закрыть",
+    "common": true
+  },
+  "email_send_me": {
+    "message": "отправить e-mail",
+    "common": true
+  },
+  "send_runtime_error_log": {
+    "message": "Отправить логи ошибок...",
+    "common": true
+  },
+  "send_runtime_errors": {
+    "message": "Кликните на ссылке ниже, чтобы отправить мне сообщение с информацией:",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Страница дополнений Firefox",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Страница магазина Chrome",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Настройки",
+    "common": true
+  },
+  "menu_quick_options": {
+    "message": "Быстрые настройки",
+    "common": true
+  },
+  "menu_visit_homepage": {
+    "message": "Домашняя страница",
+    "common": true
+  },
+  "key_name_ctrl": {
+    "message": "Ctrl",
+    "common": true
+  },
+  "key_name_alt": {
+    "message": "Alt",
+    "common": true
+  },
+  "key_name_shift": {
+    "message": "Shift",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Размер шрифта",
+    "common": true
+  },
+  "label_font_size_preview": {
+    "message": "Предпросмотр размера",
+    "common": true
+  },
+  "label_previous": {
+    "message": "",
+    "common": true
+  },
+  "label_back": {
+    "message": "",
+    "common": true
+  },
+  "label_next": {
+    "message": "Далее",
+    "common": true
+  },
+  "label_note": {
+    "message": "Заметки:",
+    "common": true
+  },
+  "label_not_supported_by_browser": {
+    "message": "",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Удалить",
+    "common": true
+  },
+  "label_warning": {
+    "message": "ВНИМАНИЕ:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Настройки:",
+    "common": true
+  },
+  "label_default": {
+    "message": "По умолчанию:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Готово!",
+    "common": true
+  },
+  "label_copy": {
+    "message": "",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Скопировано!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Особое:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Закрыть",
+    "common": true
+  },
+  "label_maximize": {
+    "message": "Развернуть",
+    "common": true
+  },
+  "label_minimize": {
+    "message": "",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Установлено",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Открыть страницу",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Согласиться",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Отмена",
+    "common": true
+  },
+  "label_active": {
+    "message": "",
+    "common": true
+  },
+  "label_inactive": {
+    "message": "",
+    "common": true
+  },
+  "label_paused": {
+    "message": "",
+    "common": true
+  },
+  "label_pause": {
+    "message": "",
+    "common": true
+  },
+  "label_resume": {
+    "message": "",
+    "common": true
+  },
+  "label_select_all": {
+    "message": "",
+    "common": true
+  },
+  "label_select_none": {
+    "message": "",
+    "common": true
+  },
+  "label_minutes": {
+    "message": "",
+    "common": true
+  },
+  "label_scale": {
+    "message": "масштаб:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Зум:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Размер:",
+    "common": true
+  },
+  "label_example": {
+    "message": "",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Меню",
+    "common": true
+  },
+  "menu_visit_title": {
+    "message": "Домашняя страница",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Домашняя страница",
+    "common": true
+  },
+  "online_help": {
+    "message": "",
+    "common": true
+  },
+  "online_help_info": {
+    "message": "",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Помочь проекту",
+    "common": true
+  },
+  "op_help": {
+    "message": "Помощь",
+    "common": true
+  },
+  "op_help_introduction": {
+    "message": "Вступительное видео",
+    "common": true
+  },
+  "op_help_safari_setup": {
+    "message": "Установка Safari",
+    "common": true
+  },
+  "op_help_android_setup": {
+    "message": "Видео настройки Android",
+    "common": true
+  },
+  "o_title": {
+    "message": "Настройки - $1",
+    "common": true
+  },
+  "o_manual_options_sync": {
+    "message": "Ручной бэкап",
+    "common": true
+  },
+  "automatic_backup": {
+    "message": "автоматический бэкап",
+    "common": true
+  },
+  "backup": {
+    "message": "бэкап",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Создать новый бэкап",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Сохранить настройки",
+    "common": true
+  },
+  "load_settings": {
+    "message": "Загрузить настройки",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Общие",
+    "common": true
+  },
+  "o_tab_sync": {
+    "message": "Синхронизация",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Фон",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Контекстное меню",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Комбинации клавиш",
+    "common": true
+  },
+  "o_tab_import": {
+    "message": "Импорт / бэкап",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "О дополнении",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "пикселей",
+    "common": true
+  },
+  "o_general": {
+    "message": "Общие",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "миллисекунд",
+    "common": true
+  },
+  "o_special_features": {
+    "message": "Дополнительные возможности:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "запрещено",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "разрешено",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "секунд",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Контекстное меню:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Импорт",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Привет :)",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Если вам нравится это дополнение, оцените его для:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Если Вам оно НЕ нравится, пожалуйста, сообщите на мой e-mail, почему именно . Я реализовываю большинство \"хотелок\" из числа тех, что получаю.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Пожалуйста, поддержите этот проект",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "пожертвованием (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "на Patreon",
+    "common": true
+  },
+  "o_about_support_by_update": {
+    "message": "апгрейдом до версии Professional",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Спасибо Вам!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "сайт:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Контакты:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Отчет о проблемах:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Я могу отвечать только на Английском / Словацком",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "В соцсетях:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Сохранить изменения и закрыть",
+    "common": true
+  },
+  "o_saved": {
+    "message": "сохранено!",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Я $1$, автор $app_name$.",
+    "common": true
+  },
+  "s_baidu": {
+    "message": "Baidu",
+    "common": true
+  },
+  "s_google": {
+    "message": "Google",
+    "common": true
+  },
+  "s_bing": {
+    "message": "Bing",
+    "common": true
+  },
+  "s_yahoo": {
+    "message": "Yahoo",
+    "common": true
+  },
+  "s_brave": {
+    "message": "Brave",
+    "common": true
+  },
+  "s_yandex": {
+    "message": "Яндекс",
+    "common": true
+  },
+  "s_duck_duck_go": {
+    "message": "DuckDuckGo",
+    "common": true
+  },
+  "s_qwant": {
+    "message": "Qwant",
+    "common": true
+  },
+  "s_ecosia": {
+    "message": "Ecosia",
+    "common": true
+  },
+  "s_seznam": {
+    "message": "Seznam",
+    "common": true
+  },
+  "s_translate_en": {
+    "message": "Google переводчик",
+    "common": true
+  },
+  "s_translate_microsoft_en": {
+    "message": "Microsoft Переводчик",
+    "common": true
+  },
+  "s_translate_deepl_en": {
+    "message": "DeepL Переводчик",
+    "common": true
+  },
+  "s_translate_yandex_en": {
+    "message": "Яндекс Переводчик",
+    "common": true
+  },
+  "s_translate_baidu_en": {
+    "message": "Baidu Переводчик",
+    "common": true
+  },
+  "s_wikipedia": {
+    "message": "Википедия",
+    "common": true
+  },
+  "s_youtube": {
+    "message": "YouTube",
+    "common": true
+  },
+  "s_google_maps": {
+    "message": "Google карты",
+    "common": true
+  },
+  "s_twitter": {
+    "message": "Twitter",
+    "common": true
+  },
+  "s_facebook": {
+    "message": "Facebook",
+    "common": true
+  },
+  "s_imdb": {
+    "message": "IMDb",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Нет совпадений",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Нет данных",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Тёмный режим",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Регулируется системой",
+    "common": true
+  }
+}

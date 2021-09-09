@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "било где, дугме, курсор, превуците, зграби, зграбите превући, хватање и повлачење, бесконачно, лево, средине, замах, миш, померите се, страницу, у праву, свидично се померите, померање, померање, померање, померање"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Повуците траку за помицање са средњим дугметом миша било где на страници. Подржава и \"Граб и превучете\" стил."
+  },
+  "field_int_default_value": {
+    "message": "Подразумевана вредност: $1, мин: $2, мак: $3"
+  },
+  "field_set_default": {
+    "message": "Ресетовање на задано: $1"
+  },
+  "thunderbird_store": {
+    "message": "Тхундербирд додаци"
+  },
+  "firefox_store": {
+    "message": "Фирефок додаци"
+  },
+  "chrome_store": {
+    "message": "Цхроме веб продавница"
+  },
+  "safari_store": {
+    "message": "Мац Апп Сторе"
+  },
+  "win_disable": {
+    "message": "Онемогући на $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Онемогући хоризонтално померање на $1"
+  },
+  "op_visit_home": {
+    "message": "Посетите почетну страницу"
+  },
+  "op_support_me": {
+    "message": "Помозите овом пројекту"
+  },
+  "o_title": {
+    "message": "Опције - $1"
+  },
+  "o_tab_general": {
+    "message": "Генерал"
+  },
+  "o_tab_momentum": {
+    "message": "Замах"
+  },
+  "o_tab_cursor": {
+    "message": "Курсор"
+  },
+  "o_axis_locking": {
+    "message": "АКСИС БРОКИНГ"
+  },
+  "o_tab_performance": {
+    "message": "Перформансе"
+  },
+  "o_tab_disabled_on": {
+    "message": "Инвалид на"
+  },
+  "o_tab_advanced": {
+    "message": "Напредан"
+  },
+  "o_tab_scrollbars": {
+    "message": "Трагове"
+  },
+  "o_tab_backup": {
+    "message": "Увоз / резервно копирање"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Приликом померања кутије која се помера у једној оси, али родитељска кутија се помера у другој оси, блокирање по једну осовину користећи:"
+  },
+  "o_axis_lock_0": {
+    "message": "Смарт Лоцк - Временска брава користећи замах"
+  },
+  "o_axis_lock_1": {
+    "message": "Строга брава - закључавање тренутног смера"
+  },
+  "o_axis_lock_2": {
+    "message": "Без закључавања без закључавања у обе осовину"
+  },
+  "o_trend_momentum_window": {
+    "message": "Величина паметног закључавања"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Већа вредност ће бити потребно више померање у супротној оси да се промени ос помидрости."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Аддон је онемогућен! Кликните овде да бисте омогућили."
+  },
+  "o_cursor_change_default": {
+    "message": "нема промене - најбоље перформансе"
+  },
+  "o_scroll_button": {
+    "message": "Дугме за померање:"
+  },
+  "o_direction_speed": {
+    "message": "Стил померања / смер / брзина:"
+  },
+  "o_multiplier": {
+    "message": "Мултипликатор"
+  },
+  "o_times_speed": {
+    "message": "времена брзине померања"
+  },
+  "o_maximum_speed": {
+    "message": "Максимална брзина померања (0 - онемогућена):"
+  },
+  "o_ratio_unit": {
+    "message": "омјер (дужина странице / величина прозора)"
+  },
+  "o_scroll_type_0": {
+    "message": "Емулирају траку скрола"
+  },
+  "o_scroll_type_1": {
+    "message": "Зграбите и превуците - као на паметном телефону"
+  },
+  "o_scroll_type_2": {
+    "message": "Динамична брзина (експериментална)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "То је као да се превучете сцроллбар"
+  },
+  "o_scroll_type_title_1": {
+    "message": "То је попут повлачења странице прстом на екрану телефона"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Динамичка брзина омогућава брзину померања спорије када је страница дужа"
+  },
+  "o_disable_key": {
+    "message": "Онемогући / омогућите померање када је кључ доле:"
+  },
+  "o_momentum_category": {
+    "message": "Моментум:"
+  },
+  "o_momentum_formula": {
+    "message": "ФОРМУЛА МОМЕНТА:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Једнолико успорећено кретање"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Сцролл Сцролл ће се уједначити споровити док се не заустави"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Експоненцијално успорачено кретање"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Помак страница ће брзо (експоненцијално) успорити"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Бесконачно покрет ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Помицање се никада неће зауставити"
+  },
+  "o_momentum_max_speed": {
+    "message": "Максимална брзина (0 - онемогућена):"
+  },
+  "o_page_weight": {
+    "message": "Тежина странице:"
+  },
+  "o_grams": {
+    "message": "грамс :)"
+  },
+  "o_additional_speed": {
+    "message": "Додатна брзина:"
+  },
+  "o_pixels_second": {
+    "message": "пиксели у секунди"
+  },
+  "o_additional_duration": {
+    "message": "Додатно трајање:"
+  },
+  "o_advanced_momentum": {
+    "message": "Напредно подешавање замаха (само за стручњаке!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Промјена ових вредности може вам сломити замах!"
+  },
+  "o_compute_from_last": {
+    "message": "Израчунати од последњег:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Детекција престала миша:"
+  },
+  "o_tracking_speed": {
+    "message": "Брзина праћења:"
+  },
+  "o_reset_values": {
+    "message": "Ресетујте вредности"
+  },
+  "o_cursor_scrolling": {
+    "message": "Курсор који се користи приликом померања:"
+  },
+  "o_performance": {
+    "message": "Перформансе:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Спречити велике скокове"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Ако користите алат који може да телепортира ваш курсор преко екрана (када достигнете ивицу), омогућите ову опцију да омогући континуирано (бесконачан) помицање."
+  },
+  "o_advanced": {
+    "message": "Напредно:"
+  },
+  "o_movement_detection": {
+    "message": "Праг за откривање покрета миша:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Колико пиксела мора прећи померање у блок везу. Понекад када притиснете дугме за померање, померите миш благо, али не желите да се веза не онемогући због тога."
+  },
+  "o_context_menu_block": {
+    "message": "Контекстни блок менија:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Одгости одлагања контекстног менија"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Ако у току да видите контекстни мени након померања десним дугметом миша, повећајте ову вредност"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Онемогући хоризонтално померање на домене:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Онемогућено у доменима:"
+  },
+  "o_is_disabled_url": {
+    "message": "Онемогућено на страницама / под-странама:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Симбол звезде можете користити (*) да бисте дефинисали део УРЛ-а, на пример: \"Гоогле.цом / мапс*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Унесите један домен по линији."
+  },
+  "o_is_disabled": {
+    "message": "Онемогући додатак"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Користите икону алатне траке као главни прекидач за укључивање / искључивање"
+  },
+  "o_scroll_button_middle": {
+    "message": "Средње дугме"
+  },
+  "o_scroll_button_right": {
+    "message": "Десно дугме"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Корисници Линук / Мац - Бићете затражени за нову дозволу \"Прочитајте и измените подешавање прегледача\" - Ово је потребно за сузбијање контекстног менија који се приказује пре померања!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Корисници Линук / МАЦ - Ваш контекстни мени ће бити блокиран! Да бисте отворили контекстни мени држите \"СХИФТ\" тастер или Трипле-Цлицк Десно дугме."
+  },
+  "o_scroll_button_left": {
+    "message": "Лефт дугме (експериментално)"
+  },
+  "o_scroll_on_links": {
+    "message": "Помичите се на линкове"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Када је омогућено, нећете моћи да превучете и спустите линкове (само користећи тастер \"Онемогући\")"
+  },
+  "o_scroll_on_text": {
+    "message": "Помичите се на Текст"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Емулира померање / уређивање телефона - морате да кликнете на текст да бисте се пребацили на \"Уређивање режим\". Кликом на спољни текст омогућава се поновним кретањем."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Помичите се тектареа"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Тектареа је блок текста, обично се одликује. На пример на картици \"Онемогућено на\" можете видети тектареа."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Помичите се на ХТМЛ за уређивање"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "На пример, тело е-поште у Гмаил-у је ХТМЛ за уређивање."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "у тексту ће омогућити одабир текста / уређивања текста."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Кликните на текст ће омогућити \"Уређивање режима\". Кликните на спољни текст да бисте омогућили \"режим померања\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Једноструки клик"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Дупли клик"
+  },
+  "o_scrollbars_width": {
+    "message": "Поглед на трагове"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Нормално (без промене)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Танак"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Сакривен"
+  },
+  "o_scrollbars_color": {
+    "message": "Сцроллбар Слидер Боја:"
+  },
+  "o_scrollbars_background": {
+    "message": "БОЈА БОЈЕ СЦРОЛЛОВЕ БОЈА:"
+  },
+  "o_reverse": {
+    "message": "Реверсе смер за померање"
+  },
+  "o_disable_alt": {
+    "message": "Алт"
+  },
+  "o_disable_shift": {
+    "message": "Смена"
+  },
+  "o_disable_ctrl": {
+    "message": "Цтрл"
+  },
+  "o_disable_type_0": {
+    "message": "Онемогућите када је кључ доле:"
+  },
+  "o_disable_type_1": {
+    "message": "Омогућите када је кључ доле:"
+  },
+  "o_momentum": {
+    "message": "омогућите замах - можете \"бацити\" страницу (као на телефон)"
+  },
+  "o_no_css_edit": {
+    "message": "Не закључавајте ИФРамес и не мењајте курсор приликом кретања"
+  },
+  "o_no_prevent_default": {
+    "message": "Не блокирајте подразумевано дугме дугме"
+  },
+  "o_auto_link_lock": {
+    "message": "Линкови блокирају:"
+  },
+  "o_no_link_block": {
+    "message": "Не блокирајте миша кликните на линк после покрета"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Када почнете да се крећете на везу, а затим завршите скроловање на исту везу, прегледач ће отворити везу. То обично није жељено понашање, тако да је подразумевано блокирано."
+  },
+  "o_page_weight_title": {
+    "message": "Ово је контролише колико је \"тешка\" страница је. Теже странице имају дуже замах."
+  },
+  "o_additional_speed_title": {
+    "message": "Можете убрзати брзину на којој се наводи."
+  },
+  "o_additional_duration_title": {
+    "message": "Додатно време за сваки замах."
+  },
+  "o_compute_from_last_title": {
+    "message": "Моментум почетна брзина одређује се брзином померања удела пре отпуштања дугмета за померање."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Колико времена мора да мишем остане још увек - пре отпуштања дугмета за померање - да не активирате замах."
+  },
+  "o_tracking_speed_title": {
+    "message": "Интервал за мерење тренутне брзине померања."
+  },
+  "o_scrolling_area": {
+    "message": "Подручје померања:"
+  },
+  "o_outside_area_width": {
+    "message": "Површина померања (0 - онемогућено):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Помицање курсора изван подручја померања ће се поново покренути положај померања. Иста понашања се може видети приликом превлачења траке за помицање."
+  },
+  "o_scroll_button_left_title": {
+    "message": "Подршка за упозорење - Подршка за лево дугме користи застарела Фирефок АПИ који би се могло уклонити у будућим верзијама Фирефок-а."
+  },
+  "o_prevent_text_selection": {
+    "message": "Спречите избор текста приликом кретања са левим дугметом"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "На неким уређајима, помицање са левим дугметом миша ће такође изабрати текст на страници."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Не блокирајте контекстни мени током покушаја померања странице не-померања"
+  },
+  "o_backup_restore": {
+    "message": "Поставке сигурносне копије / враћање у датотеку:"
+  },
+  "o_export_settings": {
+    "message": "Подешавања извоза у датотеку"
+  },
+  "import_settings_button": {
+    "message": "Подешавања увоза од $1 датотеке ..."
+  },
+  "import_finished": {
+    "message": "Увоз завршено!"
+  },
+  "test_page_title": {
+    "message": "Испитајте своје поставке померања овде"
+  },
+  "menu_options": {
+    "message": "Опције"
+  },
+  "menu_visit_title": {
+    "message": "Посетите почетну страницу"
+  },
+  "not_working": {
+    "message": "Онемогућено од стране вашег веб претраживача"
+  },
+  "disabled_by_user": {
+    "message": "Онемогућено у овом домену"
+  },
+  "not_working_title": {
+    "message": "Ваш претраживач ће блокирати скролсанингсе на овој врсти страница:"
+  },
+  "not_working_body": {
+    "message": "Да бисте омогућили СцроллАнивхере на страницама \"Мозилла.орг\", погледајте овај ИоуТубе Туториал"
+  },
+  "show_scrollbars": {
+    "message": "Прикажи траке за помицање"
+  },
+  "show_scrollbars_title": {
+    "message": "Привремено прикажите траке за померање"
+  },
+  "switch_on_off": {
+    "message": "Искључивање додатка / укључено"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Ако доживљавате приметно одлагање између притиска на дугме за померање и покретање померања, покушајте да омогућите ову опцију. Међутим, нећете моћи да се померите са \"ифрамес\", попут неких старих уграђених видео записа или неких огласа."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Ово ће такође онемогућити опцију да промени курсор док се помиче."
+  },
+  "o_helper_text_default_action": {
+    "message": "Корисно у Линуку како би се омогућила заледа са средњим дугметом."
+  },
+  "o_about_hello": {
+    "message": "Здраво :)"
+  },
+  "o_about_intro": {
+    "message": "Моје име је $1$ и ја сам аутор $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Ако вам се свиђа, оцените је овде:"
+  },
+  "o_about_dislike_it": {
+    "message": "Ако вам се то не свиђа, молим вас да ме обавестите зашто у своју е-пошту. Имплементирам већину захтева који добијам."
+  },
+  "o_disabled": {
+    "message": "онеспособљен",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "омогућено",
+    "common": true
+  },
+  "o_times": {
+    "message": "пролаз",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "пиксела",
+    "common": true
+  },
+  "o_items": {
+    "message": "предмети",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "милисекунди",
+    "common": true
+  },
+  "label_working": {
+    "message": "рад...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Близу",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Молимо вас да размислите о подршци мом раду",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "донација (ПаиПал)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "постајући мој заштитник",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Хвала вам!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "кућа:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Контакт:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Извештај о извештају:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Могу да одговорим само на енглеском / словачком",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Друштвени медији:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Спремите промене и затворите",
+    "common": true
+  },
+  "o_saved": {
+    "message": "сачувано!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Долази ускоро",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Сачувај промене",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Правила о приватности",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Недавно додате карактеристике:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Ознаке:",
+    "common": true
+  }
+}

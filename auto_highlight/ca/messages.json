@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "De vegades, la pàgina no està dissenyada bé i la informació que busqueu no és prou visible."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Casos d'ús comú:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Ressalteu les metadades com:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Ressalta \"Enviament gratuït\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Esteu buscant alguna cosa específica a la web? Utilitzeu \"ressaltat temporal\" per ajudar-vos a trobar-lo a totes les pàgines. Els aspectes destacats temporals s'eliminen automàticament quan tanqueu el navegador."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Fins i tot podeu ocultar paraules establint la mida de la font a zero o fent-les transparents."
+  },
+  "_description_tags_ah": {
+    "message": "ressalteu, marqueu, metadades, pel·lícules, automàtiques, text, sincronització, selecció, cerca"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ ressaltarà automàticament les paraules definides en pàgines definides."
+  },
+  "match_type": {
+    "message": "Tipus de coincidència:"
+  },
+  "match_type_0": {
+    "message": "El domini és"
+  },
+  "match_type_1": {
+    "message": "URL és"
+  },
+  "match_type_2": {
+    "message": "URL conté"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "Cada pàgina"
+  },
+  "selection_highlight": {
+    "message": "Ressalta $1"
+  },
+  "selection_temp": {
+    "message": "Ressalta temporalment $1"
+  },
+  "selection_temp_everywhere": {
+    "message": "Ressalta temporalment a tot arreu $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ en aquesta pàgina"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Sempre obriu la pestanya nova: quan feu clic a la icona de la barra d'eines"
+  },
+  "disable_rule": {
+    "message": "Inepte"
+  },
+  "temporal_rule": {
+    "message": "Temporacional"
+  },
+  "each_word": {
+    "message": "Cada paraula"
+  },
+  "rules": {
+    "message": "Normes"
+  },
+  "delete": {
+    "message": "Suprimir"
+  },
+  "rename": {
+    "message": "Canviar el nom"
+  },
+  "duplicate": {
+    "message": "Duplicat"
+  },
+  "delete_rule": {
+    "message": "Suprimeix la regla"
+  },
+  "delete_rule_title": {
+    "message": "Suprimeix la regla \"$1\"?"
+  },
+  "on_pages": {
+    "message": "A les pàgines:"
+  },
+  "disabled_rule": {
+    "message": "Regla amb discapacitat"
+  },
+  "incomplete_rule": {
+    "message": "Regla incompleta"
+  },
+  "active_on_current_page": {
+    "message": "Actiu a la pàgina actual"
+  },
+  "temporal_rule_helper": {
+    "message": "Regla temporal: s'eliminarà després de reiniciar el navegador"
+  },
+  "active_on_pages": {
+    "message": "Actiu a les pàgines:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Ressalteu cada paraula per separat"
+  },
+  "case_sensitive": {
+    "message": "Cas delicat"
+  },
+  "ignore_diacritics": {
+    "message": "Ignora els diacrítics"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "Expressió normal"
+  },
+  "across_elements": {
+    "message": "A través d'elements"
+  },
+  "across_elements_help": {
+    "message": "Cerqueu text a través del veí elements HTML"
+  },
+  "style": {
+    "message": "Estil"
+  },
+  "preview": {
+    "message": "Vista prèvia:"
+  },
+  "empty_rule": {
+    "message": "regla buida"
+  },
+  "create_new_rule": {
+    "message": "Creeu una regla nova"
+  },
+  "import_export": {
+    "message": "Importació-exportació"
+  },
+  "help_this_project": {
+    "message": "Ajudeu a aquest projecte"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "FAQ:"
+  },
+  "storage_info": {
+    "message": "Informació d'emmagatzematge:"
+  },
+  "storage_safari_1": {
+    "message": "Safari actualment no admet la sincronització automàtica de dades."
+  },
+  "storage_safari_2": {
+    "message": "Per transferir (o còpia de seguretat) les vostres regles de ressaltat, utilitzeu la funció \"Importació / exportació\"."
+  },
+  "storage_info_1": {
+    "message": "Les vostres regles s'emmagatzemen mitjançant la sincronització Secure $1 que sincronitzaran les vostres regles entre tots els vostres dispositius (si heu iniciat la sessió al mateix compte)."
+  },
+  "storage_info_2": {
+    "message": "Aquest emmagatzematge de núvols pot emmagatzemar 100 KB de dades i fins a 500 regles de ressalta."
+  },
+  "storage_info_3": {
+    "message": "També podeu exportar (còpia de seguretat) les vostres regles a un fitxer mitjançant la funció \"importació / exportació\" i, a continuació, importar-la en altres dispositius."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Substituïu les regles de ressalta existents"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Afegeix pàgina per ressaltar"
+  },
+  "remove_highlight_from_page": {
+    "message": "Traieu el ressaltat de la pàgina"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "Cursiva"
+  },
+  "underline": {
+    "message": "Subratllar"
+  },
+  "background_color": {
+    "message": "Color de fons"
+  },
+  "background": {
+    "message": "Fons"
+  },
+  "text_color": {
+    "message": "Color de text"
+  },
+  "color": {
+    "message": "Color"
+  },
+  "font_size": {
+    "message": "Mida de la font"
+  },
+  "rule_name": {
+    "message": "Nom de la regla"
+  },
+  "highlight_regular_expression": {
+    "message": "Ressalteu l'expressió regular:"
+  },
+  "highlight_text": {
+    "message": "Ressalteu el text:"
+  },
+  "highlight_on_pages": {
+    "message": "Ressalta a les pàgines"
+  },
+  "empty_name_helper": {
+    "message": "Deixeu buit a utilitzar \"text ressaltat\" com a nom"
+  },
+  "faq_1": {
+    "message": "Com ressaltar ràpidament la paraula a la pàgina actual?"
+  },
+  "faq_1a": {
+    "message": "Utilitzeu el menú contextual: seleccioneu text / clic dret / \"ressaltat automàtic\". Si feu clic amb el botó dret sobre una pàgina (sense seleccionar text), podeu aplicar les regles existents a la pàgina actual."
+  },
+  "faq_2": {
+    "message": "Vull destacar diverses paraules, he de crear una regla nova per a cada paraula per separat?"
+  },
+  "faq_2a": {
+    "message": "No, només cal que comproveu la casella de selecció \"cada paraula\". A continuació, cada paraula es ressaltarà per separat."
+  },
+  "faq_3": {
+    "message": "Què és \"RegExp\"?"
+  },
+  "faq_3a": {
+    "message": "També es coneix com a expressió regular, és una seqüència de caràcters que defineixen un patró de cerca. És una construcció complicada que permet ressaltar complexos d'elements amb algun patró similar. Per exemple, preus, dates, números de telèfon, etc ..."
+  },
+  "faq_4": {
+    "message": "Puc mostrar-me alguns exemples de RegExp?"
+  },
+  "faq_4a": {
+    "message": "Ressalteu tots els preus com $1"
+  },
+  "faq_5": {
+    "message": "Podria explicar-los?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" destaca el signe del dòlar. La barra invertida és necessària aquí perquè el dòlar té un significat especial a RegExp."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" destaca un únic dígit"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" significa repetir una o més vegades. Quan es col·loca després del selector de dígits $2$, significa un o més dígits."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" destacats punts. La barra invertida es necessita de nou perquè el símbol de punts només significa qualsevol personatge únic a RegExp."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" significa zero o una vegada. Quan es col·loquen després dels claudàtors $2$, vol dir que hi hagi dins d'aquests suports és opcional (pot estar allà o no). L'utilitzem per a la part decimal del nombre que és opcional."
+  },
+  "faq_5f": {
+    "message": "més informació sobre regles de RegExp"
+  },
+  "import_finished": {
+    "message": "Importació acabada!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Error",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Importa el fitxer de còpia de seguretat $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Curari",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Pàgina d'addon",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Botiga web de Chrome",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Complements de Firefox",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Complements de thunderbird",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Opcions",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Mida de la font",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Mida de la barra lateral",
+    "common": true
+  },
+  "label_next": {
+    "message": "Pròxim",
+    "common": true
+  },
+  "label_note": {
+    "message": "Nota:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Treure",
+    "common": true
+  },
+  "label_warning": {
+    "message": "Advertència:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Opcions:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Per defecte:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Fet!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Copiat!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Custom:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Tanca",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Instal·lat",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Obriu la pàgina",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Acordar",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Cancel · lar",
+    "common": true
+  },
+  "label_save": {
+    "message": "Estalviar",
+    "common": true
+  },
+  "label_required": {
+    "message": "Requerit",
+    "common": true
+  },
+  "label_sending": {
+    "message": "enviament ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Escala:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Mida:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Pròximament",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Guardar canvis",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Descartar els canvis",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menú",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Visiteu la pàgina d'inici",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Ajudeu a aquest projecte",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Donar suport al desenvolupador independent!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Hola allà!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Sóc Addon Developer des de 2016. El meu objectiu és construir àmplies extensions per al vostre navegador web per fer-vos més productiu.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Si creieu que estic fent una bona feina, si us plau, doneu :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "La vostra donació és la meva única renda!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Gràcies per donar suport a la meva feina!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Ajudar",
+    "common": true
+  },
+  "o_title": {
+    "message": "Opcions - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "còpia de funcionament",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Crea una còpia de seguretat nova",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Desa la configuració",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Per exportar les vostres dades a un fitxer, torneu a obrir aquesta finestra en una pestanya nova.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Feu clic amb el botó dret / \"Descarregar fitxer enllaçat\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "General",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Fons",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Menú contextual",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Miniaturs",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Dreceres",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Importació / còpia de seguretat",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Parada",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Tema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "General:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "inepte",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "habilitat",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "píxels",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "segons segons",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Menú contextual:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Inhabiliteu el menú contextual: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Configuració de còpia de seguretat / restauració al fitxer:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Importació",
+    "common": true
+  },
+  "title_import": {
+    "message": "Importació",
+    "common": true
+  },
+  "title_export": {
+    "message": "Exportació",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Exportació de còpia de seguretat",
+    "common": true
+  },
+  "label_or": {
+    "message": "o",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Hola :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "El meu nom és $1$ i sóc l'autor de $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Si t'agrada, valora-ho aquí:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Si no t'agrada, fes-me saber per què al meu correu electrònic. Estic implementant la majoria de les peticions que rebo.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Penseu en donar suport a la meva feina",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Transferència bancària mitjançant IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donació (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "convertir-se en el meu patró",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Gràcies!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "casa:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contacte:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Informeu dels problemes:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Puc respondre només en anglès / eslovac",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Mitjà de comunicació social:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Desa els canvis i tanca",
+    "common": true
+  },
+  "o_saved": {
+    "message": "guardats!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Sense resultats coincidents",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "No hi ha informació",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Mode fosc",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Controlat per sistema",
+    "common": true
+  },
+  "used_space": {
+    "message": "Espai usat: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Obert a la pestanya nova",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Canvia l'addon on / apagat",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon està desactivat",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Per què?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Política de privacitat",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Característiques afegides recentment:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Etiquetes:",
+    "common": true
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "tarikh, IMDB, Penerangan, Episod, Gauge, Grafik, IMDB, Maklumat, Meter, Filem, Filem, Filem, Netflix, IMDB, Penilaian, Siri, Pertunjukan, TV, THROW, Video, Visual, Undian,"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "filem tidak dijumpai / filem yang salah dijumpai - Oleh kerana tidak ada integrasi \"rasmi\" dengan halaman sasaran, saya tidak dapat menjamin 100% keputusan yang betul (tetapi dalam kebanyakan kes ia berfungsi dengan sempurna)"
+  },
+  "_description_mm_not_working": {
+    "message": "Tidak berfungsi pada halaman filem kegemaran anda?"
+  },
+  "_description_mm_add_support": {
+    "message": "Hubungi saya dan saya akan menambahnya - jika boleh (halaman mesti mengandungi nama filem dalam bahasa Inggeris atau $visit_imdb$ LINK)."
+  },
+  "_description_mm_feature_1": {
+    "message": "penarafan filem dan populariti dari $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "tarikh Episod Seterusnya / Sebelumnya dari $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "maklumat siri filem / TV tambahan"
+  },
+  "_description_mm_feature_4": {
+    "message": "pemberitahuan mengenai episod baru"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark tv siri sebagai kegemaran dan anda akan mendapat pemberitahuan apabila episod baru tersedia"
+  },
+  "_description_mm_feature_7": {
+    "message": "sembunyi auto apabila main balik video dikesan"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ akan menunjukkan penilaian dan populariti filem (atau siri TV)"
+  },
+  "name": {
+    "message": "Nama"
+  },
+  "year": {
+    "message": "Tahun"
+  },
+  "video_type": {
+    "message": "Type."
+  },
+  "video_type_0": {
+    "message": "Filem."
+  },
+  "video_type_1": {
+    "message": "Siri"
+  },
+  "video_type_2": {
+    "message": "Episod"
+  },
+  "runtime": {
+    "message": "Runtime."
+  },
+  "premiered": {
+    "message": "Premiere."
+  },
+  "premiere_in": {
+    "message": "Premiere in."
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Negara"
+  },
+  "actors": {
+    "message": "Pelakon"
+  },
+  "dvd": {
+    "message": "DVD."
+  },
+  "director": {
+    "message": "Pengarah"
+  },
+  "totalseasons": {
+    "message": "Jumlah musim"
+  },
+  "writer": {
+    "message": "Penulis"
+  },
+  "language": {
+    "message": "Bahasa."
+  },
+  "awards": {
+    "message": "Anugerah."
+  },
+  "rated": {
+    "message": "Dinilai"
+  },
+  "production": {
+    "message": "Pengeluaran"
+  },
+  "plot": {
+    "message": "Plot"
+  },
+  "website": {
+    "message": "Laman web"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Lawati $visit_imdb$ PAGE"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Lawati $visit_tvmaze$ PAGE Untuk persembahan ini"
+  },
+  "make_favorite": {
+    "message": "Kegemaran"
+  },
+  "make_favorite_title": {
+    "message": "Tambah siri TV ke kegemaran. Ini akan membolehkan anda menerima pemberitahuan mengenai episod baru."
+  },
+  "last_episode": {
+    "message": "Terakhir"
+  },
+  "next_episode": {
+    "message": "Seterusnya"
+  },
+  "last_episode_title": {
+    "message": "Episod terakhir."
+  },
+  "next_episode_title": {
+    "message": "Episod seterusnya."
+  },
+  "episode_airtime": {
+    "message": "Airtime."
+  },
+  "episode_name": {
+    "message": "Nama"
+  },
+  "series_status": {
+    "message": "Status"
+  },
+  "episodes_count": {
+    "message": "Episod."
+  },
+  "episodes_count_title": {
+    "message": "Musim Semasa $1 mempunyai $2 episod"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "hari"
+  },
+  "hours": {
+    "message": "jam"
+  },
+  "na": {
+    "message": "Tidak tersedia"
+  },
+  "user_rating": {
+    "message": "Rating Pengguna: $1"
+  },
+  "user_popularity": {
+    "message": "Populariti: $1 Undian"
+  },
+  "source": {
+    "message": "Sumber: $1"
+  },
+  "show_details": {
+    "message": "lebih banyak ..."
+  },
+  "hide_details": {
+    "message": "kurang ..."
+  },
+  "save_position": {
+    "message": "Menjimatkan kedudukan"
+  },
+  "revert_position": {
+    "message": "Kedudukan revert."
+  },
+  "win_disable": {
+    "message": "Lumpuhkan pada $1"
+  },
+  "cm_advanced": {
+    "message": "Maju"
+  },
+  "op_visit_home": {
+    "message": "Lawati Homepage."
+  },
+  "op_support_me": {
+    "message": "Bantu projek ini"
+  },
+  "hide": {
+    "message": "Sembunyikan tetingkap"
+  },
+  "show": {
+    "message": "Tunjukkan tetingkap"
+  },
+  "reset_position": {
+    "message": "Tetapkan semula kedudukan"
+  },
+  "search": {
+    "message": "Cari"
+  },
+  "configure_search": {
+    "message": "Konfigurasikan pilihan carian"
+  },
+  "selection_search": {
+    "message": "Cari $1."
+  },
+  "menu_options": {
+    "message": "Pilihan"
+  },
+  "menu_quick_options": {
+    "message": "Pilihan Pantas."
+  },
+  "menu_visit_homepage": {
+    "message": "Lawati Homepage."
+  },
+  "menu_request_support": {
+    "message": "Permintaan Sokongan untuk $1"
+  },
+  "show_introduction": {
+    "message": "Tunjukkan Pengenalan Page."
+  },
+  "o_about_issues": {
+    "message": "Laporkan isu:"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "firefox_store": {
+    "message": "Add-on Firefox"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store."
+  },
+  "movie_not_detected": {
+    "message": "Filem tidak dikesan"
+  },
+  "movie_not_detected_title": {
+    "message": "Tiada siri filem / TV tidak dikesan di halaman ini."
+  },
+  "movie_not_found": {
+    "message": "Filem tidak dijumpai"
+  },
+  "movie_not_found_title": {
+    "message": "Maklumat filem tidak dijumpai di pelayan."
+  },
+  "status_type_0": {
+    "message": "Berjalan."
+  },
+  "status_type_1": {
+    "message": "Berakhir"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Tunjukkan akan diteruskan"
+  },
+  "status_type_title_1": {
+    "message": "Show telah berakhir - tidak ada lagi musim yang dirancang"
+  },
+  "status_type_title_2": {
+    "message": "Menunjukkan masa depan tidak jelas"
+  },
+  "notify_movie_not_found": {
+    "message": "Filem tidak dijumpai: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Gunakan nama filem Inggeris sahaja!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Carian tidak sempurna ..."
+  },
+  "notify_video_hide": {
+    "message": "Video Dikesan - $app_name$ kini tersembunyi"
+  },
+  "notify_video_hide_body": {
+    "message": "Klik di sini untuk tidak menunjukkan pemberitahuan ini sekali lagi"
+  },
+  "notify_new_episodes": {
+    "message": "Episod baru disiarkan"
+  },
+  "title_introduction": {
+    "message": "Pengenalan"
+  },
+  "supported_pages": {
+    "message": "Halaman yang disokong:"
+  },
+  "supported_grows": {
+    "message": "(Senarai ini tumbuh lebih besar dan lebih besar)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Maklumat dan maklumat populariti adalah dari $1$. Maklumat mengenai episod adalah dari $2$."
+  },
+  "title_got_it": {
+    "message": "Mendapatkannya, mari kita mulakan!"
+  },
+  "_description_privacy_policy": {
+    "message": "Dasar Privasi."
+  },
+  "_description_recent_features": {
+    "message": "Ciri-ciri yang baru ditambah:"
+  },
+  "_description_known_issues": {
+    "message": "Isu yang diketahui:"
+  },
+  "_description_common_tags": {
+    "message": "Tags:"
+  },
+  "_description_features": {
+    "message": "Ciri-ciri:"
+  },
+  "about_me": {
+    "message": "Saya pengembara addon sejak 2016. Matlamat saya adalah untuk membina sambungan yang kuat untuk pelayar web anda untuk menjadikan anda lebih produktif."
+  },
+  "about_good_job": {
+    "message": "Jika anda fikir saya melakukan kerja yang baik, sila sumbangkan :)"
+  },
+  "about_income": {
+    "message": "Derma anda adalah satu-satunya pendapatan saya!"
+  },
+  "about_thanks": {
+    "message": "Terima kasih kerana menyokong kerja saya!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Pemindahan bank menggunakan Iban:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Menyokong pemaju bebas!"
+  }
+}

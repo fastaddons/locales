@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "ചിലപ്പോൾ പേജ് നന്നായി രൂപകൽപ്പന ചെയ്തിട്ടില്ല, നിങ്ങൾ തിരയുന്ന വിവരങ്ങൾ മതിയാകില്ല."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "സാധാരണ ഉപയോഗ കേസുകൾ:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "മെറ്റാഡാറ്റ ഹൈലൈറ്റ് ചെയ്യുക:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "\"സ sh ജന്യ ഷിപ്പിംഗ്\" ഹൈലൈറ്റ് ചെയ്യുക :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "നിങ്ങൾ വെബിൽ പ്രത്യേകമായി എന്തെങ്കിലും തിരയുന്നുണ്ടോ? എല്ലാ പേജുകളിലും അത് കണ്ടെത്താൻ നിങ്ങളെ സഹായിക്കുന്നതിന് \"ടെമ്പറൽ ഹൈലൈറ്റ്\" ഉപയോഗിക്കുക. നിങ്ങളുടെ ബ്ര .സർ അടയ്ക്കുമ്പോൾ താൽക്കാലിക ഹൈലൈറ്റുകൾ യാന്ത്രികമായി ഇല്ലാതാക്കുന്നു."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "ഫോണ്ട് വലുപ്പം പൂജ്യമായി അല്ലെങ്കിൽ അവരെ സുതാര്യമാക്കിക്കൊണ്ട് നിങ്ങൾക്ക് വാക്കുകൾ മറയ്ക്കാൻ പോലും കഴിയും."
+  },
+  "_description_tags_ah": {
+    "message": "ഹൈലൈറ്റ് ചെയ്യുക, മാർക്ക്, മെറ്റാഡാറ്റ, മൂവി, ഓട്ടോമാറ്റിക്, വാചകം, സമന്വയം, തിരഞ്ഞെടുക്കൽ, തിരയൽ"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "നിർവചിക്കപ്പെട്ട പേജുകളിൽ നിർവചിക്കപ്പെട്ട വാക്കുകൾ $app_name$ യാന്ത്രികമായി ഹൈലൈറ്റ് ചെയ്യും."
+  },
+  "match_type": {
+    "message": "മാച്ച് തരം:"
+  },
+  "match_type_0": {
+    "message": "ഡൊമെയ്ൻ"
+  },
+  "match_type_1": {
+    "message": "URL"
+  },
+  "match_type_2": {
+    "message": "URL ൽ അടങ്ങിയിരിക്കുന്നു"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "എല്ലാ പേജും"
+  },
+  "selection_highlight": {
+    "message": "$1 ഹൈലൈറ്റ് ചെയ്യുക"
+  },
+  "selection_temp": {
+    "message": "$1 താൽക്കാലികമായി ഹൈലൈറ്റ് ചെയ്യുക"
+  },
+  "selection_temp_everywhere": {
+    "message": "$1 എല്ലായിടത്തും താൽക്കാലികമായി ഹൈലൈറ്റ് ചെയ്യുക"
+  },
+  "page_highlight": {
+    "message": "ഈ പേജിലെ $app_name$"
+  },
+  "toolbar_click_new_tab": {
+    "message": "ടൂൾബാർ ഐക്കൺ ക്ലിക്കുചെയ്യുമ്പോൾ എല്ലായ്പ്പോഴും പുതിയ ടാബിൽ തുറക്കുക"
+  },
+  "disable_rule": {
+    "message": "അശക്തനായ"
+  },
+  "temporal_rule": {
+    "message": "താൽക്കാലിക"
+  },
+  "each_word": {
+    "message": "ഓരോ വാക്കും"
+  },
+  "rules": {
+    "message": "നിയമങ്ങൾ"
+  },
+  "delete": {
+    "message": "ഇല്ലാതാക്കുക"
+  },
+  "rename": {
+    "message": "സംയോജിപ്പിക്കുക"
+  },
+  "duplicate": {
+    "message": "പകര്പ്പെടുക്കുക"
+  },
+  "delete_rule": {
+    "message": "ഭരണം ഇല്ലാതാക്കുക"
+  },
+  "delete_rule_title": {
+    "message": "ഭരണം \"$1\" ഇല്ലാതാക്കണോ?"
+  },
+  "on_pages": {
+    "message": "പേജുകളിൽ:"
+  },
+  "disabled_rule": {
+    "message": "അപ്രാപ്തമാക്കിയ നിയമം"
+  },
+  "incomplete_rule": {
+    "message": "അപൂർണ്ണമായ നിയമം"
+  },
+  "active_on_current_page": {
+    "message": "നിലവിലെ പേജിൽ സജീവമാണ്"
+  },
+  "temporal_rule_helper": {
+    "message": "താൽക്കാലിക നിയമം - ബ്ര browser സർ പുനരാരംഭിച്ചതിനുശേഷം ഇല്ലാതാക്കും"
+  },
+  "active_on_pages": {
+    "message": "പേജുകളിൽ സജീവമാണ്:"
+  },
+  "highlight_each_word_separately": {
+    "message": "ഓരോ വായും പ്രത്യേകം ഹൈലൈറ്റ് ചെയ്യുക"
+  },
+  "case_sensitive": {
+    "message": "കേസ് സെൻസിറ്റീവ്"
+  },
+  "ignore_diacritics": {
+    "message": "ഡയാക്രിറ്റിക്സ് അവഗണിക്കുക"
+  },
+  "reg_exp": {
+    "message": "റിജെക്സ്പി"
+  },
+  "regular_expression": {
+    "message": "പതിവ് എക്സ്പ്രഷൻ"
+  },
+  "across_elements": {
+    "message": "ഘടകങ്ങളിൽ കുറുകെ"
+  },
+  "across_elements_help": {
+    "message": "അയൽവാസിയായ എച്ച്എംഎംഎൽ ഘടകങ്ങളിലൂടെയുള്ള വാചകത്തിനായി തിരയുക"
+  },
+  "style": {
+    "message": "ശൈലി"
+  },
+  "preview": {
+    "message": "പ്രിവ്യൂ:"
+  },
+  "empty_rule": {
+    "message": "ശൂന്യമായ നിയമം"
+  },
+  "create_new_rule": {
+    "message": "പുതിയ നിയമം സൃഷ്ടിക്കുക"
+  },
+  "import_export": {
+    "message": "ഇറക്കുമതി കയറ്റുമതി"
+  },
+  "help_this_project": {
+    "message": "ഈ പ്രോജക്റ്റിനെ സഹായിക്കുക"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "പതിവുചോദ്യങ്ങൾ:"
+  },
+  "storage_info": {
+    "message": "സംഭരണ വിവരം:"
+  },
+  "storage_safari_1": {
+    "message": "സഫാരി നിലവിൽ യാന്ത്രിക ഡാറ്റ സമന്വയത്തെ പിന്തുണയ്ക്കുന്നില്ല."
+  },
+  "storage_safari_2": {
+    "message": "നിങ്ങളുടെ ഹൈലൈറ്റ് നിയമങ്ങൾ കൈമാറാൻ (അല്ലെങ്കിൽ ബാക്കപ്പ്), \"ഇറക്കുമതി / കയറ്റുമതി\" സവിശേഷത ഉപയോഗിക്കുക."
+  },
+  "storage_info_1": {
+    "message": "നിങ്ങളുടെ നിയമങ്ങൾ സുരക്ഷിത $1 സമന്വയം ഉപയോഗിച്ച് സംഭരിച്ചിരിക്കുന്നു, അത് നിങ്ങളുടെ എല്ലാ ഉപകരണങ്ങൾക്കിടയിൽ നിങ്ങളുടെ നിയമങ്ങൾ സമന്വയിപ്പിക്കും (നിങ്ങൾ ഒരേ അക്കൗണ്ടിലേക്ക് ലോഗിൻ ചെയ്തിട്ടുണ്ടെങ്കിൽ)."
+  },
+  "storage_info_2": {
+    "message": "ഈ മേഘ സംഭരണത്തിന് 100 കെബി ഡാറ്റയും 500 ഹൈലൈറ്റ് നിയമങ്ങളും സംഭരിക്കാൻ കഴിയും."
+  },
+  "storage_info_3": {
+    "message": "\"ഇറക്കുമതി / കയറ്റുമതി\" സവിശേഷത ഉപയോഗിച്ച് ഒരു ഫയലിലേക്ക് നിങ്ങളുടെ നിയമങ്ങൾ കയറ്റുമതി ചെയ്യാനും മറ്റ് ഉപകരണങ്ങളിൽ ഇമ്പോർട്ടുചെയ്തനുമായ ഒരു ഫയലിലേക്ക് നിങ്ങൾക്ക് കയറ്റുമതി ചെയ്യാനും കഴിയും."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "നിലവിലുള്ള ഹൈലൈറ്റ് നിയമങ്ങൾ മാറ്റിസ്ഥാപിക്കുക"
+  },
+  "add_page_to_highlight_on": {
+    "message": "ഹൈലൈറ്റ് ചെയ്യുന്നതിന് പേജ് ചേർക്കുക"
+  },
+  "remove_highlight_from_page": {
+    "message": "പേജിൽ നിന്ന് ഹൈലൈറ്റ് നീക്കംചെയ്യുക"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "ഇറ്റാലിക്"
+  },
+  "underline": {
+    "message": "അടിവരയിടുക"
+  },
+  "background_color": {
+    "message": "പശ്ചാത്തല നിറം"
+  },
+  "background": {
+    "message": "പശ്ചാത്തലം"
+  },
+  "text_color": {
+    "message": "വാചക നിറം"
+  },
+  "color": {
+    "message": "നിറം"
+  },
+  "font_size": {
+    "message": "അക്ഷര വലിപ്പം"
+  },
+  "rule_name": {
+    "message": "നിയമത്തിന്റെ പേര്"
+  },
+  "highlight_regular_expression": {
+    "message": "പതിവ് എക്സ്പ്രഷൻ ഹൈലൈറ്റ് ചെയ്യുക:"
+  },
+  "highlight_text": {
+    "message": "വാചകം ഹൈലൈറ്റ് ചെയ്യുക:"
+  },
+  "highlight_on_pages": {
+    "message": "പേജുകളിൽ ഹൈലൈറ്റ് ചെയ്യുക"
+  },
+  "empty_name_helper": {
+    "message": "\"ഹൈലൈറ്റ് ചെയ്ത വാചകം\" എന്ന പേരിൽ ഉപയോഗിക്കാൻ ശൂന്യമായി വിടുക"
+  },
+  "faq_1": {
+    "message": "നിലവിലെ പേജിലെ വാക്ക് എങ്ങനെ വേഗത്തിൽ ഹൈലൈറ്റ് ചെയ്യാം?"
+  },
+  "faq_1a": {
+    "message": "സന്ദർഭ മെനു ഉപയോഗിക്കുക - ടെക്സ്റ്റ് / വലത് ക്ലിക്ക് / \"യാന്ത്രിക ഹൈലൈറ്റ്\" തിരഞ്ഞെടുക്കുക. നിങ്ങൾ ഒരു പേജിൽ വലത് ക്ലിക്കുചെയ്യുകയാണെങ്കിൽ (വാചകം തിരഞ്ഞെടുക്കാതെ) നിലവിലെ പേജിലേക്ക് നിലവിലുള്ള നിയമങ്ങൾ പ്രയോഗിക്കാൻ കഴിയും."
+  },
+  "faq_2": {
+    "message": "ഒന്നിലധികം വാക്കുകൾ ഹൈലൈറ്റ് ചെയ്യാൻ ഞാൻ ആഗ്രഹിക്കുന്നു, ഓരോ വാക്കിനും ഞാൻ പ്രത്യേകം പുതിയ നിയമം സൃഷ്ടിക്കേണ്ടതുണ്ടോ?"
+  },
+  "faq_2a": {
+    "message": "ഇല്ല, \"ഓരോ വാക്ക്\" ചെക്ക്ബോക്സും പരിശോധിക്കുക. അപ്പോൾ ഓരോ വാക്കും പ്രത്യേകം എടുത്തുകാണിക്കും."
+  },
+  "faq_3": {
+    "message": "\"RegExp\" എന്താണ്?"
+  },
+  "faq_3a": {
+    "message": "പതിവ് എക്സ്പ്രഷൻ എന്നും അറിയപ്പെടുന്നു, ഇത് ഒരു തിരയൽ പാറ്റേൺ നിർവചിക്കുന്ന പ്രതീകങ്ങളുടെ ഒരു ശ്രേണിയാണ്. സമാനമായ ചില പാറ്റേൺ ഉള്ള ഘടകങ്ങളെക്കുറിച്ച് സങ്കീർണ്ണമായ ഹൈലൈറ്റ് ചെയ്യുന്നതിന് സങ്കീർണ്ണമായ ഒരു നിർമ്മാണമാണിത്. ഉദാഹരണങ്ങൾ, തീയതികൾ, ഫോൺ നമ്പറുകൾ മുതലായവ ..."
+  },
+  "faq_4": {
+    "message": "നിങ്ങൾക്ക് കുറച്ച് റിജെഎക്സ്പി ഉദാഹരണങ്ങൾ കാണിക്കാമോ?"
+  },
+  "faq_4a": {
+    "message": "$1 പോലുള്ള എല്ലാ വിലകളും ഹൈലൈറ്റ് ചെയ്യുക"
+  },
+  "faq_5": {
+    "message": "നിങ്ങൾക്ക് അവ വിശദീകരിക്കാമോ?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" ഹൈലൈറ്റുകൾ ഡോളർ ചിഹ്നം. ഡോളർ റിജെഎക്സ്പിയിൽ ഒരു പ്രത്യേക അർത്ഥമുള്ളതിനാൽ ഇവിടെ ബാക്ക്സ്ലാഷ് ആവശ്യമാണ്."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" ഹൈലൈറ്റുകൾ ഒറ്റ അക്കമാണ്"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" എന്നാൽ ഒന്നോ അതിലധികമോ തവണ ആവർത്തിക്കുക. അക്ക സെലക്ടർ $2$ ന് ശേഷം സ്ഥാപിക്കുമ്പോൾ, അതിനർത്ഥം ഒന്നോ അതിലധികമോ അക്കങ്ങൾ എന്നാണ് അർത്ഥമാക്കുന്നത്."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" ഹൈലൈറ്റുകൾ ഡോട്ട്. ഡോട്ട് ചിഹ്നം മാത്രം എന്നാൽ റീജെക്സ്പിയിലെ ഏതെങ്കിലും ഒരൊറ്റ പ്രതീകം എന്നാണ് അർത്ഥമാക്കുന്നത്."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" എന്നാൽ പൂജ്യ അല്ലെങ്കിൽ ഒരു തവണ. ബ്രാക്കറ്റുകൾക്ക് ശേഷം സ്ഥാപിക്കുമ്പോൾ $2$, അതിനർത്ഥം ആ ബ്രാക്കറ്റുകളിനുള്ളിലെ എന്താണെന്നാണ് ഓപ്ഷണലാണ് (അവിടെയുണ്ടാക്കാം, അല്ല). ഓപ്ഷണൽ ആയ സംഖ്യയുടെ ദശാംശ ഭാഗത്തിനായി ഞങ്ങൾ ഇത് ഉപയോഗിക്കുന്നു."
+  },
+  "faq_5f": {
+    "message": "RegExp നിയമങ്ങളെക്കുറിച്ചുള്ള കൂടുതൽ വിവരങ്ങൾ"
+  },
+  "import_finished": {
+    "message": "ഇറക്കുമതി പൂർത്തിയായി!",
+    "common": true
+  },
+  "import_error": {
+    "message": "പിശക്",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "ഇറക്കുമതി ബാക്കപ്പ് ഫയൽ $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "ഹോംപേജ്",
+    "common": true
+  },
+  "addon_page": {
+    "message": "ആഡോൺ പേജ്",
+    "common": true
+  },
+  "safari_store": {
+    "message": "മാക് ആപ്പ് സ്റ്റോർ",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome വെബ് സ്റ്റോർ",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "ഫയർഫോക്സ് ആഡ്-ഓണുകൾ",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "തണ്ടർബേഡ് ആഡ്-ഓണുകൾ",
+    "common": true
+  },
+  "menu_options": {
+    "message": "ഓപ്ഷനുകൾ",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "അക്ഷര വലിപ്പം",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "സൈഡ്ബാർ വലുപ്പം",
+    "common": true
+  },
+  "label_next": {
+    "message": "അടുത്തത്",
+    "common": true
+  },
+  "label_note": {
+    "message": "കുറിപ്പ്:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "മാറ്റുക",
+    "common": true
+  },
+  "label_warning": {
+    "message": "മുന്നറിയിപ്പ്:",
+    "common": true
+  },
+  "label_options": {
+    "message": "ഓപ്ഷനുകൾ:",
+    "common": true
+  },
+  "label_default": {
+    "message": "സ്ഥിരസ്ഥിതി:",
+    "common": true
+  },
+  "label_done": {
+    "message": "ചെയ്തു!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "പകർത്തി!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "ഇഷ്ടാനുസൃത:",
+    "common": true
+  },
+  "label_close": {
+    "message": "അടയ്ക്കുക",
+    "common": true
+  },
+  "label_installed": {
+    "message": "ഇൻസ്റ്റാളുചെയ്തു",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "പേജ് തുറക്കുക",
+    "common": true
+  },
+  "label_agree": {
+    "message": "സമ്മതിക്കുക",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "റദ്ദാക്കുക",
+    "common": true
+  },
+  "label_save": {
+    "message": "രക്ഷിക്കും",
+    "common": true
+  },
+  "label_required": {
+    "message": "ആവശമായ",
+    "common": true
+  },
+  "label_sending": {
+    "message": "അയയ്ക്കുന്നു ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "സ്കെയിൽ:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "സൂം:",
+    "common": true
+  },
+  "label_size": {
+    "message": "വലുപ്പം:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "ഉടൻ വരുന്നു",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "മാറ്റങ്ങൾ സൂക്ഷിക്കുക",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "മാറ്റങ്ങൾ ഉപേക്ഷിക്കുക",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "മെനു",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "ഹോംപേജ് സന്ദർശിക്കുക",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "ഈ പ്രോജക്റ്റിനെ സഹായിക്കുക",
+    "common": true
+  },
+  "support_developer": {
+    "message": "സ്വതന്ത്ര ഡവലപ്പറിനെ പിന്തുണയ്ക്കുക!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "നീ അവിടെയുണ്ടോ!",
+    "common": true
+  },
+  "about_me": {
+    "message": "ഞാൻ 2016 മുതൽ ആഡൻ ഡെവലപ്പർ ആണ്. നിങ്ങളെ കൂടുതൽ ഉൽപാദനക്ഷമമാക്കുന്നതിന് നിങ്ങളുടെ വെബ്-ബ്ര browser സറിനായി ശക്തമായ വിപുലീകരണങ്ങൾ നിർമ്മിക്കുക എന്നതാണ് എന്റെ ലക്ഷ്യം.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "ഞാൻ ഒരു നല്ല ജോലി ചെയ്യുന്നുവെന്ന് നിങ്ങൾ കരുതുന്നുവെങ്കിൽ, ദയവായി സംഭാവന ചെയ്യുക :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "നിങ്ങളുടെ സംഭാവന എന്റെ ഏക വരുമാനമാണ്!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "എന്റെ ജോലിയെ പിന്തുണച്ചതിന് നന്ദി!",
+    "common": true
+  },
+  "op_help": {
+    "message": "സഹായം",
+    "common": true
+  },
+  "o_title": {
+    "message": "ഓപ്ഷനുകൾ - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "ബാക്കപ്പ്",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "പുതിയ ബാക്കപ്പ് സൃഷ്ടിക്കുക",
+    "common": true
+  },
+  "save_settings": {
+    "message": "ക്രമീകരണങ്ങൾ സംരക്ഷിക്കുക",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "ഒരു ഫയലിലേക്ക് നിങ്ങളുടെ ഡാറ്റ എക്സ്പോർട്ടുചെയ്യുന്നതിന്, ഒരു പുതിയ ടാബിൽ ഈ വിൻഡോ വീണ്ടും തുറക്കുക.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "വലത് ക്ലിക്കുചെയ്യുക / \"ലിങ്ക്ഡ് ഫയൽ ഡ Download ൺലോഡ് ചെയ്യുക\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "പൊതുവായ",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "പശ്ചാത്തലം",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "സന്ദർഭ മെനു",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "ലഘുചിത്രങ്ങൾ",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "കുറുക്കുവഴികൾ",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "ഇറക്കുമതി / ബാക്കപ്പ്",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "ക്രമീകരണങ്ങൾ",
+    "common": true
+  },
+  "o_theme": {
+    "message": "തീം:",
+    "common": true
+  },
+  "o_general": {
+    "message": "ജനറൽ:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "അശക്തനായ",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "പ്രവർത്തനക്ഷമമുള്ള",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "പിക്സലുകൾ",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "സെക്കൻഡ്",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "സന്ദർഭ മെനു:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "സന്ദർഭ മെനു അപ്രാപ്തമാക്കുക: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "ഫയലിലേക്ക് ക്രമീകരണങ്ങൾ ബാക്കപ്പ് / പുന ore സ്ഥാപിക്കുക:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "ഇറക്കുമതിച്ചരക്ക്",
+    "common": true
+  },
+  "title_import": {
+    "message": "ഇറക്കുമതിച്ചരക്ക്",
+    "common": true
+  },
+  "title_export": {
+    "message": "കയറ്റുമതി",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "കയറ്റുമതി ബാക്കപ്പ്",
+    "common": true
+  },
+  "label_or": {
+    "message": "അഥവാ",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "ഹലോ :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "എന്റെ പേര് $1$, ഞാൻ $app_name$ ന്റെ രചയിതാവാണ്.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "നിങ്ങൾക്ക് ഇത് ഇഷ്ടമാണെങ്കിൽ, ദയവായി ഇത് ഇവിടെ റേറ്റുചെയ്യുക:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "നിങ്ങൾക്ക് ഇത് ഇഷ്ടപ്പെട്ടില്ലെങ്കിൽ, എന്റെ ഇ-മെയിൽ എന്തുകൊണ്ടാണെന്ന് ദയവായി എന്നെ അറിയിക്കുക. എനിക്ക് ലഭിക്കുന്ന സവിശേഷതകളും ഞാൻ സ്വീകരിക്കുന്നു.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "എന്റെ ജോലിയെ പിന്തുണയ്ക്കുന്നത് പരിഗണിക്കുക",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "ഇബാൻ ഉപയോഗിച്ച് ബാങ്ക് കൈമാറ്റം:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "സംഭാവന (പേപാൽ)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "എന്റെ രക്ഷാധികാരിയാകുമ്പോൾ",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "നന്ദി!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "ഹോം:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "ബന്ധപ്പെടുക:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "റിപ്പോർട്ട് പ്രശ്നങ്ങൾ:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "എനിക്ക് ഇംഗ്ലീഷ് / സ്ലൊവാക്കിൽ മാത്രം മറുപടി നൽകാൻ കഴിയും",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "സോഷ്യൽ മീഡിയ:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "മാറ്റങ്ങൾ സംരക്ഷിച്ച് അടയ്ക്കുക",
+    "common": true
+  },
+  "o_saved": {
+    "message": "സംരക്ഷിച്ചു!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "പൊരുത്തപ്പെടുന്ന ഫലങ്ങളൊന്നുമില്ല",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "ഡാറ്റാ ഇല്ല",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "ഇരുണ്ട മോഡ്",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "സിസ്റ്റം നിയന്ത്രിക്കുന്നു",
+    "common": true
+  },
+  "used_space": {
+    "message": "ഉപയോഗിച്ച സ്പേസ്: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "പുതിയ ടാബിൽ തുറക്കുക",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "An / On about മാറുക",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "അഡോൺ പ്രവർത്തനരഹിതമാക്കി",
+    "common": true
+  },
+  "_description_why": {
+    "message": "എന്തുകൊണ്ട്?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "സ്വകാര്യതാനയം",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "അടുത്തിടെ ചേർത്ത സവിശേഷതകൾ:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "ടാഗുകൾ:",
+    "common": true
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "_description_feature_1": {
+    "message": "Send message to your devices (similar to \"Send Tab to Device\" feature in Firefox)"
+  },
+  "_description_feature_2": {
+    "message": "No need to create additional account - browser built-in Sync will handle everything"
+  },
+  "_description_feature_3": {
+    "message": "Inbox / Outbox - history of received and send notes"
+  },
+  "_description_tags_sntd": {
+    "message": "note, message, send tab to device, tab, page, link, forward, transfer, e2e, encryption, secure, Firefox Sync, send, device, sync, synchronization, inbox, outbox, email"
+  },
+  "app_name": {
+    "message": "Send Note to Device"
+  },
+  "app_desc": {
+    "message": "Send Note to Device allows you to send current URL with a note (message) to different devices."
+  },
+  "label_remove": {
+    "message": "Remove"
+  },
+  "inbox_messages": {
+    "message": "Inbox notes"
+  },
+  "note_forward": {
+    "message": "Forward..."
+  },
+  "note_delete": {
+    "message": "Delete"
+  },
+  "note_unread": {
+    "message": "Make unread"
+  },
+  "outbox_messages": {
+    "message": "Outbox notes"
+  },
+  "outbox_messages_title": {
+    "message": "Sent notes"
+  },
+  "label_target_device": {
+    "message": "Target device"
+  },
+  "label_source_device": {
+    "message": "Send from"
+  },
+  "placeholder_new_note": {
+    "message": "Write text you want to send to other device."
+  },
+  "placeholder_new_note_url": {
+    "message": "URL send with your note."
+  },
+  "no_target_device": {
+    "message": "No devices found!"
+  },
+  "no_target_device_body": {
+    "message": "Install this addon on all your devices in order to send them notes."
+  },
+  "no_target_device_sync_firefox": {
+    "message": "Also each device needs to have \"Firefox Sync\" enabled and in \"Sync Settings\" the \"Add-ons\" synchronization enabled."
+  },
+  "no_target_device_sync_chrome": {
+    "message": "Also each device needs to have \"Chrome Sync\" enabled."
+  },
+  "send_note": {
+    "message": "Send note!"
+  },
+  "note_sent": {
+    "message": "Note sent"
+  },
+  "discard_note": {
+    "message": "Close"
+  },
+  "open_inbox": {
+    "message": "Inbox"
+  },
+  "open_outbox": {
+    "message": "Outbox"
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store"
+  },
+  "menu_options": {
+    "message": "Options"
+  },
+  "menu_quick_options": {
+    "message": "Quick options"
+  },
+  "menu_visit_title": {
+    "message": "Visit homepage"
+  },
+  "op_visit_home": {
+    "message": "Visit homepage"
+  },
+  "cm_shortcut_title": {
+    "message": "Shortcut: \"$1\""
+  },
+  "create_note_page": {
+    "message": "Send Page-note to Device"
+  },
+  "create_note_text": {
+    "message": "Send Text to Device"
+  },
+  "create_note_tab": {
+    "message": "Send Tab-note to Device"
+  },
+  "create_note_link": {
+    "message": "Send Link-note to Device"
+  },
+  "o_title": {
+    "message": "Options - $1"
+  },
+  "o_tab_general": {
+    "message": "General"
+  },
+  "o_tab_devices": {
+    "message": "Devices"
+  },
+  "o_inbox": {
+    "message": "Inbox"
+  },
+  "o_tab_context_menu": {
+    "message": "Context menu"
+  },
+  "o_tab_import": {
+    "message": "Import / backup"
+  },
+  "o_name": {
+    "message": "Device name"
+  },
+  "o_favorite": {
+    "message": "Make favorite"
+  },
+  "o_favorite_title": {
+    "message": "Favorite devices will be on the top of the list of devices."
+  },
+  "this_device": {
+    "message": "This device:"
+  },
+  "list_of_devices": {
+    "message": "List of connected devices:"
+  },
+  "title_device_last_used": {
+    "message": "Last time the device was used (received a note)."
+  },
+  "o_open_inbox_in": {
+    "message": "When new note is received open Inbox in:"
+  },
+  "o_open_inbox_in_0": {
+    "message": "New Tab"
+  },
+  "o_open_inbox_in_1": {
+    "message": "New Window"
+  },
+  "o_open_inbox_in_2": {
+    "message": "Don't open Inbox"
+  },
+  "o_disable_cm_page_selection_note": {
+    "message": "Disable context menu on Text selection"
+  },
+  "o_disable_cm_page_note": {
+    "message": "Disable context menu on Page"
+  },
+  "o_disable_cm_link_note": {
+    "message": "Disable context menu on Links"
+  },
+  "o_disable_cm_tab_note": {
+    "message": "Disable context menu on Tabs"
+  },
+  "o_backup_restore": {
+    "message": "Backup / Restore settings:"
+  },
+  "o_export_settings": {
+    "message": "Export settings to a file"
+  },
+  "import_settings_button": {
+    "message": "Import settings from $1 file..."
+  },
+  "import_finished": {
+    "message": "Import finished!"
+  },
+  "label_working": {
+    "message": "working..."
+  },
+  "o_tab_about": {
+    "message": "About"
+  },
+  "o_about_hello": {
+    "message": "Hello :)"
+  },
+  "o_about_intro": {
+    "message": "My name is $1$ and I'm the author of $app_name$.",
+    "placeholders": {
+      "1": {
+        "content": "Juraj Mäsiar"
+      }
+    }
+  },
+  "o_about_like_it": {
+    "message": "If you like it, please rate it here:"
+  },
+  "o_about_dislike_it": {
+    "message": "If you don't like it, please let me know why to my e-mail. I'm implementing most of the feature-requests I receive."
+  },
+  "o_about_support_by": {
+    "message": "Please consider supporting my work by"
+  },
+  "o_about_support_by_donation": {
+    "message": "donation (PayPal)"
+  },
+  "o_about_support_by_patron": {
+    "message": "becoming my Patron"
+  },
+  "o_about_support_by_update": {
+    "message": "upgrading to Professional version"
+  },
+  "o_about_thanks": {
+    "message": "Thank you!"
+  },
+  "o_about_home": {
+    "message": "home:"
+  },
+  "o_about_contact": {
+    "message": "Contact:"
+  },
+  "o_about_support_reply": {
+    "message": "I can reply only in English / Slovak"
+  },
+  "o_about_social_media": {
+    "message": "Social media:"
+  },
+  "op_support_me": {
+    "message": "Help this project"
+  },
+  "op_help": {
+    "message": "Help"
+  },
+  "o_save_close": {
+    "message": "Save changes and close"
+  },
+  "label_save_changes": {
+    "message": "Save changes"
+  },
+  "label_discard_changes": {
+    "message": "Discard changes"
+  },
+  "o_saved": {
+    "message": "saved!"
+  },
+  "import_error": {
+    "message": "Error"
+  },
+  "import_backup_file": {
+    "message": "Import backup file $1"
+  },
+  "search_search": {
+    "message": "Search"
+  },
+  "homepage": {
+    "message": "Homepage"
+  },
+  "addon_page": {
+    "message": "Addon page"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "label_font_size": {
+    "message": "Font size"
+  },
+  "label_next": {
+    "message": "Next"
+  },
+  "label_note": {
+    "message": "Note:"
+  },
+  "label_warning": {
+    "message": "WARNING:"
+  },
+  "label_default": {
+    "message": "Default:"
+  },
+  "label_done": {
+    "message": "Done!"
+  },
+  "label_copied": {
+    "message": "Copied!"
+  },
+  "label_close": {
+    "message": "Close"
+  },
+  "label_open_page": {
+    "message": "Open page"
+  },
+  "label_agree": {
+    "message": "Agree"
+  },
+  "label_cancel": {
+    "message": "Cancel"
+  },
+  "support_developer": {
+    "message": "Support independent developer!"
+  },
+  "hello_there": {
+    "message": "Hello there!"
+  },
+  "about_me": {
+    "message": "I'm addon developer since 2016 and my goal is to build powerful extensions for your web-browser to make you more productive."
+  },
+  "about_good_job": {
+    "message": "If you think I'm doing a good job, please donate :)"
+  },
+  "about_income": {
+    "message": "Your donation is my only income!"
+  },
+  "about_thanks": {
+    "message": "Thank you for supporting my work!"
+  },
+  "o_tab_settings": {
+    "message": "Settings"
+  },
+  "o_pixels": {
+    "message": "pixels"
+  },
+  "o_seconds": {
+    "message": "seconds"
+  },
+  "label_or": {
+    "message": "or"
+  },
+  "o_about_issues": {
+    "message": "Report issues:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Bank transfer using IBAN:"
+  },
+  "ps_no_results": {
+    "message": "No matching results"
+  },
+  "label_no_data": {
+    "message": "No data"
+  },
+  "dark_mode": {
+    "message": "Dark mode"
+  },
+  "dark_mode_system": {
+    "message": "Controlled by system"
+  },
+  "_description_features": {
+    "message": "Features:"
+  },
+  "_description_why": {
+    "message": "Why?"
+  },
+  "_description_privacy_policy": {
+    "message": "Privacy Policy"
+  },
+  "_description_recent_features": {
+    "message": "Recently added features:"
+  },
+  "_description_common_tags": {
+    "message": "Tags:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Available also for your Firefox:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Available also for your Thunderbird:"
+  }
+}

@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "будь-де, кнопка, курсор, перетягування, захоплення, захоплення, захоплення та перетягування, нескінченна, ліва, середня, імпульс, миша, переміщення, сторінка, праворуч, прокрутка, прокрутка сторінка, прокрутка, прокрутка, кинути"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Перетягніть ScrollBar з середньою кнопкою миші будь-де на сторінці. Підтримує також стиль \"захоплення та перетягування\"."
+  },
+  "field_int_default_value": {
+    "message": "Типове значення: $1, мін.: $2, макс.: $3"
+  },
+  "field_set_default": {
+    "message": "Скинути до типових: $1"
+  },
+  "thunderbird_store": {
+    "message": "Доповнення для Thunderbird"
+  },
+  "firefox_store": {
+    "message": "Сторінка додатків Firefox"
+  },
+  "chrome_store": {
+    "message": "Сторінка Веб-магазину Chrome"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "win_disable": {
+    "message": "Вимкнути на $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Вимкніть горизонтальне прокручування на $1"
+  },
+  "op_visit_home": {
+    "message": "Відвідати домівку"
+  },
+  "op_support_me": {
+    "message": "Допомогти цьому проекту"
+  },
+  "o_title": {
+    "message": "Налаштування - $1"
+  },
+  "o_tab_general": {
+    "message": "Загальні"
+  },
+  "o_tab_momentum": {
+    "message": "Імпульс"
+  },
+  "o_tab_cursor": {
+    "message": "Курсор"
+  },
+  "o_axis_locking": {
+    "message": "Блокування осі"
+  },
+  "o_tab_performance": {
+    "message": "Продуктивність"
+  },
+  "o_tab_disabled_on": {
+    "message": "Вимкнено"
+  },
+  "o_tab_advanced": {
+    "message": "Просунутий"
+  },
+  "o_tab_scrollbars": {
+    "message": "Прокрутки"
+  },
+  "o_tab_backup": {
+    "message": "Імпорт / резервне копіювання"
+  },
+  "o_tab_about": {
+    "message": "Про додаток"
+  },
+  "o_axis_lock_helper": {
+    "message": "Під час прокрутки коробки, який прокручується в одній осі, але батьківська коробка прокрутка в іншій осі, блокування прокрутки до однієї осі за допомогою:"
+  },
+  "o_axis_lock_0": {
+    "message": "Smart Lock - тимчасовий замок за допомогою імпульсу"
+  },
+  "o_axis_lock_1": {
+    "message": "Строгий замок миттєвого напрямку"
+  },
+  "o_axis_lock_2": {
+    "message": "Немає блокування - безкоштовна прокрутка в обох осі"
+  },
+  "o_trend_momentum_window": {
+    "message": "Smart Lock STACK STACK"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Більша вартість вимагатиме більше прокрутки в протилежній осі, щоб змінити осі прокрутки."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon вимкнено! Натисніть тут, щоб увімкнути."
+  },
+  "o_cursor_change_default": {
+    "message": "немає змін - найкраща продуктивність"
+  },
+  "o_scroll_button": {
+    "message": "Кнопка прокручування:"
+  },
+  "o_direction_speed": {
+    "message": "Стиль прокрутки / напрямок / швидкість:"
+  },
+  "o_multiplier": {
+    "message": "Мультиплікатор"
+  },
+  "o_times_speed": {
+    "message": "час прокрутки швидкості"
+  },
+  "o_maximum_speed": {
+    "message": "Максимальна швидкість прокрутки (0 - вимкнено):"
+  },
+  "o_ratio_unit": {
+    "message": "співвідношення (розмір сторінки / розмір вікна)"
+  },
+  "o_scroll_type_0": {
+    "message": "Емулювати прокручування"
+  },
+  "o_scroll_type_1": {
+    "message": "Захопити і тягнуть - як на смартфоні"
+  },
+  "o_scroll_type_2": {
+    "message": "Динамічна швидкість (експериментальна)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Це схоже на перетягування прокрутки"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Це схоже на перетягування сторінки пальцем на екран телефону"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Динамічна швидкість робить швидкість прокрутки повільніше, коли сторінка довша"
+  },
+  "o_disable_key": {
+    "message": "Вимкнути / увімкнути прокручування, коли клавіша відсутня:"
+  },
+  "o_momentum_category": {
+    "message": "Імпульс:"
+  },
+  "o_momentum_formula": {
+    "message": "Формула імпульсу:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Рівномірно делерований рух"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Прокрутка сторінки буде рівномірно сповільнилася, поки вона не зупиниться"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Експоненціально делерований рух"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Прокрутіть сторінку швидко (експоненціально) уповільнити"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Нескінченний рух ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Прокручування ніколи не зупиниться"
+  },
+  "o_momentum_max_speed": {
+    "message": "Максимальна швидкість (0 - вимкнено):"
+  },
+  "o_page_weight": {
+    "message": "Вага сторінки:"
+  },
+  "o_grams": {
+    "message": "grams :)"
+  },
+  "o_additional_speed": {
+    "message": "Додаткова швидкість:"
+  },
+  "o_pixels_second": {
+    "message": "пікселі в секунду"
+  },
+  "o_additional_duration": {
+    "message": "Додаткова тривалість:"
+  },
+  "o_advanced_momentum": {
+    "message": "Розширений налаштування імпульсу (тільки для експертів!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Зміна цих значень може зламати свій імпульс!"
+  },
+  "o_compute_from_last": {
+    "message": "Обчислюйте з останнього:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Виявлення зупинки миші:"
+  },
+  "o_tracking_speed": {
+    "message": "Швидкість відстеження:"
+  },
+  "o_reset_values": {
+    "message": "Скидання значень"
+  },
+  "o_cursor_scrolling": {
+    "message": "Курсор використовується при прокрутці:"
+  },
+  "o_performance": {
+    "message": "Продуктивність:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Запобігання великим стрибком"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Якщо ви використовуєте інструмент, який може телепортувати курсор на екрані (коли ви досягнете краю), увімкніть цю опцію, щоб постійне (нескінченне) прокручування."
+  },
+  "o_advanced": {
+    "message": "Розширений:"
+  },
+  "o_movement_detection": {
+    "message": "Поріг виявлення руху миші:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Скільки пікселів має переміщення миші, щоб заблокувати посилання. Іноді при натисканні кнопки прокрутки ви рухаєте мишу трохи, але ви не хочете, щоб посилання буде вимкнено через це."
+  },
+  "o_context_menu_block": {
+    "message": "Блок меню контекстного меню:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Розблокувати затримку контекстного меню"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Якщо ви бачите контекстне меню після прокручування за допомогою правої кнопки миші, збільште це значення"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Вимкніть горизонтальне прокручування на домени:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Вимкнено на доменах:"
+  },
+  "o_is_disabled_url": {
+    "message": "Вимкнено на сторінках / під-сторінках:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Ви можете використовувати символ зірки (*), щоб визначити частину URL-адреси, наприклад: \"google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Введіть один домен на рядок."
+  },
+  "o_is_disabled": {
+    "message": "Вимкнути додавання"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Використовуйте значок панелі інструментів як головний перемикач увімкнення / вимикання"
+  },
+  "o_scroll_button_middle": {
+    "message": "Середня кнопка"
+  },
+  "o_scroll_button_right": {
+    "message": "Права кнопка"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Користувачі Linux / Mac - Вам буде запропоновано нове дозвіл \"Читати та змінювати налаштування браузера\" - це потрібно, щоб придушити контекстне меню, яке буде показано, перш ніж прокрутити!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Користувачі Linux / Mac - Ваше контекстне меню буде заблоковано! Щоб відкрити контекстне меню, утримуйте кнопку \"Shift\" або кнопку \"Постійно\"."
+  },
+  "o_scroll_button_left": {
+    "message": "Ліва кнопка (експериментальна)"
+  },
+  "o_scroll_on_links": {
+    "message": "Прокрутіть посилання"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Коли увімкнено, ви не зможете перетягувати посилання (тільки за допомогою клавіші \"Вимкнути\")"
+  },
+  "o_scroll_on_text": {
+    "message": "Прокрутіть текст"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Емулює прокручування телефону / редагування - потрібно натиснути текст, щоб перейти до режиму \"Редагування\". Натискання за межами тексту дозволяє знову прокрутити."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Прокрутіть текстову версію"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea - це блок тексту, як правило, змінюється. Наприклад, на вкладці \"Вимкнено\", ви можете побачити textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Прокрутіть на редагований HTML"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Наприклад, орган електронної пошти в Gmail є редагованим HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "у тексті дозволять вибрати / редагування тексту."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Натисніть \"Текст\" дозволить \"Редагування режиму\". Натисніть за межами тексту, щоб увімкнути \"режим прокручування\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Одномісний клік"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Подвійне клацання"
+  },
+  "o_scrollbars_width": {
+    "message": "Scrollbars виглядає"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Нормальний (без змін)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Тонкий"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Прихований"
+  },
+  "o_scrollbars_color": {
+    "message": "Колір Scrollbar Slider:"
+  },
+  "o_scrollbars_background": {
+    "message": "Колір фону ScrollBar:"
+  },
+  "o_reverse": {
+    "message": "Зворотний напрямок прокрутки"
+  },
+  "o_disable_alt": {
+    "message": "Утворювати"
+  },
+  "o_disable_shift": {
+    "message": "Зміна"
+  },
+  "o_disable_ctrl": {
+    "message": "Кара"
+  },
+  "o_disable_type_0": {
+    "message": "Вимкнути, коли ключ знизиться:"
+  },
+  "o_disable_type_1": {
+    "message": "Увімкнути, коли клавіша знижена:"
+  },
+  "o_momentum": {
+    "message": "увімкнути імпульс - ви можете \"кинути\" сторінку (наприклад, на телефоні)"
+  },
+  "o_no_css_edit": {
+    "message": "Не блокуйте iframes і не змінюйте курсор під час прокрутки"
+  },
+  "o_no_prevent_default": {
+    "message": "Не блокуйте дію кнопки за замовчуванням"
+  },
+  "o_auto_link_lock": {
+    "message": "Заблокування посилань:"
+  },
+  "o_no_link_block": {
+    "message": "Не блокуйте кнопку миші на посилання після руху"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Коли ви починаєте прокручувати посилання, а потім ви завершите прокручування на тому ж посиланні, браузер відкриє посилання. Це, як правило, не бажана поведінка так за замовчуванням заблоковано."
+  },
+  "o_page_weight_title": {
+    "message": "Це контролює, як \"важка\" сторінка. Більш важкі сторінки мають довший імпульс."
+  },
+  "o_additional_speed_title": {
+    "message": "Ви можете прискорити швидкість зазначення імпульсу."
+  },
+  "o_additional_duration_title": {
+    "message": "Додатковий час для кожного імпульсу."
+  },
+  "o_compute_from_last_title": {
+    "message": "Початкова швидкість імпульсу визначається швидкістю прокрутки прямо перед випуском кнопки прокручування."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Скільки часу треба залишатися на місці, перш ніж випустити кнопку прокрутки - не активувати імпульс."
+  },
+  "o_tracking_speed_title": {
+    "message": "Інтервал для вимірювання поточної швидкості прокрутки."
+  },
+  "o_scrolling_area": {
+    "message": "Площа прокрутки:"
+  },
+  "o_outside_area_width": {
+    "message": "Площа прокрутки (0 - вимкнено):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Переміщення курсору за межами області прокрутки буде повернути позицію прокручування. Таку ж поведінку можна побачити при перетягуванні прокрутки."
+  },
+  "o_scroll_button_left_title": {
+    "message": "Попередження - Підтримка лівої кнопки використовує застарілу API Firefox, яку можна було б видалити в майбутніх версіях Firefox."
+  },
+  "o_prevent_text_selection": {
+    "message": "Запобігти виділенню тексту під час прокрутки з лівою кнопкою"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "На деяких пристроях, прокрутка з лівою кнопкою миші також виберете текст на сторінці."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Не блокуйте контекстне меню, коли намагаєтеся прокрутити не прокручуючу сторінку"
+  },
+  "o_backup_restore": {
+    "message": "Налаштування резервного копіювання / відновлення з файлу:"
+  },
+  "o_export_settings": {
+    "message": "Налаштування експорту до файлу"
+  },
+  "import_settings_button": {
+    "message": "Налаштування імпорту з файлу $1 ..."
+  },
+  "import_finished": {
+    "message": "Імпортування закінчено!"
+  },
+  "test_page_title": {
+    "message": "Перевірте налаштування прокрутки"
+  },
+  "menu_options": {
+    "message": "Опції"
+  },
+  "menu_visit_title": {
+    "message": "Відвідати домівку"
+  },
+  "not_working": {
+    "message": "Відключений вашим веб-браузером"
+  },
+  "disabled_by_user": {
+    "message": "Відключено в цьому домені"
+  },
+  "not_working_title": {
+    "message": "Ваш браузер заблокує Scrollany, де на цих типах сторінок:"
+  },
+  "not_working_body": {
+    "message": "Щоб увімкнути Scrollany десь на сторінках \"Mozilla.org\", див. Цей підручник YouTube"
+  },
+  "show_scrollbars": {
+    "message": "Показати прокрутки"
+  },
+  "show_scrollbars_title": {
+    "message": "Тимчасово показати прокрутки"
+  },
+  "switch_on_off": {
+    "message": "Перемикач надсилання / на"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Якщо ви відчуваєте помітну затримку між натисканням кнопки прокручування та запуск прокрутки, спробуйте увімкнути цю опцію. Однак ви не зможете прокручувати \"iframes\", наприклад, деякі старі вбудовані відео або деякі оголошення."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Це також вимкне параметр, щоб змінити курсор під час прокрутки."
+  },
+  "o_helper_text_default_action": {
+    "message": "Корисно в Linux, щоб увімкнути пасту з середньою кнопкою."
+  },
+  "o_about_hello": {
+    "message": "Привіт :)"
+  },
+  "o_about_intro": {
+    "message": "Мене звати Юрай Месіар (Juraj Mäsiar) і я є автором ScrollAnywhere."
+  },
+  "o_about_like_it": {
+    "message": "Якщо Вам подобається додаток, будь ласка, оцініть його тут:"
+  },
+  "o_about_dislike_it": {
+    "message": "Якщо Вам щось не подобається, повідомте мене через електронну пошту. Я впроваджую більшість функцій, прохання про які отримую."
+  },
+  "o_disabled": {
+    "message": "вимкнено",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "увімкнено",
+    "common": true
+  },
+  "o_times": {
+    "message": "часи",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "пікселів",
+    "common": true
+  },
+  "o_items": {
+    "message": "елементи",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "мілісекунд",
+    "common": true
+  },
+  "label_working": {
+    "message": "робота ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Зачинити",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Будь ласка, підтримайте мою роботу шляхом",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "пожертви (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "ставання моїм Меценатом",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Дякую!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "домашня:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Контакти:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Звітувати про помилку:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Я можу відповідати лише англійською або словацькою",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Соціальні мережі:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Зберегти зміни та закрити",
+    "common": true
+  },
+  "o_saved": {
+    "message": "збережено!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Скоро буде",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Зберегти зміни",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Політика конфіденційності",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Нещодавно додані функції:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Теги:",
+    "common": true
+  }
+}

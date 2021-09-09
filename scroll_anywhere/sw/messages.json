@@ -1,0 +1,548 @@
+{
+  "_description_tags_sa": {
+    "message": "mahali popote, kifungo, mshale, drag, kunyakua, kunyakua drag, kunyakua na drag, usio na mwisho, kushoto, katikati, kasi, panya, hoja, ukurasa, kulia, scroll, scroll, scrollbar, scrolling, kutupa"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Drag scrollbar na kifungo chako cha kati cha panya mahali popote kwenye ukurasa. Inasaidia pia \"kunyakua na drag\" style."
+  },
+  "field_int_default_value": {
+    "message": "Thamani ya msingi: $1, min: $2, Max: $3"
+  },
+  "field_set_default": {
+    "message": "Weka upya kwa default: $1."
+  },
+  "thunderbird_store": {
+    "message": "Vidokezo vya Thunderbird."
+  },
+  "firefox_store": {
+    "message": "Vidokezo vya Firefox."
+  },
+  "chrome_store": {
+    "message": "Duka la Wavuti wa Chrome."
+  },
+  "safari_store": {
+    "message": "Duka la App Mac."
+  },
+  "win_disable": {
+    "message": "Zima kwenye $1."
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Lemaza Scrolling Horizontal kwenye $1."
+  },
+  "op_visit_home": {
+    "message": "Tembelea Homepage."
+  },
+  "op_support_me": {
+    "message": "Msaada mradi huu"
+  },
+  "o_title": {
+    "message": "Chaguzi - $1."
+  },
+  "o_tab_general": {
+    "message": "Mkuu"
+  },
+  "o_tab_momentum": {
+    "message": "Momentum."
+  },
+  "o_tab_cursor": {
+    "message": "Mshale"
+  },
+  "o_axis_locking": {
+    "message": "Axis Locking."
+  },
+  "o_tab_performance": {
+    "message": "Utendaji"
+  },
+  "o_tab_disabled_on": {
+    "message": "Walemavu"
+  },
+  "o_tab_advanced": {
+    "message": "Ya juu"
+  },
+  "o_tab_scrollbars": {
+    "message": "Scrollbars."
+  },
+  "o_tab_backup": {
+    "message": "Ingiza / Backup."
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Wakati wa kupiga sanduku ambalo linawezekana katika mhimili mmoja lakini sanduku la wazazi linakabiliwa na mhimili mwingine, lock scrolling kwa mhimili mmoja kwa kutumia:"
+  },
+  "o_axis_lock_0": {
+    "message": "Smart Lock - Lock Temporal kwa kutumia kasi"
+  },
+  "o_axis_lock_1": {
+    "message": "Lock kali - mwelekeo wa papo hapo Lock."
+  },
+  "o_axis_lock_2": {
+    "message": "Hakuna lock - bure scrolling katika mhimili wote wawili."
+  },
+  "o_trend_momentum_window": {
+    "message": "Smart lock stack ukubwa."
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Thamani kubwa itahitaji zaidi kupiga katika mhimili wa kinyume ili kubadilisha mhimili wa scrolling."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon imezimwa! Bofya hapa ili uwezesha."
+  },
+  "o_cursor_change_default": {
+    "message": "hakuna mabadiliko - utendaji bora"
+  },
+  "o_scroll_button": {
+    "message": "Futa kifungo:"
+  },
+  "o_direction_speed": {
+    "message": "Sleza style / mwelekeo / kasi:"
+  },
+  "o_multiplier": {
+    "message": "Multiplier."
+  },
+  "o_times_speed": {
+    "message": "times Speed Speed."
+  },
+  "o_maximum_speed": {
+    "message": "Upeo wa Upeo wa Upeo (0 - Walemavu):"
+  },
+  "o_ratio_unit": {
+    "message": "uwiano (urefu wa ukurasa / ukubwa wa dirisha)"
+  },
+  "o_scroll_type_0": {
+    "message": "Kuiga scrollbar."
+  },
+  "o_scroll_type_1": {
+    "message": "Kunyakua na kuburudisha - kama kwenye smartphone."
+  },
+  "o_scroll_type_2": {
+    "message": "Kasi ya nguvu (majaribio)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Ni kama kuburudisha scrollbar."
+  },
+  "o_scroll_type_title_1": {
+    "message": "Ni kama kuburudisha ukurasa na kidole chako kwenye skrini ya simu"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Kasi ya nguvu hufanya kasi ya kasi ya kasi wakati ukurasa ni mrefu"
+  },
+  "o_disable_key": {
+    "message": "Zima / kuwezesha kupiga kura wakati ufunguo umeshuka:"
+  },
+  "o_momentum_category": {
+    "message": "Momentum:"
+  },
+  "o_momentum_formula": {
+    "message": "Mfumo wa Momentum:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Movement ya kupungua kwa usahihi"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Kitabu cha Ukurasa kitapungua kwa kiasi kikubwa mpaka itakapoacha"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Movement ya Deconentially Deconentially."
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Ukurasa wa kitabu utazidi (exponentially) polepole"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Harakati isiyo na mwisho ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Scrolling haitaacha kamwe"
+  },
+  "o_momentum_max_speed": {
+    "message": "Upeo wa kasi (0 - ulemavu):"
+  },
+  "o_page_weight": {
+    "message": "Uzito wa Ukurasa:"
+  },
+  "o_grams": {
+    "message": "gramu :)"
+  },
+  "o_additional_speed": {
+    "message": "Kasi ya ziada:"
+  },
+  "o_pixels_second": {
+    "message": "pixels kwa pili"
+  },
+  "o_additional_duration": {
+    "message": "Muda wa ziada:"
+  },
+  "o_advanced_momentum": {
+    "message": "Kuweka kasi ya kasi (kwa wataalam tu!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Kubadilisha maadili haya kunaweza kuvunja kasi yako!"
+  },
+  "o_compute_from_last": {
+    "message": "Compute kutoka mwisho:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Kuchunguza Mouse kuacha:"
+  },
+  "o_tracking_speed": {
+    "message": "Kufuatilia kasi:"
+  },
+  "o_reset_values": {
+    "message": "Rudisha maadili."
+  },
+  "o_cursor_scrolling": {
+    "message": "Mshale hutumiwa wakati wa kupiga:"
+  },
+  "o_performance": {
+    "message": "Utendaji:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Kuzuia jumps kubwa."
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Ikiwa unatumia chombo ambacho kinaweza teleport cursor yako kwenye skrini (wakati unapofikia makali), wezesha chaguo hili kuruhusu kuendelea (usio na kipimo)."
+  },
+  "o_advanced": {
+    "message": "Advanced:"
+  },
+  "o_movement_detection": {
+    "message": "Kipindi cha kugundua harakati ya panya:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Ni pixels ngapi ambazo huenda kwa panya ili kuzuia kiungo. Wakati mwingine wakati wa kushinikiza kifungo cha scroll unasonga panya kidogo lakini hutaki kiungo kuwa walemavu kwa sababu ya hiyo."
+  },
+  "o_context_menu_block": {
+    "message": "Kizuizi cha Menyu ya Muktadha:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Fungua Uchelezo wa Menyu ya Muktadha"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Ikiwa utaona orodha ya mazingira baada ya kuzunguka na kifungo cha kulia cha mouse, ongeze thamani hii"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Zimaza scrolling usawa juu ya domains:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Walemavu kwenye Domains:"
+  },
+  "o_is_disabled_url": {
+    "message": "Walemavu kwenye kurasa / kurasa ndogo:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Unaweza kutumia alama ya nyota (*) ili kufafanua sehemu ya URL, kwa mfano: \"google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Ingiza kikoa kimoja kwa kila mstari."
+  },
+  "o_is_disabled": {
+    "message": "Zima kuongeza"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Tumia icon ya toolbar kama kubadili juu ya / off"
+  },
+  "o_scroll_button_middle": {
+    "message": "Kitufe cha kati"
+  },
+  "o_scroll_button_right": {
+    "message": "Kitufe cha kulia"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Watumiaji wa Linux / Mac - utastahili ruhusa mpya \"Soma na urekebishe mipangilio ya kivinjari\" - hii inahitajika ili kuzuia orodha ya mazingira inayoonyeshwa kabla ya kupiga!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Watumiaji wa Linux / Mac - orodha yako ya muktadha itazuiwa! Ili kufungua menyu ya muktadha kushikilia kitufe cha \"Shift\" au kifungo cha kulia cha tatu."
+  },
+  "o_scroll_button_left": {
+    "message": "Kitufe cha kushoto (majaribio)"
+  },
+  "o_scroll_on_links": {
+    "message": "Tembea kwenye Viungo"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Ikiwa imewezeshwa, huwezi kuwa na drag na kuacha viungo (tu kwa kutumia 'afya' muhimu)"
+  },
+  "o_scroll_on_text": {
+    "message": "Tembea kwenye Nakala."
+  },
+  "o_scroll_on_text_title": {
+    "message": "Inapunguza simu / kuhariri simu - unahitaji kubonyeza maandishi ili kubadili \"hali ya kuhariri\". Kwenye nje ya maandiko inawezesha kupiga tena."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Tembea kwenye textarea."
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea ni block ya maandishi, kwa kawaida resizable. Kwa mfano kwenye kichupo cha \"Walemavu\" unaweza kuona textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Tembea kwenye HTML ya Editable"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Kwa mfano mfano wa mwili katika Gmail ni editable HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "juu ya maandishi itawezesha kuchagua / kuhariri maandiko."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Bofya kwenye maandishi itawezesha \"hali ya hariri\". Bonyeza maandishi ya nje ili kuwezesha \"mode ya kitabu\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Bonyeza moja"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Bonyeza mara mbili."
+  },
+  "o_scrollbars_width": {
+    "message": "Scrollbars Angalia"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Kawaida (hakuna mabadiliko)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Nyembamba"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Siri"
+  },
+  "o_scrollbars_color": {
+    "message": "Scrollbar Slider Rangi:"
+  },
+  "o_scrollbars_background": {
+    "message": "Rangi ya background ya scrollbar:"
+  },
+  "o_reverse": {
+    "message": "Rejea mwelekeo wa kitabu"
+  },
+  "o_disable_alt": {
+    "message": "Alt."
+  },
+  "o_disable_shift": {
+    "message": "Shift."
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl."
+  },
+  "o_disable_type_0": {
+    "message": "Zima wakati ufunguo umeshuka:"
+  },
+  "o_disable_type_1": {
+    "message": "Wezesha wakati ufunguo ni chini:"
+  },
+  "o_momentum": {
+    "message": "wezesha kasi - unaweza \"kutupa\" ukurasa (kama kwenye simu)"
+  },
+  "o_no_css_edit": {
+    "message": "Usifungue iframes na usibadilishe mshale wakati ukizunguka"
+  },
+  "o_no_prevent_default": {
+    "message": "Usizuie hatua ya kifungo cha default."
+  },
+  "o_auto_link_lock": {
+    "message": "Viungo vinavyozuia:"
+  },
+  "o_no_link_block": {
+    "message": "Usizuie mouse bonyeza kwenye kiungo baada ya harakati."
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Unapoanza kupiga kwenye kiungo na kisha kumaliza kupiga kwenye kiungo sawa, kivinjari kitafungua kiungo. Hii si kawaida tabia ya taka hivyo kwa default imefungwa."
+  },
+  "o_page_weight_title": {
+    "message": "Hii inadhibiti jinsi ya 'nzito' ukurasa ni. Kurasa zenye nzito zimeongezeka kwa muda mrefu."
+  },
+  "o_additional_speed_title": {
+    "message": "Unaweza kuharakisha kasi ya kupiga kasi."
+  },
+  "o_additional_duration_title": {
+    "message": "Wakati wa ziada kwa kila kasi."
+  },
+  "o_compute_from_last_title": {
+    "message": "Kasi ya kasi ya awali imedhamiriwa na kasi ya kupiga haki kabla ya kutolewa kifungo cha kitabu."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Ni muda gani wa kubaki panya bado - kabla ya kutolewa kifungo cha Scroll - ili kuamsha kasi."
+  },
+  "o_tracking_speed_title": {
+    "message": "Muda wa kupima kasi ya sasa ya kitabu."
+  },
+  "o_scrolling_area": {
+    "message": "Eneo la kupiga:"
+  },
+  "o_outside_area_width": {
+    "message": "Eneo la Kuzunguka (0 - Walemavu):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Kuhamisha mshale wako nje ya eneo la kupiga kura litarudi msimamo wa scrolling. Tabia hiyo inaweza kuonekana wakati wa kuchora scrollbar."
+  },
+  "o_scroll_button_left_title": {
+    "message": "Onyo - Msaada wa kifungo wa kushoto unatumia API ya Firefox iliyopunguzwa ambayo inaweza kuondolewa katika matoleo ya baadaye ya Firefox."
+  },
+  "o_prevent_text_selection": {
+    "message": "Zuia uteuzi wa maandishi wakati ukizunguka na kifungo cha kushoto."
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Katika vifaa vingine, ukizunguka na kifungo cha kushoto cha mouse pia kitachagua maandishi kwenye ukurasa."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Usizuie Menyu ya Muktadha wakati unajaribu kurasa ukurasa usio na scrollable"
+  },
+  "o_backup_restore": {
+    "message": "Backup / kurejesha mipangilio ya faili:"
+  },
+  "o_export_settings": {
+    "message": "Mipangilio ya kuuza nje kwenye faili."
+  },
+  "import_finished": {
+    "message": "Kuagiza kumaliza!"
+  },
+  "test_page_title": {
+    "message": "Jaribu mipangilio yako ya scrolling hapa."
+  },
+  "menu_options": {
+    "message": "Chaguzi."
+  },
+  "menu_visit_title": {
+    "message": "Tembelea Homepage."
+  },
+  "not_working": {
+    "message": "Walemavu na kivinjari chako cha wavuti."
+  },
+  "disabled_by_user": {
+    "message": "Walemavu kwenye uwanja huu"
+  },
+  "not_working_title": {
+    "message": "Kivinjari chako kitazuia scrollany mahali kwenye aina hizi za kurasa:"
+  },
+  "not_working_body": {
+    "message": "Ili kuwezesha scrollanyhere kwenye kurasa za \"mozilla.org\", angalia mafunzo haya ya YouTube"
+  },
+  "show_scrollbars": {
+    "message": "Onyesha Scrollbars."
+  },
+  "show_scrollbars_title": {
+    "message": "Onyesha scrollbars kwa muda"
+  },
+  "switch_on_off": {
+    "message": "Badilisha kuongeza / On."
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Ikiwa unapata ucheleweshaji unaoonekana kati ya kifungo cha kushinikiza Scroll na kuanzia kupiga, jaribu kuwezesha chaguo hili. Hata hivyo huwezi kutazama \"Iframes\" kama vile video za zamani zilizoingia au matangazo."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Hii pia italemaza chaguo kubadilisha mshale wakati wa kupiga."
+  },
+  "o_helper_text_default_action": {
+    "message": "Muhimu katika Linux ili kuwezesha kuweka na kifungo cha kati."
+  },
+  "o_about_hello": {
+    "message": "Hello :)"
+  },
+  "o_about_intro": {
+    "message": "Jina langu ni $1$ na mimi ni mwandishi wa $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Ikiwa unapenda, tafadhali piga kiwango hapa:"
+  },
+  "o_about_dislike_it": {
+    "message": "Ikiwa hupendi, tafadhali nijulishe kwa nini kwa barua pepe yangu. Ninatekeleza zaidi ya maombi ya kipengele ninayopokea."
+  },
+  "o_disabled": {
+    "message": "walemavu.",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "imewezeshwa",
+    "common": true
+  },
+  "o_times": {
+    "message": "nyakati",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels.",
+    "common": true
+  },
+  "o_items": {
+    "message": "vitu",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milliseconds.",
+    "common": true
+  },
+  "label_working": {
+    "message": "kufanya kazi ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Karibu",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Tafadhali fikiria kusaidia kazi yangu na",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "mchango (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "kuwa Patron yangu",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Asante!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "nyumbani:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Wasiliana:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Ripoti masuala:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Ninaweza kujibu tu kwa Kiingereza / Kislovakia",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Mtandao wa kijamii:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Hifadhi mabadiliko na karibu.",
+    "common": true
+  },
+  "o_saved": {
+    "message": "imehifadhiwa!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Kuja hivi karibuni.",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Hifadhi mabadiliko",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Sera ya faragha.",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Features zilizoongezwa hivi karibuni:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

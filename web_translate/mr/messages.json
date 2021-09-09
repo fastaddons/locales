@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "निवडलेला मजकूर भाषांतरित करा (संदर्भ मेनूमधून)"
+  },
+  "_description_feature_2": {
+    "message": "संपूर्ण पृष्ठ भाषांतर"
+  },
+  "_description_feature_3": {
+    "message": "गडद मोड!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, गडद, ईमेल, Google, लॅंग, भाषा, मायक्रोसॉफ्ट, पृष्ठ, प्रीक्लाड, प्रीकलाडा, एस 3, निवड, मजकूर, व्यापारी, अनुवाद, अनुवादक, überetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ आपल्या वेब ब्राउझर / थंडरबर्डसाठी अनुवादक वापरणे सोपे आहे!"
+  },
+  "o_tab_translate": {
+    "message": "भाषांतर करा"
+  },
+  "_description_supported_translators": {
+    "message": "समर्थित अनुवाद प्रदाते:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "मोडल विंडो"
+  },
+  "open_in_1": {
+    "message": "पॉपअप विंडो"
+  },
+  "open_in_2": {
+    "message": "नवीन टॅब"
+  },
+  "open_in_3": {
+    "message": "नवीन विंडो"
+  },
+  "open_in_4": {
+    "message": "नवीन टॅब (कंटेनरशिवाय)"
+  },
+  "modal_window": {
+    "message": "मोडल विंडो"
+  },
+  "toolbar_icon_action": {
+    "message": "टूलबार चिन्ह क्रिया"
+  },
+  "toolbar_icon_text": {
+    "message": "टूलबार चिन्ह मजकूर"
+  },
+  "sidebar_size": {
+    "message": "साइडबार आकार"
+  },
+  "translation_provider": {
+    "message": "भाषांतर प्रदाता"
+  },
+  "translate_to": {
+    "message": "मध्ये अनुवादितः"
+  },
+  "no_overlay": {
+    "message": "आच्छादन नाही (आजूबाजूचा गडद क्षेत्र)"
+  },
+  "no_overlay_hint": {
+    "message": "आपण बाहेरून क्लिक केले तरीही मोडल विंडो उघडेल."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "मध्ये अनुवाद उघडा:"
+  },
+  "fallback_1": {
+    "message": "फॉलबॅक पद्धत"
+  },
+  "fallback_2": {
+    "message": "फॉलबॅक पद्धत"
+  },
+  "fallback_title": {
+    "message": "मॉडेल विंडो आणि पॉपअप विंडो काही प्रकरणांमध्ये वापरली जाऊ शकत नाही."
+  },
+  "open_in_tab": {
+    "message": "नवीन टॅबमध्ये उघडा"
+  },
+  "translate_this_page": {
+    "message": "हे पृष्ठ भाषांतरित करा"
+  },
+  "selection_translate": {
+    "message": "Translate \"$1\""
+  },
+  "page_translate": {
+    "message": "पृष्ठ भाषांतर करा"
+  },
+  "selected_text": {
+    "message": "निवडलेला मजकूर"
+  },
+  "disable_context_menu": {
+    "message": "संदर्भ मेनू अक्षम करा: \"$1\""
+  },
+  "import_finished": {
+    "message": "आयात समाप्त!"
+  },
+  "import_error": {
+    "message": "त्रुटी"
+  },
+  "import_backup_file": {
+    "message": "$1 बॅकअप फाइल आयात करा"
+  },
+  "search_search": {
+    "message": "शोधा"
+  },
+  "homepage": {
+    "message": "मुख्यपृष्ठ"
+  },
+  "addon_page": {
+    "message": "अ‍ॅडॉन पेज"
+  },
+  "safari_store": {
+    "message": "मॅक अॅप स्टोअर"
+  },
+  "chrome_store": {
+    "message": "Chrome वेब स्टोअर"
+  },
+  "firefox_store": {
+    "message": "फायरफॉक्स ऍड-ऑन्स"
+  },
+  "thunderbird_store": {
+    "message": "थंडरबर्ड अॅड-ऑन"
+  },
+  "label_font_size": {
+    "message": "अक्षराचा आकार"
+  },
+  "label_next": {
+    "message": "पुढे"
+  },
+  "label_note": {
+    "message": "टीपः"
+  },
+  "label_remove": {
+    "message": "काढा"
+  },
+  "label_warning": {
+    "message": "चेतावणी:"
+  },
+  "label_default": {
+    "message": "डीफॉल्ट:"
+  },
+  "label_done": {
+    "message": "पूर्ण झाले!"
+  },
+  "label_copied": {
+    "message": "कॉपी केले!"
+  },
+  "label_close": {
+    "message": "बंद"
+  },
+  "label_open_page": {
+    "message": "पृष्ठ उघडा"
+  },
+  "label_agree": {
+    "message": "सहमत"
+  },
+  "label_cancel": {
+    "message": "रद्द करा"
+  },
+  "op_support_me": {
+    "message": "या प्रकल्पात मदत करा"
+  },
+  "support_developer": {
+    "message": "स्वतंत्र विकसकास समर्थन द्या!"
+  },
+  "hello_there": {
+    "message": "नमस्कार!"
+  },
+  "about_me": {
+    "message": "मी २०१ since पासून अ‍ॅडॉन विकसक आहे आणि आपले वेब ब्राउझर आपल्याला अधिक उत्पादक बनविण्यासाठी शक्तिशाली विस्तार तयार करण्याचे माझे ध्येय आहे."
+  },
+  "about_good_job": {
+    "message": "आपण एक चांगले काम करत असल्याचे आपल्याला वाटत असल्यास कृपया देणगी द्या :)"
+  },
+  "about_income": {
+    "message": "तुझं देणगी माझं एकमेव उत्पन्न!"
+  },
+  "about_thanks": {
+    "message": "माझ्या कार्याचे समर्थन केल्याबद्दल धन्यवाद!"
+  },
+  "o_tab_context_menu": {
+    "message": "संदर्भ मेनू"
+  },
+  "o_tab_about": {
+    "message": "बद्दल"
+  },
+  "o_tab_settings": {
+    "message": "सेटिंग्ज"
+  },
+  "o_pixels": {
+    "message": "पिक्सेल"
+  },
+  "o_seconds": {
+    "message": "सेकंद"
+  },
+  "label_or": {
+    "message": "किंवा"
+  },
+  "o_about_hello": {
+    "message": "नमस्कार :)"
+  },
+  "o_about_intro": {
+    "message": "माझे नाव $1$ आहे आणि मी $app_name$ चे लेखक आहे."
+  },
+  "o_about_like_it": {
+    "message": "आपणास हे आवडत असल्यास, कृपया येथे रेट करा:"
+  },
+  "o_about_thanks": {
+    "message": "धन्यवाद!"
+  },
+  "o_about_contact": {
+    "message": "संपर्क:"
+  },
+  "o_about_issues": {
+    "message": "समस्या नोंदवा:"
+  },
+  "o_about_social_media": {
+    "message": "सामाजिक माध्यमे:"
+  },
+  "o_about_support_by_iban": {
+    "message": "इबान वापरुन बँक हस्तांतरण:"
+  },
+  "ps_no_results": {
+    "message": "कोणतेही जुळणारे परिणाम नाहीत"
+  },
+  "label_no_data": {
+    "message": "माहिती उपलब्ध नाही"
+  },
+  "dark_mode": {
+    "message": "गडद मोड"
+  },
+  "dark_mode_system": {
+    "message": "सिस्टमद्वारे नियंत्रित"
+  },
+  "_description_features": {
+    "message": "वैशिष्ट्ये:"
+  },
+  "_description_why": {
+    "message": "का?"
+  },
+  "_description_privacy_policy": {
+    "message": "गोपनीयता धोरण"
+  },
+  "_description_recent_features": {
+    "message": "अलीकडे जोडलेले वैशिष्ट्ये:"
+  },
+  "_description_common_tags": {
+    "message": "टॅग्ज:"
+  },
+  "_description_also_for_firefox": {
+    "message": "आपल्या फायरफॉक्ससाठी देखील उपलब्ध आहे:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "आपल्या थंडरबर्डसाठी देखील उपलब्ध आहे:"
+  }
+}

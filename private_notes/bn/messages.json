@@ -1,0 +1,341 @@
+{
+  "_description_feature_1": {
+    "message": ""
+  },
+  "_description_feature_2": {
+    "message": ""
+  },
+  "_description_tags_pn": {
+    "message": ""
+  },
+  "app_name": {
+    "message": "Private Notes"
+  },
+  "app_desc": {
+    "message": ""
+  },
+  "compression_level_0": {
+    "message": ""
+  },
+  "compression_level_1": {
+    "message": ""
+  },
+  "compression_level_2": {
+    "message": ""
+  },
+  "compression_level_info_0": {
+    "message": ""
+  },
+  "compression_level_info_1": {
+    "message": ""
+  },
+  "compression_level_info_2": {
+    "message": ""
+  },
+  "title_notes": {
+    "message": ""
+  },
+  "restore_backup": {
+    "message": ""
+  },
+  "create_new_note": {
+    "message": ""
+  },
+  "auto_locking_strategy_0": {
+    "message": ""
+  },
+  "auto_locking_strategy_1": {
+    "message": ""
+  },
+  "restore_note": {
+    "message": ""
+  },
+  "locked": {
+    "message": ""
+  },
+  "change_master_password": {
+    "message": ""
+  },
+  "import_export": {
+    "message": ""
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "notes_auto_saved_placeholder": {
+    "message": ""
+  },
+  "setup_new_pwd": {
+    "message": ""
+  },
+  "change_pwd": {
+    "message": ""
+  },
+  "pwd_to_change": {
+    "message": ""
+  },
+  "current_pwd": {
+    "message": ""
+  },
+  "new_pwd_advice": {
+    "message": ""
+  },
+  "repeat_pwd": {
+    "message": ""
+  },
+  "hint_pwd": {
+    "message": ""
+  },
+  "pwd_warning": {
+    "message": ""
+  },
+  "remember_pwd_0": {
+    "message": ""
+  },
+  "remember_pwd_1": {
+    "message": ""
+  },
+  "remember_pwd_2": {
+    "message": ""
+  },
+  "pwd_save": {
+    "message": ""
+  },
+  "error_saving_note": {
+    "message": ""
+  },
+  "quota_bytes_per_item": {
+    "message": ""
+  },
+  "quota_bytes": {
+    "message": ""
+  },
+  "max_items": {
+    "message": ""
+  },
+  "max_write_operations_per_hour": {
+    "message": ""
+  },
+  "max_write_operations_per_minute": {
+    "message": ""
+  },
+  "security": {
+    "message": ""
+  },
+  "visual_options": {
+    "message": ""
+  },
+  "compression_level": {
+    "message": ""
+  },
+  "auto_locking_strategy": {
+    "message": ""
+  },
+  "auto_lock_inactive_for": {
+    "message": ""
+  },
+  "dense_notes_list": {
+    "message": ""
+  },
+  "import_replace_all": {
+    "message": ""
+  },
+  "export_encrypted": {
+    "message": ""
+  },
+  "minutes": {
+    "message": ""
+  },
+  "label_font_size": {
+    "message": "অক্ষরের আকার"
+  },
+  "sidebar_size": {
+    "message": ""
+  },
+  "popup_window_width": {
+    "message": ""
+  },
+  "popup_window_height": {
+    "message": ""
+  },
+  "always_open_in_new_tab": {
+    "message": ""
+  },
+  "safari_store": {
+    "message": "ম্যাক অ্যাপ স্টোর"
+  },
+  "chrome_store": {
+    "message": "ক্রোম ওয়েব দোকান"
+  },
+  "firefox_store": {
+    "message": "ফায়ারফক্স অ্যাড-অন"
+  },
+  "import_finished": {
+    "message": "আমদানি শেষ!"
+  },
+  "import_error": {
+    "message": "ত্রুটি"
+  },
+  "import_backup_file": {
+    "message": "ব্যাকআপ ফাইল $1 আমদানি করুন"
+  },
+  "search_search": {
+    "message": ""
+  },
+  "title_import": {
+    "message": "আমদানি"
+  },
+  "title_export": {
+    "message": "এক্সপোর্ট"
+  },
+  "title_backups": {
+    "message": ""
+  },
+  "homepage": {
+    "message": "হোমপেজে"
+  },
+  "addon_page": {
+    "message": "অ্যাডঅন পৃষ্ঠা"
+  },
+  "settings": {
+    "message": ""
+  },
+  "options": {
+    "message": ""
+  },
+  "label_backups": {
+    "message": ""
+  },
+  "label_rename": {
+    "message": ""
+  },
+  "label_download": {
+    "message": ""
+  },
+  "label_delete": {
+    "message": ""
+  },
+  "label_next": {
+    "message": "পরবর্তী"
+  },
+  "label_note": {
+    "message": "বিঃদ্রঃ:"
+  },
+  "label_remove": {
+    "message": "অপসারণ"
+  },
+  "label_warning": {
+    "message": "সতর্কতা:"
+  },
+  "label_default": {
+    "message": "ডিফল্ট:"
+  },
+  "label_done": {
+    "message": "সম্পন্ন!"
+  },
+  "label_copied": {
+    "message": "কপি!"
+  },
+  "label_close": {
+    "message": "বন্ধ"
+  },
+  "label_open_page": {
+    "message": "খোলা পৃষ্ঠা"
+  },
+  "label_agree": {
+    "message": "একমত"
+  },
+  "label_cancel": {
+    "message": "বাতিল করুন"
+  },
+  "op_support_me": {
+    "message": "এই প্রকল্পের সাহায্য করুন"
+  },
+  "support_developer": {
+    "message": "স্বাধীন বিকাশকারী সমর্থন!"
+  },
+  "hello_there": {
+    "message": "হ্যালো!"
+  },
+  "about_me": {
+    "message": "আমি ২016 সাল থেকে অ্যাডন ডেভেলপার। আমার লক্ষ্যটি আপনার ওয়েব ব্রাউজারের জন্য আরও বেশি উত্পাদনশীল করার জন্য শক্তিশালী এক্সটেনশান তৈরি করা।"
+  },
+  "about_good_job": {
+    "message": "যদি আপনি মনে করেন আমি একটি ভাল কাজ করছি, দয়া করে দান করুন :)"
+  },
+  "about_income": {
+    "message": "আপনার দান আমার একমাত্র আয়!"
+  },
+  "about_thanks": {
+    "message": "আমার কাজ সমর্থন করার জন্য আপনাকে ধন্যবাদ!"
+  },
+  "o_tab_context_menu": {
+    "message": "কনটেক্সট মেনু"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_pixels": {
+    "message": "পিক্সেল"
+  },
+  "o_seconds": {
+    "message": "সেকেন্ড"
+  },
+  "label_or": {
+    "message": "অথবা"
+  },
+  "o_about_hello": {
+    "message": "হ্যালো :)"
+  },
+  "o_about_intro": {
+    "message": "আমার নাম $1$ এবং আমি $app_name$ এর লেখক।"
+  },
+  "o_about_like_it": {
+    "message": "যদি আপনি এটি পছন্দ করেন তবে দয়া করে এখানে এটি রেট করুন:"
+  },
+  "o_about_thanks": {
+    "message": "ধন্যবাদ!"
+  },
+  "o_about_contact": {
+    "message": "যোগাযোগ:"
+  },
+  "o_about_issues": {
+    "message": "সমস্যা রিপোর্ট করুন:"
+  },
+  "o_about_social_media": {
+    "message": "সামাজিক মাধ্যম:"
+  },
+  "o_about_support_by_iban": {
+    "message": "আইবান ব্যবহার করে ব্যাংক স্থানান্তর:"
+  },
+  "used_space": {
+    "message": "ব্যবহৃত স্থান: $1 / $2"
+  },
+  "ps_no_results": {
+    "message": "কোন মিলে ফলাফল"
+  },
+  "label_no_data": {
+    "message": "কোন তথ্য নেই"
+  },
+  "dark_mode": {
+    "message": "অন্ধকার মোড"
+  },
+  "dark_mode_system": {
+    "message": "সিস্টেম দ্বারা নিয়ন্ত্রিত"
+  },
+  "open_in_new_tab": {
+    "message": "নতুন ট্যাবে খুলুন"
+  },
+  "_description_features": {
+    "message": ""
+  },
+  "_description_privacy_policy": {
+    "message": "গোপনীয়তা নীতি"
+  },
+  "_description_recent_features": {
+    "message": "সম্প্রতি যোগ বৈশিষ্ট্য:"
+  },
+  "_description_common_tags": {
+    "message": "ট্যাগ:"
+  }
+}

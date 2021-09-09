@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "有時頁面剛剛設計得很好，您正在尋找的信息不夠可見。"
+  },
+  "_description_ah_use_cases_0": {
+    "message": "常見用例："
+  },
+  "_description_ah_use_cases_1": {
+    "message": "突出顯示元數據，如："
+  },
+  "_description_ah_use_cases_2": {
+    "message": "突出顯示“免費送貨”:)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "你在尋找網上特定的東西嗎？ 使用“時間突出顯示”來幫助您在所有頁面上找到它。 關閉瀏覽器時，會自動刪除時間亮點。"
+  },
+  "_description_ah_use_cases_4": {
+    "message": "您甚至可以通過將字體大小設置為零或使它們透明隱藏單詞。"
+  },
+  "_description_tags_ah": {
+    "message": "突出顯示，標記，元數據，電影，自動，文本，同步，選擇，搜索"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$將自動突出顯示定義頁面上的定義單詞。"
+  },
+  "match_type": {
+    "message": "比賽類型："
+  },
+  "match_type_0": {
+    "message": "域名是"
+  },
+  "match_type_1": {
+    "message": "URL是"
+  },
+  "match_type_2": {
+    "message": "URL包含"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "每頁"
+  },
+  "selection_highlight": {
+    "message": "突出顯示$1."
+  },
+  "selection_temp": {
+    "message": "暫時突出顯示$1."
+  },
+  "selection_temp_everywhere": {
+    "message": "臨時突出顯示到處$1"
+  },
+  "page_highlight": {
+    "message": "此頁面上的$app_name$"
+  },
+  "toolbar_click_new_tab": {
+    "message": "始終在新標籤中打開 - 單擊工具欄圖標時"
+  },
+  "disable_rule": {
+    "message": "禁用"
+  },
+  "temporal_rule": {
+    "message": "顳"
+  },
+  "each_word": {
+    "message": "每個字"
+  },
+  "rules": {
+    "message": "規則"
+  },
+  "delete": {
+    "message": "刪除"
+  },
+  "rename": {
+    "message": "改名"
+  },
+  "duplicate": {
+    "message": "複製"
+  },
+  "delete_rule": {
+    "message": "刪除規則"
+  },
+  "delete_rule_title": {
+    "message": "刪除規則“$1”？"
+  },
+  "on_pages": {
+    "message": "在頁面上："
+  },
+  "disabled_rule": {
+    "message": "禁用規則"
+  },
+  "incomplete_rule": {
+    "message": "規則不完整"
+  },
+  "active_on_current_page": {
+    "message": "在當前頁面上活動"
+  },
+  "temporal_rule_helper": {
+    "message": "重新啟動瀏覽器後將刪除時間規則"
+  },
+  "active_on_pages": {
+    "message": "主動頁面："
+  },
+  "highlight_each_word_separately": {
+    "message": "分開突出顯示每個單詞"
+  },
+  "case_sensitive": {
+    "message": "區分大小寫"
+  },
+  "ignore_diacritics": {
+    "message": "忽略變音符號"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "正則表達式"
+  },
+  "across_elements": {
+    "message": "橫跨元素"
+  },
+  "across_elements_help": {
+    "message": "在鄰居HTML元素中搜索文本"
+  },
+  "style": {
+    "message": "風格"
+  },
+  "preview": {
+    "message": "預習："
+  },
+  "empty_rule": {
+    "message": "空的規則"
+  },
+  "create_new_rule": {
+    "message": "創建新規則"
+  },
+  "import_export": {
+    "message": "進出口"
+  },
+  "help_this_project": {
+    "message": "幫助這個項目"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "常問問題："
+  },
+  "storage_info": {
+    "message": "存儲信息："
+  },
+  "storage_safari_1": {
+    "message": "Safari目前不支持自動數據同步。"
+  },
+  "storage_safari_2": {
+    "message": "要傳輸（或備份）突出顯示規則，請使用“導入/導出”功能。"
+  },
+  "storage_info_1": {
+    "message": "您的規則使用安全的$1同步存儲，它將在所有設備之間同步您的規則（如果您登錄到同一帳戶）。"
+  },
+  "storage_info_2": {
+    "message": "此云存儲可以存儲100 kB的數據和最多500個突出顯示規則。"
+  },
+  "storage_info_3": {
+    "message": "您還可以使用“導入/導出”功能將（備份）規則導出到文件，然後將其導入其他設備。"
+  },
+  "replace_existing_highlight_rules": {
+    "message": "替換現有突出顯示規則"
+  },
+  "add_page_to_highlight_on": {
+    "message": "添加頁面突出顯示"
+  },
+  "remove_highlight_from_page": {
+    "message": "從頁面中刪除突出顯示"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "斜體"
+  },
+  "underline": {
+    "message": "強調"
+  },
+  "background_color": {
+    "message": "背景顏色"
+  },
+  "background": {
+    "message": "背景"
+  },
+  "text_color": {
+    "message": "文字顏色"
+  },
+  "color": {
+    "message": "顏色"
+  },
+  "font_size": {
+    "message": "字體大小"
+  },
+  "rule_name": {
+    "message": "規則名稱"
+  },
+  "highlight_regular_expression": {
+    "message": "突出顯示正則表達式："
+  },
+  "highlight_text": {
+    "message": "突出顯示文字："
+  },
+  "highlight_on_pages": {
+    "message": "突出顯示頁面"
+  },
+  "empty_name_helper": {
+    "message": "留空以使用“突出顯示的文本”作為名稱"
+  },
+  "faq_1": {
+    "message": "如何快速突出顯示當前頁面上的單詞？"
+  },
+  "faq_1a": {
+    "message": "使用上下文菜單 - 選擇文本/右鍵單擊/“自動突出顯示”。 如果右鍵單擊頁面（無需選擇文本），則可以將現有規則應用於當前頁面。"
+  },
+  "faq_2": {
+    "message": "我想突出多個單詞，我需要單獨為每個單詞創建新規則嗎？"
+  },
+  "faq_2a": {
+    "message": "不，只需檢查“每個單詞”複選框。 然後每個單詞都將單獨突出顯示。"
+  },
+  "faq_3": {
+    "message": "什麼是“RegExp”？"
+  },
+  "faq_3a": {
+    "message": "也稱為正則表達式，它是定義搜索模式的一系列字符。 這是一個複雜的構造，允許複雜突出顯示具有一些類似模式的元素。 例如，價格，日期，電話號碼等......"
+  },
+  "faq_4": {
+    "message": "你能告訴我一些RegExp的例子嗎？"
+  },
+  "faq_4a": {
+    "message": "突出顯示像$1這樣的所有價格"
+  },
+  "faq_5": {
+    "message": "你能解釋一下嗎？"
+  },
+  "faq_5a": {
+    "message": "“$1$”突出顯示美元符號。 在這裡需要反斜杠，因為美元在RegExp中具有特殊含義。"
+  },
+  "faq_5b": {
+    "message": "“$1$”突出顯示單位數"
+  },
+  "faq_5c": {
+    "message": "“$1$”表示重複一次或多次。 在數字選擇器$2$之後放置時，它表示一個或多個數字。"
+  },
+  "faq_5d": {
+    "message": "“$1$”突出顯示點。 再次需要反斜杠，因為單獨的點符號表示RegExp中的任何單個字符。"
+  },
+  "faq_5e": {
+    "message": "“$1$”表示零或一次。 當放置在括號$2$之後，它意味著在這些括號內部的內容是可選的（可以在那裡）。 我們將它用於數字的十進制部分是可選的。"
+  },
+  "faq_5f": {
+    "message": "關於RegExp規則的更多信息"
+  },
+  "import_finished": {
+    "message": "匯入已結束！",
+    "common": true
+  },
+  "import_error": {
+    "message": "錯誤",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "導入備份文件$1",
+    "common": true
+  },
+  "homepage": {
+    "message": "主頁",
+    "common": true
+  },
+  "addon_page": {
+    "message": "插入頁面",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome 線上應用程式商店頁面",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox 附加元件頁面",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird附加組件",
+    "common": true
+  },
+  "menu_options": {
+    "message": "選項",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "字型大小",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "側邊欄大小",
+    "common": true
+  },
+  "label_next": {
+    "message": "下一步",
+    "common": true
+  },
+  "label_note": {
+    "message": "註記：",
+    "common": true
+  },
+  "label_remove": {
+    "message": "移除",
+    "common": true
+  },
+  "label_warning": {
+    "message": "警告：",
+    "common": true
+  },
+  "label_options": {
+    "message": "選項：",
+    "common": true
+  },
+  "label_default": {
+    "message": "預設：",
+    "common": true
+  },
+  "label_done": {
+    "message": "完成！",
+    "common": true
+  },
+  "label_copied": {
+    "message": "已複製！",
+    "common": true
+  },
+  "label_custom": {
+    "message": "自訂：",
+    "common": true
+  },
+  "label_close": {
+    "message": "關閉",
+    "common": true
+  },
+  "label_installed": {
+    "message": "已安裝",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "開啟頁面",
+    "common": true
+  },
+  "label_agree": {
+    "message": "同意",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "取消",
+    "common": true
+  },
+  "label_save": {
+    "message": "保存",
+    "common": true
+  },
+  "label_required": {
+    "message": "必需的",
+    "common": true
+  },
+  "label_sending": {
+    "message": "發送......",
+    "common": true
+  },
+  "label_scale": {
+    "message": "尺寸：",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "縮放：",
+    "common": true
+  },
+  "label_size": {
+    "message": "大小：",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "即將推出",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "保存更改",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "放棄更改",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "選單",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "造訪首頁",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "協助此專案",
+    "common": true
+  },
+  "support_developer": {
+    "message": "支持獨立開發人員！",
+    "common": true
+  },
+  "hello_there": {
+    "message": "你好呀！",
+    "common": true
+  },
+  "about_me": {
+    "message": "自2016年以來我是Addon開發人員。我的目標是為您的網絡瀏覽器構建強大的擴展，以使您更富有成效。",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "如果你認為我做得很好，請捐贈:)",
+    "common": true
+  },
+  "about_income": {
+    "message": "你的捐款是我唯一的收入！",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "謝謝你支持我的工作！",
+    "common": true
+  },
+  "op_help": {
+    "message": "說明",
+    "common": true
+  },
+  "o_title": {
+    "message": "選項 - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "備份",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "建立新備份",
+    "common": true
+  },
+  "save_settings": {
+    "message": "儲存設定",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "要將數據導出到文件，請在新選項卡中重新打開此窗口。",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "右鍵單擊/“下載鏈接文件”",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "一般",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "背景",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "右鍵選單",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "縮略圖",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "短按鍵",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "導入/備份",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "關於",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "設置",
+    "common": true
+  },
+  "o_theme": {
+    "message": "主題：",
+    "common": true
+  },
+  "o_general": {
+    "message": "一般：",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "已停用",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "已啟用",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "像素",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "秒",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "右鍵選單：",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "禁用上下文菜單：$1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "備份/還原設置到文件：",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "匯入",
+    "common": true
+  },
+  "title_import": {
+    "message": "進口",
+    "common": true
+  },
+  "title_export": {
+    "message": "出口",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "導出備份",
+    "common": true
+  },
+  "label_or": {
+    "message": "或者",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "您好 :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "我的名字是$1$，我是$app_name$的作者。",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "若您喜歡它，請在此評分：",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "如果您不喜歡它，請寄信到我的電子郵件信箱讓我知道為什麼。我會實作更多我收到的功能請求。",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "請考慮支援我的作品，透過：",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "使用IBAN轉帳：",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "捐款 (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "成為我的 Patron",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "謝謝！",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "家：",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "聯絡：",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "回報問題：",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "我只會以英文／斯洛伐克文回覆",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "社群媒體：",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "儲存變更並關閉",
+    "common": true
+  },
+  "o_saved": {
+    "message": "已儲存！",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "沒有符合的結果",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "沒有資料",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "深色模式",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "由系統控制",
+    "common": true
+  },
+  "used_space": {
+    "message": "二手空間：$1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "在新標籤中打開",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "切換插件開/關",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon被禁用",
+    "common": true
+  },
+  "_description_why": {
+    "message": "為什麼？",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "隱私政策",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "最近添加的功能：",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "標籤：",
+    "common": true
+  }
+}

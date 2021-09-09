@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "有时页面刚刚设计得很好，您正在寻找的信息不够可见。"
+  },
+  "_description_ah_use_cases_0": {
+    "message": "常见用例："
+  },
+  "_description_ah_use_cases_1": {
+    "message": "突出显示元数据，如："
+  },
+  "_description_ah_use_cases_2": {
+    "message": "突出显示“免费送货”:)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "你在寻找网上特定的东西吗？ 使用“时间突出显示”来帮助您在所有页面上找到它。 关闭浏览器时，会自动删除时间亮点。"
+  },
+  "_description_ah_use_cases_4": {
+    "message": "您甚至可以通过将字体大小设置为零或使它们透明隐藏单词。"
+  },
+  "_description_tags_ah": {
+    "message": "突出显示，标记，元数据，电影，自动，文本，同步，选择，搜索"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$将自动突出显示定义页面上的定义单词。"
+  },
+  "match_type": {
+    "message": "比赛类型："
+  },
+  "match_type_0": {
+    "message": "域名是"
+  },
+  "match_type_1": {
+    "message": "URL是"
+  },
+  "match_type_2": {
+    "message": "URL包含"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "每页"
+  },
+  "selection_highlight": {
+    "message": "突出显示$1."
+  },
+  "selection_temp": {
+    "message": "暂时突出显示$1."
+  },
+  "selection_temp_everywhere": {
+    "message": "临时突出显示到处$1"
+  },
+  "page_highlight": {
+    "message": "此页面上的$app_name$"
+  },
+  "toolbar_click_new_tab": {
+    "message": "始终在新标签中打开 - 单击工具栏图标时"
+  },
+  "disable_rule": {
+    "message": "禁用"
+  },
+  "temporal_rule": {
+    "message": "颞"
+  },
+  "each_word": {
+    "message": "每个字"
+  },
+  "rules": {
+    "message": "规则"
+  },
+  "delete": {
+    "message": "删除"
+  },
+  "rename": {
+    "message": "改名"
+  },
+  "duplicate": {
+    "message": "复制"
+  },
+  "delete_rule": {
+    "message": "删除规则"
+  },
+  "delete_rule_title": {
+    "message": "删除规则“$1”？"
+  },
+  "on_pages": {
+    "message": "在页面上："
+  },
+  "disabled_rule": {
+    "message": "禁用规则"
+  },
+  "incomplete_rule": {
+    "message": "规则不完整"
+  },
+  "active_on_current_page": {
+    "message": "在当前页面上活动"
+  },
+  "temporal_rule_helper": {
+    "message": "重新启动浏览器后将删除时间规则"
+  },
+  "active_on_pages": {
+    "message": "主动页面："
+  },
+  "highlight_each_word_separately": {
+    "message": "分开突出显示每个单词"
+  },
+  "case_sensitive": {
+    "message": "区分大小写"
+  },
+  "ignore_diacritics": {
+    "message": "忽略变音符号"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "正则表达式"
+  },
+  "across_elements": {
+    "message": "横跨元素"
+  },
+  "across_elements_help": {
+    "message": "在邻居HTML元素中搜索文本"
+  },
+  "style": {
+    "message": "风格"
+  },
+  "preview": {
+    "message": "预习："
+  },
+  "empty_rule": {
+    "message": "空的规则"
+  },
+  "create_new_rule": {
+    "message": "创建新规则"
+  },
+  "import_export": {
+    "message": "进出口"
+  },
+  "help_this_project": {
+    "message": "帮助这个项目"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "常问问题："
+  },
+  "storage_info": {
+    "message": "存储信息："
+  },
+  "storage_safari_1": {
+    "message": "Safari目前不支持自动数据同步。"
+  },
+  "storage_safari_2": {
+    "message": "要传输（或备份）突出显示规则，请使用“导入/导出”功能。"
+  },
+  "storage_info_1": {
+    "message": "您的规则使用安全的$1同步存储，它将在所有设备之间同步您的规则（如果您登录到同一帐户）。"
+  },
+  "storage_info_2": {
+    "message": "此云存储可以存储100 kB的数据和最多500个突出显示规则。"
+  },
+  "storage_info_3": {
+    "message": "您还可以使用“导入/导出”功能将（备份）规则导出到文件，然后将其导入其他设备。"
+  },
+  "replace_existing_highlight_rules": {
+    "message": "替换现有突出显示规则"
+  },
+  "add_page_to_highlight_on": {
+    "message": "添加页面突出显示"
+  },
+  "remove_highlight_from_page": {
+    "message": "从页面中删除突出显示"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "斜体"
+  },
+  "underline": {
+    "message": "强调"
+  },
+  "background_color": {
+    "message": "背景颜色"
+  },
+  "background": {
+    "message": "背景"
+  },
+  "text_color": {
+    "message": "文字颜色"
+  },
+  "color": {
+    "message": "颜色"
+  },
+  "font_size": {
+    "message": "字体大小"
+  },
+  "rule_name": {
+    "message": "规则名称"
+  },
+  "highlight_regular_expression": {
+    "message": "突出显示正则表达式："
+  },
+  "highlight_text": {
+    "message": "突出显示文字："
+  },
+  "highlight_on_pages": {
+    "message": "突出显示页面"
+  },
+  "empty_name_helper": {
+    "message": "留空以使用“突出显示的文本”作为名称"
+  },
+  "faq_1": {
+    "message": "如何快速突出显示当前页面上的单词？"
+  },
+  "faq_1a": {
+    "message": "使用上下文菜单 - 选择文本/右键单击/“自动突出显示”。 如果右键单击页面（无需选择文本），则可以将现有规则应用于当前页面。"
+  },
+  "faq_2": {
+    "message": "我想突出多个单词，我需要单独为每个单词创建新规则吗？"
+  },
+  "faq_2a": {
+    "message": "不，只需检查“每个单词”复选框。 然后每个单词都将单独突出显示。"
+  },
+  "faq_3": {
+    "message": "什么是“RegExp”？"
+  },
+  "faq_3a": {
+    "message": "也称为正则表达式，它是定义搜索模式的一系列字符。 这是一个复杂的构造，允许复杂突出显示具有一些类似模式的元素。 例如，价格，日期，电话号码等......"
+  },
+  "faq_4": {
+    "message": "你能告诉我一些RegExp的例子吗？"
+  },
+  "faq_4a": {
+    "message": "突出显示像$1这样的所有价格"
+  },
+  "faq_5": {
+    "message": "你能解释一下吗？"
+  },
+  "faq_5a": {
+    "message": "“$1$”突出显示美元符号。 在这里需要反斜杠，因为美元在RegExp中具有特殊含义。"
+  },
+  "faq_5b": {
+    "message": "“$1$”突出显示单位数"
+  },
+  "faq_5c": {
+    "message": "“$1$”表示重复一次或多次。 在数字选择器$2$之后放置时，它表示一个或多个数字。"
+  },
+  "faq_5d": {
+    "message": "“$1$”突出显示点。 再次需要反斜杠，因为单独的点符号表示RegExp中的任何单个字符。"
+  },
+  "faq_5e": {
+    "message": "“$1$”表示零或一次。 当放置在括号$2$之后，它意味着在这些括号内部的内容是可选的（可以在那里）。 我们将它用于数字的十进制部分是可选的。"
+  },
+  "faq_5f": {
+    "message": "关于RegExp规则的更多信息"
+  },
+  "import_finished": {
+    "message": "导入已完成！",
+    "common": true
+  },
+  "import_error": {
+    "message": "出错",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "导入备份文件$1",
+    "common": true
+  },
+  "homepage": {
+    "message": "主页",
+    "common": true
+  },
+  "addon_page": {
+    "message": "插入页面",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome 网上应用店页面",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox 附加组件页面",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird附加组件",
+    "common": true
+  },
+  "menu_options": {
+    "message": "选项",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "字体大小",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "侧边栏大小",
+    "common": true
+  },
+  "label_next": {
+    "message": "下一步",
+    "common": true
+  },
+  "label_note": {
+    "message": "注释：",
+    "common": true
+  },
+  "label_remove": {
+    "message": "移除",
+    "common": true
+  },
+  "label_warning": {
+    "message": "警告：",
+    "common": true
+  },
+  "label_options": {
+    "message": "选项：",
+    "common": true
+  },
+  "label_default": {
+    "message": "默认：",
+    "common": true
+  },
+  "label_done": {
+    "message": "完成！",
+    "common": true
+  },
+  "label_copied": {
+    "message": "已复制！",
+    "common": true
+  },
+  "label_custom": {
+    "message": "自定义：",
+    "common": true
+  },
+  "label_close": {
+    "message": "关闭",
+    "common": true
+  },
+  "label_installed": {
+    "message": "已安装",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "打开页面",
+    "common": true
+  },
+  "label_agree": {
+    "message": "同意",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "取消",
+    "common": true
+  },
+  "label_save": {
+    "message": "保存",
+    "common": true
+  },
+  "label_required": {
+    "message": "必需的",
+    "common": true
+  },
+  "label_sending": {
+    "message": "发送......",
+    "common": true
+  },
+  "label_scale": {
+    "message": "尺寸：",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "缩放：",
+    "common": true
+  },
+  "label_size": {
+    "message": "大小：",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "即将推出",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "保存更改",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "放弃更改",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "菜单",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "访问首页",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "助力此项目",
+    "common": true
+  },
+  "support_developer": {
+    "message": "支持独立开发人员！",
+    "common": true
+  },
+  "hello_there": {
+    "message": "你好呀！",
+    "common": true
+  },
+  "about_me": {
+    "message": "自2016年以来我是Addon开发人员。我的目标是为您的网络浏览器构建强大的扩展，以使您更富有成效。",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "如果你认为我做得很好，请捐赠:)",
+    "common": true
+  },
+  "about_income": {
+    "message": "你的捐款是我唯一的收入！",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "谢谢你支持我的工作！",
+    "common": true
+  },
+  "op_help": {
+    "message": "帮助",
+    "common": true
+  },
+  "o_title": {
+    "message": "选项 - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "备份",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "新建备份",
+    "common": true
+  },
+  "save_settings": {
+    "message": "保存设置",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "要将数据导出到文件，请在新选项卡中重新打开此窗口。",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "右键单击/“下载链接文件”",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "常规",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "背景",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "右键菜单",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "缩略图",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "快捷键",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "导入/备份",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "关于",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "设置",
+    "common": true
+  },
+  "o_theme": {
+    "message": "主题：",
+    "common": true
+  },
+  "o_general": {
+    "message": "常规：",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "已禁用",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "已启用",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "px",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "秒",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "右键菜单：",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "禁用上下文菜单：$1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "备份/还原设置到文件：",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "导入",
+    "common": true
+  },
+  "title_import": {
+    "message": "进口",
+    "common": true
+  },
+  "title_export": {
+    "message": "出口",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "导出备份",
+    "common": true
+  },
+  "label_or": {
+    "message": "或者",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "您好 :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "我的名字是$1$，我是$app_name$的作者。",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "若您喜欢它，请在此评分：",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "如果您不喜欢它，请发邮件让我知道原因。我会实现更多我收到的功能请求。",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "请考虑支持我的作品，通过：",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "使用IBAN转帐：",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "捐款 (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "成为我的 Patron",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "谢谢！",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "首页：",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "联系：",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "报告问题：",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "我只会以英语/斯洛伐克语回复",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "社交媒体：",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "保存变更并关闭",
+    "common": true
+  },
+  "o_saved": {
+    "message": "已保存！",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "无匹配结果",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "无数据",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "黑暗模式",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "由系统控制",
+    "common": true
+  },
+  "used_space": {
+    "message": "二手空间：$1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "在新标签中打开",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "切换插件开/关",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon被禁用",
+    "common": true
+  },
+  "_description_why": {
+    "message": "为什么？",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "隐私政策",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "最近添加的功能：",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "标签：",
+    "common": true
+  }
+}

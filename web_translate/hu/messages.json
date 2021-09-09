@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "A kiválasztott szöveg lefordítása (a helyi menüből)"
+  },
+  "_description_feature_2": {
+    "message": "Teljes oldalfordítás"
+  },
+  "_description_feature_3": {
+    "message": "Sötét mód!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, Sötét, Email, Google, Lang, Nyelv, Microsoft, Oldal, Preklad, Prekladač, S3, Selection, Text, Tradecteur, Fordítás, Fordító, Übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ könnyen használható fordító a webböngésző / Thunderbird számára!"
+  },
+  "o_tab_translate": {
+    "message": "Fordít"
+  },
+  "_description_supported_translators": {
+    "message": "Támogatott fordítói szolgáltatók:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Modális ablak"
+  },
+  "open_in_1": {
+    "message": "Felugró ablak"
+  },
+  "open_in_2": {
+    "message": "Új lap"
+  },
+  "open_in_3": {
+    "message": "Új ablak"
+  },
+  "open_in_4": {
+    "message": "Új lap (konténer nélkül)"
+  },
+  "modal_window": {
+    "message": "Modális ablak"
+  },
+  "toolbar_icon_action": {
+    "message": "Eszköztár ikon művelet"
+  },
+  "toolbar_icon_text": {
+    "message": "Eszköztár ikon szövege"
+  },
+  "sidebar_size": {
+    "message": "Oldalsáv mérete"
+  },
+  "translation_provider": {
+    "message": "Fordítói szolgáltató"
+  },
+  "translate_to": {
+    "message": "Fordítás:"
+  },
+  "no_overlay": {
+    "message": "Nincs átfedés (a sötét terület körül)"
+  },
+  "no_overlay_hint": {
+    "message": "A modális ablak akkor is nyitva marad, ha kattan kívül."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Nyílt fordítás:"
+  },
+  "fallback_1": {
+    "message": "Visszafogott módszer"
+  },
+  "fallback_2": {
+    "message": "Visszafogott módszer"
+  },
+  "fallback_title": {
+    "message": "A modális ablak és a felbukkanó ablak nem használható bizonyos esetekben."
+  },
+  "open_in_tab": {
+    "message": "Nyissa meg az új fülön"
+  },
+  "translate_this_page": {
+    "message": "Fordítsa ezt az oldalt"
+  },
+  "selection_translate": {
+    "message": "Fordítás \"$1\""
+  },
+  "page_translate": {
+    "message": "Fordítás Oldal"
+  },
+  "selected_text": {
+    "message": "kiválasztott szöveg"
+  },
+  "disable_context_menu": {
+    "message": "A kontextus menü letiltása: $1"
+  },
+  "import_finished": {
+    "message": "Import kész!"
+  },
+  "import_error": {
+    "message": "Hiba"
+  },
+  "import_backup_file": {
+    "message": "Importálás Backup File $1"
+  },
+  "search_search": {
+    "message": "Keresés"
+  },
+  "homepage": {
+    "message": "Honlap"
+  },
+  "addon_page": {
+    "message": "Addon oldal"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store"
+  },
+  "firefox_store": {
+    "message": "Firefox kiegészítők"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird kiegészítők"
+  },
+  "label_font_size": {
+    "message": "Betűméret"
+  },
+  "label_next": {
+    "message": "Következő"
+  },
+  "label_note": {
+    "message": "Jegyzet:"
+  },
+  "label_remove": {
+    "message": "Eltávolít"
+  },
+  "label_warning": {
+    "message": "FIGYELEM:"
+  },
+  "label_default": {
+    "message": "Alapértelmezett:"
+  },
+  "label_done": {
+    "message": "Kész!"
+  },
+  "label_copied": {
+    "message": "Másolt!"
+  },
+  "label_close": {
+    "message": "Bezárás"
+  },
+  "label_open_page": {
+    "message": "Nyílt oldal"
+  },
+  "label_agree": {
+    "message": "Egyetért"
+  },
+  "label_cancel": {
+    "message": "Megszünteti"
+  },
+  "op_support_me": {
+    "message": "Segítsen ezt a projektet"
+  },
+  "support_developer": {
+    "message": "Támogatja a független fejlesztőt!"
+  },
+  "hello_there": {
+    "message": "Szia!"
+  },
+  "about_me": {
+    "message": "2016 óta addon fejlesztő vagyok. Célom, hogy erőteljes kiterjesztéseket építsen az internetes böngésző számára, hogy bővebbé váljon."
+  },
+  "about_good_job": {
+    "message": "Ha úgy gondolja, hogy jó munkát végezek, kérlek adjunk :)"
+  },
+  "about_income": {
+    "message": "Az Ön adománya az egyetlen jövedelem!"
+  },
+  "about_thanks": {
+    "message": "Köszönjük, hogy támogatta a munkámat!"
+  },
+  "o_tab_context_menu": {
+    "message": "Kontextus menü"
+  },
+  "o_tab_about": {
+    "message": "Ról ről"
+  },
+  "o_tab_settings": {
+    "message": "Beállítások"
+  },
+  "o_pixels": {
+    "message": "képpontok"
+  },
+  "o_seconds": {
+    "message": "másodperc"
+  },
+  "label_or": {
+    "message": "vagy"
+  },
+  "o_about_hello": {
+    "message": "Helló :)"
+  },
+  "o_about_intro": {
+    "message": "A nevem $1$, és én vagyok az $app_name$ szerzője."
+  },
+  "o_about_like_it": {
+    "message": "Ha tetszik, kérjük, értékelje itt:"
+  },
+  "o_about_thanks": {
+    "message": "Köszönöm!"
+  },
+  "o_about_contact": {
+    "message": "Kapcsolatba lépni:"
+  },
+  "o_about_issues": {
+    "message": "Jelentés kérdések:"
+  },
+  "o_about_social_media": {
+    "message": "Közösségi média:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Banki átutalás az iban használatával:"
+  },
+  "ps_no_results": {
+    "message": "Nincs megfelelő eredmény"
+  },
+  "label_no_data": {
+    "message": "Nincs adat"
+  },
+  "dark_mode": {
+    "message": "Sötét mód"
+  },
+  "dark_mode_system": {
+    "message": "Rendszeresen ellenőrzött"
+  },
+  "_description_features": {
+    "message": "Jellemzők:"
+  },
+  "_description_why": {
+    "message": "Miért?"
+  },
+  "_description_privacy_policy": {
+    "message": "Adatvédelmi irányelvek"
+  },
+  "_description_recent_features": {
+    "message": "Nemrégiben hozzáadott funkciók:"
+  },
+  "_description_common_tags": {
+    "message": "Címkék:"
+  },
+  "_description_also_for_firefox": {
+    "message": "A Firefoxhoz is elérhető:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "A Thunderbirdhez is elérhető:"
+  }
+}

@@ -1,0 +1,548 @@
+{
+  "_description_tags_sa": {
+    "message": "በየትኛውም ቦታ, አዝራር, ጠቋሚ, ይጎትቱ, ይጎትቱ, ይጎትቱ, ይጎትቱ, ይጎትቱ, ይጎትቱ, አይጥ, አይጥ, ገጽ, ማሸብለል, ማሸብለል, መለጠፊያ"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "በገጹ ላይ በየትኛውም ቦታ የመካከለኛ የመዳሻ ቁልፍዎን ይጎትቱ. እንዲሁም \"ቅሬታ\" እና ይጎትቱ \"ዘይቤ."
+  },
+  "field_int_default_value": {
+    "message": "ነባሪ እሴት $1, ደቂቃ: $2, $3"
+  },
+  "field_set_default": {
+    "message": "ወደ ነባሪ ዳግም ያስጀምሩ: $1"
+  },
+  "thunderbird_store": {
+    "message": "ተንደርበርድ ተጨማሪዎች"
+  },
+  "firefox_store": {
+    "message": "ፋየርፎክስ ተጨማሪዎች"
+  },
+  "chrome_store": {
+    "message": "Chrome ድር ማከማቻ"
+  },
+  "safari_store": {
+    "message": "Mac መተግበሪያ መደብር"
+  },
+  "win_disable": {
+    "message": "$1 ያሰናክሉ"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "$1 አግድም ማሸብለልን ያሰናክሉ"
+  },
+  "op_visit_home": {
+    "message": "የመነሻ ገጽን ይጎብኙ"
+  },
+  "op_support_me": {
+    "message": "ይህንን ፕሮጀክት ይረዱ"
+  },
+  "o_title": {
+    "message": "አማራጮች - $1"
+  },
+  "o_tab_general": {
+    "message": "አጠቃላይ"
+  },
+  "o_tab_momentum": {
+    "message": "ቅጽበት"
+  },
+  "o_tab_cursor": {
+    "message": "ጠቋሚ"
+  },
+  "o_axis_locking": {
+    "message": "ዘንግ መቆለፊያ"
+  },
+  "o_tab_performance": {
+    "message": "አፈፃፀም"
+  },
+  "o_tab_disabled_on": {
+    "message": "ተሰናክሏል"
+  },
+  "o_tab_advanced": {
+    "message": "የላቀ"
+  },
+  "o_tab_scrollbars": {
+    "message": "ማሸብለል"
+  },
+  "o_tab_backup": {
+    "message": "ማስመጣት / ምትኬ"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "በአንድ ዘንግ ውስጥ በቀላሉ የሚሽከረከር ሳጥን ላይ በሚሸብጥበት ጊዜ የወላጅ ሳጥን በሌሎች ዘንግ ውስጥ በቀላሉ ሊሸፍን ይችላል, መቆለፊያ:"
+  },
+  "o_axis_lock_0": {
+    "message": "ስማርት መቆለፊያ - ጊዜን በመጠቀም ጊዜያዊ መቆለፊያ"
+  },
+  "o_axis_lock_1": {
+    "message": "ጥብቅ መቆለፊያ - ፈጣን አቅጣጫ መቆለፊያ"
+  },
+  "o_axis_lock_2": {
+    "message": "ምንም መቆለፊያ የለም - በሁለቱም ዘንግ ውስጥ ነፃ ማሸብለል"
+  },
+  "o_trend_momentum_window": {
+    "message": "ስማርት መቆለፊያ ቁልል መጠን"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "ሰፋ ያለ እሴት ማሸብለልን ዘንግ ለመቀየር በተቃራኒው ዘንግ ውስጥ የበለጠ ማሸብለል ይጠይቃል."
+  },
+  "o_addon_disabled_warning": {
+    "message": "አዶን ተሰናክሏል! ለማንቃት እዚህ ጠቅ ያድርጉ."
+  },
+  "o_cursor_change_default": {
+    "message": "ምንም ለውጥ የለም - ምርጥ አፈፃፀም"
+  },
+  "o_scroll_button": {
+    "message": "የማሸብለል ቁልፍ"
+  },
+  "o_direction_speed": {
+    "message": "የቅጥ ዘይቤ / አቅጣጫ / ፍጥነት:"
+  },
+  "o_multiplier": {
+    "message": "ተባዝ"
+  },
+  "o_times_speed": {
+    "message": "የጊዜዎች ፍጥነት"
+  },
+  "o_maximum_speed": {
+    "message": "ከፍተኛውን ማሸብለል ፍጥነት (0 - ተሰናክሏል)"
+  },
+  "o_ratio_unit": {
+    "message": "ሬሾ (ገጽ ርዝመት / የመስኮት መጠን)"
+  },
+  "o_scroll_type_0": {
+    "message": "የመሸጥ አሞሌ"
+  },
+  "o_scroll_type_1": {
+    "message": "እንደ ስማርትፎን ላይ እንደ ተጎትት እና ይጎትቱ"
+  },
+  "o_scroll_type_2": {
+    "message": "ተለዋዋጭ ፍጥነት (ሙከራ)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "እሱ የመላሸት አሞሌ መጎተት ነው"
+  },
+  "o_scroll_type_title_1": {
+    "message": "እሱ አንድ ገጽ በስልክ ማያ ገጽ ላይ አንድ ገጽ መጎተት ነው"
+  },
+  "o_scroll_type_title_2": {
+    "message": "ተለዋዋጭ ፍጥነት ገጽ ረዘም ያለ ጊዜ በሚሆንበት ጊዜ የሚሸብልል ፍጥነትን ያሸንፋል"
+  },
+  "o_disable_key": {
+    "message": "ቁልፍ በሚወርድበት ጊዜ ማሸብለል / አንቃ"
+  },
+  "o_momentum_category": {
+    "message": "ቅጽበታዊ: -"
+  },
+  "o_momentum_formula": {
+    "message": "የፍጥነት ቀመር"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "ያልተሸበረቀ እንቅስቃሴ እንቅስቃሴ"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "እስከ ማቆሙ ድረስ የ POL ጥቅልል አንድ ወጥ ይሆናል"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "የተደነገገ እንቅስቃሴ"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "የገጽ ማድረቅ በፍጥነት (የተካሄደ)"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "ወሰን የሌለው እንቅስቃሴ ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "ማሸብለል በጭራሽ አያቆምም"
+  },
+  "o_momentum_max_speed": {
+    "message": "ከፍተኛ ፍጥነት (0 - ተሰናክሏል)"
+  },
+  "o_page_weight": {
+    "message": "ገጽ ክብደት:"
+  },
+  "o_grams": {
+    "message": "ግራም :)"
+  },
+  "o_additional_speed": {
+    "message": "ተጨማሪ ፍጥነት"
+  },
+  "o_pixels_second": {
+    "message": "በሁለተኛ ደረጃ ፒክሰሎች"
+  },
+  "o_additional_duration": {
+    "message": "ተጨማሪ ጊዜ"
+  },
+  "o_advanced_momentum": {
+    "message": "የላቀ የፍጥነት ማዋቀር (ለባለሙያዎች ብቻ!)"
+  },
+  "o_advanced_momentum_title": {
+    "message": "እነዚህን እሴቶች መለወጥ."
+  },
+  "o_compute_from_last": {
+    "message": "ከኋለኛው ቀን ጋር ይጣላል"
+  },
+  "o_mouse_stop_detection": {
+    "message": "አይጥ ማቆሚያ ማወቅ"
+  },
+  "o_tracking_speed": {
+    "message": "የመከታተያ ፍጥነት"
+  },
+  "o_reset_values": {
+    "message": "እሴቶችን እንደገና ያስጀምሩ"
+  },
+  "o_cursor_scrolling": {
+    "message": "ጠቋሚ ጥቅም ላይ ሲውል ጥቅም ላይ የዋለው"
+  },
+  "o_performance": {
+    "message": "አፈፃፀም"
+  },
+  "o_prevent_big_jumps": {
+    "message": "ትልልቅ ዝውሎችን ይከላከሉ"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "ጠቋሚዎን በቶርዎርዎ በማያ ገጹ ዙሪያ የሚጓዙ (ጠርዝ በሚደርሱበት ጊዜ) የሚጠቀሙ ከሆነ, \"አንድ ጠርዝ ሲደርሱ), ቀጣይነት ያለው (ማለቂያ የሌለው) ማሸብለልን ለመፍቀድ ይህንን አማራጭ ያነቃል."
+  },
+  "o_advanced": {
+    "message": "የላቀ"
+  },
+  "o_movement_detection": {
+    "message": "የመዳፊት እንቅስቃሴ ማወቂያ ሰልፍ: -"
+  },
+  "o_helper_text_move_detection": {
+    "message": "ለማገድ ለማገድ ምን ያህል ፒክሰሎች ማዞር አለባቸው. አንዳንድ ጊዜ የመሸብሮች ቁልፍን በመጫን ላይ ሲጎበኙ በመዶሻ ትንሽ የሚያነቃቁ ግን አገናኙ በዚህ ምክንያት የአካል ጉዳተኛ እንዲሆን አይፈልጉም."
+  },
+  "o_context_menu_block": {
+    "message": "አውድ ምናሌ አግድ:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "አውድ ማቆያ ማቋረጥን መዘግየት"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "ከቀኝ የመዳፊት ቁልፍ ጋር ከተሸሸጉም በኋላ አውድ ምናሌን ካዩ ይህንን እሴት ጨምር"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "ጎራዎች ላይ አግድም አግድም ማሸብለል ያሰናክሉ-"
+  },
+  "o_is_disabled_domains": {
+    "message": "ጎራዎች ላይ ተሰናክሏል"
+  },
+  "o_is_disabled_url": {
+    "message": "በገጾች / ንዑስ ገጾች ላይ ተሰናክሏል"
+  },
+  "o_is_disabled_url_help": {
+    "message": "የዩ አር ኤል ክፍልን ለመግለጽ የኮከብ ምልክት (*) ን መጠቀም ይችላሉ, ለምሳሌ \"Google.com/maps_\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "በአንድ መስመር አንድ ጎራ ያስገቡ."
+  },
+  "o_is_disabled": {
+    "message": "ተጨማሪዎችን ያሰናክሉ"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "የመሳሪያ አዶ አዶን እንደ ዋናው / አጥፋው"
+  },
+  "o_scroll_button_middle": {
+    "message": "የመካከለኛ ቁልፍ"
+  },
+  "o_scroll_button_right": {
+    "message": "የቀኝ አዝራር"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "ሊኑክስ / ማክ ተጠቃሚዎች - ለአዳዲስ ፈቃድ ይጠየቃሉ \"ለአዳዲስ የአሳሽ ቅንብርን ያንብቡ እና ይቀይሩ\" - ይህ ከማሸብለልዎ በፊት ይህ የአውድ ምናሌ እንዲታይ ለማድረግ ያስፈልጋል!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "ሊኑክስ / ማክ ተጠቃሚዎች - የአውድዎ ምናሌዎ ታግደዋል! አቁምፊ ምናሌን ለመክፈት \"Shift\" ቁልፍን ወይም የሶስትዮሽ ጠቅታ የቀኝ ቁልፍ."
+  },
+  "o_scroll_button_left": {
+    "message": "የግራ ቁልፍ (ሙከራ)"
+  },
+  "o_scroll_on_links": {
+    "message": "በአገናኞች ላይ ያሸብልሉ"
+  },
+  "o_scroll_on_links_title": {
+    "message": "ሲነቃ አገናኞችን መጎተት እና መጣል አይችሉም (ብቻ <አሰናክል> ቁልፍን በመጠቀም ብቻ"
+  },
+  "o_scroll_on_text": {
+    "message": "በጽሑፍ ያሸብልሉ"
+  },
+  "o_scroll_on_text_title": {
+    "message": "ስልክ ማሸብለል / አርት editing ት - ወደ \"አርት editing ት ሁነታ ለመቀየር በጽሑፍ ጠቅታ ጠቅ ማድረግ ያስፈልግዎታል. ከጽሑፍ ውጭ ጠቅ ማድረግ እንደገና ማሸብለል ያነቃል."
+  },
+  "o_scroll_on_textarea": {
+    "message": "በጽሕተት ያሸብልሉ"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textraa የጽሑፍ ብሎክ ነው, ብዙውን ጊዜ ሊተገበር ይችላል. ለምሳሌ \"ተሰናክሎ\" ላይ \"ተሰናክለው\" ላይ \"ተሰናክለው\" ታሪካዊነትን ማየት ይችላሉ."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "በአርትዕ ኤችቲኤምኤል ላይ ያሸብልሉ"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "ለምሳሌ በኢሜል ውስጥ ኢሜል አካል አርትዕ / ኤችቲኤምኤል ነው."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "በጽሁፉ ላይ መምረጥን / አርት editing ትዎችን መምረጥን ያነቃል."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "በጽሑፍ ላይ ጠቅ ያድርጉ \"አርትዕ ሞድ\" ን ያስመርታል. \"የማሸብለል ሁኔታ\" ን ለማቅለል ከጽሑፍ ውጭ ጠቅ ያድርጉ."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "ነጠላ ጠቅ ማድረግ"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "ሁለቴ ጠቅ ያድርጉ"
+  },
+  "o_scrollbars_width": {
+    "message": "ማሸብለል"
+  },
+  "o_scrollbars_width_0": {
+    "message": "መደበኛ (ምንም ለውጥ የለም)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "ቀጭን"
+  },
+  "o_scrollbars_width_2": {
+    "message": "ተደብቋል"
+  },
+  "o_scrollbars_color": {
+    "message": "የማሸጊያ አቧራ"
+  },
+  "o_scrollbars_background": {
+    "message": "የማሸጊያ አቦር ዳራ ቀለም"
+  },
+  "o_reverse": {
+    "message": "ተቃራኒው አቅጣጫ አቅጣጫ"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "ፈረቃ"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl"
+  },
+  "o_disable_type_0": {
+    "message": "ቁልፍ ሲወርድ ያሰናክሉ-"
+  },
+  "o_disable_type_1": {
+    "message": "ቁልፍ ሲወርድ ያንቁ"
+  },
+  "o_momentum": {
+    "message": "ማሳንን ያንቁ - ገጹን (እንደ ስልክ) \"መጣል ይችላሉ\""
+  },
+  "o_no_css_edit": {
+    "message": "ክፍተቶችን አያልፍ እና በማሸብለል ላይ ጠቋሚውን አይቀይሩ"
+  },
+  "o_no_prevent_default": {
+    "message": "ነባሪ ቁልፍን አያግዱ"
+  },
+  "o_auto_link_lock": {
+    "message": "አገናኞች ማገድ"
+  },
+  "o_no_link_block": {
+    "message": "ከመንቀሳቀስ በኋላ የመዳፊትውን ጠቅ ያድርጉ"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "በአገናኝ ላይ ማሸብለል ሲጀምሩ በተመሳሳይ አገናኝ ላይ ማሸብለልን ይጨርሱ, አሳሽ አገናኙን ይከፍታል. ይህ ብዙውን ጊዜ የሚፈለግ ባህሪይ ነው ስለሆነም በነባሪነት ታግ has ል."
+  },
+  "o_page_weight_title": {
+    "message": "ይህ ገጽ <ከባድ> እንዴት እንደሆነ ይቆጣጠራል. በጣም ከባድ ገጾችን ረዘም ያለ ጊዜ አለው."
+  },
+  "o_additional_speed_title": {
+    "message": "የፍጥነት ፍጥነት ፍጥነትን ማፋጠን ይችላሉ."
+  },
+  "o_additional_duration_title": {
+    "message": "ለእያንዳንዱ ጊዜ ተጨማሪ ጊዜ."
+  },
+  "o_compute_from_last_title": {
+    "message": "የፍጥነት ፍጥነት የሚወሰነው የመጫኛ ቁልፉን ከመለቀቅዎ በፊት በቀጥታ በማሸብለል ፍጥነት ይወሰናል."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "ምን ያህል ጊዜ መቆየት አሁንም መቆየት አለበት - የመሸብለያ ቁልፍን ከመውለቁ በፊት - አግብርን ለማገገም."
+  },
+  "o_tracking_speed_title": {
+    "message": "የአሁኑን ማድረቂያ ጥቅል ፍጥነት ለመለካት የጊዜ ልዩነት."
+  },
+  "o_scrolling_area": {
+    "message": "ማሸብለል"
+  },
+  "o_outside_area_width": {
+    "message": "ማሸብለል (0 - ተሰናክሎ)"
+  },
+  "o_outside_area_width_helper": {
+    "message": "ጠቋሚዎን ከማሸብለል አካባቢ ውጭ ማንቀሳቀስ ቦታን የሚያሸብጥ ቦታን ያወድሳል. አንድ ዓይነት ባህሪ ማሸብራር በሚጎትትበት ጊዜ ሊታይ ይችላል."
+  },
+  "o_scroll_button_left_title": {
+    "message": "ማስጠንቀቂያ - የግራ ቁልፍ ድጋፍ ለወደፊቱ የፋየርፎክስ ስሪቶች ውስጥ ሊወገድ የሚችል ፋየርፎክስ ኤፒአይ በመጠቀም ነው."
+  },
+  "o_prevent_text_selection": {
+    "message": "ከግራ ቁልፍ ጋር ሲሸብጥ የጽሑፍ ምርጫን ይከላከሉ"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "በአንዳንድ መሳሪያዎች ላይ ከግራ የመዳፊት ቁልፍ ጋር ማሸብለል በገጹ ላይ ጽሑፍን ይመርጣል."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "ያልተሸፈነ ገጽን ለማሸብለል በሚሞክሩበት ጊዜ የአውድ ምናሌን አያግዱ"
+  },
+  "o_backup_restore": {
+    "message": "የመጠባበቂያ / ወደ ፋይል ቅንብሮች መመለስ:"
+  },
+  "o_export_settings": {
+    "message": "ቅንብሮችን ወደ ፋይል ይላኩ"
+  },
+  "import_settings_button": {
+    "message": "ከ $1 ፋይል ቅንብሮች ከውጭ አስመጣ ..."
+  },
+  "import_finished": {
+    "message": "ማስመጣት ተጠናቅቋል!"
+  },
+  "test_page_title": {
+    "message": "ማሸጊያ ቅንብሮችዎን እዚህ ይፈትሹ"
+  },
+  "menu_options": {
+    "message": "አማራጮች"
+  },
+  "menu_visit_title": {
+    "message": "የመነሻ ገጽን ይጎብኙ"
+  },
+  "not_working": {
+    "message": "በእርስዎ የድር አሳሽ ተሰናክሏል"
+  },
+  "disabled_by_user": {
+    "message": "በዚህ ጎራ ላይ ተሰናክሏል"
+  },
+  "not_working_title": {
+    "message": "አሳሽዎ በእነዚህ ዓይነቶች ገጾች ላይ ብልጭ ድርግም ብለው ያግዳል."
+  },
+  "show_scrollbars": {
+    "message": "ማሸብሮች አሞሌዎችን አሳይ"
+  },
+  "show_scrollbars_title": {
+    "message": "ለጊዜው የማሸብሮች አሞሌዎችን ያሳያሉ"
+  },
+  "switch_on_off": {
+    "message": "ያክሉ-ላይ / ላይ ያብሩ"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "በፕሬስ ማሸብለያ ቁልፍ እና በመነሻ በመጀመር መካከል የሚታወቅ መዘግየት ካጋጠሙ ይህንን አማራጭ ለማንቃት ይሞክሩ. ሆኖም እንደ አንዳንድ የድሮ ተካፋይ ቪዲዮዎች ወይም አንዳንድ ማስታወቂያዎች ያሉ \"ጣቶች\" ላይ ማሸብለል አይችሉም."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "በተጨማሪም ይህ ደግሞ የሚያሸብጥበት ጠቋሚውን ለመቀየር አማራጭን ያሰናክላል."
+  },
+  "o_helper_text_default_action": {
+    "message": "ከመካከለኛ ቁልፍ ጋር መለጠፍ ለማስቻል በሊኑክስ ውስጥ ጠቃሚ ነው."
+  },
+  "o_about_hello": {
+    "message": "እው ሰላም ነው :)"
+  },
+  "o_about_intro": {
+    "message": "ስሜ $1$ ነው እና የ $app_name$ ደራሲ ነኝ."
+  },
+  "o_about_like_it": {
+    "message": "ከወደዱት እባክዎን እዚህ ይስጡ-"
+  },
+  "o_about_dislike_it": {
+    "message": "እርስዎ ካልወደዱ እባክዎን በኢ-ሜይል ለምን እንደሆነ ያሳውቁኝ. እኔ የሚቀበሉትን አብዛኛዎቹ የባህሪ መጠየቂያ ጥያቄዎችን እየተተገበርኩ ነው."
+  },
+  "o_disabled": {
+    "message": "ተሰናክሏል",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "ነቅቷል",
+    "common": true
+  },
+  "o_times": {
+    "message": "ጊዜያት",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "ፒክሰሎች",
+    "common": true
+  },
+  "o_items": {
+    "message": "ዕቃዎች",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "ሚሊሰከንዶች",
+    "common": true
+  },
+  "label_working": {
+    "message": "በመስራት ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "ገጠመ",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "እባክዎን የእኔን ሥራ በመደገፍ ያስቡበት",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "ልገሳ (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "የእኔ ረዳት ነኝ",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "አመሰግናለሁ!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "ቤት",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "አድራሻ",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "ጉዳዮች ሪፖርት ያድርጉ",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "እኔ በእንግሊዝኛ / ስሎቫክ ብቻ መልስ መስጠት እችላለሁ",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "ማህበራዊ ሚዲያ:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "ለውጦችን ያስቀምጡ እና ይዘጋሉ",
+    "common": true
+  },
+  "o_saved": {
+    "message": "አድኗል!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "በቅርብ ቀን",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "ለውጦችን አስቀምጥ",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "የ ግል የሆነ",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "በቅርቡ የታከሉ ባህሪዎች",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "መለያዎች:",
+    "common": true
+  }
+}

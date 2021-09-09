@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "নির্বাচিত পাঠ্য অনুবাদ করুন (প্রসঙ্গ মেনু থেকে)"
+  },
+  "_description_feature_2": {
+    "message": "পুরো পাতা অনুবাদ"
+  },
+  "_description_feature_3": {
+    "message": "অন্ধকার মোড!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, অন্ধকার, ইমেইল, গুগল, ল্যাং, ভাষা, মাইক্রোসফ্ট, পৃষ্ঠা, preklad, prekladač, s3, নির্বাচন, টেক্সট, traducteur, অনুবাদ, অনুবাদক, übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ আপনার ওয়েব ব্রাউজার / থান্ডারবার্ডের জন্য অনুবাদক ব্যবহার করা সহজ!"
+  },
+  "o_tab_translate": {
+    "message": "অনুবাদ করা"
+  },
+  "_description_supported_translators": {
+    "message": "সমর্থিত অনুবাদ প্রদানকারীর:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "মডেল উইন্ডো"
+  },
+  "open_in_1": {
+    "message": "ছোট জানালা"
+  },
+  "open_in_2": {
+    "message": "নতুন ট্যাব"
+  },
+  "open_in_3": {
+    "message": "নতুন জানালা"
+  },
+  "open_in_4": {
+    "message": "নতুন ট্যাব (ধারক ছাড়া)"
+  },
+  "modal_window": {
+    "message": "মডেল উইন্ডো"
+  },
+  "toolbar_icon_action": {
+    "message": "সরঞ্জামদণ্ডের আইকন ক্রিয়া"
+  },
+  "toolbar_icon_text": {
+    "message": "টুলবার আইকন টেক্সট"
+  },
+  "sidebar_size": {
+    "message": "সাইডবারের আকার"
+  },
+  "translation_provider": {
+    "message": "অনুবাদ প্রদানকারী"
+  },
+  "translate_to": {
+    "message": "এতে অনুবাদ করুন:"
+  },
+  "no_overlay": {
+    "message": "কোনও ওভারলে নেই (চারপাশের অন্ধকার অঞ্চল)"
+  },
+  "no_overlay_hint": {
+    "message": "আপনি বাইরে ক্লিক করলেও মোডাল উইন্ডোটি খোলা থাকবে।"
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "এতে অনুবাদ খুলুন:"
+  },
+  "fallback_1": {
+    "message": "ফলব্যাক পদ্ধতি"
+  },
+  "fallback_2": {
+    "message": "ফলব্যাক পদ্ধতি"
+  },
+  "fallback_title": {
+    "message": "মডেল উইন্ডো এবং পপআপ উইন্ডো কিছু ক্ষেত্রে ব্যবহার করা যায় না।"
+  },
+  "open_in_tab": {
+    "message": "নতুন ট্যাবে খুলুন"
+  },
+  "translate_this_page": {
+    "message": "এই পাতা অনুবাদ করুন"
+  },
+  "selection_translate": {
+    "message": "\"$1\" অনুবাদ করুন"
+  },
+  "page_translate": {
+    "message": "পৃষ্ঠা অনুবাদ করুন"
+  },
+  "selected_text": {
+    "message": "নির্বাচিত পাঠ্য"
+  },
+  "disable_context_menu": {
+    "message": "প্রসঙ্গ মেনুটি অক্ষম করুন: \"$1\""
+  },
+  "import_finished": {
+    "message": "আমদানি শেষ!"
+  },
+  "import_error": {
+    "message": "ত্রুটি"
+  },
+  "import_backup_file": {
+    "message": "$1 ব্যাকআপ ফাইল আমদানি করুন"
+  },
+  "search_search": {
+    "message": "অনুসন্ধান করুন"
+  },
+  "homepage": {
+    "message": "হোমপেজ"
+  },
+  "addon_page": {
+    "message": "অ্যাডন পৃষ্ঠা"
+  },
+  "safari_store": {
+    "message": "ম্যাক অ্যাপ স্টোর"
+  },
+  "chrome_store": {
+    "message": "ক্রোম ওয়েব দোকান"
+  },
+  "firefox_store": {
+    "message": "ফায়ারফক্স অ্যাড-অন"
+  },
+  "thunderbird_store": {
+    "message": "থান্ডারবার্ড অ্যাড-অন"
+  },
+  "label_font_size": {
+    "message": "অক্ষরের আকার"
+  },
+  "label_next": {
+    "message": "পরবর্তী"
+  },
+  "label_note": {
+    "message": "বিঃদ্রঃ:"
+  },
+  "label_remove": {
+    "message": "অপসারণ"
+  },
+  "label_warning": {
+    "message": "সতর্কতা:"
+  },
+  "label_default": {
+    "message": "ডিফল্ট:"
+  },
+  "label_done": {
+    "message": "সম্পন্ন!"
+  },
+  "label_copied": {
+    "message": "অনুলিপি!"
+  },
+  "label_close": {
+    "message": "বন্ধ"
+  },
+  "label_open_page": {
+    "message": "পৃষ্ঠা খুলুন"
+  },
+  "label_agree": {
+    "message": "একমত"
+  },
+  "label_cancel": {
+    "message": "বাতিল"
+  },
+  "op_support_me": {
+    "message": "এই প্রকল্পে সহায়তা করুন"
+  },
+  "support_developer": {
+    "message": "সমর্থন স্বাধীন বিকাশকারী!"
+  },
+  "hello_there": {
+    "message": "হ্যালো!"
+  },
+  "about_me": {
+    "message": "আমি ২০১ 2016 সাল থেকে অ্যাডন বিকাশকারী এবং আমার লক্ষ্য আপনাকে আরও উত্পাদনশীল করার জন্য আপনার ওয়েব-ব্রাউজারের জন্য শক্তিশালী এক্সটেনশন তৈরি করা।"
+  },
+  "about_good_job": {
+    "message": "আপনি যদি ভাবেন যে আমি একটি ভাল কাজ করছি, অনুগ্রহ করে দান করুন :)"
+  },
+  "about_income": {
+    "message": "আপনার অনুদান আমার একমাত্র আয়!"
+  },
+  "about_thanks": {
+    "message": "আমার কাজ সমর্থন করার জন্য আপনাকে ধন্যবাদ!"
+  },
+  "o_tab_context_menu": {
+    "message": "কনটেক্সট মেনু"
+  },
+  "o_tab_about": {
+    "message": "সম্পর্কিত"
+  },
+  "o_tab_settings": {
+    "message": "সেটিংস"
+  },
+  "o_pixels": {
+    "message": "পিক্সেল"
+  },
+  "o_seconds": {
+    "message": "সেকেন্ড"
+  },
+  "label_or": {
+    "message": "বা"
+  },
+  "o_about_hello": {
+    "message": "হ্যালো :)"
+  },
+  "o_about_intro": {
+    "message": "আমার নাম $1$ এবং আমি $app_name$ এর লেখক।"
+  },
+  "o_about_like_it": {
+    "message": "আপনি যদি এটি পছন্দ করেন তবে দয়া করে এটি এখানে রেট দিন:"
+  },
+  "o_about_thanks": {
+    "message": "ধন্যবাদ!"
+  },
+  "o_about_contact": {
+    "message": "যোগাযোগ:"
+  },
+  "o_about_issues": {
+    "message": "সমস্যাগুলি প্রতিবেদন করুন:"
+  },
+  "o_about_social_media": {
+    "message": "সামাজিক মাধ্যম:"
+  },
+  "o_about_support_by_iban": {
+    "message": "আইবান ব্যবহার করে ব্যাংক স্থানান্তর:"
+  },
+  "ps_no_results": {
+    "message": "কোনও মিল নেই"
+  },
+  "label_no_data": {
+    "message": "কোনও ডেটা নেই"
+  },
+  "dark_mode": {
+    "message": "গা .় মোড"
+  },
+  "dark_mode_system": {
+    "message": "সিস্টেম দ্বারা নিয়ন্ত্রিত"
+  },
+  "_description_features": {
+    "message": "বৈশিষ্ট্য:"
+  },
+  "_description_why": {
+    "message": "কেন?"
+  },
+  "_description_privacy_policy": {
+    "message": "গোপনীয়তা নীতি"
+  },
+  "_description_recent_features": {
+    "message": "সম্প্রতি যোগ বৈশিষ্ট্য:"
+  },
+  "_description_common_tags": {
+    "message": "ট্যাগ:"
+  },
+  "_description_also_for_firefox": {
+    "message": "আপনার ফায়ারফক্সের জন্য উপলব্ধ:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "আপনার থান্ডারবার্ডের জন্য উপলব্ধ:"
+  }
+}

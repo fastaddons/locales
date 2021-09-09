@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "কোথাও, বোতাম, কার্সার, ড্র্যাগ, দখল, দখল, দখল এবং টেনে আনুন, অসীম, বাম, মধ্যম, গতিবেগ, মাউস, সরানো, পৃষ্ঠা, ডান, স্ক্রোল, স্ক্রোল পৃষ্ঠা, স্ক্রলবার, স্ক্রোলিং, ফেলে"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "পৃষ্ঠায় যে কোন জায়গায় আপনার মধ্যম মাউস বোতামের সাথে স্ক্রলবার টেনে আনুন। এছাড়াও \"দখল এবং ড্র্যাগ\" শৈলী সমর্থন করে।"
+  },
+  "field_int_default_value": {
+    "message": "ডিফল্ট মান: $1, মিনিট: $2, MAX: $3"
+  },
+  "field_set_default": {
+    "message": "ডিফল্ট করতে পুনরায় সেট করুন: $1"
+  },
+  "thunderbird_store": {
+    "message": "থান্ডারবার্ড অ্যাড-অন"
+  },
+  "firefox_store": {
+    "message": "ফায়ারফক্স অ্যাড-অন"
+  },
+  "chrome_store": {
+    "message": "ক্রোম ওয়েব দোকান"
+  },
+  "safari_store": {
+    "message": "ম্যাক অ্যাপ স্টোর"
+  },
+  "win_disable": {
+    "message": "$1 এ নিষ্ক্রিয় করুন"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "$1 তে অনুভূমিক স্ক্রোলিং নিষ্ক্রিয় করুন"
+  },
+  "op_visit_home": {
+    "message": "হোমপেজে যান"
+  },
+  "op_support_me": {
+    "message": "এই প্রকল্পের সাহায্য করুন"
+  },
+  "o_title": {
+    "message": "বিকল্প - $1."
+  },
+  "o_tab_general": {
+    "message": "সাধারণ"
+  },
+  "o_tab_momentum": {
+    "message": "গতি"
+  },
+  "o_tab_cursor": {
+    "message": "কার্সার"
+  },
+  "o_axis_locking": {
+    "message": "অক্ষ লকিং"
+  },
+  "o_tab_performance": {
+    "message": "কর্মক্ষমতা"
+  },
+  "o_tab_disabled_on": {
+    "message": "উপর নিষ্ক্রিয়"
+  },
+  "o_tab_advanced": {
+    "message": "উন্নত"
+  },
+  "o_tab_scrollbars": {
+    "message": "স্ক্রলবার্স"
+  },
+  "o_tab_backup": {
+    "message": "আমদানি / ব্যাকআপ"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "একটি অক্ষে স্ক্রোলযোগ্য এমন একটি বাক্স স্ক্রোল করার সময় কিন্তু পিতামাতার বাক্সটি অন্য অক্ষে স্ক্রলযোগ্য, এটি একটি অক্ষে স্ক্রোলিং লক ব্যবহার করে:"
+  },
+  "o_axis_lock_0": {
+    "message": "স্মার্ট লক - গতি ব্যবহার করে সাময়িক লক"
+  },
+  "o_axis_lock_1": {
+    "message": "কঠোর লক - তাত্ক্ষণিক দিক লক"
+  },
+  "o_axis_lock_2": {
+    "message": "কোন লক নেই - উভয় অক্ষে বিনামূল্যে স্ক্রোলিং"
+  },
+  "o_trend_momentum_window": {
+    "message": "স্মার্ট লক স্ট্যাক আকার"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "বৃহত্তর মান স্ক্রোলিং অক্ষ পরিবর্তন করতে বিপরীত অক্ষে আরো স্ক্রোলিং প্রয়োজন হবে।"
+  },
+  "o_addon_disabled_warning": {
+    "message": "অ্যাডন নিষ্ক্রিয়! সক্ষম করতে এখানে ক্লিক করুন।"
+  },
+  "o_cursor_change_default": {
+    "message": "কোন পরিবর্তন নেই - সেরা পারফরম্যান্স"
+  },
+  "o_scroll_button": {
+    "message": "স্ক্রোল বোতাম:"
+  },
+  "o_direction_speed": {
+    "message": "স্ক্রোল স্টাইল / দিক / গতি:"
+  },
+  "o_multiplier": {
+    "message": "গুণক"
+  },
+  "o_times_speed": {
+    "message": "টাইমস স্ক্রোল গতি"
+  },
+  "o_maximum_speed": {
+    "message": "সর্বাধিক স্ক্রোল গতি (0 - নিষ্ক্রিয়):"
+  },
+  "o_ratio_unit": {
+    "message": "অনুপাত (পৃষ্ঠা দৈর্ঘ্য / উইন্ডো আকার)"
+  },
+  "o_scroll_type_0": {
+    "message": "স্ক্রলবার অনুকরণ করুন"
+  },
+  "o_scroll_type_1": {
+    "message": "দখল এবং টেনে আনুন - একটি স্মার্টফোনের মত"
+  },
+  "o_scroll_type_2": {
+    "message": "ডাইনামিক গতি (পরীক্ষামূলক)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "এটি একটি স্ক্রলবার টেনে মত"
+  },
+  "o_scroll_type_title_1": {
+    "message": "এটি একটি ফোন পর্দায় আপনার আঙুল দিয়ে একটি পৃষ্ঠা টেনে আনার মত"
+  },
+  "o_scroll_type_title_2": {
+    "message": "পৃষ্ঠাটি আর যখন ডাইনামিক গতি স্ক্রোল গতি ধীর করে তোলে"
+  },
+  "o_disable_key": {
+    "message": "কী ডাউন ডাউন / স্ক্রোলিং সক্রিয় / সক্ষম করুন:"
+  },
+  "o_momentum_category": {
+    "message": "গতি:"
+  },
+  "o_momentum_formula": {
+    "message": "গতিবেগ সূত্র:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "অভিন্নভাবে decelerated আন্দোলন"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "এটি স্টপ না হওয়া পর্যন্ত পৃষ্ঠা স্ক্রোল অভিন্নভাবে ধীর হবে"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "সূচকীয়ভাবে decelerated আন্দোলন"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "পৃষ্ঠা স্ক্রোল দ্রুত (দ্রুতগতিতে) ধীর হবে"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "অসীম আন্দোলন ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "স্ক্রোলিং বন্ধ হবে না"
+  },
+  "o_momentum_max_speed": {
+    "message": "সর্বাধিক গতি (0 - নিষ্ক্রিয়):"
+  },
+  "o_page_weight": {
+    "message": "পৃষ্ঠা ওজন:"
+  },
+  "o_grams": {
+    "message": "গ্রাম :)"
+  },
+  "o_additional_speed": {
+    "message": "অতিরিক্ত গতি:"
+  },
+  "o_pixels_second": {
+    "message": "প্রতি সেকেন্ডে পিক্সেল"
+  },
+  "o_additional_duration": {
+    "message": "অতিরিক্ত সময়কাল:"
+  },
+  "o_advanced_momentum": {
+    "message": "উন্নত গতিবেগ সেটআপ (শুধুমাত্র বিশেষজ্ঞদের জন্য!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "এই মান পরিবর্তন আপনার গতি বিরতি করতে পারেন!"
+  },
+  "o_compute_from_last": {
+    "message": "শেষ থেকে গণনা:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "মাউস স্টপ সনাক্তকরণ:"
+  },
+  "o_tracking_speed": {
+    "message": "ট্র্যাকিং গতি:"
+  },
+  "o_reset_values": {
+    "message": "মূল্য রিসেট করুন"
+  },
+  "o_cursor_scrolling": {
+    "message": "স্ক্রোলিং যখন ব্যবহৃত কার্সার:"
+  },
+  "o_performance": {
+    "message": "কর্মক্ষমতা:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "বড় জাম্প প্রতিরোধ"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "আপনি যদি এমন সরঞ্জামটি ব্যবহার করেন যা স্ক্রীন জুড়ে আপনার কার্সারটি টেলিফোর্ট করতে পারে (যখন আপনি একটি প্রান্তে পৌঁছাবেন), এই বিকল্পটিকে ক্রমাগত (অসীম) স্ক্রোলিং করার অনুমতি দিতে সক্ষম করুন।"
+  },
+  "o_advanced": {
+    "message": "উন্নত:"
+  },
+  "o_movement_detection": {
+    "message": "মাউস আন্দোলন সনাক্তকরণ থ্রেশহোল্ড:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "লিঙ্ক ব্লক করতে মাউস সরানো কত পিক্সেল আছে। কখনও কখনও স্ক্রোল বোতাম টিপে যখন আপনি মাউসটিকে সামান্য সরান তবে আপনার পক্ষে লিঙ্কটি অক্ষম করতে চান না।"
+  },
+  "o_context_menu_block": {
+    "message": "প্রসঙ্গ মেনু ব্লক:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "প্রসঙ্গ মেনু বিলম্ব আনব্লক করুন"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "আপনি যদি ডান মাউস বোতামের সাথে স্ক্রোল করার পরে প্রসঙ্গ মেনু দেখেন তবে এই মানটি বৃদ্ধি করুন"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "ডোমেইনগুলিতে অনুভূমিক স্ক্রোলিং নিষ্ক্রিয় করুন:"
+  },
+  "o_is_disabled_domains": {
+    "message": "ডোমেইন উপর নিষ্ক্রিয়:"
+  },
+  "o_is_disabled_url": {
+    "message": "পৃষ্ঠা / উপ-পৃষ্ঠাগুলিতে নিষ্ক্রিয় করা হয়েছে:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "আপনি একটি URL অংশ সংজ্ঞায়িত করতে তারকা প্রতীক (*) ব্যবহার করতে পারেন, উদাহরণস্বরূপ: \"Google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "লাইন প্রতি এক ডোমেইন লিখুন।"
+  },
+  "o_is_disabled": {
+    "message": "অ্যাড-অন নিষ্ক্রিয় করুন"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "প্রধান অন / অফ সুইচ হিসাবে টুলবার আইকন ব্যবহার করুন"
+  },
+  "o_scroll_button_middle": {
+    "message": "মাঝের বোতাম"
+  },
+  "o_scroll_button_right": {
+    "message": "ডান বাটন"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "লিনাক্স / ম্যাক ব্যবহারকারী - আপনাকে নতুন অনুমোদনের জন্য অনুরোধ করা হবে \"ব্রাউজার সেটিংটি পড়ুন এবং সংশোধন করুন\" - এটি স্ক্রোল করার আগে প্রসঙ্গ মেনু দমন করতে হবে!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "লিনাক্স / ম্যাক ব্যবহারকারী - আপনার প্রসঙ্গ মেনু ব্লক করা হবে! প্রসঙ্গ মেনু খুলতে \"Shift\" কী বা ট্রিপল-ক্লিক ডান বোতামটি খুলতে হবে।"
+  },
+  "o_scroll_button_left": {
+    "message": "বাম বাটন (পরীক্ষামূলক)"
+  },
+  "o_scroll_on_links": {
+    "message": "লিঙ্কে স্ক্রোল করুন"
+  },
+  "o_scroll_on_links_title": {
+    "message": "সক্রিয় করার সময়, আপনি লিঙ্কগুলি টেনে আনতে পারবেন না এবং ড্রপ করতে পারবেন না (শুধুমাত্র 'নিষ্ক্রিয়' কী ব্যবহার করে)"
+  },
+  "o_scroll_on_text": {
+    "message": "টেক্সট স্ক্রোল করুন"
+  },
+  "o_scroll_on_text_title": {
+    "message": "ফোন স্ক্রোলিং / এডিটিং emulates - আপনাকে \"সম্পাদনা মোড\" তে স্যুইচ করার জন্য পাঠ্যটিতে ক্লিক করতে হবে। পাঠের বাইরে ক্লিক করা আবার স্ক্রোলিং সক্ষম করে।"
+  },
+  "o_scroll_on_textarea": {
+    "message": "Textarea উপর স্ক্রোল করুন"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea পাঠ্য একটি ব্লক, সাধারণত আকার পরিবর্তনযোগ্য। উদাহরণস্বরূপ \"নিষ্ক্রিয়\" ট্যাবে আপনি Textarea দেখতে পারেন।"
+  },
+  "o_scroll_on_editable_html": {
+    "message": "সম্পাদনাযোগ্য এইচটিএমএল উপর স্ক্রোল করুন"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "উদাহরণস্বরূপ জিমেইল এ ইমেল শরীর সম্পাদনাযোগ্য এইচটিএমএল।"
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "পাঠ্যটি পাঠ্য নির্বাচন / সম্পাদনা সক্ষম করবে।"
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "পাঠ্য ক্লিক করুন \"সম্পাদনা মোড\" সক্ষম হবে। \"স্ক্রোল মোড\" সক্ষম করতে উপরের পাঠ্য ক্লিক করুন।"
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "একক ক্লিক করুন"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "ডবল ক্লিক করুন"
+  },
+  "o_scrollbars_width": {
+    "message": "স্ক্রলবার্স চেহারা"
+  },
+  "o_scrollbars_width_0": {
+    "message": "স্বাভাবিক (কোন পরিবর্তন নেই)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "পাতলা"
+  },
+  "o_scrollbars_width_2": {
+    "message": "গোপন"
+  },
+  "o_scrollbars_color": {
+    "message": "স্ক্রলবার স্লাইডার রঙ:"
+  },
+  "o_scrollbars_background": {
+    "message": "স্ক্রলবার পটভূমি রঙ:"
+  },
+  "o_reverse": {
+    "message": "বিপরীত স্ক্রোল দিক"
+  },
+  "o_disable_alt": {
+    "message": "Alt."
+  },
+  "o_disable_shift": {
+    "message": "Shift."
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl."
+  },
+  "o_disable_type_0": {
+    "message": "কী নিচে যখন নিষ্ক্রিয় করুন:"
+  },
+  "o_disable_type_1": {
+    "message": "কী ডাউন ডাউন সক্ষম করুন:"
+  },
+  "o_momentum": {
+    "message": "গতি সক্ষম করুন - আপনি পৃষ্ঠাটিকে \"নিক্ষেপ করতে\" করতে পারেন (ফোনে)"
+  },
+  "o_no_css_edit": {
+    "message": "Ifframes লক করবেন না এবং স্ক্রোল করার সময় কার্সার পরিবর্তন করবেন না"
+  },
+  "o_no_prevent_default": {
+    "message": "ডিফল্ট বাটন কর্ম ব্লক করবেন না"
+  },
+  "o_auto_link_lock": {
+    "message": "লিংক ব্লকিং:"
+  },
+  "o_no_link_block": {
+    "message": "আন্দোলনের পরে লিঙ্কে মাউস ক্লিক করবেন না"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "যখন আপনি একটি লিঙ্কে স্ক্রোলিং শুরু করেন এবং তারপরে আপনি একই লিঙ্কে স্ক্রোলিং শেষ করেন, ব্রাউজারটি লিঙ্কটি খুলবে। এটি সাধারণত পছন্দসই আচরণ নয় তাই ডিফল্টভাবে এটি অবরুদ্ধ।"
+  },
+  "o_page_weight_title": {
+    "message": "এই নিয়ন্ত্রণটি কিভাবে 'ভারী' পৃষ্ঠাটি নিয়ন্ত্রণ করে। ভারী পৃষ্ঠাগুলি আর গতিবেগ আছে।"
+  },
+  "o_additional_speed_title": {
+    "message": "আপনি গতি বিবর্ণ গতি ত্বরান্বিত করতে পারেন।"
+  },
+  "o_additional_duration_title": {
+    "message": "প্রতিটি গতি জন্য অতিরিক্ত সময়।"
+  },
+  "o_compute_from_last_title": {
+    "message": "গতিবেগ প্রাথমিক গতি স্ক্রোল বোতামটি প্রকাশ করার আগে স্ক্রোলিংয়ের গতি দ্বারা নির্ধারিত হয়।"
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "মাউসটি কত সময় ধরে থাকতে হবে - স্ক্রোল বোতামটি প্রকাশ করার আগে - গতি সক্রিয় করতে না।"
+  },
+  "o_tracking_speed_title": {
+    "message": "বর্তমান স্ক্রোল গতি পরিমাপ জন্য ব্যবধান।"
+  },
+  "o_scrolling_area": {
+    "message": "স্ক্রোলিং এলাকা:"
+  },
+  "o_outside_area_width": {
+    "message": "স্ক্রোলিং এলাকা (0 - নিষ্ক্রিয়):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "স্ক্রোলিং এলাকার বাইরে আপনার কার্সারটি সরাতে স্ক্রোলিং অবস্থানটি প্রত্যাবর্তন করবে। একটি স্ক্রলবার টেনে যখন একই আচরণ দেখা যায়।"
+  },
+  "o_scroll_button_left_title": {
+    "message": "সতর্কতা - বাম বাটন সমর্থন অব্যবহৃত ফায়ারফক্স API ব্যবহার করে যা ফায়ারফক্সের ভবিষ্যতের সংস্করণে সরানো যেতে পারে।"
+  },
+  "o_prevent_text_selection": {
+    "message": "বাম বাটন দিয়ে স্ক্রোল করার সময় পাঠ্য নির্বাচনটি প্রতিরোধ করুন"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "কিছু ডিভাইসে, বাম মাউস বোতামের সাথে স্ক্রোলিং পৃষ্ঠাতে পাঠ্য নির্বাচন করবে।"
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "স্ক্রোল-স্ক্রোলযোগ্য পৃষ্ঠাটি স্ক্রোল করার চেষ্টা করার সময় প্রসঙ্গ মেনু ব্লক করবেন না"
+  },
+  "o_backup_restore": {
+    "message": "ব্যাকআপ / ফাইল থেকে সেটিংস পুনরুদ্ধার করুন:"
+  },
+  "o_export_settings": {
+    "message": "একটি ফাইল থেকে এক্সপোর্ট সেটিংস"
+  },
+  "import_settings_button": {
+    "message": "$1 ফাইল থেকে সেটিংস আমদানি করুন ..."
+  },
+  "import_finished": {
+    "message": "আমদানি শেষ!"
+  },
+  "test_page_title": {
+    "message": "এখানে আপনার স্ক্রোলিং সেটিংস পরীক্ষা করুন"
+  },
+  "menu_options": {
+    "message": "অপশন"
+  },
+  "menu_visit_title": {
+    "message": "হোমপেজে যান"
+  },
+  "not_working": {
+    "message": "আপনার ওয়েব ব্রাউজার দ্বারা নিষ্ক্রিয়"
+  },
+  "disabled_by_user": {
+    "message": "এই ডোমেইন নিষ্ক্রিয়"
+  },
+  "not_working_title": {
+    "message": "আপনার ব্রাউজার এই ধরণের পৃষ্ঠাগুলিতে স্ক্রল্যানবোনকে ব্লক করবে:"
+  },
+  "not_working_body": {
+    "message": "\"Mozilla.org\" পৃষ্ঠাগুলিতে স্ক্রলানিয়াতে সক্ষম করতে, এই YouTube টিউটোরিয়ালটি দেখুন"
+  },
+  "show_scrollbars": {
+    "message": "Scrollbars দেখান"
+  },
+  "show_scrollbars_title": {
+    "message": "সাময়িকভাবে স্ক্রলবার দেখান"
+  },
+  "switch_on_off": {
+    "message": "বন্ধ / বন্ধ / চালু করুন"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "আপনি স্ক্রোল বোতাম টিপে এবং স্ক্রোলিং শুরু করার ক্ষেত্রে লক্ষনীয় বিলম্বের অভিজ্ঞতা পান তবে এই বিকল্পটি সক্ষম করার চেষ্টা করুন। তবে আপনি কিছু পুরানো এমবেডেড ভিডিও বা কিছু বিজ্ঞাপন যেমন \"আইফ্রেম\" তে স্ক্রোল করতে পারবেন না।"
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "এটি স্ক্রোলিংয়ের সময় কার্সার পরিবর্তন করার বিকল্পটি অক্ষম করবে।"
+  },
+  "o_helper_text_default_action": {
+    "message": "মধ্যম বোতামের সাথে পেস্ট সক্ষম করতে লিনাক্সে দরকারী।"
+  },
+  "o_about_hello": {
+    "message": "হ্যালো :)"
+  },
+  "o_about_intro": {
+    "message": "আমার নাম $1$ এবং আমি $app_name$ এর লেখক।"
+  },
+  "o_about_like_it": {
+    "message": "যদি আপনি এটি পছন্দ করেন তবে দয়া করে এখানে এটি রেট করুন:"
+  },
+  "o_about_dislike_it": {
+    "message": "যদি আপনি এটি পছন্দ করেন না, দয়া করে আমাকে জানান কেন আমার ই-মেইল। আমি প্রাপ্ত বৈশিষ্ট্যগুলির বেশিরভাগই বাস্তবায়ন করছি।"
+  },
+  "o_disabled": {
+    "message": "নিষ্ক্রিয়",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "সক্ষম",
+    "common": true
+  },
+  "o_times": {
+    "message": "টাইমস",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "পিক্সেল",
+    "common": true
+  },
+  "o_items": {
+    "message": "আইটেম",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "মিলিসেকেন্ডস",
+    "common": true
+  },
+  "label_working": {
+    "message": "কাজ ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "বন্ধ",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "আমার কাজ সমর্থন করে বিবেচনা করুন",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "দান (পেপ্যাল)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "আমার পৃষ্ঠপোষক হয়ে উঠছে",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "ধন্যবাদ!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "বাড়ি:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "যোগাযোগ:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "সমস্যা রিপোর্ট করুন:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "আমি শুধুমাত্র ইংরেজি / স্লোভাক উত্তর দিতে পারেন",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "সামাজিক মাধ্যম:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "পরিবর্তন এবং বন্ধ সংরক্ষণ করুন",
+    "common": true
+  },
+  "o_saved": {
+    "message": "সংরক্ষিত!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "শীঘ্রই আসছে",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "পরিবর্তনগুলোর সংরক্ষন",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "গোপনীয়তা নীতি",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "সম্প্রতি যোগ বৈশিষ্ট্য:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "ট্যাগ:",
+    "common": true
+  }
+}

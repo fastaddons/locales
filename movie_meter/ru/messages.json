@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "дата, IMDB, Описание, Эпизод, Датчик, График, IMDB, Информация, Метр, Фильм, Фильмы, Кинотеатр, Netflix, IMDB, Рейтинг, Серия, Визуализация, Телевизор, Телевезон, Видео, Визуальные, Голосы, Сезон"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "фильм не нашел / нерный фильм найден - поскольку нет «официальной» интеграции с целевыми страницами, я не могу гарантировать 100% правильные результаты (но в большинстве случаев это работает отлично)"
+  },
+  "_description_mm_not_working": {
+    "message": "Не работает на вашей любимой странице фильма?"
+  },
+  "_description_mm_add_support": {
+    "message": "Свяжитесь со мной, и я добавлю его - если возможно (страница должна содержать имени фильма на английском языке или ссылку $visit_imdb$)."
+  },
+  "_description_mm_feature_1": {
+    "message": "рейтинг фильма и популярность из $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "дата следующего / предыдущего эпизода от $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "дополнительный фильм / сериалы"
+  },
+  "_description_mm_feature_4": {
+    "message": "уведомление о новом эпизоде"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark TV Series As Faviamb, и вы получите уведомление, когда новый эпизод доступен"
+  },
+  "_description_mm_feature_7": {
+    "message": "авто-скрытие при обнаружении воспроизведения видео"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ покажет вам рейтинг и популярность фильма (или сериала)"
+  },
+  "name": {
+    "message": "Имя"
+  },
+  "year": {
+    "message": "Год"
+  },
+  "video_type": {
+    "message": "Тип"
+  },
+  "video_type_0": {
+    "message": "Кино"
+  },
+  "video_type_1": {
+    "message": "Ряд"
+  },
+  "video_type_2": {
+    "message": "Эпизод"
+  },
+  "runtime": {
+    "message": "Время выполнения"
+  },
+  "premiered": {
+    "message": "Премьера"
+  },
+  "premiere_in": {
+    "message": "Премьера внутри"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Страна"
+  },
+  "actors": {
+    "message": "Актеры"
+  },
+  "dvd": {
+    "message": "DVD"
+  },
+  "director": {
+    "message": "Директор"
+  },
+  "totalseasons": {
+    "message": "Всего сезона"
+  },
+  "writer": {
+    "message": "Писатель"
+  },
+  "language": {
+    "message": "Язык"
+  },
+  "awards": {
+    "message": "Награды"
+  },
+  "rated": {
+    "message": "Рейтинг"
+  },
+  "production": {
+    "message": "Производство"
+  },
+  "plot": {
+    "message": "Сюжет"
+  },
+  "website": {
+    "message": "Веб-сайт"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Визит $visit_imdb$ страницы"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Визит $visit_tvmaze$ страницы для этого шоу"
+  },
+  "make_favorite": {
+    "message": "Любимый"
+  },
+  "make_favorite_title": {
+    "message": "Добавить сериал в избранное. Это позволит вам получать уведомления о новых эпизодах."
+  },
+  "last_episode": {
+    "message": "Последний"
+  },
+  "next_episode": {
+    "message": "Следующий"
+  },
+  "last_episode_title": {
+    "message": "Последний эпизод"
+  },
+  "next_episode_title": {
+    "message": "Следующий эпизод"
+  },
+  "episode_airtime": {
+    "message": "Эфирное время"
+  },
+  "episode_name": {
+    "message": "Имя"
+  },
+  "series_status": {
+    "message": "Статус"
+  },
+  "episodes_count": {
+    "message": "Эпизоды"
+  },
+  "episodes_count_title": {
+    "message": "Текущий сезон $1 имеет $2 эпизоды"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "дни"
+  },
+  "hours": {
+    "message": "часы"
+  },
+  "na": {
+    "message": "Недоступен"
+  },
+  "user_rating": {
+    "message": "Рейтинг пользователя: $1"
+  },
+  "user_popularity": {
+    "message": "Популярность: $1 голосов"
+  },
+  "source": {
+    "message": "Источник: $1"
+  },
+  "show_details": {
+    "message": "более..."
+  },
+  "hide_details": {
+    "message": "меньше..."
+  },
+  "save_position": {
+    "message": "Сохранить положение"
+  },
+  "revert_position": {
+    "message": "Вернуть позицию"
+  },
+  "win_disable": {
+    "message": "Отключить на $1"
+  },
+  "cm_advanced": {
+    "message": "Передовой"
+  },
+  "op_visit_home": {
+    "message": "Домашняя страница"
+  },
+  "op_support_me": {
+    "message": "Помочь проекту"
+  },
+  "hide": {
+    "message": "Скрыть окно"
+  },
+  "show": {
+    "message": "Витрина"
+  },
+  "reset_position": {
+    "message": "Сброс позиции"
+  },
+  "search": {
+    "message": "Поиск"
+  },
+  "configure_search": {
+    "message": "Настроить параметры поиска"
+  },
+  "selection_search": {
+    "message": "Поиск $1."
+  },
+  "menu_options": {
+    "message": "Настройки"
+  },
+  "menu_quick_options": {
+    "message": "Быстрые настройки"
+  },
+  "menu_visit_homepage": {
+    "message": "Домашняя страница"
+  },
+  "menu_request_support": {
+    "message": "Запрос поддержки $1"
+  },
+  "show_introduction": {
+    "message": "Показать страницу введения"
+  },
+  "o_about_issues": {
+    "message": "Сообщить о проблеме:"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "firefox_store": {
+    "message": "Страница дополнений Firefox"
+  },
+  "chrome_store": {
+    "message": "Страница магазина Chrome"
+  },
+  "movie_not_detected": {
+    "message": "Фильм не обнаружен"
+  },
+  "movie_not_detected_title": {
+    "message": "На этой странице нет фильма / телевизоров не было обнаружено на этой странице."
+  },
+  "movie_not_found": {
+    "message": "Фильм не найден"
+  },
+  "movie_not_found_title": {
+    "message": "Информация о фильме не была найдена на сервере."
+  },
+  "status_type_0": {
+    "message": "Бег"
+  },
+  "status_type_1": {
+    "message": "Заканчивается"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Показать будет продолжаться"
+  },
+  "status_type_title_1": {
+    "message": "Шоу закончилось - больше не планировалось сезона"
+  },
+  "status_type_title_2": {
+    "message": "Показывает будущее неясно"
+  },
+  "notify_movie_not_found": {
+    "message": "Фильм не найден: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Используйте только имя английского фильма!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Поиск не идеально ..."
+  },
+  "notify_video_hide": {
+    "message": "Видео обнаружено - $app_name$ теперь скрыт"
+  },
+  "notify_video_hide_body": {
+    "message": "Нажмите здесь, чтобы не показать это уведомление снова"
+  },
+  "notify_new_episodes": {
+    "message": "Новый эпизод был передан"
+  },
+  "title_introduction": {
+    "message": "Знакомство"
+  },
+  "supported_pages": {
+    "message": "Поддерживаемые страницы:"
+  },
+  "supported_grows": {
+    "message": "(Этот список растет больше и больше)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Рейтинги и информация о популярности из $1$. Информация о эпизодах из $2$."
+  },
+  "title_got_it": {
+    "message": "Понятно, начинаем!"
+  },
+  "_description_privacy_policy": {
+    "message": "Политика конфиденциальности"
+  },
+  "_description_recent_features": {
+    "message": "Недавно добавленные функции:"
+  },
+  "_description_known_issues": {
+    "message": "Известные проблемы:"
+  },
+  "_description_common_tags": {
+    "message": "Теги:"
+  },
+  "_description_features": {
+    "message": "Функции:"
+  },
+  "about_me": {
+    "message": "Я разработчик расширений с 2016 года. Моя цель - создание качественных расширений для браузера, которые сделают Вашу работу продуктивнее."
+  },
+  "about_good_job": {
+    "message": "Если вы думаете, что я делаю хорошую работу, пожалуйста, пожертвовайте :)"
+  },
+  "about_income": {
+    "message": "Ваше пожертвование - мой единственный доход!"
+  },
+  "about_thanks": {
+    "message": "Спасибо за поддержку моей работы!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Банковский перевод с использованием IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Поддержите независимого разработчика!"
+  }
+}

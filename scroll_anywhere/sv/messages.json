@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "var som helst, knapp, markör, dra, gripa, ta tag i, ta tag och dra, oändlig, vänster, mitt, momentum, mus, flytta, sida, höger, bläddra, bläddra sida, rullningsfält, rulla, kasta"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Dra rullningslisten med din mittmusknapp var som helst på sidan. Stöder även \"ta och dra\" och rörelsemängd."
+  },
+  "field_int_default_value": {
+    "message": "Standardvärde: $1, min: $2, max: $3"
+  },
+  "field_set_default": {
+    "message": "Återställ till standard: $1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-ons"
+  },
+  "firefox_store": {
+    "message": "Firefox tilläggssida"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store-sidan"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "win_disable": {
+    "message": "Inaktiverad på $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Inaktivera horisontell rullning på $1"
+  },
+  "op_visit_home": {
+    "message": "Besök hemsidan"
+  },
+  "op_support_me": {
+    "message": "Hjälp det här projektet"
+  },
+  "o_title": {
+    "message": "Alternativ - $1"
+  },
+  "o_tab_general": {
+    "message": "Allmänt"
+  },
+  "o_tab_momentum": {
+    "message": "Rörelsemängd"
+  },
+  "o_tab_cursor": {
+    "message": "Markör"
+  },
+  "o_axis_locking": {
+    "message": "Axis låsning"
+  },
+  "o_tab_performance": {
+    "message": "Prestanda"
+  },
+  "o_tab_disabled_on": {
+    "message": "Inaktiverad på"
+  },
+  "o_tab_advanced": {
+    "message": "Avancerat"
+  },
+  "o_tab_scrollbars": {
+    "message": "Scrollster"
+  },
+  "o_tab_backup": {
+    "message": "Säkerhetskopia"
+  },
+  "o_tab_about": {
+    "message": "Om"
+  },
+  "o_axis_lock_helper": {
+    "message": "När du rullar en låda som är rullbar i en axel, men förälderlådan är rullbar i annan axel, lås rullning till en axel med:"
+  },
+  "o_axis_lock_0": {
+    "message": "Smart Lock - Temporal Lock med Momentum"
+  },
+  "o_axis_lock_1": {
+    "message": "Strikt lås - omedelbar riktningslås"
+  },
+  "o_axis_lock_2": {
+    "message": "Ingen låsfri rullning i båda axeln"
+  },
+  "o_trend_momentum_window": {
+    "message": "Smart Lock Stack storlek"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Större värde kräver mer bläddring i motsatt axel för att ändra rullningsaxeln."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon är inaktiverat! Klicka här för att aktivera."
+  },
+  "o_cursor_change_default": {
+    "message": "ingen ändring - bästa prestanda"
+  },
+  "o_scroll_button": {
+    "message": "Rullningsknapp:"
+  },
+  "o_direction_speed": {
+    "message": "Rullningsstil / riktning / hastighet:"
+  },
+  "o_multiplier": {
+    "message": "Multiplikator"
+  },
+  "o_times_speed": {
+    "message": "gånger rullhastighet"
+  },
+  "o_maximum_speed": {
+    "message": "Maximal rullhastighet (0 - inaktiverad):"
+  },
+  "o_ratio_unit": {
+    "message": "förhållande (sidlängd / fönsterstorlek)"
+  },
+  "o_scroll_type_0": {
+    "message": "Emulera rullningslist"
+  },
+  "o_scroll_type_1": {
+    "message": "Ta och dra - som på en smartmobil"
+  },
+  "o_scroll_type_2": {
+    "message": "Dynamisk hastighet (experimentell)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Det är som att dra en rullningslist"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Det är som att dra en sida med ditt finger på en telefonskärm"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Dynamisk hastighet gör rullhastigheten långsammare när sidan är längre"
+  },
+  "o_disable_key": {
+    "message": "Inaktivera / Aktivera rullning när tangent hålls nertryckt:"
+  },
+  "o_momentum_category": {
+    "message": "Rörelsemängd:"
+  },
+  "o_momentum_formula": {
+    "message": "Rörelseformel:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Likformig hastighetsmindskningsrörelse"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Sidrullning kommer att med jämn hastighet sänkas tills tills den stannar helt"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Exponentiellt decelererad rörelse"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Sidrullning kommer snabbt (exponentiellt) att sänkas"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Oändlig rörelse ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Rullningen kommer aldrig stanna"
+  },
+  "o_momentum_max_speed": {
+    "message": "Max hastighet (0 - inaktiverad):"
+  },
+  "o_page_weight": {
+    "message": "Sidvikt:"
+  },
+  "o_grams": {
+    "message": "gram :)"
+  },
+  "o_additional_speed": {
+    "message": "Ytterliggare hastighet:"
+  },
+  "o_pixels_second": {
+    "message": "pixlar per sekund"
+  },
+  "o_additional_duration": {
+    "message": "Ytterligare varaktighet:"
+  },
+  "o_advanced_momentum": {
+    "message": "Avancerad rörelsemängdinställning (endast för experter!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Ändras dessa värden kan rörelsemängden sluta fungera!"
+  },
+  "o_compute_from_last": {
+    "message": "Beräkna från sista:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Musstoppsdetektering:"
+  },
+  "o_tracking_speed": {
+    "message": "Spårhastighet:"
+  },
+  "o_reset_values": {
+    "message": "Återställ värden"
+  },
+  "o_cursor_scrolling": {
+    "message": "Markör som används när du rullar:"
+  },
+  "o_performance": {
+    "message": "Prestanda:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Förhindra stora hopp"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Om du använder verktyg som kan teleportera markören över skärmen (när du når en kant), gör det möjligt för det här alternativet att tillåta kontinuerlig (oändlig) rullning."
+  },
+  "o_advanced": {
+    "message": "Avancerat:"
+  },
+  "o_movement_detection": {
+    "message": "Detektionsgränsen för musrörelse:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Hur många pixlar måste musen flytta sig för att blockera länkar. Ibland när du trycker på rullningsknappen flyttar du musen litegrann, men du vill inte att länken ska inaktiveras på grund av det."
+  },
+  "o_context_menu_block": {
+    "message": "Kontextmenyblock:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Avblockera kontextmenynsfördröjning"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Om du ser kontextmenyn efter att ha rullat med höger musknapp, öka detta värde"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Inaktivera horisontell rullning på domäner:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Inaktiverad på domäner:"
+  },
+  "o_is_disabled_url": {
+    "message": "Inaktiverad på sidor / undersidor:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Du kan använda en asterisk (*) för att definiera en del av en webbadress, till exempel: \"google.se/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Ange ett domän per rad."
+  },
+  "o_is_disabled": {
+    "message": "Inaktivera tillägg"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Använd verktygsfältikonen som huvudströmbrytare"
+  },
+  "o_scroll_button_middle": {
+    "message": "Mittknapp"
+  },
+  "o_scroll_button_right": {
+    "message": "Högerknapp"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux- / Mac-användare - du kommer att bli tillfrågan om en ny behörighet \"Läs och ändra webbläsarinställningar\" - detta krävs för att förhindra att innehållsmenyn visas före du rullar!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux- / Mac-användare - din innehållsmeny kommer att blockeras! För att öppna innehållsmenyn håller du knappen \"Skift\" nertryckt eller trippelklickar på högerknappen."
+  },
+  "o_scroll_button_left": {
+    "message": "Vänsterknapp (experimentell)"
+  },
+  "o_scroll_on_links": {
+    "message": "Rulla på länkar"
+  },
+  "o_scroll_on_links_title": {
+    "message": "När detta är aktiverat kommer du inte att kunna dra och släppa länkar (endast om \"Inaktivera\"-tangenten används)"
+  },
+  "o_scroll_on_text": {
+    "message": "Bläddra på text"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emulerar telefonrullning / redigering - du måste klicka på text för att byta till \"redigeringsläge\". Att klicka utanför texten gör det möjligt att rulla igen."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Bläddra på TextArea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea är ett textblock, vanligtvis resizable. Till exempel på fliken \"Inaktiverad på\" kan du se TextArea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Bläddra på redigerbar HTML"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Till exempel är e-postkroppen i Gmail redigerbar HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "på texten aktiverar du att välja / redigera text."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Klicka på Texten aktiverar \"Redigera läge\". Klicka på Utanför text för att aktivera \"Scroll MODE\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Enkelklick"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Dubbelklicka"
+  },
+  "o_scrollbars_width": {
+    "message": "Scrollbars ser ut"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normal (ingen förändring)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Tunn"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Dold"
+  },
+  "o_scrollbars_color": {
+    "message": "Scrollbar Slider Färg:"
+  },
+  "o_scrollbars_background": {
+    "message": "Scrollbar bakgrundsfärg:"
+  },
+  "o_reverse": {
+    "message": "Omvänd rullningsriktning"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Skift"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl"
+  },
+  "o_disable_type_0": {
+    "message": "Inaktivera när tangent hålls nertryckt:"
+  },
+  "o_disable_type_1": {
+    "message": "Aktivera när tangent hålls nertryckt:"
+  },
+  "o_momentum": {
+    "message": "aktivera momentum - du kan \"kasta\" sidan (som på en pektelefon)"
+  },
+  "o_no_css_edit": {
+    "message": "Lås inte iframes och ändra inte markören när du rullar"
+  },
+  "o_no_prevent_default": {
+    "message": "Blockera inte standardknappsåtgärd"
+  },
+  "o_auto_link_lock": {
+    "message": "Link blockering:"
+  },
+  "o_no_link_block": {
+    "message": "Blockera inte musklick på länken efter rörelse"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "När du börjar rulla på en länk och du sedan slutar rulla på samma länk, då öppnar webbläsaren länken. Detta är vanligtvis inte ett önskat beteende så detta är blockerat som standard."
+  },
+  "o_page_weight_title": {
+    "message": "Detta kontrollerar hur \"tung\" sidan är. Tyngre sidor har längre rörelsemängd."
+  },
+  "o_additional_speed_title": {
+    "message": "Du kan accelerera hastigheten på rörelsemängden."
+  },
+  "o_additional_duration_title": {
+    "message": "Ytterliggare tid för varje rörelsemängd."
+  },
+  "o_compute_from_last_title": {
+    "message": "Rörelsemängdens initialhastighet avgörs av rullhastigheten precis innan du släpper rullknappen."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Hur mycket tid måste musen stå still - innan du släpper rullningsknappen - för att INTE aktivera rörelsemängd."
+  },
+  "o_tracking_speed_title": {
+    "message": "Intervall för mätning av aktuell rullhastighet."
+  },
+  "o_scrolling_area": {
+    "message": "Rullningsområde:"
+  },
+  "o_outside_area_width": {
+    "message": "Rullningsområde (0 - Inaktiverad):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Att flytta markören utanför rullningsområdet återgår rullningsläge. Samma beteende kan ses när man drar en rullningsfält."
+  },
+  "o_scroll_button_left_title": {
+    "message": "Varning - Vänster knappstöd använder vanligt Firefox-API som kan tas bort i framtida versioner av Firefox."
+  },
+  "o_prevent_text_selection": {
+    "message": "Förhindra att text markeras när du rullar med vänster knapp"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "På vissa enheter kommer texten att markeras när du använder vänster musknapp att rulla med."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Blockera inte innehållsmenyn när du försöker rulla på en icke-rullbar sida"
+  },
+  "o_backup_restore": {
+    "message": "Säkerhetskopiera / Återställ inställningar:"
+  },
+  "o_export_settings": {
+    "message": "Exportera inställningar till en fil"
+  },
+  "import_settings_button": {
+    "message": "Importera inställningar från filen $1 ..."
+  },
+  "import_finished": {
+    "message": "Importerad!"
+  },
+  "test_page_title": {
+    "message": "Testa dina rullningsinställningar här"
+  },
+  "menu_options": {
+    "message": "Alternativ"
+  },
+  "menu_visit_title": {
+    "message": "Besök hemsida"
+  },
+  "not_working": {
+    "message": "Inaktiverad av din webbläsare"
+  },
+  "disabled_by_user": {
+    "message": "Inaktiverad på den här domänen"
+  },
+  "not_working_title": {
+    "message": "Din webbläsare blockerar ScrollAnywhere på dessa typer av sidor:"
+  },
+  "not_working_body": {
+    "message": "För att aktivera ScrollAnywhere på sidor som \"mozilla.org\", titta på denna handledning på YouTube"
+  },
+  "show_scrollbars": {
+    "message": "Visa ScrollBars"
+  },
+  "show_scrollbars_title": {
+    "message": "Visa tillfälligt scrollBars"
+  },
+  "switch_on_off": {
+    "message": "Växla tillägget AV / PÅ"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Om du upplever märkbar fördröjning mellan att trycka på rullningsknappen och starta rullningen, försök aktivera det här alternativet. Du kommer dock inte att kunna rulla över \"iframes\" som en del gamla inbäddade videor eller annonser."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Detta kommer också att inaktivera alternativet att byta markör medan du bläddrar."
+  },
+  "o_helper_text_default_action": {
+    "message": "Användbar i Linux för att aktivera \"Klistra in\" med mittknappen."
+  },
+  "o_about_hello": {
+    "message": "Hej :)"
+  },
+  "o_about_intro": {
+    "message": "Jag heter Juraj Mäsiar och jag är skaparen av ScrollAnywhere."
+  },
+  "o_about_like_it": {
+    "message": "Om du gillar det, betygsätt gärna det här:"
+  },
+  "o_about_dislike_it": {
+    "message": "Om du inte gillar det, vill jag gärna att du skickar ett e-postmeddelande och talar om varför. Jag genomför de flesta av de funktionsförfrågningar jag får."
+  },
+  "o_disabled": {
+    "message": "inaktiverad",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "aktiverad",
+    "common": true
+  },
+  "o_times": {
+    "message": "gånger",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixlar",
+    "common": true
+  },
+  "o_items": {
+    "message": "objekt",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "millisekunder",
+    "common": true
+  },
+  "label_working": {
+    "message": "arbetar...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Stäng",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Stöd gärna mitt arbete genom",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donation (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "blir min Patron",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Tack!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "hem:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakta:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Rapportera problem:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Jag kan bara svara på Engelska / Slovakiska",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sociala medier:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Spara ändringar och stäng",
+    "common": true
+  },
+  "o_saved": {
+    "message": "sparad!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Kommer snart",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Spara ändringar",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Integritetspolicy",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Nyligen tillagda funktioner:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Taggar:",
+    "common": true
+  }
+}

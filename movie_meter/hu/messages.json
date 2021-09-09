@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "dátum, IMDB, leírás, epizód, nyomtáv, grafikon, IMDB, info, méter, film, film, filmek, netflix, imdb, értékelés, sorozat, show, TV, TV show, videó, vizuális, szavazatok, szezon"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "a film nem található / rossz film található - mivel nincs \"hivatalos\" integráció a céloldalakkal, nem garantálhatom 100% -os helyes eredményt (de az esetek többségében tökéletesen működik)"
+  },
+  "_description_mm_not_working": {
+    "message": "Nem működik a kedvenc filmoldalán?"
+  },
+  "_description_mm_add_support": {
+    "message": "Lépjen kapcsolatba velem, és hozzáadom - ha lehetséges (az oldalnak tartalmaznia kell a filmnevet angolul vagy $visit_imdb$ linket)."
+  },
+  "_description_mm_feature_1": {
+    "message": "movie minősítés és népszerűség a $visit_imdb$-tól"
+  },
+  "_description_mm_feature_2": {
+    "message": "következő / Előző epizód dátum a $visit_tvmaze$-tól"
+  },
+  "_description_mm_feature_3": {
+    "message": "további film / TV sorozat információ"
+  },
+  "_description_mm_feature_4": {
+    "message": "értesítés az új epizódról"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark TV sorozat, mint kedvenc, és értesítést kap, amikor új epizód áll rendelkezésre"
+  },
+  "_description_mm_feature_7": {
+    "message": "automatikus elrejtés, amikor a videó lejátszás észlelhető"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ Megjeleníti a film (vagy TV sorozat) értékelését és népszerűségét"
+  },
+  "name": {
+    "message": "Név"
+  },
+  "year": {
+    "message": "Év"
+  },
+  "video_type": {
+    "message": "Típus"
+  },
+  "video_type_0": {
+    "message": "Film"
+  },
+  "video_type_1": {
+    "message": "Sorozat"
+  },
+  "video_type_2": {
+    "message": "Epizód"
+  },
+  "runtime": {
+    "message": "Futási idő"
+  },
+  "premiered": {
+    "message": "Bemutató"
+  },
+  "premiere_in": {
+    "message": "Premier"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Ország"
+  },
+  "actors": {
+    "message": "Színészek"
+  },
+  "dvd": {
+    "message": "DVD"
+  },
+  "director": {
+    "message": "Rendező"
+  },
+  "totalseasons": {
+    "message": "Teljes évszakok"
+  },
+  "writer": {
+    "message": "Író"
+  },
+  "language": {
+    "message": "Nyelv"
+  },
+  "awards": {
+    "message": "Díjak"
+  },
+  "rated": {
+    "message": "Névleges"
+  },
+  "production": {
+    "message": "Termelés"
+  },
+  "plot": {
+    "message": "Cselekmény"
+  },
+  "website": {
+    "message": "Weboldal"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Látogasson el $visit_imdb$ oldalra"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Látogasson el a $visit_tvmaze$ oldalra"
+  },
+  "make_favorite": {
+    "message": "Kedvenc"
+  },
+  "make_favorite_title": {
+    "message": "TV-sorozat hozzáadása a kedvencekhez. Ez lehetővé teszi, hogy értesítést kapjon az új epizódokról."
+  },
+  "last_episode": {
+    "message": "Utolsó"
+  },
+  "next_episode": {
+    "message": "Következő"
+  },
+  "last_episode_title": {
+    "message": "Utolsó rész"
+  },
+  "next_episode_title": {
+    "message": "Következő rész"
+  },
+  "episode_airtime": {
+    "message": "Adásidő"
+  },
+  "episode_name": {
+    "message": "Név"
+  },
+  "series_status": {
+    "message": "Állapot"
+  },
+  "episodes_count": {
+    "message": "Epizódok"
+  },
+  "episodes_count_title": {
+    "message": "A $1 aktuális szezon $2 epizódok"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "napok"
+  },
+  "hours": {
+    "message": "órák"
+  },
+  "na": {
+    "message": "Nem elérhető"
+  },
+  "user_rating": {
+    "message": "Felhasználó értékelése: $1"
+  },
+  "user_popularity": {
+    "message": "Népszerűség: $1 szavazat"
+  },
+  "source": {
+    "message": "Forrás: $1"
+  },
+  "show_details": {
+    "message": "több..."
+  },
+  "hide_details": {
+    "message": "kevésbé..."
+  },
+  "save_position": {
+    "message": "Helymeghatározás"
+  },
+  "revert_position": {
+    "message": "Visszaállítja a helyzetet"
+  },
+  "win_disable": {
+    "message": "A $1 letiltása"
+  },
+  "cm_advanced": {
+    "message": "Fejlett"
+  },
+  "op_visit_home": {
+    "message": "Látogasson el a honlapra"
+  },
+  "op_support_me": {
+    "message": "Segítsen ezt a projektet"
+  },
+  "hide": {
+    "message": "Az ablak elrejtése"
+  },
+  "show": {
+    "message": "Az ablak megjelenítése"
+  },
+  "reset_position": {
+    "message": "Állítsa vissza a pozíciót"
+  },
+  "search": {
+    "message": "Keresés"
+  },
+  "configure_search": {
+    "message": "A keresési lehetőségek konfigurálása"
+  },
+  "selection_search": {
+    "message": "$1 keresés"
+  },
+  "menu_options": {
+    "message": "Opciók"
+  },
+  "menu_quick_options": {
+    "message": "Gyors opciók"
+  },
+  "menu_visit_homepage": {
+    "message": "Látogasson el a honlapra"
+  },
+  "menu_request_support": {
+    "message": "Kérjen támogatást a $1 számára"
+  },
+  "show_introduction": {
+    "message": "Bevezetés oldal megjelenítése"
+  },
+  "o_about_issues": {
+    "message": "Jelentés kérdések:"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "firefox_store": {
+    "message": "Firefox kiegészítők"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store"
+  },
+  "movie_not_detected": {
+    "message": "A film nem észlelhető"
+  },
+  "movie_not_detected_title": {
+    "message": "Ezen az oldalon nem volt film / TV sorozat."
+  },
+  "movie_not_found": {
+    "message": "A film nem található"
+  },
+  "movie_not_found_title": {
+    "message": "A film információ nem található meg a kiszolgálón."
+  },
+  "status_type_0": {
+    "message": "Futás"
+  },
+  "status_type_1": {
+    "message": "Vége lett"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "A megjelenítés folytatódik"
+  },
+  "status_type_title_1": {
+    "message": "Megjelenés véget ért - nincsenek több évszakok"
+  },
+  "status_type_title_2": {
+    "message": "A jövő nem világos"
+  },
+  "notify_movie_not_found": {
+    "message": "A film nem található: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Csak angol filmnevet használjon!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "A keresés nem tökéletes ..."
+  },
+  "notify_video_hide": {
+    "message": "A videó észlelt - $app_name$ most rejtve van"
+  },
+  "notify_video_hide_body": {
+    "message": "Kattintson ide, hogy ne mutassa meg ezt az értesítést"
+  },
+  "notify_new_episodes": {
+    "message": "Az új epizódot sugározta"
+  },
+  "title_introduction": {
+    "message": "Bevezetés"
+  },
+  "supported_pages": {
+    "message": "Támogatott oldalak:"
+  },
+  "supported_grows": {
+    "message": "(Ez a lista nagyobb és nagyobb)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "A minősítések és a népszerűségi információk a $1$-ból származnak. Az epizódokkal kapcsolatos információk a $2$-ből származnak."
+  },
+  "title_got_it": {
+    "message": "Megvan, kezdjük!"
+  },
+  "_description_privacy_policy": {
+    "message": "Adatvédelmi irányelvek"
+  },
+  "_description_recent_features": {
+    "message": "Nemrégiben hozzáadott funkciók:"
+  },
+  "_description_known_issues": {
+    "message": "Ismert problémák:"
+  },
+  "_description_common_tags": {
+    "message": "Címkék:"
+  },
+  "_description_features": {
+    "message": "Jellemzők:"
+  },
+  "about_me": {
+    "message": "2016 óta addon fejlesztő vagyok. Célom, hogy erőteljes kiterjesztéseket építsen az internetes böngésző számára, hogy bővebbé váljon."
+  },
+  "about_good_job": {
+    "message": "Ha úgy gondolja, hogy jó munkát végezek, kérlek adjunk :)"
+  },
+  "about_income": {
+    "message": "Az Ön adománya az egyetlen jövedelem!"
+  },
+  "about_thanks": {
+    "message": "Köszönjük, hogy támogatta a munkámat!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Banki átutalás az iban használatával:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Támogatja a független fejlesztőt!"
+  }
+}

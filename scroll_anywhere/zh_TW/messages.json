@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "隨時隨地，按鈕，光標，拖動，抓取，抓住拖動，抓住和拖動，無限，左，中間，勢頭，鼠標，移動，頁面，右，滾動，滾動頁面，滾動條，滾動，扔"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "在頁面上的任何位置，使用中鼠標按鈕拖動滾動條。 支持“抓住並拖動”風格。"
+  },
+  "field_int_default_value": {
+    "message": "預設值： $1，最小： $2，最大： $3"
+  },
+  "field_set_default": {
+    "message": "重設為預設值：$1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird附加組件"
+  },
+  "firefox_store": {
+    "message": "Firefox 附加元件頁面"
+  },
+  "chrome_store": {
+    "message": "Chrome 線上應用程式商店頁面"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "win_disable": {
+    "message": "禁用$1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "在$1上禁用水平滾動"
+  },
+  "op_visit_home": {
+    "message": "造訪首頁"
+  },
+  "op_support_me": {
+    "message": "協助此專案"
+  },
+  "o_title": {
+    "message": "選項 - $1"
+  },
+  "o_tab_general": {
+    "message": "一般"
+  },
+  "o_tab_momentum": {
+    "message": "勢頭"
+  },
+  "o_tab_cursor": {
+    "message": "光標"
+  },
+  "o_axis_locking": {
+    "message": "軸鎖定"
+  },
+  "o_tab_performance": {
+    "message": "表現"
+  },
+  "o_tab_disabled_on": {
+    "message": "殘疾人士"
+  },
+  "o_tab_advanced": {
+    "message": "先進的"
+  },
+  "o_tab_scrollbars": {
+    "message": "滾動欄"
+  },
+  "o_tab_backup": {
+    "message": "導入/備份"
+  },
+  "o_tab_about": {
+    "message": "關於"
+  },
+  "o_axis_lock_helper": {
+    "message": "滾動在一個軸上滾動的框，但父框在其他軸中可滾動，請使用以下鎖定到一個軸："
+  },
+  "o_axis_lock_0": {
+    "message": "智能鎖 - 使用動量的時間鎖"
+  },
+  "o_axis_lock_1": {
+    "message": "嚴格鎖定 - 即時方向鎖"
+  },
+  "o_axis_lock_2": {
+    "message": "在兩個軸上沒有鎖定滾動"
+  },
+  "o_trend_momentum_window": {
+    "message": "智能鎖定堆棧大小"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "較大的值將需要在相對的軸上滾動更多以更改滾動軸。"
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon被禁用！ 單擊此處啟用。"
+  },
+  "o_cursor_change_default": {
+    "message": "沒有變化 - 最佳性能"
+  },
+  "o_scroll_button": {
+    "message": "滾動按鈕："
+  },
+  "o_direction_speed": {
+    "message": "滾動樣式/方向/速度："
+  },
+  "o_multiplier": {
+    "message": "乘數"
+  },
+  "o_times_speed": {
+    "message": "時報滾動速度"
+  },
+  "o_maximum_speed": {
+    "message": "最大滾動速度（0  - 禁用）："
+  },
+  "o_ratio_unit": {
+    "message": "比率（頁面長度/窗口大小）"
+  },
+  "o_scroll_type_0": {
+    "message": "模擬滾動條"
+  },
+  "o_scroll_type_1": {
+    "message": "抓住和拖動 - 就像在智能手機上"
+  },
+  "o_scroll_type_2": {
+    "message": "動態速度（實驗）"
+  },
+  "o_scroll_type_title_0": {
+    "message": "這就像拖動滾動條"
+  },
+  "o_scroll_type_title_1": {
+    "message": "這就像用手指在電話屏幕上拖動一頁"
+  },
+  "o_scroll_type_title_2": {
+    "message": "動態速度使滾動速度較慢，頁面更長"
+  },
+  "o_disable_key": {
+    "message": "鍵關閉時禁用/啟用滾動："
+  },
+  "o_momentum_category": {
+    "message": "勢頭："
+  },
+  "o_momentum_formula": {
+    "message": "勢頭公式："
+  },
+  "o_momentum_formula_type_0": {
+    "message": "均勻減速運動"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "頁面滾動將均勻減速，直到它停止"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "指數逐漸減速的運動"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "頁面滾動將迅速（呈指數增長）減速"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "無限運動∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "滾動永遠不會停止"
+  },
+  "o_momentum_max_speed": {
+    "message": "最大速度（0  - 禁用）："
+  },
+  "o_page_weight": {
+    "message": "頁面重量："
+  },
+  "o_grams": {
+    "message": "克:)"
+  },
+  "o_additional_speed": {
+    "message": "額外速度："
+  },
+  "o_pixels_second": {
+    "message": "每秒像素"
+  },
+  "o_additional_duration": {
+    "message": "額外持續時間："
+  },
+  "o_advanced_momentum": {
+    "message": "高級勢頭設置（僅適用於專家！）："
+  },
+  "o_advanced_momentum_title": {
+    "message": "改變這些價值可以打破你的勢頭！"
+  },
+  "o_compute_from_last": {
+    "message": "從上次計算："
+  },
+  "o_mouse_stop_detection": {
+    "message": "鼠標停止檢測："
+  },
+  "o_tracking_speed": {
+    "message": "跟踪速度："
+  },
+  "o_reset_values": {
+    "message": "重置值"
+  },
+  "o_cursor_scrolling": {
+    "message": "滾動時使用的光標："
+  },
+  "o_performance": {
+    "message": "表現："
+  },
+  "o_prevent_big_jumps": {
+    "message": "防止大跳躍"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "如果您使用的工具可以在屏幕上傳輸光標（當您到達邊緣時），請啟用此選項以允許連續（無限）滾動。"
+  },
+  "o_advanced": {
+    "message": "先進的："
+  },
+  "o_movement_detection": {
+    "message": "鼠標運動檢測閾值："
+  },
+  "o_helper_text_move_detection": {
+    "message": "鼠標移動到塊鏈路的數量有多少像素。 有時在按下滾動按鈕時，將稍微移動鼠標，但由於此，您不希望鏈接被禁用。"
+  },
+  "o_context_menu_block": {
+    "message": "上下文菜單塊："
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "取消阻止上下文菜單延遲"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "如果在使用鼠標右鍵滾動後看到上下文菜單，請提高此值"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "在域上禁用水平滾動："
+  },
+  "o_is_disabled_domains": {
+    "message": "在域上禁用："
+  },
+  "o_is_disabled_url": {
+    "message": "在頁面/子頁面上禁用："
+  },
+  "o_is_disabled_url_help": {
+    "message": "您可以使用Star符號（*）來定義URL部分，例如：“Google.com/maps*”"
+  },
+  "o_is_disabled_domain_help": {
+    "message": "每行輸入一個域。"
+  },
+  "o_is_disabled": {
+    "message": "禁用附加"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "使用工具欄圖標作為主開/關開關"
+  },
+  "o_scroll_button_middle": {
+    "message": "中間按鈕"
+  },
+  "o_scroll_button_right": {
+    "message": "右按鈕"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Mac用戶 - 將提示您輸入新的權限“讀取和修改瀏覽器設置” - 這是抑制在滾動之前所顯示的上下文菜單所必需的！"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac用戶 - 您的上下文菜單將被阻止！ 要打開上下文菜單，請按住“Shift”鍵或三擊右鍵。"
+  },
+  "o_scroll_button_left": {
+    "message": "左按鈕（實驗）"
+  },
+  "o_scroll_on_links": {
+    "message": "滾動鏈接"
+  },
+  "o_scroll_on_links_title": {
+    "message": "啟用後，您將無法拖放鏈接（僅使用“禁用”鍵）"
+  },
+  "o_scroll_on_text": {
+    "message": "滾動在文本上"
+  },
+  "o_scroll_on_text_title": {
+    "message": "模擬電話滾動/編輯 - 您需要單擊文本以切換到“編輯模式”。 單擊文本之外允許再次滾動。"
+  },
+  "o_scroll_on_textarea": {
+    "message": "滾動textarea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea是一塊文本，通常可調整大小。 例如，在“禁用”標籤上，您可以看到TextArea。"
+  },
+  "o_scroll_on_editable_html": {
+    "message": "滾動可編輯的HTML"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "例如Gmail中的電子郵件正文是可編輯的HTML。"
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "文本上將啟用選擇/編輯文本。"
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "單擊文本將啟用“編輯模式”。 單擊外部文本以啟用“滾動模式”。"
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "單擊"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "雙擊"
+  },
+  "o_scrollbars_width": {
+    "message": "滾動條看"
+  },
+  "o_scrollbars_width_0": {
+    "message": "正常（沒有變化）"
+  },
+  "o_scrollbars_width_1": {
+    "message": "瘦"
+  },
+  "o_scrollbars_width_2": {
+    "message": "隱"
+  },
+  "o_scrollbars_color": {
+    "message": "滾動欄滑塊顏色："
+  },
+  "o_scrollbars_background": {
+    "message": "滾動欄背景顏色："
+  },
+  "o_reverse": {
+    "message": "反向滾動方向"
+  },
+  "o_disable_alt": {
+    "message": "Alt."
+  },
+  "o_disable_shift": {
+    "message": "轉移"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl."
+  },
+  "o_disable_type_0": {
+    "message": "當鍵關閉時禁用："
+  },
+  "o_disable_type_1": {
+    "message": "啟用鍵關閉時："
+  },
+  "o_momentum": {
+    "message": "啟用勢頭 - 您可以“拋出”頁面（如手機上）"
+  },
+  "o_no_css_edit": {
+    "message": "不要鎖定iframe，不要在滾動時更改光標"
+  },
+  "o_no_prevent_default": {
+    "message": "不要阻止默認按鈕操作"
+  },
+  "o_auto_link_lock": {
+    "message": "鏈接阻止："
+  },
+  "o_no_link_block": {
+    "message": "移動後不要阻止鼠標點擊鏈接"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "當您在鏈接上開始滾動然後在同一鏈接上完成滾動時，瀏覽器將打開鏈接。 這通常不是所需的行為，所以默認情況下它被阻止了。"
+  },
+  "o_page_weight_title": {
+    "message": "這控制了頁面的“重”如何。 較重的頁面具有較長的動力。"
+  },
+  "o_additional_speed_title": {
+    "message": "您可以加速勢頭速度。"
+  },
+  "o_additional_duration_title": {
+    "message": "每個勢頭的額外時間。"
+  },
+  "o_compute_from_last_title": {
+    "message": "在釋放滾動按鈕之前，通過滾動速度確定動量初始速度。"
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "在釋放滾動按鈕之前，鼠標靜止仍然需要多長時間 - 不要激活動量。"
+  },
+  "o_tracking_speed_title": {
+    "message": "測量當前滾動速度的間隔。"
+  },
+  "o_scrolling_area": {
+    "message": "滾動區域："
+  },
+  "o_outside_area_width": {
+    "message": "滾動區域（0  - 禁用）："
+  },
+  "o_outside_area_width_helper": {
+    "message": "將光標移動到滾動區域外將恢復滾動位置。 拖動滾動條時可以看到相同的行為。"
+  },
+  "o_scroll_button_left_title": {
+    "message": "警告 - 左鍵按鈕支持使用已棄用的Firefox API，可以在Firefox的未來版本中刪除。"
+  },
+  "o_prevent_text_selection": {
+    "message": "使用左按鈕滾動時防止文本選擇"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "在某些設備上，使用鼠標左鍵滾動還將在頁面上選擇文本。"
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "嘗試滾動不可滾動頁面時不要阻止上下文菜單"
+  },
+  "o_backup_restore": {
+    "message": "備份/還原設置到文件："
+  },
+  "o_export_settings": {
+    "message": "將設置導出到文件"
+  },
+  "import_settings_button": {
+    "message": "從$1文件導入設置..."
+  },
+  "import_finished": {
+    "message": "匯入已結束！"
+  },
+  "test_page_title": {
+    "message": "在此測試您的滾動設置"
+  },
+  "menu_options": {
+    "message": "選項"
+  },
+  "menu_visit_title": {
+    "message": "造訪首頁"
+  },
+  "not_working": {
+    "message": "由您的Web瀏覽器禁用"
+  },
+  "disabled_by_user": {
+    "message": "禁用此域名"
+  },
+  "not_working_title": {
+    "message": "您的瀏覽器將阻止這些頁面上的ScrollAnywhere："
+  },
+  "not_working_body": {
+    "message": "要在“Mozilla.org”頁面上啟用ScrollAnywhere，請參閱此YouTube教程"
+  },
+  "show_scrollbars": {
+    "message": "顯示Scrollbars."
+  },
+  "show_scrollbars_title": {
+    "message": "暫時顯示滾動欄"
+  },
+  "switch_on_off": {
+    "message": "切換加蓋/上"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "如果在按滾動按鈕和啟動滾動之間遇到明顯的延遲，請嘗試啟用此選項。 但是，您將無法滾動超過“iframes”，例如一些舊的嵌入視頻或一些廣告。"
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "這也將禁用選項以在滾動時更改光標。"
+  },
+  "o_helper_text_default_action": {
+    "message": "有用於Linux，以使粘貼中間按鈕。"
+  },
+  "o_about_hello": {
+    "message": "您好 :)"
+  },
+  "o_about_intro": {
+    "message": "我的名字是$1$，我是$app_name$的作者。"
+  },
+  "o_about_like_it": {
+    "message": "若您喜歡它，請在此評分："
+  },
+  "o_about_dislike_it": {
+    "message": "如果您不喜歡它，請寄信到我的電子郵件信箱讓我知道為什麼。我會實作更多我收到的功能請求。"
+  },
+  "o_disabled": {
+    "message": "已停用",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "已啟用",
+    "common": true
+  },
+  "o_times": {
+    "message": "時代",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "像素",
+    "common": true
+  },
+  "o_items": {
+    "message": "項目",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "毫秒",
+    "common": true
+  },
+  "label_working": {
+    "message": "在職的...",
+    "common": true
+  },
+  "label_close": {
+    "message": "關閉",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "請考慮支援我的作品，透過：",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "捐款 (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "成為我的 Patron",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "謝謝！",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "家：",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "聯絡：",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "回報問題：",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "我只會以英文／斯洛伐克文回覆",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "社群媒體：",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "儲存變更並關閉",
+    "common": true
+  },
+  "o_saved": {
+    "message": "已儲存！",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "即將推出",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "保存更改",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "隱私政策",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "最近添加的功能：",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "標籤：",
+    "common": true
+  }
+}

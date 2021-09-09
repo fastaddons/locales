@@ -1,0 +1,2543 @@
+{
+  "app_name": {
+    "message": "Group Speed Dial"
+  },
+  "app_desc": {
+    "message": "供喜好自定义的用户使用的快速拨号（又称可视化书签）。且可跨设备免费云同步。没有广告！"
+  },
+  "welcome_header": {
+    "message": "欢迎使用 $app_name$ 附加组件"
+  },
+  "welcome_setup": {
+    "message": ""
+  },
+  "welcome_watch_video": {
+    "message": "观看简短的介绍视频 (1:50) 以查看几个主要功能。"
+  },
+  "welcome_watch_android_video": {
+    "message": "观看 Android 设置视频"
+  },
+  "welcome_home_group": {
+    "message": "目前的“群组首页”有 4 x 3 个快速拨号，您可以在此变更："
+  },
+  "welcome_import_josep_del_rio": {
+    "message": "这是从“Speed Dial by Josep del Rio”而来的重要功能，其他的在选项中："
+  },
+  "welcome_options_page": {
+    "message": "选项页面"
+  },
+  "welcome_pick_color": {
+    "message": "挑选您想要使用的主题色："
+  },
+  "welcome_visuals": {
+    "message": "有关更多选项，请访问“选项”页面"
+  },
+  "import_settings_button": {
+    "message": "导入设置与快速拨号..."
+  },
+  "import_josep_button": {
+    "message": "导入“CurrentSettings.speeddial”文件..."
+  },
+  "import_firefox_button": {
+    "message": "导入“bookmarks-2017-XX-XX.json”文件..."
+  },
+  "import_fast_dial_button": {
+    "message": "导入“fastdial.json”文件..."
+  },
+  "import_super_start_button": {
+    "message": "导入“sites.v1.json”文件..."
+  },
+  "import_speed_dial_2_button": {
+    "message": "导入“any_name”文件..."
+  },
+  "import_done_text": {
+    "message": "已导入外部快速拨号"
+  },
+  "import_skip": {
+    "message": "暂不导入"
+  },
+  "import_pages_stats": {
+    "message": "在 $2 群组导入 $1 个页面"
+  },
+  "import_data_from": {
+    "message": "从下列地方导入数据："
+  },
+  "load_bookmarks": {
+    "message": "加载书签"
+  },
+  "load_top_pages": {
+    "message": "加载最常访问网页"
+  },
+  "group_generated_name": {
+    "message": "群组 $1"
+  },
+  "default_home_group_name": {
+    "message": "群组首页"
+  },
+  "drag_group_hover_open": {
+    "message": "打开群组"
+  },
+  "replace_dial": {
+    "message": "取代快速拨号"
+  },
+  "replace_duplicate_dial": {
+    "message": ""
+  },
+  "create_multi_page_dial": {
+    "message": ""
+  },
+  "replace_multi_page_dial": {
+    "message": ""
+  },
+  "msg_pro_cloud_upload": {
+    "message": "正在上传缩略图到云端，这让您可以看到它们在"
+  },
+  "msg_pro_cloud_web": {
+    "message": "云端快速拨号网页"
+  },
+  "msg_pro_cloud_web_desc": {
+    "message": "云端版本目前无法编辑，但它在每个浏览器都能正常工作，甚至在您的手机上也可以！"
+  },
+  "msg_pro_same_thumbnails": {
+    "message": "现在您在每个设备上都有相同的缩略图了！"
+  },
+  "msg_pro_thumbnails_download": {
+    "message": "这将会从云端下载您上传的所有缩略图并覆盖您目前本地的缩略图。"
+  },
+  "msg_correct_account": {
+    "message": "请访问云端服务器并确保您已登录正确的账号："
+  },
+  "msg_replace_text": {
+    "message": "或者您也可以覆盖您本地的快速拨号。"
+  },
+  "url_search": {
+    "message": ""
+  },
+  "msg_search_by": {
+    "message": "搜索使用："
+  },
+  "msg_search_tip": {
+    "message": "小技巧：添加注释到快速拨号中以便搜索"
+  },
+  "msg_search_url": {
+    "message": "URL"
+  },
+  "msg_search_name": {
+    "message": "名称"
+  },
+  "msg_search_note": {
+    "message": "注释"
+  },
+  "msg_add_dial_text": {
+    "message": "您也可以在群组之间到处看看，移动或移除快速拨号。"
+  },
+  "msg_add_dial_no_show": {
+    "message": "不再显示"
+  },
+  "msg_add_dials_here": {
+    "message": "插入到空快速拨号"
+  },
+  "add_target_dial": {
+    "message": "选取页面要放置的目标空快速拨号："
+  },
+  "add_target_dials": {
+    "message": ""
+  },
+  "add_image": {
+    "message": "插入图片"
+  },
+  "bc_first_group": {
+    "message": "首个群组已创建"
+  },
+  "show_all_groups": {
+    "message": "显示所有群组"
+  },
+  "fr_home_group": {
+    "message": "群组首页"
+  },
+  "err_db_settings_loading": {
+    "message": "加载设置与数据库时出错"
+  },
+  "err_db_creation": {
+    "message": "在创建数据库时出错"
+  },
+  "err_db_loading": {
+    "message": "加载数据库时出错"
+  },
+  "err_db_images": {
+    "message": "从数据库获取图片时出错"
+  },
+  "sync_synced_ok": {
+    "message": "已与服务器同步"
+  },
+  "sync_working": {
+    "message": "正在处理..."
+  },
+  "sync_syncing": {
+    "message": "正在同步..."
+  },
+  "sync_synced": {
+    "message": "已同步"
+  },
+  "sync_sync_ok": {
+    "message": "同步成功"
+  },
+  "sync_err_label": {
+    "message": "错误 $1 - 稍后再试"
+  },
+  "sync_err_conflict": {
+    "message": "冲突"
+  },
+  "sync_err_server_newer": {
+    "message": "服务器有较新的版本"
+  },
+  "sync_err_user_mismatch_": {
+    "message": "用户不符合"
+  },
+  "sync_err_wrong_account": {
+    "message": "您的版本属于不同的账号。"
+  },
+  "sync_err_not_empty": {
+    "message": "错误 - 不为空"
+  },
+  "sync_err_server_not_empty": {
+    "message": "服务器已有相同数据。"
+  },
+  "sync_err_forbidden": {
+    "message": "您无法访问此资源"
+  },
+  "sync_downloading": {
+    "message": "正在下载..."
+  },
+  "sync_down_thumbnails": {
+    "message": "正在下载缩略图"
+  },
+  "sync_down_thumbnails_progress": {
+    "message": "正在下载 $1/$2"
+  },
+  "sync_down_thumbnails_wait": {
+    "message": "正在下载缩略图，请稍候"
+  },
+  "sync_up": {
+    "message": "正在上传..."
+  },
+  "sync_up_sync_thumbnails": {
+    "message": "正在同步缩略图... 正在准备上传"
+  },
+  "sync_up_progress": {
+    "message": "正在上传 $1/$2"
+  },
+  "sync_up_wait": {
+    "message": "正在上传缩略图，请稍候"
+  },
+  "sync_thumbnails_progress": {
+    "message": "正在同步缩略图... $1/$2"
+  },
+  "add_page": {
+    "message": "添加此页面到快速拨号中"
+  },
+  "add_dial": {
+    "message": "添加此标签页到快速拨号中"
+  },
+  "add_link": {
+    "message": "添加此链接到快速拨号"
+  },
+  "use_image_as_thumbnail": {
+    "message": "使用此图片作为快速拨号缩略图"
+  },
+  "cm_choose_dial": {
+    "message": "选择目标快速拨号"
+  },
+  "return_to_tab": {
+    "message": ""
+  },
+  "stay_here": {
+    "message": "留在此处"
+  },
+  "close_added_pages": {
+    "message": ""
+  },
+  "close_this_tab": {
+    "message": ""
+  },
+  "group_first_created": {
+    "message": "第一个群组已创建"
+  },
+  "privacy_info_head": {
+    "message": "此附加组件让您可使用在 $1 的云端服务器备份与同步您的快速拨号"
+  },
+  "privacy_info_body_1": {
+    "message": "如果您创建了云端账号，您的快速拨号将会与此服务器同步。这些数据仅包含有关您的拨号的基本信息（由您输入的），如名称、URL等等。没有跟踪数据更没有统计！"
+  },
+  "privacy_info_body_2": {
+    "message": "没有云端账号时，此附加组件不会对任何服务器发出任何请求。如果您启用了从 Google 服务下载网站图标的选项（在选项页面），则将会对 Google 的服务器发出请求以下载网站图标。对可选云端相关服务的使用（如公共媒体库的缩略图）也会对云端服务器发出请求。这些请求不会包含任何私人信息。"
+  },
+  "field_size_range": {
+    "message": "值须在 $1 到 $2 间"
+  },
+  "field_zoom_range": {
+    "message": "缩放须在 $1 到 $2 间"
+  },
+  "field_scale_range": {
+    "message": "尺寸比例必须在 $1 到 $2 间"
+  },
+  "field_out_of_range": {
+    "message": "超出范围"
+  },
+  "file_load_label": {
+    "message": "从文件加载..."
+  },
+  "file_loaded_name": {
+    "message": "已加载文件：$1"
+  },
+  "image_err_loading": {
+    "message": "加载图片时出错"
+  },
+  "field_hours_range": {
+    "message": "小时必须在 $1 到 $2 间"
+  },
+  "field_minutes_range": {
+    "message": "分钟必须在 $1 到 $2 间"
+  },
+  "field_columns_range": {
+    "message": "列数必须在 $1 到 $2 间"
+  },
+  "field_rows_range": {
+    "message": "行数必须在 $1 到 $2 间"
+  },
+  "validation_url": {
+    "message": "请输入有效的 URL（链接）"
+  },
+  "save_dial_edited": {
+    "message": "快速拨号已编辑 - $1"
+  },
+  "save_dials_added_to_group": {
+    "message": "多个快速拨号被添加至群组 - $1"
+  },
+  "save_dial_moved": {
+    "message": "快速拨号已移动 - $1"
+  },
+  "save_dial_resized": {
+    "message": ""
+  },
+  "save_group_rc_color": {
+    "message": "已更改群组行/列颜色"
+  },
+  "save_group_moved": {
+    "message": "群组已移动 - 群组：$1"
+  },
+  "save_dial_names_saved": {
+    "message": "新快速拨号名称已保存 - $1"
+  },
+  "save_dials_sorted": {
+    "message": ""
+  },
+  "save_thumbnail_uploaded": {
+    "message": "缩略图已上传 - $1"
+  },
+  "save_public_thumbnail_uploaded": {
+    "message": "公共缩略图已上传 -$1"
+  },
+  "save_productivity_selection_changed": {
+    "message": ""
+  },
+  "err_db_err_title": {
+    "message": "出错 :("
+  },
+  "save_dial_removed": {
+    "message": "快速拨号已移除 - $1"
+  },
+  "field_position_range": {
+    "message": "群组的位置必须在 $1 与 $2 间"
+  },
+  "field_ratio_x_range": {
+    "message": "X 比例必须在 $1 到 $2 间"
+  },
+  "field_ratio_y_range": {
+    "message": "Y 比例必须在 $1 到 $2 间"
+  },
+  "validation_small_group_dimensions": {
+    "message": "这个群组已经有 $1 个快速拨号。请使用更多行列，这样才放得下。"
+  },
+  "save_group_edited": {
+    "message": "群组已编辑 - 群组：$1"
+  },
+  "group_delete_title": {
+    "message": "正在删除群组“$1”与其拨号"
+  },
+  "group_delete_body": {
+    "message": "您确定要删除群组及其所有的拨号？"
+  },
+  "group_delete_yes": {
+    "message": "是"
+  },
+  "group_delete_no": {
+    "message": "不，不要删除"
+  },
+  "save_group_deleted": {
+    "message": "群组已移除 - 群组：$1"
+  },
+  "cm_shortcut_title": {
+    "message": "键盘快捷键：“$1”"
+  },
+  "cm_open_new_tab": {
+    "message": "在新标签页中打开"
+  },
+  "cm_new_tab_in_container": {
+    "message": "用身份标签页打开"
+  },
+  "firefox_containers_about": {
+    "message": "关于 Firefox 身份标签页"
+  },
+  "cm_open_all_new": {
+    "message": "在新标签页中打开所有快速拨号"
+  },
+  "cm_open_all_replace": {
+    "message": "取代目前的标签页打开所有快速拨号"
+  },
+  "cm_replace_existing_title": {
+    "message": "使用来自此群组的快速拨号取代现有的标签页。"
+  },
+  "cm_edit_dial": {
+    "message": "编辑快速拨号"
+  },
+  "cm_create_dial": {
+    "message": "新建快速拨号"
+  },
+  "cm_copy_link": {
+    "message": "复制链接地址"
+  },
+  "cm_move_dial": {
+    "message": "移动快速拨号"
+  },
+  "cm_move_dial_to": {
+    "message": "移动到群组"
+  },
+  "cm_cut_dial": {
+    "message": "剪切快速拨号"
+  },
+  "cm_copy_dial": {
+    "message": "复制快速拨号"
+  },
+  "cm_paste_dial": {
+    "message": "粘贴快速拨号"
+  },
+  "cm_paste_swap_dial": {
+    "message": "粘贴（交换）快速拨号"
+  },
+  "cm_paste_replace_dial": {
+    "message": "粘贴（替换）快速拨号"
+  },
+  "convert_to_multi": {
+    "message": ""
+  },
+  "add_to_multi": {
+    "message": ""
+  },
+  "cm_insert_up": {
+    "message": "插入顶部"
+  },
+  "cm_insert_left": {
+    "message": "插入左侧"
+  },
+  "cm_insert_right": {
+    "message": "插入右侧"
+  },
+  "cm_insert_down": {
+    "message": "插入底部"
+  },
+  "cm_drop_replace": {
+    "message": "替换快速拨号"
+  },
+  "cm_drop_copy_replace": {
+    "message": "复制并替换快速拨号"
+  },
+  "cm_drop_swap": {
+    "message": "交换快速拨号（默认）"
+  },
+  "cm_clear_dial": {
+    "message": "清除快速拨号"
+  },
+  "cm_refresh_dial": {
+    "message": "刷新快速拨号"
+  },
+  "cm_refresh_image_here": {
+    "message": "此处刷新图片"
+  },
+  "cm_plus_delay": {
+    "message": "+$1 秒"
+  },
+  "cm_plus_delay_title": {
+    "message": "在页面加载后，在截屏前等待 $1 秒"
+  },
+  "cm_btn_big": {
+    "message": "大"
+  },
+  "cm_bigger_title": {
+    "message": "生成较大的缩略图"
+  },
+  "cm_refresh_visit": {
+    "message": "通过访问网页来刷新"
+  },
+  "cm_btn_left": {
+    "message": "左"
+  },
+  "cm_btn_left_title": {
+    "message": "对齐屏幕截图的左边（默认为中间）"
+  },
+  "cm_group_open_new_tab": {
+    "message": "在新标签页中打开"
+  },
+  "cm_edit_group": {
+    "message": "编辑群组"
+  },
+  "cm_create_new_group": {
+    "message": "创建新群组"
+  },
+  "cm_sort_by": {
+    "message": "排序依据"
+  },
+  "sort_by_name": {
+    "message": "名称"
+  },
+  "sort_by_note": {
+    "message": "注释"
+  },
+  "sort_by_url": {
+    "message": "网址"
+  },
+  "sort_by_date": {
+    "message": "创建日期"
+  },
+  "sort_by_remove_empty_dials": {
+    "message": "移除空的快速拨号"
+  },
+  "resize_dial": {
+    "message": ""
+  },
+  "resize_dial_normal": {
+    "message": ""
+  },
+  "resize_dial_v_half": {
+    "message": ""
+  },
+  "resize_dial_h_half": {
+    "message": ""
+  },
+  "resize_dial_small": {
+    "message": ""
+  },
+  "resize_dial_tiny": {
+    "message": ""
+  },
+  "resize_dial_micro": {
+    "message": ""
+  },
+  "rc_color": {
+    "message": "颜色（列 / 行）"
+  },
+  "row_color": {
+    "message": "行颜色"
+  },
+  "col_color": {
+    "message": ""
+  },
+  "cm_refresh_dials": {
+    "message": "刷新快速拨号"
+  },
+  "cm_change_thumbnail": {
+    "message": "变更缩略图"
+  },
+  "cm_refresh_dial_background": {
+    "message": "在后台刷新快速拨号"
+  },
+  "cm_advanced": {
+    "message": "高级"
+  },
+  "cm_legacy_features": {
+    "message": "旧版功能（不要使用）"
+  },
+  "cm_restore_previous_thumbnail": {
+    "message": "恢复先前的缩略图"
+  },
+  "cm_public_upload": {
+    "message": "上传缩略图到公共媒体库"
+  },
+  "cm_synchronize_thumbnails": {
+    "message": "与云端账号同步缩略图"
+  },
+  "cm_user_consent_google_favicon": {
+    "message": "使用 Google 服务下载图标"
+  },
+  "cm_remove_group": {
+    "message": "移除群组"
+  },
+  "cm_upload_thumbnails": {
+    "message": "上传缩略图"
+  },
+  "cm_upgrade_pro": {
+    "message": "升级至专业版"
+  },
+  "cm_pro_only": {
+    "message": "仅专业版"
+  },
+  "save_group_created": {
+    "message": "新群组已创建"
+  },
+  "refresh_all_title": {
+    "message": "刷新所有缩略图"
+  },
+  "refresh_ok": {
+    "message": "刷新缩略图"
+  },
+  "refresh_all": {
+    "message": "所有缩略图"
+  },
+  "refresh_method": {
+    "message": "刷新方法："
+  },
+  "refresh_this_group": {
+    "message": "所有在此群组中"
+  },
+  "refresh_missing": {
+    "message": "所有丢失的缩略图"
+  },
+  "refresh_group_dials": {
+    "message": "仅群组快速拨号"
+  },
+  "refresh_auto_reload": {
+    "message": ""
+  },
+  "pro_upgrade_label": {
+    "message": "升级至专业版"
+  },
+  "pro_upgrade_now_label": {
+    "message": "立即升级至专业版"
+  },
+  "sync_down_thumbnails_title": {
+    "message": "正在下载缩略图"
+  },
+  "sync_download_cloud_question": {
+    "message": "您确定要下载您在云端的缩略图吗？"
+  },
+  "sync_download_cloud_question_2": {
+    "message": "这将会覆盖您目前本地的缩略图。"
+  },
+  "sync_download_yes": {
+    "message": "是，下载"
+  },
+  "sync_download_no": {
+    "message": "否"
+  },
+  "sync_conflict": {
+    "message": "同步冲突"
+  },
+  "sync_conflict_body": {
+    "message": "云端服务器上有较新的版本，但是您有尚未保存的本地变更。"
+  },
+  "sync_conflict_body_2": {
+    "message": "您确定要覆盖本地的版本吗？"
+  },
+  "sync_conflict_replace_local": {
+    "message": "覆盖本地"
+  },
+  "sync_conflict_replace_server": {
+    "message": "覆盖在服务器上的版本"
+  },
+  "sync_err_account_title": {
+    "message": "您的数据版本已经关联到其他的账号"
+  },
+  "sync_err_account_replace_local": {
+    "message": "覆盖本地"
+  },
+  "sync_err_account_replace_cloud": {
+    "message": "在云端中覆盖"
+  },
+  "sync_err_account_retry": {
+    "message": "重试"
+  },
+  "sync_not_empty_title": {
+    "message": "云端中已有相同的快速拨号"
+  },
+  "sync_not_empty_replace_local": {
+    "message": "覆盖本地"
+  },
+  "sync_not_empty_replace_cloud": {
+    "message": "在云端中覆盖"
+  },
+  "sync_not_empty_replace_retry": {
+    "message": "重试"
+  },
+  "sync_changed_account": {
+    "message": ""
+  },
+  "sync_changed_account_body": {
+    "message": ""
+  },
+  "login_login_create": {
+    "message": "登录 / 创建账号"
+  },
+  "history_title": {
+    "message": "备份 / 历史"
+  },
+  "history_restore": {
+    "message": "恢复已选取的"
+  },
+  "history_loading": {
+    "message": "正在载入历史记录..."
+  },
+  "history_cancel": {
+    "message": "取消"
+  },
+  "history_revert_dials": {
+    "message": ""
+  },
+  "save_history_restored": {
+    "message": "数据已从历史记录中恢复"
+  },
+  "search_title": {
+    "message": "搜索快速拨号"
+  },
+  "unexpected_title": {
+    "message": "有异常错误！"
+  },
+  "unexpected_solution": {
+    "message": "在此点击以重新加载附加组件（如果这样没有帮助，请试着重启您的浏览器或计算机）。"
+  },
+  "unexpected_body": {
+    "message": "请发送下列错误记录到我的支持电子邮件："
+  },
+  "unexpected_thanks": {
+    "message": "谢谢。"
+  },
+  "unexpected_close": {
+    "message": "关闭"
+  },
+  "err_mutable_title": {
+    "message": "因为在您的浏览器中禁用了历史记录，所以加载数据库出错。"
+  },
+  "err_mutable_body": {
+    "message": "您必须在 Firefox / 选项 / 隐私与安全 / 历史记录中设置为“记录历史”。"
+  },
+  "err_is_firefox_bug": {
+    "message": "这是 Firefox 的 bug。"
+  },
+  "err_error_details": {
+    "message": "错误详细信息："
+  },
+  "login_login_title": {
+    "message": "登录以启用云端同步并访问云端快速拨号"
+  },
+  "menu_refresh_all": {
+    "message": "刷新所有群组中/所有丢失的（同步后）/所有群组快速拨号"
+  },
+  "menu_history_title": {
+    "message": "打开可以管理历史记录/备份的窗口"
+  },
+  "menu_pro_upload": {
+    "message": "仅供专业版使用，上传所有缩略图到云端并让它们可以在云端快速拨号网页中使用（在您的手机上也可以用！）"
+  },
+  "menu_pro_download": {
+    "message": "仅供专业版使用，从云端下载所有缩略图来覆盖目前本地的。"
+  },
+  "menu_page_to_dial": {
+    "message": "添加此页面到快速拨号中"
+  },
+  "menu_pages_to_dial": {
+    "message": "添加 $1 个到群组"
+  },
+  "menu_cloud_dials": {
+    "message": "云端快速拨号"
+  },
+  "menu_dials_page": {
+    "message": "快速拨号菜单"
+  },
+  "keys_ctrl_shift_f": {
+    "message": "Ctrl + Shift + F"
+  },
+  "ed_edit_dial": {
+    "message": "编辑快速拨号："
+  },
+  "ed_tab_general": {
+    "message": "常规"
+  },
+  "ed_auto_reload": {
+    "message": "自动刷新"
+  },
+  "ed_crop_scale": {
+    "message": "裁剪 / 比例"
+  },
+  "screen_width": {
+    "message": ""
+  },
+  "screen_height": {
+    "message": ""
+  },
+  "ed_tab_thumbnail": {
+    "message": "缩略图"
+  },
+  "ed_tab_visual": {
+    "message": "视觉"
+  },
+  "ed_tab_settings": {
+    "message": "设置"
+  },
+  "ed_dial_title": {
+    "message": "快速拨号标题："
+  },
+  "ed_dial_note": {
+    "message": "注释："
+  },
+  "ed_link_to_page": {
+    "message": "链接到页面："
+  },
+  "ed_create_new_group": {
+    "message": "链接到新群组："
+  },
+  "ed_group_name": {
+    "message": "名称："
+  },
+  "ed_columns": {
+    "message": "列："
+  },
+  "ed_rows": {
+    "message": "行："
+  },
+  "ed_link_to_group": {
+    "message": "链接到现有的群组："
+  },
+  "ed_page_dial": {
+    "message": ""
+  },
+  "ed_group_dial": {
+    "message": ""
+  },
+  "ed_text_dial": {
+    "message": "文本快速拨号："
+  },
+  "ed_search_dial": {
+    "message": "搜索快速拨号："
+  },
+  "ed_multi_dial": {
+    "message": ""
+  },
+  "ed_live_dial": {
+    "message": ""
+  },
+  "ed_live_dial_title_1": {
+    "message": ""
+  },
+  "ed_live_dial_title_2": {
+    "message": ""
+  },
+  "page_name": {
+    "message": ""
+  },
+  "search_provider_name": {
+    "message": "名称"
+  },
+  "search_provider_url": {
+    "message": "URL"
+  },
+  "search_provider_icon": {
+    "message": "图标"
+  },
+  "search_provider_name_placeholder": {
+    "message": "输入搜索提供商名称"
+  },
+  "search_provider_url_placeholder": {
+    "message": "请输入搜索 URL，必须包含 $1"
+  },
+  "search_provider_url_info": {
+    "message": "观看此视频，了解如何创建搜索 URL"
+  },
+  "search_add_more": {
+    "message": "添加更多搜索引擎"
+  },
+  "search_add_more_title": {
+    "message": ""
+  },
+  "search_provider_tip": {
+    "message": "按下“Enter”搜索，或“Ctrl + Enter”新建标签页搜索"
+  },
+  "multi_dial_import": {
+    "message": ""
+  },
+  "multi_dial_import_help_0": {
+    "message": ""
+  },
+  "multi_dial_import_help_1": {
+    "message": ""
+  },
+  "multi_dial_import_current": {
+    "message": ""
+  },
+  "multi_dial_title_action": {
+    "message": ""
+  },
+  "multi_dial_link_action": {
+    "message": ""
+  },
+  "multi_dial_title_action_0": {
+    "message": ""
+  },
+  "multi_dial_title_action_1": {
+    "message": ""
+  },
+  "multi_dial_link_action_0": {
+    "message": ""
+  },
+  "multi_dial_link_action_1": {
+    "message": ""
+  },
+  "live_dial_opt_no_interaction": {
+    "message": ""
+  },
+  "live_dial_opt_hide_scrollbars": {
+    "message": ""
+  },
+  "dial_text_placeholder": {
+    "message": "在此输入文本"
+  },
+  "dial_click_to_clipboard": {
+    "message": "点击快速拨号时，将文本复制到剪贴板"
+  },
+  "ed_ar_title": {
+    "message": "自动刷新缩略图"
+  },
+  "ed_ar_disabled_radio": {
+    "message": "已禁用"
+  },
+  "ed_ar_enabled_radio": {
+    "message": "已启用"
+  },
+  "ed_au_type_0": {
+    "message": "刷新每"
+  },
+  "ed_au_type_1": {
+    "message": "每日"
+  },
+  "ed_au_type_2": {
+    "message": "每月"
+  },
+  "ed_au_type_3": {
+    "message": "平日"
+  },
+  "ed_au_type_4": {
+    "message": "周末"
+  },
+  "ed_au_type_5": {
+    "message": "周一"
+  },
+  "ed_au_type_6": {
+    "message": "周二"
+  },
+  "ed_au_type_7": {
+    "message": "周三"
+  },
+  "ed_au_type_8": {
+    "message": "周四"
+  },
+  "ed_au_type_9": {
+    "message": "周五"
+  },
+  "ed_au_type_10": {
+    "message": "周六"
+  },
+  "ed_au_type_11": {
+    "message": "周日"
+  },
+  "ed_crop_off_radio": {
+    "message": "自动"
+  },
+  "ed_crop_on_radio": {
+    "message": "自定义"
+  },
+  "ar_at": {
+    "message": "在："
+  },
+  "ar_hours": {
+    "message": "小时"
+  },
+  "ar_minutes": {
+    "message": "分钟"
+  },
+  "ar_dial_delay": {
+    "message": "在截屏前的延迟："
+  },
+  "ar_dial_delay_title": {
+    "message": "在页面加载后，我们将会在创建缩略图前等待。如果网页需要较久的时间加载其内容或有较复杂的图片，这可能会有帮助。"
+  },
+  "ed_more_advanced": {
+    "message": "更多高级选项将会在未来的版本中实现。"
+  },
+  "ed_auto_generated_th_radio": {
+    "message": "自动生成缩略图："
+  },
+  "ed_blank_radio": {
+    "message": "空白 / 纯色缩略图 - 使用背景色"
+  },
+  "ed_make_text_radio": {
+    "message": "使用网页  $1 创建自己的文本缩略图："
+  },
+  "use_for_dial": {
+    "message": "用于快速拨号"
+  },
+  "ed_custom_th_file": {
+    "message": "从文件自定义缩略图："
+  },
+  "ed_custom_th_url": {
+    "message": "从 URL 自定义缩略图："
+  },
+  "ed_public_thumbnail_radio": {
+    "message": "来自公共媒体库的缩略图："
+  },
+  "load_images": {
+    "message": "加载图片"
+  },
+  "load_images_empty": {
+    "message": "此域下找不到图片"
+  },
+  "downloads": {
+    "message": "下载："
+  },
+  "image_info": {
+    "message": "图片信息："
+  },
+  "image_extension": {
+    "message": "图片类型："
+  },
+  "create_date": {
+    "message": "创建日期："
+  },
+  "image_file_size": {
+    "message": "图片大小："
+  },
+  "resolution_too_low": {
+    "message": "分辨率太低了"
+  },
+  "report_image": {
+    "message": "回报图片"
+  },
+  "category_vector_images": {
+    "message": "矢量图片"
+  },
+  "category_high_dpi": {
+    "message": "高分辨率"
+  },
+  "category_medium_dpi": {
+    "message": "中分辨率"
+  },
+  "category_low_dpi": {
+    "message": "低分辨率"
+  },
+  "public_upload_consent": {
+    "message": "上传缩略图到公共媒体库，您须同意以下条款："
+  },
+  "public_upload_body_1": {
+    "message": "已上传到公共媒体库的缩略图将会提供给所有用户使用！"
+  },
+  "public_upload_body_2": {
+    "message": "已上传的数据报含：缩略图图片、缩略图位置、快速拨号名称。其他用户不会看到是谁上传了缩略图。"
+  },
+  "label_sending": {
+    "message": "正在发送..."
+  },
+  "report_send": {
+    "message": "反馈！"
+  },
+  "report_details_placeholder": {
+    "message": "额外信息"
+  },
+  "report_type": {
+    "message": "违规类型："
+  },
+  "report_type_spam": {
+    "message": "广告"
+  },
+  "report_type_copyright": {
+    "message": "版权"
+  },
+  "report_type_violent": {
+    "message": "暴力"
+  },
+  "report_type_unethical": {
+    "message": "不道德"
+  },
+  "report_type_other": {
+    "message": "其他"
+  },
+  "ed_save_on_disk": {
+    "message": "保存到磁盘中"
+  },
+  "ed_vr_resolution": {
+    "message": "分辨率："
+  },
+  "ed_vr_resolution_title": {
+    "message": "缩略图创建时的页面分辨率。"
+  },
+  "ed_no_zoom": {
+    "message": "未缩放"
+  },
+  "ed_top": {
+    "message": "顶部"
+  },
+  "ed_left": {
+    "message": "左"
+  },
+  "ed_center": {
+    "message": "居中"
+  },
+  "ed_align_left": {
+    "message": "左对齐"
+  },
+  "ed_load_preview": {
+    "message": "加载预览"
+  },
+  "ed_reset_position": {
+    "message": "重置位置"
+  },
+  "ed_reset_zoom": {
+    "message": "重置缩放"
+  },
+  "ed_reset_size": {
+    "message": "重置大小"
+  },
+  "ed_reset_scale": {
+    "message": "重置比例"
+  },
+  "label_reset_all": {
+    "message": ""
+  },
+  "label_coming_soon": {
+    "message": "即将到来"
+  },
+  "label_save_changes": {
+    "message": "保存变更"
+  },
+  "label_discard_changes": {
+    "message": "丢弃变更"
+  },
+  "label_create_all_thumbnails": {
+    "message": "创建所有缩略图"
+  },
+  "label_create_thumbnail": {
+    "message": "创建缩略图"
+  },
+  "ed_position": {
+    "message": "位置："
+  },
+  "ed_thumbnail_position_0": {
+    "message": "居中（跨区）"
+  },
+  "ed_thumbnail_position_1": {
+    "message": "全宽（顶端对齐）"
+  },
+  "ed_thumbnail_position_2": {
+    "message": "填满"
+  },
+  "ed_thumbnail_position_3": {
+    "message": "平铺（拉伸）"
+  },
+  "ds_fetch_new_name": {
+    "message": "在刷新时更新快速拨号标题（需要 JavaScript）"
+  },
+  "ds_fetch_new_name_title": {
+    "message": "在刷新（或自动刷新）时，快速拨号的标题会变更为目前的页面标题。为了让这个功能可以生效，您必须启用 JavaScript。"
+  },
+  "ds_no_script": {
+    "message": "在刷新时禁用 JavaScript"
+  },
+  "ds_no_script_title": {
+    "message": "禁用 JavaScript 有助于生成某些页面的缩略图。"
+  },
+  "ds_open_dial_in": {
+    "message": "打开快速拨号于："
+  },
+  "ds_open_dial_in_0": {
+    "message": "当前页面"
+  },
+  "ds_open_dial_in_1": {
+    "message": "新标签页（切换焦点）"
+  },
+  "ds_open_dial_in_2": {
+    "message": "新标签页"
+  },
+  "ds_open_dial_in_3": {
+    "message": "新窗口"
+  },
+  "ds_open_dial_in_4": {
+    "message": "新隐私窗口"
+  },
+  "open_in_chrome_incognito": {
+    "message": ""
+  },
+  "open_in_firefox_private": {
+    "message": "隐私窗口"
+  },
+  "firefox_containers": {
+    "message": "身份标签页"
+  },
+  "no_container": {
+    "message": "无身份标签页"
+  },
+  "eg_title": {
+    "message": "编辑群组"
+  },
+  "eg_position": {
+    "message": "位置："
+  },
+  "eg_name": {
+    "message": "名称："
+  },
+  "eg_columns": {
+    "message": "列："
+  },
+  "eg_rows": {
+    "message": "行："
+  },
+  "eg_dials_ratio": {
+    "message": "快速拨号比例："
+  },
+  "eg_flexible": {
+    "message": "弹性"
+  },
+  "eg_fixed": {
+    "message": "固定"
+  },
+  "group_eg_scrollable": {
+    "message": "让群组可以滚动"
+  },
+  "eg_background_color": {
+    "message": "背景颜色"
+  },
+  "eg_text_color": {
+    "message": "文本颜色"
+  },
+  "menu_search_title": {
+    "message": "搜索快速拨号 (Ctrl + Shift + F)，使用 URL/名称/注释"
+  },
+  "dial_number_title": {
+    "message": "快速拨号号码，这个可以通过“Ctrl + Number for Group Speed Dial”附加组件使用，其可通过键盘快捷键打开对应的快速拨号。"
+  },
+  "dial_name_placeholder": {
+    "message": "若为空时自动生成"
+  },
+  "dial_note_placeholder": {
+    "message": "注释有助于您通过搜索功能找到快速拨号 (Ctrl + Shift + F)"
+  },
+  "dial_url_placeholder": {
+    "message": "您可以省略 http:// 前缀（即：google.com）"
+  },
+  "duplicate_dial_found": {
+    "message": ""
+  },
+  "op_search": {
+    "message": "搜索快速拨号"
+  },
+  "op_refresh": {
+    "message": "刷新缩略图"
+  },
+  "op_history": {
+    "message": "历史 / 备份"
+  },
+  "menu_archive_title": {
+    "message": ""
+  },
+  "op_upload_thumbnails": {
+    "message": "上传缩略图"
+  },
+  "op_download_thumbnails": {
+    "message": "下载缩略图"
+  },
+  "op_pro_only": {
+    "message": "（仅供专业版使用）"
+  },
+  "op_bing_image": {
+    "message": "Bing 背景"
+  },
+  "op_bing_next": {
+    "message": "下一张图片"
+  },
+  "op_bing_previous": {
+    "message": "上一张图片"
+  },
+  "op_bing_fullscreen": {
+    "message": ""
+  },
+  "op_bing_quiz": {
+    "message": ""
+  },
+  "o_bing_hide_dials": {
+    "message": ""
+  },
+  "o_no_dial_reflection": {
+    "message": ""
+  },
+  "o_background_url_placeholder": {
+    "message": "例如：https://www.some_page.com/nature.jpg"
+  },
+  "o_paste_import_placeholder": {
+    "message": "粘贴导出的文本到这里"
+  },
+  "o_add_current_after_action": {
+    "message": ""
+  },
+  "o_add_current_after_action_0": {
+    "message": ""
+  },
+  "o_add_current_after_action_1": {
+    "message": ""
+  },
+  "o_add_current_after_action_2": {
+    "message": ""
+  },
+  "o_theme_title": {
+    "message": "默认值：黑。晚上好好睡觉！"
+  },
+  "o_padding_title": {
+    "message": "每个快速拨号四周的空间，在两个快速拨号中间，值就会加倍。"
+  },
+  "o_sync_dials": {
+    "message": "快速拨号数据同步"
+  },
+  "o_sync_settings": {
+    "message": "设置数据同步"
+  },
+  "o_disable_dials_sync": {
+    "message": ""
+  },
+  "o_disable_dials_sync_title": {
+    "message": ""
+  },
+  "o_auto_options_sync": {
+    "message": ""
+  },
+  "o_group_padding_title": {
+    "message": "每个群组名称四周的空间，在两个群组的值会变为双辈。"
+  },
+  "o_group_font_size_title": {
+    "message": "上方栏中的文本大小。"
+  },
+  "o_recommended_for_performance_title": {
+    "message": "推荐使用以达到最佳性能。"
+  },
+  "o_two_gradient_colors_title": {
+    "message": "选取至少两种颜色以使用渐变。使用较复杂的渐变可能会略微影响性能。"
+  },
+  "o_background_preview_title": {
+    "message": "背景预览"
+  },
+  "o_big_picture_warning_title": {
+    "message": "使用太大的图片可能会对性能造成负面影响（新标签页加载时间）。"
+  },
+  "o_group_delayed_activation_title": {
+    "message": "这个延迟可以选择群组，即便它被其他群组围绕也可以（如果您喜欢三行的群组的话）"
+  },
+  "o_auto_upload_title": {
+    "message": "须专业版。自动上传仅能在一个设备上启动。"
+  },
+  "o_no_title": {
+    "message": "在快速拨号上没有标题（仅缩略图）"
+  },
+  "o_no_title_title": {
+    "message": "默认值：禁用。启用时，所有快速拨号名称将会被隐藏。"
+  },
+  "o_squared_edges": {
+    "message": "无圆角"
+  },
+  "o_squared_edges_title": {
+    "message": "默认值：禁用。启用时，快速拨号将会有方角。"
+  },
+  "o_dial_font_size": {
+    "message": "快速拨号名称字体大小"
+  },
+  "o_dial_title_down": {
+    "message": "快速拨号名称在底部"
+  },
+  "o_dial_title_down_title": {
+    "message": "默认值：禁用。启用时，快速拨号名称将会在底部。"
+  },
+  "o_scrollable_thumbnails": {
+    "message": ""
+  },
+  "o_no_shadow": {
+    "message": "在快速拨号四周没有阴影"
+  },
+  "o_no_shadow_title": {
+    "message": "默认值：禁用。启用时，默认在快速拨号四周的阴影将会隐藏。"
+  },
+  "o_hide_empty_dials": {
+    "message": "隐藏空的快速拨号"
+  },
+  "o_hide_empty_dials_title": {
+    "message": "默认值：禁用。启用时，所有空的快速拨号都会隐藏。"
+  },
+  "o_hide_hover_shadow": {
+    "message": "隐藏鼠标指针移到上面的阴影"
+  },
+  "o_dial_numbers_title": {
+    "message": "快速拨号编号将会显示在名称旁。快速拨号的编号在您想要使用“Ctrl + Number for Group Speed Dial”附加组件通过键盘快捷键来打开快速拨号时非常有用。"
+  },
+  "o_dial_numbers": {
+    "message": "显示快速拨号编号"
+  },
+  "o_hide_hover_shadow_title": {
+    "message": "默认值：禁用。启用时，鼠标指针移到上面的阴影将会禁用。"
+  },
+  "o_hide_login_part": {
+    "message": "隐藏登录部分"
+  },
+  "o_hide_login_part_title": {
+    "message": "隐藏“登录/创建账号”标签或如果您已经登录的话就是云端名称。"
+  },
+  "o_hide_top_bar": {
+    "message": "隐藏群组与登录部分"
+  },
+  "o_hide_top_bar_title": {
+    "message": "默认值：禁用。启用时，群组列表与登录部分将会被隐藏。"
+  },
+  "o_hide_add_group": {
+    "message": "在群组列表的尾部隐藏“+”按钮"
+  },
+  "o_hide_add_group_title": {
+    "message": "隐藏 + 按钮"
+  },
+  "o_root_groups_only": {
+    "message": "从群组列表（顶栏）隐藏嵌套群组"
+  },
+  "o_root_groups_only_title": {
+    "message": "仅会显示根群组。包含任何群组的群组拨号将会被隐藏。"
+  },
+  "o_firefox_homepage_override": {
+    "message": "当 Firefox 启动时，打开拨号页面"
+  },
+  "o_pro_thumbnail_sync": {
+    "message": "启用与云端服务器的自动缩略图同步"
+  },
+  "o_group_name_as_title": {
+    "message": "设置快速拨号页面标题为目前选取群组的标题"
+  },
+  "o_prevent_new_tab_container": {
+    "message": ""
+  },
+  "o_prevent_new_tab_container_title": {
+    "message": ""
+  },
+  "o_group_name_as_title_title": {
+    "message": "群组名称将会设置为页面标题，这可以在标签页名称或任务栏上的名称看到。"
+  },
+  "o_instant_popup_redirect": {
+    "message": "点击工具栏图标，立即重定向到快速拨号页面"
+  },
+  "o_instant_popup_new_tab": {
+    "message": "在新标签页中打开"
+  },
+  "o_instant_popup_new_tab_title": {
+    "message": "新标签页将始终紧邻当前标签页打开。"
+  },
+  "o_user_consent_google_favicon": {
+    "message": "使用 Google 的服务来获取快速拨号的 Favicon（仅在无法直接下载 favicon 时使用）（推荐使用）"
+  },
+  "o_instant_popup_redirect_title": {
+    "message": "在工具栏图标上点击以打开快速拨号页面"
+  },
+  "o_disable_quick_edit": {
+    "message": "禁用单击左键的快速编辑"
+  },
+  "o_disable_quick_edit_title": {
+    "message": "在空的快速拨号上左键点击将不再显示编辑框。"
+  },
+  "o_open_always_new_window": {
+    "message": "始终在新窗口中打开"
+  },
+  "o_open_always_new_window_title": {
+    "message": "点击快速拨号将会在新窗口中打开它的 URL"
+  },
+  "o_open_always_new_tab": {
+    "message": "始终在新标签页打开"
+  },
+  "o_open_always_new_tab_title": {
+    "message": "点击快速拨号将会在新标签页中打开它的 URL"
+  },
+  "o_open_always_include_group_dials": {
+    "message": "包含群组快速拨号"
+  },
+  "o_open_always_include_group_dials_title": {
+    "message": "群组快速拨号也将会在新标签页打开"
+  },
+  "o_open_always_focused": {
+    "message": "自动切换到新标签页"
+  },
+  "o_open_always_focused_title": {
+    "message": "也会把焦点置于新打开的标签页"
+  },
+  "o_remember_group": {
+    "message": "记住最后打开的群组"
+  },
+  "o_remember_group_title": {
+    "message": "当启用时，下次您打开新标签页页面，您将会被重定向至最后访问的群组。"
+  },
+  "o_remember_group_runtime": {
+    "message": "仅在浏览器重新启动之前记住"
+  },
+  "o_disable_auto_show_groups": {
+    "message": "在使用拖放时禁用自动显示群组"
+  },
+  "o_disable_auto_show_groups_title": {
+    "message": "默认情况下，当您拖放快速拨号时，整个群组列表都是可见的，这样就可以在所有群组间移动。"
+  },
+  "o_scroll_groups": {
+    "message": "在群组间滚动"
+  },
+  "o_scroll_groups_title": {
+    "message": "您将可以使用您的鼠标滚轮以在群组间滚动。"
+  },
+  "o_scroll_groups_reverse": {
+    "message": "反向滚动"
+  },
+  "o_scroll_groups_reverse_title": {
+    "message": "向上滚动将会滚动到下一个群组。"
+  },
+  "o_scroll_groups_circle": {
+    "message": "开始与结束组合成圈"
+  },
+  "o_scroll_groups_circle_title": {
+    "message": "当到达尾部时，更多的滚动将会跳到开始处（反之亦然）。"
+  },
+  "o_frame_jpeg": {
+    "message": "使用 JPEG 而非 PNG"
+  },
+  "o_frame_jpeg_title": {
+    "message": "JPEG 格式消耗较少的内存且绘制时间也较短"
+  },
+  "o_visit_jpeg": {
+    "message": "使用 JPEG 而非 PNG"
+  },
+  "o_visit_jpeg_title": {
+    "message": "JPEG 格式消耗较少的内存且绘制时间也较短"
+  },
+  "o_visit_jpeg_high_resolution": {
+    "message": "使用高分辨率"
+  },
+  "o_visit_jpeg_high_resolution_title": {
+    "message": "缩略图将会使用双倍的分辨率以改善画质。"
+  },
+  "o_current_dial_dimensions": {
+    "message": "使用目前的快速拨号尺寸（不推荐）"
+  },
+  "o_current_dial_dimensions_title": {
+    "message": "启用时，目前的快速拨号大小将会用于目标分辨率。禁用时，目标快速拨号的分辨率会以屏幕分辨率与群组的行列数为基础进行计算。"
+  },
+  "o_context_menu_show_groups": {
+    "message": ""
+  },
+  "o_context_menu_internal": {
+    "message": "快速拨号右键菜单："
+  },
+  "o_dials_context_menu": {
+    "message": "快速拨号与群组拨号："
+  },
+  "o_groups_context_menu": {
+    "message": "群组："
+  },
+  "o_options_context_menu": {
+    "message": "选项菜单："
+  },
+  "o_tab_visual_dials": {
+    "message": "快速拨号"
+  },
+  "o_tab_visual_groups": {
+    "message": "群组"
+  },
+  "o_tab_thumbnails": {
+    "message": "缩略图"
+  },
+  "o_tab_image": {
+    "message": "图片质量"
+  },
+  "o_theme": {
+    "message": "主题："
+  },
+  "o_color_theme": {
+    "message": "主题色："
+  },
+  "o_custom_css": {
+    "message": "自定义 CSS 样式："
+  },
+  "o_custom_css_placeholder": {
+    "message": "警告：仅供有经验的用户使用！错误的样式可能会导致视觉体验变差。"
+  },
+  "o_reload_group_dials": {
+    "message": "在变更背景后重新加载群组快速拨号"
+  },
+  "o_dials": {
+    "message": "快速拨号："
+  },
+  "o_dials_visual": {
+    "message": "快速拨号，可视化："
+  },
+  "o_android_min_size": {
+    "message": ""
+  },
+  "o_android_min_dial_size": {
+    "message": ""
+  },
+  "o_space_around_dials": {
+    "message": "快速拨号四周的空间："
+  },
+  "o_group_list": {
+    "message": "群组列表："
+  },
+  "o_space_around_groups": {
+    "message": "群组四周的空间："
+  },
+  "o_group_list_size": {
+    "message": "群组列表字体大小："
+  },
+  "o_group_list_height": {
+    "message": "群组列表高度："
+  },
+  "o_background_pic": {
+    "message": "背景图片："
+  },
+  "o_gradient_type": {
+    "message": "渐变类型："
+  },
+  "o_gradient_colors": {
+    "message": "渐变色："
+  },
+  "o_gradient_solid": {
+    "message": "纯色 - 无渐变"
+  },
+  "o_gradient_linear_up_down": {
+    "message": "线性 - 上 / 下"
+  },
+  "o_gradient_linear_left_right": {
+    "message": "线性 - 左 / 右"
+  },
+  "o_gradient_linear_diagonal": {
+    "message": "线性 - 对角线"
+  },
+  "o_gradient_radial_elipse": {
+    "message": "放射状 - 椭圆形"
+  },
+  "o_gradient_radial_circle": {
+    "message": "放射状 - 圆形"
+  },
+  "o_choose_local_image": {
+    "message": "选择本地图片文件..."
+  },
+  "o_copy_link": {
+    "message": "复制首页链接"
+  },
+  "o_safari_dials_page_hotkeys": {
+    "message": ""
+  },
+  "o_how_to_homepage": {
+    "message": "要设置 $app_name$ 为首页，在“复制首页链接”按钮上点击，然后将其贴到浏览器/选项/首页中"
+  },
+  "o_redirect_url": {
+    "message": "以 URL 覆盖“新标签页”"
+  },
+  "o_redirect_url_placeholder": {
+    "message": "例如：https://www.google.com/"
+  },
+  "o_redirect_url_title": {
+    "message": "警告：您仅能使用常规网页的链接。内部页面，如“about:newtab”将无法生效！少数例外是“about:blank”/“about:home”。"
+  },
+  "o_groups": {
+    "message": "群组："
+  },
+  "o_group_activation_delay": {
+    "message": "当使用拖放时启用延迟："
+  },
+  "o_short_keys": {
+    "message": "快捷键。需要其他附加组件："
+  },
+  "o_key_extended_mode": {
+    "message": "启用多于 9 个的快速拨号访问"
+  },
+  "o_key_extended_mode_title": {
+    "message": "您将可以快速使用有多位数编号的快速拨号。"
+  },
+  "o_dial_only_current_group": {
+    "message": "快速拨号仅目前打开的群组"
+  },
+  "o_dial_only_current_group_title": {
+    "message": "例如：按下“1”将会打开目前打开的群组中的第一个快速拨号。"
+  },
+  "o_key_force_page_focus": {
+    "message": "强制将焦点放在页面上（实验性功能，可能会失效）"
+  },
+  "o_key_force_page_focus_title": {
+    "message": "若焦点位于网址栏，我们将会尝试将焦点放到页面上。然而它将会在浏览后禁用“返回”按钮。这是实验性功能，可能会在新版的 Firefox 上失效。"
+  },
+  "o_key_to_group_dial": {
+    "message": "当按住按键时启用访问群组："
+  },
+  "o_key_to_group_dial_title": {
+    "message": "当此按键被按下时，您将可以快速拨号群组而不是只有单一个快速拨号。"
+  },
+  "o_key_disable_alt": {
+    "message": "禁用“Alt”/“CMD”快捷键"
+  },
+  "o_key_disable_alt_title": {
+    "message": "禁用在 Windows 上使用“Alt”与在 Mac OS 上使用“CMD”的快捷键。"
+  },
+  "o_key_disable_ctrl": {
+    "message": "禁用“Ctrl”快捷键"
+  },
+  "o_key_disable_ctrl_title": {
+    "message": "禁用使用“Ctrl”控制键的快捷键"
+  },
+  "o_key_disable_shift": {
+    "message": "禁用“Shift”快捷键"
+  },
+  "o_key_disable_shift_title": {
+    "message": "禁用使用“Shift”的快捷键，例如“Ctrl + Shift + 1”或“Alt + Shift + 1”。"
+  },
+  "o_key_disable_f4": {
+    "message": "禁用打开新标签页的“F4”快捷键"
+  },
+  "o_key_disable_f4_title": {
+    "message": "按下“F4”快捷键将不会打开新标签页"
+  },
+  "o_key_f4_active_here": {
+    "message": ""
+  },
+  "o_key_disable_zero": {
+    "message": "禁用打开第 10 个快速拨号的“Ctrl + 0”快捷键"
+  },
+  "o_key_disable_zero_title": {
+    "message": "按下“Ctrl + 0”（用于“重置缩放倍率”）将不再打开编号 10 的快速拨号。"
+  },
+  "o_key_new_tab": {
+    "message": "在新标签页打开"
+  },
+  "o_key_new_tab_title": {
+    "message": "使用过的拨号将会始终在新标签页中打开"
+  },
+  "o_key_next_to_current": {
+    "message": "紧邻当前标签页"
+  },
+  "o_key_next_to_current_title": {
+    "message": "使用过的快速拨号将会紧邻当前标签页打开。"
+  },
+  "o_keys_delay": {
+    "message": "多位数编号的延迟："
+  },
+  "o_ar_settings": {
+    "message": "自动刷新设置"
+  },
+  "o_ar_disable_this_device": {
+    "message": "在此设备上禁用"
+  },
+  "o_ar_disable_this_device_title": {
+    "message": "自动刷新将会在此浏览器中禁用"
+  },
+  "o_ar_keep_pinned_tab": {
+    "message": "在刷新后保持刷新的标签页打开"
+  },
+  "o_ar_keep_pinned_tab_title": {
+    "message": "用于创建缩略图的标签页将会在刷新后保持打开。"
+  },
+  "o_ar_concurrent_count": {
+    "message": "最大同时加载页面数"
+  },
+  "o_ar_concurrent_count_title": {
+    "message": "限制创建缩略图时可同时加载的页面数。较低的值可以节省 CPU 与内存。"
+  },
+  "o_ar_screen_resolution": {
+    "message": "自动刷新目标屏幕分辨率"
+  },
+  "o_ar_auto_radio": {
+    "message": "自动，以目前的屏幕分辨率为基础（推荐）"
+  },
+  "o_ar_custom_radio": {
+    "message": "手动"
+  },
+  "o_ar_screen_resolution_help": {
+    "message": "缩略图分辨率是从画面大小与目标群组大小计算而来。"
+  },
+  "o_vr_screen_resolution": {
+    "message": "用于生成缩略图的虚拟页面分辨率。"
+  },
+  "o_vr_default_width": {
+    "message": "默认虚拟页面宽度"
+  },
+  "o_vr_default_width_title": {
+    "message": "用于生成缩略图的页面宽度。"
+  },
+  "o_thumb_timings": {
+    "message": "缩略图生成时机与延迟："
+  },
+  "o_load_timeout": {
+    "message": "页面加载的最大逾时："
+  },
+  "o_context_menu_plus_delay": {
+    "message": "右键菜单额外延迟："
+  },
+  "o_normal_reload_fixed_delay": {
+    "message": "常规刷新固定延迟："
+  },
+  "o_reload_visit_fixed_delay": {
+    "message": "通过访问刷新固定延迟："
+  },
+  "o_thumbnails_delays_help": {
+    "message": "这些延迟对创建缩略图很有用，许多页面使用 JavaScript 以完成加载内容，而浏览器通常需要数毫秒的时间来绘制这些页面。"
+  },
+  "o_img_quality_default_reload": {
+    "message": "图片质量 - 默认刷新："
+  },
+  "o_img_compression_level": {
+    "message": "压缩等级"
+  },
+  "o_img_quality_reload_visit": {
+    "message": "图片质量 - 通过访问刷新："
+  },
+  "o_context_menu_dials_page": {
+    "message": ""
+  },
+  "o_backup_restore": {
+    "message": "备份/恢复设置到文件："
+  },
+  "o_export_dials": {
+    "message": "导出设置与快速拨号"
+  },
+  "o_export_thumbnails": {
+    "message": "同时导出缩略图，这将会大大增加导出文件大小"
+  },
+  "o_import_other_addons": {
+    "message": "从其他附加组件导入："
+  },
+  "o_import_josep": {
+    "message": "从“Speed Dial by Josep del Rio”附加组件导入快速拨号："
+  },
+  "o_import_fvd": {
+    "message": "从“Speed Dial [FVD] by Nimbus Web”附加组件导入快速拨号："
+  },
+  "o_import_firefox_bookmarks": {
+    "message": "从 Firefox 书签“.json”文件导入快速拨号："
+  },
+  "o_import_fast_dial": {
+    "message": "从“Fast Dial by telega”附加组件导入快速拨号："
+  },
+  "o_import_super_start_bookmarks": {
+    "message": "从“Super Start by cyberscorpio”附加组件导入快速拨号："
+  },
+  "o_import_speed_dial_2": {
+    "message": "从“Speed Dial 2 by speeddial2.com”附加组件导入快速拨号："
+  },
+  "o_replace_existing": {
+    "message": "取代现有的快速拨号"
+  },
+  "o_import_from_text": {
+    "message": "从文本："
+  },
+  "o_about_cloud_dials": {
+    "message": "云端拨号："
+  },
+  "o_auto_upload_pro": {
+    "message": "自动上传缩略图（仅供专业版使用）"
+  },
+  "o_picture_from_url": {
+    "message": "图片的 URL："
+  },
+  "o_picture_is_web_page": {
+    "message": "以网页作背景："
+  },
+  "o_picture_bing_of_the_day": {
+    "message": "Bing 每日图片："
+  },
+  "o_picture_bing_of_the_day_note": {
+    "message": "来自 $1 的新每日图片"
+  },
+  "o_picture_bing_of_the_day_help": {
+    "message": "您可以从快速拨号页面上的主菜单控制 Bing 图片。"
+  },
+  "o_picture_from_pc": {
+    "message": "本地图片："
+  },
+  "o_gradient_colors_sm": {
+    "message": "渐变色："
+  },
+  "o_none_fastest": {
+    "message": "无（最快）"
+  },
+  "o_watch_youtube_import": {
+    "message": "在 YouTube 上观看教学课程"
+  },
+  "o_cloud_backup_instead": {
+    "message": "然而您可以创建一个云端的免费账号，您的快速拨号将会自动在云端备份。所有数据都将通过加密的 HTTPS 连接发送。"
+  },
+  "reload_heading": {
+    "message": "$app_name$ - 刷新标签页缩略图"
+  },
+  "reload_subheading": {
+    "message": "这个是用于自动刷新功能与在后台创建缩略图的标签页。"
+  },
+  "archive": {
+    "message": ""
+  },
+  "archived": {
+    "message": ""
+  },
+  "archive_empty": {
+    "message": ""
+  },
+  "archive_empty_body": {
+    "message": ""
+  },
+  "archive_close_title": {
+    "message": ""
+  },
+  "group_archive_group": {
+    "message": ""
+  },
+  "group_archive_group_title": {
+    "message": ""
+  },
+  "productivity_mode": {
+    "message": ""
+  },
+  "productivity_mode_title": {
+    "message": ""
+  },
+  "auto_productivity_mode": {
+    "message": ""
+  },
+  "active_days": {
+    "message": ""
+  },
+  "start_time": {
+    "message": ""
+  },
+  "end_time": {
+    "message": ""
+  },
+  "elapsed_time": {
+    "message": ""
+  },
+  "remaining_time": {
+    "message": ""
+  },
+  "start_productivity": {
+    "message": ""
+  },
+  "end_productivity": {
+    "message": ""
+  },
+  "choose_distracting_dials": {
+    "message": ""
+  },
+  "selected_dials_groups": {
+    "message": ""
+  },
+  "s_cp": {
+    "message": "自定义搜索提供商"
+  },
+  "sc_0": {
+    "message": "自定义"
+  },
+  "sc_1": {
+    "message": "搜索"
+  },
+  "sc_2": {
+    "message": "翻译"
+  },
+  "sc_3": {
+    "message": "视频"
+  },
+  "sc_4": {
+    "message": "社交"
+  },
+  "sc_5": {
+    "message": "地图"
+  },
+  "sc_6": {
+    "message": "音乐"
+  },
+  "sc_7": {
+    "message": "视频"
+  },
+  "sc_8": {
+    "message": "其他"
+  },
+  "search_engine": {
+    "message": "",
+    "common": true
+  },
+  "color_remove_color": {
+    "message": "移除颜色",
+    "common": true
+  },
+  "color_transparent": {
+    "message": "透明",
+    "common": true
+  },
+  "color_rgb": {
+    "message": "RGB",
+    "common": true
+  },
+  "color_no_color": {
+    "message": "无颜色",
+    "common": true
+  },
+  "field_int_default_value": {
+    "message": "默认值： $1，最小： $2，最大： $3",
+    "common": true
+  },
+  "field_set_default": {
+    "message": "重置为默认值：$1",
+    "common": true
+  },
+  "import_finished": {
+    "message": "导入已完成！",
+    "common": true
+  },
+  "import_error": {
+    "message": "出错",
+    "common": true
+  },
+  "pro_required": {
+    "message": "须为专业版",
+    "common": true
+  },
+  "version_free": {
+    "message": "$1 版本（免费），仅供非商业用途使用",
+    "common": true
+  },
+  "version_pro": {
+    "message": "$1 版本",
+    "common": true
+  },
+  "msg_pro_header": {
+    "message": "此供能仅供专业版使用。",
+    "common": true
+  },
+  "msg_pro_support": {
+    "message": "请通过升级到专业版来支持此附加组件的未来开发。",
+    "common": true
+  },
+  "statistics": {
+    "message": "",
+    "common": true
+  },
+  "color_black": {
+    "message": "深邃",
+    "common": true
+  },
+  "color_white": {
+    "message": "明亮",
+    "common": true
+  },
+  "theme_light": {
+    "message": "",
+    "common": true
+  },
+  "theme_dark": {
+    "message": "",
+    "common": true
+  },
+  "title_introduction": {
+    "message": "简介",
+    "common": true
+  },
+  "title_got_it": {
+    "message": "好的，开始吧！",
+    "common": true
+  },
+  "privacy_info": {
+    "message": "隐私信息",
+    "common": true
+  },
+  "search_search": {
+    "message": "搜索",
+    "common": true
+  },
+  "search_close": {
+    "message": "关闭",
+    "common": true
+  },
+  "email_send_me": {
+    "message": "发送电子邮件",
+    "common": true
+  },
+  "send_runtime_error_log": {
+    "message": "发送错误记录",
+    "common": true
+  },
+  "send_runtime_errors": {
+    "message": "点击下面的链接以发送一封包含您可以在下面看到的信息的电子邮件给我：",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox 附加组件页面",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome 网上应用店页面",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "menu_options": {
+    "message": "选项",
+    "common": true
+  },
+  "menu_quick_options": {
+    "message": "快速选项",
+    "common": true
+  },
+  "menu_visit_homepage": {
+    "message": "访问首页",
+    "common": true
+  },
+  "key_name_ctrl": {
+    "message": "Ctrl",
+    "common": true
+  },
+  "key_name_alt": {
+    "message": "Alt",
+    "common": true
+  },
+  "key_name_shift": {
+    "message": "Shift",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "字体大小",
+    "common": true
+  },
+  "label_font_size_preview": {
+    "message": "字体大小预览",
+    "common": true
+  },
+  "label_previous": {
+    "message": "",
+    "common": true
+  },
+  "label_back": {
+    "message": "",
+    "common": true
+  },
+  "label_next": {
+    "message": "下一步",
+    "common": true
+  },
+  "label_note": {
+    "message": "注释：",
+    "common": true
+  },
+  "label_not_supported_by_browser": {
+    "message": "",
+    "common": true
+  },
+  "label_remove": {
+    "message": "移除",
+    "common": true
+  },
+  "label_warning": {
+    "message": "警告：",
+    "common": true
+  },
+  "label_options": {
+    "message": "选项：",
+    "common": true
+  },
+  "label_default": {
+    "message": "默认：",
+    "common": true
+  },
+  "label_done": {
+    "message": "完成！",
+    "common": true
+  },
+  "label_copy": {
+    "message": "",
+    "common": true
+  },
+  "label_copied": {
+    "message": "已复制！",
+    "common": true
+  },
+  "label_custom": {
+    "message": "自定义：",
+    "common": true
+  },
+  "label_close": {
+    "message": "关闭",
+    "common": true
+  },
+  "label_maximize": {
+    "message": "",
+    "common": true
+  },
+  "label_minimize": {
+    "message": "",
+    "common": true
+  },
+  "label_installed": {
+    "message": "已安装",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "打开页面",
+    "common": true
+  },
+  "label_agree": {
+    "message": "同意",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "取消",
+    "common": true
+  },
+  "label_active": {
+    "message": "",
+    "common": true
+  },
+  "label_inactive": {
+    "message": "",
+    "common": true
+  },
+  "label_paused": {
+    "message": "",
+    "common": true
+  },
+  "label_pause": {
+    "message": "",
+    "common": true
+  },
+  "label_resume": {
+    "message": "",
+    "common": true
+  },
+  "label_select_all": {
+    "message": "",
+    "common": true
+  },
+  "label_select_none": {
+    "message": "",
+    "common": true
+  },
+  "label_minutes": {
+    "message": "",
+    "common": true
+  },
+  "label_scale": {
+    "message": "尺寸：",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "缩放：",
+    "common": true
+  },
+  "label_size": {
+    "message": "大小：",
+    "common": true
+  },
+  "label_example": {
+    "message": "",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "菜单",
+    "common": true
+  },
+  "menu_visit_title": {
+    "message": "访问首页",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "访问首页",
+    "common": true
+  },
+  "online_help": {
+    "message": "",
+    "common": true
+  },
+  "online_help_info": {
+    "message": "",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "助力此项目",
+    "common": true
+  },
+  "op_help": {
+    "message": "帮助",
+    "common": true
+  },
+  "op_help_introduction": {
+    "message": "介绍视频",
+    "common": true
+  },
+  "op_help_safari_setup": {
+    "message": "",
+    "common": true
+  },
+  "op_help_android_setup": {
+    "message": "Android 设置视频",
+    "common": true
+  },
+  "o_title": {
+    "message": "选项 - $1",
+    "common": true
+  },
+  "o_manual_options_sync": {
+    "message": "手动备份",
+    "common": true
+  },
+  "automatic_backup": {
+    "message": "自动备份",
+    "common": true
+  },
+  "backup": {
+    "message": "备份",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "新建备份",
+    "common": true
+  },
+  "save_settings": {
+    "message": "保存设置",
+    "common": true
+  },
+  "load_settings": {
+    "message": "加载设置",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "常规",
+    "common": true
+  },
+  "o_tab_sync": {
+    "message": "同步服务",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "背景",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "右键菜单",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "快捷键",
+    "common": true
+  },
+  "o_tab_import": {
+    "message": "导入 / 备份",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "关于",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "px",
+    "common": true
+  },
+  "o_general": {
+    "message": "常规：",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "毫秒",
+    "common": true
+  },
+  "o_special_features": {
+    "message": "特殊功能：",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "已禁用",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "已启用",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "秒",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "右键菜单：",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "导入",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "您好 :)",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "若您喜欢它，请在此评分：",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "如果您不喜欢它，请发邮件让我知道原因。我会实现更多我收到的功能请求。",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "请考虑支持我的作品，通过：",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "捐款 (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "成为我的 Patron",
+    "common": true
+  },
+  "o_about_support_by_update": {
+    "message": "升级到专业版",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "谢谢！",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "首页：",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "联系：",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "报告问题：",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "我只会以英语/斯洛伐克语回复",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "社交媒体：",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "保存变更并关闭",
+    "common": true
+  },
+  "o_saved": {
+    "message": "已保存！",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "我的名字是 $1$，我是 $app_name$ 的作者。",
+    "common": true
+  },
+  "s_baidu": {
+    "message": "百度",
+    "common": true
+  },
+  "s_google": {
+    "message": "Google",
+    "common": true
+  },
+  "s_bing": {
+    "message": "Bing",
+    "common": true
+  },
+  "s_yahoo": {
+    "message": "Yahoo",
+    "common": true
+  },
+  "s_brave": {
+    "message": "Brave",
+    "common": true
+  },
+  "s_yandex": {
+    "message": "Yandex",
+    "common": true
+  },
+  "s_duck_duck_go": {
+    "message": "DuckDuckGo",
+    "common": true
+  },
+  "s_qwant": {
+    "message": "Qwant",
+    "common": true
+  },
+  "s_ecosia": {
+    "message": "Ecosia",
+    "common": true
+  },
+  "s_seznam": {
+    "message": "Seznam",
+    "common": true
+  },
+  "s_translate_en": {
+    "message": "Google 翻译",
+    "common": true
+  },
+  "s_translate_microsoft_en": {
+    "message": "",
+    "common": true
+  },
+  "s_translate_deepl_en": {
+    "message": "",
+    "common": true
+  },
+  "s_translate_yandex_en": {
+    "message": "",
+    "common": true
+  },
+  "s_translate_baidu_en": {
+    "message": "",
+    "common": true
+  },
+  "s_wikipedia": {
+    "message": "维基百科",
+    "common": true
+  },
+  "s_youtube": {
+    "message": "YouTube",
+    "common": true
+  },
+  "s_google_maps": {
+    "message": "Google 地图",
+    "common": true
+  },
+  "s_twitter": {
+    "message": "Twitter",
+    "common": true
+  },
+  "s_facebook": {
+    "message": "Facebook",
+    "common": true
+  },
+  "s_imdb": {
+    "message": "IMDb",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "无匹配结果",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "无数据",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "黑暗模式",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "由系统控制",
+    "common": true
+  }
+}

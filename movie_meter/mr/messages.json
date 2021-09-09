@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "तारीख, आयएमडीबी, वर्णन, एपिसोड, गेज, ग्राफ, आयएमडीबी, माहिती, मीटर, चित्रपट, चित्रपट, चित्रपट, नेटफ्लिक्स, आयएमडीबी, रेटिंग, मालिका, शो, टीव्ही, टीव्ही शो, व्हिडिओ, व्हिज्युअल, मते, हंगाम"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "चित्रपट सापडला नाही / चुकीचा चित्रपट सापडला नाही - लक्ष्य पृष्ठांसह \"अधिकृत\" एकीकरण नाही, मी 100% योग्य परिणाम हमी देऊ शकत नाही (परंतु बहुतेक प्रकरणांमध्ये ते उत्तम प्रकारे कार्य करते)"
+  },
+  "_description_mm_not_working": {
+    "message": "आपल्या आवडत्या चित्रपट पृष्ठावर कार्य करत नाही?"
+  },
+  "_description_mm_add_support": {
+    "message": "माझ्याशी संपर्क साधा आणि मी ते जोडू - शक्य असल्यास (पृष्ठामध्ये मूव्ही नाव इंग्रजीमध्ये किंवा $visit_imdb$ दुवा असणे आवश्यक आहे)."
+  },
+  "_description_mm_feature_1": {
+    "message": "$visit_imdb$ पासून लोकप्रियता आणि लोकप्रियता"
+  },
+  "_description_mm_feature_2": {
+    "message": "पुढील / मागील एपिसोड तारीख $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "अतिरिक्त मूव्ही / टीव्ही मालिका माहिती"
+  },
+  "_description_mm_feature_4": {
+    "message": "नवीन एपिसोड बद्दल सूचना"
+  },
+  "_description_mm_feature_5": {
+    "message": "टीव्ही मालिका आवडते म्हणून चिन्हांकित करा आणि नवीन भाग उपलब्ध असेल तेव्हा आपल्याला सूचना मिळेल"
+  },
+  "_description_mm_feature_7": {
+    "message": "व्हिडिओ प्लेबॅक आढळल्यास स्वयं-लपवा"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ आपल्याला मूव्ही (किंवा टीव्ही मालिका) ची रेटिंग आणि लोकप्रियता दर्शवेल"
+  },
+  "name": {
+    "message": "नाव"
+  },
+  "year": {
+    "message": "वर्ष"
+  },
+  "video_type": {
+    "message": "प्रकार"
+  },
+  "video_type_0": {
+    "message": "चित्रपट"
+  },
+  "video_type_1": {
+    "message": "मालिका"
+  },
+  "video_type_2": {
+    "message": "एपिसोड"
+  },
+  "runtime": {
+    "message": "रनटाइम"
+  },
+  "premiered": {
+    "message": "प्रीमिअर"
+  },
+  "premiere_in": {
+    "message": "प्रीमिअर"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "देश"
+  },
+  "actors": {
+    "message": "कलाकार"
+  },
+  "dvd": {
+    "message": "डीव्हीडी"
+  },
+  "director": {
+    "message": "संचालक"
+  },
+  "totalseasons": {
+    "message": "एकूण ऋतू"
+  },
+  "writer": {
+    "message": "लेखक"
+  },
+  "language": {
+    "message": "इंग्रजी"
+  },
+  "awards": {
+    "message": "पुरस्कार"
+  },
+  "rated": {
+    "message": "रेट"
+  },
+  "production": {
+    "message": "उत्पादन"
+  },
+  "plot": {
+    "message": "प्लॉट"
+  },
+  "website": {
+    "message": "संकेतस्थळ"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "भेट द्या $visit_imdb$ पृष्ठ"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "या शोसाठी $visit_tvmaze$ पृष्ठ भेट द्या"
+  },
+  "make_favorite": {
+    "message": "आवडते"
+  },
+  "make_favorite_title": {
+    "message": "आवडीमध्ये टीव्ही मालिका जोडा. हे आपल्याला नवीन एपिसोडबद्दल सूचना प्राप्त करण्यास अनुमती देईल."
+  },
+  "last_episode": {
+    "message": "शेवटचे"
+  },
+  "next_episode": {
+    "message": "पुढे"
+  },
+  "last_episode_title": {
+    "message": "शेवटचा भाग"
+  },
+  "next_episode_title": {
+    "message": "पुढील भाग"
+  },
+  "episode_airtime": {
+    "message": "एअरटाइम"
+  },
+  "episode_name": {
+    "message": "नाव"
+  },
+  "series_status": {
+    "message": "स्थिती"
+  },
+  "episodes_count": {
+    "message": "एपिसोड"
+  },
+  "episodes_count_title": {
+    "message": "वर्तमान सीझन $1 आहे $2 एपिसोड"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "दिवस"
+  },
+  "hours": {
+    "message": "तास"
+  },
+  "na": {
+    "message": "उपलब्ध नाही"
+  },
+  "user_rating": {
+    "message": "वापरकर्ता रेटिंग: $1"
+  },
+  "user_popularity": {
+    "message": "लोकप्रियता: #$1 मते"
+  },
+  "source": {
+    "message": "स्त्रोत: $1"
+  },
+  "show_details": {
+    "message": "अधिक ..."
+  },
+  "hide_details": {
+    "message": "कमी..."
+  },
+  "save_position": {
+    "message": "स्थिती जतन करा"
+  },
+  "revert_position": {
+    "message": "स्थिती परत करा"
+  },
+  "win_disable": {
+    "message": "$1 वर अक्षम करा"
+  },
+  "cm_advanced": {
+    "message": "प्रगत"
+  },
+  "op_visit_home": {
+    "message": "मुख्यपृष्ठ भेट द्या"
+  },
+  "op_support_me": {
+    "message": "या प्रकल्पास मदत करा"
+  },
+  "hide": {
+    "message": "विंडो लपवा"
+  },
+  "show": {
+    "message": "विंडो दर्शवा"
+  },
+  "reset_position": {
+    "message": "रीसेट स्थिती"
+  },
+  "search": {
+    "message": "शोध"
+  },
+  "configure_search": {
+    "message": "शोध पर्याय कॉन्फिगर करा"
+  },
+  "selection_search": {
+    "message": "शोधा #$1."
+  },
+  "menu_options": {
+    "message": "पर्याय"
+  },
+  "menu_quick_options": {
+    "message": "जलद पर्याय"
+  },
+  "menu_visit_homepage": {
+    "message": "मुख्यपृष्ठ भेट द्या"
+  },
+  "menu_request_support": {
+    "message": "$1 साठी समर्थन विनंती"
+  },
+  "show_introduction": {
+    "message": "परिचय पृष्ठ दर्शवा"
+  },
+  "o_about_issues": {
+    "message": "समस्या अहवालः"
+  },
+  "safari_store": {
+    "message": "मॅक अॅप स्टोअर"
+  },
+  "firefox_store": {
+    "message": "फायरफॉक्स ऍड-ऑन्स"
+  },
+  "chrome_store": {
+    "message": "Chrome वेब स्टोअर"
+  },
+  "movie_not_detected": {
+    "message": "चित्रपट सापडला नाही"
+  },
+  "movie_not_detected_title": {
+    "message": "या पृष्ठावर चित्रपट / टीव्ही मालिका सापडली नाही."
+  },
+  "movie_not_found": {
+    "message": "चित्रपट सापडला नाही"
+  },
+  "movie_not_found_title": {
+    "message": "चित्रपट माहिती सर्व्हरवर आढळली नाही."
+  },
+  "status_type_0": {
+    "message": "धावणे"
+  },
+  "status_type_1": {
+    "message": "संपले"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "शो सुरू राहील"
+  },
+  "status_type_title_1": {
+    "message": "शो संपला आहे - तेथे कोणतेही ऋतू नियोजित नाहीत"
+  },
+  "status_type_title_2": {
+    "message": "भविष्याचे अस्पष्ट आहे"
+  },
+  "notify_movie_not_found": {
+    "message": "चित्रपट सापडला नाही: #$1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "केवळ इंग्रजी चित्रपटाचे नाव वापरा!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "शोध परिपूर्ण नाही ..."
+  },
+  "notify_video_hide": {
+    "message": "व्हिडिओ सापडला - $app_name$ आता लपलेले आहे"
+  },
+  "notify_video_hide_body": {
+    "message": "हे अधिसूचना पुन्हा दर्शविण्यासाठी येथे क्लिक करा"
+  },
+  "notify_new_episodes": {
+    "message": "नवीन भाग प्रसार केला गेला"
+  },
+  "title_introduction": {
+    "message": "परिचय"
+  },
+  "supported_pages": {
+    "message": "समर्थित पृष्ठे:"
+  },
+  "supported_grows": {
+    "message": "(ही यादी मोठी आणि मोठी वाढते)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "रेटिंग आणि लोकप्रियता माहिती $1$ पासून आहेत. एपिसोड बद्दल माहिती $2$ पासून आहे."
+  },
+  "title_got_it": {
+    "message": "समजले, चला प्रारंभ करूया!"
+  },
+  "_description_privacy_policy": {
+    "message": "गोपनीयता धोरण"
+  },
+  "_description_recent_features": {
+    "message": "अलीकडे जोडलेले वैशिष्ट्ये:"
+  },
+  "_description_known_issues": {
+    "message": "माहित असलेल्या गोष्टी:"
+  },
+  "_description_common_tags": {
+    "message": "टॅग्ज:"
+  },
+  "_description_features": {
+    "message": "वैशिष्ट्ये:"
+  },
+  "about_me": {
+    "message": "2016 पासून मी अॅडॉन विकसक आहे. माझे लक्ष्य आपल्या वेब-ब्राउझरसाठी अधिक उत्पादनक्षम बनविण्यासाठी शक्तिशाली विस्तार तयार करणे आहे."
+  },
+  "about_good_job": {
+    "message": "जर तुम्हाला वाटत असेल की मी चांगली नोकरी करत आहे, कृपया दान करा :)"
+  },
+  "about_income": {
+    "message": "आपले दान माझा एकमात्र उत्पन्न आहे!"
+  },
+  "about_thanks": {
+    "message": "माझ्या कामाचे समर्थन केल्याबद्दल धन्यवाद!"
+  },
+  "o_about_support_by_iban": {
+    "message": "इबान वापरुन बँक हस्तांतरण:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "स्वतंत्र विकासक समर्थन!"
+  }
+}

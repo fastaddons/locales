@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "Joskus sivu ei ole juuri suunniteltu ja etsimäsi tiedot eivät ole tarpeeksi näkyvissä."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Yhteiset käyttötapaukset:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Korosta metatieto, kuten:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Korosta \"Ilmainen toimitus\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Etsitkö jotain tietystä verkossa? Käytä \"Templight Highlight\" auttaa sinua löytämään sen kaikilla sivuilla. Ajankohtaiset kohokohdat poistetaan automaattisesti, kun suljet selaimesi."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Voit jopa piilottaa sanoja asettamalla fontin koko nollaan tai tekemällä ne läpinäkyviksi."
+  },
+  "_description_tags_ah": {
+    "message": "korosta, merkki, metatieto, elokuva, automaattinen, teksti, synkronointi, valinta, haku"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ korostaa automaattisesti määritellyt sanat määritellyillä sivuilla."
+  },
+  "match_type": {
+    "message": "Match tyyppi:"
+  },
+  "match_type_0": {
+    "message": "Verkkotunnus on"
+  },
+  "match_type_1": {
+    "message": "URL-osoite on"
+  },
+  "match_type_2": {
+    "message": "URL sisältää"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "Jokainen sivu"
+  },
+  "selection_highlight": {
+    "message": "Korosta $1"
+  },
+  "selection_temp": {
+    "message": "Korosta väliaikaisesti $1"
+  },
+  "selection_temp_everywhere": {
+    "message": "Korosta tilapäisesti kaikkialla $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ Tällä sivulla"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Avaa aina uudessa välilehdessä - kun napsautat työkalupalkin kuvaketta"
+  },
+  "disable_rule": {
+    "message": "Liikuntarajoitteinen"
+  },
+  "temporal_rule": {
+    "message": "Ajallinen"
+  },
+  "each_word": {
+    "message": "Jokainen sana"
+  },
+  "rules": {
+    "message": "Säännöt"
+  },
+  "delete": {
+    "message": "Poistaa"
+  },
+  "rename": {
+    "message": "Nimeä uudelleen"
+  },
+  "duplicate": {
+    "message": "Kaksoiskappale"
+  },
+  "delete_rule": {
+    "message": "Poista sääntö"
+  },
+  "delete_rule_title": {
+    "message": "Poista sääntö \"$1\"?"
+  },
+  "on_pages": {
+    "message": "Sivuilla:"
+  },
+  "disabled_rule": {
+    "message": "Vammainen sääntö"
+  },
+  "incomplete_rule": {
+    "message": "Epätäydellinen sääntö"
+  },
+  "active_on_current_page": {
+    "message": "Aktiivinen nykyisellä sivulla"
+  },
+  "temporal_rule_helper": {
+    "message": "Ajankohtainen sääntö - poistetaan selaimen uudelleenkäynnistyksen jälkeen"
+  },
+  "active_on_pages": {
+    "message": "Aktiivinen sivuilla:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Korosta jokainen sana erikseen"
+  },
+  "case_sensitive": {
+    "message": "Tapauskohtainen"
+  },
+  "ignore_diacritics": {
+    "message": "Sivuuttaa diakriittiset"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "Tavallinen ilme"
+  },
+  "across_elements": {
+    "message": "Elementteissä"
+  },
+  "across_elements_help": {
+    "message": "Etsi tekstiä naapuri HTML-elementtejä"
+  },
+  "style": {
+    "message": "Tyyli"
+  },
+  "preview": {
+    "message": "Esikatselu:"
+  },
+  "empty_rule": {
+    "message": "tyhjä sääntö"
+  },
+  "create_new_rule": {
+    "message": "Luo uusi sääntö"
+  },
+  "import_export": {
+    "message": "Tuonti ja vienti"
+  },
+  "help_this_project": {
+    "message": "Auta tätä hanketta"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "Usein kysytyt kysymykset:"
+  },
+  "storage_info": {
+    "message": "Säilytystiedot:"
+  },
+  "storage_safari_1": {
+    "message": "Safari ei tällä hetkellä tue automaattista tietojen synkronointia."
+  },
+  "storage_safari_2": {
+    "message": "Jos haluat siirtää (tai varmuuskopioida korostussääntöjä, käytä \"Tuo / vienti\" -ominaisuutta."
+  },
+  "storage_info_1": {
+    "message": "Säännöt tallennetaan suojatun $1-synkronoinnin avulla, jotka synkronoivat säännöt kaikkien laitteiden välillä (jos olet kirjautunut samaan tiliin)."
+  },
+  "storage_info_2": {
+    "message": "Tämä pilvivarasto voi tallentaa 100 kt: n dataa ja jopa 500 korostussääntöä."
+  },
+  "storage_info_3": {
+    "message": "Voit myös viedä (varmuuskopio) sääntöjäsi tiedostoon \"Tuo / vienti\" -ominaisuus ja tuoda se sitten muihin laitteisiin."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Korvaa nykyiset korostussäännöt"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Lisää sivu korostaaksesi päälle"
+  },
+  "remove_highlight_from_page": {
+    "message": "Poista kohokohta sivulta"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "Kursiivi"
+  },
+  "underline": {
+    "message": "Korostaa"
+  },
+  "background_color": {
+    "message": "Taustaväri"
+  },
+  "background": {
+    "message": "Tausta"
+  },
+  "text_color": {
+    "message": "Tekstin väri"
+  },
+  "color": {
+    "message": "Väri"
+  },
+  "font_size": {
+    "message": "Fonttikoko"
+  },
+  "rule_name": {
+    "message": "Säännön nimi"
+  },
+  "highlight_regular_expression": {
+    "message": "Korosta säännöllinen lauseke:"
+  },
+  "highlight_text": {
+    "message": "Korosta tekstiä:"
+  },
+  "highlight_on_pages": {
+    "message": "Korosta sivuilla"
+  },
+  "empty_name_helper": {
+    "message": "Jätä tyhjäksi käyttää \"korostettu teksti\" nimellä"
+  },
+  "faq_1": {
+    "message": "Kuinka nopeasti korosta sana nykyisellä sivulla?"
+  },
+  "faq_1a": {
+    "message": "Käytä Context Menu - Valitse teksti / oikea napsautus / \"Automaattinen korostus\". Jos napsautat sivua hiiren kakkospainikkeella (ilman tekstiä) Voit käyttää olemassa olevia sääntöjä nykyiselle sivulle."
+  },
+  "faq_2": {
+    "message": "Haluan korostaa useita sanoja, minun täytyy luoda uusi sääntö jokaiselle sanalle erikseen?"
+  },
+  "faq_2a": {
+    "message": "Ei, tarkista vain \"jokainen sana\" -valintaruutu. Sitten jokainen sana korostetaan erikseen."
+  },
+  "faq_3": {
+    "message": "Mikä on \"RegExp\"?"
+  },
+  "faq_3a": {
+    "message": "Tunnetaan myös säännöllisenä ilmaisuna, se on merkkejä, jotka määrittävät hakukuvion. Se on monimutkainen rakenne, joka mahdollistaa monimutkaisen korostuksen elementtien kanssa joillakin vastaavalla kuviolla. Esimerkiksi hinnat, päivämäärät, puhelinnumerot jne. ..."
+  },
+  "faq_4": {
+    "message": "Voitteko näyttää minulle RegExp-esimerkkejä?"
+  },
+  "faq_4a": {
+    "message": "Korosta kaikki hinnat, kuten $1"
+  },
+  "faq_5": {
+    "message": "Voisitko selittää ne?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" Kohokohdistaa dollarin merkki. Backslash tarvitaan täällä, koska dollari on erityinen merkitys RegExp: ssä."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" Kohokohdat yhden numeron"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" tarkoittaa toista tai useampia kertoja. Kun se on asetettu numeronvalitsimen $2$ jälkeen, se tarkoittaa yhtä tai useampaa numeroa."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" Kohokohdat piste. Backslash tarvitaan jälleen, koska dot-symboli yksin tarkoittaa mitään yksittäistä merkkiä RegExp: ssä."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" tarkoittaa nollaa tai kerran. Kun kiinnittimen jälkeen $2$, se tarkoittaa mitä tahansa näiden kiinnikkeiden sisällä on valinnainen (voi olla siellä tai ei). Käytämme sitä numeron desimaaliosaa, joka on valinnainen."
+  },
+  "faq_5f": {
+    "message": "lisätietoja RegExp-säännöistä"
+  },
+  "import_finished": {
+    "message": "Tuo valmis!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Virhe",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Tuo varmuuskopiotiedosto $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Kotisivu",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon-sivu",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Storesta",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefoxin lisäosat",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird lisäosat",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Vaihtoehdot",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Fonttikoko",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Sivupalkin koko",
+    "common": true
+  },
+  "label_next": {
+    "message": "Seuraava",
+    "common": true
+  },
+  "label_note": {
+    "message": "Merkintä:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Poista",
+    "common": true
+  },
+  "label_warning": {
+    "message": "VAROITUS:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Vaihtoehdot:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Oletusarvo:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Tehty!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Kopioni!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Mukautettu:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Kiinni",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Asennettu",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Avaa sivu",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Olla samaa mieltä",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Peruuttaa",
+    "common": true
+  },
+  "label_save": {
+    "message": "Tallentaa",
+    "common": true
+  },
+  "label_required": {
+    "message": "Edellytetään",
+    "common": true
+  },
+  "label_sending": {
+    "message": "lähettäminen ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Scale:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoomaus:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Koko:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Tulossa pian",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Tallenna muutokset",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Hylkää muutokset",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Valikko",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Käy kotisivulla",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Auta tätä hanketta",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Tuki riippumaton kehittäjä!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Hei siellä!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Olen ADDON Kehittäjä vuodesta 2016. Tavoitteenani on rakentaa voimakkaita laajennuksia web-selaimellesi, jotta sinusta tulee tuottavampi.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Jos luulet, että teen hyvää työtä, lahjoita :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Lahjoituksesi on ainoa tuloni!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Kiitos, että tukenut työni!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Auta",
+    "common": true
+  },
+  "o_title": {
+    "message": "Asetukset - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "varmuuskopioida",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Luo uusi varmuuskopio",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Tallenna asetukset",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Voit viedä tiedot tiedostoon uudelleen, avaa tämä ikkuna uudessa välilehdessä.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Napsauta hiiren kakkospainikkeella / \"Lataa linkitetty tiedosto\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Yleinen",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Tausta",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Kontekstivalikko",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Pikkukuvat",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Pikavalinnat",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Tuo / varmuuskopiointi",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Asetukset",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Teema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Yleiset:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "liikuntarajoitteinen",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "käytössä",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pikselit",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "sekuntia",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Kontekstivalikko:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Poista kontekstivalikko käytöstä: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Varmuuskopiointi / palautusasetukset tiedostoon:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Tuonti",
+    "common": true
+  },
+  "title_import": {
+    "message": "Tuonti",
+    "common": true
+  },
+  "title_export": {
+    "message": "Viedä",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Viennin varmuuskopiointi",
+    "common": true
+  },
+  "label_or": {
+    "message": "tai",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Hei :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Nimeni on $1$ ja olen kirjoittaja $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Jos pidät siitä, tarkista se täältä:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Jos et pidä siitä, kerro minulle miksi sähköpostini. Olen toteuttanut suurimman osan ominaisuuspyynnöistä.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Harkitse työn tukemista",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Pankkisiirto IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "lahjoitus (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "tulossa minun suojelija",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Kiitos!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "koti:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Ottaa yhteyttä:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Ilmoita:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Voin vastata vain englanniksi / slovakiksi",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sosiaalinen media:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Tallenna muutokset ja sulje",
+    "common": true
+  },
+  "o_saved": {
+    "message": "tallennettu!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Ei vastaavia tuloksia",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Ei dataa",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Tumma tila",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Järjestelmällä",
+    "common": true
+  },
+  "used_space": {
+    "message": "Käytetyt tila: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Avaa uudessa välilehdessä",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Vaihda ADDON ON / OFF",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "ADDON on poistettu käytöstä",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Miksi?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Tietosuojakäytäntö",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Äskettäin lisätyt ominaisuudet:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tunnisteet:",
+    "common": true
+  }
+}

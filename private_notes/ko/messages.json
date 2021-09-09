@@ -1,0 +1,341 @@
+{
+  "_description_feature_1": {
+    "message": ""
+  },
+  "_description_feature_2": {
+    "message": ""
+  },
+  "_description_tags_pn": {
+    "message": ""
+  },
+  "app_name": {
+    "message": "Private Notes"
+  },
+  "app_desc": {
+    "message": ""
+  },
+  "compression_level_0": {
+    "message": ""
+  },
+  "compression_level_1": {
+    "message": ""
+  },
+  "compression_level_2": {
+    "message": ""
+  },
+  "compression_level_info_0": {
+    "message": ""
+  },
+  "compression_level_info_1": {
+    "message": ""
+  },
+  "compression_level_info_2": {
+    "message": ""
+  },
+  "title_notes": {
+    "message": ""
+  },
+  "restore_backup": {
+    "message": ""
+  },
+  "create_new_note": {
+    "message": ""
+  },
+  "auto_locking_strategy_0": {
+    "message": ""
+  },
+  "auto_locking_strategy_1": {
+    "message": ""
+  },
+  "restore_note": {
+    "message": ""
+  },
+  "locked": {
+    "message": ""
+  },
+  "change_master_password": {
+    "message": ""
+  },
+  "import_export": {
+    "message": ""
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "notes_auto_saved_placeholder": {
+    "message": ""
+  },
+  "setup_new_pwd": {
+    "message": ""
+  },
+  "change_pwd": {
+    "message": ""
+  },
+  "pwd_to_change": {
+    "message": ""
+  },
+  "current_pwd": {
+    "message": ""
+  },
+  "new_pwd_advice": {
+    "message": ""
+  },
+  "repeat_pwd": {
+    "message": ""
+  },
+  "hint_pwd": {
+    "message": ""
+  },
+  "pwd_warning": {
+    "message": ""
+  },
+  "remember_pwd_0": {
+    "message": ""
+  },
+  "remember_pwd_1": {
+    "message": ""
+  },
+  "remember_pwd_2": {
+    "message": ""
+  },
+  "pwd_save": {
+    "message": ""
+  },
+  "error_saving_note": {
+    "message": ""
+  },
+  "quota_bytes_per_item": {
+    "message": ""
+  },
+  "quota_bytes": {
+    "message": ""
+  },
+  "max_items": {
+    "message": ""
+  },
+  "max_write_operations_per_hour": {
+    "message": ""
+  },
+  "max_write_operations_per_minute": {
+    "message": ""
+  },
+  "security": {
+    "message": ""
+  },
+  "visual_options": {
+    "message": ""
+  },
+  "compression_level": {
+    "message": ""
+  },
+  "auto_locking_strategy": {
+    "message": ""
+  },
+  "auto_lock_inactive_for": {
+    "message": ""
+  },
+  "dense_notes_list": {
+    "message": ""
+  },
+  "import_replace_all": {
+    "message": ""
+  },
+  "export_encrypted": {
+    "message": ""
+  },
+  "minutes": {
+    "message": ""
+  },
+  "label_font_size": {
+    "message": "글꼴 크기"
+  },
+  "sidebar_size": {
+    "message": ""
+  },
+  "popup_window_width": {
+    "message": ""
+  },
+  "popup_window_height": {
+    "message": ""
+  },
+  "always_open_in_new_tab": {
+    "message": ""
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "크롬 웹 스토어"
+  },
+  "firefox_store": {
+    "message": "Firefox 부가 기능"
+  },
+  "import_finished": {
+    "message": "가져 오기 완료!"
+  },
+  "import_error": {
+    "message": "오류"
+  },
+  "import_backup_file": {
+    "message": "백업 파일 가져 오기 $1"
+  },
+  "search_search": {
+    "message": ""
+  },
+  "title_import": {
+    "message": "수입"
+  },
+  "title_export": {
+    "message": "수출"
+  },
+  "title_backups": {
+    "message": ""
+  },
+  "homepage": {
+    "message": "홈페이지"
+  },
+  "addon_page": {
+    "message": "Addon 페이지"
+  },
+  "settings": {
+    "message": ""
+  },
+  "options": {
+    "message": ""
+  },
+  "label_backups": {
+    "message": ""
+  },
+  "label_rename": {
+    "message": ""
+  },
+  "label_download": {
+    "message": ""
+  },
+  "label_delete": {
+    "message": ""
+  },
+  "label_next": {
+    "message": "다음"
+  },
+  "label_note": {
+    "message": "노트 :"
+  },
+  "label_remove": {
+    "message": "없애다"
+  },
+  "label_warning": {
+    "message": "경고:"
+  },
+  "label_default": {
+    "message": "기본:"
+  },
+  "label_done": {
+    "message": "끝난!"
+  },
+  "label_copied": {
+    "message": "복사!"
+  },
+  "label_close": {
+    "message": "닫기"
+  },
+  "label_open_page": {
+    "message": "페이지를 엽니 다"
+  },
+  "label_agree": {
+    "message": "동의하다"
+  },
+  "label_cancel": {
+    "message": "취소"
+  },
+  "op_support_me": {
+    "message": "이 프로젝트에 도움이됩니다"
+  },
+  "support_developer": {
+    "message": "독립적 인 개발자를 지원하십시오!"
+  },
+  "hello_there": {
+    "message": "안녕하십니까!"
+  },
+  "about_me": {
+    "message": "저는 2016 년 이래 Addon Developer입니다. 내 목표는 귀하의 웹 브라우저에 대한 강력한 확장을 구축하여 더 생산적으로 만드는 것입니다."
+  },
+  "about_good_job": {
+    "message": "내가 좋은 일을하고 있다고 생각한다면, 기부하십시오 :)"
+  },
+  "about_income": {
+    "message": "기부금은 나의 유일한 수입입니다!"
+  },
+  "about_thanks": {
+    "message": "내 일을 지원해 주셔서 감사합니다!"
+  },
+  "o_tab_context_menu": {
+    "message": "상황에 맞는 메뉴"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_pixels": {
+    "message": "픽셀"
+  },
+  "o_seconds": {
+    "message": "초월"
+  },
+  "label_or": {
+    "message": "또는"
+  },
+  "o_about_hello": {
+    "message": "안녕하세요 :)"
+  },
+  "o_about_intro": {
+    "message": "내 이름은 $1$이고 $app_name$의 저자입니다."
+  },
+  "o_about_like_it": {
+    "message": "당신이 그것을 좋아한다면, 그것을 평가하십시오."
+  },
+  "o_about_thanks": {
+    "message": "감사합니다!"
+  },
+  "o_about_contact": {
+    "message": "접촉:"
+  },
+  "o_about_issues": {
+    "message": "보고서 문제 :"
+  },
+  "o_about_social_media": {
+    "message": "소셜 미디어:"
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN을 이용한 은행 송금 :"
+  },
+  "used_space": {
+    "message": "중고 공간 : $1 / $2."
+  },
+  "ps_no_results": {
+    "message": "일치하는 결과가 없습니다"
+  },
+  "label_no_data": {
+    "message": "데이터 없음"
+  },
+  "dark_mode": {
+    "message": "어두운 모드"
+  },
+  "dark_mode_system": {
+    "message": "시스템에 의해 통제됩니다"
+  },
+  "open_in_new_tab": {
+    "message": "새 탭에서 열립니다"
+  },
+  "_description_features": {
+    "message": ""
+  },
+  "_description_privacy_policy": {
+    "message": "개인 정보 정책"
+  },
+  "_description_recent_features": {
+    "message": "최근 추가 된 기능 :"
+  },
+  "_description_common_tags": {
+    "message": "태그 :"
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "_description_feature_1": {
+    "message": ""
+  },
+  "_description_feature_2": {
+    "message": ""
+  },
+  "_description_tags_pn": {
+    "message": ""
+  },
+  "app_name": {
+    "message": "Private Notes"
+  },
+  "app_desc": {
+    "message": ""
+  },
+  "compression_level_0": {
+    "message": ""
+  },
+  "compression_level_1": {
+    "message": ""
+  },
+  "compression_level_2": {
+    "message": ""
+  },
+  "compression_level_info_0": {
+    "message": ""
+  },
+  "compression_level_info_1": {
+    "message": ""
+  },
+  "compression_level_info_2": {
+    "message": ""
+  },
+  "title_notes": {
+    "message": ""
+  },
+  "restore_backup": {
+    "message": ""
+  },
+  "create_new_note": {
+    "message": ""
+  },
+  "auto_locking_strategy_0": {
+    "message": ""
+  },
+  "auto_locking_strategy_1": {
+    "message": ""
+  },
+  "restore_note": {
+    "message": ""
+  },
+  "locked": {
+    "message": ""
+  },
+  "change_master_password": {
+    "message": ""
+  },
+  "import_export": {
+    "message": ""
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "notes_auto_saved_placeholder": {
+    "message": ""
+  },
+  "setup_new_pwd": {
+    "message": ""
+  },
+  "change_pwd": {
+    "message": ""
+  },
+  "pwd_to_change": {
+    "message": ""
+  },
+  "current_pwd": {
+    "message": ""
+  },
+  "new_pwd_advice": {
+    "message": ""
+  },
+  "repeat_pwd": {
+    "message": ""
+  },
+  "hint_pwd": {
+    "message": ""
+  },
+  "pwd_warning": {
+    "message": ""
+  },
+  "remember_pwd_0": {
+    "message": ""
+  },
+  "remember_pwd_1": {
+    "message": ""
+  },
+  "remember_pwd_2": {
+    "message": ""
+  },
+  "pwd_save": {
+    "message": ""
+  },
+  "error_saving_note": {
+    "message": ""
+  },
+  "quota_bytes_per_item": {
+    "message": ""
+  },
+  "quota_bytes": {
+    "message": ""
+  },
+  "max_items": {
+    "message": ""
+  },
+  "max_write_operations_per_hour": {
+    "message": ""
+  },
+  "max_write_operations_per_minute": {
+    "message": ""
+  },
+  "security": {
+    "message": ""
+  },
+  "visual_options": {
+    "message": ""
+  },
+  "compression_level": {
+    "message": ""
+  },
+  "auto_locking_strategy": {
+    "message": ""
+  },
+  "auto_lock_inactive_for": {
+    "message": ""
+  },
+  "dense_notes_list": {
+    "message": ""
+  },
+  "import_replace_all": {
+    "message": ""
+  },
+  "export_encrypted": {
+    "message": ""
+  },
+  "minutes": {
+    "message": ""
+  },
+  "label_font_size": {
+    "message": "അക്ഷര വലിപ്പം"
+  },
+  "sidebar_size": {
+    "message": ""
+  },
+  "popup_window_width": {
+    "message": ""
+  },
+  "popup_window_height": {
+    "message": ""
+  },
+  "always_open_in_new_tab": {
+    "message": ""
+  },
+  "safari_store": {
+    "message": "മാക് ആപ്പ് സ്റ്റോർ"
+  },
+  "chrome_store": {
+    "message": "Chrome വെബ് സ്റ്റോർ"
+  },
+  "firefox_store": {
+    "message": "ഫയർഫോക്സ് ആഡ്-ഓണുകൾ"
+  },
+  "import_finished": {
+    "message": "ഇറക്കുമതി പൂർത്തിയായി!"
+  },
+  "import_error": {
+    "message": "പിശക്"
+  },
+  "import_backup_file": {
+    "message": "ഇറക്കുമതി ബാക്കപ്പ് ഫയൽ $1"
+  },
+  "search_search": {
+    "message": ""
+  },
+  "title_import": {
+    "message": "ഇറക്കുമതിച്ചരക്ക്"
+  },
+  "title_export": {
+    "message": "കയറ്റുമതി"
+  },
+  "title_backups": {
+    "message": ""
+  },
+  "homepage": {
+    "message": "ഹോംപേജ്"
+  },
+  "addon_page": {
+    "message": "ആഡോൺ പേജ്"
+  },
+  "settings": {
+    "message": ""
+  },
+  "options": {
+    "message": ""
+  },
+  "label_backups": {
+    "message": ""
+  },
+  "label_rename": {
+    "message": ""
+  },
+  "label_download": {
+    "message": ""
+  },
+  "label_delete": {
+    "message": ""
+  },
+  "label_next": {
+    "message": "അടുത്തത്"
+  },
+  "label_note": {
+    "message": "കുറിപ്പ്:"
+  },
+  "label_remove": {
+    "message": "മാറ്റുക"
+  },
+  "label_warning": {
+    "message": "മുന്നറിയിപ്പ്:"
+  },
+  "label_default": {
+    "message": "സ്ഥിരസ്ഥിതി:"
+  },
+  "label_done": {
+    "message": "ചെയ്തു!"
+  },
+  "label_copied": {
+    "message": "പകർത്തി!"
+  },
+  "label_close": {
+    "message": "അടയ്ക്കുക"
+  },
+  "label_open_page": {
+    "message": "പേജ് തുറക്കുക"
+  },
+  "label_agree": {
+    "message": "സമ്മതിക്കുക"
+  },
+  "label_cancel": {
+    "message": "റദ്ദാക്കുക"
+  },
+  "op_support_me": {
+    "message": "ഈ പ്രോജക്റ്റിനെ സഹായിക്കുക"
+  },
+  "support_developer": {
+    "message": "സ്വതന്ത്ര ഡവലപ്പറിനെ പിന്തുണയ്ക്കുക!"
+  },
+  "hello_there": {
+    "message": "നീ അവിടെയുണ്ടോ!"
+  },
+  "about_me": {
+    "message": "ഞാൻ 2016 മുതൽ ആഡൻ ഡെവലപ്പർ ആണ്. നിങ്ങളെ കൂടുതൽ ഉൽപാദനക്ഷമമാക്കുന്നതിന് നിങ്ങളുടെ വെബ്-ബ്ര browser സറിനായി ശക്തമായ വിപുലീകരണങ്ങൾ നിർമ്മിക്കുക എന്നതാണ് എന്റെ ലക്ഷ്യം."
+  },
+  "about_good_job": {
+    "message": "ഞാൻ ഒരു നല്ല ജോലി ചെയ്യുന്നുവെന്ന് നിങ്ങൾ കരുതുന്നുവെങ്കിൽ, ദയവായി സംഭാവന ചെയ്യുക :)"
+  },
+  "about_income": {
+    "message": "നിങ്ങളുടെ സംഭാവന എന്റെ ഏക വരുമാനമാണ്!"
+  },
+  "about_thanks": {
+    "message": "എന്റെ ജോലിയെ പിന്തുണച്ചതിന് നന്ദി!"
+  },
+  "o_tab_context_menu": {
+    "message": "സന്ദർഭ മെനു"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_pixels": {
+    "message": "പിക്സലുകൾ"
+  },
+  "o_seconds": {
+    "message": "സെക്കൻഡ്"
+  },
+  "label_or": {
+    "message": "അഥവാ"
+  },
+  "o_about_hello": {
+    "message": "ഹലോ :)"
+  },
+  "o_about_intro": {
+    "message": "എന്റെ പേര് $1$, ഞാൻ $app_name$ ന്റെ രചയിതാവാണ്."
+  },
+  "o_about_like_it": {
+    "message": "നിങ്ങൾക്ക് ഇത് ഇഷ്ടമാണെങ്കിൽ, ദയവായി ഇത് ഇവിടെ റേറ്റുചെയ്യുക:"
+  },
+  "o_about_thanks": {
+    "message": "നന്ദി!"
+  },
+  "o_about_contact": {
+    "message": "ബന്ധപ്പെടുക:"
+  },
+  "o_about_issues": {
+    "message": "റിപ്പോർട്ട് പ്രശ്നങ്ങൾ:"
+  },
+  "o_about_social_media": {
+    "message": "സോഷ്യൽ മീഡിയ:"
+  },
+  "o_about_support_by_iban": {
+    "message": "ഇബാൻ ഉപയോഗിച്ച് ബാങ്ക് കൈമാറ്റം:"
+  },
+  "used_space": {
+    "message": "ഉപയോഗിച്ച സ്പേസ്: $1 / $2"
+  },
+  "ps_no_results": {
+    "message": "പൊരുത്തപ്പെടുന്ന ഫലങ്ങളൊന്നുമില്ല"
+  },
+  "label_no_data": {
+    "message": "ഡാറ്റാ ഇല്ല"
+  },
+  "dark_mode": {
+    "message": "ഇരുണ്ട മോഡ്"
+  },
+  "dark_mode_system": {
+    "message": "സിസ്റ്റം നിയന്ത്രിക്കുന്നു"
+  },
+  "open_in_new_tab": {
+    "message": "പുതിയ ടാബിൽ തുറക്കുക"
+  },
+  "_description_features": {
+    "message": ""
+  },
+  "_description_privacy_policy": {
+    "message": "സ്വകാര്യതാനയം"
+  },
+  "_description_recent_features": {
+    "message": "അടുത്തിടെ ചേർത്ത സവിശേഷതകൾ:"
+  },
+  "_description_common_tags": {
+    "message": "ടാഗുകൾ:"
+  }
+}

@@ -1,0 +1,2543 @@
+{
+  "app_name": {
+    "message": "Group Speed Dial"
+  },
+  "app_desc": {
+    "message": "供喜好自訂的使用者使用的快速撥號（又稱視覺化書籤）。且可在裝置間免費雲端同步。沒有廣告！"
+  },
+  "welcome_header": {
+    "message": "歡迎使用 $app_name$ 附加元件"
+  },
+  "welcome_setup": {
+    "message": ""
+  },
+  "welcome_watch_video": {
+    "message": "觀看簡短的介紹影片 (1:50) 以檢視幾個主要功能。"
+  },
+  "welcome_watch_android_video": {
+    "message": "觀看 Android 設定影片。"
+  },
+  "welcome_home_group": {
+    "message": "目前的「家群組」有 4 x 3 個快速撥號，您可以在此變更："
+  },
+  "welcome_import_josep_del_rio": {
+    "message": "這是從「Speed Dial by Josep del Rio」而來的重要功能，其他的在選項中："
+  },
+  "welcome_options_page": {
+    "message": "選項頁面"
+  },
+  "welcome_pick_color": {
+    "message": "挑選您想要使用的色彩主題："
+  },
+  "welcome_visuals": {
+    "message": "要取得更多選項，請見選項頁面"
+  },
+  "import_settings_button": {
+    "message": "匯入設定與快速撥號……"
+  },
+  "import_josep_button": {
+    "message": "匯入「CurrentSettings.speeddial」檔案……"
+  },
+  "import_firefox_button": {
+    "message": "匯入「bookmarks-2017-XX-XX.json」檔案……"
+  },
+  "import_fast_dial_button": {
+    "message": "匯入「fastdial.json」檔案……"
+  },
+  "import_super_start_button": {
+    "message": "匯入「sites.v1.json」檔案……"
+  },
+  "import_speed_dial_2_button": {
+    "message": "匯入「any_name」檔案……"
+  },
+  "import_done_text": {
+    "message": "已匯入外部快速撥號"
+  },
+  "import_skip": {
+    "message": "不要匯入任何東西"
+  },
+  "import_pages_stats": {
+    "message": "匯入在 $2 群組中的 $1 個頁面"
+  },
+  "import_data_from": {
+    "message": "匯入資料從："
+  },
+  "load_bookmarks": {
+    "message": "載入書籤"
+  },
+  "load_top_pages": {
+    "message": "載入最常使用的頁面"
+  },
+  "group_generated_name": {
+    "message": "群組 $1"
+  },
+  "default_home_group_name": {
+    "message": "家群組"
+  },
+  "drag_group_hover_open": {
+    "message": "開啟群組"
+  },
+  "replace_dial": {
+    "message": "取代快速撥號"
+  },
+  "replace_duplicate_dial": {
+    "message": "重覆的快速撥號 - 點擊以更新縮圖"
+  },
+  "create_multi_page_dial": {
+    "message": ""
+  },
+  "replace_multi_page_dial": {
+    "message": ""
+  },
+  "msg_pro_cloud_upload": {
+    "message": "正在上傳縮圖到雲端，這讓您可以看到它們在"
+  },
+  "msg_pro_cloud_web": {
+    "message": "雲端快速撥號網頁"
+  },
+  "msg_pro_cloud_web_desc": {
+    "message": "雲端版本目前無法邊輯，但它在每個瀏覽器都能正常運作，甚至是在您的手機上也可以！"
+  },
+  "msg_pro_same_thumbnails": {
+    "message": "現在您在每個裝置上都有相同的縮圖了！"
+  },
+  "msg_pro_thumbnails_download": {
+    "message": "這將會從雲端下載您上傳的所有縮圖並取代您目前本機上的縮圖。"
+  },
+  "msg_correct_account": {
+    "message": "請造訪雲端伺服器並確保您已登入正確的帳號："
+  },
+  "msg_replace_text": {
+    "message": "或者您也可以取代您本機上的快速撥號。"
+  },
+  "url_search": {
+    "message": ""
+  },
+  "msg_search_by": {
+    "message": "搜尋使用："
+  },
+  "msg_search_tip": {
+    "message": "祕訣：新增註記到快速撥號中以便搜尋"
+  },
+  "msg_search_url": {
+    "message": "URL"
+  },
+  "msg_search_name": {
+    "message": "名稱"
+  },
+  "msg_search_note": {
+    "message": "註記"
+  },
+  "msg_add_dial_text": {
+    "message": "您也可以在群組之間到處看看，移動或移除快速撥號。"
+  },
+  "msg_add_dial_no_show": {
+    "message": "不要再顯示"
+  },
+  "msg_add_dials_here": {
+    "message": "插入空的快速撥號"
+  },
+  "add_target_dial": {
+    "message": "選取頁面要放置的目標空快速撥號："
+  },
+  "add_target_dials": {
+    "message": "建立新的空群組或選取 $1 快速撥號"
+  },
+  "add_image": {
+    "message": "插入圖片"
+  },
+  "bc_first_group": {
+    "message": "第一個群組已建立"
+  },
+  "show_all_groups": {
+    "message": "顯示所有群組"
+  },
+  "fr_home_group": {
+    "message": "家群組"
+  },
+  "err_db_settings_loading": {
+    "message": "載入設定與資料庫時發生錯誤"
+  },
+  "err_db_creation": {
+    "message": "在建立資料庫時發生錯誤"
+  },
+  "err_db_loading": {
+    "message": "載入資料庫時發生錯誤"
+  },
+  "err_db_images": {
+    "message": "從資料庫取得圖片時發生錯誤"
+  },
+  "sync_synced_ok": {
+    "message": "已與伺服器同步"
+  },
+  "sync_working": {
+    "message": "正在運作……"
+  },
+  "sync_syncing": {
+    "message": "正在同步……"
+  },
+  "sync_synced": {
+    "message": "已同步"
+  },
+  "sync_sync_ok": {
+    "message": "同步成功"
+  },
+  "sync_err_label": {
+    "message": "錯誤 $1 - 稍後再試"
+  },
+  "sync_err_conflict": {
+    "message": "衝突"
+  },
+  "sync_err_server_newer": {
+    "message": "伺服器有較新的版本"
+  },
+  "sync_err_user_mismatch_": {
+    "message": "使用者不符合"
+  },
+  "sync_err_wrong_account": {
+    "message": "您的版本屬於不同的帳號。"
+  },
+  "sync_err_not_empty": {
+    "message": "錯誤 - 不為空"
+  },
+  "sync_err_server_not_empty": {
+    "message": "伺服器已有相同資料。"
+  },
+  "sync_err_forbidden": {
+    "message": "您無法存取此資源"
+  },
+  "sync_downloading": {
+    "message": "正在下載……"
+  },
+  "sync_down_thumbnails": {
+    "message": "正在下載縮圖"
+  },
+  "sync_down_thumbnails_progress": {
+    "message": "正在下載 $1 / $2"
+  },
+  "sync_down_thumbnails_wait": {
+    "message": "正在下載縮圖，請稍候"
+  },
+  "sync_up": {
+    "message": "正在上傳……"
+  },
+  "sync_up_sync_thumbnails": {
+    "message": "正在同步縮圖…… 正在準備上傳"
+  },
+  "sync_up_progress": {
+    "message": "正在上傳 $1 / $2"
+  },
+  "sync_up_wait": {
+    "message": "正在上傳縮圖，請稍候"
+  },
+  "sync_thumbnails_progress": {
+    "message": "正在同步縮圖…… $1 / $2"
+  },
+  "add_page": {
+    "message": "新增此頁面到快速撥號中"
+  },
+  "add_dial": {
+    "message": "新增此分頁到快速撥號中"
+  },
+  "add_link": {
+    "message": "新增此連結到快速撥號中"
+  },
+  "use_image_as_thumbnail": {
+    "message": "使用此圖片作為快速撥號的縮圖"
+  },
+  "cm_choose_dial": {
+    "message": "選擇目標快速撥號"
+  },
+  "return_to_tab": {
+    "message": "回到分頁"
+  },
+  "stay_here": {
+    "message": "停在這裡"
+  },
+  "close_added_pages": {
+    "message": ""
+  },
+  "close_this_tab": {
+    "message": ""
+  },
+  "group_first_created": {
+    "message": "第一個群組已建立"
+  },
+  "privacy_info_head": {
+    "message": "此附加元件讓您可以使用在 $1 的雲端伺服器備份與同步您的快速撥號"
+  },
+  "privacy_info_body_1": {
+    "message": "如果您建立了雲端帳號，您的快速撥號將會與此伺服器同步。這些資料僅包含關於您的撥號的基本資訊（由您輸入的），如名稱、URL等等。沒有追蹤資料更沒有統計！"
+  },
+  "privacy_info_body_2": {
+    "message": "沒有雲端帳號時，此附加元件不會對任何伺服器發出任何請求。如果您啟用了從 Google 服務下載網站圖示的選項（在選項頁面），則將會對 Google 的伺服器發出請求以下載網站圖示。對選擇性雲端相關服務的使用（如公開媒體庫的縮圖）也會對雲端伺服器發出請求。這些請求不會包含任何私人資訊。"
+  },
+  "field_size_range": {
+    "message": "值必須在 $1 到 $2 間"
+  },
+  "field_zoom_range": {
+    "message": "縮放必須在 $1 到 $2 間"
+  },
+  "field_scale_range": {
+    "message": "尺寸比例必須在 $1 到 $2 間"
+  },
+  "field_out_of_range": {
+    "message": "超出範圍"
+  },
+  "file_load_label": {
+    "message": "從檔案載入……"
+  },
+  "file_loaded_name": {
+    "message": "已載入檔案：$1"
+  },
+  "image_err_loading": {
+    "message": "載入圖片時發生錯誤"
+  },
+  "field_hours_range": {
+    "message": "小時必須在 $1 到 $2 間"
+  },
+  "field_minutes_range": {
+    "message": "分鐘必須在 $1 到 $2 間"
+  },
+  "field_columns_range": {
+    "message": "行數必須在 $1 到 $2 間"
+  },
+  "field_rows_range": {
+    "message": "列數必須在 $1 到 $2 間"
+  },
+  "validation_url": {
+    "message": "輸入有效的 URL（連結）"
+  },
+  "save_dial_edited": {
+    "message": "快速撥號已編輯 - $1"
+  },
+  "save_dials_added_to_group": {
+    "message": "已新增多個快速撥號到群組 - $1"
+  },
+  "save_dial_moved": {
+    "message": "快速撥號已移動 - $1"
+  },
+  "save_dial_resized": {
+    "message": "快速撥號已調整大小 - $1"
+  },
+  "save_group_rc_color": {
+    "message": "已變更群組行／列色彩"
+  },
+  "save_group_moved": {
+    "message": "群組已移動 - 群組：$1"
+  },
+  "save_dial_names_saved": {
+    "message": "新快速撥號名稱已儲存 - $1"
+  },
+  "save_dials_sorted": {
+    "message": "快速撥號已在群組中排序： $1"
+  },
+  "save_thumbnail_uploaded": {
+    "message": "縮圖已上傳 - $1"
+  },
+  "save_public_thumbnail_uploaded": {
+    "message": "公開的縮圖已上傳 -$1"
+  },
+  "save_productivity_selection_changed": {
+    "message": ""
+  },
+  "err_db_err_title": {
+    "message": "錯誤 :("
+  },
+  "save_dial_removed": {
+    "message": "快速撥號已移除 - $1"
+  },
+  "field_position_range": {
+    "message": "群組的位置必須在 $1 與 $2 間"
+  },
+  "field_ratio_x_range": {
+    "message": "X 比例必須在 $1 到 $2 間"
+  },
+  "field_ratio_y_range": {
+    "message": "Y 比例必須在 $1 到 $2 間"
+  },
+  "validation_small_group_dimensions": {
+    "message": "這個群組已經有 $1 個快速撥號。請使用更多行列，這樣才放得下。"
+  },
+  "save_group_edited": {
+    "message": "群組已編輯 - 群組：$1"
+  },
+  "group_delete_title": {
+    "message": "正在刪除群組「$1」與其撥號"
+  },
+  "group_delete_body": {
+    "message": "您確定您想要刪除群組及起所有的撥號？"
+  },
+  "group_delete_yes": {
+    "message": "是"
+  },
+  "group_delete_no": {
+    "message": "不，不要刪除"
+  },
+  "save_group_deleted": {
+    "message": "群組已移除 - 群組：$1"
+  },
+  "cm_shortcut_title": {
+    "message": "鍵盤快速鍵：「$1」"
+  },
+  "cm_open_new_tab": {
+    "message": "在新分頁中開啟"
+  },
+  "cm_new_tab_in_container": {
+    "message": "在容器中開啟"
+  },
+  "firefox_containers_about": {
+    "message": "關於 Firefox 容器"
+  },
+  "cm_open_all_new": {
+    "message": "在新分頁中開啟所有快速撥號"
+  },
+  "cm_open_all_replace": {
+    "message": "取代目前的分頁開啟所有快速撥號"
+  },
+  "cm_replace_existing_title": {
+    "message": "使用自此群組而來的快速撥號取代現有的分頁。"
+  },
+  "cm_edit_dial": {
+    "message": "編輯快速撥號"
+  },
+  "cm_create_dial": {
+    "message": "建立新的快速撥號"
+  },
+  "cm_copy_link": {
+    "message": "複製連結位置"
+  },
+  "cm_move_dial": {
+    "message": "移動快速撥號"
+  },
+  "cm_move_dial_to": {
+    "message": "移動到群組"
+  },
+  "cm_cut_dial": {
+    "message": "剪下快速撥號"
+  },
+  "cm_copy_dial": {
+    "message": "複製快速撥號"
+  },
+  "cm_paste_dial": {
+    "message": "貼上快速撥號"
+  },
+  "cm_paste_swap_dial": {
+    "message": "貼上（交換）快速撥號"
+  },
+  "cm_paste_replace_dial": {
+    "message": "貼上（取代）快速撥號"
+  },
+  "convert_to_multi": {
+    "message": ""
+  },
+  "add_to_multi": {
+    "message": ""
+  },
+  "cm_insert_up": {
+    "message": "在上方插入"
+  },
+  "cm_insert_left": {
+    "message": "在左方插入"
+  },
+  "cm_insert_right": {
+    "message": "在右方插入"
+  },
+  "cm_insert_down": {
+    "message": "在下方插入"
+  },
+  "cm_drop_replace": {
+    "message": "取代快速撥號"
+  },
+  "cm_drop_copy_replace": {
+    "message": "複製並取代快速撥號"
+  },
+  "cm_drop_swap": {
+    "message": "交換快速撥號（預設）"
+  },
+  "cm_clear_dial": {
+    "message": "清除快速撥號"
+  },
+  "cm_refresh_dial": {
+    "message": "重新整理快速撥號"
+  },
+  "cm_refresh_image_here": {
+    "message": "重新整理這裡的圖片"
+  },
+  "cm_plus_delay": {
+    "message": "+$1秒"
+  },
+  "cm_plus_delay_title": {
+    "message": "在頁面載入後，在拍攝螢幕截圖前等待 $1 秒"
+  },
+  "cm_btn_big": {
+    "message": "大"
+  },
+  "cm_bigger_title": {
+    "message": "生成較大的縮圖"
+  },
+  "cm_refresh_visit": {
+    "message": "透過造訪網頁來重新整理"
+  },
+  "cm_btn_left": {
+    "message": "左"
+  },
+  "cm_btn_left_title": {
+    "message": "對齊螢幕截圖的左邊（預設為中間）"
+  },
+  "cm_group_open_new_tab": {
+    "message": "在新分頁中開啟"
+  },
+  "cm_edit_group": {
+    "message": "編輯群組"
+  },
+  "cm_create_new_group": {
+    "message": "建立新群組"
+  },
+  "cm_sort_by": {
+    "message": "排序由"
+  },
+  "sort_by_name": {
+    "message": "名稱"
+  },
+  "sort_by_note": {
+    "message": "註記"
+  },
+  "sort_by_url": {
+    "message": "URL"
+  },
+  "sort_by_date": {
+    "message": "建立日期"
+  },
+  "sort_by_remove_empty_dials": {
+    "message": "移除空的快速撥號"
+  },
+  "resize_dial": {
+    "message": "調整大小"
+  },
+  "resize_dial_normal": {
+    "message": "普通"
+  },
+  "resize_dial_v_half": {
+    "message": "垂直的一半"
+  },
+  "resize_dial_h_half": {
+    "message": "水平的一半"
+  },
+  "resize_dial_small": {
+    "message": "小"
+  },
+  "resize_dial_tiny": {
+    "message": "極小"
+  },
+  "resize_dial_micro": {
+    "message": "微小"
+  },
+  "rc_color": {
+    "message": "行／列色彩"
+  },
+  "row_color": {
+    "message": "列色彩"
+  },
+  "col_color": {
+    "message": "行色彩"
+  },
+  "cm_refresh_dials": {
+    "message": "重新整理快速撥號"
+  },
+  "cm_change_thumbnail": {
+    "message": "變更縮圖"
+  },
+  "cm_refresh_dial_background": {
+    "message": "在背景重新整理快速撥號"
+  },
+  "cm_advanced": {
+    "message": "進階"
+  },
+  "cm_legacy_features": {
+    "message": "舊功能（不要使用）"
+  },
+  "cm_restore_previous_thumbnail": {
+    "message": "復原先前的縮圖"
+  },
+  "cm_public_upload": {
+    "message": "上傳縮圖到公開媒體庫"
+  },
+  "cm_synchronize_thumbnails": {
+    "message": "與雲端帳號同步縮圖"
+  },
+  "cm_user_consent_google_favicon": {
+    "message": "使用 Google 服務下載圖示"
+  },
+  "cm_remove_group": {
+    "message": "移除群組"
+  },
+  "cm_upload_thumbnails": {
+    "message": "上傳縮圖"
+  },
+  "cm_upgrade_pro": {
+    "message": "升級至專業版"
+  },
+  "cm_pro_only": {
+    "message": "僅專業版"
+  },
+  "save_group_created": {
+    "message": "新群組已建立"
+  },
+  "refresh_all_title": {
+    "message": "重新整理所有縮圖"
+  },
+  "refresh_ok": {
+    "message": "重新整理縮圖"
+  },
+  "refresh_all": {
+    "message": "所有縮圖"
+  },
+  "refresh_method": {
+    "message": "重新整理方法："
+  },
+  "refresh_this_group": {
+    "message": "所有在此群組中"
+  },
+  "refresh_missing": {
+    "message": "所有遺失的縮圖"
+  },
+  "refresh_group_dials": {
+    "message": "僅群組快速撥號"
+  },
+  "refresh_auto_reload": {
+    "message": "快速撥號已啟用自動重新整理"
+  },
+  "pro_upgrade_label": {
+    "message": "升級至專業版"
+  },
+  "pro_upgrade_now_label": {
+    "message": "立刻升級至專業版"
+  },
+  "sync_down_thumbnails_title": {
+    "message": "正在下載縮圖"
+  },
+  "sync_download_cloud_question": {
+    "message": "您確定您想要下載您在雲端上的縮圖嗎？"
+  },
+  "sync_download_cloud_question_2": {
+    "message": "這將會取代您目前本機的縮圖。"
+  },
+  "sync_download_yes": {
+    "message": "是，下載"
+  },
+  "sync_download_no": {
+    "message": "否"
+  },
+  "sync_conflict": {
+    "message": "同步衝突"
+  },
+  "sync_conflict_body": {
+    "message": "雲端伺服器上有較新的版本，但是您有尚未儲存的本機變更。"
+  },
+  "sync_conflict_body_2": {
+    "message": "您想要取代您本機上的版本嗎？"
+  },
+  "sync_conflict_replace_local": {
+    "message": "取代本機"
+  },
+  "sync_conflict_replace_server": {
+    "message": "取代在伺服器上的版本"
+  },
+  "sync_err_account_title": {
+    "message": "您的資料版本已經關聯到不同的帳號"
+  },
+  "sync_err_account_replace_local": {
+    "message": "取代本機"
+  },
+  "sync_err_account_replace_cloud": {
+    "message": "在雲端中取代"
+  },
+  "sync_err_account_retry": {
+    "message": "重試"
+  },
+  "sync_not_empty_title": {
+    "message": "雲端中已有相同的快速撥號"
+  },
+  "sync_not_empty_replace_local": {
+    "message": "取代本機"
+  },
+  "sync_not_empty_replace_cloud": {
+    "message": "在雲端中取代"
+  },
+  "sync_not_empty_replace_retry": {
+    "message": "重試"
+  },
+  "sync_changed_account": {
+    "message": "其他帳號已啟用"
+  },
+  "sync_changed_account_body": {
+    "message": "您已登入其他帳號。"
+  },
+  "login_login_create": {
+    "message": "登入／建立帳號"
+  },
+  "history_title": {
+    "message": "備份／歷史"
+  },
+  "history_restore": {
+    "message": "復原已選取的"
+  },
+  "history_loading": {
+    "message": "正在載入歷史紀錄……"
+  },
+  "history_cancel": {
+    "message": "取消"
+  },
+  "history_revert_dials": {
+    "message": "如果您想要恢復您的撥號，請使用 $1 功能。"
+  },
+  "save_history_restored": {
+    "message": "資料已從歷史中復原"
+  },
+  "search_title": {
+    "message": "搜尋快速撥號"
+  },
+  "unexpected_title": {
+    "message": "有非預期的錯誤！"
+  },
+  "unexpected_solution": {
+    "message": "在此點擊以重新載入附加元件（如果這樣沒有幫助，請試著重新啟動您的瀏覽器或點腦）。"
+  },
+  "unexpected_body": {
+    "message": "請傳送下列錯誤紀錄到我的支援電子郵件："
+  },
+  "unexpected_thanks": {
+    "message": "謝謝。"
+  },
+  "unexpected_close": {
+    "message": "關閉"
+  },
+  "err_mutable_title": {
+    "message": "因為在您的瀏覽器中停用了歷史紀錄，所以載入資料庫發生錯誤。"
+  },
+  "err_mutable_body": {
+    "message": "您必須在 Firefox/選項/隱私權與安全性/瀏覽紀錄中設定「保留所有歷史紀錄」。"
+  },
+  "err_is_firefox_bug": {
+    "message": "這是 Firefox 的 bug。"
+  },
+  "err_error_details": {
+    "message": "錯誤詳細資訊："
+  },
+  "login_login_title": {
+    "message": "登入以啟用雲端同步並存取雲端快速撥號"
+  },
+  "menu_refresh_all": {
+    "message": "重新整理所有群組中／所有遺失的（同步後）／所有群組快速撥號"
+  },
+  "menu_history_title": {
+    "message": "開啟可以管理歷史紀錄／備份的視窗"
+  },
+  "menu_pro_upload": {
+    "message": "僅供專業版使用，上傳所有縮圖到雲端並讓它們可以在雲端快速撥號網頁中使用（在您的手機上也可以用！）"
+  },
+  "menu_pro_download": {
+    "message": "僅供專業版使用，從雲端下載所有縮圖來取代目前本機上的。"
+  },
+  "menu_page_to_dial": {
+    "message": "新增此頁面到快速撥號中"
+  },
+  "menu_pages_to_dial": {
+    "message": "將 $1 分頁新增到快速撥號中"
+  },
+  "menu_cloud_dials": {
+    "message": "雲端快速撥號"
+  },
+  "menu_dials_page": {
+    "message": "快速撥號選單"
+  },
+  "keys_ctrl_shift_f": {
+    "message": "Ctrl + Shift + F"
+  },
+  "ed_edit_dial": {
+    "message": "編輯快速撥號："
+  },
+  "ed_tab_general": {
+    "message": "一般"
+  },
+  "ed_auto_reload": {
+    "message": "自動重新整理"
+  },
+  "ed_crop_scale": {
+    "message": "剪裁／比例"
+  },
+  "screen_width": {
+    "message": "寬度"
+  },
+  "screen_height": {
+    "message": "高度"
+  },
+  "ed_tab_thumbnail": {
+    "message": "縮圖"
+  },
+  "ed_tab_visual": {
+    "message": "視覺"
+  },
+  "ed_tab_settings": {
+    "message": "設定"
+  },
+  "ed_dial_title": {
+    "message": "快速撥號標題："
+  },
+  "ed_dial_note": {
+    "message": "註記："
+  },
+  "ed_link_to_page": {
+    "message": "連結到頁面："
+  },
+  "ed_create_new_group": {
+    "message": "連結到新群組："
+  },
+  "ed_group_name": {
+    "message": "名稱："
+  },
+  "ed_columns": {
+    "message": "行："
+  },
+  "ed_rows": {
+    "message": "列："
+  },
+  "ed_link_to_group": {
+    "message": "連結到既有的群組："
+  },
+  "ed_page_dial": {
+    "message": "網頁撥號："
+  },
+  "ed_group_dial": {
+    "message": "群組快速撥號："
+  },
+  "ed_text_dial": {
+    "message": "文字快速撥號："
+  },
+  "ed_search_dial": {
+    "message": "搜尋型快速撥號："
+  },
+  "ed_multi_dial": {
+    "message": ""
+  },
+  "ed_live_dial": {
+    "message": "即時撥號："
+  },
+  "ed_live_dial_title_1": {
+    "message": "即時撥號為直接載入到撥號中的即時網頁。"
+  },
+  "ed_live_dial_title_2": {
+    "message": "不是每個網頁都可以載入到即時撥號，但大多數頁面都可以運作。"
+  },
+  "page_name": {
+    "message": ""
+  },
+  "search_provider_name": {
+    "message": "名稱"
+  },
+  "search_provider_url": {
+    "message": "URL"
+  },
+  "search_provider_icon": {
+    "message": "圖示"
+  },
+  "search_provider_name_placeholder": {
+    "message": "輸入搜尋提供者名稱"
+  },
+  "search_provider_url_placeholder": {
+    "message": "輸入搜尋 URL - 必須包含 $1"
+  },
+  "search_provider_url_info": {
+    "message": "觀看此影片教學看如何建立搜尋 URL"
+  },
+  "search_add_more": {
+    "message": "新增更多搜尋引擎"
+  },
+  "search_add_more_title": {
+    "message": "您可以在一個快速撥號中有多個搜尋輸入。"
+  },
+  "search_provider_tip": {
+    "message": "按下「Enter」以在此搜尋或「Ctrl + Enter」以在新分頁開啟搜尋"
+  },
+  "multi_dial_import": {
+    "message": ""
+  },
+  "multi_dial_import_help_0": {
+    "message": ""
+  },
+  "multi_dial_import_help_1": {
+    "message": ""
+  },
+  "multi_dial_import_current": {
+    "message": ""
+  },
+  "multi_dial_title_action": {
+    "message": ""
+  },
+  "multi_dial_link_action": {
+    "message": ""
+  },
+  "multi_dial_title_action_0": {
+    "message": ""
+  },
+  "multi_dial_title_action_1": {
+    "message": ""
+  },
+  "multi_dial_link_action_0": {
+    "message": ""
+  },
+  "multi_dial_link_action_1": {
+    "message": ""
+  },
+  "live_dial_opt_no_interaction": {
+    "message": "停用頁面互動"
+  },
+  "live_dial_opt_hide_scrollbars": {
+    "message": "隱藏捲軸"
+  },
+  "dial_text_placeholder": {
+    "message": "在此輸入文字"
+  },
+  "dial_click_to_clipboard": {
+    "message": "在點擊快速撥號時複製文字至剪貼簿"
+  },
+  "ed_ar_title": {
+    "message": "自動重新載入縮圖"
+  },
+  "ed_ar_disabled_radio": {
+    "message": "已停用"
+  },
+  "ed_ar_enabled_radio": {
+    "message": "已啟用"
+  },
+  "ed_au_type_0": {
+    "message": "重新載入每"
+  },
+  "ed_au_type_1": {
+    "message": "每日"
+  },
+  "ed_au_type_2": {
+    "message": "每月"
+  },
+  "ed_au_type_3": {
+    "message": "平日"
+  },
+  "ed_au_type_4": {
+    "message": "週末"
+  },
+  "ed_au_type_5": {
+    "message": "週一"
+  },
+  "ed_au_type_6": {
+    "message": "週二"
+  },
+  "ed_au_type_7": {
+    "message": "週三"
+  },
+  "ed_au_type_8": {
+    "message": "週四"
+  },
+  "ed_au_type_9": {
+    "message": "週五"
+  },
+  "ed_au_type_10": {
+    "message": "週六"
+  },
+  "ed_au_type_11": {
+    "message": "週日"
+  },
+  "ed_crop_off_radio": {
+    "message": "自動"
+  },
+  "ed_crop_on_radio": {
+    "message": "自訂"
+  },
+  "ar_at": {
+    "message": "在："
+  },
+  "ar_hours": {
+    "message": "小時"
+  },
+  "ar_minutes": {
+    "message": "分鐘"
+  },
+  "ar_dial_delay": {
+    "message": "在拍攝螢幕截圖前的延遲："
+  },
+  "ar_dial_delay_title": {
+    "message": "在頁面載入後，我們將會在建立縮圖前等待。如果網頁需要較久的時間載入其內容或有較複雜的圖片，這可能會有幫助。"
+  },
+  "ed_more_advanced": {
+    "message": "更多進階選項將會載未來的版本中實作。"
+  },
+  "ed_auto_generated_th_radio": {
+    "message": "自動生成縮圖："
+  },
+  "ed_blank_radio": {
+    "message": "空白／純色縮圖 - 使用背景色彩"
+  },
+  "ed_make_text_radio": {
+    "message": "使用網頁 $1 建立您自己的文字縮圖："
+  },
+  "use_for_dial": {
+    "message": "用於快速撥號"
+  },
+  "ed_custom_th_file": {
+    "message": "從檔案自訂縮圖："
+  },
+  "ed_custom_th_url": {
+    "message": "從 URL 自訂縮圖："
+  },
+  "ed_public_thumbnail_radio": {
+    "message": "從公開媒體庫而來的縮圖："
+  },
+  "load_images": {
+    "message": "載入圖片"
+  },
+  "load_images_empty": {
+    "message": "此網域找不到圖片"
+  },
+  "downloads": {
+    "message": "下載："
+  },
+  "image_info": {
+    "message": "圖片資訊："
+  },
+  "image_extension": {
+    "message": "圖片類型："
+  },
+  "create_date": {
+    "message": "建立日期："
+  },
+  "image_file_size": {
+    "message": "圖片大小："
+  },
+  "resolution_too_low": {
+    "message": "解析度太低了"
+  },
+  "report_image": {
+    "message": "回報圖片"
+  },
+  "category_vector_images": {
+    "message": "向量圖片"
+  },
+  "category_high_dpi": {
+    "message": "高解析度"
+  },
+  "category_medium_dpi": {
+    "message": "中解析度"
+  },
+  "category_low_dpi": {
+    "message": "低解析度"
+  },
+  "public_upload_consent": {
+    "message": "因為上傳縮圖到公開媒體庫，您同意以下條款："
+  },
+  "public_upload_body_1": {
+    "message": "已上傳到公開公開媒體庫的縮圖將會提供給所有使用者使用！"
+  },
+  "public_upload_body_2": {
+    "message": "已上傳的資料包含：縮圖圖片、縮圖位置、快速撥號名稱。其它使用者不會看到是誰上傳了縮圖。"
+  },
+  "label_sending": {
+    "message": "正在傳送……"
+  },
+  "report_send": {
+    "message": "回報！"
+  },
+  "report_details_placeholder": {
+    "message": "額外資訊"
+  },
+  "report_type": {
+    "message": "違規類型："
+  },
+  "report_type_spam": {
+    "message": "廣告"
+  },
+  "report_type_copyright": {
+    "message": "著作權"
+  },
+  "report_type_violent": {
+    "message": "暴力"
+  },
+  "report_type_unethical": {
+    "message": "不道德"
+  },
+  "report_type_other": {
+    "message": "其他"
+  },
+  "ed_save_on_disk": {
+    "message": "儲存到磁碟中"
+  },
+  "ed_vr_resolution": {
+    "message": "解析度："
+  },
+  "ed_vr_resolution_title": {
+    "message": "縮圖建立時的頁面解析度。"
+  },
+  "ed_no_zoom": {
+    "message": "未縮放"
+  },
+  "ed_top": {
+    "message": "頂部"
+  },
+  "ed_left": {
+    "message": "左"
+  },
+  "ed_center": {
+    "message": "中間"
+  },
+  "ed_align_left": {
+    "message": "對齊左邊"
+  },
+  "ed_load_preview": {
+    "message": "載入預覽"
+  },
+  "ed_reset_position": {
+    "message": "重設位置"
+  },
+  "ed_reset_zoom": {
+    "message": "重設縮放"
+  },
+  "ed_reset_size": {
+    "message": "重設大小"
+  },
+  "ed_reset_scale": {
+    "message": "重設比例"
+  },
+  "label_reset_all": {
+    "message": "重設全部"
+  },
+  "label_coming_soon": {
+    "message": "即將到來"
+  },
+  "label_save_changes": {
+    "message": "儲存變更"
+  },
+  "label_discard_changes": {
+    "message": "丟棄變更"
+  },
+  "label_create_all_thumbnails": {
+    "message": "建立所有縮圖"
+  },
+  "label_create_thumbnail": {
+    "message": "建立縮圖"
+  },
+  "ed_position": {
+    "message": "位置："
+  },
+  "ed_thumbnail_position_0": {
+    "message": "中間（包含）"
+  },
+  "ed_thumbnail_position_1": {
+    "message": "完整寬度（對齊頂部）"
+  },
+  "ed_thumbnail_position_2": {
+    "message": "覆蓋"
+  },
+  "ed_thumbnail_position_3": {
+    "message": "鋪排（延展）"
+  },
+  "ds_fetch_new_name": {
+    "message": "在重新載入時更新快速撥號標題（需要 JavaScript）"
+  },
+  "ds_fetch_new_name_title": {
+    "message": "在重新載入（或自動重新載入）時，快速撥號的標題會變更為目前的頁面標題。為了讓這個功能可以運作，您必須啟用 JavaScript。"
+  },
+  "ds_no_script": {
+    "message": "在重新載入時停用 JavaScript"
+  },
+  "ds_no_script_title": {
+    "message": "停用 JavaScript 可以協助產生某些頁面的縮圖。"
+  },
+  "ds_open_dial_in": {
+    "message": "開啟快速撥號於："
+  },
+  "ds_open_dial_in_0": {
+    "message": "目前的頁面"
+  },
+  "ds_open_dial_in_1": {
+    "message": "新分頁（切換焦點）"
+  },
+  "ds_open_dial_in_2": {
+    "message": "新分頁"
+  },
+  "ds_open_dial_in_3": {
+    "message": "新視窗"
+  },
+  "ds_open_dial_in_4": {
+    "message": "新隱私視窗"
+  },
+  "open_in_chrome_incognito": {
+    "message": "無痕視窗"
+  },
+  "open_in_firefox_private": {
+    "message": "隱私視窗"
+  },
+  "firefox_containers": {
+    "message": "容器"
+  },
+  "no_container": {
+    "message": "沒有容器"
+  },
+  "eg_title": {
+    "message": "編輯群組"
+  },
+  "eg_position": {
+    "message": "位置："
+  },
+  "eg_name": {
+    "message": "名稱："
+  },
+  "eg_columns": {
+    "message": "列："
+  },
+  "eg_rows": {
+    "message": "列："
+  },
+  "eg_dials_ratio": {
+    "message": "快速撥號比例："
+  },
+  "eg_flexible": {
+    "message": "彈性"
+  },
+  "eg_fixed": {
+    "message": "固定"
+  },
+  "group_eg_scrollable": {
+    "message": "讓群組可以捲動"
+  },
+  "eg_background_color": {
+    "message": "背景色彩"
+  },
+  "eg_text_color": {
+    "message": "文字色彩"
+  },
+  "menu_search_title": {
+    "message": "搜尋快速撥號 (Ctrl + Shift + F)，使用 URL／名稱／註記"
+  },
+  "dial_number_title": {
+    "message": "快速撥號號碼，這個可以透過「Ctrl + Number for Group Speed Dial」附加元件使用，其可透過鍵盤快捷鍵開啟對應的快速撥號。"
+  },
+  "dial_name_placeholder": {
+    "message": "若為空時自動生成"
+  },
+  "dial_note_placeholder": {
+    "message": "註記可以協助您透過搜尋功能找到快速撥號 (Ctrl + Shift + F)"
+  },
+  "dial_url_placeholder": {
+    "message": "您可以眚略 http:// 前綴（舉例來說：google.com）"
+  },
+  "duplicate_dial_found": {
+    "message": "在群組 $1 中發現重複的快速撥號"
+  },
+  "op_search": {
+    "message": "搜尋快速撥號"
+  },
+  "op_refresh": {
+    "message": "重新整理縮圖"
+  },
+  "op_history": {
+    "message": "歷史／備份"
+  },
+  "menu_archive_title": {
+    "message": "封存包含了您標記為已封存的群組。"
+  },
+  "op_upload_thumbnails": {
+    "message": "上傳縮圖"
+  },
+  "op_download_thumbnails": {
+    "message": "下載縮圖"
+  },
+  "op_pro_only": {
+    "message": "（僅供專業版使用）"
+  },
+  "op_bing_image": {
+    "message": "Bing 背景"
+  },
+  "op_bing_next": {
+    "message": "下一張圖片"
+  },
+  "op_bing_previous": {
+    "message": "上一張圖片"
+  },
+  "op_bing_fullscreen": {
+    "message": "顯示完整圖片"
+  },
+  "op_bing_quiz": {
+    "message": "Bing 圖片測驗"
+  },
+  "o_bing_hide_dials": {
+    "message": "自動隱藏快速撥號以檢視背景"
+  },
+  "o_no_dial_reflection": {
+    "message": ""
+  },
+  "o_background_url_placeholder": {
+    "message": "範例：https://www.some_page.com/nature.jpg"
+  },
+  "o_paste_import_placeholder": {
+    "message": "貼上匯出的文字到這理"
+  },
+  "o_add_current_after_action": {
+    "message": "將目前的頁面加入到快速撥號後："
+  },
+  "o_add_current_after_action_0": {
+    "message": "要求使用者返回／停留"
+  },
+  "o_add_current_after_action_1": {
+    "message": "返回到前一個分頁"
+  },
+  "o_add_current_after_action_2": {
+    "message": "停在快速撥號頁面"
+  },
+  "o_theme_title": {
+    "message": "預設值：黑。晚上好好睡覺！"
+  },
+  "o_padding_title": {
+    "message": "每個快速撥號週邊的空間，在兩個快速撥號中間，值就會加倍。"
+  },
+  "o_sync_dials": {
+    "message": "快速撥號資料同步"
+  },
+  "o_sync_settings": {
+    "message": "設定資料同步"
+  },
+  "o_disable_dials_sync": {
+    "message": "在此裝置上停用快速撥號同步"
+  },
+  "o_disable_dials_sync_title": {
+    "message": "您的快速撥號將不會備份到雲端上。請確定您會定期建立本機備份以避免資料遺失！"
+  },
+  "o_auto_options_sync": {
+    "message": "自動備份您的選項並與所有裝置同步"
+  },
+  "o_group_padding_title": {
+    "message": "每個群組名稱周邊的空間，在兩個群組的值會變為雙輩。"
+  },
+  "o_group_font_size_title": {
+    "message": "上方列中的文字大小。"
+  },
+  "o_recommended_for_performance_title": {
+    "message": "建議用來達到最佳效能。"
+  },
+  "o_two_gradient_colors_title": {
+    "message": "選取至少兩種顏色以使用漸層。使用較複雜的漸層可能會略為影響效能。"
+  },
+  "o_background_preview_title": {
+    "message": "背景預覽"
+  },
+  "o_big_picture_warning_title": {
+    "message": "使用太大的圖片可能會對效能造成負面影響（新分頁載入時間）。"
+  },
+  "o_group_delayed_activation_title": {
+    "message": "這個延遲可以選擇群組，即便它被其他群組圍繞也可以（如果您喜歡三行的群組的話）"
+  },
+  "o_auto_upload_title": {
+    "message": "需要專業版。自動上傳僅能在一個裝置上啟動。"
+  },
+  "o_no_title": {
+    "message": "在快速撥號上沒有標題（僅縮圖）"
+  },
+  "o_no_title_title": {
+    "message": "預設值：停用。啟用時，所有快速撥號名稱將會被隱藏。"
+  },
+  "o_squared_edges": {
+    "message": "無圓角"
+  },
+  "o_squared_edges_title": {
+    "message": "預設值：停用。啟用時，快速撥號將會有方角。"
+  },
+  "o_dial_font_size": {
+    "message": "撥號名稱字型大小"
+  },
+  "o_dial_title_down": {
+    "message": "快速撥號名稱在底部"
+  },
+  "o_dial_title_down_title": {
+    "message": "預設值：停用。啟用時，快速撥號名稱將會在底部。"
+  },
+  "o_scrollable_thumbnails": {
+    "message": "允許在快速撥號中捲動縮圖"
+  },
+  "o_no_shadow": {
+    "message": "在快速撥號週邊沒有陰影"
+  },
+  "o_no_shadow_title": {
+    "message": "預設值：停用。啟用時，預設在快速撥號週邊的陰影將會隱藏。"
+  },
+  "o_hide_empty_dials": {
+    "message": "隱藏空的快速撥號"
+  },
+  "o_hide_empty_dials_title": {
+    "message": "預設值：停用。啟用時，所有空的快速撥號都會隱藏。"
+  },
+  "o_hide_hover_shadow": {
+    "message": "隱藏滑鼠游標移到上面的陰影"
+  },
+  "o_dial_numbers_title": {
+    "message": "快速撥號編號將會顯示在名稱旁。快速撥號的編號在您想要使用「Ctrl + Number for Group Speed Dial」附加元件透過鍵盤快捷鍵來開啟快速撥號時非常有用。"
+  },
+  "o_dial_numbers": {
+    "message": "顯示快速撥號編號"
+  },
+  "o_hide_hover_shadow_title": {
+    "message": "預設值：停用。啟用時，滑鼠游標移到上面的陰影將會停用。"
+  },
+  "o_hide_login_part": {
+    "message": "隱藏登入部份"
+  },
+  "o_hide_login_part_title": {
+    "message": "隱藏「登入／建立帳號」標籤或如果您已經登入的話就是雲端名稱。"
+  },
+  "o_hide_top_bar": {
+    "message": "隱藏群組與登入部份"
+  },
+  "o_hide_top_bar_title": {
+    "message": "預設值：停用。啟用時，群組清單與登入部份將會被隱藏。"
+  },
+  "o_hide_add_group": {
+    "message": "在群組清單的結尾隱藏「+」按鈕"
+  },
+  "o_hide_add_group_title": {
+    "message": "隱藏 + 按鈕"
+  },
+  "o_root_groups_only": {
+    "message": "從群組列表（頂部列）隱藏巢狀群組"
+  },
+  "o_root_groups_only_title": {
+    "message": "僅會顯示根群組。包含任何群組的群組撥號將會被隱藏。"
+  },
+  "o_firefox_homepage_override": {
+    "message": "當 Firefox 啟動時，開啟撥號頁面"
+  },
+  "o_pro_thumbnail_sync": {
+    "message": "啟用與雲端伺服器的自動縮圖同步"
+  },
+  "o_group_name_as_title": {
+    "message": "設定快速撥號頁面標題為目前選取群組的標題"
+  },
+  "o_prevent_new_tab_container": {
+    "message": "避免在 Firefox 容器中開啟快速撥號頁面"
+  },
+  "o_prevent_new_tab_container_title": {
+    "message": "快速撥號頁面將在容器外打開"
+  },
+  "o_group_name_as_title_title": {
+    "message": "群組名稱將會設定為頁面標題，這可以在分頁名稱或工作列上的名稱看到。"
+  },
+  "o_instant_popup_redirect": {
+    "message": "工具列圖示，立即重新導向到快速撥號頁面"
+  },
+  "o_instant_popup_new_tab": {
+    "message": "在新分頁中開啟"
+  },
+  "o_instant_popup_new_tab_title": {
+    "message": "新分頁總是會開啟在目前分頁之後。"
+  },
+  "o_user_consent_google_favicon": {
+    "message": "使用 Google 的服務來取得快速撥號的 Favicon（僅在無法直接下載 favicon 時使用）（建議使用）"
+  },
+  "o_instant_popup_redirect_title": {
+    "message": "在工具列圖示上點選以開啟快速撥號頁面"
+  },
+  "o_disable_quick_edit": {
+    "message": "停用左鍵點選的快速編輯"
+  },
+  "o_disable_quick_edit_title": {
+    "message": "在空的快速撥號上左鍵點選將不再顯示編輯框。"
+  },
+  "o_open_always_new_window": {
+    "message": "總是在新視窗中開啟"
+  },
+  "o_open_always_new_window_title": {
+    "message": "點選快速撥號將會開啟它的 URL 在新視窗中"
+  },
+  "o_open_always_new_tab": {
+    "message": "總是在新分頁開啟"
+  },
+  "o_open_always_new_tab_title": {
+    "message": "點選快速撥號將會開啟它的 URL 在新分頁中"
+  },
+  "o_open_always_include_group_dials": {
+    "message": "包含群組快速撥號"
+  },
+  "o_open_always_include_group_dials_title": {
+    "message": "群組快速撥號也將會被開啟在新分頁"
+  },
+  "o_open_always_focused": {
+    "message": "自動切換到新分頁"
+  },
+  "o_open_always_focused_title": {
+    "message": "也會把焦點置於新開啟的分頁"
+  },
+  "o_remember_group": {
+    "message": "記住最後開啟的群組"
+  },
+  "o_remember_group_title": {
+    "message": "當啟用時，下次您開啟新分頁頁面，您將會被重新導向至最後造訪的群組。"
+  },
+  "o_remember_group_runtime": {
+    "message": "僅到瀏覽器重新啟動前記住"
+  },
+  "o_disable_auto_show_groups": {
+    "message": "在使用拖放時停用自動顯示群組"
+  },
+  "o_disable_auto_show_groups_title": {
+    "message": "預設情況下，當您拖放快速撥號時，整個群組清單都是可見的，這樣就可以在所有群組間移動。"
+  },
+  "o_scroll_groups": {
+    "message": "在群組間捲動"
+  },
+  "o_scroll_groups_title": {
+    "message": "您將可以使用您的滑鼠滾輪以在群組間捲動。"
+  },
+  "o_scroll_groups_reverse": {
+    "message": "反向捲動"
+  },
+  "o_scroll_groups_reverse_title": {
+    "message": "向上捲動將會捲動到下一個群組。"
+  },
+  "o_scroll_groups_circle": {
+    "message": "開始與結束組合成圓"
+  },
+  "o_scroll_groups_circle_title": {
+    "message": "當到達結尾時，更多的捲動將會跳到開始處（反之亦然）。"
+  },
+  "o_frame_jpeg": {
+    "message": "使用 JPEG 而非 PNG"
+  },
+  "o_frame_jpeg_title": {
+    "message": "JPEG 格式消耗較少的記憶體且繪製時間也較短"
+  },
+  "o_visit_jpeg": {
+    "message": "使用 JPEG 而非 PNG"
+  },
+  "o_visit_jpeg_title": {
+    "message": "JPEG 格式消耗較少的記憶體且繪製時間也較短"
+  },
+  "o_visit_jpeg_high_resolution": {
+    "message": "使用高解析度"
+  },
+  "o_visit_jpeg_high_resolution_title": {
+    "message": "縮圖將會使用雙倍的解析度以改善畫質。"
+  },
+  "o_current_dial_dimensions": {
+    "message": "使用目前的快速撥號尺寸（不建議）"
+  },
+  "o_current_dial_dimensions_title": {
+    "message": "啟用時，目前的快速撥號大小將會用於目標解析度。停用時，目標快速撥號的解析度會以螢幕解析度與群組的行列數為基礎進行計算。"
+  },
+  "o_context_menu_show_groups": {
+    "message": "在右鍵選單中顯示群組清單以供快速插入"
+  },
+  "o_context_menu_internal": {
+    "message": "快速撥號右鍵選單："
+  },
+  "o_dials_context_menu": {
+    "message": "快速撥號與群組撥號："
+  },
+  "o_groups_context_menu": {
+    "message": "群組："
+  },
+  "o_options_context_menu": {
+    "message": "選項選單："
+  },
+  "o_tab_visual_dials": {
+    "message": "快速撥號"
+  },
+  "o_tab_visual_groups": {
+    "message": "群組"
+  },
+  "o_tab_thumbnails": {
+    "message": "縮圖"
+  },
+  "o_tab_image": {
+    "message": "圖片品質"
+  },
+  "o_theme": {
+    "message": "佈景主題："
+  },
+  "o_color_theme": {
+    "message": "色彩主題："
+  },
+  "o_custom_css": {
+    "message": "自訂 CSS 樣式："
+  },
+  "o_custom_css_placeholder": {
+    "message": "警告：僅供有經驗的使用者使用！錯誤的樣式可能會導致視覺體驗變差。"
+  },
+  "o_reload_group_dials": {
+    "message": "在變更背景後重新載入群組快速撥號"
+  },
+  "o_dials": {
+    "message": "快速撥號："
+  },
+  "o_dials_visual": {
+    "message": "快速撥號，視覺化："
+  },
+  "o_android_min_size": {
+    "message": "Android 快速撥號大小"
+  },
+  "o_android_min_dial_size": {
+    "message": "Android 上的最小快速撥號大小（0 - 停用）："
+  },
+  "o_space_around_dials": {
+    "message": "快速撥號週邊的空間："
+  },
+  "o_group_list": {
+    "message": "群組清單："
+  },
+  "o_space_around_groups": {
+    "message": "群組週邊的空間："
+  },
+  "o_group_list_size": {
+    "message": "群組清單字型大小："
+  },
+  "o_group_list_height": {
+    "message": "群組清單高度："
+  },
+  "o_background_pic": {
+    "message": "背景圖片："
+  },
+  "o_gradient_type": {
+    "message": "漸層類型："
+  },
+  "o_gradient_colors": {
+    "message": "漸層色彩："
+  },
+  "o_gradient_solid": {
+    "message": "單色──無漸層"
+  },
+  "o_gradient_linear_up_down": {
+    "message": "線性──上／下"
+  },
+  "o_gradient_linear_left_right": {
+    "message": "線性──左／右"
+  },
+  "o_gradient_linear_diagonal": {
+    "message": "線性──對角線"
+  },
+  "o_gradient_radial_elipse": {
+    "message": "放射狀──橢圓形"
+  },
+  "o_gradient_radial_circle": {
+    "message": "放射狀──圓形"
+  },
+  "o_choose_local_image": {
+    "message": "選擇本機圖片檔案……"
+  },
+  "o_copy_link": {
+    "message": "複製首頁連結"
+  },
+  "o_safari_dials_page_hotkeys": {
+    "message": ""
+  },
+  "o_how_to_homepage": {
+    "message": "要設定 $app_name$ 為首頁，在「複製首頁連結」按鈕上點選，然後將其貼到瀏覽器／選項／首頁中"
+  },
+  "o_redirect_url": {
+    "message": "以 URL 蓋過「新分頁」"
+  },
+  "o_redirect_url_placeholder": {
+    "message": "例如：https://www.google.com/"
+  },
+  "o_redirect_url_title": {
+    "message": "警告：您僅能使用一般網頁的連結。內部頁面，如「about:newtab」將無法運作！少數例外是「about:blank」/「about:home」。"
+  },
+  "o_groups": {
+    "message": "群組："
+  },
+  "o_group_activation_delay": {
+    "message": "當使用拖放時啟用延遲："
+  },
+  "o_short_keys": {
+    "message": "短按鍵。需要其他附加元件："
+  },
+  "o_key_extended_mode": {
+    "message": "啟用多於九個的快速撥號存取"
+  },
+  "o_key_extended_mode_title": {
+    "message": "您將可以快速使用有多位數編號的快速撥號。"
+  },
+  "o_dial_only_current_group": {
+    "message": "快速撥號僅目前開啟的群組"
+  },
+  "o_dial_only_current_group_title": {
+    "message": "範例：按下「1」將會開啟目前開啟的群組中的第一個快速撥號。"
+  },
+  "o_key_force_page_focus": {
+    "message": "強制將焦點放在頁面上（實驗性功能，可能會停止運作）"
+  },
+  "o_key_force_page_focus_title": {
+    "message": "若焦點位於網址列，我們將會嘗試將焦點放到頁面上。然而它將會在瀏覽後停用「返回」按鈕。這是實驗性功能，可能會在新版的 Firefox 上停止運作。"
+  },
+  "o_key_to_group_dial": {
+    "message": "當按住按鍵時啟用存取群組："
+  },
+  "o_key_to_group_dial_title": {
+    "message": "當此按鍵被按下時，您將可以快速撥號群組而不是只有單一個快速撥號。"
+  },
+  "o_key_disable_alt": {
+    "message": "停用「Alt」/「CMD」短按鍵"
+  },
+  "o_key_disable_alt_title": {
+    "message": "停用在 Windows 上使用「Alt」與在 Mac OS 上使用「CMD」的短按鍵。"
+  },
+  "o_key_disable_ctrl": {
+    "message": "停用「Ctrl」短按鍵"
+  },
+  "o_key_disable_ctrl_title": {
+    "message": "停用使用「Ctrl」控制鍵的短按鍵"
+  },
+  "o_key_disable_shift": {
+    "message": "停用「Shift」短按鍵"
+  },
+  "o_key_disable_shift_title": {
+    "message": "停用使用「Shift」的短按鍵，例如「Ctrl + Shift + 1」或「Alt + Shift + 1」。"
+  },
+  "o_key_disable_f4": {
+    "message": "停用開啟新分頁的「F4」短按鍵"
+  },
+  "o_key_disable_f4_title": {
+    "message": "按下「F4」短按鍵將不會開啟新分頁"
+  },
+  "o_key_f4_active_here": {
+    "message": "在作用中的分頁開啟快速撥號頁面"
+  },
+  "o_key_disable_zero": {
+    "message": "停用開啟第十個快速撥號的「Ctrl + 0」短按鍵"
+  },
+  "o_key_disable_zero_title": {
+    "message": "按下「Ctrl + 0」（用於「重設縮放倍率」）將不再開啟編號 10 的快速撥號。"
+  },
+  "o_key_new_tab": {
+    "message": "在新分頁開啟"
+  },
+  "o_key_new_tab_title": {
+    "message": "使用過的撥號將會總是開啟在新分頁中"
+  },
+  "o_key_next_to_current": {
+    "message": "在目前分頁後"
+  },
+  "o_key_next_to_current_title": {
+    "message": "使用過的快速撥號將會開啟在目前的分頁後。"
+  },
+  "o_keys_delay": {
+    "message": "多位數編號的延遲："
+  },
+  "o_ar_settings": {
+    "message": "自動重新載入設定"
+  },
+  "o_ar_disable_this_device": {
+    "message": "在此裝置上停用"
+  },
+  "o_ar_disable_this_device_title": {
+    "message": "自動重新載入將會在此瀏覽器中停用"
+  },
+  "o_ar_keep_pinned_tab": {
+    "message": "在重新載入後保持重新載入的分頁開啟"
+  },
+  "o_ar_keep_pinned_tab_title": {
+    "message": "用於建立縮圖的分頁將會在重新載入後保持開啟。"
+  },
+  "o_ar_concurrent_count": {
+    "message": "最大同時載入頁面"
+  },
+  "o_ar_concurrent_count_title": {
+    "message": "限制建立縮圖時可同時載入的頁面數。較低的值可以節省 CPU 與記憶體。"
+  },
+  "o_ar_screen_resolution": {
+    "message": "自動重新載入目標螢幕解析度"
+  },
+  "o_ar_auto_radio": {
+    "message": "自動，以目前的螢幕解析度為基礎（建議）"
+  },
+  "o_ar_custom_radio": {
+    "message": "手動"
+  },
+  "o_ar_screen_resolution_help": {
+    "message": "縮圖解析度是從畫面大小與目標群組大小計算而來。"
+  },
+  "o_vr_screen_resolution": {
+    "message": "用於生成縮圖的虛擬頁面解析度。"
+  },
+  "o_vr_default_width": {
+    "message": "預設虛擬頁面寬度"
+  },
+  "o_vr_default_width_title": {
+    "message": "用於生成縮圖的頁面寬度。"
+  },
+  "o_thumb_timings": {
+    "message": "縮圖生成時機與延遲："
+  },
+  "o_load_timeout": {
+    "message": "頁面載入的最大逾時："
+  },
+  "o_context_menu_plus_delay": {
+    "message": "右鍵選單額外延遲："
+  },
+  "o_normal_reload_fixed_delay": {
+    "message": "一般重新載入固定延遲："
+  },
+  "o_reload_visit_fixed_delay": {
+    "message": "透過造訪重新載入固定延遲："
+  },
+  "o_thumbnails_delays_help": {
+    "message": "這些延遲對建立縮圖很有用，許多頁面使用 JavaScript 以完成載入內容，而瀏覽器通常需要數毫秒的時間來繪製這些頁面。"
+  },
+  "o_img_quality_default_reload": {
+    "message": "圖片品質──預設重新載入："
+  },
+  "o_img_compression_level": {
+    "message": "壓縮等級"
+  },
+  "o_img_quality_reload_visit": {
+    "message": "圖片品質──透過造訪重新載入："
+  },
+  "o_context_menu_dials_page": {
+    "message": "「快速撥號」頁面的右鍵選單："
+  },
+  "o_backup_restore": {
+    "message": "備份／復原設定到檔案："
+  },
+  "o_export_dials": {
+    "message": "匯出設定與快速撥號"
+  },
+  "o_export_thumbnails": {
+    "message": "也匯出縮圖，這將會大大增加匯出檔案大小"
+  },
+  "o_import_other_addons": {
+    "message": "從其他附加元件匯入："
+  },
+  "o_import_josep": {
+    "message": "從「Speed Dial by Josep del Rio」附加元件匯入快速撥號："
+  },
+  "o_import_fvd": {
+    "message": "從「Speed Dial [FVD] by Nimbus Web」附加元件匯入快速撥號："
+  },
+  "o_import_firefox_bookmarks": {
+    "message": "從 Firefox 書籤「.json」檔案匯入快速撥號："
+  },
+  "o_import_fast_dial": {
+    "message": "從「Fast Dial by telega」附加元件匯入快速撥號："
+  },
+  "o_import_super_start_bookmarks": {
+    "message": "從「Super Start by cyberscorpio」附加元件匯入快速撥號："
+  },
+  "o_import_speed_dial_2": {
+    "message": "從「Speed Dial 2 by speeddial2.com」附加元件匯入快速撥號："
+  },
+  "o_replace_existing": {
+    "message": "取代既有的快速撥號"
+  },
+  "o_import_from_text": {
+    "message": "從文字："
+  },
+  "o_about_cloud_dials": {
+    "message": "雲端撥號："
+  },
+  "o_auto_upload_pro": {
+    "message": "自動上傳縮圖（僅供專業版使用）"
+  },
+  "o_picture_from_url": {
+    "message": "從 URL 而來的圖片："
+  },
+  "o_picture_is_web_page": {
+    "message": "做為背景的網頁："
+  },
+  "o_picture_bing_of_the_day": {
+    "message": "Bing 每日圖片："
+  },
+  "o_picture_bing_of_the_day_note": {
+    "message": "從 $1 而來的新每日圖片"
+  },
+  "o_picture_bing_of_the_day_help": {
+    "message": "您可以從快速撥號頁面上的主選單控制 Bing 圖片。"
+  },
+  "o_picture_from_pc": {
+    "message": "從電腦而來的圖片："
+  },
+  "o_gradient_colors_sm": {
+    "message": "漸層色彩："
+  },
+  "o_none_fastest": {
+    "message": "無（最快）"
+  },
+  "o_watch_youtube_import": {
+    "message": "在 YouTube 上觀看教學課程"
+  },
+  "o_cloud_backup_instead": {
+    "message": "然而您可以建立一個雲端的免費帳號，您的快速撥號將會自動在雲端備份。所有資料都是透過加密的 HTTPS 連線傳送。"
+  },
+  "reload_heading": {
+    "message": "$app_name$ - 重新載入分頁縮圖"
+  },
+  "reload_subheading": {
+    "message": "這個是用於自動重新載入功能與在背景建立縮圖的分頁。"
+  },
+  "archive": {
+    "message": "封存"
+  },
+  "archived": {
+    "message": "已封存"
+  },
+  "archive_empty": {
+    "message": "封存為空"
+  },
+  "archive_empty_body": {
+    "message": "先將某些群組標記為封存。"
+  },
+  "archive_close_title": {
+    "message": "點擊以關閉封存"
+  },
+  "group_archive_group": {
+    "message": "移動群組到封存"
+  },
+  "group_archive_group_title": {
+    "message": "已封存的群組無法在群組清單中看到。您可以透過主選單中的「封存」來存取它們。"
+  },
+  "productivity_mode": {
+    "message": ""
+  },
+  "productivity_mode_title": {
+    "message": ""
+  },
+  "auto_productivity_mode": {
+    "message": ""
+  },
+  "active_days": {
+    "message": ""
+  },
+  "start_time": {
+    "message": ""
+  },
+  "end_time": {
+    "message": ""
+  },
+  "elapsed_time": {
+    "message": ""
+  },
+  "remaining_time": {
+    "message": ""
+  },
+  "start_productivity": {
+    "message": ""
+  },
+  "end_productivity": {
+    "message": ""
+  },
+  "choose_distracting_dials": {
+    "message": ""
+  },
+  "selected_dials_groups": {
+    "message": ""
+  },
+  "s_cp": {
+    "message": "自訂搜尋提供者"
+  },
+  "sc_0": {
+    "message": "自訂"
+  },
+  "sc_1": {
+    "message": "網路搜尋"
+  },
+  "sc_2": {
+    "message": "翻譯"
+  },
+  "sc_3": {
+    "message": "影片"
+  },
+  "sc_4": {
+    "message": "社群媒體"
+  },
+  "sc_5": {
+    "message": "地圖"
+  },
+  "sc_6": {
+    "message": "音樂"
+  },
+  "sc_7": {
+    "message": "影片"
+  },
+  "sc_8": {
+    "message": "其他"
+  },
+  "search_engine": {
+    "message": "",
+    "common": true
+  },
+  "color_remove_color": {
+    "message": "移除色彩",
+    "common": true
+  },
+  "color_transparent": {
+    "message": "透明",
+    "common": true
+  },
+  "color_rgb": {
+    "message": "RGB",
+    "common": true
+  },
+  "color_no_color": {
+    "message": "無色彩",
+    "common": true
+  },
+  "field_int_default_value": {
+    "message": "預設值： $1，最小： $2，最大： $3",
+    "common": true
+  },
+  "field_set_default": {
+    "message": "重設為預設值：$1",
+    "common": true
+  },
+  "import_finished": {
+    "message": "匯入已結束！",
+    "common": true
+  },
+  "import_error": {
+    "message": "錯誤",
+    "common": true
+  },
+  "pro_required": {
+    "message": "必須為專業版",
+    "common": true
+  },
+  "version_free": {
+    "message": "$1 版本（免費），僅供非商業用途使用",
+    "common": true
+  },
+  "version_pro": {
+    "message": "$1 版本",
+    "common": true
+  },
+  "msg_pro_header": {
+    "message": "此供能僅供專業版使用。",
+    "common": true
+  },
+  "msg_pro_support": {
+    "message": "請透過升級到專業版來支援此附加元件的未來開發。",
+    "common": true
+  },
+  "statistics": {
+    "message": "統計資料",
+    "common": true
+  },
+  "color_black": {
+    "message": "黑",
+    "common": true
+  },
+  "color_white": {
+    "message": "白",
+    "common": true
+  },
+  "theme_light": {
+    "message": "",
+    "common": true
+  },
+  "theme_dark": {
+    "message": "",
+    "common": true
+  },
+  "title_introduction": {
+    "message": "簡介",
+    "common": true
+  },
+  "title_got_it": {
+    "message": "好的，開始吧！",
+    "common": true
+  },
+  "privacy_info": {
+    "message": "隱私資訊",
+    "common": true
+  },
+  "search_search": {
+    "message": "搜尋",
+    "common": true
+  },
+  "search_close": {
+    "message": "關閉",
+    "common": true
+  },
+  "email_send_me": {
+    "message": "傳送點子郵件",
+    "common": true
+  },
+  "send_runtime_error_log": {
+    "message": "傳送錯誤紀錄",
+    "common": true
+  },
+  "send_runtime_errors": {
+    "message": "點選下面的連結以寄一封包含您可以在下面看到的資訊的電子郵件給我：",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox 附加元件頁面",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome 線上應用程式商店頁面",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "menu_options": {
+    "message": "選項",
+    "common": true
+  },
+  "menu_quick_options": {
+    "message": "快速選項",
+    "common": true
+  },
+  "menu_visit_homepage": {
+    "message": "造訪首頁",
+    "common": true
+  },
+  "key_name_ctrl": {
+    "message": "Ctrl",
+    "common": true
+  },
+  "key_name_alt": {
+    "message": "Alt",
+    "common": true
+  },
+  "key_name_shift": {
+    "message": "Shift",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "字型大小",
+    "common": true
+  },
+  "label_font_size_preview": {
+    "message": "字型大小預覽",
+    "common": true
+  },
+  "label_previous": {
+    "message": "",
+    "common": true
+  },
+  "label_back": {
+    "message": "",
+    "common": true
+  },
+  "label_next": {
+    "message": "下一步",
+    "common": true
+  },
+  "label_note": {
+    "message": "註記：",
+    "common": true
+  },
+  "label_not_supported_by_browser": {
+    "message": "",
+    "common": true
+  },
+  "label_remove": {
+    "message": "移除",
+    "common": true
+  },
+  "label_warning": {
+    "message": "警告：",
+    "common": true
+  },
+  "label_options": {
+    "message": "選項：",
+    "common": true
+  },
+  "label_default": {
+    "message": "預設：",
+    "common": true
+  },
+  "label_done": {
+    "message": "完成！",
+    "common": true
+  },
+  "label_copy": {
+    "message": "",
+    "common": true
+  },
+  "label_copied": {
+    "message": "已複製！",
+    "common": true
+  },
+  "label_custom": {
+    "message": "自訂：",
+    "common": true
+  },
+  "label_close": {
+    "message": "關閉",
+    "common": true
+  },
+  "label_maximize": {
+    "message": "最大化",
+    "common": true
+  },
+  "label_minimize": {
+    "message": "",
+    "common": true
+  },
+  "label_installed": {
+    "message": "已安裝",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "開啟頁面",
+    "common": true
+  },
+  "label_agree": {
+    "message": "同意",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "取消",
+    "common": true
+  },
+  "label_active": {
+    "message": "",
+    "common": true
+  },
+  "label_inactive": {
+    "message": "",
+    "common": true
+  },
+  "label_paused": {
+    "message": "",
+    "common": true
+  },
+  "label_pause": {
+    "message": "",
+    "common": true
+  },
+  "label_resume": {
+    "message": "",
+    "common": true
+  },
+  "label_select_all": {
+    "message": "",
+    "common": true
+  },
+  "label_select_none": {
+    "message": "",
+    "common": true
+  },
+  "label_minutes": {
+    "message": "",
+    "common": true
+  },
+  "label_scale": {
+    "message": "尺寸：",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "縮放：",
+    "common": true
+  },
+  "label_size": {
+    "message": "大小：",
+    "common": true
+  },
+  "label_example": {
+    "message": "",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "選單",
+    "common": true
+  },
+  "menu_visit_title": {
+    "message": "造訪首頁",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "造訪首頁",
+    "common": true
+  },
+  "online_help": {
+    "message": "",
+    "common": true
+  },
+  "online_help_info": {
+    "message": "",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "協助此專案",
+    "common": true
+  },
+  "op_help": {
+    "message": "說明",
+    "common": true
+  },
+  "op_help_introduction": {
+    "message": "簡介影片",
+    "common": true
+  },
+  "op_help_safari_setup": {
+    "message": "",
+    "common": true
+  },
+  "op_help_android_setup": {
+    "message": "Android 設定影片",
+    "common": true
+  },
+  "o_title": {
+    "message": "選項 - $1",
+    "common": true
+  },
+  "o_manual_options_sync": {
+    "message": "手動備份",
+    "common": true
+  },
+  "automatic_backup": {
+    "message": "自動備份",
+    "common": true
+  },
+  "backup": {
+    "message": "備份",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "建立新備份",
+    "common": true
+  },
+  "save_settings": {
+    "message": "儲存設定",
+    "common": true
+  },
+  "load_settings": {
+    "message": "載入設定",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "一般",
+    "common": true
+  },
+  "o_tab_sync": {
+    "message": "同步",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "背景",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "右鍵選單",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "短按鍵",
+    "common": true
+  },
+  "o_tab_import": {
+    "message": "匯入／備份",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "關於",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "像素",
+    "common": true
+  },
+  "o_general": {
+    "message": "一般：",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "毫秒",
+    "common": true
+  },
+  "o_special_features": {
+    "message": "特殊功能：",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "已停用",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "已啟用",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "秒",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "右鍵選單：",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "匯入",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "您好 :)",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "若您喜歡它，請在此評分：",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "如果您不喜歡它，請寄信到我的電子郵件信箱讓我知道為什麼。我會實作更多我收到的功能請求。",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "請考慮支援我的作品，透過：",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "捐款 (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "成為我的 Patron",
+    "common": true
+  },
+  "o_about_support_by_update": {
+    "message": "升級到專業版",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "謝謝！",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "家：",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "聯絡：",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "回報問題：",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "我只會以英文／斯洛伐克文回覆",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "社群媒體：",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "儲存變更並關閉",
+    "common": true
+  },
+  "o_saved": {
+    "message": "已儲存！",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "我的名字是 $1$，我是 $app_name$ 的作者。",
+    "common": true
+  },
+  "s_baidu": {
+    "message": "百度",
+    "common": true
+  },
+  "s_google": {
+    "message": "Google",
+    "common": true
+  },
+  "s_bing": {
+    "message": "Bing",
+    "common": true
+  },
+  "s_yahoo": {
+    "message": "Yahoo",
+    "common": true
+  },
+  "s_brave": {
+    "message": "Brave",
+    "common": true
+  },
+  "s_yandex": {
+    "message": "Yandex",
+    "common": true
+  },
+  "s_duck_duck_go": {
+    "message": "DuckDuckGo",
+    "common": true
+  },
+  "s_qwant": {
+    "message": "Qwant",
+    "common": true
+  },
+  "s_ecosia": {
+    "message": "Ecosia",
+    "common": true
+  },
+  "s_seznam": {
+    "message": "Seznam",
+    "common": true
+  },
+  "s_translate_en": {
+    "message": "Google 翻譯",
+    "common": true
+  },
+  "s_translate_microsoft_en": {
+    "message": "微軟翻譯",
+    "common": true
+  },
+  "s_translate_deepl_en": {
+    "message": "DeepL 翻譯",
+    "common": true
+  },
+  "s_translate_yandex_en": {
+    "message": "Yandex 翻譯",
+    "common": true
+  },
+  "s_translate_baidu_en": {
+    "message": "百度翻譯",
+    "common": true
+  },
+  "s_wikipedia": {
+    "message": "維基百科",
+    "common": true
+  },
+  "s_youtube": {
+    "message": "YouTube",
+    "common": true
+  },
+  "s_google_maps": {
+    "message": "Google 地圖",
+    "common": true
+  },
+  "s_twitter": {
+    "message": "Twitter",
+    "common": true
+  },
+  "s_facebook": {
+    "message": "Facebook",
+    "common": true
+  },
+  "s_imdb": {
+    "message": "IMDb",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "沒有符合的結果",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "沒有資料",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "深色模式",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "由系統控制",
+    "common": true
+  }
+}

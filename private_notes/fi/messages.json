@@ -1,0 +1,341 @@
+{
+  "_description_feature_1": {
+    "message": ""
+  },
+  "_description_feature_2": {
+    "message": ""
+  },
+  "_description_tags_pn": {
+    "message": ""
+  },
+  "app_name": {
+    "message": "Private Notes"
+  },
+  "app_desc": {
+    "message": ""
+  },
+  "compression_level_0": {
+    "message": ""
+  },
+  "compression_level_1": {
+    "message": ""
+  },
+  "compression_level_2": {
+    "message": ""
+  },
+  "compression_level_info_0": {
+    "message": ""
+  },
+  "compression_level_info_1": {
+    "message": ""
+  },
+  "compression_level_info_2": {
+    "message": ""
+  },
+  "title_notes": {
+    "message": ""
+  },
+  "restore_backup": {
+    "message": ""
+  },
+  "create_new_note": {
+    "message": ""
+  },
+  "auto_locking_strategy_0": {
+    "message": ""
+  },
+  "auto_locking_strategy_1": {
+    "message": ""
+  },
+  "restore_note": {
+    "message": ""
+  },
+  "locked": {
+    "message": ""
+  },
+  "change_master_password": {
+    "message": ""
+  },
+  "import_export": {
+    "message": ""
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "notes_auto_saved_placeholder": {
+    "message": ""
+  },
+  "setup_new_pwd": {
+    "message": ""
+  },
+  "change_pwd": {
+    "message": ""
+  },
+  "pwd_to_change": {
+    "message": ""
+  },
+  "current_pwd": {
+    "message": ""
+  },
+  "new_pwd_advice": {
+    "message": ""
+  },
+  "repeat_pwd": {
+    "message": ""
+  },
+  "hint_pwd": {
+    "message": ""
+  },
+  "pwd_warning": {
+    "message": ""
+  },
+  "remember_pwd_0": {
+    "message": ""
+  },
+  "remember_pwd_1": {
+    "message": ""
+  },
+  "remember_pwd_2": {
+    "message": ""
+  },
+  "pwd_save": {
+    "message": ""
+  },
+  "error_saving_note": {
+    "message": ""
+  },
+  "quota_bytes_per_item": {
+    "message": ""
+  },
+  "quota_bytes": {
+    "message": ""
+  },
+  "max_items": {
+    "message": ""
+  },
+  "max_write_operations_per_hour": {
+    "message": ""
+  },
+  "max_write_operations_per_minute": {
+    "message": ""
+  },
+  "security": {
+    "message": ""
+  },
+  "visual_options": {
+    "message": ""
+  },
+  "compression_level": {
+    "message": ""
+  },
+  "auto_locking_strategy": {
+    "message": ""
+  },
+  "auto_lock_inactive_for": {
+    "message": ""
+  },
+  "dense_notes_list": {
+    "message": ""
+  },
+  "import_replace_all": {
+    "message": ""
+  },
+  "export_encrypted": {
+    "message": ""
+  },
+  "minutes": {
+    "message": ""
+  },
+  "label_font_size": {
+    "message": "Fonttikoko"
+  },
+  "sidebar_size": {
+    "message": ""
+  },
+  "popup_window_width": {
+    "message": ""
+  },
+  "popup_window_height": {
+    "message": ""
+  },
+  "always_open_in_new_tab": {
+    "message": ""
+  },
+  "safari_store": {
+    "message": "Mac App Storesta"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store"
+  },
+  "firefox_store": {
+    "message": "Firefoxin lisäosat"
+  },
+  "import_finished": {
+    "message": "Tuo valmis!"
+  },
+  "import_error": {
+    "message": "Virhe"
+  },
+  "import_backup_file": {
+    "message": "Tuo varmuuskopiotiedosto $1"
+  },
+  "search_search": {
+    "message": ""
+  },
+  "title_import": {
+    "message": "Tuonti"
+  },
+  "title_export": {
+    "message": "Viedä"
+  },
+  "title_backups": {
+    "message": ""
+  },
+  "homepage": {
+    "message": "Kotisivu"
+  },
+  "addon_page": {
+    "message": "Addon-sivu"
+  },
+  "settings": {
+    "message": ""
+  },
+  "options": {
+    "message": ""
+  },
+  "label_backups": {
+    "message": ""
+  },
+  "label_rename": {
+    "message": ""
+  },
+  "label_download": {
+    "message": ""
+  },
+  "label_delete": {
+    "message": ""
+  },
+  "label_next": {
+    "message": "Seuraava"
+  },
+  "label_note": {
+    "message": "Merkintä:"
+  },
+  "label_remove": {
+    "message": "Poista"
+  },
+  "label_warning": {
+    "message": "VAROITUS:"
+  },
+  "label_default": {
+    "message": "Oletusarvo:"
+  },
+  "label_done": {
+    "message": "Tehty!"
+  },
+  "label_copied": {
+    "message": "Kopioni!"
+  },
+  "label_close": {
+    "message": "Kiinni"
+  },
+  "label_open_page": {
+    "message": "Avaa sivu"
+  },
+  "label_agree": {
+    "message": "Olla samaa mieltä"
+  },
+  "label_cancel": {
+    "message": "Peruuttaa"
+  },
+  "op_support_me": {
+    "message": "Auta tätä hanketta"
+  },
+  "support_developer": {
+    "message": "Tuki riippumaton kehittäjä!"
+  },
+  "hello_there": {
+    "message": "Hei siellä!"
+  },
+  "about_me": {
+    "message": "Olen ADDON Kehittäjä vuodesta 2016. Tavoitteenani on rakentaa voimakkaita laajennuksia web-selaimellesi, jotta sinusta tulee tuottavampi."
+  },
+  "about_good_job": {
+    "message": "Jos luulet, että teen hyvää työtä, lahjoita :)"
+  },
+  "about_income": {
+    "message": "Lahjoituksesi on ainoa tuloni!"
+  },
+  "about_thanks": {
+    "message": "Kiitos, että tukenut työni!"
+  },
+  "o_tab_context_menu": {
+    "message": "Kontekstivalikko"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_pixels": {
+    "message": "pikselit"
+  },
+  "o_seconds": {
+    "message": "sekuntia"
+  },
+  "label_or": {
+    "message": "tai"
+  },
+  "o_about_hello": {
+    "message": "Hei :)"
+  },
+  "o_about_intro": {
+    "message": "Nimeni on $1$ ja olen kirjoittaja $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Jos pidät siitä, tarkista se täältä:"
+  },
+  "o_about_thanks": {
+    "message": "Kiitos!"
+  },
+  "o_about_contact": {
+    "message": "Ottaa yhteyttä:"
+  },
+  "o_about_issues": {
+    "message": "Ilmoita:"
+  },
+  "o_about_social_media": {
+    "message": "Sosiaalinen media:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Pankkisiirto IBAN:"
+  },
+  "used_space": {
+    "message": "Käytetyt tila: $1 / $2"
+  },
+  "ps_no_results": {
+    "message": "Ei vastaavia tuloksia"
+  },
+  "label_no_data": {
+    "message": "Ei dataa"
+  },
+  "dark_mode": {
+    "message": "Tumma tila"
+  },
+  "dark_mode_system": {
+    "message": "Järjestelmällä"
+  },
+  "open_in_new_tab": {
+    "message": "Avaa uudessa välilehdessä"
+  },
+  "_description_features": {
+    "message": ""
+  },
+  "_description_privacy_policy": {
+    "message": "Tietosuojakäytäntö"
+  },
+  "_description_recent_features": {
+    "message": "Äskettäin lisätyt ominaisuudet:"
+  },
+  "_description_common_tags": {
+    "message": "Tunnisteet:"
+  }
+}

@@ -1,0 +1,2543 @@
+{
+  "app_name": {
+    "message": "Gruppen-SpeedDial"
+  },
+  "app_desc": {
+    "message": "Die fortschrittlichsten Speeddials der Welt für Ihre Bookmarks! Dies verbessert Ihre Produktivität!"
+  },
+  "welcome_header": {
+    "message": "Willkommen im $app_name$-Addon"
+  },
+  "welcome_setup": {
+    "message": "Grundeinstellung"
+  },
+  "welcome_watch_video": {
+    "message": "Sehen Sie sich für die wichtigsten Funktionen ein Einführungsvideo (1:50) an."
+  },
+  "welcome_watch_android_video": {
+    "message": "Das Android-Setupvideo ansehen."
+  },
+  "welcome_home_group": {
+    "message": "Die Gruppen haben 4 x 3 Dialplätze, die Sie hier ändern können:"
+  },
+  "welcome_import_josep_del_rio": {
+    "message": "Es gibt eine Importfunktion von \"SpeedDial by Josep del Rio\" und Andere in den Optionen:"
+  },
+  "welcome_options_page": {
+    "message": "Einstellungen"
+  },
+  "welcome_pick_color": {
+    "message": "Wählen Sie ein Farbdesign, das Sie verwenden wollen:"
+  },
+  "welcome_visuals": {
+    "message": "Weitere Optionen finden Sie unter Optionen"
+  },
+  "import_settings_button": {
+    "message": "Einstellungen wählen und importieren..."
+  },
+  "import_josep_button": {
+    "message": "Importieren Sie die \"CurrentSettings.speeddial\" Datei..."
+  },
+  "import_firefox_button": {
+    "message": "Importieren Sie die bookmarks-2017-XX-XX.json Datei..."
+  },
+  "import_fast_dial_button": {
+    "message": "\"fastdial.json\"-Datei importieren..."
+  },
+  "import_super_start_button": {
+    "message": "\"sites.v1.json\" Datei importieren"
+  },
+  "import_speed_dial_2_button": {
+    "message": "\"any_name\" Datei importieren"
+  },
+  "import_done_text": {
+    "message": "Extern Dials importieren"
+  },
+  "import_skip": {
+    "message": "Nichts importieren"
+  },
+  "import_pages_stats": {
+    "message": "$1 Seiten in $2 Gruppen importieren"
+  },
+  "import_data_from": {
+    "message": "Daten importieren von:"
+  },
+  "load_bookmarks": {
+    "message": "Bookmarks laden"
+  },
+  "load_top_pages": {
+    "message": "Die am häufigsten verwendeten Seiten laden"
+  },
+  "group_generated_name": {
+    "message": "Gruppe $1"
+  },
+  "default_home_group_name": {
+    "message": "ALLE GRUPPEN"
+  },
+  "drag_group_hover_open": {
+    "message": "Gruppe öffnen"
+  },
+  "replace_dial": {
+    "message": "Dial ersetzen"
+  },
+  "replace_duplicate_dial": {
+    "message": "Doppelklick, zum Thumbnails aktualisieren"
+  },
+  "create_multi_page_dial": {
+    "message": "Mehrseiten Dial erstellen"
+  },
+  "replace_multi_page_dial": {
+    "message": "Mehrseiten Dial ersetzen"
+  },
+  "msg_pro_cloud_upload": {
+    "message": "Thumbnails zur Cloud hochladen - dies ermöglicht Ihnen, sie zu sehen in der"
+  },
+  "msg_pro_cloud_web": {
+    "message": "Clouddials Website"
+  },
+  "msg_pro_cloud_web_desc": {
+    "message": "Die Cloudversion ist derzeit nicht editierbar, funktioniert aber in jedem Browser - sogar am Handy!"
+  },
+  "msg_pro_same_thumbnails": {
+    "message": "Jetzt haben Sie auf jedem Gerät die gleichen Thumbnails!"
+  },
+  "msg_pro_thumbnails_download": {
+    "message": "Dadurch werden alle hochgeladenen Thumbnails aus der Cloud runtergeladen und die Aktuellen, lokal ersetzt."
+  },
+  "msg_correct_account": {
+    "message": "Besuchen Sie den Cloudserver und vergewissern Sie sich, dass Sie im Account eingeloggt sind:"
+  },
+  "msg_replace_text": {
+    "message": "Alternativ können Sie Ihre lokalen Dials ersetzen."
+  },
+  "url_search": {
+    "message": "URL / Suche"
+  },
+  "msg_search_by": {
+    "message": "Suchen nach:"
+  },
+  "msg_search_tip": {
+    "message": "Tipp: Fügen Sie zur besseren Suche, Notizen hinzu"
+  },
+  "msg_search_url": {
+    "message": "URL"
+  },
+  "msg_search_name": {
+    "message": "Name"
+  },
+  "msg_search_note": {
+    "message": "Hinweis"
+  },
+  "msg_add_dial_text": {
+    "message": "Sie können zwischen Gruppen navigieren, diese anzeigen, verschieben oder entfernen."
+  },
+  "msg_add_dial_no_show": {
+    "message": "Nicht mehr anzeigen"
+  },
+  "msg_add_dials_here": {
+    "message": "In leere Dials einfügen"
+  },
+  "add_target_dial": {
+    "message": "Als Ziel, leeren Dial für die Seite wählen:"
+  },
+  "add_target_dials": {
+    "message": "Neue leere Gruppe erstellen oder $1 Dials wählen"
+  },
+  "add_image": {
+    "message": "Bild einfügen"
+  },
+  "bc_first_group": {
+    "message": "Erste Gruppe erstellt"
+  },
+  "show_all_groups": {
+    "message": "Alle Gruppen anzeigen"
+  },
+  "fr_home_group": {
+    "message": "ÜBERSICHT"
+  },
+  "err_db_settings_loading": {
+    "message": "Ausnahme beim Laden der Einstellungen oder Datenbank"
+  },
+  "err_db_creation": {
+    "message": "Fehler beim Erstellen der Datenbank"
+  },
+  "err_db_loading": {
+    "message": "Fehler beim Laden der Datenbank"
+  },
+  "err_db_images": {
+    "message": "Fehler beim Abrufen von Bildern von der Datenbank"
+  },
+  "sync_synced_ok": {
+    "message": "mit Server synchronisiert"
+  },
+  "sync_working": {
+    "message": "lädt gerade..."
+  },
+  "sync_syncing": {
+    "message": "Synchronisation läuft..."
+  },
+  "sync_synced": {
+    "message": "synchr."
+  },
+  "sync_sync_ok": {
+    "message": "Erfolgreich synchronisiert"
+  },
+  "sync_err_label": {
+    "message": "Fehler $1 - später erneut versuchen"
+  },
+  "sync_err_conflict": {
+    "message": "Probleme"
+  },
+  "sync_err_server_newer": {
+    "message": "Es gibt eine neue Serverversion."
+  },
+  "sync_err_user_mismatch_": {
+    "message": "Benutzer stimmt nicht überein"
+  },
+  "sync_err_wrong_account": {
+    "message": "Ihre Version gehört zu einem anderen Konto."
+  },
+  "sync_err_not_empty": {
+    "message": "Fehler - ist nicht leer"
+  },
+  "sync_err_server_not_empty": {
+    "message": "Der Server enthält bereits einige Daten."
+  },
+  "sync_err_forbidden": {
+    "message": "Sie haben keinen Zugriff auf diese Inhalte"
+  },
+  "sync_downloading": {
+    "message": "wird herruntergeladen..."
+  },
+  "sync_down_thumbnails": {
+    "message": "Thumbnails werden runtergeladen"
+  },
+  "sync_down_thumbnails_progress": {
+    "message": "$1 / $2 werden runtergeladen"
+  },
+  "sync_down_thumbnails_wait": {
+    "message": "Thumbnails runterladen, bitte warten"
+  },
+  "sync_up": {
+    "message": "hochladen..."
+  },
+  "sync_up_sync_thumbnails": {
+    "message": "Thumbnails synchronisieren... vorbereiten fürs hochladen"
+  },
+  "sync_up_progress": {
+    "message": "$1 / $2 werden hochgeladen"
+  },
+  "sync_up_wait": {
+    "message": "Thumbnails hochladen, bitte warten"
+  },
+  "sync_thumbnails_progress": {
+    "message": "Thumbnails synchronisieren... $1 / $2"
+  },
+  "add_page": {
+    "message": "Diese Seite zu Dials hinzufügen"
+  },
+  "add_dial": {
+    "message": "Diesen Tab zu Dials hinzufügen"
+  },
+  "add_link": {
+    "message": "Diesen Link zum Dial hinzufügen"
+  },
+  "use_image_as_thumbnail": {
+    "message": "Dieses Bild als Thumbnail verwenden"
+  },
+  "cm_choose_dial": {
+    "message": "Zieldial wählen"
+  },
+  "return_to_tab": {
+    "message": "Zurück zum Tab"
+  },
+  "stay_here": {
+    "message": "Hier bleiben"
+  },
+  "close_added_pages": {
+    "message": "Hinzugefügte Seiten schließen"
+  },
+  "close_this_tab": {
+    "message": "Diesen Tab schließen"
+  },
+  "group_first_created": {
+    "message": "Erste Gruppe erstellt"
+  },
+  "privacy_info_head": {
+    "message": "Mit diesem Addon können Sie Ihre Dialeinstellungen mithilfe des Cloudservers für $1 sichern und synchronisieren"
+  },
+  "privacy_info_body_1": {
+    "message": "Wenn Sie dort ein Cloudkonto erstellen, werden Ihre Dials mit diesem Server synchronisiert. Diese Daten enthalten nur grundlegende, von Ihnen eingegebene Infos zu Ihren Dials - wie Name, URL usw... Es gibt weder Trackingdaten noch Statistiken!"
+  },
+  "privacy_info_body_2": {
+    "message": "Ohne Cloudkonto werden von diesem Addon KEINE Anforderungen an einen Server gestellt. Wenn Sie das Herunterladen von Favicons vom Google-Dienst (auf der Seite Optionen) aktivieren, werden Anfragen an den Google-Server gesendet, um Favicons herunterzuladen. Die Verwendung optionaler Cloudfunktionen (z.B.: Thumbnails aus der öffentlichen Bibliothek) führt auch zu Anforderungen an den Cloudserver. Diese Anfragen enthalten KEINE privaten Infos."
+  },
+  "field_size_range": {
+    "message": "Der Wert muss zwischen $1 und $2 liegen"
+  },
+  "field_zoom_range": {
+    "message": "Zoom muss zwischen $1 und $2 liegen"
+  },
+  "field_scale_range": {
+    "message": "Die Skala muss zwischen $1 und $2 liegen"
+  },
+  "field_out_of_range": {
+    "message": "Außer Reichweite"
+  },
+  "file_load_label": {
+    "message": "Aus Datei laden..."
+  },
+  "file_loaded_name": {
+    "message": "Geladene Datei: $1"
+  },
+  "image_err_loading": {
+    "message": "Fehler beim Laden des Bildes"
+  },
+  "field_hours_range": {
+    "message": "Stunden müssen zwischen $1 und $2 liegen"
+  },
+  "field_minutes_range": {
+    "message": "Minuten müssen zwischen $1 und $2 liegen"
+  },
+  "field_columns_range": {
+    "message": "Spaltennummer muss zwischen $1 und $2 liegen"
+  },
+  "field_rows_range": {
+    "message": "Zeilennummer muss zwischen $1 und $2 liegen"
+  },
+  "validation_url": {
+    "message": "Gib eine gültige URL (Link) ein"
+  },
+  "save_dial_edited": {
+    "message": "Dial $1 bearbeitet"
+  },
+  "save_dials_added_to_group": {
+    "message": "Mehrere Dials zur Gruppe $1 hinzugefügt"
+  },
+  "save_dial_moved": {
+    "message": "Dial $1 entfernt"
+  },
+  "save_dial_resized": {
+    "message": "Dialgröße ändern - $1"
+  },
+  "save_group_rc_color": {
+    "message": "Gruppen Spalten-/Zeilenfarbe geändert"
+  },
+  "save_group_moved": {
+    "message": "Gruppe verschoben - $1"
+  },
+  "save_dial_names_saved": {
+    "message": "neuer Dialname \"$1\" gespeichert"
+  },
+  "save_dials_sorted": {
+    "message": "Dials zur Gruppe sortiert: $1"
+  },
+  "save_thumbnail_uploaded": {
+    "message": "Vorschaubild hochgeladen - $1"
+  },
+  "save_public_thumbnail_uploaded": {
+    "message": "Öffentliches Thumbnail hochgeladen - $1"
+  },
+  "save_productivity_selection_changed": {
+    "message": "Produktivitätsmodus - gewählte Dials geändert"
+  },
+  "err_db_err_title": {
+    "message": "Fehler :-("
+  },
+  "save_dial_removed": {
+    "message": "Dial $1 entfernt"
+  },
+  "field_position_range": {
+    "message": "Die Gruppenposition muss zwischen $1 und $2 liegen"
+  },
+  "field_ratio_x_range": {
+    "message": "Proportion X muss zwischen $1 und $2 liegen"
+  },
+  "field_ratio_y_range": {
+    "message": "Proportion Y muss zwischen $1 und $2 liegen"
+  },
+  "validation_small_group_dimensions": {
+    "message": "Diese Gruppe enthält bereits $1 Dials. Für mehr, fügen Sie Zeilen und/oder Spalten hinzu."
+  },
+  "save_group_edited": {
+    "message": "Die Gruppe \"$1\" bearbeitet"
+  },
+  "group_delete_title": {
+    "message": "Gruppe \"$1\" mit Dials löschen"
+  },
+  "group_delete_body": {
+    "message": "Sind Sie sicher, dass Sie die Gruppe und alle Inhalte löschen wollen?"
+  },
+  "group_delete_yes": {
+    "message": "Ja"
+  },
+  "group_delete_no": {
+    "message": "Nein, nicht löschen"
+  },
+  "save_group_deleted": {
+    "message": "Die Gruppe \"$1\" entfernt"
+  },
+  "cm_shortcut_title": {
+    "message": "Tastaturkürzel: $1"
+  },
+  "cm_open_new_tab": {
+    "message": "In neuem Tab öffnen"
+  },
+  "cm_new_tab_in_container": {
+    "message": "Im Container öffnen"
+  },
+  "firefox_containers_about": {
+    "message": "Über Firefoxcontainer"
+  },
+  "cm_open_all_new": {
+    "message": "Alle Dials in neuen Tabs öffnen"
+  },
+  "cm_open_all_replace": {
+    "message": "Alle Dials öffnen und Aktuelle ersetzen"
+  },
+  "cm_replace_existing_title": {
+    "message": "Vorhandene Tabs durch Dials aus dieser Gruppe ersetzen."
+  },
+  "cm_edit_dial": {
+    "message": "Dial bearbeiten"
+  },
+  "cm_create_dial": {
+    "message": "Neuen Dial erstellen"
+  },
+  "cm_copy_link": {
+    "message": "Seitenlink kopieren"
+  },
+  "cm_move_dial": {
+    "message": "Dial verschieben"
+  },
+  "cm_move_dial_to": {
+    "message": "Zur Gruppe wechseln"
+  },
+  "cm_cut_dial": {
+    "message": "Dial schneiden"
+  },
+  "cm_copy_dial": {
+    "message": "Dial kopieren"
+  },
+  "cm_paste_dial": {
+    "message": "Dial einfügen"
+  },
+  "cm_paste_swap_dial": {
+    "message": "Dial (tauschen) einfügen"
+  },
+  "cm_paste_replace_dial": {
+    "message": "Dial (ersetzen) einfügen"
+  },
+  "convert_to_multi": {
+    "message": "In Mehrseiten Dial konvertieren"
+  },
+  "add_to_multi": {
+    "message": "Zu Mehrseiten Dial hinzufügen"
+  },
+  "cm_insert_up": {
+    "message": "Oben einfügen"
+  },
+  "cm_insert_left": {
+    "message": "Links einfügen"
+  },
+  "cm_insert_right": {
+    "message": "Rechts einfügen"
+  },
+  "cm_insert_down": {
+    "message": "Unten einfügen"
+  },
+  "cm_drop_replace": {
+    "message": "Dial ersetzen"
+  },
+  "cm_drop_copy_replace": {
+    "message": "Dial kopieren und ersetzen"
+  },
+  "cm_drop_swap": {
+    "message": "Dials tauschen (Standard)"
+  },
+  "cm_clear_dial": {
+    "message": "Dial löschen"
+  },
+  "cm_refresh_dial": {
+    "message": "Dial aktualisieren"
+  },
+  "cm_refresh_image_here": {
+    "message": "Bild hier aktualisieren"
+  },
+  "cm_plus_delay": {
+    "message": "+$1s"
+  },
+  "cm_plus_delay_title": {
+    "message": "Warten Sie $1 Sek. nach dem Laden der Seite, bevor Sie einen Screenshot machen"
+  },
+  "cm_btn_big": {
+    "message": "Groß"
+  },
+  "cm_bigger_title": {
+    "message": "Größere Thumbnail erzeugen"
+  },
+  "cm_refresh_visit": {
+    "message": "durch Seitenbesuch aktualisieren"
+  },
+  "cm_btn_left": {
+    "message": "links"
+  },
+  "cm_btn_left_title": {
+    "message": "Screenshot links ausrichten (Standard ist Mitte)"
+  },
+  "cm_group_open_new_tab": {
+    "message": "In neuem Tab öffnen"
+  },
+  "cm_edit_group": {
+    "message": "Gruppe bearbeiten"
+  },
+  "cm_create_new_group": {
+    "message": "Neue Gruppe erstellen"
+  },
+  "cm_sort_by": {
+    "message": "Sortieren nach"
+  },
+  "sort_by_name": {
+    "message": "Name"
+  },
+  "sort_by_note": {
+    "message": "Hinweis"
+  },
+  "sort_by_url": {
+    "message": "URL"
+  },
+  "sort_by_date": {
+    "message": "Datum erstellt"
+  },
+  "sort_by_remove_empty_dials": {
+    "message": "Leere Dials entfernen"
+  },
+  "resize_dial": {
+    "message": "Größe ändern"
+  },
+  "resize_dial_normal": {
+    "message": "Normal"
+  },
+  "resize_dial_v_half": {
+    "message": "Vertikale Hälfte"
+  },
+  "resize_dial_h_half": {
+    "message": "Horizontale Hälfte"
+  },
+  "resize_dial_small": {
+    "message": "Klein"
+  },
+  "resize_dial_tiny": {
+    "message": "Winzig"
+  },
+  "resize_dial_micro": {
+    "message": "Mikro"
+  },
+  "rc_color": {
+    "message": "Spalten-/Zeilenfarbe"
+  },
+  "row_color": {
+    "message": "Zeilenfarbe"
+  },
+  "col_color": {
+    "message": "Spaltenfarbe"
+  },
+  "cm_refresh_dials": {
+    "message": "Dials aktualisieren"
+  },
+  "cm_change_thumbnail": {
+    "message": "Thumbnail ändern"
+  },
+  "cm_refresh_dial_background": {
+    "message": "Dial im Hintergrund aktualisieren"
+  },
+  "cm_advanced": {
+    "message": "Erweitert"
+  },
+  "cm_legacy_features": {
+    "message": "Legacy-Funktionen (nicht verwenden)"
+  },
+  "cm_restore_previous_thumbnail": {
+    "message": "Vorheriges Thumbnail wiederherstellen"
+  },
+  "cm_public_upload": {
+    "message": "Thumbnail zur öffentlichen Bibliothek hochladen"
+  },
+  "cm_synchronize_thumbnails": {
+    "message": "Thumbnails mit dem Cloudkonto synchronisieren"
+  },
+  "cm_user_consent_google_favicon": {
+    "message": "Symbole mit dem Google-Dienst herunterladen"
+  },
+  "cm_remove_group": {
+    "message": "Gruppe löschen"
+  },
+  "cm_upload_thumbnails": {
+    "message": "Thumbnails hochladen"
+  },
+  "cm_upgrade_pro": {
+    "message": "Pro-Version kaufen"
+  },
+  "cm_pro_only": {
+    "message": "Nur Pro"
+  },
+  "save_group_created": {
+    "message": "Neue Gruppe erstellt"
+  },
+  "refresh_all_title": {
+    "message": "Alle Thumbnails aktualisieren"
+  },
+  "refresh_ok": {
+    "message": "Thumbnails neuladen"
+  },
+  "refresh_all": {
+    "message": "Alle Thumbnails"
+  },
+  "refresh_method": {
+    "message": "Neulademethode:"
+  },
+  "refresh_this_group": {
+    "message": "In dieser Gruppe"
+  },
+  "refresh_missing": {
+    "message": "Alle fehlenden Thumbnails"
+  },
+  "refresh_group_dials": {
+    "message": "Nur Gruppendials"
+  },
+  "refresh_auto_reload": {
+    "message": "Dials mit aktiviertem Auto-neu laden"
+  },
+  "pro_upgrade_label": {
+    "message": "Pro-Version kaufen"
+  },
+  "pro_upgrade_now_label": {
+    "message": "Pro-Version jetzt kaufen"
+  },
+  "sync_down_thumbnails_title": {
+    "message": "Thumbnails runterladen"
+  },
+  "sync_download_cloud_question": {
+    "message": "Wollen Sie Ihre Thumbnails wirklich aus der Cloud runterladen?"
+  },
+  "sync_download_cloud_question_2": {
+    "message": "Dies ersetzt Ihre aktuellen, lokalen Thumbnails."
+  },
+  "sync_download_yes": {
+    "message": "Ja, runterladen"
+  },
+  "sync_download_no": {
+    "message": "Nein"
+  },
+  "sync_conflict": {
+    "message": "Synchronisations-Problem"
+  },
+  "sync_conflict_body": {
+    "message": "Es gibt eine neue Version am Cloudserver und einige nicht gespeicherte, lokale Änderungen."
+  },
+  "sync_conflict_body_2": {
+    "message": "Wollen Sie Ihre lokale Version ersetzen?"
+  },
+  "sync_conflict_replace_local": {
+    "message": "Lokale ersetzen"
+  },
+  "sync_conflict_replace_server": {
+    "message": "Am Server ersetzen"
+  },
+  "sync_err_account_title": {
+    "message": "Ihre Datenversion ist einem anderen Konto zugeordnet"
+  },
+  "sync_err_account_replace_local": {
+    "message": "Lokale ersetzen"
+  },
+  "sync_err_account_replace_cloud": {
+    "message": "In der Cloud ersetzen"
+  },
+  "sync_err_account_retry": {
+    "message": "Wiederholen"
+  },
+  "sync_not_empty_title": {
+    "message": "Es gibt bereits einige Dials in der Cloud"
+  },
+  "sync_not_empty_replace_local": {
+    "message": "Lokale ersetzen"
+  },
+  "sync_not_empty_replace_cloud": {
+    "message": "In der Cloud ersetzen"
+  },
+  "sync_not_empty_replace_retry": {
+    "message": "Wiederholen"
+  },
+  "sync_changed_account": {
+    "message": "Anderes Konto ist aktiv"
+  },
+  "sync_changed_account_body": {
+    "message": "Sie sind jetzt in einem anderen Konto angemeldet."
+  },
+  "login_login_create": {
+    "message": "Anmelden oder Konto erstellen"
+  },
+  "history_title": {
+    "message": "Sicherungen & Verlauf"
+  },
+  "history_restore": {
+    "message": "Wiederherstellung gewählt"
+  },
+  "history_loading": {
+    "message": "Verlauf laden..."
+  },
+  "history_cancel": {
+    "message": "Abbrechen"
+  },
+  "history_revert_dials": {
+    "message": "Wenn Sie Ihre Dials zurücksetzen wollen, verwenden Sie die $1 Funktion."
+  },
+  "save_history_restored": {
+    "message": "Daten aus Verlauf wiederhergestellt"
+  },
+  "search_title": {
+    "message": "Nach Dials suchen"
+  },
+  "unexpected_title": {
+    "message": "Es gab einen unerwarteten Fehler!"
+  },
+  "unexpected_solution": {
+    "message": "Klicken Sie hier, um das Addon neu zu laden (falls es nicht hilft, starten Sie Ihren Browser oder PC neu)."
+  },
+  "unexpected_body": {
+    "message": "Bitte senden Sie mir das Fehlerprotokoll an meine E-Mailadresse:"
+  },
+  "unexpected_thanks": {
+    "message": "Danke"
+  },
+  "unexpected_close": {
+    "message": "Schließen"
+  },
+  "err_mutable_title": {
+    "message": "Fehler beim Laden der Datenbank wegen des deaktivierten Browserverlaufs."
+  },
+  "err_mutable_body": {
+    "message": "Sie müssen \"Erinnerung speichern\" im Firefox, in Einstellungen / Datenschutz & Sicherheit / Verlauf, festlegen."
+  },
+  "err_is_firefox_bug": {
+    "message": "Das ist ein Firefox-Bug."
+  },
+  "err_error_details": {
+    "message": "Fehlerdetails:"
+  },
+  "login_login_title": {
+    "message": "Anmelden, um die Cloud-Synchronisierung und den Zugriff auf Clouddials zu aktivieren"
+  },
+  "menu_refresh_all": {
+    "message": "Alle in der Gruppe aktualisieren / alle fehlenden (nach der Synchronisation) / alle Gruppendials"
+  },
+  "menu_history_title": {
+    "message": "Öffnet ein Fenster, in dem Sie Verlauf und Sicherungen verwalten können"
+  },
+  "menu_pro_upload": {
+    "message": "Nur Pro-Version - Lädt alle Thumbnails in die Cloud und macht sie auf der Clouddials-Webseite verfügbar (auch am Handy!)"
+  },
+  "menu_pro_download": {
+    "message": "Nur Pro-Version - Lädt alle Thumbnails aus der Cloud runter und ersetzt die Aktuellen."
+  },
+  "menu_page_to_dial": {
+    "message": "Seite zu Dials hinzufügen"
+  },
+  "menu_pages_to_dial": {
+    "message": "$1 Tabs zu Dials hinzufügen"
+  },
+  "menu_cloud_dials": {
+    "message": "Clouddials"
+  },
+  "menu_dials_page": {
+    "message": "Dials Seitenmenü"
+  },
+  "keys_ctrl_shift_f": {
+    "message": "Strg + Enter + F"
+  },
+  "ed_edit_dial": {
+    "message": "Dial bearbeiten:"
+  },
+  "ed_tab_general": {
+    "message": "Allgemein"
+  },
+  "ed_auto_reload": {
+    "message": "Automatisch neu laden"
+  },
+  "ed_crop_scale": {
+    "message": "Zuschneiden/Skalieren"
+  },
+  "screen_width": {
+    "message": "Breite"
+  },
+  "screen_height": {
+    "message": "Höhe"
+  },
+  "ed_tab_thumbnail": {
+    "message": "Thumbnail"
+  },
+  "ed_tab_visual": {
+    "message": "Grafiken"
+  },
+  "ed_tab_settings": {
+    "message": "Einstellungen"
+  },
+  "ed_dial_title": {
+    "message": "Dialname:"
+  },
+  "ed_dial_note": {
+    "message": "Hinweis:"
+  },
+  "ed_link_to_page": {
+    "message": "Link zur Website:"
+  },
+  "ed_create_new_group": {
+    "message": "Neue Gruppe erstellen"
+  },
+  "ed_group_name": {
+    "message": "Name:"
+  },
+  "ed_columns": {
+    "message": "Spalten:"
+  },
+  "ed_rows": {
+    "message": "Zeilen:"
+  },
+  "ed_link_to_group": {
+    "message": "Links zu bestehenden Gruppen:"
+  },
+  "ed_page_dial": {
+    "message": "Webseiten Dial:"
+  },
+  "ed_group_dial": {
+    "message": "Gruppendial:"
+  },
+  "ed_text_dial": {
+    "message": "Dialtext:"
+  },
+  "ed_search_dial": {
+    "message": "Suchdial:"
+  },
+  "ed_multi_dial": {
+    "message": "Mehrseiten Dial:"
+  },
+  "ed_live_dial": {
+    "message": "Live Dial:"
+  },
+  "ed_live_dial_title_1": {
+    "message": "Live-Dials sind Live-Webseiten, die direkt im Dial geladen werden."
+  },
+  "ed_live_dial_title_2": {
+    "message": "Nicht jede Webseite kann im Live-Dial geladen werden, aber die meisten funktionieren."
+  },
+  "page_name": {
+    "message": "Name"
+  },
+  "search_provider_name": {
+    "message": "Name"
+  },
+  "search_provider_url": {
+    "message": "URL"
+  },
+  "search_provider_icon": {
+    "message": "Symbol"
+  },
+  "search_provider_name_placeholder": {
+    "message": "Suchanbietername eingeben"
+  },
+  "search_provider_url_placeholder": {
+    "message": "Such-URL eingeben - muss $1 enthalten"
+  },
+  "search_provider_url_info": {
+    "message": "In diesem Tutorial erfahren Sie, wie Sie eine Such-URL erstellen"
+  },
+  "search_add_more": {
+    "message": "mehr Suchmaschinen hinzufügen"
+  },
+  "search_add_more_title": {
+    "message": "Sie können mehrere Sucheingaben in einem Dial haben."
+  },
+  "search_provider_tip": {
+    "message": "\"Enter\" drücken, zum suchen, oder \"Strg + Enter\", um die Suche im Tab \"Neu\" zu öffnen"
+  },
+  "multi_dial_import": {
+    "message": "Links aus Text importieren"
+  },
+  "multi_dial_import_help_0": {
+    "message": "Pro Zeile einen Link eingeben."
+  },
+  "multi_dial_import_help_1": {
+    "message": "Wenn Sie einen Link benennen wollen, platzieren Sie den Namen in der Zeile über dem Link und stellen Sie ihm das Zeichen \"$1\" voran."
+  },
+  "multi_dial_import_current": {
+    "message": "$1 Link(s) importieren"
+  },
+  "multi_dial_title_action": {
+    "message": "Klickaktion Titel"
+  },
+  "multi_dial_link_action": {
+    "message": "Klickaktion Link"
+  },
+  "multi_dial_title_action_0": {
+    "message": "Alle Links öffnen"
+  },
+  "multi_dial_title_action_1": {
+    "message": "Nichts"
+  },
+  "multi_dial_link_action_0": {
+    "message": "Link öffnen"
+  },
+  "multi_dial_link_action_1": {
+    "message": "Alle Links öffnen"
+  },
+  "live_dial_opt_no_interaction": {
+    "message": "Die Interaktion mit der Seite deaktivieren"
+  },
+  "live_dial_opt_hide_scrollbars": {
+    "message": "Scrollbars ausblenden"
+  },
+  "dial_text_placeholder": {
+    "message": "Hier Text eingeben"
+  },
+  "dial_click_to_clipboard": {
+    "message": "Text per Mausklick in die Zwischenablage kopieren"
+  },
+  "ed_ar_title": {
+    "message": "Thumbnail automatisch neu laden"
+  },
+  "ed_ar_disabled_radio": {
+    "message": "Deaktiviert"
+  },
+  "ed_ar_enabled_radio": {
+    "message": "Aktiviert"
+  },
+  "ed_au_type_0": {
+    "message": "Intervall"
+  },
+  "ed_au_type_1": {
+    "message": "täglich"
+  },
+  "ed_au_type_2": {
+    "message": "monatlich"
+  },
+  "ed_au_type_3": {
+    "message": "wochentags"
+  },
+  "ed_au_type_4": {
+    "message": "Wochenende"
+  },
+  "ed_au_type_5": {
+    "message": "Montag"
+  },
+  "ed_au_type_6": {
+    "message": "Dienstag"
+  },
+  "ed_au_type_7": {
+    "message": "Mittwoch"
+  },
+  "ed_au_type_8": {
+    "message": "Donnerstag"
+  },
+  "ed_au_type_9": {
+    "message": "Freitag"
+  },
+  "ed_au_type_10": {
+    "message": "Samstag"
+  },
+  "ed_au_type_11": {
+    "message": "Sonntag"
+  },
+  "ed_crop_off_radio": {
+    "message": "Automatisch"
+  },
+  "ed_crop_on_radio": {
+    "message": "Anpassen"
+  },
+  "ar_at": {
+    "message": "bei:"
+  },
+  "ar_hours": {
+    "message": "Stunden"
+  },
+  "ar_minutes": {
+    "message": "Minuten"
+  },
+  "ar_dial_delay": {
+    "message": "Verzögerung vor dem Screenshot:"
+  },
+  "ar_dial_delay_title": {
+    "message": "Nachdem die Seite geladen wurde, warten wir, bevor wir ein Thumbnail erstellen. Dies kann hilfreich sein, wenn die Seite ihren Inhalt im Laufe der Zeit lädt oder komplexe Grafiken enthält."
+  },
+  "ed_more_advanced": {
+    "message": "Mehr Einstellungen kommen in zukünftigen Versionen."
+  },
+  "ed_auto_generated_th_radio": {
+    "message": "Automatisch generierte Thumbnails:"
+  },
+  "ed_blank_radio": {
+    "message": "Leere, einfarbige Miniaturansicht - mit Hintergrundfarbe"
+  },
+  "ed_make_text_radio": {
+    "message": "Erstellen Sie Ihr eigenes Text-Thumbnail mit der Webseite $1:"
+  },
+  "use_for_dial": {
+    "message": "Für Dial verwenden"
+  },
+  "ed_custom_th_file": {
+    "message": "Individuelles Thumbnail aus Datei laden:"
+  },
+  "ed_custom_th_url": {
+    "message": "Individuelles Thumbnail von URL laden:"
+  },
+  "ed_public_thumbnail_radio": {
+    "message": "Thumbnail aus öffentlicher Bibliothek:"
+  },
+  "load_images": {
+    "message": "Bilder laden"
+  },
+  "load_images_empty": {
+    "message": "Keine Bilder für diese Domain gefunden"
+  },
+  "downloads": {
+    "message": "Downloads:"
+  },
+  "image_info": {
+    "message": "Bildinfo:"
+  },
+  "image_extension": {
+    "message": "Bildtyp:"
+  },
+  "create_date": {
+    "message": "Erstellungsdatum:"
+  },
+  "image_file_size": {
+    "message": "Bildgröße:"
+  },
+  "resolution_too_low": {
+    "message": "Die Auflösung ist zu niedrig"
+  },
+  "report_image": {
+    "message": "Bild melden"
+  },
+  "category_vector_images": {
+    "message": "Vektorbilder"
+  },
+  "category_high_dpi": {
+    "message": "Hohe Auflösung"
+  },
+  "category_medium_dpi": {
+    "message": "Mittlere Auflösung"
+  },
+  "category_low_dpi": {
+    "message": "Niedrige Auflösung"
+  },
+  "public_upload_consent": {
+    "message": "Durch das Hochladen des Thumbnail in eine öffentliche Bibliothek stimmen Sie folgendem zu:"
+  },
+  "public_upload_body_1": {
+    "message": "Das in die öffentliche Bibliothek hochgeladene Thumbnail steht allen Benutzern zur Verfügung!"
+  },
+  "public_upload_body_2": {
+    "message": "Hochgeladene Daten enthalten - Thumbnail, Thumbnailposition, Dialname. Andere Benutzer können nicht sehen, wer des Thumbnail hochgeladen hat."
+  },
+  "label_sending": {
+    "message": "senden..."
+  },
+  "report_send": {
+    "message": "Bericht!"
+  },
+  "report_details_placeholder": {
+    "message": "Zusätzliche Info"
+  },
+  "report_type": {
+    "message": "Art der Verletzung:"
+  },
+  "report_type_spam": {
+    "message": "Spam"
+  },
+  "report_type_copyright": {
+    "message": "Copyright"
+  },
+  "report_type_violent": {
+    "message": "heftig"
+  },
+  "report_type_unethical": {
+    "message": "unethisch"
+  },
+  "report_type_other": {
+    "message": "andere"
+  },
+  "ed_save_on_disk": {
+    "message": "Auf Festplatte speichern"
+  },
+  "ed_vr_resolution": {
+    "message": "Auflösung:"
+  },
+  "ed_vr_resolution_title": {
+    "message": "Auflösung der Seite während der Miniansicht-Erstellung."
+  },
+  "ed_no_zoom": {
+    "message": "Kein Zoom:"
+  },
+  "ed_top": {
+    "message": "oben"
+  },
+  "ed_left": {
+    "message": "links"
+  },
+  "ed_center": {
+    "message": "mittig"
+  },
+  "ed_align_left": {
+    "message": "linksbündig"
+  },
+  "ed_load_preview": {
+    "message": "Vorschau laden"
+  },
+  "ed_reset_position": {
+    "message": "Zurücksetzposition"
+  },
+  "ed_reset_zoom": {
+    "message": "Zoom zurücksetzen"
+  },
+  "ed_reset_size": {
+    "message": "Größe zurücksetzen"
+  },
+  "ed_reset_scale": {
+    "message": "Skala zurücksetzen"
+  },
+  "label_reset_all": {
+    "message": "Alles zurücksetzen"
+  },
+  "label_coming_soon": {
+    "message": "Kommt dämnächst!"
+  },
+  "label_save_changes": {
+    "message": "speichern"
+  },
+  "label_discard_changes": {
+    "message": "abbrechen"
+  },
+  "label_create_all_thumbnails": {
+    "message": "Alle Thumbnails erstellen"
+  },
+  "label_create_thumbnail": {
+    "message": "Thumbnail erstellen"
+  },
+  "ed_position": {
+    "message": "Position:"
+  },
+  "ed_thumbnail_position_0": {
+    "message": "Mitte (enthalten)"
+  },
+  "ed_thumbnail_position_1": {
+    "message": "Volle Breite - Oben ausrichten"
+  },
+  "ed_thumbnail_position_2": {
+    "message": "Hülle"
+  },
+  "ed_thumbnail_position_3": {
+    "message": "Füllen (strecken)"
+  },
+  "ds_fetch_new_name": {
+    "message": "Den Dialtitel während des Neuladens aktualisieren (benötigt JavaScript)"
+  },
+  "ds_fetch_new_name_title": {
+    "message": "Während des Neuladens (oder autom. Neuladens) wird der Dialtitel in den aktuellen Seitentitel geändert. Damit dies funktioniert, muss JavaScript aktiviert sein."
+  },
+  "ds_no_script": {
+    "message": "Deaktivieren Sie JavaScript beim erneuten Laden"
+  },
+  "ds_no_script_title": {
+    "message": "Die Deaktivierung von JavaScript kann bei der Erstellung von Thumbnails für einige Seiten hilfreich sein."
+  },
+  "ds_open_dial_in": {
+    "message": "Dial öffnen in:"
+  },
+  "ds_open_dial_in_0": {
+    "message": "Aktueller Tab"
+  },
+  "ds_open_dial_in_1": {
+    "message": "Neuer Tab (Fokussiert)"
+  },
+  "ds_open_dial_in_2": {
+    "message": "Neuer Tab"
+  },
+  "ds_open_dial_in_3": {
+    "message": "Neues Fenster"
+  },
+  "ds_open_dial_in_4": {
+    "message": "Neues privates Fenster"
+  },
+  "open_in_chrome_incognito": {
+    "message": "Inkognito-Fenster"
+  },
+  "open_in_firefox_private": {
+    "message": "Privates Fenster"
+  },
+  "firefox_containers": {
+    "message": "Container"
+  },
+  "no_container": {
+    "message": "Kein Container"
+  },
+  "eg_title": {
+    "message": "Gruppe bearbeiten"
+  },
+  "eg_position": {
+    "message": "Position:"
+  },
+  "eg_name": {
+    "message": "Name:"
+  },
+  "eg_columns": {
+    "message": "Spalten:"
+  },
+  "eg_rows": {
+    "message": "Zeilen:"
+  },
+  "eg_dials_ratio": {
+    "message": "Proportionen:"
+  },
+  "eg_flexible": {
+    "message": "flexibel"
+  },
+  "eg_fixed": {
+    "message": "fest"
+  },
+  "group_eg_scrollable": {
+    "message": "Gruppe scrollbar machen"
+  },
+  "eg_background_color": {
+    "message": "Hintergrundfarbe"
+  },
+  "eg_text_color": {
+    "message": "Textfarbe"
+  },
+  "menu_search_title": {
+    "message": "Nach Dial suchen (Strg + Enter + F) - URL, Name oder Hinweis verwenden"
+  },
+  "dial_number_title": {
+    "message": "Dialnummer kann mit dem \"Strg + Nummer für GroupSpeedDial\" Addon verwendet werden, um den Dial mit dem Tastaturkürzel zu öffnen."
+  },
+  "dial_name_placeholder": {
+    "message": "wenn leer, autom. generieren"
+  },
+  "dial_note_placeholder": {
+    "message": "Hinweise helfen, um in der Suche einen Dial zu finden (Strg + Enter + F)"
+  },
+  "dial_url_placeholder": {
+    "message": "Sie können das Präfix http:// weglassen (z.B.: google.com)"
+  },
+  "duplicate_dial_found": {
+    "message": "Doppelte Dials in der Gruppe $1 gefunden"
+  },
+  "op_search": {
+    "message": "Nach Dial suchen"
+  },
+  "op_refresh": {
+    "message": "Thumbnails aktualisieren"
+  },
+  "op_history": {
+    "message": "Verlauf & Sicherungen"
+  },
+  "menu_archive_title": {
+    "message": "Archiv enthält Ihre als Archiviert markierten Gruppen."
+  },
+  "op_upload_thumbnails": {
+    "message": "Thumbnails hochladen"
+  },
+  "op_download_thumbnails": {
+    "message": "Thumbnails runterladen"
+  },
+  "op_pro_only": {
+    "message": "(Nur Pro)"
+  },
+  "op_bing_image": {
+    "message": "Bing Hintergrund"
+  },
+  "op_bing_next": {
+    "message": "Nächstes Bild"
+  },
+  "op_bing_previous": {
+    "message": "Vorheriges Bild"
+  },
+  "op_bing_fullscreen": {
+    "message": "Vollbild anzeigen"
+  },
+  "op_bing_quiz": {
+    "message": "Bing Bildquiz"
+  },
+  "o_bing_hide_dials": {
+    "message": "Dials automatisch ausblenden, um Hintergrund anzuzeigen"
+  },
+  "o_no_dial_reflection": {
+    "message": "Keine Bildreflexion"
+  },
+  "o_background_url_placeholder": {
+    "message": "z.B.: https://www.website.com/natur.jpg"
+  },
+  "o_paste_import_placeholder": {
+    "message": "exportierten Text hier einfügen"
+  },
+  "o_add_current_after_action": {
+    "message": "Nach dem Hinzufügen der aktuellen Seite zu den Dials:"
+  },
+  "o_add_current_after_action_0": {
+    "message": "Den Benutzer bitten, zurückzukehren oder zu bleiben"
+  },
+  "o_add_current_after_action_1": {
+    "message": "Zum vorherigen Tab zurück"
+  },
+  "o_add_current_after_action_2": {
+    "message": "Auf der Dialsseite bleiben"
+  },
+  "o_theme_title": {
+    "message": "Standard: Dunkel - für besseren Schlaf in der Nacht!"
+  },
+  "o_padding_title": {
+    "message": "Raum um jeden Dial, zwischen zwei Dials ist es der doppelte Wert."
+  },
+  "o_sync_dials": {
+    "message": "Synchronisation wählen"
+  },
+  "o_sync_settings": {
+    "message": "Synchronisations-Einstellungen"
+  },
+  "o_disable_dials_sync": {
+    "message": "Synchronisation auf diesem Gerät deaktivieren"
+  },
+  "o_disable_dials_sync_title": {
+    "message": "Ihre Dials werden NICHT in der Cloud gesichert. Stellen Sie sicher, dass Sie regelmäßig lokale Sicherungen erstellen, um Datenverlust zu vermeiden!"
+  },
+  "o_auto_options_sync": {
+    "message": "Sichern und synchronisieren Sie Ihre Optionen autom. mit allen Geräten"
+  },
+  "o_group_padding_title": {
+    "message": "Raum um jeden Gruppennamen, zwischen zwei Gruppen ist es der doppelte Wert."
+  },
+  "o_group_font_size_title": {
+    "message": "Textgröße in der oberen Leiste"
+  },
+  "o_recommended_for_performance_title": {
+    "message": "Für beste Leistung empfohlen."
+  },
+  "o_two_gradient_colors_title": {
+    "message": "Wählen Sie min. 2 Farben für einen Verlauf. - Ein komplizierter Verlauf wirkt sich negativ auf die Leistung aus."
+  },
+  "o_background_preview_title": {
+    "message": "Hintergrund-Vorschau"
+  },
+  "o_big_picture_warning_title": {
+    "message": "Zu große Bilder wirken sich negativ auf die Leistung aus (neue Tab-Ladezeit)."
+  },
+  "o_group_delayed_activation_title": {
+    "message": "Die Verzögerung ermöglicht die Wahl einer Gruppe, selbst wenn es von anderen Gruppen umgeben ist (wenn Sie 3 Zeilen in Gruppen haben)"
+  },
+  "o_auto_upload_title": {
+    "message": "Ohne Pro-Version ist das automatische Hochladen nur auf einem Gerät verfügbar."
+  },
+  "o_no_title": {
+    "message": "Keinen Titel in Dials (nur in Thumbnails)"
+  },
+  "o_no_title_title": {
+    "message": "Standard: deaktiviert - Wenn das eingestellt ist, werden alle Dialnamen ausgeblendet."
+  },
+  "o_squared_edges": {
+    "message": "Keine runden Ecken"
+  },
+  "o_squared_edges_title": {
+    "message": "Standard: deaktiviert - Wenn das eingestellt ist, haben Dials scharfe Ecken."
+  },
+  "o_dial_font_size": {
+    "message": "Dialname Schriftgröße"
+  },
+  "o_dial_title_down": {
+    "message": "Dialnamen unten"
+  },
+  "o_dial_title_down_title": {
+    "message": "Standard: deaktiviert - Wenn das eingestellt ist, wird der Dialname unten angezeigt."
+  },
+  "o_scrollable_thumbnails": {
+    "message": "Erlaubt Scrollen von Thumbnails innerhalb der Dials"
+  },
+  "o_no_shadow": {
+    "message": "Kein Schatten um die Dials"
+  },
+  "o_no_shadow_title": {
+    "message": "Standard: deaktiviert - Wenn das eingestellt ist, werden keine Schatten um Dials angezeigt."
+  },
+  "o_hide_empty_dials": {
+    "message": "Leere Dials ausblenden"
+  },
+  "o_hide_empty_dials_title": {
+    "message": "Standard: deaktiviert - Wenn das eingestellt ist, werden leere Dials ausgeblendet."
+  },
+  "o_hide_hover_shadow": {
+    "message": "Mouseover-Schatten ausblenden"
+  },
+  "o_dial_numbers_title": {
+    "message": "Dialnummern werden neben dem Dialnamen angezeigt. Nummern für Dials sind nützlich, wenn Sie das \"Strg + Nummer für GroupSpeedDial\" Addon verwenden wollen, um Dials mit Tastaturkürzeln zu öffnen."
+  },
+  "o_dial_numbers": {
+    "message": "Dialnummern anzeigen"
+  },
+  "o_hide_hover_shadow_title": {
+    "message": "Standard: deaktiviert - Wenn das eingestellt ist, wird der Mouseover-Schatten deaktiviert."
+  },
+  "o_hide_login_part": {
+    "message": "Anmeldung ausblenden"
+  },
+  "o_hide_login_part_title": {
+    "message": "Die \"Anmelden / Konto erstellen\" Labels, oder Ihren Cloudnamen verstecken, wenn Sie eingeloggt sind."
+  },
+  "o_hide_top_bar": {
+    "message": "Gruppen ausblenden und sich anmelden"
+  },
+  "o_hide_top_bar_title": {
+    "message": "Standard: deaktiviert - Wenn das eingestellt ist, wird die Gruppenliste und Login ausgeblendet."
+  },
+  "o_hide_add_group": {
+    "message": "Den \"+\" Button am Ende der Gruppenliste ausblenden"
+  },
+  "o_hide_add_group_title": {
+    "message": "+ Button versteckten"
+  },
+  "o_root_groups_only": {
+    "message": "Verschachtelte Gruppen aus der Gruppenliste ausblenden (obere Leiste)"
+  },
+  "o_root_groups_only_title": {
+    "message": "Nur Rootgruppen werden angezeigt. Gruppen mit einem Gruppendial werden ausgeblendet."
+  },
+  "o_firefox_homepage_override": {
+    "message": "Wenn Firefox startet, öffnen Sie die Dialsseite"
+  },
+  "o_pro_thumbnail_sync": {
+    "message": "Aktivieren Sie die automatische Synchronisierung der Thumbnails mit dem Cloudserver"
+  },
+  "o_group_name_as_title": {
+    "message": "Dial-Seitentitel als Name der aktuell gewählten Gruppe setzen"
+  },
+  "o_prevent_new_tab_container": {
+    "message": "Das Öffnen der Diaseite im Firefox-Container verhindern"
+  },
+  "o_prevent_new_tab_container_title": {
+    "message": "Die Dialseite wird ohne Container geöffnet"
+  },
+  "o_group_name_as_title_title": {
+    "message": "Der Gruppenname wird als Seitentitel festgelegt, dieser kann als Tabname oder Name in der Taskleiste angezeigt werden."
+  },
+  "o_instant_popup_redirect": {
+    "message": "Symbolleisten-Icon - sofort zur Dialseite springen"
+  },
+  "o_instant_popup_new_tab": {
+    "message": "in neuem Tab öffnen"
+  },
+  "o_instant_popup_new_tab_title": {
+    "message": "Der neue Tab wird immer neben dem aktuellen Tab geöffnet."
+  },
+  "o_user_consent_google_favicon": {
+    "message": "Aktivieren Sie die Nutzung des Google-Dienstes, um Favicons für Dials zu erhalten (wird nur verwendet, wenn Favicon nicht direkt heruntergeladen werden kann) - empfohlen"
+  },
+  "o_instant_popup_redirect_title": {
+    "message": "Zum öffnen der Dialseite, Symbol in der Leiste anklicken"
+  },
+  "o_disable_quick_edit": {
+    "message": "Bearbeitung mit Linksklick deaktivieren"
+  },
+  "o_disable_quick_edit_title": {
+    "message": "Bei Linksklick auf einen leeren Dial, wird das Bearbeitungsfeld nicht mehr angezeigt."
+  },
+  "o_open_always_new_window": {
+    "message": "Immer in neuem Fenster öffnen"
+  },
+  "o_open_always_new_window_title": {
+    "message": "Durch Klick auf den Button wird die URL in einem neuen Fenster geöffnet"
+  },
+  "o_open_always_new_tab": {
+    "message": "Immer in neuem Tab öffnen"
+  },
+  "o_open_always_new_tab_title": {
+    "message": "Bei Klick auf einen Dial wird die URL in einem neuen Tab geöffnet"
+  },
+  "o_open_always_include_group_dials": {
+    "message": "Inklusive Gruppendials"
+  },
+  "o_open_always_include_group_dials_title": {
+    "message": "Auch Gruppendials werden in einem neuen Tab geöffnet"
+  },
+  "o_open_always_focused": {
+    "message": "Automische Umschaltung auf neuen Tab"
+  },
+  "o_open_always_focused_title": {
+    "message": "Neu geöffneter Tab wird ebenfalls fokussiert"
+  },
+  "o_remember_group": {
+    "message": "Die zuletzt geöffnete Gruppe merken"
+  },
+  "o_remember_group_title": {
+    "message": "Wenn aktiviert, werden Sie beim Öffnen von \"Neue Registerkarte\" zur zuletzt besuchten Gruppe weitergeleitet."
+  },
+  "o_remember_group_runtime": {
+    "message": "Nur bis zum Neustart des Browsers beachten"
+  },
+  "o_disable_auto_show_groups": {
+    "message": "Automische Gruppenanzeige bei Verwendung von Drag & Drop deaktivieren"
+  },
+  "o_disable_auto_show_groups_title": {
+    "message": "Standardmäßig, bei Dials Drag & Drop - ist die ganze Gruppenliste sichtbar, um den Wechsel zwischen allen Gruppen zu ermöglichen."
+  },
+  "o_scroll_groups": {
+    "message": "Durch Gruppen blättern"
+  },
+  "o_scroll_groups_title": {
+    "message": "Sie können per Mausrad durch Gruppen blättern."
+  },
+  "o_scroll_groups_reverse": {
+    "message": "Scrollrichtung umkehren"
+  },
+  "o_scroll_groups_reverse_title": {
+    "message": "Zur nächsten Gruppe nach oben scrollen."
+  },
+  "o_scroll_groups_circle": {
+    "message": "Unendlich scrollen"
+  },
+  "o_scroll_groups_circle_title": {
+    "message": "Wenn das Scrollende erreicht ist, springt es zum Anfang (und umgekehrt)."
+  },
+  "o_frame_jpeg": {
+    "message": "JPG o. JPEG anstatt PNG verwenden"
+  },
+  "o_frame_jpeg_title": {
+    "message": "Das JPEG-Format verbraucht weniger Speicher und benötigt weniger Zeit zum Zeichnen."
+  },
+  "o_visit_jpeg": {
+    "message": "JPG o. JPEG anstatt PNG verwenden"
+  },
+  "o_visit_jpeg_title": {
+    "message": "Das JPEG-Format verbraucht weniger Speicher und benötigt weniger Zeit zum Zeichnen."
+  },
+  "o_visit_jpeg_high_resolution": {
+    "message": "Hohe Auflösung verwenden"
+  },
+  "o_visit_jpeg_high_resolution_title": {
+    "message": "Thumbnail hat die doppelte Auflösung, um die Qualität zu verbessern."
+  },
+  "o_current_dial_dimensions": {
+    "message": "Die aktuellen Dialeinstellungen verwenden (nicht empfohlen)"
+  },
+  "o_current_dial_dimensions_title": {
+    "message": "Wenn diese Option aktiviert ist, wird die aktuelle Dialgröße für die Zielauflösung verwendet. Wenn diese Option deaktiviert ist, wird die Auflösung der Zielwahl basierend auf der Monitorauflösung und den Gruppenzeilen/Spalten berechnet."
+  },
+  "o_context_menu_show_groups": {
+    "message": "Liste der Gruppen im Kontextmenü zum schnellen Einfügen anzeigen"
+  },
+  "o_context_menu_internal": {
+    "message": "Dialseite Kontextmenüs:"
+  },
+  "o_dials_context_menu": {
+    "message": "Dials und Gruppendials:"
+  },
+  "o_groups_context_menu": {
+    "message": "Gruppen:"
+  },
+  "o_options_context_menu": {
+    "message": "Optionsmenü:"
+  },
+  "o_tab_visual_dials": {
+    "message": "Dials"
+  },
+  "o_tab_visual_groups": {
+    "message": "Gruppen"
+  },
+  "o_tab_thumbnails": {
+    "message": "Thumbnails"
+  },
+  "o_tab_image": {
+    "message": "Bildqualität"
+  },
+  "o_theme": {
+    "message": "Theme:"
+  },
+  "o_color_theme": {
+    "message": "Themefarbe"
+  },
+  "o_custom_css": {
+    "message": "Individuelle CSS-Stile:"
+  },
+  "o_custom_css_placeholder": {
+    "message": "WARNUNG: Nur für erfahrene Benutzer! Falsche Stile können das visuelle Erlebnis beeinträchtigen."
+  },
+  "o_reload_group_dials": {
+    "message": "Gruppe nach Hintergrund-Änderung neu laden"
+  },
+  "o_dials": {
+    "message": "Dials:"
+  },
+  "o_dials_visual": {
+    "message": "Dials - visuell:"
+  },
+  "o_android_min_size": {
+    "message": "Android Dialgröße"
+  },
+  "o_android_min_dial_size": {
+    "message": "Minimale Dialgröße unter Android (0 - deaktiviert):"
+  },
+  "o_space_around_dials": {
+    "message": "Raum um Dials:"
+  },
+  "o_group_list": {
+    "message": "Gruppenliste:"
+  },
+  "o_space_around_groups": {
+    "message": "Raum um Gruppen:"
+  },
+  "o_group_list_size": {
+    "message": "Schriftgröße in Gruppenliste:"
+  },
+  "o_group_list_height": {
+    "message": "Gruppenlisten-Höhe:"
+  },
+  "o_background_pic": {
+    "message": "Hintergrundbild:"
+  },
+  "o_gradient_type": {
+    "message": "Verlaufsart:"
+  },
+  "o_gradient_colors": {
+    "message": "Verlaufsfarben:"
+  },
+  "o_gradient_solid": {
+    "message": "einfarbig - kein Verlauf"
+  },
+  "o_gradient_linear_up_down": {
+    "message": "linear - rauf / runter"
+  },
+  "o_gradient_linear_left_right": {
+    "message": "linear - links / rechts"
+  },
+  "o_gradient_linear_diagonal": {
+    "message": "linear - diagonal"
+  },
+  "o_gradient_radial_elipse": {
+    "message": "radial - strahlend"
+  },
+  "o_gradient_radial_circle": {
+    "message": "radial - kreisrund"
+  },
+  "o_choose_local_image": {
+    "message": "Lokale Bilddatei wählen..."
+  },
+  "o_copy_link": {
+    "message": "Link kopieren"
+  },
+  "o_safari_dials_page_hotkeys": {
+    "message": "Tastaturkürzel zum Öffnen der Dialseite:"
+  },
+  "o_how_to_homepage": {
+    "message": "$app_name$ als Startseite festlegen - klicken Sie auf den \"Link kopieren\" Button und fügen Sie ihn im Browser unter, Einstellungen / Startseite, ein."
+  },
+  "o_redirect_url": {
+    "message": "\"Neuer Tab\"-Seite überschreiben mit der URL:"
+  },
+  "o_redirect_url_placeholder": {
+    "message": "z.B.: https://www.google.de/"
+  },
+  "o_redirect_url_title": {
+    "message": "WARNUNG: Sie können nur Links für Webseiten verwenden. Interne Seiten wie \"about:newtab\" laufen nicht! Eine Ausnahme ist \"about:blank\"."
+  },
+  "o_groups": {
+    "message": "Gruppen:"
+  },
+  "o_group_activation_delay": {
+    "message": "Aktivier-Verzögerung bei Verwendung von Drag&Drop:"
+  },
+  "o_short_keys": {
+    "message": "Tastaturkürzel - ein weiteres AddOn ist erforderlich:"
+  },
+  "o_key_extended_mode": {
+    "message": "Den Zugriff auf mehr als 9 Dials aktivieren"
+  },
+  "o_key_extended_mode_title": {
+    "message": "Sie können mehrstellige Nummern wählen."
+  },
+  "o_dial_only_current_group": {
+    "message": "Kurzwahl nur in der aktuellen Gruppe"
+  },
+  "o_dial_only_current_group_title": {
+    "message": "Beispiel: Durch Wählen von \"1\" wird der erste Dial in der aktuellen Gruppe geöffnet."
+  },
+  "o_key_force_page_focus": {
+    "message": "Fokus auf dieser Seite erzwingen (experimentell - funktioniert möglicherweise nicht mehr)"
+  },
+  "o_key_force_page_focus_title": {
+    "message": "Wenn die Adressleiste fokussiert ist, wird stattdessen versucht, die Seite zu fokussieren. Es wird durch den \"Zurück\" Button nach der Navigation, deaktiviert. Dies ist eine experimentelle Funktion und sie funktioniert möglicherweise nicht mehr in neuen Firefox-Versionen."
+  },
+  "o_key_to_group_dial": {
+    "message": "Den Zugriff auf Gruppen aktivieren, während Sie die Taste gedrückt halten:"
+  },
+  "o_key_to_group_dial_title": {
+    "message": "Solange Sie diese Taste drücken, können Sie Dialgruppen anstelle von Dials wählen."
+  },
+  "o_key_disable_alt": {
+    "message": "Die Kurztasten \"Alt\" / \"CMD\" deaktivieren"
+  },
+  "o_key_disable_alt_title": {
+    "message": "Kurztasten mit der \"Alt\" Taste unter Windows und der Befehlstaste \"CMD\" unter Mac OS deaktivieren."
+  },
+  "o_key_disable_ctrl": {
+    "message": "\"Strg\" Kurztasten deaktivieren"
+  },
+  "o_key_disable_ctrl_title": {
+    "message": "Kurztasten mit der \"Strg\" Taste deaktivieren."
+  },
+  "o_key_disable_shift": {
+    "message": "\"Shift\" Kurztasten deaktivieren"
+  },
+  "o_key_disable_shift_title": {
+    "message": "Deaktiviert Kurztasten mit der Umschalttaste, z.B.: \"Strg + Enter + 1\" oder \"Alt + Enter + 1\"."
+  },
+  "o_key_disable_f4": {
+    "message": "\"F4\" Taste deaktivieren, um den neuen Tab zu öffnen"
+  },
+  "o_key_disable_f4_title": {
+    "message": "Drücken der \"F4\" Taste, öffnet den Tab \"Neu\" nicht."
+  },
+  "o_key_f4_active_here": {
+    "message": "Dialseite im aktiven Tab öffnen"
+  },
+  "o_key_disable_zero": {
+    "message": "Deaktivieren durch drücken der \"Strg + 0\" Tasten, um die Ziffer 10 zu öffnen"
+  },
+  "o_key_disable_zero_title": {
+    "message": "Durch Drücken der \"Strg + 0\" Tasten (für \"Zoom zurücksetzen\") wird Nummer 10 nicht mehr geöffnet."
+  },
+  "o_key_new_tab": {
+    "message": "In neuem Tab öffnen"
+  },
+  "o_key_new_tab_title": {
+    "message": "Gewählte Dials werden immer in neuen Tabs geöffnet."
+  },
+  "o_key_next_to_current": {
+    "message": "neben dem aktuellen Tab"
+  },
+  "o_key_next_to_current_title": {
+    "message": "Gewählte Nummern werden neben dem aktuellen Tab geöffnet."
+  },
+  "o_keys_delay": {
+    "message": "Verzögerung für mehrstellige Nummern:"
+  },
+  "o_ar_settings": {
+    "message": "Einstellungen automatisch neu laden"
+  },
+  "o_ar_disable_this_device": {
+    "message": "Auf diesem Gerät deaktivieren"
+  },
+  "o_ar_disable_this_device_title": {
+    "message": "Neuladen wird in diesem Browser deaktiviert."
+  },
+  "o_ar_keep_pinned_tab": {
+    "message": "Den neu geladenen Tab danach geöffnet lassen"
+  },
+  "o_ar_keep_pinned_tab_title": {
+    "message": "Der Tab zum Erstellen von Miniansichten bleibt nach dem Neuladen geöffnet."
+  },
+  "o_ar_concurrent_count": {
+    "message": "Maximale Anzahl gleichzeitig geladener Seiten"
+  },
+  "o_ar_concurrent_count_title": {
+    "message": "Begrenzen Sie die Anzahl der Seiten, die während der Erstellung von Miniansichten gleichzeitig geladen werden. Ein niedrigerer Wert kann CPU und Speicher sparen."
+  },
+  "o_ar_screen_resolution": {
+    "message": "Zielbildschirm-Auflösung automatisch neu laden"
+  },
+  "o_ar_auto_radio": {
+    "message": "Automatisch - basierend auf der aktuellen Monitorauflösung (empfohlen)"
+  },
+  "o_ar_custom_radio": {
+    "message": "Handbuch"
+  },
+  "o_ar_screen_resolution_help": {
+    "message": "Die Vorschauauflösung wird aus der Größe des Bildschirms und der Zielgruppe berechnet."
+  },
+  "o_vr_screen_resolution": {
+    "message": "Virtuelle Seitenauflösung, die beim Erstellen von Miniansichten verwendet wird."
+  },
+  "o_vr_default_width": {
+    "message": "Standardbreite der virtuellen Seite"
+  },
+  "o_vr_default_width_title": {
+    "message": "Breite der Seite, die beim Erstellen der Miniansicht verwendet wird."
+  },
+  "o_thumb_timings": {
+    "message": "Thumbnail-Erzeugungszeit und -verzögerung:"
+  },
+  "o_load_timeout": {
+    "message": "Max. Limit für die zu ladende Seite:"
+  },
+  "o_context_menu_plus_delay": {
+    "message": "Zusätzliche Kontextmenü-Verzögerung:"
+  },
+  "o_normal_reload_fixed_delay": {
+    "message": "Normale neu laden Verzögerung:"
+  },
+  "o_reload_visit_fixed_delay": {
+    "message": "Neu laden nach Besuch verzögern:"
+  },
+  "o_thumbnails_delays_help": {
+    "message": "Diese Verzögerungen sind nützlich für die Erstellung von Thumbnails. Viele Seiten verwenden JavaScript, um das Laden von Inhalten abzuschließen. Browser benötigen oft nur wenige Millisekunden, um die Seite zu zeichnen."
+  },
+  "o_img_quality_default_reload": {
+    "message": "Bildqualität - Standard neu laden:"
+  },
+  "o_img_compression_level": {
+    "message": "Komprimierstufe"
+  },
+  "o_img_quality_reload_visit": {
+    "message": "Bildqualität - nach Besuch neu laden:"
+  },
+  "o_context_menu_dials_page": {
+    "message": "Kontextmenü auf der Dialseite:"
+  },
+  "o_backup_restore": {
+    "message": "Sichern oder Wiederherstellen der Datei-Einstellungen:"
+  },
+  "o_export_dials": {
+    "message": "Einstellungen und Dials exportieren"
+  },
+  "o_export_thumbnails": {
+    "message": "exportieren Sie auch Thumbnails - dadurch wird die Exportdatei erheblich größer"
+  },
+  "o_import_other_addons": {
+    "message": "Import von anderen Addons:"
+  },
+  "o_import_josep": {
+    "message": "Importiert Dials vom SpeedDial-AddOn \"by Josep del Rio\":"
+  },
+  "o_import_fvd": {
+    "message": "Dials von SpeedDial [FVD] \"by Nimbus Web\" importieren:"
+  },
+  "o_import_firefox_bookmarks": {
+    "message": "Importieren der Dialoge aus der Firefox-Bookmarks-\".json\"-Datei:"
+  },
+  "o_import_fast_dial": {
+    "message": "Importieren Sie Dials vom \"Fast Dial von Telega\"-Addon:"
+  },
+  "o_import_super_start_bookmarks": {
+    "message": "Dials vom Addon \"Super Start by Cybercorpio\" importieren:"
+  },
+  "o_import_speed_dial_2": {
+    "message": "Dials vom \"SpeedDial 2 auf Speeddial2.com\" Addon importieren:"
+  },
+  "o_replace_existing": {
+    "message": "Vorhandene Dials ersetzen"
+  },
+  "o_import_from_text": {
+    "message": "Aus Text:"
+  },
+  "o_about_cloud_dials": {
+    "message": "Clouddials:"
+  },
+  "o_auto_upload_pro": {
+    "message": "Thumbnails für automatischen Upload"
+  },
+  "o_picture_from_url": {
+    "message": "Bild von URL:"
+  },
+  "o_picture_is_web_page": {
+    "message": "Webseite als Hintergrund:"
+  },
+  "o_picture_bing_of_the_day": {
+    "message": "Bing-Bild des Tages:"
+  },
+  "o_picture_bing_of_the_day_note": {
+    "message": "jeden Tag ein neues Bild von $1"
+  },
+  "o_picture_bing_of_the_day_help": {
+    "message": "Sie können das Bing-Bild über das Hauptmenü auf der Dialseite steuern."
+  },
+  "o_picture_from_pc": {
+    "message": "Bild vom PC:"
+  },
+  "o_gradient_colors_sm": {
+    "message": "Farbverlauf:"
+  },
+  "o_none_fastest": {
+    "message": "nichts (am schnellsten)"
+  },
+  "o_watch_youtube_import": {
+    "message": "Sehen Sie sich Tutorials auf YouTube an!"
+  },
+  "o_cloud_backup_instead": {
+    "message": "Sie können auch ein kostenloses Cloudkonto (z.B.: Dropbox) erstellen und die Dials automatisch in der Cloud sichern. Die Daten werden über eine verschlüsselte SSL-Verbindung übertragen."
+  },
+  "reload_heading": {
+    "message": "$app_name$ - Thumbnail Neuladetab"
+  },
+  "reload_subheading": {
+    "message": "Dieser Tab wird von der automatischen Neuladefunktion verwendet, um Thumbnails im Hintergrund zu erstellen."
+  },
+  "archive": {
+    "message": "Archiv"
+  },
+  "archived": {
+    "message": "archiviert"
+  },
+  "archive_empty": {
+    "message": "Archiv ist leer"
+  },
+  "archive_empty_body": {
+    "message": "Zuerst eine Gruppe als archiviert markieren."
+  },
+  "archive_close_title": {
+    "message": "Hier klicken, zum Archiv schließen"
+  },
+  "group_archive_group": {
+    "message": "Gruppe ins Archiv verschieben"
+  },
+  "group_archive_group_title": {
+    "message": "Archivierte Gruppen sind in der Gruppenliste nicht sichtbar. Sie können über, Hauptmenü > Archiv, darauf zugreifen."
+  },
+  "productivity_mode": {
+    "message": "Produktivitätsmodus"
+  },
+  "productivity_mode_title": {
+    "message": "Während der Arbeitszeit ablenkende Dials automatisch ausblenden, damit Sie sich besser konzentrieren können."
+  },
+  "auto_productivity_mode": {
+    "message": "Automatischen Produktivitätsmodus planen"
+  },
+  "active_days": {
+    "message": "Aktive Tage"
+  },
+  "start_time": {
+    "message": "Startzeit"
+  },
+  "end_time": {
+    "message": "Endzeit"
+  },
+  "elapsed_time": {
+    "message": "Verstrichene Zeit"
+  },
+  "remaining_time": {
+    "message": "Verbleibende Zeit"
+  },
+  "start_productivity": {
+    "message": "Jetzt aktivieren"
+  },
+  "end_productivity": {
+    "message": "Jetzt beenden"
+  },
+  "choose_distracting_dials": {
+    "message": "Ablenkende Dials wählen"
+  },
+  "selected_dials_groups": {
+    "message": "$1 Dials/$2 Gruppen ausgewählt"
+  },
+  "s_cp": {
+    "message": "Individueller Suchanbieter"
+  },
+  "sc_0": {
+    "message": "Individuell"
+  },
+  "sc_1": {
+    "message": "Websuche"
+  },
+  "sc_2": {
+    "message": "Übersetzen"
+  },
+  "sc_3": {
+    "message": "Video"
+  },
+  "sc_4": {
+    "message": "Soziale Medien"
+  },
+  "sc_5": {
+    "message": "Karten"
+  },
+  "sc_6": {
+    "message": "Musik"
+  },
+  "sc_7": {
+    "message": "Filme"
+  },
+  "sc_8": {
+    "message": "Andere"
+  },
+  "search_engine": {
+    "message": "Suchmaschine",
+    "common": true
+  },
+  "color_remove_color": {
+    "message": "Farbe entfernen",
+    "common": true
+  },
+  "color_transparent": {
+    "message": "transparent",
+    "common": true
+  },
+  "color_rgb": {
+    "message": "RGB",
+    "common": true
+  },
+  "color_no_color": {
+    "message": "keine Farbe",
+    "common": true
+  },
+  "field_int_default_value": {
+    "message": "Standardwert: $1, min: $2, max: $3",
+    "common": true
+  },
+  "field_set_default": {
+    "message": "Zurücksetzen: $1",
+    "common": true
+  },
+  "import_finished": {
+    "message": "Import beendet!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Fehler",
+    "common": true
+  },
+  "pro_required": {
+    "message": "Nur Pro-Version",
+    "common": true
+  },
+  "version_free": {
+    "message": "$1 Version (free) - nur für nicht kommerzielle Nutzung",
+    "common": true
+  },
+  "version_pro": {
+    "message": "$1 Version",
+    "common": true
+  },
+  "msg_pro_header": {
+    "message": "Diese Funktion ist nur in der Pro-Version verfügbar.",
+    "common": true
+  },
+  "msg_pro_support": {
+    "message": "Bitte unterstützen Sie die Weiterentwicklung des AddOns durch den Kauf der Pro-Version.",
+    "common": true
+  },
+  "statistics": {
+    "message": "Statistiken",
+    "common": true
+  },
+  "color_black": {
+    "message": "Dunkel",
+    "common": true
+  },
+  "color_white": {
+    "message": "Hell",
+    "common": true
+  },
+  "theme_light": {
+    "message": "Hell",
+    "common": true
+  },
+  "theme_dark": {
+    "message": "Dunkel",
+    "common": true
+  },
+  "title_introduction": {
+    "message": "Einführung",
+    "common": true
+  },
+  "title_got_it": {
+    "message": "Verstanden, lassen Sie uns beginnen!",
+    "common": true
+  },
+  "privacy_info": {
+    "message": "Datenschutzinfos",
+    "common": true
+  },
+  "search_search": {
+    "message": "Suche",
+    "common": true
+  },
+  "search_close": {
+    "message": "Schließen",
+    "common": true
+  },
+  "email_send_me": {
+    "message": "E-Mail senden",
+    "common": true
+  },
+  "send_runtime_error_log": {
+    "message": "Fehlerprotokolle senden...",
+    "common": true
+  },
+  "send_runtime_errors": {
+    "message": "Klicken Sie auf den Link, um mir eine E-Mail mit den Infos unten zu senden:",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox AddOn-Seite",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome WebStore-Seite",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Einstellungen",
+    "common": true
+  },
+  "menu_quick_options": {
+    "message": "Schnelloptionen",
+    "common": true
+  },
+  "menu_visit_homepage": {
+    "message": "Website besuchen",
+    "common": true
+  },
+  "key_name_ctrl": {
+    "message": "Strg",
+    "common": true
+  },
+  "key_name_alt": {
+    "message": "Alt",
+    "common": true
+  },
+  "key_name_shift": {
+    "message": "Enter",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Schriftgröße",
+    "common": true
+  },
+  "label_font_size_preview": {
+    "message": "Schriftgrößenvorschau",
+    "common": true
+  },
+  "label_previous": {
+    "message": "Vorherige",
+    "common": true
+  },
+  "label_back": {
+    "message": "Zurück",
+    "common": true
+  },
+  "label_next": {
+    "message": "Weiter",
+    "common": true
+  },
+  "label_note": {
+    "message": "Hinweis:",
+    "common": true
+  },
+  "label_not_supported_by_browser": {
+    "message": "Wird von diesem Browser nicht unterstützt.",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Entfernen",
+    "common": true
+  },
+  "label_warning": {
+    "message": "WARNUNG:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Optionen:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Standard:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Fertig!",
+    "common": true
+  },
+  "label_copy": {
+    "message": "",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Kopiert!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Individuell:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Schließen",
+    "common": true
+  },
+  "label_maximize": {
+    "message": "Maximieren",
+    "common": true
+  },
+  "label_minimize": {
+    "message": "Minimieren",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Installiert",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Seite öffnen",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Zustimmen",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Abbrechen",
+    "common": true
+  },
+  "label_active": {
+    "message": "Aktiv",
+    "common": true
+  },
+  "label_inactive": {
+    "message": "Inaktiv",
+    "common": true
+  },
+  "label_paused": {
+    "message": "Angehalten",
+    "common": true
+  },
+  "label_pause": {
+    "message": "Pause",
+    "common": true
+  },
+  "label_resume": {
+    "message": "Fortsetzen",
+    "common": true
+  },
+  "label_select_all": {
+    "message": "Alles wählen",
+    "common": true
+  },
+  "label_select_none": {
+    "message": "Nichts gewählt",
+    "common": true
+  },
+  "label_minutes": {
+    "message": "$1 Min.",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Skala:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Größe:",
+    "common": true
+  },
+  "label_example": {
+    "message": "Beispiel:",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menü",
+    "common": true
+  },
+  "menu_visit_title": {
+    "message": "Website besuchen",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Website besuchen",
+    "common": true
+  },
+  "online_help": {
+    "message": "Online-Dokumentation",
+    "common": true
+  },
+  "online_help_info": {
+    "message": "Hier finden Sie Tutorials, Tipps, Tricks, Diskussionen und mehr!",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Diesem Projekt helfen",
+    "common": true
+  },
+  "op_help": {
+    "message": "Hilfe",
+    "common": true
+  },
+  "op_help_introduction": {
+    "message": "Einführungsvideo",
+    "common": true
+  },
+  "op_help_safari_setup": {
+    "message": "Safari Setup",
+    "common": true
+  },
+  "op_help_android_setup": {
+    "message": "Android-Setupvideo",
+    "common": true
+  },
+  "o_title": {
+    "message": "Optionen - $1",
+    "common": true
+  },
+  "o_manual_options_sync": {
+    "message": "Manuelle Sicherung",
+    "common": true
+  },
+  "automatic_backup": {
+    "message": "Autom. Sicherung",
+    "common": true
+  },
+  "backup": {
+    "message": "Sicherung",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Neue Sicherung erstellen",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Einstellungen speichern",
+    "common": true
+  },
+  "load_settings": {
+    "message": "Einstellungen laden",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Allgemein",
+    "common": true
+  },
+  "o_tab_sync": {
+    "message": "Synchronisation",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Hintergrund",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Kontextmenü",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Kurztasten",
+    "common": true
+  },
+  "o_tab_import": {
+    "message": "Import & Sichern",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "Über",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "Pixel",
+    "common": true
+  },
+  "o_general": {
+    "message": "Allgemein:",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "Millisekunden",
+    "common": true
+  },
+  "o_special_features": {
+    "message": "Besondere Merkmale:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "deaktiviert",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "aktiviert",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "Sekunden",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Kontextmenü:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Importieren",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Hallo :-)",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Wenn Ihnen GroupSpeedDial gefällt, bewerten Sie es bitte hier:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Wenn es Ihnen nicht gefällt, schreiben Sie mir eine E-Mail, wieso nicht, oder mit Vorschlägen. Ich implementiere die meisten Feature-Anfragen die mir gesendet werden, das ist eine Menge an Arbeit.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Bitte ehren Sie meine Arbeit, indem Sie",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "etwas spenden (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "mein Patron werden",
+    "common": true
+  },
+  "o_about_support_by_update": {
+    "message": "die Pro-Version kaufen",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Vielen Dank!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "Home:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Probleme melden:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Ich kann nur auf Englisch oder Slowakisch antworten",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "SocialMedia:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "speichern & schließen",
+    "common": true
+  },
+  "o_saved": {
+    "message": "gespeichert!",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Mein Name ist $1$ und ich bin der Programierer & Autor von $app_name$.",
+    "common": true
+  },
+  "s_baidu": {
+    "message": "Baidu",
+    "common": true
+  },
+  "s_google": {
+    "message": "Google",
+    "common": true
+  },
+  "s_bing": {
+    "message": "Bing",
+    "common": true
+  },
+  "s_yahoo": {
+    "message": "Yahoo",
+    "common": true
+  },
+  "s_brave": {
+    "message": "Brave",
+    "common": true
+  },
+  "s_yandex": {
+    "message": "Yandex",
+    "common": true
+  },
+  "s_duck_duck_go": {
+    "message": "DuckDuckGo",
+    "common": true
+  },
+  "s_qwant": {
+    "message": "Qwant",
+    "common": true
+  },
+  "s_ecosia": {
+    "message": "Ecosia",
+    "common": true
+  },
+  "s_seznam": {
+    "message": "Seznam",
+    "common": true
+  },
+  "s_translate_en": {
+    "message": "Google Übersetzer",
+    "common": true
+  },
+  "s_translate_microsoft_en": {
+    "message": "Microsoft Übersetzer",
+    "common": true
+  },
+  "s_translate_deepl_en": {
+    "message": "DeepL Übersetzer",
+    "common": true
+  },
+  "s_translate_yandex_en": {
+    "message": "Yandex Übersetzer",
+    "common": true
+  },
+  "s_translate_baidu_en": {
+    "message": "Baidu Übersetzer",
+    "common": true
+  },
+  "s_wikipedia": {
+    "message": "Wikipedia",
+    "common": true
+  },
+  "s_youtube": {
+    "message": "YouTube",
+    "common": true
+  },
+  "s_google_maps": {
+    "message": "Google Maps",
+    "common": true
+  },
+  "s_twitter": {
+    "message": "Twitter",
+    "common": true
+  },
+  "s_facebook": {
+    "message": "Facebook",
+    "common": true
+  },
+  "s_imdb": {
+    "message": "IMDb",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Keine passenden Ergebnisse",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Keine Daten",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Dunkler Modus",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Vom System gesteuert",
+    "common": true
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "petsa, imdb, paglalarawan, episode, gauge, graph, imdb, impormasyon, metro, pelikula, pelikula, pelikula, netflix, imdb, rating, serye, palabas, tv, palabas sa tv, video, visual, votes, season"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "hindi nakita ang pelikula / Maling pelikula - dahil walang \"opisyal\" na pagsasama sa mga target na pahina, hindi ko magagarantiya ang 100% na tamang resulta (ngunit sa karamihan ng mga kaso ito ay gumagana ganap na ganap)"
+  },
+  "_description_mm_not_working": {
+    "message": "Hindi gumagana sa iyong paboritong pahina ng pelikula?"
+  },
+  "_description_mm_add_support": {
+    "message": "Makipag-ugnay sa akin at idaragdag ko ito - kung maaari (ang pahina ay dapat maglaman ng pangalan ng pelikula sa ingles o $visit_imdb$ na link)."
+  },
+  "_description_mm_feature_1": {
+    "message": "rating ng pelikula at katanyagan mula sa $visit_imdb$."
+  },
+  "_description_mm_feature_2": {
+    "message": "susunod / nakaraang petsa ng episode mula sa $visit_tvmaze$."
+  },
+  "_description_mm_feature_3": {
+    "message": "karagdagang impormasyon ng serye ng pelikula / TV."
+  },
+  "_description_mm_feature_4": {
+    "message": "abiso tungkol sa bagong episode"
+  },
+  "_description_mm_feature_5": {
+    "message": "markahan ang serye ng TV bilang paborito at makakakuha ka ng abiso kapag ang bagong episode ay magagamit"
+  },
+  "_description_mm_feature_7": {
+    "message": "auto-itago kapag nakita ang pag-playback ng video"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ ay magpapakita sa iyo ng rating at katanyagan ng isang pelikula (o serye sa TV)"
+  },
+  "name": {
+    "message": "Pangalan"
+  },
+  "year": {
+    "message": "Taon"
+  },
+  "video_type": {
+    "message": "Type."
+  },
+  "video_type_0": {
+    "message": "Pelikula"
+  },
+  "video_type_1": {
+    "message": "Serye"
+  },
+  "video_type_2": {
+    "message": "Episode"
+  },
+  "runtime": {
+    "message": "Runtime."
+  },
+  "premiered": {
+    "message": "Premiere."
+  },
+  "premiere_in": {
+    "message": "Premiere In."
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Bansa"
+  },
+  "actors": {
+    "message": "Mga Aktor"
+  },
+  "dvd": {
+    "message": "DVD."
+  },
+  "director": {
+    "message": "Direktor"
+  },
+  "totalseasons": {
+    "message": "Kabuuang mga panahon"
+  },
+  "writer": {
+    "message": "Manunulat"
+  },
+  "language": {
+    "message": "Wika"
+  },
+  "awards": {
+    "message": "Mga Gantimpala"
+  },
+  "rated": {
+    "message": "Rated"
+  },
+  "production": {
+    "message": "Produksyon"
+  },
+  "plot": {
+    "message": "Plot."
+  },
+  "website": {
+    "message": "Website"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Bisitahin ang $visit_imdb$ Page"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Bisitahin ang $visit_tvmaze$ pahina para sa palabas na ito"
+  },
+  "make_favorite": {
+    "message": "Paborito"
+  },
+  "make_favorite_title": {
+    "message": "Magdagdag ng serye ng TV sa mga paborito. Ito ay magbibigay-daan sa iyo upang makatanggap ng abiso tungkol sa mga bagong episode."
+  },
+  "last_episode": {
+    "message": "Huling."
+  },
+  "next_episode": {
+    "message": "Susunod"
+  },
+  "last_episode_title": {
+    "message": "Ang huling kabanata"
+  },
+  "next_episode_title": {
+    "message": "Susunod na palabas"
+  },
+  "episode_airtime": {
+    "message": "Airtime."
+  },
+  "episode_name": {
+    "message": "Pangalan"
+  },
+  "series_status": {
+    "message": "Katayuan"
+  },
+  "episodes_count": {
+    "message": "Episodes."
+  },
+  "episodes_count_title": {
+    "message": "Kasalukuyang Panahon $1 ay $2 Episodes."
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "araw"
+  },
+  "hours": {
+    "message": "oras"
+  },
+  "na": {
+    "message": "Hindi magagamit"
+  },
+  "user_rating": {
+    "message": "Rating ng User: $1."
+  },
+  "user_popularity": {
+    "message": "Popularidad: $1 boto"
+  },
+  "source": {
+    "message": "Pinagmulan: $1."
+  },
+  "show_details": {
+    "message": "higit pa ..."
+  },
+  "hide_details": {
+    "message": "mas mababa ..."
+  },
+  "save_position": {
+    "message": "I-save ang posisyon"
+  },
+  "revert_position": {
+    "message": "Ibalik ang posisyon"
+  },
+  "win_disable": {
+    "message": "Huwag paganahin ang $1."
+  },
+  "cm_advanced": {
+    "message": "Advanced."
+  },
+  "op_visit_home": {
+    "message": "Bisitahin ang Homepage"
+  },
+  "op_support_me": {
+    "message": "Tulungan ang proyektong ito"
+  },
+  "hide": {
+    "message": "Itago ang window"
+  },
+  "show": {
+    "message": "Ipakita ang window"
+  },
+  "reset_position": {
+    "message": "I-reset ang posisyon"
+  },
+  "search": {
+    "message": "Search."
+  },
+  "configure_search": {
+    "message": "I-configure ang mga pagpipilian sa paghahanap"
+  },
+  "selection_search": {
+    "message": "Hanapin $1."
+  },
+  "menu_options": {
+    "message": "Mga Opsyon"
+  },
+  "menu_quick_options": {
+    "message": "Mabilis na mga pagpipilian"
+  },
+  "menu_visit_homepage": {
+    "message": "Bisitahin ang Homepage"
+  },
+  "menu_request_support": {
+    "message": "Humiling ng suporta para sa $1."
+  },
+  "show_introduction": {
+    "message": "Ipakita ang pahina ng pagpapakilala"
+  },
+  "o_about_issues": {
+    "message": "Iulat ang mga isyu:"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "firefox_store": {
+    "message": "Firefox add-ons."
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store."
+  },
+  "movie_not_detected": {
+    "message": "Hindi nakita ang pelikula"
+  },
+  "movie_not_detected_title": {
+    "message": "Walang serye ng pelikula / TV ang hindi nakita sa pahinang ito."
+  },
+  "movie_not_found": {
+    "message": "Hindi nakita ang pelikula"
+  },
+  "movie_not_found_title": {
+    "message": "Ang impormasyon ng pelikula ay hindi natagpuan sa server."
+  },
+  "status_type_0": {
+    "message": "Tumatakbo"
+  },
+  "status_type_1": {
+    "message": "Natapos"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Ipakita ang Ipakita"
+  },
+  "status_type_title_1": {
+    "message": "Natapos na ang palabas - wala nang mga panahon na binalak"
+  },
+  "status_type_title_2": {
+    "message": "Ipinapakita ang hinaharap ay hindi maliwanag"
+  },
+  "notify_movie_not_found": {
+    "message": "Hindi nakita ang pelikula: $1."
+  },
+  "notify_movie_not_found_body": {
+    "message": "Gamitin lamang ang pangalan ng Ingles na pelikula!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Ang paghahanap ay hindi perpekto ..."
+  },
+  "notify_video_hide": {
+    "message": "Nakita ang video - $app_name$ ay nakatago na ngayon"
+  },
+  "notify_video_hide_body": {
+    "message": "Mag-click dito upang hindi ipakita muli ang abiso na ito"
+  },
+  "notify_new_episodes": {
+    "message": "Ang bagong episode ay na-air"
+  },
+  "title_introduction": {
+    "message": "Panimula"
+  },
+  "supported_pages": {
+    "message": "Mga sinusuportahang pahina:"
+  },
+  "supported_grows": {
+    "message": "(Ang listahan na ito ay lumalaki at mas malaki)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Ang mga rating at katanyagan ng impormasyon ay mula sa $1$. Ang impormasyon tungkol sa mga episode ay mula sa $2$."
+  },
+  "title_got_it": {
+    "message": "Nakuha ito, magsimula tayo!"
+  },
+  "_description_privacy_policy": {
+    "message": "Patakaran sa Pagkapribado"
+  },
+  "_description_recent_features": {
+    "message": "Kamakailang idinagdag na mga tampok:"
+  },
+  "_description_known_issues": {
+    "message": "Mga kilalang isyu:"
+  },
+  "_description_common_tags": {
+    "message": "Tags:"
+  },
+  "_description_features": {
+    "message": "Mga Tampok:"
+  },
+  "about_me": {
+    "message": "Ako ay addon developer mula noong 2016. Ang aking layunin ay upang bumuo ng mga malakas na extension para sa iyong web-browser upang gawing mas produktibo ka."
+  },
+  "about_good_job": {
+    "message": "Kung sa tingin mo ginagawa ko ang isang mahusay na trabaho, mangyaring mag-abuloy :)"
+  },
+  "about_income": {
+    "message": "Ang iyong donasyon ay ang tanging kita!"
+  },
+  "about_thanks": {
+    "message": "Salamat sa pagsuporta sa aking trabaho!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Bank transfer gamit ang Iban:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Suportahan ang independiyenteng developer!"
+  }
+}

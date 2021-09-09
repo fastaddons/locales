@@ -1,0 +1,2543 @@
+{
+  "app_name": {
+    "message": "Group Speed Dial"
+  },
+  "app_desc": {
+    "message": "Organiza tus webs en diapositivas y grupos, con sincronización online entre dispositivos, gratis y sin anuncios."
+  },
+  "welcome_header": {
+    "message": "Bienvenido al complemento de $app_name$"
+  },
+  "welcome_setup": {
+    "message": "Configuración básica"
+  },
+  "welcome_watch_video": {
+    "message": "Mira una breve introducción del video (1:50) para ver las características principales."
+  },
+  "welcome_watch_android_video": {
+    "message": "Mira el video de configuración para Android."
+  },
+  "welcome_home_group": {
+    "message": "El grupo actual tiene  4 x 3 diapositivas, puedes cambiarlo aquí:"
+  },
+  "welcome_import_josep_del_rio": {
+    "message": "Tienes la función de restaurar de \"Speed Dial de Josep del Rio\" y otras más en las opciones:"
+  },
+  "welcome_options_page": {
+    "message": "Opciones"
+  },
+  "welcome_pick_color": {
+    "message": "Elige un color para el tema:"
+  },
+  "welcome_visuals": {
+    "message": "Para más opciones visita la página de opciones"
+  },
+  "import_settings_button": {
+    "message": "Restaurar copia de seguridad"
+  },
+  "import_josep_button": {
+    "message": "Restaurar archivo \"ConfiguraciónActual.speedial\" ..."
+  },
+  "import_firefox_button": {
+    "message": "Restaurar archivo \"marcadores-2017-XX-XX.json\" ..."
+  },
+  "import_fast_dial_button": {
+    "message": "Restaurar archivo \"fastdial.json\"..."
+  },
+  "import_super_start_button": {
+    "message": "Restaurar archivo \"sites.v1.json\"..."
+  },
+  "import_speed_dial_2_button": {
+    "message": "Restaurar arhivo \"cualquier_nombre\"..."
+  },
+  "import_done_text": {
+    "message": "Restaurados diapotivas externas"
+  },
+  "import_skip": {
+    "message": "No importar nada"
+  },
+  "import_pages_stats": {
+    "message": "Importar páginas $1 en grupos $2"
+  },
+  "import_data_from": {
+    "message": "Importar datos desde:"
+  },
+  "load_bookmarks": {
+    "message": "Cargar marcadores"
+  },
+  "load_top_pages": {
+    "message": "Cargar páginas más visitadas"
+  },
+  "group_generated_name": {
+    "message": "Grupo $1"
+  },
+  "default_home_group_name": {
+    "message": "Grupo Principal"
+  },
+  "drag_group_hover_open": {
+    "message": "Abrir grupo"
+  },
+  "replace_dial": {
+    "message": "Remplazar diapositiva"
+  },
+  "replace_duplicate_dial": {
+    "message": "Duplicar diapositiva - clic para actualizar la miniatura"
+  },
+  "create_multi_page_dial": {
+    "message": "Crear diapositiva multi-página"
+  },
+  "replace_multi_page_dial": {
+    "message": "Reemplazar diapositiva multi-página"
+  },
+  "msg_pro_cloud_upload": {
+    "message": "Subiendo miniaturas a la nube - esto permitirá que puedas verlas en la"
+  },
+  "msg_pro_cloud_web": {
+    "message": "web de diapositivas online"
+  },
+  "msg_pro_cloud_web_desc": {
+    "message": "La versión online no se puede modificar actualmente pero funciona en cualquier navegador - ¡Incluído tu teléfono!"
+  },
+  "msg_pro_same_thumbnails": {
+    "message": "¡Ahora puedes usar las miniaturas en cada dispositivo!"
+  },
+  "msg_pro_thumbnails_download": {
+    "message": "Esto permitirá descargar todas tus miniaturas subidas a la nube y reemplarzarlas por las locales."
+  },
+  "msg_correct_account": {
+    "message": "Por favor visita el servidor y asegúrate que estás identificado con una cuenta correcta:"
+  },
+  "msg_replace_text": {
+    "message": "Alternativamente puedes reemplazar tus diapositivas locales."
+  },
+  "url_search": {
+    "message": "URL / Buscar"
+  },
+  "msg_search_by": {
+    "message": "Buscar por:"
+  },
+  "msg_search_tip": {
+    "message": "Consejo: añade notas a tus diapositivas para una mejor búsqueda."
+  },
+  "msg_search_url": {
+    "message": "URL"
+  },
+  "msg_search_name": {
+    "message": "Nombre"
+  },
+  "msg_search_note": {
+    "message": "Nota"
+  },
+  "msg_add_dial_text": {
+    "message": "También puedes navegar entre grupos, mover o eliminar diapositivas ya creadas."
+  },
+  "msg_add_dial_no_show": {
+    "message": "No mostrar de nuevo"
+  },
+  "msg_add_dials_here": {
+    "message": "Insertar en diapositivas vacías"
+  },
+  "add_target_dial": {
+    "message": "Selecciona una diapositiva vacía para la página:"
+  },
+  "add_target_dials": {
+    "message": "Crea un nuevo grupo vacío o selecciona las diapositivas $1"
+  },
+  "add_image": {
+    "message": "Añadir imagen"
+  },
+  "bc_first_group": {
+    "message": "Creado el primer grupo"
+  },
+  "show_all_groups": {
+    "message": "Mostrar todos los grupos"
+  },
+  "fr_home_group": {
+    "message": "Grupo principal"
+  },
+  "err_db_settings_loading": {
+    "message": "Excepción mientras cargaba las configuraciones y bases de datos"
+  },
+  "err_db_creation": {
+    "message": "Error al crear la base de datos"
+  },
+  "err_db_loading": {
+    "message": "Error al cargar la base de datos"
+  },
+  "err_db_images": {
+    "message": "Error al obtener las imágenes de la base de datos"
+  },
+  "sync_synced_ok": {
+    "message": "sincronizado con el servidor"
+  },
+  "sync_working": {
+    "message": "accediendo..."
+  },
+  "sync_syncing": {
+    "message": "Sincronización en progreso..."
+  },
+  "sync_synced": {
+    "message": "sincronizado"
+  },
+  "sync_sync_ok": {
+    "message": "Sincronización satisfactoria"
+  },
+  "sync_err_label": {
+    "message": "error $1 - prueba más tarde"
+  },
+  "sync_err_conflict": {
+    "message": "conflicto"
+  },
+  "sync_err_server_newer": {
+    "message": "El servidor usa una nueva versión."
+  },
+  "sync_err_user_mismatch_": {
+    "message": "el usuario no coincide"
+  },
+  "sync_err_wrong_account": {
+    "message": "Tu versión pertenece a una cuenta distinta."
+  },
+  "sync_err_not_empty": {
+    "message": "error - no está vacío"
+  },
+  "sync_err_server_not_empty": {
+    "message": "El servidor ya contiene datos."
+  },
+  "sync_err_forbidden": {
+    "message": "No tienes permiso a esta sección"
+  },
+  "sync_downloading": {
+    "message": "descargando..."
+  },
+  "sync_down_thumbnails": {
+    "message": "descargando miniaturas"
+  },
+  "sync_down_thumbnails_progress": {
+    "message": "descargando $1 / $2"
+  },
+  "sync_down_thumbnails_wait": {
+    "message": "descargando miniaturas, por favor, espere"
+  },
+  "sync_up": {
+    "message": "subiendo..."
+  },
+  "sync_up_sync_thumbnails": {
+    "message": "sincronizando miniaturas... preparando la subida"
+  },
+  "sync_up_progress": {
+    "message": "subiendo $1 / $2"
+  },
+  "sync_up_wait": {
+    "message": "subiendo miniaturas, por favor, espere"
+  },
+  "sync_thumbnails_progress": {
+    "message": "Sincronizando miniaturas ... $1 / $2"
+  },
+  "add_page": {
+    "message": "Añade esta web al panel de diapositivas"
+  },
+  "add_dial": {
+    "message": "Convertir esta pestaña en diapositiva"
+  },
+  "add_link": {
+    "message": "Añade este enlace a la diapositiva"
+  },
+  "use_image_as_thumbnail": {
+    "message": "Usar esta imagen como miniatura de la diapositiva"
+  },
+  "cm_choose_dial": {
+    "message": "Elegir un hueco"
+  },
+  "return_to_tab": {
+    "message": "Volver a donde estaba"
+  },
+  "stay_here": {
+    "message": "Quédate aquí"
+  },
+  "close_added_pages": {
+    "message": "Cerrar páginas añadidas"
+  },
+  "close_this_tab": {
+    "message": "Cerrar esta pestaña"
+  },
+  "group_first_created": {
+    "message": "Primer grupo creado"
+  },
+  "privacy_info_head": {
+    "message": "Este complemento te permitirá realizar copias de seguridad y sincronizar tus diapositivas desde el servidor $1"
+  },
+  "privacy_info_body_1": {
+    "message": "Si creas una cuenta en la nube, tus diapositivas serán sincronizadas con el servidor. Estos datos solo contienen información básica (que hayas dado) acerca de las diapositivas, como el nombre, la URL, etc... NO se recopilará información de rastreo, o estadístico."
+  },
+  "privacy_info_body_2": {
+    "message": "Sin la cuenta en la nube, este complemento NO enviará información a ningún servidor. Si activaste descargar los iconos de página de los servicios de Google (en la página de opciones), se contactará con el servidor de Google para descargar los iconos de página. El uso opcional de características con la nube (como el uso de miniaturas desde la librería pública) también producirán intercambios de información con el servidor en la nube. En NINGÚN caso, se enviará información privada."
+  },
+  "field_size_range": {
+    "message": "Los valores deben estar entre $1 y $2"
+  },
+  "field_zoom_range": {
+    "message": "El zoom debe estar entre $1 and $2"
+  },
+  "field_scale_range": {
+    "message": "La escala debe estar entre $1 and $2"
+  },
+  "field_out_of_range": {
+    "message": "Fuera de rango"
+  },
+  "file_load_label": {
+    "message": "Cargar desde archivo..."
+  },
+  "file_loaded_name": {
+    "message": "Archivo cargado: $1"
+  },
+  "image_err_loading": {
+    "message": "Error al cargar imagen"
+  },
+  "field_hours_range": {
+    "message": "Horas debe estar entre $1 and $2"
+  },
+  "field_minutes_range": {
+    "message": "Minutos debe estar entre $1 and $2"
+  },
+  "field_columns_range": {
+    "message": "El número de columnas debe estar entre $1 and $2"
+  },
+  "field_rows_range": {
+    "message": "El número de filas debe estar entre $1 and $2"
+  },
+  "validation_url": {
+    "message": "Introduce una URL válida (enlace)"
+  },
+  "save_dial_edited": {
+    "message": "diapositiva editada: $1"
+  },
+  "save_dials_added_to_group": {
+    "message": "Varias diapositivas fueron añadidas al grupo: $1"
+  },
+  "save_dial_moved": {
+    "message": "diapositiva movida: $1"
+  },
+  "save_dial_resized": {
+    "message": "Diapositiva redimensionada: $1"
+  },
+  "save_group_rc_color": {
+    "message": "color del grupo fila/columna cambiado"
+  },
+  "save_group_moved": {
+    "message": "grupo movido: $1"
+  },
+  "save_dial_names_saved": {
+    "message": "Guardado los nombres de diapositivas - $1"
+  },
+  "save_dials_sorted": {
+    "message": "Diapositivas ordenadas en el grupo: $1"
+  },
+  "save_thumbnail_uploaded": {
+    "message": "Miniatura subida: $1"
+  },
+  "save_public_thumbnail_uploaded": {
+    "message": "Miniatura pública subida: $1"
+  },
+  "save_productivity_selection_changed": {
+    "message": "Modo productividad - cambiadas diapositivas seleccionadas"
+  },
+  "err_db_err_title": {
+    "message": "Error :("
+  },
+  "save_dial_removed": {
+    "message": "Eliminada diapositiva - $1"
+  },
+  "field_position_range": {
+    "message": "La posición entre grupos debe ser entre $1 and $2"
+  },
+  "field_ratio_x_range": {
+    "message": "El ratio X debe estar entre $1 and $2"
+  },
+  "field_ratio_y_range": {
+    "message": "El ratio Y debe estar entre $1 and $2"
+  },
+  "validation_small_group_dimensions": {
+    "message": "Este grupo ya contiene $1 diapositivas. Por favor, usa más filas o columnas para que quepan."
+  },
+  "save_group_edited": {
+    "message": "grupo editado: $1"
+  },
+  "group_delete_title": {
+    "message": "Eliminando grupo \"$1\" con diapositivas"
+  },
+  "group_delete_body": {
+    "message": "¿Estás seguro que quieres eliminar este grupo y todas sus diapositivas?"
+  },
+  "group_delete_yes": {
+    "message": "Sí"
+  },
+  "group_delete_no": {
+    "message": "No, no eliminar"
+  },
+  "save_group_deleted": {
+    "message": "grupo eliminado: $1"
+  },
+  "cm_shortcut_title": {
+    "message": "Atajo: $1"
+  },
+  "cm_open_new_tab": {
+    "message": "Abrir en una nueva pestaña"
+  },
+  "cm_new_tab_in_container": {
+    "message": "Abrir en Contenedor"
+  },
+  "firefox_containers_about": {
+    "message": "Acerca de Contenedores de Firefox"
+  },
+  "cm_open_all_new": {
+    "message": "Abrir todas las diapositivas - en nuevas pestañas"
+  },
+  "cm_open_all_replace": {
+    "message": "Abrir todas las diapositivas - reemplazar actual"
+  },
+  "cm_replace_existing_title": {
+    "message": "Reemplazar las pestañas abiertas con diapositivas de este grupo."
+  },
+  "cm_edit_dial": {
+    "message": "Editar diapositiva"
+  },
+  "cm_create_dial": {
+    "message": "Crear nueva diapositiva"
+  },
+  "cm_copy_link": {
+    "message": "Copiar ubicación del enlace"
+  },
+  "cm_move_dial": {
+    "message": "Mover diapositiva"
+  },
+  "cm_move_dial_to": {
+    "message": "Mover al grupo"
+  },
+  "cm_cut_dial": {
+    "message": "Cortar diapositiva"
+  },
+  "cm_copy_dial": {
+    "message": "Copiar diapositiva"
+  },
+  "cm_paste_dial": {
+    "message": "Pegar diapositiva"
+  },
+  "cm_paste_swap_dial": {
+    "message": "Pegar (intercambiar) diapositiva"
+  },
+  "cm_paste_replace_dial": {
+    "message": "Pegar (reemplazar) diapositiva"
+  },
+  "convert_to_multi": {
+    "message": "Convertir en diapositiva Multi-página"
+  },
+  "add_to_multi": {
+    "message": "Añadir a diapositivas Multi-página"
+  },
+  "cm_insert_up": {
+    "message": "Insertar arriba"
+  },
+  "cm_insert_left": {
+    "message": "Insertar a la izquierda"
+  },
+  "cm_insert_right": {
+    "message": "Insertar a la derecha"
+  },
+  "cm_insert_down": {
+    "message": "Insertar abajo"
+  },
+  "cm_drop_replace": {
+    "message": "Reemplazar diapositiva"
+  },
+  "cm_drop_copy_replace": {
+    "message": "copiar y reemplazar diapositiva"
+  },
+  "cm_drop_swap": {
+    "message": "Intercambiar diapositivas (por defecto)"
+  },
+  "cm_clear_dial": {
+    "message": "Eliminar diapositiva"
+  },
+  "cm_refresh_dial": {
+    "message": "Actualizar diapositiva"
+  },
+  "cm_refresh_image_here": {
+    "message": "Actualiza la imagen aquí"
+  },
+  "cm_plus_delay": {
+    "message": "+$1s"
+  },
+  "cm_plus_delay_title": {
+    "message": "Espera $1 segundos para cargar la página antes de hacer el pantallazo."
+  },
+  "cm_btn_big": {
+    "message": "Grande"
+  },
+  "cm_bigger_title": {
+    "message": "Generar miniatura más grande"
+  },
+  "cm_refresh_visit": {
+    "message": "Actualizar visitando la web"
+  },
+  "cm_btn_left": {
+    "message": "izquierda"
+  },
+  "cm_btn_left_title": {
+    "message": "Alinear captura a la izquierda (centrado por defecto)"
+  },
+  "cm_group_open_new_tab": {
+    "message": "Abrir en una nueva pestaña"
+  },
+  "cm_edit_group": {
+    "message": "Editar grupo"
+  },
+  "cm_create_new_group": {
+    "message": "Crear un grupo nuevo"
+  },
+  "cm_sort_by": {
+    "message": "Ordenar por"
+  },
+  "sort_by_name": {
+    "message": "Nombre"
+  },
+  "sort_by_note": {
+    "message": "Nota"
+  },
+  "sort_by_url": {
+    "message": "URL"
+  },
+  "sort_by_date": {
+    "message": "Fecha de creación"
+  },
+  "sort_by_remove_empty_dials": {
+    "message": "Eliminar diapositivas vacías"
+  },
+  "resize_dial": {
+    "message": "Redimensionar"
+  },
+  "resize_dial_normal": {
+    "message": "Normal"
+  },
+  "resize_dial_v_half": {
+    "message": "Mitad vertical"
+  },
+  "resize_dial_h_half": {
+    "message": "Mitad horizontal"
+  },
+  "resize_dial_small": {
+    "message": "Pequeño"
+  },
+  "resize_dial_tiny": {
+    "message": "Diminuto"
+  },
+  "resize_dial_micro": {
+    "message": "Microscópico"
+  },
+  "rc_color": {
+    "message": "Color de la columna / fila"
+  },
+  "row_color": {
+    "message": "Color por fila"
+  },
+  "col_color": {
+    "message": "Color por columna"
+  },
+  "cm_refresh_dials": {
+    "message": "Actualizar diapositivas"
+  },
+  "cm_change_thumbnail": {
+    "message": "Cambiar miniatura"
+  },
+  "cm_refresh_dial_background": {
+    "message": "Actualizar en segundo plano"
+  },
+  "cm_advanced": {
+    "message": "Avanzado"
+  },
+  "cm_legacy_features": {
+    "message": "características legadas (no usar)"
+  },
+  "cm_restore_previous_thumbnail": {
+    "message": "Restaurar miniatura previa"
+  },
+  "cm_public_upload": {
+    "message": "Subir miniaturas a la librería pública"
+  },
+  "cm_synchronize_thumbnails": {
+    "message": "Sincronizar miniaturas iniciando sesión con la nube"
+  },
+  "cm_user_consent_google_favicon": {
+    "message": "Descargar iconos usando los servicios de Google"
+  },
+  "cm_remove_group": {
+    "message": "Eliminar grupo"
+  },
+  "cm_upload_thumbnails": {
+    "message": "Subir miniaturas"
+  },
+  "cm_upgrade_pro": {
+    "message": "Actualizar a Pro"
+  },
+  "cm_pro_only": {
+    "message": "Sólo para versión Pro"
+  },
+  "save_group_created": {
+    "message": "Creado nuevo grupo"
+  },
+  "refresh_all_title": {
+    "message": "Actualizar todas las miniaturas:"
+  },
+  "refresh_ok": {
+    "message": "Actualizar miniaturas"
+  },
+  "refresh_all": {
+    "message": "de todos los grupos"
+  },
+  "refresh_method": {
+    "message": "Método de refresco:"
+  },
+  "refresh_this_group": {
+    "message": "de este grupo"
+  },
+  "refresh_missing": {
+    "message": "sin imagen"
+  },
+  "refresh_group_dials": {
+    "message": "el grupo de diapositivas solamente"
+  },
+  "refresh_auto_reload": {
+    "message": "Diapositivas con auto-recarga habilitado"
+  },
+  "pro_upgrade_label": {
+    "message": "Actualizar a Pro"
+  },
+  "pro_upgrade_now_label": {
+    "message": "Actualizar a Pro ahora"
+  },
+  "sync_down_thumbnails_title": {
+    "message": "Descargando miniaturas"
+  },
+  "sync_download_cloud_question": {
+    "message": "¿Estás seguro que quieres descargar tus miniaturas desde la nube?"
+  },
+  "sync_download_cloud_question_2": {
+    "message": "Esto sustituirá tus miniaturas locales."
+  },
+  "sync_download_yes": {
+    "message": "Sí, descargar"
+  },
+  "sync_download_no": {
+    "message": "No"
+  },
+  "sync_conflict": {
+    "message": "Conflicto en la sincronización"
+  },
+  "sync_conflict_body": {
+    "message": "Hay una nueva versión en el servidor, pero tienes algunos cambios en el local sin guardar."
+  },
+  "sync_conflict_body_2": {
+    "message": "¿Quiéres reemplazar tu versión local?"
+  },
+  "sync_conflict_replace_local": {
+    "message": "Reemplazar local"
+  },
+  "sync_conflict_replace_server": {
+    "message": "Reemplazar en el servidor"
+  },
+  "sync_err_account_title": {
+    "message": "La versión de tus datos esta asociada a una cuenta distinta"
+  },
+  "sync_err_account_replace_local": {
+    "message": "Reemplazar local"
+  },
+  "sync_err_account_replace_cloud": {
+    "message": "Reemplazar en la nube."
+  },
+  "sync_err_account_retry": {
+    "message": "Intentar"
+  },
+  "sync_not_empty_title": {
+    "message": "Ya hay algunas diapositivas en la nube"
+  },
+  "sync_not_empty_replace_local": {
+    "message": "Reemplazar local"
+  },
+  "sync_not_empty_replace_cloud": {
+    "message": "Reemplazar en la nube"
+  },
+  "sync_not_empty_replace_retry": {
+    "message": "Reintentar"
+  },
+  "sync_changed_account": {
+    "message": "La cuenta diferente está activa"
+  },
+  "sync_changed_account_body": {
+    "message": "Te has identificado con una cuenta diferente."
+  },
+  "login_login_create": {
+    "message": "Conéctate"
+  },
+  "history_title": {
+    "message": "Registro de acciones"
+  },
+  "history_restore": {
+    "message": "Restaurar seleccionado"
+  },
+  "history_loading": {
+    "message": "Cargando historial..."
+  },
+  "history_cancel": {
+    "message": "Cancelar"
+  },
+  "history_revert_dials": {
+    "message": "Si quieres recuperar tus diapositivas, usa $1."
+  },
+  "save_history_restored": {
+    "message": "datos restaurados del registro de acciones"
+  },
+  "search_title": {
+    "message": "Buscar diapositivas"
+  },
+  "unexpected_title": {
+    "message": "¡Hubo un error inexperado!"
+  },
+  "unexpected_solution": {
+    "message": "Haga clic aquí para recargar el complemento (si con esto no se soluciona, reinicie su navegador o su PC)"
+  },
+  "unexpected_body": {
+    "message": "Por favor, envíame el registro de errores a mi correo de soporte:"
+  },
+  "unexpected_thanks": {
+    "message": "Gracias."
+  },
+  "unexpected_close": {
+    "message": "Cerrar"
+  },
+  "err_mutable_title": {
+    "message": "Error al cargar la base de datos debido a que tu historial esta desactivado en tu navegador."
+  },
+  "err_mutable_body": {
+    "message": "Necesitas establecer \"Recordar historial\" en Firefox / Opciones / Privacidad y Seguridad / Historial."
+  },
+  "err_is_firefox_bug": {
+    "message": "Esto es un error de Firefox."
+  },
+  "err_error_details": {
+    "message": "Detalles de error:"
+  },
+  "login_login_title": {
+    "message": "Inicia sesión para sincronizar tus diapositivas que tengas en la nube"
+  },
+  "menu_refresh_all": {
+    "message": "Actualizar todas las diapositivas en grupo / Todas las que falten (después de la sincronización) / todos los grupos de diapositivas"
+  },
+  "menu_history_title": {
+    "message": "Abre una nueva ventana donde podrás administrar el registro de acciones"
+  },
+  "menu_pro_upload": {
+    "message": "Sólo en versión Pro - Sube todas tus miniaturas a la nube para sincronizarlas en todos tus dispositivos (¡incluso en tu teléfono!)"
+  },
+  "menu_pro_download": {
+    "message": "Sólo en versión Pro - Descarga todas las miniaturas desde la nube reemplazándolas por las locales."
+  },
+  "menu_page_to_dial": {
+    "message": "Añade esta web al panel de diapositivas"
+  },
+  "menu_pages_to_dial": {
+    "message": "Convertir las $1 pestañas a diapositivas"
+  },
+  "menu_cloud_dials": {
+    "message": "Diapositivas en la nube"
+  },
+  "menu_dials_page": {
+    "message": "Menú de diapositivas"
+  },
+  "keys_ctrl_shift_f": {
+    "message": "Ctrl + Mayús + F"
+  },
+  "ed_edit_dial": {
+    "message": "Editar diapositiva:"
+  },
+  "ed_tab_general": {
+    "message": "General"
+  },
+  "ed_auto_reload": {
+    "message": "Auto-recargar"
+  },
+  "ed_crop_scale": {
+    "message": "Redimensionar"
+  },
+  "screen_width": {
+    "message": "Ancho"
+  },
+  "screen_height": {
+    "message": "Alto"
+  },
+  "ed_tab_thumbnail": {
+    "message": "Miniatura"
+  },
+  "ed_tab_visual": {
+    "message": "Apariencia"
+  },
+  "ed_tab_settings": {
+    "message": "Configuración"
+  },
+  "ed_dial_title": {
+    "message": "Nombre de la diapositiva"
+  },
+  "ed_dial_note": {
+    "message": "Nota:"
+  },
+  "ed_link_to_page": {
+    "message": "Enlace a la página:"
+  },
+  "ed_create_new_group": {
+    "message": "Crea un grupo nuevo:"
+  },
+  "ed_group_name": {
+    "message": "Nombre:"
+  },
+  "ed_columns": {
+    "message": "Columnas:"
+  },
+  "ed_rows": {
+    "message": "Filas:"
+  },
+  "ed_link_to_group": {
+    "message": "Crear grupo de otro existente:"
+  },
+  "ed_page_dial": {
+    "message": "Página web de la diapositiva:"
+  },
+  "ed_group_dial": {
+    "message": "Diapositiva de grupo:"
+  },
+  "ed_text_dial": {
+    "message": "Crea una nota rápida"
+  },
+  "ed_search_dial": {
+    "message": "Crea una diapositiva como buscador:"
+  },
+  "ed_multi_dial": {
+    "message": "Diapositiva multi-página"
+  },
+  "ed_live_dial": {
+    "message": "Diapositiva en vivo:"
+  },
+  "ed_live_dial_title_1": {
+    "message": "Las diapositivas en vivo son páginas web en movimiento cargadas en una diapositiva"
+  },
+  "ed_live_dial_title_2": {
+    "message": "No todas las webs pueden cargar como diapositivas en vivo, pero funcionará en la mayoría de las páginas"
+  },
+  "page_name": {
+    "message": "Nombre"
+  },
+  "search_provider_name": {
+    "message": "Nombre"
+  },
+  "search_provider_url": {
+    "message": "URL"
+  },
+  "search_provider_icon": {
+    "message": "Icono"
+  },
+  "search_provider_name_placeholder": {
+    "message": "Escribe el nombre del buscador"
+  },
+  "search_provider_url_placeholder": {
+    "message": "Introduce una URL de búsqueda - debe contener $1"
+  },
+  "search_provider_url_info": {
+    "message": "Mira este video tutorial para aprender a crear una URL de búsqueda"
+  },
+  "search_add_more": {
+    "message": "Añade más motores de búsqueda"
+  },
+  "search_add_more_title": {
+    "message": "Puedes agrupar varios buscadores en una sola diapositiva."
+  },
+  "search_provider_tip": {
+    "message": "Presiona \"Intro\" para buscar aquí o \"Ctrl + Intro\" para abrir el buscador en una nueva pestaña"
+  },
+  "multi_dial_import": {
+    "message": "Importar enlances desde texto"
+  },
+  "multi_dial_import_help_0": {
+    "message": "Introduce un enlace por línea"
+  },
+  "multi_dial_import_help_1": {
+    "message": "Si quieres ponerle nombre a un enlace, coloca el nombre en la línea superior del enlace y usa el prefijo $1"
+  },
+  "multi_dial_import_current": {
+    "message": "Importar enlaces $1"
+  },
+  "multi_dial_title_action": {
+    "message": "Acción de clic en el título"
+  },
+  "multi_dial_link_action": {
+    "message": "Acción de clic en el enlace"
+  },
+  "multi_dial_title_action_0": {
+    "message": "Abrir todos los enlaces"
+  },
+  "multi_dial_title_action_1": {
+    "message": "Nada"
+  },
+  "multi_dial_link_action_0": {
+    "message": "Abrir enlace"
+  },
+  "multi_dial_link_action_1": {
+    "message": "Abrir todos los enlaces"
+  },
+  "live_dial_opt_no_interaction": {
+    "message": "Desactivar interacción con la página"
+  },
+  "live_dial_opt_hide_scrollbars": {
+    "message": "Ocultar barras de desplazamiento"
+  },
+  "dial_text_placeholder": {
+    "message": "Introduce el texto aquí"
+  },
+  "dial_click_to_clipboard": {
+    "message": "Copiar texto al portapapeles al hacer clic en la diapositiva"
+  },
+  "ed_ar_title": {
+    "message": "Auto-recargar miniatura"
+  },
+  "ed_ar_disabled_radio": {
+    "message": "Desactivado"
+  },
+  "ed_ar_enabled_radio": {
+    "message": "Habilitado"
+  },
+  "ed_au_type_0": {
+    "message": "Recargar cada"
+  },
+  "ed_au_type_1": {
+    "message": "Diariamente"
+  },
+  "ed_au_type_2": {
+    "message": "Mensualmente"
+  },
+  "ed_au_type_3": {
+    "message": "Lunes a viernes"
+  },
+  "ed_au_type_4": {
+    "message": "Fines de semana"
+  },
+  "ed_au_type_5": {
+    "message": "Lunes"
+  },
+  "ed_au_type_6": {
+    "message": "Martes"
+  },
+  "ed_au_type_7": {
+    "message": "Miércoles"
+  },
+  "ed_au_type_8": {
+    "message": "Jueves"
+  },
+  "ed_au_type_9": {
+    "message": "Viernes"
+  },
+  "ed_au_type_10": {
+    "message": "Sábado"
+  },
+  "ed_au_type_11": {
+    "message": "Domingo"
+  },
+  "ed_crop_off_radio": {
+    "message": "Automático"
+  },
+  "ed_crop_on_radio": {
+    "message": "Personalizado"
+  },
+  "ar_at": {
+    "message": "a las:"
+  },
+  "ar_hours": {
+    "message": "Horas"
+  },
+  "ar_minutes": {
+    "message": "Minutos"
+  },
+  "ar_dial_delay": {
+    "message": "Tiempo de espera para realizar la captura:"
+  },
+  "ar_dial_delay_title": {
+    "message": "Una vez haya cargado la página, esperará a crear la miniatura. Esto puede servir para páginas que tardan en cargar o que contienen gráficos complejos."
+  },
+  "ed_more_advanced": {
+    "message": "Nuevas funciones vendrán en futuras versiones."
+  },
+  "ed_auto_generated_th_radio": {
+    "message": "Auto-generar miniatura:"
+  },
+  "ed_blank_radio": {
+    "message": "Sin miniatura"
+  },
+  "ed_make_text_radio": {
+    "message": "Crea tu propia miniatura de texto usando la web $1:"
+  },
+  "use_for_dial": {
+    "message": "Usar para la diapositiva"
+  },
+  "ed_custom_th_file": {
+    "message": "Personalizar miniatura desde el archivo:"
+  },
+  "ed_custom_th_url": {
+    "message": "Personalizar miniatura desde la URL:"
+  },
+  "ed_public_thumbnail_radio": {
+    "message": "Miniatura desde librería pública:"
+  },
+  "load_images": {
+    "message": "Haz clic para cargar las imágenes"
+  },
+  "load_images_empty": {
+    "message": "No se encontraron imágenes para este dominio"
+  },
+  "downloads": {
+    "message": "Descargas:"
+  },
+  "image_info": {
+    "message": "Información de la imagen:"
+  },
+  "image_extension": {
+    "message": "Tipo de la imagen:"
+  },
+  "create_date": {
+    "message": "Fecha de creación:"
+  },
+  "image_file_size": {
+    "message": "Tamaño de la imagen:"
+  },
+  "resolution_too_low": {
+    "message": "La resolución es muy baja"
+  },
+  "report_image": {
+    "message": "Reportar imagen"
+  },
+  "category_vector_images": {
+    "message": "Imágenes vectoriales"
+  },
+  "category_high_dpi": {
+    "message": "Resolución alta"
+  },
+  "category_medium_dpi": {
+    "message": "Resolución media"
+  },
+  "category_low_dpi": {
+    "message": "Resolución baja"
+  },
+  "public_upload_consent": {
+    "message": "Al adjuntar la miniatura a la librería pública, estarás de acuerdo con:"
+  },
+  "public_upload_body_1": {
+    "message": "La miniatura que subas a la librería pública será accesible para todos los usuarios"
+  },
+  "public_upload_body_2": {
+    "message": "Contenido de la información subida: Imagen de la miniatura, su posición y nombre de la diapositiva. El resto de usuarios no verán quién subió la miniatura."
+  },
+  "label_sending": {
+    "message": "enviando ..."
+  },
+  "report_send": {
+    "message": "Informar"
+  },
+  "report_details_placeholder": {
+    "message": "Información adicional"
+  },
+  "report_type": {
+    "message": "Tipo de violación:"
+  },
+  "report_type_spam": {
+    "message": "irrelevante"
+  },
+  "report_type_copyright": {
+    "message": "derechos de autor"
+  },
+  "report_type_violent": {
+    "message": "violento"
+  },
+  "report_type_unethical": {
+    "message": "inmoral"
+  },
+  "report_type_other": {
+    "message": "otro"
+  },
+  "ed_save_on_disk": {
+    "message": "Salvar en disco"
+  },
+  "ed_vr_resolution": {
+    "message": "Resolución"
+  },
+  "ed_vr_resolution_title": {
+    "message": "Resolución de la página durante la creación de la miniatura."
+  },
+  "ed_no_zoom": {
+    "message": "Sin aumento"
+  },
+  "ed_top": {
+    "message": "Encima"
+  },
+  "ed_left": {
+    "message": "izquierda"
+  },
+  "ed_center": {
+    "message": "centro"
+  },
+  "ed_align_left": {
+    "message": "alinear a la izquierda"
+  },
+  "ed_load_preview": {
+    "message": "Haz clic para cargar la miniatura"
+  },
+  "ed_reset_position": {
+    "message": "Reiniciar posición"
+  },
+  "ed_reset_zoom": {
+    "message": "Reiniciar aumento"
+  },
+  "ed_reset_size": {
+    "message": "Reiniciar tamaño"
+  },
+  "ed_reset_scale": {
+    "message": "Reiniciar escala"
+  },
+  "label_reset_all": {
+    "message": "Reiniciar todo"
+  },
+  "label_coming_soon": {
+    "message": "Muy pronto"
+  },
+  "label_save_changes": {
+    "message": "Guardar cambios"
+  },
+  "label_discard_changes": {
+    "message": "Descartar cambios"
+  },
+  "label_create_all_thumbnails": {
+    "message": "Crear todas las miniaturas"
+  },
+  "label_create_thumbnail": {
+    "message": "Crear miniatura"
+  },
+  "ed_position": {
+    "message": "Posición:"
+  },
+  "ed_thumbnail_position_0": {
+    "message": "Centrado (contenido)"
+  },
+  "ed_thumbnail_position_1": {
+    "message": "Ancho completo - centrado arriba"
+  },
+  "ed_thumbnail_position_2": {
+    "message": "Carátula"
+  },
+  "ed_thumbnail_position_3": {
+    "message": "Rellenar (ajustado)"
+  },
+  "ds_fetch_new_name": {
+    "message": "Actualizar el nombre de la diapositiva al recargar (requiere JavaScript)"
+  },
+  "ds_fetch_new_name_title": {
+    "message": "Durante la recarga (o auto-recarga), el nombre de la diapositiva será reemplazado por el nombre de la página. Para ello es necesario tener JavaScript habilitado."
+  },
+  "ds_no_script": {
+    "message": "Desactivar JavaScript durante la recarga"
+  },
+  "ds_no_script_title": {
+    "message": "Desactivar JavaScript puede mejorar la generación de la miniaturas en algunas páginas."
+  },
+  "ds_open_dial_in": {
+    "message": "Abrir diapositiva en:"
+  },
+  "ds_open_dial_in_0": {
+    "message": "Pestaña actual"
+  },
+  "ds_open_dial_in_1": {
+    "message": "Nueva pestaña (enfocada)"
+  },
+  "ds_open_dial_in_2": {
+    "message": "Nueva pestaña"
+  },
+  "ds_open_dial_in_3": {
+    "message": "Nueva ventana"
+  },
+  "ds_open_dial_in_4": {
+    "message": "Nueva ventana privada"
+  },
+  "open_in_chrome_incognito": {
+    "message": "Ventana de incógnito"
+  },
+  "open_in_firefox_private": {
+    "message": "Ventana privada"
+  },
+  "firefox_containers": {
+    "message": "Contenedores"
+  },
+  "no_container": {
+    "message": "Sin contenedor"
+  },
+  "eg_title": {
+    "message": "Editar grupo"
+  },
+  "eg_position": {
+    "message": "Posición"
+  },
+  "eg_name": {
+    "message": "Nombre:"
+  },
+  "eg_columns": {
+    "message": "Columnas:"
+  },
+  "eg_rows": {
+    "message": "Filas:"
+  },
+  "eg_dials_ratio": {
+    "message": "Ratio diapositivas:"
+  },
+  "eg_flexible": {
+    "message": "flexible"
+  },
+  "eg_fixed": {
+    "message": "fijo"
+  },
+  "group_eg_scrollable": {
+    "message": "Crear grupo deslizable"
+  },
+  "eg_background_color": {
+    "message": "Color de fondo"
+  },
+  "eg_text_color": {
+    "message": "Color del texto"
+  },
+  "menu_search_title": {
+    "message": "Buscar diapositiva (Ctrl + Mayús + F) - usar URL / Nombre / Nota"
+  },
+  "dial_number_title": {
+    "message": "Numeración de diapositivas - Utiliza el complemento \"Ctrl + Number for Group Speed Dial\" para abrir tus diapositivas con los atajos de teclado."
+  },
+  "dial_name_placeholder": {
+    "message": "Se generará si lo dejas en blanco"
+  },
+  "dial_note_placeholder": {
+    "message": "(opcional) Crea una nota para encontrar más facilmente tus diapositivas a través de la función buscar (Ctrl + Mayús + F)"
+  },
+  "dial_url_placeholder": {
+    "message": "puedes omitir el prefijo https://    (ejemplo: google.com)"
+  },
+  "duplicate_dial_found": {
+    "message": "Duplicar diapositiva encontrada en el grupo $1"
+  },
+  "op_search": {
+    "message": "Buscar diapositiva"
+  },
+  "op_refresh": {
+    "message": "Actualizar miniaturas"
+  },
+  "op_history": {
+    "message": "Registro de acciones"
+  },
+  "menu_archive_title": {
+    "message": "El archivo contiene tus grupos marcados como Archivado."
+  },
+  "op_upload_thumbnails": {
+    "message": "Subir miniatura"
+  },
+  "op_download_thumbnails": {
+    "message": "Descargar miniatura"
+  },
+  "op_pro_only": {
+    "message": "(Sólo Pro)"
+  },
+  "op_bing_image": {
+    "message": "Fondo de pantalla de Bing"
+  },
+  "op_bing_next": {
+    "message": "Imagen siguiente"
+  },
+  "op_bing_previous": {
+    "message": "Imagen anterior"
+  },
+  "op_bing_fullscreen": {
+    "message": "Mostrar imagen completa"
+  },
+  "op_bing_quiz": {
+    "message": "Cuestionario de Bing"
+  },
+  "o_bing_hide_dials": {
+    "message": "Auto-ocultar diapositivas para ver el fondo"
+  },
+  "o_no_dial_reflection": {
+    "message": "No hay reflejo de la imagen"
+  },
+  "o_background_url_placeholder": {
+    "message": "ejemplo: https://www.some_page.com/nature.jpg"
+  },
+  "o_paste_import_placeholder": {
+    "message": "pegar el texto exportado aquí"
+  },
+  "o_add_current_after_action": {
+    "message": "Tras añadir una página al panel de diapositivas:"
+  },
+  "o_add_current_after_action_0": {
+    "message": "Preguntar si volver / quedarse"
+  },
+  "o_add_current_after_action_1": {
+    "message": "Volver a la pestaña anterior"
+  },
+  "o_add_current_after_action_2": {
+    "message": "Quedarse en panel de diapositivas"
+  },
+  "o_theme_title": {
+    "message": "Por defecto: negro - ¡para dormir mejor por la noche!"
+  },
+  "o_padding_title": {
+    "message": "Espacio entre cada diapositiva. Entre 2 diapositivas el valor es doble."
+  },
+  "o_sync_dials": {
+    "message": "Sincronización de datos de las diapositivas"
+  },
+  "o_sync_settings": {
+    "message": "Ajustes de sincronización de datos"
+  },
+  "o_disable_dials_sync": {
+    "message": "Desactivar sincronización de diapositivas en este dispositivo"
+  },
+  "o_disable_dials_sync_title": {
+    "message": "Tus diapositivas NO podrán ser recuperadas en la nube. ¡Asegúrate de crear una copia de seguridad local regularmente para no perder tus datos!"
+  },
+  "o_auto_options_sync": {
+    "message": "Crear copia de seguridad automática y sincroniza tu configuración con todos tus dispositivos"
+  },
+  "o_group_padding_title": {
+    "message": "Espacio entre cada nombre del grupo. Entre 2 grupos el valor es doble."
+  },
+  "o_group_font_size_title": {
+    "message": "Tamaño del texto de la barra superior."
+  },
+  "o_recommended_for_performance_title": {
+    "message": "Recomendado para un mejor rendimiento."
+  },
+  "o_two_gradient_colors_title": {
+    "message": "Seleciona al menos 2 colores para usar el gradiante. - Usar un gradiante complejo puede afectar ligeramente el rendimiento."
+  },
+  "o_background_preview_title": {
+    "message": "Previsualizar fondo"
+  },
+  "o_big_picture_warning_title": {
+    "message": "Usar imágenes muy grandes puede afectar el rendimiento (al abrir una nueva pestaña)."
+  },
+  "o_group_delayed_activation_title": {
+    "message": "Este tiempo de espera permite elegir un grupo incluso si ya contiene otros (si tienes como 3 filas de grupos)"
+  },
+  "o_auto_upload_title": {
+    "message": "Se requiere versión profesional. - La auto-subida sólo puede estar activa en un dispositivo."
+  },
+  "o_no_title": {
+    "message": "Sin títulos en diapositivas (sólo miniaturas)"
+  },
+  "o_no_title_title": {
+    "message": "por defecto: desactivado - Cuando está activado, todos los nombres de las diapositivas se ocultan."
+  },
+  "o_squared_edges": {
+    "message": "Desactivar esquinas redondeadas"
+  },
+  "o_squared_edges_title": {
+    "message": "Por defecto: desactivado - Si se activa, las esquinas de las diapositivas serán cuadradas."
+  },
+  "o_dial_font_size": {
+    "message": "Tamaño del título de la diapositiva"
+  },
+  "o_dial_title_down": {
+    "message": "Establecer título debajo de las diapositivas"
+  },
+  "o_dial_title_down_title": {
+    "message": "por defecto: desactivado - Si se habilita, los nombres de las diapositivas se mostrarán debajo."
+  },
+  "o_scrollable_thumbnails": {
+    "message": "Permitir desplazar miniatura dentro de la diapositiva"
+  },
+  "o_no_shadow": {
+    "message": "Ocultar cuadrícula"
+  },
+  "o_no_shadow_title": {
+    "message": "por defecto: desactivado. - Cuando está activado, muestra la cuadrícula del grupo (resplandor de la diapositiva)"
+  },
+  "o_hide_empty_dials": {
+    "message": "Ocultar diapositivas vacías"
+  },
+  "o_hide_empty_dials_title": {
+    "message": "por defecto: desactivado. Al activarlo, todas las diapositivas vacías se ocultan."
+  },
+  "o_hide_hover_shadow": {
+    "message": "Desactivar resplandor"
+  },
+  "o_dial_numbers_title": {
+    "message": "Se mostrará la numeración de diapositivas junto al nombre de la diapositiva. Esta función te será útil si quieres utilizar el complemento \"Ctrl + Number for Group Speed Dial\" parar abrir tus diapositivas usando los atajos de teclado."
+  },
+  "o_dial_numbers": {
+    "message": "Asignar números a las diapositvas"
+  },
+  "o_hide_hover_shadow_title": {
+    "message": "por defecto: desactivado - Al activarlo, se generará un resplandor alrededor de las diapositivas al pasar el ratón."
+  },
+  "o_hide_login_part": {
+    "message": "Ocultar la sección \"conéctate\""
+  },
+  "o_hide_login_part_title": {
+    "message": "Oculta la etiqueta \"Conéctate\" o tu usuario si estás identificado."
+  },
+  "o_hide_top_bar": {
+    "message": "Ocultar grupos y la parte de identificación"
+  },
+  "o_hide_top_bar_title": {
+    "message": "por defecto: desactivado - Al activarlo, la lista de grupos y la parte de identificación se ocultará."
+  },
+  "o_hide_add_group": {
+    "message": "Ocultar el botón \"+\" al final de la lista de grupos"
+  },
+  "o_hide_add_group_title": {
+    "message": "Oculta el botón \"+\""
+  },
+  "o_root_groups_only": {
+    "message": "Ocultar grupos anidados de la lista de grupo (barra superior)"
+  },
+  "o_root_groups_only_title": {
+    "message": "Si incluíste un grupo dentro de otro, el grupo inicial se ocultará y será mostrado solamente en el grupo de grupos."
+  },
+  "o_firefox_homepage_override": {
+    "message": "Cuando inicie Firefox, abrir el panel de diapositivas"
+  },
+  "o_pro_thumbnail_sync": {
+    "message": "Habilitar sincronización de miniaturas automáticas con el servidor"
+  },
+  "o_group_name_as_title": {
+    "message": "Establece el nombre del grupo seleccionado en la barra de título del navegador"
+  },
+  "o_prevent_new_tab_container": {
+    "message": "Evitar abrir la página de la diapositiva en el contenedor de Firefox"
+  },
+  "o_prevent_new_tab_container_title": {
+    "message": "La página de la diapositiva se abrirá sin contenedor"
+  },
+  "o_group_name_as_title_title": {
+    "message": "El nombre del grupo se establecerá como título de la página - esto puede ser visible como el nombre de la pestaña o el nombre de la barra de tareas."
+  },
+  "o_instant_popup_redirect": {
+    "message": "Redirigir a la página principal al pulsar sobre el icono de la barra de herramientas"
+  },
+  "o_instant_popup_new_tab": {
+    "message": "abrir en una nueva pestaña"
+  },
+  "o_instant_popup_new_tab_title": {
+    "message": "La pestaña nueva se abrirá siempre al lado de la pestaña actual."
+  },
+  "o_user_consent_google_favicon": {
+    "message": "Activar el uso de servicios de Google para obtener los iconos de página en las diapositivas (solo se usará cuando no pueda descargarse directamente) - Recomendado."
+  },
+  "o_instant_popup_redirect_title": {
+    "message": "Alterna entre abrir la página principal o desplegar el menú"
+  },
+  "o_disable_quick_edit": {
+    "message": "Desactivar edición rápida con clic izquierdo"
+  },
+  "o_disable_quick_edit_title": {
+    "message": "Desactiva la edición al pulsar sobre una diapositiva vacía."
+  },
+  "o_open_always_new_window": {
+    "message": "Abrir siempre en una nueva ventana"
+  },
+  "o_open_always_new_window_title": {
+    "message": "Al hacer clic sobre una diapositiva se abrirá la URL en una nueva ventana"
+  },
+  "o_open_always_new_tab": {
+    "message": "Siempre abrir en una nueva pestaña"
+  },
+  "o_open_always_new_tab_title": {
+    "message": "Al hacer clic en una diapositiva abrirá la URL en una nueva pestaña"
+  },
+  "o_open_always_include_group_dials": {
+    "message": "Incluyendo grupo de diapositivas"
+  },
+  "o_open_always_include_group_dials_title": {
+    "message": "También el grupo de diapositivas se abrirá en una nueva pestaña"
+  },
+  "o_open_always_focused": {
+    "message": "Auto-cambiar a una nueva pestaña"
+  },
+  "o_open_always_focused_title": {
+    "message": "La pestaña recientemente abierta será fijada"
+  },
+  "o_remember_group": {
+    "message": "Recordar el último grupo abierto"
+  },
+  "o_remember_group_title": {
+    "message": "Si está activo, la próxima vez que abras una nueva pestaña, serás redirigido al último grupo que visitaste."
+  },
+  "o_remember_group_runtime": {
+    "message": "Solo recordar hasta el reinicio del navegador"
+  },
+  "o_disable_auto_show_groups": {
+    "message": "Desactivar auto-mostrar grupo cuando se use arrastrar y soltar"
+  },
+  "o_disable_auto_show_groups_title": {
+    "message": "Por defecto, cuando arrastras y sueltas las diapositivas, toda la lista de los grupos es visible para activar el mover entre todos los grupos."
+  },
+  "o_scroll_groups": {
+    "message": "Deslizar por los grupos"
+  },
+  "o_scroll_groups_title": {
+    "message": "Podrás usar la rueda del ratón para deslizarte por los grupos."
+  },
+  "o_scroll_groups_reverse": {
+    "message": "Invertir dirección del desplazamiento"
+  },
+  "o_scroll_groups_reverse_title": {
+    "message": "Mueve la rueda del ratón hacia arriba para desplazarte al siguiente grupo."
+  },
+  "o_scroll_groups_circle": {
+    "message": "Circular - principio / fin"
+  },
+  "o_scroll_groups_circle_title": {
+    "message": "Cuando llega al final, el desplazamiento empieza desde el inicio (y viceversa)."
+  },
+  "o_frame_jpeg": {
+    "message": "Usa JPEG en vez de PNG"
+  },
+  "o_frame_jpeg_title": {
+    "message": "El formato JPEG consume menos memoria y carga más rápido."
+  },
+  "o_visit_jpeg": {
+    "message": "Usa JPEG en vez de PNG"
+  },
+  "o_visit_jpeg_title": {
+    "message": "El formato JPEG consume menos memoria y cargará más rápido."
+  },
+  "o_visit_jpeg_high_resolution": {
+    "message": "Usar resolución alta"
+  },
+  "o_visit_jpeg_high_resolution_title": {
+    "message": "La miniatura tendrá el doble de resolución para mejorar la calidad."
+  },
+  "o_current_dial_dimensions": {
+    "message": "Usar dimensión de la diapositiva actual (no recomendado)"
+  },
+  "o_current_dial_dimensions_title": {
+    "message": "Si está activado, el tamaño actual de la diapositiva se usará como resolución por defecto. Si se desactiva, la resolución utilizada será calculada mediante la resolución del monitor y el grupo de filas / columnas."
+  },
+  "o_context_menu_show_groups": {
+    "message": "Mostrar la lista de grupos en el menú contextual para una rápida inserción"
+  },
+  "o_context_menu_internal": {
+    "message": "Menú contextual del panel de diapositivas:"
+  },
+  "o_dials_context_menu": {
+    "message": "Diapositivas y grupos:"
+  },
+  "o_groups_context_menu": {
+    "message": "Grupos:"
+  },
+  "o_options_context_menu": {
+    "message": "Menú opciones:"
+  },
+  "o_tab_visual_dials": {
+    "message": "Diapositivas"
+  },
+  "o_tab_visual_groups": {
+    "message": "Grupos"
+  },
+  "o_tab_thumbnails": {
+    "message": "Miniaturas"
+  },
+  "o_tab_image": {
+    "message": "Calidad de imagen"
+  },
+  "o_theme": {
+    "message": "Tema:"
+  },
+  "o_color_theme": {
+    "message": "Color del tema:"
+  },
+  "o_custom_css": {
+    "message": "Estilos CSS personalizado:"
+  },
+  "o_custom_css_placeholder": {
+    "message": "ATENCIÓN: Sólo para usuarios experimentados. Un estilo defectuoso puede dañar la experiencia visual."
+  },
+  "o_reload_group_dials": {
+    "message": "Actualizar cambios"
+  },
+  "o_dials": {
+    "message": "Diapositivas"
+  },
+  "o_dials_visual": {
+    "message": "Aspecto de las diapositivas:"
+  },
+  "o_android_min_size": {
+    "message": "Tamaño de la diapositiva en Android"
+  },
+  "o_android_min_dial_size": {
+    "message": "Tamaño mínimo de la dispositiva (0 - desactivado)"
+  },
+  "o_space_around_dials": {
+    "message": "Espacio entre diapositivas:"
+  },
+  "o_group_list": {
+    "message": "Lista de grupos:"
+  },
+  "o_space_around_groups": {
+    "message": "Espacio entre grupos:"
+  },
+  "o_group_list_size": {
+    "message": "Tamaño de la fuente:"
+  },
+  "o_group_list_height": {
+    "message": "Grosor:"
+  },
+  "o_background_pic": {
+    "message": "Imagen de fondo:"
+  },
+  "o_gradient_type": {
+    "message": "Tipo de grandiante:"
+  },
+  "o_gradient_colors": {
+    "message": "colores gradiantes:"
+  },
+  "o_gradient_solid": {
+    "message": "Color liso - sin gradiante"
+  },
+  "o_gradient_linear_up_down": {
+    "message": "lineal - arriba / abajo"
+  },
+  "o_gradient_linear_left_right": {
+    "message": "lineal - izquierda / derecha"
+  },
+  "o_gradient_linear_diagonal": {
+    "message": "lineal - diagonal"
+  },
+  "o_gradient_radial_elipse": {
+    "message": "radial - elipse"
+  },
+  "o_gradient_radial_circle": {
+    "message": "radial - círculo"
+  },
+  "o_choose_local_image": {
+    "message": "Elegir archivo de imagen local..."
+  },
+  "o_copy_link": {
+    "message": "Copiar enlace de la página principal"
+  },
+  "o_safari_dials_page_hotkeys": {
+    "message": "Atajos de teclado para abrir la página de diapositivas:"
+  },
+  "o_how_to_homepage": {
+    "message": "para establecer $app_name$ como página de inicio - Haz clic en \"Copiar enlace de la página principal\" y después pégalo en el navegador / Opciones / Página de inicio"
+  },
+  "o_redirect_url": {
+    "message": "Sobreescribir \"Nueva pestaña\" con esta URL:"
+  },
+  "o_redirect_url_placeholder": {
+    "message": "ejemplo: https://www.google.com/"
+  },
+  "o_redirect_url_title": {
+    "message": "ATENCIÓN: usa direcciones web normales. Las páginas internas como \"about:newtab\" no funcionarán, a excepción de \"about:blank\" / \"about:home\"."
+  },
+  "o_groups": {
+    "message": "Grupos:"
+  },
+  "o_group_activation_delay": {
+    "message": "Retardo en la activación cuando se usa el arrastrar y soltar:"
+  },
+  "o_short_keys": {
+    "message": "Atajos de teclado - se requiere otro complemento:"
+  },
+  "o_key_extended_mode": {
+    "message": "Habilitar el acceso a más de 9 diapositivas"
+  },
+  "o_key_extended_mode_title": {
+    "message": "Utiliza el panel numérico del teclado para acceder más rápido a las diapositivas."
+  },
+  "o_dial_only_current_group": {
+    "message": "Activar la marcación rápida solo del grupo actual abierto"
+  },
+  "o_dial_only_current_group_title": {
+    "message": "Ejemplo: al presionar \"1\" se abrirá la primera diapositiva del actual grupo abierto."
+  },
+  "o_key_force_page_focus": {
+    "message": "Forzar el foco de página (experimental - puede dejar de funcionar)"
+  },
+  "o_key_force_page_focus_title": {
+    "message": "Si el foco está en la barra de direcciones, se intentará forzarlo sobre la página, sin embargo se desactivará el botón \"atrás\" después de navegar. Esta función es experimental y puede dejar de funcionar en las próximas versiones de Firefox."
+  },
+  "o_key_to_group_dial": {
+    "message": "Activar el acceso a los grupos mientras presiones la tecla:"
+  },
+  "o_key_to_group_dial_title": {
+    "message": "Al pulsar la tecla asignada + [número del grupo], se abrirá el grupo que tenga asignado ese número, en vez de la diapositiva."
+  },
+  "o_key_disable_alt": {
+    "message": "Desactivar tecla de atajo \"Alt\" / \"CMD\""
+  },
+  "o_key_disable_alt_title": {
+    "message": "Desactivar atajos usando la tecla \"Alt\" en Windows y  tecla \"CMD\" en Mac OS."
+  },
+  "o_key_disable_ctrl": {
+    "message": "Desactivar tecla de atajo \"Ctrl\""
+  },
+  "o_key_disable_ctrl_title": {
+    "message": "Desactivar atajos usando la tecla \"Ctrl\""
+  },
+  "o_key_disable_shift": {
+    "message": "Desactivar tecla de atajo \"Mayús\"."
+  },
+  "o_key_disable_shift_title": {
+    "message": "Desactivar atajos usando la tecla \"Mayús\", por ejemplo \"Ctrl + Mayús + 1\" or \"Alt + Mayús + 1\"."
+  },
+  "o_key_disable_f4": {
+    "message": "Desactivar abrir nueva pestaña al pulsar tecla \"F4\""
+  },
+  "o_key_disable_f4_title": {
+    "message": "Al presionar la tecla \"F4\" no abrirá una nueva pestaña."
+  },
+  "o_key_f4_active_here": {
+    "message": "Abrir página de diapositiva en la pestaña activa"
+  },
+  "o_key_disable_zero": {
+    "message": "Desactivar \"Ctrl + 0\" para abrir la 10ª diapositiva"
+  },
+  "o_key_disable_zero_title": {
+    "message": "Al desactivar \"Ctrl + 0\" no entrará en conflicto con \"reiniciar el zoom\", pero no se abrirá la diapositiva número 10."
+  },
+  "o_key_new_tab": {
+    "message": "Abrir en una nueva pestaña"
+  },
+  "o_key_new_tab_title": {
+    "message": "Las diapositivas se abrirán en nuevas pestañas."
+  },
+  "o_key_next_to_current": {
+    "message": "Abrir al lado de la pestaña actual"
+  },
+  "o_key_next_to_current_title": {
+    "message": "Las diapositivas se abrirán al lado de la pestaña actual."
+  },
+  "o_keys_delay": {
+    "message": "Margen para pulsar más de dos dígitos:"
+  },
+  "o_ar_settings": {
+    "message": "Configuración auto-recargar"
+  },
+  "o_ar_disable_this_device": {
+    "message": "Desactivar en este dispositivo"
+  },
+  "o_ar_disable_this_device_title": {
+    "message": "Auto-recargar será desactivado en tu navegador."
+  },
+  "o_ar_keep_pinned_tab": {
+    "message": "Seguir recargando la pestaña abierta después de la recarga"
+  },
+  "o_ar_keep_pinned_tab_title": {
+    "message": "La pestaña usada para la creación de la miniatura seguirá abierta tras la recarga."
+  },
+  "o_ar_concurrent_count": {
+    "message": "Páginas auto-recargadas al mismo tiempo"
+  },
+  "o_ar_concurrent_count_title": {
+    "message": "Limita el número de páginas cargadas al mismo tiempo durante la creación de las miniaturas. Un valor bajo ahorrará consumo de CPU y memoria."
+  },
+  "o_ar_screen_resolution": {
+    "message": "Resolución de pantalla de auto-recargar"
+  },
+  "o_ar_auto_radio": {
+    "message": "Automático - basado en la resolución actual de tu monitor (recomendado)"
+  },
+  "o_ar_custom_radio": {
+    "message": "Manual"
+  },
+  "o_ar_screen_resolution_help": {
+    "message": "La resolución de la miniatura es calculada a partir del tamaño de la pantalla, y el tamaño del grupo."
+  },
+  "o_vr_screen_resolution": {
+    "message": "Resolución de la página virtual usada al generar la miniatura."
+  },
+  "o_vr_default_width": {
+    "message": "Ancho de página virtual por defecto"
+  },
+  "o_vr_default_width_title": {
+    "message": "Ancho de la página usada al generar la miniatura."
+  },
+  "o_thumb_timings": {
+    "message": "Tiempo de generación de miniaturas y de espera:"
+  },
+  "o_load_timeout": {
+    "message": "Tiempo límite para cargar la página:"
+  },
+  "o_context_menu_plus_delay": {
+    "message": "Tiempo de espera adicional del menú contextual"
+  },
+  "o_normal_reload_fixed_delay": {
+    "message": "Tiempo de espera fijado en carga normal"
+  },
+  "o_reload_visit_fixed_delay": {
+    "message": "Tiempo de espera fijado al visitar una página:"
+  },
+  "o_thumbnails_delays_help": {
+    "message": "Estos tiempos de espera son necesarios para la creación de las miniaturas - muchas páginas usan javascript para terminar de cargar el contenido y el navegador necesita algunos milisegundos para dibujarlo."
+  },
+  "o_img_quality_default_reload": {
+    "message": "Calidad de la imagen - recargar por defecto:"
+  },
+  "o_img_compression_level": {
+    "message": "nivel de compresión"
+  },
+  "o_img_quality_reload_visit": {
+    "message": "Calidad de imagen - recargar al visitar:"
+  },
+  "o_context_menu_dials_page": {
+    "message": "Menú contextual de las páginas de diapositivas:"
+  },
+  "o_backup_restore": {
+    "message": "Salva tu configuración en un archivo:"
+  },
+  "o_export_dials": {
+    "message": "Crear copia de seguridad"
+  },
+  "o_export_thumbnails": {
+    "message": "Guardar también las miniaturas (aumentará considerablemente el tamaño de la copia de seguridad)"
+  },
+  "o_import_other_addons": {
+    "message": "Restaurar de otros complementos:"
+  },
+  "o_import_josep": {
+    "message": "Restaurar diapositivas del complemento \"Speed Dial de Josep del Rio\":"
+  },
+  "o_import_fvd": {
+    "message": "Restaurar diapositivas del complemento \"Speed Dial [FVD] de Nimbus Web\":"
+  },
+  "o_import_firefox_bookmarks": {
+    "message": "Restaurar diapositivas desde el archivo de marcadores de Firefox \".json\""
+  },
+  "o_import_fast_dial": {
+    "message": "Restaurar diapositivas del complemento \"Fast Dial de telega\""
+  },
+  "o_import_super_start_bookmarks": {
+    "message": "Restaurar diapositivas del complemento \"Super Start de cyberscorpio\":"
+  },
+  "o_import_speed_dial_2": {
+    "message": "Restaurar diapositivas del complemento \"Speed Dial 2 de speeddial2.com\":"
+  },
+  "o_replace_existing": {
+    "message": "Reemplazar diapositivas existentes"
+  },
+  "o_import_from_text": {
+    "message": "Desde el texto:"
+  },
+  "o_about_cloud_dials": {
+    "message": "Diapositivas en la nube:"
+  },
+  "o_auto_upload_pro": {
+    "message": "Subir miniaturas automáticamente (Sólo Pro)"
+  },
+  "o_picture_from_url": {
+    "message": "imagen desde URL:"
+  },
+  "o_picture_is_web_page": {
+    "message": "página web como fondo de pantalla:"
+  },
+  "o_picture_bing_of_the_day": {
+    "message": "foto del día de Bing:"
+  },
+  "o_picture_bing_of_the_day_note": {
+    "message": "imagen nueva cada día desde $1"
+  },
+  "o_picture_bing_of_the_day_help": {
+    "message": "Puedes controlar la foto del día de Bing desde el menú principal en el panel de diapositivas."
+  },
+  "o_picture_from_pc": {
+    "message": "imagen desde PC:"
+  },
+  "o_gradient_colors_sm": {
+    "message": "colores gradiantes:"
+  },
+  "o_none_fastest": {
+    "message": "ninguno (más rápido)"
+  },
+  "o_watch_youtube_import": {
+    "message": "Mira este tutorial en Youtube"
+  },
+  "o_cloud_backup_instead": {
+    "message": "*Nota: también puedes crear una cuenta gratuita y tus diapositivas serán automáticamente guardadas en la nube. Todo el contenido será transferido sobre una conexión HTTPS encriptada."
+  },
+  "reload_heading": {
+    "message": "$app_name$ - Actualizando miniaturas"
+  },
+  "reload_subheading": {
+    "message": "La función de auto-recarga utiliza esta pestaña para crear las miniaturas en segundo plano."
+  },
+  "archive": {
+    "message": "Archivo"
+  },
+  "archived": {
+    "message": "archivado"
+  },
+  "archive_empty": {
+    "message": "El archivo está vacío"
+  },
+  "archive_empty_body": {
+    "message": "Debes marcar algún grupo como archivado primero."
+  },
+  "archive_close_title": {
+    "message": "Haz clic para cerrar el archivo"
+  },
+  "group_archive_group": {
+    "message": "Mover grupo al archivo"
+  },
+  "group_archive_group_title": {
+    "message": "Los grupos archivados no serán visibles en la lista de grupos. Podrás acceder a ellos a través del Menú principal / Archivo"
+  },
+  "productivity_mode": {
+    "message": "Modo productividad"
+  },
+  "productivity_mode_title": {
+    "message": "Ocultar automáticamente diapositivas de distracción durante las horas de trabajo para ayudar a concentrarse."
+  },
+  "auto_productivity_mode": {
+    "message": "Programar modo de productividad"
+  },
+  "active_days": {
+    "message": "Dias activos"
+  },
+  "start_time": {
+    "message": "Tiempo de inicio"
+  },
+  "end_time": {
+    "message": "Tiempo de finalización"
+  },
+  "elapsed_time": {
+    "message": "Tiempo transcurrido"
+  },
+  "remaining_time": {
+    "message": "Tiempo restante"
+  },
+  "start_productivity": {
+    "message": "Activar ahora"
+  },
+  "end_productivity": {
+    "message": "Finalizar ahora"
+  },
+  "choose_distracting_dials": {
+    "message": "Seleccionar diapositivas de distracción"
+  },
+  "selected_dials_groups": {
+    "message": "Seleccionado: $1 diapositivas / $2 grupos"
+  },
+  "s_cp": {
+    "message": "Elegir otro buscador"
+  },
+  "sc_0": {
+    "message": "Personalizado"
+  },
+  "sc_1": {
+    "message": "Buscadores web"
+  },
+  "sc_2": {
+    "message": "Traductores"
+  },
+  "sc_3": {
+    "message": "Video"
+  },
+  "sc_4": {
+    "message": "Redes sociales"
+  },
+  "sc_5": {
+    "message": "Mapas"
+  },
+  "sc_6": {
+    "message": "Música"
+  },
+  "sc_7": {
+    "message": "Video"
+  },
+  "sc_8": {
+    "message": "Otros"
+  },
+  "search_engine": {
+    "message": "Motor de búsqueda",
+    "common": true
+  },
+  "color_remove_color": {
+    "message": "borrar color",
+    "common": true
+  },
+  "color_transparent": {
+    "message": "transparente",
+    "common": true
+  },
+  "color_rgb": {
+    "message": "RGB",
+    "common": true
+  },
+  "color_no_color": {
+    "message": "sin color",
+    "common": true
+  },
+  "field_int_default_value": {
+    "message": "Valor por defecto: $1, min: $2, max: $3",
+    "common": true
+  },
+  "field_set_default": {
+    "message": "Reiniciar valor: $1",
+    "common": true
+  },
+  "import_finished": {
+    "message": "¡Restauración finalizada!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Error",
+    "common": true
+  },
+  "pro_required": {
+    "message": "Necesitas la versión Pro",
+    "common": true
+  },
+  "version_free": {
+    "message": "$1 versión (gratuita) - sólo para uso no comercial",
+    "common": true
+  },
+  "version_pro": {
+    "message": "$1 versión",
+    "common": true
+  },
+  "msg_pro_header": {
+    "message": "Esta función sólo está disponible en la versión profesional.",
+    "common": true
+  },
+  "msg_pro_support": {
+    "message": "Por favor, apoya el futuro desarrollo de este complemento usando la versión Pro.",
+    "common": true
+  },
+  "statistics": {
+    "message": "Estadísticas",
+    "common": true
+  },
+  "color_black": {
+    "message": "Negro",
+    "common": true
+  },
+  "color_white": {
+    "message": "Blanco",
+    "common": true
+  },
+  "theme_light": {
+    "message": "Claro",
+    "common": true
+  },
+  "theme_dark": {
+    "message": "Oscuro",
+    "common": true
+  },
+  "title_introduction": {
+    "message": "Introducción",
+    "common": true
+  },
+  "title_got_it": {
+    "message": "Entendido, ¡Empecemos!",
+    "common": true
+  },
+  "privacy_info": {
+    "message": "Información de privacidad",
+    "common": true
+  },
+  "search_search": {
+    "message": "Buscar",
+    "common": true
+  },
+  "search_close": {
+    "message": "Cerrar",
+    "common": true
+  },
+  "email_send_me": {
+    "message": "enviar correo",
+    "common": true
+  },
+  "send_runtime_error_log": {
+    "message": "Enviar registro de errores...",
+    "common": true
+  },
+  "send_runtime_errors": {
+    "message": "Haz clic en el siguiente enlace para enviarme un correo con la información que ves debajo:",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Página de complementos de Firefox",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Página Chrome Web Store",
+    "common": true
+  },
+  "safari_store": {
+    "message": "App Store Mac App",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Opciones",
+    "common": true
+  },
+  "menu_quick_options": {
+    "message": "Opciones rápidas:",
+    "common": true
+  },
+  "menu_visit_homepage": {
+    "message": "Visitar página principal",
+    "common": true
+  },
+  "key_name_ctrl": {
+    "message": "Ctrl",
+    "common": true
+  },
+  "key_name_alt": {
+    "message": "Alt",
+    "common": true
+  },
+  "key_name_shift": {
+    "message": "Mayús",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Tamaño de fuente",
+    "common": true
+  },
+  "label_font_size_preview": {
+    "message": "Ejemplo tamaño de la fuente",
+    "common": true
+  },
+  "label_previous": {
+    "message": "Anterior",
+    "common": true
+  },
+  "label_back": {
+    "message": "Atrás",
+    "common": true
+  },
+  "label_next": {
+    "message": "Siguiente",
+    "common": true
+  },
+  "label_note": {
+    "message": "Nota:",
+    "common": true
+  },
+  "label_not_supported_by_browser": {
+    "message": "No soportado por este navegador",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Eliminar",
+    "common": true
+  },
+  "label_warning": {
+    "message": "ATENCIÓN:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Opciones:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Por defecto:",
+    "common": true
+  },
+  "label_done": {
+    "message": "¡Hecho!",
+    "common": true
+  },
+  "label_copy": {
+    "message": "",
+    "common": true
+  },
+  "label_copied": {
+    "message": "¡Copiado!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Personalizado:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Cerrar",
+    "common": true
+  },
+  "label_maximize": {
+    "message": "Maximizar",
+    "common": true
+  },
+  "label_minimize": {
+    "message": "Minimizar",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Instalado",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Abrir página",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Acepto",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Cancelar",
+    "common": true
+  },
+  "label_active": {
+    "message": "Activo",
+    "common": true
+  },
+  "label_inactive": {
+    "message": "Inactivo",
+    "common": true
+  },
+  "label_paused": {
+    "message": "Pausado",
+    "common": true
+  },
+  "label_pause": {
+    "message": "Pausa",
+    "common": true
+  },
+  "label_resume": {
+    "message": "Reanudar",
+    "common": true
+  },
+  "label_select_all": {
+    "message": "Seleccionar todo",
+    "common": true
+  },
+  "label_select_none": {
+    "message": "Ninguno seleccionado",
+    "common": true
+  },
+  "label_minutes": {
+    "message": "$1 min.",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Escala:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Aumentar:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Tamaño:",
+    "common": true
+  },
+  "label_example": {
+    "message": "Ejemplo:",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menú",
+    "common": true
+  },
+  "menu_visit_title": {
+    "message": "Visitar página principal",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Visitar página principal",
+    "common": true
+  },
+  "online_help": {
+    "message": "Documentación en línea",
+    "common": true
+  },
+  "online_help_info": {
+    "message": "Aquí encontrarás tutoriales, consejos y trucos, debates y más.",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Apoya este proyecto",
+    "common": true
+  },
+  "op_help": {
+    "message": "Ayuda",
+    "common": true
+  },
+  "op_help_introduction": {
+    "message": "Video introductorio",
+    "common": true
+  },
+  "op_help_safari_setup": {
+    "message": "Configurar Safari",
+    "common": true
+  },
+  "op_help_android_setup": {
+    "message": "Video de configuración en Android",
+    "common": true
+  },
+  "o_title": {
+    "message": "Opciones - $1",
+    "common": true
+  },
+  "o_manual_options_sync": {
+    "message": "Copia de seguridad manual",
+    "common": true
+  },
+  "automatic_backup": {
+    "message": "copia de seguridad automática",
+    "common": true
+  },
+  "backup": {
+    "message": "copia de seguridad",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Crear nueva copia de seguridad",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Guardar configuración",
+    "common": true
+  },
+  "load_settings": {
+    "message": "Cargar configuración",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "General",
+    "common": true
+  },
+  "o_tab_sync": {
+    "message": "Sincronización",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Fondo",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Menú contextual",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Atajos",
+    "common": true
+  },
+  "o_tab_import": {
+    "message": "Respaldo",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "Acerca de",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "píxeles",
+    "common": true
+  },
+  "o_general": {
+    "message": "General:",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "Milisegundos",
+    "common": true
+  },
+  "o_special_features": {
+    "message": "Funciones especiales:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "No",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "Sí",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "segundos",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Menú contextual:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Importar",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Hola :)",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Si te gusta, por favor valóralo aquí:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Si no te gusta, por favor hazme saber el porqué a mi correo. Estoy implementando la mayoría de peticiones que recibo.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Por favor, considera apoyar mi trabajo a través de:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "una donación (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "contratarme (Patreon)",
+    "common": true
+  },
+  "o_about_support_by_update": {
+    "message": "actualizar a la versión profesional",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "¡Muchas gracias!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "Página oficial:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contacto:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Informa de un problema:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Sólo puedo responder en Inglés y Eslovaco",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Redes sociales:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Salvar cambios y cerrar",
+    "common": true
+  },
+  "o_saved": {
+    "message": "¡Salvado!",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Me llamo $1$ y soy el creador de $app_name$.",
+    "common": true
+  },
+  "s_baidu": {
+    "message": "",
+    "common": true
+  },
+  "s_google": {
+    "message": "",
+    "common": true
+  },
+  "s_bing": {
+    "message": "",
+    "common": true
+  },
+  "s_yahoo": {
+    "message": "",
+    "common": true
+  },
+  "s_brave": {
+    "message": "",
+    "common": true
+  },
+  "s_yandex": {
+    "message": "",
+    "common": true
+  },
+  "s_duck_duck_go": {
+    "message": "",
+    "common": true
+  },
+  "s_qwant": {
+    "message": "",
+    "common": true
+  },
+  "s_ecosia": {
+    "message": "",
+    "common": true
+  },
+  "s_seznam": {
+    "message": "",
+    "common": true
+  },
+  "s_translate_en": {
+    "message": "",
+    "common": true
+  },
+  "s_translate_microsoft_en": {
+    "message": "",
+    "common": true
+  },
+  "s_translate_deepl_en": {
+    "message": "",
+    "common": true
+  },
+  "s_translate_yandex_en": {
+    "message": "",
+    "common": true
+  },
+  "s_translate_baidu_en": {
+    "message": "",
+    "common": true
+  },
+  "s_wikipedia": {
+    "message": "",
+    "common": true
+  },
+  "s_youtube": {
+    "message": "",
+    "common": true
+  },
+  "s_google_maps": {
+    "message": "",
+    "common": true
+  },
+  "s_twitter": {
+    "message": "",
+    "common": true
+  },
+  "s_facebook": {
+    "message": "",
+    "common": true
+  },
+  "s_imdb": {
+    "message": "IMDb",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "No hay resultados coincidentes",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Sin datos",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Modo oscuro",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Controlado por el sistema",
+    "common": true
+  }
+}

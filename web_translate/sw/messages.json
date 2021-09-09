@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Tafsiri maandishi yaliyochaguliwa (kutoka kwenye orodha ya mazingira)"
+  },
+  "_description_feature_2": {
+    "message": "Tafsiri ya ukurasa wote"
+  },
+  "_description_feature_3": {
+    "message": "Hali ya giza!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, Giza, Barua pepe, Google, Lang, Lugha, Microsoft, Ukurasa, Preklad, Prekladač, S3, Uchaguzi, Nakala, Traducteur, Tafsiri, Mtafsiri, Übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ ni rahisi kutumia translator kwa browser yako ya wavuti / thunderbird!"
+  },
+  "o_tab_translate": {
+    "message": "Tafsiri"
+  },
+  "_description_supported_translators": {
+    "message": "Watoa tafsiri ya tafsiri:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Dirisha la modal."
+  },
+  "open_in_1": {
+    "message": "Dirisha la popup."
+  },
+  "open_in_2": {
+    "message": "Tab mpya"
+  },
+  "open_in_3": {
+    "message": "Dirisha jipya"
+  },
+  "open_in_4": {
+    "message": "Tab mpya (bila chombo)"
+  },
+  "modal_window": {
+    "message": "Dirisha la modal."
+  },
+  "toolbar_icon_action": {
+    "message": "Toolbar icon action."
+  },
+  "toolbar_icon_text": {
+    "message": "Nakala ya Icon ya Toolbar."
+  },
+  "sidebar_size": {
+    "message": "Ukubwa wa sidebar."
+  },
+  "translation_provider": {
+    "message": "Mtoa huduma wa tafsiri"
+  },
+  "translate_to": {
+    "message": "Tafsiri kwa:"
+  },
+  "no_overlay": {
+    "message": "Hakuna overlay (eneo la giza karibu)"
+  },
+  "no_overlay_hint": {
+    "message": "Dirisha la modal litaendelea kufunguliwa hata kama unabonyeza nje."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Tafsiri ya wazi katika:"
+  },
+  "fallback_1": {
+    "message": "Njia ya kuanguka"
+  },
+  "fallback_2": {
+    "message": "Njia ya kuanguka"
+  },
+  "fallback_title": {
+    "message": "Dirisha la dirisha na dirisha la popup haziwezi kutumika wakati mwingine."
+  },
+  "open_in_tab": {
+    "message": "Fungua kwenye kichupo kipya"
+  },
+  "translate_this_page": {
+    "message": "Tafsiri ukurasa huu"
+  },
+  "selection_translate": {
+    "message": "Tafsiri \"$1\""
+  },
+  "page_translate": {
+    "message": "Tafsiri ukurasa"
+  },
+  "selected_text": {
+    "message": "nakala iliyochaguliwa."
+  },
+  "disable_context_menu": {
+    "message": "Zima orodha ya Muktadha: $1."
+  },
+  "import_finished": {
+    "message": "Kuagiza kumaliza!"
+  },
+  "import_error": {
+    "message": "Hitilafu"
+  },
+  "import_backup_file": {
+    "message": "Ingiza faili ya salama $1."
+  },
+  "search_search": {
+    "message": "Utafutaji"
+  },
+  "homepage": {
+    "message": "Homepage."
+  },
+  "addon_page": {
+    "message": "Ukurasa wa Addon."
+  },
+  "safari_store": {
+    "message": "Duka la App Mac."
+  },
+  "chrome_store": {
+    "message": "Duka la Wavuti wa Chrome."
+  },
+  "firefox_store": {
+    "message": "Vidokezo vya Firefox."
+  },
+  "thunderbird_store": {
+    "message": "Vidokezo vya Thunderbird."
+  },
+  "label_font_size": {
+    "message": "Ukubwa wa font."
+  },
+  "label_next": {
+    "message": "Ijayo"
+  },
+  "label_note": {
+    "message": "Kumbuka:"
+  },
+  "label_remove": {
+    "message": "Ondoa"
+  },
+  "label_warning": {
+    "message": "Onyo:"
+  },
+  "label_default": {
+    "message": "Default:"
+  },
+  "label_done": {
+    "message": "Kufanyika!"
+  },
+  "label_copied": {
+    "message": "Ilikosa!"
+  },
+  "label_close": {
+    "message": "Karibu"
+  },
+  "label_open_page": {
+    "message": "Fungua ukurasa"
+  },
+  "label_agree": {
+    "message": "Kubali"
+  },
+  "label_cancel": {
+    "message": "Futa."
+  },
+  "op_support_me": {
+    "message": "Msaada mradi huu"
+  },
+  "support_developer": {
+    "message": "Kusaidia msanidi wa kujitegemea!"
+  },
+  "hello_there": {
+    "message": "Habari!"
+  },
+  "about_me": {
+    "message": "Mimi ni msanidi wa addon tangu 2016. Lengo langu ni kujenga upanuzi wenye nguvu kwa kivinjari chako cha wavuti ili kukuwezesha kuzalisha zaidi."
+  },
+  "about_good_job": {
+    "message": "Ikiwa unafikiri ninafanya kazi nzuri, tafadhali chagua :)"
+  },
+  "about_income": {
+    "message": "Mchango wako ni mapato yangu tu!"
+  },
+  "about_thanks": {
+    "message": "Asante kwa kuunga mkono kazi yangu!"
+  },
+  "o_tab_context_menu": {
+    "message": "Menyu ya Muktadha."
+  },
+  "o_tab_about": {
+    "message": "Kuhusu"
+  },
+  "o_tab_settings": {
+    "message": "Mipangilio"
+  },
+  "o_pixels": {
+    "message": "pixels."
+  },
+  "o_seconds": {
+    "message": "sekunde"
+  },
+  "label_or": {
+    "message": "au"
+  },
+  "o_about_hello": {
+    "message": "Hello :)"
+  },
+  "o_about_intro": {
+    "message": "Jina langu ni $1$ na mimi ni mwandishi wa $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Ikiwa unapenda, tafadhali piga kiwango hapa:"
+  },
+  "o_about_thanks": {
+    "message": "Asante!"
+  },
+  "o_about_contact": {
+    "message": "Wasiliana:"
+  },
+  "o_about_issues": {
+    "message": "Ripoti masuala:"
+  },
+  "o_about_social_media": {
+    "message": "Mtandao wa kijamii:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Uhamisho wa Benki kwa kutumia Iban:"
+  },
+  "ps_no_results": {
+    "message": "Hakuna matokeo yanayofanana"
+  },
+  "label_no_data": {
+    "message": "Hakuna data."
+  },
+  "dark_mode": {
+    "message": "Mode ya giza."
+  },
+  "dark_mode_system": {
+    "message": "Kudhibitiwa na mfumo"
+  },
+  "_description_features": {
+    "message": "Vipengele:"
+  },
+  "_description_why": {
+    "message": "Kwa nini?"
+  },
+  "_description_privacy_policy": {
+    "message": "Sera ya faragha."
+  },
+  "_description_recent_features": {
+    "message": "Features zilizoongezwa hivi karibuni:"
+  },
+  "_description_common_tags": {
+    "message": "Tags:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Inapatikana pia kwa Firefox yako:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Inapatikana pia kwa Thunderbird yako:"
+  }
+}

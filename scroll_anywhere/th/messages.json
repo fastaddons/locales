@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "ทุกที่, ปุ่ม, เคอร์เซอร์, ลาก, คว้า, คว้าลาก, คว้าและลาก, อนันต์, ซ้าย, กลาง, โมเมนตัม, เมาส์, ย้าย, หน้า, ขวา, เลื่อน, เลื่อนหน้า, เลื่อน, เลื่อน, เลื่อน, เลื่อน, เลื่อน"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "ลากแถบเลื่อนพร้อมปุ่มเมาส์กลางของคุณที่ใดก็ได้ในหน้า รองรับสไตล์ \"คว้าและลาก\""
+  },
+  "field_int_default_value": {
+    "message": "ค่าเริ่มต้น: $1, Min: $2, Max: $3"
+  },
+  "field_set_default": {
+    "message": "รีเซ็ตเป็นค่าเริ่มต้น: $1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-ons"
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "win_disable": {
+    "message": "ปิดใช้งานใน $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "ปิดใช้งานการเลื่อนแนวนอนบน $1"
+  },
+  "op_visit_home": {
+    "message": "เยี่ยมชมโฮมเพจ"
+  },
+  "op_support_me": {
+    "message": "ช่วยโครงการนี้"
+  },
+  "o_title": {
+    "message": "ตัวเลือก - $1"
+  },
+  "o_tab_general": {
+    "message": "ทั่วไป"
+  },
+  "o_tab_momentum": {
+    "message": "โมเมนตัม"
+  },
+  "o_tab_cursor": {
+    "message": "เคอร์เซอร์"
+  },
+  "o_axis_locking": {
+    "message": "ล็อคแกน"
+  },
+  "o_tab_performance": {
+    "message": "ประสิทธิภาพ"
+  },
+  "o_tab_disabled_on": {
+    "message": "ปิดการใช้งาน"
+  },
+  "o_tab_advanced": {
+    "message": "ขั้นสูง"
+  },
+  "o_tab_scrollbars": {
+    "message": "แถบเลื่อน"
+  },
+  "o_tab_backup": {
+    "message": "นำเข้า / สำรองข้อมูล"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "เมื่อเลื่อนกล่องที่เลื่อนได้ในแกนเดียว แต่กล่องพาเรนต์จะเลื่อนได้ในแกนอื่น ๆ ล็อคเลื่อนไปที่แกนเดียวโดยใช้:"
+  },
+  "o_axis_lock_0": {
+    "message": "Smart Lock - ล็อคชั่วคราวโดยใช้โมเมนตัม"
+  },
+  "o_axis_lock_1": {
+    "message": "ล็อคอย่างเข้มงวด - ล็อคทิศทางทันที"
+  },
+  "o_axis_lock_2": {
+    "message": "ไม่มีล็อค - เลื่อนฟรีทั้งสองแกน"
+  },
+  "o_trend_momentum_window": {
+    "message": "ขนาดสแต็คล็อคสมาร์ท"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "ค่าที่ใหญ่กว่าจะต้องเลื่อนในแกนตรงข้ามเพื่อเปลี่ยนแกนการเลื่อน"
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon ถูกปิดใช้งาน! คลิกที่นี่เพื่อเปิดใช้งาน"
+  },
+  "o_cursor_change_default": {
+    "message": "ไม่มีการเปลี่ยนแปลง - ประสิทธิภาพที่ดีที่สุด"
+  },
+  "o_scroll_button": {
+    "message": "ปุ่มเลื่อน:"
+  },
+  "o_direction_speed": {
+    "message": "เลื่อนสไตล์ / ทิศทาง / ความเร็ว:"
+  },
+  "o_multiplier": {
+    "message": "ตัวคูณ"
+  },
+  "o_times_speed": {
+    "message": "เวลาเลื่อนความเร็ว"
+  },
+  "o_maximum_speed": {
+    "message": "ความเร็วในการเลื่อนสูงสุด (0 - ปิดใช้งาน):"
+  },
+  "o_ratio_unit": {
+    "message": "อัตราส่วน (ขนาดหน้ายาว / ขนาดหน้าต่าง)"
+  },
+  "o_scroll_type_0": {
+    "message": "เลียนแบบ Scrollbar"
+  },
+  "o_scroll_type_1": {
+    "message": "คว้าและลาก - ชอบบนสมาร์ทโฟน"
+  },
+  "o_scroll_type_2": {
+    "message": "ความเร็วแบบไดนามิก (ทดลอง)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "มันเหมือนกับการลากแถบเลื่อน"
+  },
+  "o_scroll_type_title_1": {
+    "message": "มันเหมือนกับการลากหน้าด้วยนิ้วของคุณบนหน้าจอโทรศัพท์"
+  },
+  "o_scroll_type_title_2": {
+    "message": "ความเร็วแบบไดนามิกทำให้ความเร็วในการเลื่อนช้าลงเมื่อหน้าใช้งานอีกต่อไป"
+  },
+  "o_disable_key": {
+    "message": "ปิดใช้งาน / เปิดใช้งานการเลื่อนเมื่อกดปุ่ม:"
+  },
+  "o_momentum_category": {
+    "message": "โมเมนตัม:"
+  },
+  "o_momentum_formula": {
+    "message": "สูตรโมเมนตัม:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "การเคลื่อนไหวที่ชะลอตัวอย่างสม่ำเสมอ"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "หน้าเลื่อนจะช้าลงอย่างสม่ำเสมอจนกว่าจะหยุด"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "การเคลื่อนไหวที่ชะลอตัวแบบทวีคูณ"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "หน้าเลื่อนจะเร็ว (ชี้แจง) ช้าลง"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "การเคลื่อนไหวที่ไม่มีที่สิ้นสุด∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "การเลื่อนจะไม่หยุด"
+  },
+  "o_momentum_max_speed": {
+    "message": "ความเร็วสูงสุด (0 - ปิดใช้งาน):"
+  },
+  "o_page_weight": {
+    "message": "น้ำหนักของหน้า:"
+  },
+  "o_grams": {
+    "message": "กรัม :)"
+  },
+  "o_additional_speed": {
+    "message": "ความเร็วเพิ่มเติม:"
+  },
+  "o_pixels_second": {
+    "message": "พิกเซลต่อวินาที"
+  },
+  "o_additional_duration": {
+    "message": "ระยะเวลาเพิ่มเติม:"
+  },
+  "o_advanced_momentum": {
+    "message": "การตั้งค่าโมเมนตัมขั้นสูง (สำหรับผู้เชี่ยวชาญเท่านั้น!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "การเปลี่ยนค่าเหล่านี้สามารถทำลายโมเมนตัมของคุณ!"
+  },
+  "o_compute_from_last": {
+    "message": "คำนวณจากล่าสุด:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "การตรวจจับหยุดเมาส์:"
+  },
+  "o_tracking_speed": {
+    "message": "ความเร็วในการติดตาม:"
+  },
+  "o_reset_values": {
+    "message": "รีเซ็ตค่า"
+  },
+  "o_cursor_scrolling": {
+    "message": "เคอร์เซอร์ใช้เมื่อเลื่อน:"
+  },
+  "o_performance": {
+    "message": "ประสิทธิภาพ:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "ป้องกันการกระโดดครั้งใหญ่"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "หากคุณใช้เครื่องมือที่สามารถส่งผ่านเคอร์เซอร์ของคุณไปทั่วหน้าจอ (เมื่อคุณถึงขอบ) ให้เปิดใช้งานตัวเลือกนี้เพื่อให้การเลื่อนอย่างต่อเนื่อง (ไม่มีที่สิ้นสุด)"
+  },
+  "o_advanced": {
+    "message": "ขั้นสูง:"
+  },
+  "o_movement_detection": {
+    "message": "เกณฑ์การตรวจจับการเคลื่อนไหวของเมาส์:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "จำนวนพิกเซลที่ต้องย้ายเมาส์ไปที่ลิงค์บล็อก บางครั้งเมื่อกดปุ่มเลื่อนคุณเลื่อนเมาส์เล็กน้อย แต่คุณไม่ต้องการให้ลิงก์ถูกปิดใช้งานเนื่องจากนั้น"
+  },
+  "o_context_menu_block": {
+    "message": "บล็อกเมนูบริบท:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "ยกเลิกการปิดกั้นเมนูบริบทล่าช้า"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "หากคุณเห็นเมนูบริบทหลังจากเลื่อนด้วยปุ่มเมาส์ขวาให้เพิ่มค่านี้"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "ปิดใช้งานการเลื่อนแนวนอนบนโดเมน:"
+  },
+  "o_is_disabled_domains": {
+    "message": "ปิดการใช้งานบนโดเมน:"
+  },
+  "o_is_disabled_url": {
+    "message": "ปิดการใช้งานในหน้า / หน้าย่อย:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "คุณสามารถใช้สัญลักษณ์ดาว (*) เพื่อกำหนดส่วน URL ตัวอย่างเช่น: \"Google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "ป้อนหนึ่งโดเมนต่อบรรทัด"
+  },
+  "o_is_disabled": {
+    "message": "ปิดใช้งาน Add-on"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "ใช้ไอคอนแถบเครื่องมือเป็นสวิตช์เปิด / ปิดหลัก"
+  },
+  "o_scroll_button_middle": {
+    "message": "ปุ่มกลาง"
+  },
+  "o_scroll_button_right": {
+    "message": "ปุ่มขวา"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "ผู้ใช้ Linux / Mac - คุณจะได้รับแจ้งให้อนุญาตใหม่ \"การตั้งค่าการอ่านและแก้ไขเบราว์เซอร์\" - สิ่งนี้จำเป็นสำหรับการปราบปรามเมนูบริบทที่แสดงก่อนเลื่อน!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "ผู้ใช้ Linux / Mac - เมนูบริบทของคุณจะถูกบล็อก! ในการเปิดเมนูบริบทให้กดปุ่ม \"Shift\" หรือปุ่มขวาให้คลิกสามปุ่ม"
+  },
+  "o_scroll_button_left": {
+    "message": "ปุ่มซ้าย (ทดลอง)"
+  },
+  "o_scroll_on_links": {
+    "message": "เลื่อนไปที่ลิงค์"
+  },
+  "o_scroll_on_links_title": {
+    "message": "เมื่อเปิดใช้งานคุณจะไม่สามารถลากและวางลิงค์ (โดยใช้ปุ่ม 'ปิดใช้งาน' เท่านั้น)"
+  },
+  "o_scroll_on_text": {
+    "message": "เลื่อนข้อความ"
+  },
+  "o_scroll_on_text_title": {
+    "message": "เลียนแบบการเลื่อน / การแก้ไขโทรศัพท์ - คุณต้องคลิกที่ข้อความเพื่อเปลี่ยนเป็น \"โหมดแก้ไข\" การคลิกนอกข้อความช่วยให้เลื่อนอีกครั้ง"
+  },
+  "o_scroll_on_textarea": {
+    "message": "เลื่อนบน Textarea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea เป็นบล็อกของข้อความมักจะปรับขนาดได้ ตัวอย่างเช่นในแท็บ \"ปิดใช้งานบน\" คุณสามารถดู Textarea ได้"
+  },
+  "o_scroll_on_editable_html": {
+    "message": "เลื่อนบน HTML ที่สามารถแก้ไขได้"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "ตัวอย่างเช่นเนื้อหาอีเมลใน Gmail สามารถแก้ไข HTML ได้"
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "ในข้อความจะเปิดใช้งานการเลือก / แก้ไขข้อความ"
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "คลิกที่ข้อความจะเปิดใช้งาน \"โหมดแก้ไข\" คลิกข้อความภายนอกเพื่อเปิดใช้งาน \"โหมดเลื่อน\""
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "คลิกเดียว"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "ดับเบิลคลิก"
+  },
+  "o_scrollbars_width": {
+    "message": "Scrollbars ดู"
+  },
+  "o_scrollbars_width_0": {
+    "message": "ปกติ (ไม่มีการเปลี่ยนแปลง)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "ผอม"
+  },
+  "o_scrollbars_width_2": {
+    "message": "ซ่อนเร้น"
+  },
+  "o_scrollbars_color": {
+    "message": "Scrollbar Slider สี:"
+  },
+  "o_scrollbars_background": {
+    "message": "สีพื้นหลัง Scrollbar:"
+  },
+  "o_reverse": {
+    "message": "ทิศทางการเลื่อนย้อนกลับ"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "การเปลี่ยนแปลง"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl"
+  },
+  "o_disable_type_0": {
+    "message": "ปิดการใช้งานเมื่อกดปุ่มลง:"
+  },
+  "o_disable_type_1": {
+    "message": "เปิดใช้งานเมื่อกดปุ่ม:"
+  },
+  "o_momentum": {
+    "message": "เปิดใช้งานโมเมนตัม - คุณสามารถ \"โยน\" หน้า (เช่นบนโทรศัพท์)"
+  },
+  "o_no_css_edit": {
+    "message": "อย่าล็อค iframes และไม่เปลี่ยนเคอร์เซอร์เมื่อเลื่อน"
+  },
+  "o_no_prevent_default": {
+    "message": "อย่าปิดกั้นการกระทำของปุ่มเริ่มต้น"
+  },
+  "o_auto_link_lock": {
+    "message": "ลิงค์บล็อก:"
+  },
+  "o_no_link_block": {
+    "message": "อย่าปิดกั้นการคลิกเมาส์บนลิงค์หลังจากการเคลื่อนไหว"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "เมื่อคุณเริ่มเลื่อนไปที่ลิงค์จากนั้นคุณเลื่อนไปที่ลิงค์เดียวกันเบราว์เซอร์จะเปิดลิงค์ โดยปกติจะไม่เป็นพฤติกรรมที่ต้องการดังนั้นตามค่าเริ่มต้นที่ถูกบล็อก"
+  },
+  "o_page_weight_title": {
+    "message": "การควบคุมนี้เป็นเพียง 'หนัก' หน้านี้ หน้าเว็บที่หนักกว่ามีโมเมนตัมอีกต่อไป"
+  },
+  "o_additional_speed_title": {
+    "message": "คุณสามารถเร่งความเร็วในการระบุโมเมนตัม"
+  },
+  "o_additional_duration_title": {
+    "message": "เวลาเพิ่มเติมสำหรับแต่ละโมเมนตัม"
+  },
+  "o_compute_from_last_title": {
+    "message": "ความเร็วเริ่มต้นโมเมนตัมถูกกำหนดโดยความเร็วในการเลื่อนก่อนที่จะปล่อยปุ่มเลื่อน"
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "ใช้เวลานานแค่ไหนที่ต้องใช้เมาส์ยังคงอยู่ - ก่อนที่จะปล่อยปุ่มเลื่อน - เพื่อไม่เปิดใช้งานโมเมนตัม"
+  },
+  "o_tracking_speed_title": {
+    "message": "ช่วงเวลาสำหรับการวัดความเร็วในการเลื่อนปัจจุบัน"
+  },
+  "o_scrolling_area": {
+    "message": "พื้นที่เลื่อน:"
+  },
+  "o_outside_area_width": {
+    "message": "พื้นที่เลื่อน (0 - ปิดการใช้งาน):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "การย้ายเคอร์เซอร์ของคุณนอกพื้นที่เลื่อนจะเปลี่ยนตำแหน่งการเลื่อน สามารถมองเห็นพฤติกรรมเดียวกันได้เมื่อลากแถบเลื่อน"
+  },
+  "o_scroll_button_left_title": {
+    "message": "คำเตือน - การสนับสนุนปุ่มซ้ายใช้งานที่เลิกใช้งาน Firefox API ที่สามารถลบได้ใน Firefox เวอร์ชันในอนาคต"
+  },
+  "o_prevent_text_selection": {
+    "message": "ป้องกันการเลือกข้อความเมื่อเลื่อนด้วยปุ่มซ้าย"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "ในบางอุปกรณ์เลื่อนด้วยปุ่มซ้ายของเมาส์จะเลือกข้อความในหน้า"
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "อย่าบล็อกเมนูบริบทเมื่อพยายามเลื่อนหน้าไม่สามารถเลื่อนได้"
+  },
+  "o_backup_restore": {
+    "message": "การสำรองข้อมูล / คืนค่าการสำรองข้อมูลเป็นไฟล์:"
+  },
+  "o_export_settings": {
+    "message": "ส่งออกการตั้งค่าไปยังไฟล์"
+  },
+  "import_settings_button": {
+    "message": "นำเข้าการตั้งค่าจาก $1 ไฟล์ ..."
+  },
+  "import_finished": {
+    "message": "นำเข้าเสร็จแล้ว!"
+  },
+  "test_page_title": {
+    "message": "ทดสอบการตั้งค่าการเลื่อนของคุณที่นี่"
+  },
+  "menu_options": {
+    "message": "ตัวเลือก"
+  },
+  "menu_visit_title": {
+    "message": "เยี่ยมชมโฮมเพจ"
+  },
+  "not_working": {
+    "message": "ปิดการใช้งานโดยเว็บเบราว์เซอร์ของคุณ"
+  },
+  "disabled_by_user": {
+    "message": "ปิดการใช้งานในโดเมนนี้"
+  },
+  "not_working_title": {
+    "message": "เบราว์เซอร์ของคุณจะบล็อก Scrollany ที่หน้าประเภทเหล่านี้:"
+  },
+  "not_working_body": {
+    "message": "หากต้องการเปิดใช้งาน Scrollanywhere ในหน้า \"Mozilla.org\" ดูการสอน YouTube นี้"
+  },
+  "show_scrollbars": {
+    "message": "แสดง Scrollbars"
+  },
+  "show_scrollbars_title": {
+    "message": "แสดง Scrollbars ชั่วคราว"
+  },
+  "switch_on_off": {
+    "message": "สวิตช์เปิดปิด / เปิด"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "หากคุณพบความล่าช้าที่เห็นได้ชัดระหว่างการกดปุ่มเลื่อนและการเลื่อนเริ่มให้ลองเปิดใช้งานตัวเลือกนี้ อย่างไรก็ตามคุณจะไม่สามารถเลื่อนไปที่ \"iframes\" เช่นวิดีโอฝังตัวเก่าหรือโฆษณาบางรายการ"
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "สิ่งนี้จะปิดการใช้งานตัวเลือกเพื่อเปลี่ยนเคอร์เซอร์ในขณะที่เลื่อน"
+  },
+  "o_helper_text_default_action": {
+    "message": "มีประโยชน์ใน Linux เพื่อเปิดใช้งานวางด้วยปุ่มกลาง"
+  },
+  "o_about_hello": {
+    "message": "สวัสดี :)"
+  },
+  "o_about_intro": {
+    "message": "ชื่อของฉันคือ $1$ และฉันเป็นผู้แต่ง $app_name$"
+  },
+  "o_about_like_it": {
+    "message": "ถ้าคุณชอบโปรดให้คะแนนที่นี่:"
+  },
+  "o_about_dislike_it": {
+    "message": "หากคุณไม่ชอบโปรดแจ้งให้เราทราบว่าทำไมถึงอีเมลของฉัน ฉันใช้คำขอคุณสมบัติส่วนใหญ่ที่ฉันได้รับ"
+  },
+  "o_disabled": {
+    "message": "ปิดการใช้งาน",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "เปิดใช้งาน",
+    "common": true
+  },
+  "o_times": {
+    "message": "เวลา",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "พิกเซล",
+    "common": true
+  },
+  "o_items": {
+    "message": "รายการ",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "มิลลิวินาที",
+    "common": true
+  },
+  "label_working": {
+    "message": "ทำงาน ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "ปิด",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "โปรดพิจารณาสนับสนุนงานของฉันด้วย",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "บริจาค (Paypal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "เป็นผู้อุปถัมภ์ของฉัน",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "ขอขอบคุณ!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "บ้าน:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "ติดต่อ:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "ปัญหารายงาน:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "ฉันสามารถตอบกลับในภาษาอังกฤษ / สโลวักได้เท่านั้น",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "สื่อสังคม:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "บันทึกการเปลี่ยนแปลงและปิด",
+    "common": true
+  },
+  "o_saved": {
+    "message": "บันทึก!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "เร็ว ๆ นี้",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "บันทึกการเปลี่ยนแปลง",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "นโยบายความเป็นส่วนตัว",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "คุณสมบัติที่เพิ่มล่าสุด:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

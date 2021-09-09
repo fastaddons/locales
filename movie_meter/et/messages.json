@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "kuupäev, IMDB, kirjeldus, episood, gabariit, graafik, IMDB, info, meeter, film, film, filmid, netflix, imdb, reiting, seeria, näitused, televiisor, telesaate, video, visuaalsed, hääled, hooaja"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "filmi ei leitud / vale filmi leitud - kuna ei ole \"ametlikku\" integratsiooni sihtleht, ei saa ma tagada 100% õige tulemusi (kuid enamikul juhtudel see toimib ideaalselt)"
+  },
+  "_description_mm_not_working": {
+    "message": "Kas teie lemmik filmi lehel ei tööta?"
+  },
+  "_description_mm_add_support": {
+    "message": "Võta minuga ühendust ja lisan selle - kui võimalik (leht peab sisaldama filmi nime inglise keeles või $visit_imdb$ link)."
+  },
+  "_description_mm_feature_1": {
+    "message": "movie reiting ja populaarsus alates $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "järgmine / eelmine episoodi kuupäev alates $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "täiendav filmi / telesarjade andmed"
+  },
+  "_description_mm_feature_4": {
+    "message": "teade uue episoodi kohta"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark TV seeria lemmik ja saad teate, kui uus episood on saadaval"
+  },
+  "_description_mm_feature_7": {
+    "message": "auto-peita, kui tuvastatakse video taasesitus"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ näitab teile filmi (või telesarjade) hindamist ja populaarsust"
+  },
+  "name": {
+    "message": "Nimetus"
+  },
+  "year": {
+    "message": "Aasta"
+  },
+  "video_type": {
+    "message": "Tüüp"
+  },
+  "video_type_0": {
+    "message": "Film"
+  },
+  "video_type_1": {
+    "message": "Seeria"
+  },
+  "video_type_2": {
+    "message": "Episood"
+  },
+  "runtime": {
+    "message": "Jooksuaeg"
+  },
+  "premiered": {
+    "message": "Esietendus"
+  },
+  "premiere_in": {
+    "message": "Esietendus"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Riik"
+  },
+  "actors": {
+    "message": "Näitlejad"
+  },
+  "dvd": {
+    "message": "Dvd"
+  },
+  "director": {
+    "message": "Direktor"
+  },
+  "totalseasons": {
+    "message": "Kokku aastaaegadel"
+  },
+  "writer": {
+    "message": "Kirjanik"
+  },
+  "language": {
+    "message": "Keel"
+  },
+  "awards": {
+    "message": "Auhinnad"
+  },
+  "rated": {
+    "message": "Hinnatud"
+  },
+  "production": {
+    "message": "Tootmine"
+  },
+  "plot": {
+    "message": "Süžee"
+  },
+  "website": {
+    "message": "Veebisait"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Külasta $visit_imdb$ leht"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Selle näituse jaoks külastage $visit_tvmaze$ lehte"
+  },
+  "make_favorite": {
+    "message": "Lemmik"
+  },
+  "make_favorite_title": {
+    "message": "Lisa telesarja lemmikutesse. See võimaldab teil saada teate uute episoodide kohta."
+  },
+  "last_episode": {
+    "message": "Viimati"
+  },
+  "next_episode": {
+    "message": "Järgmine"
+  },
+  "last_episode_title": {
+    "message": "Viimane episood"
+  },
+  "next_episode_title": {
+    "message": "Järgmine episood"
+  },
+  "episode_airtime": {
+    "message": "Vältel"
+  },
+  "episode_name": {
+    "message": "Nimetus"
+  },
+  "series_status": {
+    "message": "Staatus"
+  },
+  "episodes_count": {
+    "message": "Episoodid"
+  },
+  "episodes_count_title": {
+    "message": "Praegune hooaeg $1 on $2 episoodid"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "päevi"
+  },
+  "hours": {
+    "message": "tunde"
+  },
+  "na": {
+    "message": "Pole saadaval"
+  },
+  "user_rating": {
+    "message": "Kasutaja hinnang: $1"
+  },
+  "user_popularity": {
+    "message": "Populaarsus: $1 häält"
+  },
+  "source": {
+    "message": "Allikas: $1"
+  },
+  "show_details": {
+    "message": "veel ..."
+  },
+  "hide_details": {
+    "message": "vähem ..."
+  },
+  "save_position": {
+    "message": "Salvesta positsioon"
+  },
+  "revert_position": {
+    "message": "Pöörduma"
+  },
+  "win_disable": {
+    "message": "Keela $1"
+  },
+  "cm_advanced": {
+    "message": "Arenenud"
+  },
+  "op_visit_home": {
+    "message": "Külasta kodulehekülge"
+  },
+  "op_support_me": {
+    "message": "Aita seda projekti"
+  },
+  "hide": {
+    "message": "Peida aken"
+  },
+  "show": {
+    "message": "Näita akent"
+  },
+  "reset_position": {
+    "message": "Lähtesta"
+  },
+  "search": {
+    "message": "Otsing"
+  },
+  "configure_search": {
+    "message": "Seadistage otsinguvalikud"
+  },
+  "selection_search": {
+    "message": "Otsi $1"
+  },
+  "menu_options": {
+    "message": "Valikuvõimalused"
+  },
+  "menu_quick_options": {
+    "message": "Kiired valikud"
+  },
+  "menu_visit_homepage": {
+    "message": "Külasta kodulehekülge"
+  },
+  "menu_request_support": {
+    "message": "Taotleda toetust $1"
+  },
+  "show_introduction": {
+    "message": "Näita tutvustus lehte"
+  },
+  "o_about_issues": {
+    "message": "Aruande küsimused:"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "firefox_store": {
+    "message": "Firefoxi lisandmoodulid"
+  },
+  "chrome_store": {
+    "message": "Chrome'i veebipood"
+  },
+  "movie_not_detected": {
+    "message": "Filmi ei tuvastatud"
+  },
+  "movie_not_detected_title": {
+    "message": "Sellel lehel ei tuvastatud filmi / telesarjasid."
+  },
+  "movie_not_found": {
+    "message": "Filmi ei leitud"
+  },
+  "movie_not_found_title": {
+    "message": "Movie infot ei leitud serveris."
+  },
+  "status_type_0": {
+    "message": "Jooksev"
+  },
+  "status_type_1": {
+    "message": "Lõppenud"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Näita jätkub"
+  },
+  "status_type_title_1": {
+    "message": "Näita on lõppenud - enam hooaega planeeritud"
+  },
+  "status_type_title_2": {
+    "message": "Näitab tulevikku on ebaselge"
+  },
+  "notify_movie_not_found": {
+    "message": "Filmi ei leitud: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Kasutage ainult inglise filmi nime!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Otsing ei ole täiuslik ..."
+  },
+  "notify_video_hide": {
+    "message": "Video tuvastamine - $app_name$ on nüüd peidetud"
+  },
+  "notify_video_hide_body": {
+    "message": "Vajuta siia, et seda teadet uuesti ei näita"
+  },
+  "notify_new_episodes": {
+    "message": "Uus episood anti"
+  },
+  "title_introduction": {
+    "message": "Sissejuhatus"
+  },
+  "supported_pages": {
+    "message": "Toetatud leheküljed:"
+  },
+  "supported_grows": {
+    "message": "(See nimekiri kasvab suuremaks ja suuremaks)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Reitingud ja populaarsuse teave on alates $1$. Teave episoodide kohta on alates $2$."
+  },
+  "title_got_it": {
+    "message": "Sain selle, alustame!"
+  },
+  "_description_privacy_policy": {
+    "message": "Privaatsuspoliitika"
+  },
+  "_description_recent_features": {
+    "message": "Hiljuti lisatud funktsioonid:"
+  },
+  "_description_known_issues": {
+    "message": "Teadaolevad probleemid:"
+  },
+  "_description_common_tags": {
+    "message": "Sildid:"
+  },
+  "_description_features": {
+    "message": "Funktsioonid:"
+  },
+  "about_me": {
+    "message": "Ma olen Addoni arendaja alates 2016. aastast. Minu eesmärk on ehitada teie veebibrauseri võimsaid laiendusi, et sind produktiivsemaks muuta."
+  },
+  "about_good_job": {
+    "message": "Kui te arvate, et ma teen head tööd, annetage palun :)"
+  },
+  "about_income": {
+    "message": "Teie annetus on minu ainus sissetulek!"
+  },
+  "about_thanks": {
+    "message": "Täname, et toetasite oma tööd!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Pangaülekanne IBAN-i abil:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Tugi sõltumatu arendaja!"
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "የተመረጠውን ጽሑፍ ተርጉም (ከዐውደ-ጽሑፍ ምናሌ)"
+  },
+  "_description_feature_2": {
+    "message": "ሙሉ ገጽ ትርጉም ትርጉም"
+  },
+  "_description_feature_3": {
+    "message": "ጨለማ ሞድ!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, ቢንግ, ጨለማ, ኢሜል, ኢሜል, የቋንቋ, Google, Eng, EdklaD, S3, ምርጫ, ጽሑፍ, የትርጉም, ተርጉም, ተርጓሚ, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ ለእርስዎ ለድር አሳሽ / ተንደርበርድዎ አስተርጓሚ ለመጠቀም ቀላል ነው!"
+  },
+  "o_tab_translate": {
+    "message": "መተርጎም"
+  },
+  "_description_supported_translators": {
+    "message": "የትርጉም ሥራዎች የሚደገፉ አቅራቢዎች"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "ሞዳል መስኮት"
+  },
+  "open_in_1": {
+    "message": "ብቅ ባይ መስኮት"
+  },
+  "open_in_2": {
+    "message": "አዲስ ትር"
+  },
+  "open_in_3": {
+    "message": "አዲስ መስኮት"
+  },
+  "open_in_4": {
+    "message": "አዲስ ትር (ያለ መያዣ)"
+  },
+  "modal_window": {
+    "message": "ሞዳል መስኮት"
+  },
+  "toolbar_icon_action": {
+    "message": "የመሣሪያ አሞሌ አዶ እርምጃ"
+  },
+  "toolbar_icon_text": {
+    "message": "የመሣሪያ አሞሌ አዶ ጽሑፍ"
+  },
+  "sidebar_size": {
+    "message": "የጎን አሞሌ መጠን"
+  },
+  "translation_provider": {
+    "message": "የትርጉም ሰጪ አቅራቢ"
+  },
+  "translate_to": {
+    "message": "ወደ-"
+  },
+  "no_overlay": {
+    "message": "አጫጭር (ጨለማው አካባቢ)"
+  },
+  "no_overlay_hint": {
+    "message": "በውጭ ጠቅ ካደረጉ እንኳን ሞድ መስኮት ይከፈታል."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "ውስጥ ትርጉም ይክፈቱ:"
+  },
+  "fallback_1": {
+    "message": "የመላሻ ዘዴ"
+  },
+  "fallback_2": {
+    "message": "የመላሻ ዘዴ"
+  },
+  "fallback_title": {
+    "message": "በተወሰኑ ጉዳዮች ሞድ መስኮት እና ብቅ ባይ መስኮት መጠቀም አይቻልም."
+  },
+  "open_in_tab": {
+    "message": "በአዲስ ትር ውስጥ ይክፈቱ"
+  },
+  "translate_this_page": {
+    "message": "ይህንን ገጽ ይተረጉሙ"
+  },
+  "selection_translate": {
+    "message": "\"$1\""
+  },
+  "page_translate": {
+    "message": "ገጽን ይተርጉሙ"
+  },
+  "selected_text": {
+    "message": "የተመረጠ ጽሑፍ"
+  },
+  "disable_context_menu": {
+    "message": "የአውድ ምናሌን አሰናክል: $1"
+  },
+  "import_finished": {
+    "message": "ማስመጣት ተጠናቅቋል!"
+  },
+  "import_error": {
+    "message": "ስህተት"
+  },
+  "import_backup_file": {
+    "message": "የመጠባበቂያ ቅጂ ፋይል $1"
+  },
+  "search_search": {
+    "message": "ፍለጋ"
+  },
+  "homepage": {
+    "message": "መነሻ ገጽ"
+  },
+  "addon_page": {
+    "message": "አዶን ገጽ"
+  },
+  "safari_store": {
+    "message": "Mac መተግበሪያ መደብር"
+  },
+  "chrome_store": {
+    "message": "Chrome ድር ማከማቻ"
+  },
+  "firefox_store": {
+    "message": "ፋየርፎክስ ተጨማሪዎች"
+  },
+  "thunderbird_store": {
+    "message": "ተንደርበርድ ተጨማሪዎች"
+  },
+  "label_font_size": {
+    "message": "የቅርጸ-ቁምፊ መጠን"
+  },
+  "label_next": {
+    "message": "ቀጥሎም"
+  },
+  "label_note": {
+    "message": "ማስታወሻ:"
+  },
+  "label_remove": {
+    "message": "ያስወግዱ"
+  },
+  "label_warning": {
+    "message": "ማስጠንቀቂያ"
+  },
+  "label_default": {
+    "message": "ነባሪ"
+  },
+  "label_done": {
+    "message": "ተከናውኗል!"
+  },
+  "label_copied": {
+    "message": "የተቀዳ!"
+  },
+  "label_close": {
+    "message": "ገጠመ"
+  },
+  "label_open_page": {
+    "message": "ክፍት ገጽ"
+  },
+  "label_agree": {
+    "message": "እስማማለሁ"
+  },
+  "label_cancel": {
+    "message": "ይቅር"
+  },
+  "op_support_me": {
+    "message": "ይህንን ፕሮጀክት ይረዱ"
+  },
+  "support_developer": {
+    "message": "ገለልተኛ ገንቢ ድጋፍ!"
+  },
+  "hello_there": {
+    "message": "ሰላም!"
+  },
+  "about_me": {
+    "message": "እ.ኤ.አ. ከ 2016 ጀምሮ እሳቤ ረዳት ነኝ. ግቤ ለበለጠ አሳሽዎ የበለጠ ውጤታማ እንዲሆኑ ለማድረግ ኃይለኛ ቅጥያዎችን መገንባት ነው."
+  },
+  "about_good_job": {
+    "message": "ጥሩ ሥራ እየሠራሁ እንደሆነ ካሰቡ እባክዎን ይለግሱ :)"
+  },
+  "about_income": {
+    "message": "ልገሳዎ የእኔ ብቸኛ ገቢዬ ነው!"
+  },
+  "about_thanks": {
+    "message": "ሥራዬን በመደገፍ እናመሰግናለን!"
+  },
+  "o_tab_context_menu": {
+    "message": "አውድ ምናሌ"
+  },
+  "o_tab_about": {
+    "message": "ስለ"
+  },
+  "o_tab_settings": {
+    "message": "ቅንብሮች"
+  },
+  "o_pixels": {
+    "message": "ፒክሰሎች"
+  },
+  "o_seconds": {
+    "message": "ሰከንዶች"
+  },
+  "label_or": {
+    "message": "ወይም"
+  },
+  "o_about_hello": {
+    "message": "እው ሰላም ነው :)"
+  },
+  "o_about_intro": {
+    "message": "ስሜ $1$ ነው እና የ $app_name$ ደራሲ ነኝ."
+  },
+  "o_about_like_it": {
+    "message": "ከወደዱት እባክዎን እዚህ ይስጡ-"
+  },
+  "o_about_thanks": {
+    "message": "አመሰግናለሁ!"
+  },
+  "o_about_contact": {
+    "message": "አድራሻ"
+  },
+  "o_about_issues": {
+    "message": "ጉዳዮች ሪፖርት ያድርጉ"
+  },
+  "o_about_social_media": {
+    "message": "ማህበራዊ ሚዲያ:"
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN ን በመጠቀም የባንክ ማስተላለፍ"
+  },
+  "ps_no_results": {
+    "message": "ምንም ተዛማጅ ውጤቶች የሉም"
+  },
+  "label_no_data": {
+    "message": "ምንም ውሂብ የለም"
+  },
+  "dark_mode": {
+    "message": "ጨለማ ሁነታን"
+  },
+  "dark_mode_system": {
+    "message": "በስርዓት ቁጥጥር ተደርጓል"
+  },
+  "_description_features": {
+    "message": "ዋና መለያ ጸባያት:"
+  },
+  "_description_why": {
+    "message": "ለምን?"
+  },
+  "_description_privacy_policy": {
+    "message": "የ ግል የሆነ"
+  },
+  "_description_recent_features": {
+    "message": "በቅርቡ የታከሉ ባህሪዎች"
+  },
+  "_description_common_tags": {
+    "message": "መለያዎች:"
+  },
+  "_description_also_for_firefox": {
+    "message": "እንዲሁም ለፋየርፎክስዎ እንዲሁ ይገኛል"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "ለተሽከርካሪዎችዎ እንዲሁ ይገኛል"
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "തീയതി, ഐ.എം.ഡി.ബി, വിവരണം, എപ്പിസോഡ്, ഗേജ്, ഗ്രാഫ്, സിനിമീറ്റർ, ഫിലിം, സിനിമകൾ, വീഡിയോ, ഷോപ്പ്, സീസൺ, സീസൺ, സീസൺ"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "സിനിമ കണ്ടെത്തിയില്ല / തെറ്റായ സിനിമ കണ്ടെത്തി - ടാർഗെറ്റ് പേജുകളുമായി \"official ദ്യോഗിക\" സംയോജനം ഇല്ല, കാരണം എനിക്ക് 100% ശരിയായ ഫലങ്ങൾ ഉറപ്പ് നൽകാൻ കഴിയില്ല (എന്നാൽ ഭൂരിഭാഗം കേസുകളിലും ഇത് തികച്ചും പ്രവർത്തിക്കുന്നു)"
+  },
+  "_description_mm_not_working": {
+    "message": "നിങ്ങളുടെ പ്രിയപ്പെട്ട മൂവി പേജിൽ പ്രവർത്തിക്കുന്നില്ലേ?"
+  },
+  "_description_mm_add_support": {
+    "message": "എന്നെ ബന്ധപ്പെടുക, ഞാൻ അത് ചേർക്കും - സാധ്യമെങ്കിൽ (പേജിൽ ഇംഗ്ലീഷിൽ മൂവിയുടെ പേര് അടങ്ങിയിരിക്കണം അല്ലെങ്കിൽ $visit_imdb$ ലിങ്ക്)."
+  },
+  "_description_mm_feature_1": {
+    "message": "സിനിമാ റേറ്റിംഗും ജനപ്രീതിയും $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "അടുത്ത / മുമ്പത്തെ എപ്പിസോഡ് തീയതി $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "അധിക മൂവി / ടിവി സീരീസ് വിവരങ്ങൾ"
+  },
+  "_description_mm_feature_4": {
+    "message": "പുതിയ എപ്പിസോഡിനെക്കുറിച്ചുള്ള അറിയിപ്പ്"
+  },
+  "_description_mm_feature_5": {
+    "message": "ടിവി സീരീസ് പ്രിയങ്കരമായി അടയാളപ്പെടുത്തുക, പുതിയ എപ്പിസോഡ് ലഭ്യമാകുമ്പോൾ നിങ്ങൾക്ക് അറിയിപ്പ് ലഭിക്കും"
+  },
+  "_description_mm_feature_7": {
+    "message": "വീഡിയോ പ്ലേബാക്ക് കണ്ടെത്തിയപ്പോൾ യാന്ത്രികമായി മറയ്ക്കുക"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ ഒരു സിനിമയുടെ റേറ്റിംഗും ജനപ്രീതിയും (അല്ലെങ്കിൽ ടിവി സീരീസ്)"
+  },
+  "name": {
+    "message": "പേര്"
+  },
+  "year": {
+    "message": "വര്ഷം"
+  },
+  "video_type": {
+    "message": "ടൈപ്പ് ചെയ്യുക"
+  },
+  "video_type_0": {
+    "message": "സിനിമ"
+  },
+  "video_type_1": {
+    "message": "ശേണി"
+  },
+  "video_type_2": {
+    "message": "എപ്പിസോഡ്"
+  },
+  "runtime": {
+    "message": "സംസാര"
+  },
+  "premiered": {
+    "message": "പ്രീമിയർ"
+  },
+  "premiere_in": {
+    "message": "പ്രീമിയർ"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "രാജം"
+  },
+  "actors": {
+    "message": "അഭിനേതാക്കൾ"
+  },
+  "dvd": {
+    "message": "ഡിവിഡി"
+  },
+  "director": {
+    "message": "സംവിധായകന്"
+  },
+  "totalseasons": {
+    "message": "ആകെ സീസണുകൾ"
+  },
+  "writer": {
+    "message": "എഴുത്തുകാരി"
+  },
+  "language": {
+    "message": "ഭാഷ"
+  },
+  "awards": {
+    "message": "അവാർഡുകൾ"
+  },
+  "rated": {
+    "message": "റേറ്റുചെയ്തത്"
+  },
+  "production": {
+    "message": "നിര്മ്മാണം"
+  },
+  "plot": {
+    "message": "തുണ്ടുഭൂമി"
+  },
+  "website": {
+    "message": "വെബ്സൈറ്റ്"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "$visit_imdb$ പേജ് സന്ദർശിക്കുക"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "ഈ ഷോയ്ക്കായി $visit_tvmaze$ പേജ് സന്ദർശിക്കുക"
+  },
+  "make_favorite": {
+    "message": "പേമഭാജനം"
+  },
+  "make_favorite_title": {
+    "message": "പ്രിയങ്കരങ്ങളിലേക്ക് ടിവി സീരീസ് ചേർക്കുക. പുതിയ എപ്പിസോഡുകളെക്കുറിച്ച് അറിയിപ്പ് ലഭിക്കാൻ ഇത് നിങ്ങളെ അനുവദിക്കും."
+  },
+  "last_episode": {
+    "message": "അവസാനത്തെ"
+  },
+  "next_episode": {
+    "message": "അടുത്തത്"
+  },
+  "last_episode_title": {
+    "message": "അവസാന എപ്പിസോഡ്"
+  },
+  "next_episode_title": {
+    "message": "അടുത്ത എപ്പിസോഡ്"
+  },
+  "episode_airtime": {
+    "message": "എയർടമം"
+  },
+  "episode_name": {
+    "message": "പേര്"
+  },
+  "series_status": {
+    "message": "പദവി"
+  },
+  "episodes_count": {
+    "message": "എപ്പിസോഡുകൾ"
+  },
+  "episodes_count_title": {
+    "message": "നിലവിലെ സീസൺ $1 $2 എപ്പിസോഡുകൾ ഉണ്ട്"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "ദിവസങ്ങളിൽ"
+  },
+  "hours": {
+    "message": "മണിക്കൂറുകൾ"
+  },
+  "na": {
+    "message": "ലഭ്യമല്ല"
+  },
+  "user_rating": {
+    "message": "ഉപയോക്തൃ റേറ്റിംഗ്: $1"
+  },
+  "user_popularity": {
+    "message": "ജനപ്രീതി: $1 വോട്ടുകൾ"
+  },
+  "source": {
+    "message": "ഉറവിടം: $1"
+  },
+  "show_details": {
+    "message": "കൂടുതൽ..."
+  },
+  "hide_details": {
+    "message": "കുറവ്..."
+  },
+  "save_position": {
+    "message": "സ്ഥാനം സംരക്ഷിക്കുക"
+  },
+  "revert_position": {
+    "message": "സ്ഥാനം പഴയപടിയാക്കുക"
+  },
+  "win_disable": {
+    "message": "$1 ൽ അപ്രാപ്തമാക്കുക"
+  },
+  "cm_advanced": {
+    "message": "മുന്കൂറായി"
+  },
+  "op_visit_home": {
+    "message": "ഹോംപേജ് സന്ദർശിക്കുക"
+  },
+  "op_support_me": {
+    "message": "ഈ പ്രോജക്റ്റിനെ സഹായിക്കുക"
+  },
+  "hide": {
+    "message": "വിൻഡോ മറയ്ക്കുക"
+  },
+  "show": {
+    "message": "വിൻഡോ കാണിക്കുക"
+  },
+  "reset_position": {
+    "message": "സ്ഥാനം പുന reset സജ്ജമാക്കുക"
+  },
+  "search": {
+    "message": "അനേഷണം"
+  },
+  "configure_search": {
+    "message": "തിരയൽ ഓപ്ഷനുകൾ കോൺഫിഗർ ചെയ്യുക"
+  },
+  "selection_search": {
+    "message": "$1 തിരയുക"
+  },
+  "menu_options": {
+    "message": "ഓപ്ഷനുകൾ"
+  },
+  "menu_quick_options": {
+    "message": "ദ്രുത ഓപ്ഷനുകൾ"
+  },
+  "menu_visit_homepage": {
+    "message": "ഹോംപേജ് സന്ദർശിക്കുക"
+  },
+  "menu_request_support": {
+    "message": "$1 നായുള്ള പിന്തുണ അഭ്യർത്ഥിക്കുക"
+  },
+  "show_introduction": {
+    "message": "ആമുഖ പേജ് കാണിക്കുക"
+  },
+  "o_about_issues": {
+    "message": "റിപ്പോർട്ട് പ്രശ്നങ്ങൾ:"
+  },
+  "safari_store": {
+    "message": "മാക് ആപ്പ് സ്റ്റോർ"
+  },
+  "firefox_store": {
+    "message": "ഫയർഫോക്സ് ആഡ്-ഓണുകൾ"
+  },
+  "chrome_store": {
+    "message": "Chrome വെബ് സ്റ്റോർ"
+  },
+  "movie_not_detected": {
+    "message": "സിനിമ കണ്ടെത്തിയില്ല"
+  },
+  "movie_not_detected_title": {
+    "message": "ഈ പേജിൽ ഒരു സിനിമ / ടിവി സീരീസ് കണ്ടെത്തിയില്ല."
+  },
+  "movie_not_found": {
+    "message": "സിനിമ കണ്ടെത്തിയില്ല"
+  },
+  "movie_not_found_title": {
+    "message": "സിനിമാ വിവരം സെർവറിൽ കണ്ടെത്തിയില്ല."
+  },
+  "status_type_0": {
+    "message": "പ്രവർത്തിക്കുന്ന"
+  },
+  "status_type_1": {
+    "message": "അവസാനിച്ചു"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "ഷോ തുടരും"
+  },
+  "status_type_title_1": {
+    "message": "ഷോ അവസാനിച്ചു - കൂടുതൽ സീസണുകളൊന്നുമില്ല"
+  },
+  "status_type_title_2": {
+    "message": "ഭാവി കാണിക്കുന്നത് വ്യക്തമല്ല"
+  },
+  "notify_movie_not_found": {
+    "message": "സിനിമ കണ്ടെത്തിയില്ല: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "ഇംഗ്ലീഷ് മൂവിയുടെ പേര് മാത്രം ഉപയോഗിക്കുക!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "തിരയൽ തികഞ്ഞതല്ല ..."
+  },
+  "notify_video_hide": {
+    "message": "വീഡിയോ കണ്ടെത്തി - $app_name$ ഇപ്പോൾ മറച്ചിരിക്കുന്നു"
+  },
+  "notify_video_hide_body": {
+    "message": "ഈ അറിയിപ്പ് വീണ്ടും കാണിക്കാൻ ഇവിടെ ക്ലിക്കുചെയ്യുക"
+  },
+  "notify_new_episodes": {
+    "message": "പുതിയ എപ്പിസോഡ് സംപ്രേഷണം ചെയ്തു"
+  },
+  "title_introduction": {
+    "message": "പരിചയപ്പെടുത്തല്"
+  },
+  "supported_pages": {
+    "message": "പിന്തുണയ്ക്കുന്ന പേജുകൾ:"
+  },
+  "supported_grows": {
+    "message": "(ഈ പട്ടിക വലുതും വലുതും വളരുന്നു)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "റേറ്റിംഗും ജനപ്രീതി വിവരങ്ങളും $1$ ആണ്. എപ്പിസോഡുകളെക്കുറിച്ചുള്ള വിവരങ്ങൾ $2$ ൽ നിന്നുള്ളതാണ്."
+  },
+  "title_got_it": {
+    "message": "അത് ലഭിച്ചു, നമുക്ക് ആരംഭിക്കാം!"
+  },
+  "_description_privacy_policy": {
+    "message": "സ്വകാര്യതാനയം"
+  },
+  "_description_recent_features": {
+    "message": "അടുത്തിടെ ചേർത്ത സവിശേഷതകൾ:"
+  },
+  "_description_known_issues": {
+    "message": "അറിയപ്പെടുന്ന പ്രശ്നങ്ങൾ:"
+  },
+  "_description_common_tags": {
+    "message": "ടാഗുകൾ:"
+  },
+  "_description_features": {
+    "message": "സവിശേഷതകൾ:"
+  },
+  "about_me": {
+    "message": "ഞാൻ 2016 മുതൽ ആഡൻ ഡെവലപ്പർ ആണ്. നിങ്ങളെ കൂടുതൽ ഉൽപാദനക്ഷമമാക്കുന്നതിന് നിങ്ങളുടെ വെബ്-ബ്ര browser സറിനായി ശക്തമായ വിപുലീകരണങ്ങൾ നിർമ്മിക്കുക എന്നതാണ് എന്റെ ലക്ഷ്യം."
+  },
+  "about_good_job": {
+    "message": "ഞാൻ ഒരു നല്ല ജോലി ചെയ്യുന്നുവെന്ന് നിങ്ങൾ കരുതുന്നുവെങ്കിൽ, ദയവായി സംഭാവന ചെയ്യുക :)"
+  },
+  "about_income": {
+    "message": "നിങ്ങളുടെ സംഭാവന എന്റെ ഏക വരുമാനമാണ്!"
+  },
+  "about_thanks": {
+    "message": "എന്റെ ജോലിയെ പിന്തുണച്ചതിന് നന്ദി!"
+  },
+  "o_about_support_by_iban": {
+    "message": "ഇബാൻ ഉപയോഗിച്ച് ബാങ്ക് കൈമാറ്റം:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "സ്വതന്ത്ര ഡവലപ്പറിനെ പിന്തുണയ്ക്കുക!"
+  }
+}

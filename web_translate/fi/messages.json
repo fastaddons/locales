@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Käännä valittu teksti (kontekstivalikosta)"
+  },
+  "_description_feature_2": {
+    "message": "Koko sivun käännös"
+  },
+  "_description_feature_3": {
+    "message": "Tumma tila!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, bing, tumma, sähköposti, google, lang, kieli, Microsoft, sivu, Preklad, Prekladač, S3, valinta, Teksti, Traduktio, Käännä, Kääntäjä, Übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ on helppo käyttää kääntäjän verkkoselaimellesi / Thunderbirdille!"
+  },
+  "o_tab_translate": {
+    "message": "Kääntää"
+  },
+  "_description_supported_translators": {
+    "message": "Tuetut käännöspalvelut:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Modaaliikkuna"
+  },
+  "open_in_1": {
+    "message": "Ponnahdusikkuna"
+  },
+  "open_in_2": {
+    "message": "Uusi välilehti"
+  },
+  "open_in_3": {
+    "message": "Uusi ikkuna"
+  },
+  "open_in_4": {
+    "message": "Uusi välilehti (ilman konttia)"
+  },
+  "modal_window": {
+    "message": "Modaaliikkuna"
+  },
+  "toolbar_icon_action": {
+    "message": "Työkalurivin kuvake"
+  },
+  "toolbar_icon_text": {
+    "message": "Työkalurivin kuvake teksti"
+  },
+  "sidebar_size": {
+    "message": "Sivupalkin koko"
+  },
+  "translation_provider": {
+    "message": "Käännöspalvelu"
+  },
+  "translate_to": {
+    "message": "Käännä:"
+  },
+  "no_overlay": {
+    "message": "Ei peittoa (tumma alue ympärillä)"
+  },
+  "no_overlay_hint": {
+    "message": "Modal-ikkuna pysyy avattuna, vaikka napsautat ulkona."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Avaa käännös:"
+  },
+  "fallback_1": {
+    "message": "Salamistelmä"
+  },
+  "fallback_2": {
+    "message": "Salamistelmä"
+  },
+  "fallback_title": {
+    "message": "Modal-ikkunaa ja ponnahdusikkunaa ei voi käyttää joissakin tapauksissa."
+  },
+  "open_in_tab": {
+    "message": "Avaa uudessa välilehdessä"
+  },
+  "translate_this_page": {
+    "message": "Käännä tämä sivu"
+  },
+  "selection_translate": {
+    "message": "Käännä \"$1\""
+  },
+  "page_translate": {
+    "message": "Käännä sivu"
+  },
+  "selected_text": {
+    "message": "valittu teksti"
+  },
+  "disable_context_menu": {
+    "message": "Poista kontekstivalikko käytöstä: $1"
+  },
+  "import_finished": {
+    "message": "Tuo valmis!"
+  },
+  "import_error": {
+    "message": "Virhe"
+  },
+  "import_backup_file": {
+    "message": "Tuo varmuuskopiotiedosto $1"
+  },
+  "search_search": {
+    "message": "Hae"
+  },
+  "homepage": {
+    "message": "Kotisivu"
+  },
+  "addon_page": {
+    "message": "Addon-sivu"
+  },
+  "safari_store": {
+    "message": "Mac App Storesta"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store"
+  },
+  "firefox_store": {
+    "message": "Firefoxin lisäosat"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird lisäosat"
+  },
+  "label_font_size": {
+    "message": "Fonttikoko"
+  },
+  "label_next": {
+    "message": "Seuraava"
+  },
+  "label_note": {
+    "message": "Merkintä:"
+  },
+  "label_remove": {
+    "message": "Poista"
+  },
+  "label_warning": {
+    "message": "VAROITUS:"
+  },
+  "label_default": {
+    "message": "Oletusarvo:"
+  },
+  "label_done": {
+    "message": "Tehty!"
+  },
+  "label_copied": {
+    "message": "Kopioni!"
+  },
+  "label_close": {
+    "message": "Kiinni"
+  },
+  "label_open_page": {
+    "message": "Avaa sivu"
+  },
+  "label_agree": {
+    "message": "Olla samaa mieltä"
+  },
+  "label_cancel": {
+    "message": "Peruuttaa"
+  },
+  "op_support_me": {
+    "message": "Auta tätä hanketta"
+  },
+  "support_developer": {
+    "message": "Tuki riippumaton kehittäjä!"
+  },
+  "hello_there": {
+    "message": "Hei siellä!"
+  },
+  "about_me": {
+    "message": "Olen ADDON Kehittäjä vuodesta 2016. Tavoitteenani on rakentaa voimakkaita laajennuksia web-selaimellesi, jotta sinusta tulee tuottavampi."
+  },
+  "about_good_job": {
+    "message": "Jos luulet, että teen hyvää työtä, lahjoita :)"
+  },
+  "about_income": {
+    "message": "Lahjoituksesi on ainoa tuloni!"
+  },
+  "about_thanks": {
+    "message": "Kiitos, että tukenut työni!"
+  },
+  "o_tab_context_menu": {
+    "message": "Kontekstivalikko"
+  },
+  "o_tab_about": {
+    "message": "Noin"
+  },
+  "o_tab_settings": {
+    "message": "Asetukset"
+  },
+  "o_pixels": {
+    "message": "pikselit"
+  },
+  "o_seconds": {
+    "message": "sekuntia"
+  },
+  "label_or": {
+    "message": "tai"
+  },
+  "o_about_hello": {
+    "message": "Hei :)"
+  },
+  "o_about_intro": {
+    "message": "Nimeni on $1$ ja olen kirjoittaja $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Jos pidät siitä, tarkista se täältä:"
+  },
+  "o_about_thanks": {
+    "message": "Kiitos!"
+  },
+  "o_about_contact": {
+    "message": "Ottaa yhteyttä:"
+  },
+  "o_about_issues": {
+    "message": "Ilmoita:"
+  },
+  "o_about_social_media": {
+    "message": "Sosiaalinen media:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Pankkisiirto IBAN:"
+  },
+  "ps_no_results": {
+    "message": "Ei vastaavia tuloksia"
+  },
+  "label_no_data": {
+    "message": "Ei dataa"
+  },
+  "dark_mode": {
+    "message": "Tumma tila"
+  },
+  "dark_mode_system": {
+    "message": "Järjestelmällä"
+  },
+  "_description_features": {
+    "message": "Ominaisuudet:"
+  },
+  "_description_why": {
+    "message": "Miksi?"
+  },
+  "_description_privacy_policy": {
+    "message": "Tietosuojakäytäntö"
+  },
+  "_description_recent_features": {
+    "message": "Äskettäin lisätyt ominaisuudet:"
+  },
+  "_description_common_tags": {
+    "message": "Tunnisteet:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Saatavilla myös Firefoxille:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Saatavana myös Thunderbird:"
+  }
+}

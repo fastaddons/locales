@@ -1,0 +1,178 @@
+{
+  "o_about_support_reply": {
+    "message": "Môžem odpovedať iba po Anglicky / Slovensky",
+    "u": 1631177888644
+  },
+  "dark_mode_system": {
+    "message": "Ovládané systémom",
+    "u": 1631178297594
+  },
+  "dark_mode": {
+    "message": "Tmavý režim",
+    "u": 1631178080264
+  },
+  "label_no_data": {
+    "message": "Žiadne dáta",
+    "u": 1631178084023
+  },
+  "ps_no_results": {
+    "message": "Žiadne zodpovedajúce výsledky",
+    "u": 1631178088760
+  },
+  "o_about_issues": {
+    "message": "Nahlásiť problémy:",
+    "u": 1631178092003
+  },
+  "o_pixels": {
+    "message": "pixelov",
+    "u": 1631178131954
+  },
+  "o_seconds": {
+    "message": "sekúnd",
+    "u": 1631178136355
+  },
+  "label_remove": {
+    "message": "Odstrániť",
+    "u": 1631178307139
+  },
+  "firefox_store": {
+    "message": "Firefox doplnky",
+    "u": 1631178309273
+  },
+  "chrome_store": {
+    "message": "Chrome obchod",
+    "u": 1631178311351
+  },
+  "menu_options": {
+    "message": "Možnosti",
+    "u": 1631178313524
+  },
+  "menu_quick_options": {
+    "message": "Rýchle nastavenia",
+    "u": 1631178315280
+  },
+  "menu_visit_title": {
+    "message": "Navštív domovskú stránku",
+    "u": 1631178316628
+  },
+  "op_visit_home": {
+    "message": "Navštíviť web",
+    "u": 1631178322114
+  },
+  "o_title": {
+    "message": "Možnosti - $1",
+    "u": 1631178323069
+  },
+  "o_tab_general": {
+    "message": "Všeobecné",
+    "u": 1631178324645
+  },
+  "o_tab_context_menu": {
+    "message": "Kontextové menu",
+    "u": 1631178325634
+  },
+  "o_tab_import": {
+    "message": "Import / zálohy",
+    "u": 1631178331206
+  },
+  "import_finished": {
+    "message": "Import dokočený",
+    "u": 1631178333600
+  },
+  "o_tab_about": {
+    "message": "O rozšírení",
+    "u": 1631178334328
+  },
+  "o_about_hello": {
+    "message": "Ahoj :)",
+    "u": 1631178337555
+  },
+  "o_about_intro": {
+    "message": "Volám sa $1$, som z Dolného Kubína a som autorom rozšírenia $app_name$.",
+    "u": 1631178340194
+  },
+  "o_about_like_it": {
+    "message": "Ak sa ti páči, neváhaj a napíš mi hodnotenie tu:",
+    "u": 1631178343237
+  },
+  "o_about_dislike_it": {
+    "message": "Ak sa ti niečo nepáči, prosím napíš mi na môj e-mail. Spätná väzba je veľmi dôležitá a väčšinu požiadaviek hneď programujem.",
+    "u": 1631178345852
+  },
+  "o_about_support_by": {
+    "message": "Prosím, zváž podporu mojej práce",
+    "u": 1631178347224
+  },
+  "o_about_support_by_donation": {
+    "message": "peňažným darom (PayPal)",
+    "u": 1631178348560
+  },
+  "o_about_support_by_patron": {
+    "message": "cez Patreon",
+    "u": 1631178349441
+  },
+  "o_about_support_by_update": {
+    "message": "zakúpením Professional verzie",
+    "u": 1631178354104
+  },
+  "label_agree": {
+    "message": "Súhlasím",
+    "u": 1631198333699
+  },
+  "label_cancel": {
+    "message": "Zrušiť",
+    "u": 1631198353547
+  },
+  "label_open_page": {
+    "message": "Otvoriť stránku",
+    "u": 1631198354864
+  },
+  "o_saved": {
+    "message": "uložené!",
+    "u": 1631199328124
+  },
+  "import_error": {
+    "message": "Error",
+    "u": 1631199330175
+  },
+  "search_search": {
+    "message": "Hľadaj",
+    "u": 1631199331915
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "u": 1631199333101
+  },
+  "label_font_size": {
+    "message": "Veľkosť textu",
+    "u": 1631199334040
+  },
+  "label_next": {
+    "message": "Ďalej",
+    "u": 1631199338528
+  },
+  "label_note": {
+    "message": "Poznámka:",
+    "u": 1631199339424
+  },
+  "label_warning": {
+    "message": "POZOR:",
+    "u": 1631199340964
+  },
+  "label_default": {
+    "message": "Štandardné:",
+    "u": 1631199341913
+  },
+  "label_done": {
+    "message": "Hotovo!",
+    "u": 1631199343544
+  },
+  "label_copied": {
+    "message": "Skopírované!",
+    "u": 1631199344547
+  },
+  "label_close": {
+    "message": "Zavrieť",
+    "u": 1631199351824
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Μεταφράστε το επιλεγμένο κείμενο (από το μενού περιβάλλοντος)"
+  },
+  "_description_feature_2": {
+    "message": "Μετάφραση ολόκληρης σελίδας"
+  },
+  "_description_feature_3": {
+    "message": "Σκούρο τρόπο!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, Dark, Email, Google, Lang, Γλώσσα, Microsoft, Page, Preklad, Prekladač, S3, επιλογή, κείμενο, Traduffteur, Μετάφραση, Μεταφραστής, Übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ είναι εύκολο στη χρήση μεταφραστής για το Web Browser / Thunderbird!"
+  },
+  "o_tab_translate": {
+    "message": "Μεταφράζω"
+  },
+  "_description_supported_translators": {
+    "message": "Υποστηριζόμενοι παρόχους μετάφρασης:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Παράθυρο modal"
+  },
+  "open_in_1": {
+    "message": "Αναδυόμενο παράθυρο"
+  },
+  "open_in_2": {
+    "message": "Νέα καρτέλα"
+  },
+  "open_in_3": {
+    "message": "Νέο παράθυρο"
+  },
+  "open_in_4": {
+    "message": "Νέα γλωττίδα (χωρίς δοχείο)"
+  },
+  "modal_window": {
+    "message": "Παράθυρο modal"
+  },
+  "toolbar_icon_action": {
+    "message": "Ενέργεια εικονίδιο γραμμής εργαλείων"
+  },
+  "toolbar_icon_text": {
+    "message": "Εικόνα εικονιδίου εργαλείων"
+  },
+  "sidebar_size": {
+    "message": "Μέγεθος πλευρικής γραμμής"
+  },
+  "translation_provider": {
+    "message": "Πάροχος μετάφρασης"
+  },
+  "translate_to": {
+    "message": "Μετάφραση σε:"
+  },
+  "no_overlay": {
+    "message": "Χωρίς επικάλυψη (η σκοτεινή περιοχή γύρω)"
+  },
+  "no_overlay_hint": {
+    "message": "Το παράθυρο του modal θα παραμείνει ανοιχτό ακόμα κι αν κάνετε κλικ έξω."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Άνοιγμα μετάφρασης σε:"
+  },
+  "fallback_1": {
+    "message": "Εφεδρική μέθοδος"
+  },
+  "fallback_2": {
+    "message": "Εφεδρική μέθοδος"
+  },
+  "fallback_title": {
+    "message": "Το παράθυρο Modal και το αναδυόμενο παράθυρο δεν μπορούν να χρησιμοποιηθούν σε ορισμένες περιπτώσεις."
+  },
+  "open_in_tab": {
+    "message": "Άνοιγμα σε νέα καρτέλα"
+  },
+  "translate_this_page": {
+    "message": "Μεταφράστε αυτήν τη σελίδα"
+  },
+  "selection_translate": {
+    "message": "Μετάφραση \"$1\""
+  },
+  "page_translate": {
+    "message": "Μετάφραση σελίδας"
+  },
+  "selected_text": {
+    "message": "επιλεγμένο κείμενο"
+  },
+  "disable_context_menu": {
+    "message": "Απενεργοποίηση μενού περιβάλλοντος: \"$1\""
+  },
+  "import_finished": {
+    "message": "Η εισαγωγή ολοκληρώθηκε!"
+  },
+  "import_error": {
+    "message": "Σφάλμα"
+  },
+  "import_backup_file": {
+    "message": "Εισαγωγή εφεδρικού αρχείου $1"
+  },
+  "search_search": {
+    "message": "Αναζήτηση"
+  },
+  "homepage": {
+    "message": "Αρχική σελίδα"
+  },
+  "addon_page": {
+    "message": "Σελίδα Addon"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "σελίδα Chrome Web Store"
+  },
+  "firefox_store": {
+    "message": "Σελίδα πρόσθετων για τον Firefox"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird add-ons"
+  },
+  "label_font_size": {
+    "message": "Μέγεθος γραμματοσειράς"
+  },
+  "label_next": {
+    "message": "Επόμενο"
+  },
+  "label_note": {
+    "message": "Σημείωση:"
+  },
+  "label_remove": {
+    "message": "Αφαιρώ"
+  },
+  "label_warning": {
+    "message": "ΠΡΟΕΙΔΟΠΟΙΗΣΗ:"
+  },
+  "label_default": {
+    "message": "Προεπιλογή:"
+  },
+  "label_done": {
+    "message": "Ολοκληρώθηκε!"
+  },
+  "label_copied": {
+    "message": "Αντιγράφηκε!"
+  },
+  "label_close": {
+    "message": "Κλείσιμο"
+  },
+  "label_open_page": {
+    "message": "Άνοιγμα σελίδας"
+  },
+  "label_agree": {
+    "message": "Έγκριση"
+  },
+  "label_cancel": {
+    "message": "Ακύρωση"
+  },
+  "op_support_me": {
+    "message": "Βοηθήστε αυτό το έργο"
+  },
+  "support_developer": {
+    "message": "Υποστήριξη ανεξάρτητου προγραμματιστή!"
+  },
+  "hello_there": {
+    "message": "Γειά σου!"
+  },
+  "about_me": {
+    "message": "Είμαι προγραμματιστής πρόσθετων από το 2016 και στόχος μου είναι να δημιουργήσω ισχυρές επεκτάσεις για το πρόγραμμα περιήγησης ιστού που θα σας κάνουν πιο παραγωγικούς."
+  },
+  "about_good_job": {
+    "message": "Αν νομίζετε ότι κάνω καλή δουλειά, δώστε :)"
+  },
+  "about_income": {
+    "message": "Η δωρεά σας είναι το μόνο εισόδημά μου!"
+  },
+  "about_thanks": {
+    "message": "Σας ευχαριστώ που υποστηρίξατε τη δουλειά μου!"
+  },
+  "o_tab_context_menu": {
+    "message": "Μενού περιβάλλοντος"
+  },
+  "o_tab_about": {
+    "message": "Σχετικά"
+  },
+  "o_tab_settings": {
+    "message": "Ρυθμίσεις"
+  },
+  "o_pixels": {
+    "message": "εικονοκύτταρα"
+  },
+  "o_seconds": {
+    "message": "δευτερόλεπτα"
+  },
+  "label_or": {
+    "message": "ή"
+  },
+  "o_about_hello": {
+    "message": "Γεια σας :)"
+  },
+  "o_about_intro": {
+    "message": "Το όνομά μου είναι $1$ και είμαι ο συγγραφέας του $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Εάν σας αρέσει, παρακαλώ βαθμολογήστε το εδώ:"
+  },
+  "o_about_thanks": {
+    "message": "Σας ευχαριστώ!"
+  },
+  "o_about_contact": {
+    "message": "Επικοινωνία:"
+  },
+  "o_about_issues": {
+    "message": "Αναφορά ζητημάτων:"
+  },
+  "o_about_social_media": {
+    "message": "Μέσα κοινωνικής δικτύωσης:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Τραπεζική μεταφορά χρησιμοποιώντας IBAN:"
+  },
+  "ps_no_results": {
+    "message": "Δεν υπάρχουν αποτελέσματα που να ταιριάζουν"
+  },
+  "label_no_data": {
+    "message": "Χωρίς δεδομένα"
+  },
+  "dark_mode": {
+    "message": "Σκοτεινή λειτουργία"
+  },
+  "dark_mode_system": {
+    "message": "Ελέγχεται από σύστημα"
+  },
+  "_description_features": {
+    "message": "Χαρακτηριστικά:"
+  },
+  "_description_why": {
+    "message": "Γιατί;"
+  },
+  "_description_privacy_policy": {
+    "message": "Πολιτική απορρήτου"
+  },
+  "_description_recent_features": {
+    "message": "Πρόσφατα πρόσθετα χαρακτηριστικά:"
+  },
+  "_description_common_tags": {
+    "message": "Ετικέτες:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Διαθέσιμο επίσης για τον Firefox:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Διαθέσιμο επίσης για το Thunderbird:"
+  }
+}

@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "anywhere, Schaltfläche, Cursor, Ziehen, Greifen, Greifen, Greifen und Ziehen, Infinite, Links, Mitte, Impulse, Maus, Verschiebung, Seite, Recht, Bildlauf, Bildlaufseite, Bildlaufleiste, Scrollen, Wurf"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Ziehen Sie die Bildlaufleiste mit Ihrer mittleren Maustaste auf der Seite auf der Seite. Unterstützt auch \"Greifen- und Ziehen\"."
+  },
+  "field_int_default_value": {
+    "message": "Standardwert: $1, min: $2, max: $3"
+  },
+  "field_set_default": {
+    "message": "Zurücksetzen: $1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-Ons"
+  },
+  "firefox_store": {
+    "message": "Firefox AddOn-Seite"
+  },
+  "chrome_store": {
+    "message": "Chrome WebStore-Seite"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "win_disable": {
+    "message": "Deaktivieren auf $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Deaktivieren Sie horizontales Scrollen auf $1"
+  },
+  "op_visit_home": {
+    "message": "Website besuchen"
+  },
+  "op_support_me": {
+    "message": "Diesem Projekt helfen"
+  },
+  "o_title": {
+    "message": "Optionen - $1"
+  },
+  "o_tab_general": {
+    "message": "Allgemein"
+  },
+  "o_tab_momentum": {
+    "message": "Schwung"
+  },
+  "o_tab_cursor": {
+    "message": "Mauszeiger"
+  },
+  "o_axis_locking": {
+    "message": "Achsenverriegelung."
+  },
+  "o_tab_performance": {
+    "message": "Performance"
+  },
+  "o_tab_disabled_on": {
+    "message": "Eingestuft"
+  },
+  "o_tab_advanced": {
+    "message": "Fortgeschritten"
+  },
+  "o_tab_scrollbars": {
+    "message": "Bildlaufleisten"
+  },
+  "o_tab_backup": {
+    "message": "Import / Backup."
+  },
+  "o_tab_about": {
+    "message": "Über"
+  },
+  "o_axis_lock_helper": {
+    "message": "Wenn Sie einen Kästchen blättern, der in einer Achse blätterbar ist, aber das übergeordnete Feld blättern Sie in einer anderen Achse, spazieren Sie mit:"
+  },
+  "o_axis_lock_0": {
+    "message": "Smart Lock - zeitliches Schloss mit Impuls"
+  },
+  "o_axis_lock_1": {
+    "message": "Strict Lock - Instant Richtungssperre"
+  },
+  "o_axis_lock_2": {
+    "message": "Kein sperrfreier Scrollen in beide Achse"
+  },
+  "o_trend_momentum_window": {
+    "message": "Smart Lock-Stapelgröße"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Der größere Wert erfordert mehr Scrollen in entgegengesetzter Achse, um die Scroll-Achse zu ändern."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon ist deaktiviert! Klicken Sie hier, um es zu aktivieren."
+  },
+  "o_cursor_change_default": {
+    "message": "keine Änderung - beste Leistung"
+  },
+  "o_scroll_button": {
+    "message": "Scroll Button:"
+  },
+  "o_direction_speed": {
+    "message": "Scroll-Stil / Richtung / Geschwindigkeit:"
+  },
+  "o_multiplier": {
+    "message": "Multiplikator"
+  },
+  "o_times_speed": {
+    "message": "mal scroll speed."
+  },
+  "o_maximum_speed": {
+    "message": "Maximale Scrollgeschwindigkeit (0 - deaktiviert):"
+  },
+  "o_ratio_unit": {
+    "message": "verhältnis (Seitenlänge / Fenstergröße)"
+  },
+  "o_scroll_type_0": {
+    "message": "Bildlaufleiste emulieren"
+  },
+  "o_scroll_type_1": {
+    "message": "Greifen und ziehen - wie auf einem Smartphone"
+  },
+  "o_scroll_type_2": {
+    "message": "Dynamische Geschwindigkeit (experimentell)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Es ist, als würde man eine Bildlaufleiste ziehen"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Es ist, als würde man eine Seite mit dem Finger auf einem Telefonbildschirm ziehen"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Die dynamische Geschwindigkeit macht die Scrollgeschwindigkeit langsamer, wenn die Seite länger ist"
+  },
+  "o_disable_key": {
+    "message": "Scrollen deaktivieren / aktivieren, wenn der Schlüssel nach unten ist:"
+  },
+  "o_momentum_category": {
+    "message": "Schwung:"
+  },
+  "o_momentum_formula": {
+    "message": "Momentumformel:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Gleichmäßig verlangsamte Bewegung"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Die Seitenrolle wird gleichmäßig verlangsamt, bis er anhält"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Exponentiell abgebremste Bewegung"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Die Seitenrolle wird schnell (exponentiell) verlangsamt"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Unendliche Bewegung ∞."
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Scrollen wird niemals aufhören"
+  },
+  "o_momentum_max_speed": {
+    "message": "Maximale Geschwindigkeit (0 - deaktiviert):"
+  },
+  "o_page_weight": {
+    "message": "Seite Gewicht:"
+  },
+  "o_grams": {
+    "message": "gramm :)"
+  },
+  "o_additional_speed": {
+    "message": "Zusätzliche Geschwindigkeit:"
+  },
+  "o_pixels_second": {
+    "message": "pixel pro Sekunde"
+  },
+  "o_additional_duration": {
+    "message": "Zusätzliche Dauer:"
+  },
+  "o_advanced_momentum": {
+    "message": "Erweiterte Momentum-Setup (nur für Experten!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Wenn Sie diese Werte ändern, können Sie Ihren Moment brechen!"
+  },
+  "o_compute_from_last": {
+    "message": "Rechen Sie von der letzten:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Mausunterbrechungserkennung:"
+  },
+  "o_tracking_speed": {
+    "message": "Tracking-Geschwindigkeit:"
+  },
+  "o_reset_values": {
+    "message": "Werte zurücksetzen."
+  },
+  "o_cursor_scrolling": {
+    "message": "Cursor, der beim Scrollen verwendet wird:"
+  },
+  "o_performance": {
+    "message": "Performance:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Große Sprünge verhindern"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Wenn Sie das Tool verwenden, das Ihren Cursor auf dem Bildschirm teleportieren kann (wenn Sie eine Kante erreichen), aktivieren Sie diese Option, um ein kontinuierliches (unendliches) Scrollen zuzulassen."
+  },
+  "o_advanced": {
+    "message": "Fortgeschritten:"
+  },
+  "o_movement_detection": {
+    "message": "Mausbewegungs-Erkennungsschwelle:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Wie viele Pixel muss Maus zur Blockverbindung bewegen. Manchmal, wenn Sie beim Drücken der Scroll-Taste drücken, bewegen Sie die Maus leicht, aber Sie möchten nicht, dass der Link dadurch deaktiviert ist."
+  },
+  "o_context_menu_block": {
+    "message": "Kontextmenüblock:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Entsperren Sie Kontextmenüverzögerung"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Wenn Sie das Kontextmenü nach dem Scrollen mit der rechten Maustaste sehen, erhöhen Sie diesen Wert"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Deaktivieren Sie horizontales Scrollen auf den Domänen:"
+  },
+  "o_is_disabled_domains": {
+    "message": "In den Domains deaktiviert:"
+  },
+  "o_is_disabled_url": {
+    "message": "Auf Seiten / Unterseiten deaktiviert:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Sie können ein Sternymbol (*) verwenden, um ein URL-Teil zu definieren, zum Beispiel: \"google.com/maps\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Geben Sie eine Domäne pro Zeile ein."
+  },
+  "o_is_disabled": {
+    "message": "Add-On deaktivieren"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Verwenden Sie das Symbolleistensymbol als Haupt- / Aus-Schalter"
+  },
+  "o_scroll_button_middle": {
+    "message": "Mittlerer Knopf"
+  },
+  "o_scroll_button_right": {
+    "message": "Rechter Knopf"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Mac-Benutzer - Sie werden zur neuen Berechtigung aufgefordert \"Lesen und Ändern der Browsereinstellung\" - Dies ist erforderlich, um das Disposition des Kontextmenüs vor dem Bildlauf zu unterdrücken!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac-Benutzer - Ihr Kontextmenü wird gesperrt! Um den Kontextmenü zu öffnen, halten Sie \"Shift\" -Taste oder dreifach auf die rechte Taste gedrückt."
+  },
+  "o_scroll_button_left": {
+    "message": "Linke Button (experimentell)"
+  },
+  "o_scroll_on_links": {
+    "message": "Blättern Sie auf Links"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Wenn Sie aktiviert sind, können Sie keine Links ziehen und fehlen (nur mit 'Deaktivieren von Schlüssel)."
+  },
+  "o_scroll_on_text": {
+    "message": "Scrollen Sie auf Text."
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emulatiert Telefonscrollen / Bearbeiten - Sie müssen auf Text klicken, um auf den \"Bearbeitungsmodus\" zu wechseln. Durch Klicken auf außerhalb des Textes können Sie erneut klicken."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Blättern Sie auf Textarea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "TextArtaea ist ein Textblock, in der Regel ordnungsvoll. Zum Beispiel auf der Registerkarte \"deaktiviert\" sehen Sie TextArtarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Scrollen Sie auf editierbarer HTML"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Zum Beispiel ist der E-Mail-Körper in Google Mail bearbeitbar HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "bei der Text aktivieren / Bearbeiten von Text wird das Auswählen / Bearbeiten von Text angezeigt."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Klicken Sie auf Text, der den \"Bearbeitungsmodus\" aktiviert ist. Klicken Sie auf den externen Text, um den \"Scroll-Modus\" zu aktivieren."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Ein einziger Klick"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Doppelklick"
+  },
+  "o_scrollbars_width": {
+    "message": "Bildlaufbären suchen"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normal (keine Änderung)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Dünn"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Versteckt"
+  },
+  "o_scrollbars_color": {
+    "message": "Scrollbar Slider Color:"
+  },
+  "o_scrollbars_background": {
+    "message": "Bildlaufleiste Hintergrundfarbe:"
+  },
+  "o_reverse": {
+    "message": "Umgekehrte Bildlaufrichtung"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Verschiebung"
+  },
+  "o_disable_ctrl": {
+    "message": "Strg"
+  },
+  "o_disable_type_0": {
+    "message": "Deaktivieren, wenn der Schlüssel heruntergefahren ist:"
+  },
+  "o_disable_type_1": {
+    "message": "Aktivieren, wenn der Schlüssel heruntergefahren ist:"
+  },
+  "o_momentum": {
+    "message": "dynamal aktivieren - Sie können die Seite \"werfen\" (wie am Telefon)"
+  },
+  "o_no_css_edit": {
+    "message": "Verriegeln Sie keine Iframes und ändern Sie den Cursor beim Scrollen nicht"
+  },
+  "o_no_prevent_default": {
+    "message": "Blockieren Sie nicht die Standardtastenaktion"
+  },
+  "o_auto_link_lock": {
+    "message": "Links blockieren:"
+  },
+  "o_no_link_block": {
+    "message": "Blockieren Sie nicht den Mausklick auf den Link nach der Bewegung"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Wenn Sie mit dem Scrollen auf einem Link starten und dann das Scrollen auf derselben Verbindung beenden, öffnet der Browser den Link. Dies ist in der Regel nicht gewünschtes Verhalten, so dass dies standardmäßig gesperrt ist."
+  },
+  "o_page_weight_title": {
+    "message": "Dies steuert, wie 'schwere' die Seite ist. Schwerere Seiten haben einen längeren Moment."
+  },
+  "o_additional_speed_title": {
+    "message": "Sie können die Anmeldungsgeschwindigkeit beschleunigen."
+  },
+  "o_additional_duration_title": {
+    "message": "Zusätzliche Zeit für jeden Momentum."
+  },
+  "o_compute_from_last_title": {
+    "message": "Die Dynam-Anfangsgeschwindigkeit wird durch die Geschwindigkeit des Bildlaufs richtig bestimmt, bevor Sie die Bildlaufknopf freigeben."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Wie viel Zeit muss Maus stillstehen - bevor Sie die Scroll-Taste freisetzen -, um den Moment nicht zu aktivieren."
+  },
+  "o_tracking_speed_title": {
+    "message": "Intervall zur Messung der aktuellen Scrollgeschwindigkeit."
+  },
+  "o_scrolling_area": {
+    "message": "Bildlaufbereich:"
+  },
+  "o_outside_area_width": {
+    "message": "Bildlaufbereich (0 - deaktiviert):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Wenn Sie Ihren Cursor außerhalb des Scrollbereichs verschieben, wird die Scrollposition zurückgesetzt. Das gleiche Verhalten kann beim Ziehen einer Bildlaufleiste gesehen werden."
+  },
+  "o_scroll_button_left_title": {
+    "message": "Warnung - Der linke Knopfunterstützung ist die Verwendung von veralteten Firefox-API, die in zukünftigen Versionen von Firefox entfernt werden konnte."
+  },
+  "o_prevent_text_selection": {
+    "message": "Verhindern Sie die Textauswahl beim Scrollen mit der linken Taste"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Auf einigen Geräten screen mit der linken Maustaste auch Text auf der Seite."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Blockieren Sie das Kontextmenü nicht, wenn Sie versuchen, nicht scrollbare Seite zu scrollen"
+  },
+  "o_backup_restore": {
+    "message": "Sicherungs- / Wiederherstellungseinstellungen in Datei:"
+  },
+  "o_export_settings": {
+    "message": "Einstellungen in eine Datei exportieren"
+  },
+  "import_settings_button": {
+    "message": "Importeinstellungen von $1 Datei ..."
+  },
+  "import_finished": {
+    "message": "Import beendet!"
+  },
+  "test_page_title": {
+    "message": "Test hier uw scroll-instellingen"
+  },
+  "menu_options": {
+    "message": "Einstellungen"
+  },
+  "menu_visit_title": {
+    "message": "Website besuchen"
+  },
+  "not_working": {
+    "message": "Deaktiviert von Ihrem Webbrowser"
+  },
+  "disabled_by_user": {
+    "message": "In dieser Domain deaktiviert"
+  },
+  "not_working_title": {
+    "message": "Ihr Browser blockiert die ScrollAnywhere auf diesen Seiten der Seiten:"
+  },
+  "not_working_body": {
+    "message": "So aktivieren Sie ScrollAnywhere auf \"mozilla.org\" -Seiten, lesen Sie dieses YouTube-Tutorial"
+  },
+  "show_scrollbars": {
+    "message": "Bildlaufleisten anzeigen."
+  },
+  "show_scrollbars_title": {
+    "message": "Bildlaufleisten vorübergehend anzeigen."
+  },
+  "switch_on_off": {
+    "message": "Senden Sie das Hinzufügen von / auf ein"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Wenn Sie eine spürbare Verzögerung zwischen der Drücken der Scroll-Taste und beim Start von Scrollen erfahren, versuchen Sie, diese Option zu aktivieren. Sie können jedoch nicht in der Lage sein, über \"iframes\" wie einige alte eingebettete Videos oder einige Anzeigen scrollen."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Dies deaktiviert auch die Option, um den Cursor beim Scrollen zu ändern."
+  },
+  "o_helper_text_default_action": {
+    "message": "Nützlich in Linux, um Paste mit mittlerer Taste zu aktivieren."
+  },
+  "o_about_hello": {
+    "message": "Hallo :-)"
+  },
+  "o_about_intro": {
+    "message": "Mein Name ist Juraj Mäsiar und ich bin der Programierer & Autor von ScrollAnywhere."
+  },
+  "o_about_like_it": {
+    "message": "Wenn Ihnen ScrollAnywhere gefällt, bewerten Sie es bitte hier:"
+  },
+  "o_about_dislike_it": {
+    "message": "Wenn es Ihnen nicht gefällt, schreiben Sie mir eine E-Mail, wieso nicht, oder mit Vorschlägen. Ich implementiere die meisten Feature-Anfragen die mir gesendet werden, das ist eine Menge an Arbeit."
+  },
+  "o_disabled": {
+    "message": "deaktiviert",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "aktiviert",
+    "common": true
+  },
+  "o_times": {
+    "message": "mal",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixel",
+    "common": true
+  },
+  "o_items": {
+    "message": "artikel",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "Millisekunden",
+    "common": true
+  },
+  "label_working": {
+    "message": "arbeiten...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Schließen",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Bitte ehren Sie meine Arbeit, indem Sie",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "etwas spenden (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "mein Patron werden",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Vielen Dank!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "Home:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Probleme melden:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Ich kann nur auf Englisch oder Slowakisch antworten",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "SocialMedia:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "speichern & schließen",
+    "common": true
+  },
+  "o_saved": {
+    "message": "gespeichert!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Kommt dämnächst!",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "speichern",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Datenschutz-Bestimmungen",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Kürzlich hinzugefügte Funktionen:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Stichworte:",
+    "common": true
+  }
+}

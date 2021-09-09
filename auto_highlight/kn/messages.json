@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "ಕೆಲವೊಮ್ಮೆ ಪುಟವು ಚೆನ್ನಾಗಿ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿಲ್ಲ ಮತ್ತು ನೀವು ಹುಡುಕುತ್ತಿರುವ ಮಾಹಿತಿಯು ಸಾಕಷ್ಟು ಗೋಚರಿಸುವುದಿಲ್ಲ."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "ಸಾಮಾನ್ಯ ಬಳಕೆ-ಪ್ರಕರಣಗಳು:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "ಹೈಲೈಟ್ ಮೆಟಾಡೇಟಾ:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "ಹೈಲೈಟ್ \"ಉಚಿತ ಶಿಪ್ಪಿಂಗ್\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "ನೀವು ವೆಬ್ನಲ್ಲಿ ನಿರ್ದಿಷ್ಟವಾದ ಯಾವುದನ್ನಾದರೂ ಹುಡುಕುತ್ತಿದ್ದೀರಾ? ಎಲ್ಲಾ ಪುಟಗಳಲ್ಲಿ ಅದನ್ನು ಹುಡುಕಲು ನಿಮಗೆ ಸಹಾಯ ಮಾಡಲು \"ಟೆಂಪೊರಲ್ ಹೈಲೈಟ್\" ಅನ್ನು ಬಳಸಿ. ನಿಮ್ಮ ಬ್ರೌಸರ್ ಅನ್ನು ನೀವು ಮುಚ್ಚಿದಾಗ ತಾತ್ಕಾಲಿಕ ಮುಖ್ಯಾಂಶಗಳು ಸ್ವಯಂ-ಅಳಿಸಲ್ಪಡುತ್ತವೆ."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "ಫಾಂಟ್-ಗಾತ್ರವನ್ನು ಶೂನ್ಯಕ್ಕೆ ಅಥವಾ ಪಾರದರ್ಶಕ ಮಾಡುವ ಮೂಲಕ ನೀವು ಪದಗಳನ್ನು ಮರೆಮಾಡಬಹುದು."
+  },
+  "_description_tags_ah": {
+    "message": "ಹೈಲೈಟ್, ಮಾರ್ಕ್, ಮೆಟಾಡೇಟಾ, ಚಲನಚಿತ್ರ, ಸ್ವಯಂಚಾಲಿತ, ಪಠ್ಯ, ಸಿಂಕ್ರೊನೈಸೇಶನ್, ಆಯ್ಕೆ, ಹುಡುಕು"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ ವ್ಯಾಖ್ಯಾನಿತ ಪುಟಗಳಲ್ಲಿ ವ್ಯಾಖ್ಯಾನಿಸಲಾದ ಪದಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಹೈಲೈಟ್ ಮಾಡುತ್ತದೆ."
+  },
+  "match_type": {
+    "message": "ಪಂದ್ಯದ ಪ್ರಕಾರ:"
+  },
+  "match_type_0": {
+    "message": "ಡೊಮೇನ್ ಆಗಿದೆ"
+  },
+  "match_type_1": {
+    "message": "URL ಆಗಿದೆ"
+  },
+  "match_type_2": {
+    "message": "URL ಹೊಂದಿದೆ"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "ಪ್ರತಿ ಪುಟ"
+  },
+  "selection_highlight": {
+    "message": "ಹೈಲೈಟ್ $1"
+  },
+  "selection_temp": {
+    "message": "ತಾತ್ಕಾಲಿಕವಾಗಿ $1 ಅನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ"
+  },
+  "selection_temp_everywhere": {
+    "message": "ತಾತ್ಕಾಲಿಕವಾಗಿ ಎಲ್ಲೆಡೆಯೂ ಹೈಲೈಟ್ ಮಾಡಿ $1"
+  },
+  "page_highlight": {
+    "message": "ಈ ಪುಟದಲ್ಲಿ $app_name$"
+  },
+  "toolbar_click_new_tab": {
+    "message": "ಯಾವಾಗಲೂ ಹೊಸ ಟ್ಯಾಬ್ನಲ್ಲಿ ತೆರೆಯಿರಿ - ಟೂಲ್ಬಾರ್ ಐಕಾನ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡುವಾಗ"
+  },
+  "disable_rule": {
+    "message": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+  },
+  "temporal_rule": {
+    "message": "ತಾತ್ಕಾಲಿಕ"
+  },
+  "each_word": {
+    "message": "ಪ್ರತಿ ಪದ"
+  },
+  "rules": {
+    "message": "ನಿಯಮಗಳು"
+  },
+  "delete": {
+    "message": "ಅಳಿಸಿ"
+  },
+  "rename": {
+    "message": "ಮರುಹೆಸರಿಸು"
+  },
+  "duplicate": {
+    "message": "ನಕಲಿ"
+  },
+  "delete_rule": {
+    "message": "ನಿಯಮವನ್ನು ಅಳಿಸಿ"
+  },
+  "delete_rule_title": {
+    "message": "\"$1\" ನಿಯಮವನ್ನು ಅಳಿಸುವುದೇ?"
+  },
+  "on_pages": {
+    "message": "ಪುಟಗಳಲ್ಲಿ:"
+  },
+  "disabled_rule": {
+    "message": "ನಿಷ್ಪ್ರಯೋಜಕ ನಿಯಮ"
+  },
+  "incomplete_rule": {
+    "message": "ಅಪೂರ್ಣ ನಿಯಮ"
+  },
+  "active_on_current_page": {
+    "message": "ಪ್ರಸ್ತುತ ಪುಟದಲ್ಲಿ ಸಕ್ರಿಯವಾಗಿದೆ"
+  },
+  "temporal_rule_helper": {
+    "message": "ತಾತ್ಕಾಲಿಕ ನಿಯಮ - ಮರುಪ್ರಾರಂಭಿಸುವ ನಂತರ ಅಳಿಸಲಾಗುವುದು"
+  },
+  "active_on_pages": {
+    "message": "ಪುಟಗಳಲ್ಲಿ ಸಕ್ರಿಯ:"
+  },
+  "highlight_each_word_separately": {
+    "message": "ಪ್ರತಿ ಪದವನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಹೈಲೈಟ್ ಮಾಡಿ"
+  },
+  "case_sensitive": {
+    "message": "ಕೇಸ್ ಸೆನ್ಸಿಟಿವ್"
+  },
+  "ignore_diacritics": {
+    "message": "ಡಿಯಾಕ್ರಿಟಿಕ್ಸ್ ಅನ್ನು ನಿರ್ಲಕ್ಷಿಸಿ"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "ನಿಯಮಿತ ಅಭಿವ್ಯಕ್ತಿ"
+  },
+  "across_elements": {
+    "message": "ಅಂಶಗಳಾದ್ಯಂತ"
+  },
+  "across_elements_help": {
+    "message": "ನೆರೆಯ ಎಚ್ಟಿಎಮ್ಎಲ್ ಎಲಿಮೆಂಟ್ಸ್ ಅಡ್ಡಲಾಗಿ ಪಠ್ಯವನ್ನು ಹುಡುಕಿ"
+  },
+  "style": {
+    "message": "ಶೈಲಿಯ ಶೈಲಿ"
+  },
+  "preview": {
+    "message": "ಮುನ್ನೋಟ:"
+  },
+  "empty_rule": {
+    "message": "ಖಾಲಿ ನಿಯಮ"
+  },
+  "create_new_rule": {
+    "message": "ಹೊಸ ನಿಯಮವನ್ನು ರಚಿಸಿ"
+  },
+  "import_export": {
+    "message": "ಆಮದು ರಫ್ತು"
+  },
+  "help_this_project": {
+    "message": "ಈ ಯೋಜನೆಗೆ ಸಹಾಯ ಮಾಡಿ"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "FAQ:"
+  },
+  "storage_info": {
+    "message": "ಶೇಖರಣಾ ಮಾಹಿತಿ:"
+  },
+  "storage_safari_1": {
+    "message": "ಸಫಾರಿ ಪ್ರಸ್ತುತ ಸ್ವಯಂಚಾಲಿತ ಡೇಟಾ ಸಿಂಕ್ರೊನೈಸೇಶನ್ ಅನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."
+  },
+  "storage_safari_2": {
+    "message": "ನಿಮ್ಮ ಪ್ರಮುಖ ನಿಯಮಗಳನ್ನು ವರ್ಗಾಯಿಸಲು (ಅಥವಾ ಬ್ಯಾಕಪ್), \"ಆಮದು / ರಫ್ತು\" ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸಿ."
+  },
+  "storage_info_1": {
+    "message": "ನಿಮ್ಮ ನಿಯಮಗಳನ್ನು ಸುರಕ್ಷಿತ $1 ಸಿಂಕ್ ಅನ್ನು ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ, ಅದು ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳ ನಡುವೆ ನಿಮ್ಮ ನಿಯಮಗಳನ್ನು ಸಿಂಕ್ರೊನೈಸ್ ಮಾಡುತ್ತದೆ (ನೀವು ಅದೇ ಖಾತೆಗೆ ಲಾಗ್ ಇನ್ ಆಗಿದ್ದರೆ)."
+  },
+  "storage_info_2": {
+    "message": "ಈ ಮೇಘ ಸಂಗ್ರಹಣೆಯು 100 ಕೆಬಿ ಡೇಟಾವನ್ನು ಮತ್ತು 500 ಹೈಲೈಟ್ ನಿಯಮಗಳನ್ನು ಸಂಗ್ರಹಿಸಬಹುದು."
+  },
+  "storage_info_3": {
+    "message": "ನೀವು \"ಆಮದು / ರಫ್ತು\" ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸಿಕೊಂಡು ಫೈಲ್ಗೆ ನಿಮ್ಮ ನಿಯಮಗಳನ್ನು (ಬ್ಯಾಕಪ್) ರಫ್ತು ಮಾಡಬಹುದು ಮತ್ತು ನಂತರ ಅದನ್ನು ಇತರ ಸಾಧನಗಳಲ್ಲಿ ಆಮದು ಮಾಡಿಕೊಳ್ಳಬಹುದು."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಹೈಲೈಟ್ ನಿಯಮಗಳನ್ನು ಬದಲಾಯಿಸಿ"
+  },
+  "add_page_to_highlight_on": {
+    "message": "ಹೈಲೈಟ್ ಮಾಡಲು ಪುಟವನ್ನು ಸೇರಿಸಿ"
+  },
+  "remove_highlight_from_page": {
+    "message": "ಪುಟದಿಂದ ಹೈಲೈಟ್ ತೆಗೆದುಹಾಕಿ"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "ಇಟಾಲಿಕ್"
+  },
+  "underline": {
+    "message": "ಅಂಡರ್ಲೈನ್"
+  },
+  "background_color": {
+    "message": "ಹಿನ್ನೆಲೆ ಬಣ್ಣ"
+  },
+  "background": {
+    "message": "ಹಿನ್ನೆಲೆ"
+  },
+  "text_color": {
+    "message": "ಪಠ್ಯ ಬಣ್ಣ"
+  },
+  "color": {
+    "message": "ಬಣ್ಣ"
+  },
+  "font_size": {
+    "message": "ಅಕ್ಷರ ಗಾತ್ರ"
+  },
+  "rule_name": {
+    "message": "ನಿಯಮ ಹೆಸರು"
+  },
+  "highlight_regular_expression": {
+    "message": "ನಿಯಮಿತ ಅಭಿವ್ಯಕ್ತಿ ಹೈಲೈಟ್:"
+  },
+  "highlight_text": {
+    "message": "ಹೈಲೈಟ್ ಪಠ್ಯ:"
+  },
+  "highlight_on_pages": {
+    "message": "ಪುಟಗಳಲ್ಲಿ ಹೈಲೈಟ್ ಮಾಡಿ"
+  },
+  "empty_name_helper": {
+    "message": "\"ಹೈಲೈಟ್ ಮಾಡಿದ ಪಠ್ಯ\" ಹೆಸರನ್ನು ಬಳಸಲು ಖಾಲಿ ಬಿಡಿ"
+  },
+  "faq_1": {
+    "message": "ಪ್ರಸ್ತುತ ಪುಟದಲ್ಲಿ ಪದವನ್ನು ತ್ವರಿತವಾಗಿ ಹೇಗೆ ಹೈಲೈಟ್ ಮಾಡುವುದು?"
+  },
+  "faq_1a": {
+    "message": "ಸನ್ನಿವೇಶ ಮೆನು ಬಳಸಿ - ಪಠ್ಯ / ರೈಟ್ ಕ್ಲಿಕ್ ಮಾಡಿ / \"ಆಟೋ ಹೈಲೈಟ್\". ನೀವು ಪುಟದ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ (ಪಠ್ಯವನ್ನು ಆಯ್ಕೆ ಮಾಡದೆ) ನೀವು ಪ್ರಸ್ತುತ ಪುಟಕ್ಕೆ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ನಿಯಮಗಳನ್ನು ಅನ್ವಯಿಸಬಹುದು."
+  },
+  "faq_2": {
+    "message": "ನಾನು ಅನೇಕ ಪದಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಲು ಬಯಸುತ್ತೇನೆ, ಪ್ರತಿ ಪದಕ್ಕೂ ಪ್ರತ್ಯೇಕವಾಗಿ ಹೊಸ ನಿಯಮವನ್ನು ರಚಿಸಬೇಕೇ?"
+  },
+  "faq_2a": {
+    "message": "ಇಲ್ಲ, \"ಪ್ರತಿ ಪದ\" ಚೆಕ್ಬಾಕ್ಸ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ. ನಂತರ ಪ್ರತಿ ಪದವನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಹೈಲೈಟ್ ಮಾಡಲಾಗುತ್ತದೆ."
+  },
+  "faq_3": {
+    "message": "ಅದು \"RegExp\" ಎಂದರೇನು?"
+  },
+  "faq_3a": {
+    "message": "ನಿಯಮಿತ ಅಭಿವ್ಯಕ್ತಿ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ, ಇದು ಹುಡುಕಾಟ ಮಾದರಿಯನ್ನು ವ್ಯಾಖ್ಯಾನಿಸುವ ಅಕ್ಷರಗಳ ಅನುಕ್ರಮವಾಗಿದೆ. ಕೆಲವು ರೀತಿಯ ಮಾದರಿಯೊಂದಿಗೆ ಸಂಕೀರ್ಣ ಹೈಲೈಟ್ ಮಾಡುವ ಅಂಶಗಳನ್ನು ಅನುಮತಿಸುವ ಒಂದು ಸಂಕೀರ್ಣವಾದ ರಚನೆಯಾಗಿದೆ. ಉದಾಹರಣೆಗೆ ಬೆಲೆಗಳು, ದಿನಾಂಕಗಳು, ಫೋನ್ ಸಂಖ್ಯೆಗಳು, ಇತ್ಯಾದಿ ..."
+  },
+  "faq_4": {
+    "message": "ನೀವು ಕೆಲವು RegExp ಉದಾಹರಣೆಗಳು ನನಗೆ ತೋರಿಸಬಹುದೇ?"
+  },
+  "faq_4a": {
+    "message": "$1 ನಂತಹ ಎಲ್ಲಾ ಬೆಲೆಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ"
+  },
+  "faq_5": {
+    "message": "ನೀವು ಅದನ್ನು ವಿವರಿಸಬಹುದೇ?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" ಹೈಲೈಟ್ಸ್ ಡಾಲರ್ ಚಿಹ್ನೆ. ರಿಜೆಕ್ಸ್ಪ್ನಲ್ಲಿ ಡಾಲರ್ ವಿಶೇಷ ಅರ್ಥವನ್ನು ಹೊಂದಿದೆ ಏಕೆಂದರೆ ಬ್ಯಾಕ್ಸ್ಲ್ಯಾಶ್ ಇಲ್ಲಿ ಅಗತ್ಯವಿದೆ."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" ಒಂದೇ ಅಂಕಿಯವನ್ನು ತೋರಿಸುತ್ತದೆ"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" ಎಂದರೆ ಒಂದು ಅಥವಾ ಹೆಚ್ಚು ಬಾರಿ ಪುನರಾವರ್ತಿಸಿ. ಅಂಕಿಯ ಸೆಲೆಕ್ಟರ್ $2$ ನಂತರ ಇದ್ದಾಗ, ಇದು ಒಂದು ಅಥವಾ ಹೆಚ್ಚಿನ ಅಂಕೆಗಳು ಎಂದರ್ಥ."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" ಮುಖ್ಯಾಂಶಗಳು ಡಾಟ್. BackSlash ಮತ್ತೆ ಅಗತ್ಯವಿದೆ ಏಕೆಂದರೆ ಡಾಟ್ ಚಿಹ್ನೆ ಮಾತ್ರ RegExp ಯಾವುದೇ ಒಂದೇ ಪಾತ್ರ ಅರ್ಥ."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" ಎಂದರೆ ಶೂನ್ಯ ಅಥವಾ ಒಂದು ಬಾರಿ. ಬ್ರಾಕೆಟ್ಗಳು $2$ ನಂತರ ಇದ್ದಾಗ, ಆ ಬ್ರಾಕೆಟ್ಗಳ ಒಳಗೆ ಏನೆಂದರೆ ಐಚ್ಛಿಕವಾಗಿರುತ್ತದೆ (ಅಲ್ಲಿ ಇರಬಹುದು ಅಥವಾ ಇಲ್ಲ). ಐಚ್ಛಿಕ ಸಂಖ್ಯೆಯ ದಶಮಾಂಶ ಭಾಗಕ್ಕೆ ನಾವು ಅದನ್ನು ಬಳಸುತ್ತೇವೆ."
+  },
+  "faq_5f": {
+    "message": "ರಿಜೆಕ್ಸ್ಪ್ ನಿಯಮಗಳ ಬಗ್ಗೆ ಹೆಚ್ಚಿನ ಮಾಹಿತಿ"
+  },
+  "import_finished": {
+    "message": "ಆಮದು ಮುಗಿದಿದೆ!",
+    "common": true
+  },
+  "import_error": {
+    "message": "ದೋಷ",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "ಬ್ಯಾಕ್ಅಪ್ ಫೈಲ್ ಅನ್ನು ಆಮದು ಮಾಡಿ $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "ಮುಖಪುಟ",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon ಪುಟ",
+    "common": true
+  },
+  "safari_store": {
+    "message": "ಮ್ಯಾಕ್ ಆಪ್ ಸ್ಟೋರ್",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "ಕ್ರೋಮ್ ವೆಬ್ ಅಂಗಡಿ",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "ಫೈರ್ಫಾಕ್ಸ್ ಆಡ್-ಆನ್ಗಳು",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "ಥಂಡರ್ಬರ್ಡ್ ಆಡ್-ಆನ್ಗಳು",
+    "common": true
+  },
+  "menu_options": {
+    "message": "ಆಯ್ಕೆಗಳು",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "ಅಕ್ಷರ ಗಾತ್ರ",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "ಪಾರ್ಶ್ವಪಟ್ಟಿ ಗಾತ್ರ",
+    "common": true
+  },
+  "label_next": {
+    "message": "ಮುಂದಿನ",
+    "common": true
+  },
+  "label_note": {
+    "message": "ಸೂಚನೆ:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "ತೆಗೆದುಹಾಕಿ",
+    "common": true
+  },
+  "label_warning": {
+    "message": "ಎಚ್ಚರಿಕೆ:",
+    "common": true
+  },
+  "label_options": {
+    "message": "ಆಯ್ಕೆಗಳು:",
+    "common": true
+  },
+  "label_default": {
+    "message": "ಡೀಫಾಲ್ಟ್:",
+    "common": true
+  },
+  "label_done": {
+    "message": "ಮುಗಿದಿದೆ!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "ನಕಲಿಸಲಾಗಿದೆ!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "ಕಸ್ಟಮ್:",
+    "common": true
+  },
+  "label_close": {
+    "message": "ಮುಚ್ಚು",
+    "common": true
+  },
+  "label_installed": {
+    "message": "ಸ್ಥಾಪಿಸಲಾಗಿದೆ",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "ತೆರೆದ ಪುಟ",
+    "common": true
+  },
+  "label_agree": {
+    "message": "ಒಪ್ಪು",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "ರದ್ದುಮಾಡು",
+    "common": true
+  },
+  "label_save": {
+    "message": "ಉಳಿಸು",
+    "common": true
+  },
+  "label_required": {
+    "message": "ಅಗತ್ಯವಿದೆ",
+    "common": true
+  },
+  "label_sending": {
+    "message": "ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "ಸ್ಕೇಲ್:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "ಜೂಮ್:",
+    "common": true
+  },
+  "label_size": {
+    "message": "ಗಾತ್ರ:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "ಶೀಘ್ರದಲ್ಲೇ ಬರಲಿದೆ",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸು",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "ಬದಲಾವಣೆಗಳನ್ನು ತ್ಯಜಿಸುತ್ತದೆ",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "ಮೆನು",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "ಮುಖಪುಟಕ್ಕೆ ಭೇಟಿ ನೀಡಿ",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "ಈ ಯೋಜನೆಗೆ ಸಹಾಯ ಮಾಡಿ",
+    "common": true
+  },
+  "support_developer": {
+    "message": "ಸ್ವತಂತ್ರ ಡೆವಲಪರ್ ಬೆಂಬಲ!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "ಅಲ್ಲಿ ಹಲೋ!",
+    "common": true
+  },
+  "about_me": {
+    "message": "ನಾನು 2016 ರಿಂದ Addon ಡೆವಲಪರ್ ಆಗಿದ್ದೇನೆ. ನಿಮ್ಮ ವೆಬ್ ಬ್ರೌಸರ್ಗಾಗಿ ಪ್ರಬಲ ವಿಸ್ತರಣೆಗಳನ್ನು ನಿರ್ಮಿಸುವುದು ನನ್ನ ಗುರಿಯಾಗಿದೆ.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "ನಾನು ಒಳ್ಳೆಯ ಕೆಲಸವನ್ನು ಮಾಡುತ್ತಿದ್ದೇನೆ ಎಂದು ನೀವು ಭಾವಿಸಿದರೆ, ದಯವಿಟ್ಟು ದಾನ :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "ನಿಮ್ಮ ಕೊಡುಗೆ ನನ್ನ ಏಕೈಕ ಆದಾಯ!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "ನನ್ನ ಕೆಲಸವನ್ನು ಬೆಂಬಲಿಸಿದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು!",
+    "common": true
+  },
+  "op_help": {
+    "message": "ಸಹಾಯ",
+    "common": true
+  },
+  "o_title": {
+    "message": "ಆಯ್ಕೆಗಳು - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "ಬ್ಯಾಕಪ್",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "ಹೊಸ ಬ್ಯಾಕಪ್ ರಚಿಸಿ",
+    "common": true
+  },
+  "save_settings": {
+    "message": "ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಉಳಿಸಿ",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "ಫೈಲ್ಗೆ ನಿಮ್ಮ ಡೇಟಾವನ್ನು ರಫ್ತು ಮಾಡಲು, ಈ ವಿಂಡೋವನ್ನು ಹೊಸ ಟ್ಯಾಬ್ನಲ್ಲಿ ಪುನಃ ತೆರೆಯಿರಿ.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "ರೈಟ್ ಕ್ಲಿಕ್ ಮಾಡಿ / \"ಲಿಂಕ್ಡ್ ಫೈಲ್ ಡೌನ್ಲೋಡ್ ಮಾಡಿ\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "ಸಾಮಾನ್ಯ",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "ಹಿನ್ನೆಲೆ",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "ಸನ್ನಿವೇಶ ಮೆನು",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "ಥಂಬ್ನೇಲ್ಗಳು",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "ಶಾರ್ಟ್ಕಟ್ಗಳು",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "ಆಮದು / ಬ್ಯಾಕಪ್",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "ಸಂಯೋಜನೆಗಳು",
+    "common": true
+  },
+  "o_theme": {
+    "message": "ಥೀಮ್:",
+    "common": true
+  },
+  "o_general": {
+    "message": "ಜನರಲ್:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "ಪಿಕ್ಸೆಲ್ಗಳು",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "ಸೆಕೆಂಡುಗಳು",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "ಸನ್ನಿವೇಶ ಮೆನು:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "ಸನ್ನಿವೇಶ ಮೆನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "ಬ್ಯಾಕಪ್ / ಮರುಸ್ಥಾಪಿಸಿ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಫೈಲ್ ಮಾಡಿ:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "ಆಮದು",
+    "common": true
+  },
+  "title_import": {
+    "message": "ಆಮದು",
+    "common": true
+  },
+  "title_export": {
+    "message": "ರಫ್ತು ಮಾಡು",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "ರಫ್ತು ಬ್ಯಾಕ್ಅಪ್",
+    "common": true
+  },
+  "label_or": {
+    "message": "ಅಥವಾ",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "ಹಲೋ :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "ನನ್ನ ಹೆಸರು $1$ ಮತ್ತು ನಾನು $app_name$ ನ ಲೇಖಕ.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "ನಿಮಗೆ ಇಷ್ಟವಾದಲ್ಲಿ, ದಯವಿಟ್ಟು ಇಲ್ಲಿ ರೇಟ್ ಮಾಡಿ:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "ನಿಮಗೆ ಇಷ್ಟವಿಲ್ಲದಿದ್ದರೆ, ನನ್ನ ಇ-ಮೇಲ್ಗೆ ಏಕೆ ನನಗೆ ತಿಳಿಸಿ. ನಾನು ಸ್ವೀಕರಿಸುವ ವೈಶಿಷ್ಟ್ಯ-ವಿನಂತಿಗಳನ್ನು ನಾನು ಅನುಷ್ಠಾನಗೊಳಿಸುತ್ತಿದ್ದೇನೆ.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "ದಯವಿಟ್ಟು ನನ್ನ ಕೆಲಸವನ್ನು ಬೆಂಬಲಿಸುವುದನ್ನು ಪರಿಗಣಿಸಿ",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "ಬ್ಯಾಂಕ್ ವರ್ಗಾವಣೆ ಐಬಿಎಎನ್ ಬಳಸಿ:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "ಕೊಡುಗೆ (ಪೇಪಾಲ್)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "ನನ್ನ ಪೋಷಕ ಬಿಕಮಿಂಗ್",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "ಧನ್ಯವಾದಗಳು!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "ಮುಖಪುಟ:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "ಸಂಪರ್ಕಿಸಿ:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "ವರದಿ ಸಮಸ್ಯೆಗಳನ್ನು ವರದಿ ಮಾಡಿ:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "ಇಂಗ್ಲಿಷ್ / ಸ್ಲೋವಾಕ್ನಲ್ಲಿ ಮಾತ್ರ ನಾನು ಪ್ರತ್ಯುತ್ತರಿಸಬಹುದು",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ ಮತ್ತು ಮುಚ್ಚಿ",
+    "common": true
+  },
+  "o_saved": {
+    "message": "ಉಳಿಸಲಾಗಿದೆ!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "ಯಾವುದೇ ಹೊಂದಾಣಿಕೆಯ ಫಲಿತಾಂಶಗಳಿಲ್ಲ",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "ಮಾಹಿತಿ ಇಲ್ಲ",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "ಡಾರ್ಕ್ ಮೋಡ್",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "ವ್ಯವಸ್ಥೆಯಿಂದ ನಿಯಂತ್ರಿಸಲ್ಪಡುತ್ತದೆ",
+    "common": true
+  },
+  "used_space": {
+    "message": "ಉಪಯೋಗಿಸಿದ ಸ್ಥಳ: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "ಹೊಸ ಟ್ಯಾಬ್ನಲ್ಲಿ ತೆರೆಯಿರಿ",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "ಆನ್ / ಆಫ್ ಅನ್ನು ಆನ್ / ಆಫ್ ಮಾಡಿ",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ",
+    "common": true
+  },
+  "_description_why": {
+    "message": "ಏಕೆ?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "ಗೌಪ್ಯತಾ ನೀತಿ",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "ಇತ್ತೀಚೆಗೆ ಸೇರಿಸಲಾಗಿದೆ ವೈಶಿಷ್ಟ್ಯಗಳು:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "ಟ್ಯಾಗ್ಗಳು:",
+    "common": true
+  }
+}

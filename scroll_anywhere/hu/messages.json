@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "bárhol, gomb, kurzor, húzás, húzás, megragad, húzza, megragadja és húzza, végtelen, bal, középső, lendület, egér, mozgás, oldal, jobb, görgetés, görgetés oldal, görgetés, görgetés"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Húzza a scrolllart-ot a középső egérgombbal bárhol az oldalon. Támogatja a \"megragad és húzza\" stílust is."
+  },
+  "field_int_default_value": {
+    "message": "Alapértelmezett érték: $1, MIN: $2, MAX: $3"
+  },
+  "field_set_default": {
+    "message": "Állítsa vissza az alapértelmezett értéket: $1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird kiegészítők"
+  },
+  "firefox_store": {
+    "message": "Firefox kiegészítők"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "win_disable": {
+    "message": "A $1 letiltása"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "A vízszintes görgetés letiltása a $1-on"
+  },
+  "op_visit_home": {
+    "message": "Látogasson el a honlapra"
+  },
+  "op_support_me": {
+    "message": "Segítsen ezt a projektet"
+  },
+  "o_title": {
+    "message": "Opciók - $1"
+  },
+  "o_tab_general": {
+    "message": "Tábornok"
+  },
+  "o_tab_momentum": {
+    "message": "Lendület"
+  },
+  "o_tab_cursor": {
+    "message": "Kurzor"
+  },
+  "o_axis_locking": {
+    "message": "Tengely reteszelés"
+  },
+  "o_tab_performance": {
+    "message": "Teljesítmény"
+  },
+  "o_tab_disabled_on": {
+    "message": "Letiltott"
+  },
+  "o_tab_advanced": {
+    "message": "Fejlett"
+  },
+  "o_tab_scrollbars": {
+    "message": "Scrolllars"
+  },
+  "o_tab_backup": {
+    "message": "Import / biztonsági mentés"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Amikor egy tengelyen görgethető doboz görgetésénél, de a szülő doboz más tengelyen görgethető, a lezárás egy tengelyre görgetve:"
+  },
+  "o_axis_lock_0": {
+    "message": "Smart Lock - időbeli zár a lendület használatával"
+  },
+  "o_axis_lock_1": {
+    "message": "Szigorú zár - Azonnali irányzár"
+  },
+  "o_axis_lock_2": {
+    "message": "Nincs zárolás - szabad görgetés mindkét tengelyen"
+  },
+  "o_trend_momentum_window": {
+    "message": "Smart Lock Stack méret"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "A nagyobb érték nagyobb görgetést igényel az ellenkező tengelyen a görgetési tengely megváltoztatásához."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon le van tiltva! Kattintson ide az engedélyezéshez."
+  },
+  "o_cursor_change_default": {
+    "message": "nincs változás - a legjobb teljesítmény"
+  },
+  "o_scroll_button": {
+    "message": "Görgetőgomb:"
+  },
+  "o_direction_speed": {
+    "message": "Görgető stílus / irány / sebesség:"
+  },
+  "o_multiplier": {
+    "message": "Szorzó"
+  },
+  "o_times_speed": {
+    "message": "a sebesség görgetése"
+  },
+  "o_maximum_speed": {
+    "message": "Maximális görgetési sebesség (0 - Letiltva):"
+  },
+  "o_ratio_unit": {
+    "message": "arány (oldalhossz / ablakméret)"
+  },
+  "o_scroll_type_0": {
+    "message": "Emulálja a scrolllar-t"
+  },
+  "o_scroll_type_1": {
+    "message": "Megragad és húzza - tetszik egy okostelefonon"
+  },
+  "o_scroll_type_2": {
+    "message": "Dinamikus sebesség (kísérleti)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Olyan, mintha egy görgetősáv húzódna"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Olyan, mintha egy oldalt húzok az ujjával egy telefon képernyőjén"
+  },
+  "o_scroll_type_title_2": {
+    "message": "A dinamikus sebesség megkönnyíti a görgetési sebességet, ha az oldal hosszabb"
+  },
+  "o_disable_key": {
+    "message": "Letiltás / Engedélyezés görgetés, ha a gomb leáll:"
+  },
+  "o_momentum_category": {
+    "message": "Lendület:"
+  },
+  "o_momentum_formula": {
+    "message": "Momentum képlet:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Egyenletesen lassított mozgás"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Az oldalsó görgetés egyenletesen lassul, amíg meg nem áll"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Exponenciálisan lassított mozgás"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Az oldal görgetése gyorsan (exponenciálisan) lassul"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Végtelen mozgás ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "A görgetés soha nem fog megállni"
+  },
+  "o_momentum_max_speed": {
+    "message": "Maximális sebesség (0 - Letiltva):"
+  },
+  "o_page_weight": {
+    "message": "Az oldal súlya:"
+  },
+  "o_grams": {
+    "message": "gramm :)"
+  },
+  "o_additional_speed": {
+    "message": "További sebesség:"
+  },
+  "o_pixels_second": {
+    "message": "képpontok másodpercenként"
+  },
+  "o_additional_duration": {
+    "message": "További időtartam:"
+  },
+  "o_advanced_momentum": {
+    "message": "Advanced Momentum Setup (csak szakértők számára!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Az értékek megváltoztatása megszakíthatja a lendületet!"
+  },
+  "o_compute_from_last": {
+    "message": "Az utolsó kiszámítás:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Egér Stop Detection:"
+  },
+  "o_tracking_speed": {
+    "message": "Nyomkövetési sebesség:"
+  },
+  "o_reset_values": {
+    "message": "Reset értékek"
+  },
+  "o_cursor_scrolling": {
+    "message": "A görgetéskor használt kurzor:"
+  },
+  "o_performance": {
+    "message": "Teljesítmény:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Megakadályozzák a nagy ugrást"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Ha olyan eszközt használ, amely teleportálhatja a kurzort a képernyőn (amikor eléri a szélét), engedélyezze ezt a lehetőséget, hogy lehetővé tegye a folyamatos (végtelen) görgetést."
+  },
+  "o_advanced": {
+    "message": "Fejlett:"
+  },
+  "o_movement_detection": {
+    "message": "Egér mozgás észlelési küszöbértéke:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Hány pixel van az egérrel, hogy blokkolja a linket. Néha, amikor megnyomja scroll gomb mozgatja az egeret kicsit , de nem akarjuk, hogy a link le van tiltva , mert e."
+  },
+  "o_context_menu_block": {
+    "message": "Kontextus menüblokk:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "A környezeti menü késedelme"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Ha a jobb egérgombbal görgetés után látja a helyi menüt, növelje ezt az értéket"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Letiltja a vízszintes görgetés domaineken:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Letiltva a domaineken:"
+  },
+  "o_is_disabled_url": {
+    "message": "Letiltva az oldalakon / aloldalakon:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Használhatja a Csillagszimbólumot (*) az URL rész meghatározásához, például: \"Google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Adjon meg egy tartományt soronként."
+  },
+  "o_is_disabled": {
+    "message": "A bővítmény letiltása"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Használja az eszköztár ikont, mint a fő / kikapcsoló kapcsoló"
+  },
+  "o_scroll_button_middle": {
+    "message": "Középső gomb"
+  },
+  "o_scroll_button_right": {
+    "message": "Jobb gomb"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Mac felhasználók - Megkérjük az új engedélyt \"Olvassa el és módosítja a böngésző beállítása\" - Ez szükséges ahhoz, hogy a görgetés előtt elnyomja a helyi menüt!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac felhasználók - A helyi menü blokkolva lesz! A helyi menü megnyitásához tartsa lenyomva a \"Shift\" gombot vagy hármas kattintás jobb gombot."
+  },
+  "o_scroll_button_left": {
+    "message": "Bal gomb (kísérleti)"
+  },
+  "o_scroll_on_links": {
+    "message": "Görgessen a linkekre"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Ha engedélyezve van, akkor nem tud húzni és csökkenteni a linkeket (csak a 'Letiltás \"gomb segítségével)"
+  },
+  "o_scroll_on_text": {
+    "message": "Görgessen a szövegre"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emules Phone Scrolling / Editing - A szövegre kattints annak érdekében, hogy átkapcsoljon \"módba\". A szöveg külső gombjára kattintva újra görgethet."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Görgessen a TEXTAREA-ra"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "A Textarea szövegblokk, általában átméretezhető. Például a \"Disabled On\" lapon látható TEXTAREA."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Görgessen a szerkeszthető HTML-en"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Például az e-mail test a Gmailben szerkeszthető HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "a szövegben lehetővé teszi a szöveg kiválasztását / szerkesztését."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "A szövegre kattintva engedélyezi a \"szerkesztés mód\" lehetőséget. Kattintson a Külső szövegre a \"Scroll mód\" engedélyezéséhez."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Egyetlen kattintás"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Dupla kattintás"
+  },
+  "o_scrollbars_width": {
+    "message": "Scrolllars néz ki"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normál (nincs változás)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Vékony"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Rejtett"
+  },
+  "o_scrollbars_color": {
+    "message": "ScrollBar csúszka szín:"
+  },
+  "o_scrollbars_background": {
+    "message": "ScrollBar háttérszín:"
+  },
+  "o_reverse": {
+    "message": "Fordított görgetési irány"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Váltás"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl"
+  },
+  "o_disable_type_0": {
+    "message": "Tiltsa le, ha a gomb leáll:"
+  },
+  "o_disable_type_1": {
+    "message": "Engedélyezés Ha a gomb leáll:"
+  },
+  "o_momentum": {
+    "message": "engedélyezze a lendületet - \"dobhatja\" az oldalt (mint a telefonon)"
+  },
+  "o_no_css_edit": {
+    "message": "Ne zárja be az iframes-et, és ne változtassa meg a kurzort a görgetés során"
+  },
+  "o_no_prevent_default": {
+    "message": "Ne blokkolja az alapértelmezett gomb műveletet"
+  },
+  "o_auto_link_lock": {
+    "message": "Linkek blokkolása:"
+  },
+  "o_no_link_block": {
+    "message": "Ne blokkolja az egérgombbal a mozgás utáni linkre"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Ha elkezdi a linket görgetni, majd befejezi a görgetés ugyanazon a linken, a böngésző megnyitja a linket. Ez általában nem kívánatos viselkedés, így alapértelmezés szerint blokkolva van."
+  },
+  "o_page_weight_title": {
+    "message": "Ez az ellenőrzés, hogy milyen \"nehéz\" az oldal. A nehezebb oldalaknak hosszabb lendülete van."
+  },
+  "o_additional_speed_title": {
+    "message": "Gyorsan felgyorsíthatja a lendületet."
+  },
+  "o_additional_duration_title": {
+    "message": "További idő minden lendületre."
+  },
+  "o_compute_from_last_title": {
+    "message": "Momentum kezdeti sebesség határozza meg a sebességet a görgetés jobbra , mielőtt elengedné a Scroll gomb ."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Mennyi időt kell egér tartózkodása még - mielőtt elengedné a Scroll gomb - nem aktiválja Momentum ."
+  },
+  "o_tracking_speed_title": {
+    "message": "Az aktuális görgetési sebesség mérésére szolgáló intervallum."
+  },
+  "o_scrolling_area": {
+    "message": "Scrolling terület:"
+  },
+  "o_outside_area_width": {
+    "message": "Scrolling terület (0 - Letiltva):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "A kurzor mozgatása a görgetési területen kívül visszatér a görgetési pozícióba. Ugyanaz a viselkedés látható, ha görgetősáv húzódik."
+  },
+  "o_scroll_button_left_title": {
+    "message": "FIGYELMEZTETÉS - A bal gomb támogatás az elavult Firefox API-t használja, amely eltávolítható a Firefox jövőbeli verzióiban."
+  },
+  "o_prevent_text_selection": {
+    "message": "A szövegválasztás megakadályozása a bal gombnyomással"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Néhány eszközön görgetés a bal egérgombbal is kiválasztja a szöveget az oldalon."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Ne blokkolja a helyi menüt, ha megpróbál görgetni a görgethető oldalt"
+  },
+  "o_backup_restore": {
+    "message": "A fájlok biztonsági mentése / visszaállítása:"
+  },
+  "o_export_settings": {
+    "message": "Exportálási beállítások egy fájlba"
+  },
+  "import_settings_button": {
+    "message": "Beállítások importálása a $1 fájlból ..."
+  },
+  "import_finished": {
+    "message": "Import kész!"
+  },
+  "test_page_title": {
+    "message": "Tesztelje meg a görgetési beállításokat itt"
+  },
+  "menu_options": {
+    "message": "Opciók"
+  },
+  "menu_visit_title": {
+    "message": "Látogasson el a honlapra"
+  },
+  "not_working": {
+    "message": "Letiltja a web böngészőjét"
+  },
+  "disabled_by_user": {
+    "message": "Letiltva ezen a területen"
+  },
+  "not_working_title": {
+    "message": "A böngésző blokkolja a Scrollanyhuty-t az ilyen típusú oldalakon:"
+  },
+  "not_working_body": {
+    "message": "A \"Mozilla.org\" oldalakon található Scrollanyhere engedélyezéséhez lásd ezt a YouTube-bemutatót"
+  },
+  "show_scrollbars": {
+    "message": "Scrolllars show"
+  },
+  "show_scrollbars_title": {
+    "message": "Ideiglenesen show scrolllars"
+  },
+  "switch_on_off": {
+    "message": "Kapcsoló hozzáadása / be / bekapcsolás"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Ha észrevehető késleltetést tapasztal a görgetőgomb megnyomása és a görgetés kezdete között, próbálja meg engedélyezni ezt az opciót. Azonban nem lesz képes görgetni az \"iframames\" -re, például néhány régi beágyazott videót vagy néhány hirdetést."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Ez letiltja a kurzor megváltoztatását a görgetés közben."
+  },
+  "o_helper_text_default_action": {
+    "message": "Hasznos a Linux-ban, hogy lehetővé tegye a paszta középső gombjával."
+  },
+  "o_about_hello": {
+    "message": "Helló :)"
+  },
+  "o_about_intro": {
+    "message": "A nevem $1$, és én vagyok az $app_name$ szerzője."
+  },
+  "o_about_like_it": {
+    "message": "Ha tetszik, kérjük, értékelje itt:"
+  },
+  "o_about_dislike_it": {
+    "message": "Ha nem tetszik, kérjük, tudassa velem, miért az e-mailemre. A legtöbbet kapok, amit kapok."
+  },
+  "o_disabled": {
+    "message": "tiltva",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "engedélyezett",
+    "common": true
+  },
+  "o_times": {
+    "message": "idők",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "képpontok",
+    "common": true
+  },
+  "o_items": {
+    "message": "elemek",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milliszekundum",
+    "common": true
+  },
+  "label_working": {
+    "message": "dolgozó...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Bezárás",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Kérjük, fontolja meg a munkám támogatását",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "adomány (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "a védőszentje",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Köszönöm!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "itthon:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kapcsolatba lépni:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Jelentés kérdések:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Csak angolul / szlovákban tudok válaszolni",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Közösségi média:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Mentse a módosításokat és zárja be",
+    "common": true
+  },
+  "o_saved": {
+    "message": "mentett!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Hamarosan",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Változtatások mentése",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Adatvédelmi irányelvek",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Nemrégiben hozzáadott funkciók:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Címkék:",
+    "common": true
+  }
+}

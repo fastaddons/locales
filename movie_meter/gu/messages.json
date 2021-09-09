@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "તારીખ, આઇએમડીબી, વર્ણન, એપિસોડ, ગેજ, ગ્રાફ, આઇએમડીબી, માહિતી, મીટર, મૂવી, ફિલ્મ, મૂવીઝ, નેટફિક્સ, આઇએમડીબી, રેટિંગ, શ્રેણી, શો, ટીવી, ટીવી શો, વિડિઓ, દ્રશ્ય, મત, મોસમ"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "મૂવી મળી નથી / ખોટી મૂવી મળી નથી - કારણ કે લક્ષ્ય પૃષ્ઠો સાથે કોઈ \"અધિકૃત\" એકીકરણ નથી, તેથી હું 100% સાચા પરિણામોની ખાતરી આપી શકતો નથી (પરંતુ મોટાભાગના કિસ્સાઓમાં તે સંપૂર્ણ રીતે કાર્ય કરે છે)"
+  },
+  "_description_mm_not_working": {
+    "message": "તમારા મનપસંદ મૂવી પૃષ્ઠ પર કામ કરતું નથી?"
+  },
+  "_description_mm_add_support": {
+    "message": "મને સંપર્ક કરો અને હું તેને ઉમેરીશ - જો શક્ય હોય તો (પૃષ્ઠમાં મૂવીનું નામ અંગ્રેજીમાં અથવા $visit_imdb$ લિંક શામેલ હોવું આવશ્યક છે)."
+  },
+  "_description_mm_feature_1": {
+    "message": "$visit_imdb$ થી મૂવી રેટિંગ અને લોકપ્રિયતા"
+  },
+  "_description_mm_feature_2": {
+    "message": "આગલું / પાછલું એપિસોડ તારીખ $visit_tvmaze$ થી"
+  },
+  "_description_mm_feature_3": {
+    "message": "વધારાની મૂવી / ટીવી શ્રેણીની માહિતી"
+  },
+  "_description_mm_feature_4": {
+    "message": "નવી એપિસોડ વિશેની સૂચના"
+  },
+  "_description_mm_feature_5": {
+    "message": "માર્ક ટીવી સીરીઝને મનપસંદ તરીકે અને જ્યારે નવી એપિસોડ ઉપલબ્ધ હોય ત્યારે તમને સૂચના મળશે"
+  },
+  "_description_mm_feature_7": {
+    "message": "જ્યારે વિડિઓ પ્લેબેક શોધવામાં આવે ત્યારે સ્વતઃ-છુપાવો"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ તમને મૂવીઝ (અથવા ટીવી શ્રેણી) ની રેટિંગ અને લોકપ્રિયતા બતાવશે."
+  },
+  "name": {
+    "message": "નામ"
+  },
+  "year": {
+    "message": "વર્ષ"
+  },
+  "video_type": {
+    "message": "પ્રકાર"
+  },
+  "video_type_0": {
+    "message": "મૂવી"
+  },
+  "video_type_1": {
+    "message": "શ્રેણી"
+  },
+  "video_type_2": {
+    "message": "એપિસોડ"
+  },
+  "runtime": {
+    "message": "રનટાઇમ"
+  },
+  "premiered": {
+    "message": "પ્રિમીયર"
+  },
+  "premiere_in": {
+    "message": "માં પ્રિમીયર"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "દેશનિકાલ"
+  },
+  "actors": {
+    "message": "અભિનેતાઓ"
+  },
+  "dvd": {
+    "message": "ડીવીડી"
+  },
+  "director": {
+    "message": "નિયામક"
+  },
+  "totalseasons": {
+    "message": "કુલ સીઝન્સ"
+  },
+  "writer": {
+    "message": "લેખક"
+  },
+  "language": {
+    "message": "ભાષા"
+  },
+  "awards": {
+    "message": "પુરસ્કારો"
+  },
+  "rated": {
+    "message": "રેટેડ"
+  },
+  "production": {
+    "message": "ઉત્પાદન"
+  },
+  "plot": {
+    "message": "પ્લોટ"
+  },
+  "website": {
+    "message": "વેબસાઇટ"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "મુલાકાત $visit_imdb$ પૃષ્ઠ"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "આ શો માટે $visit_tvmaze$ પૃષ્ઠની મુલાકાત લો"
+  },
+  "make_favorite": {
+    "message": "મનપસંદ"
+  },
+  "make_favorite_title": {
+    "message": "મનપસંદમાં ટીવી શ્રેણી ઉમેરો. આ તમને નવા એપિસોડ્સ વિશે સૂચના પ્રાપ્ત કરવાની મંજૂરી આપશે."
+  },
+  "last_episode": {
+    "message": "છેલ્લા"
+  },
+  "next_episode": {
+    "message": "આગળ"
+  },
+  "last_episode_title": {
+    "message": "છેલ્લા એપિસોડ"
+  },
+  "next_episode_title": {
+    "message": "આગામી એપિસોડ"
+  },
+  "episode_airtime": {
+    "message": "એરટાઇમ"
+  },
+  "episode_name": {
+    "message": "નામ"
+  },
+  "series_status": {
+    "message": "સ્થિતિ"
+  },
+  "episodes_count": {
+    "message": "એપિસોડ્સ"
+  },
+  "episodes_count_title": {
+    "message": "વર્તમાન સીઝન $1 છે $2 એપિસોડ્સ"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "દિવસ"
+  },
+  "hours": {
+    "message": "કલાક"
+  },
+  "na": {
+    "message": "ઉપલબ્ધ નથી"
+  },
+  "user_rating": {
+    "message": "વપરાશકર્તા રેટિંગ: $1"
+  },
+  "user_popularity": {
+    "message": "લોકપ્રિયતા: $1 મત"
+  },
+  "source": {
+    "message": "સ્રોત: $1"
+  },
+  "show_details": {
+    "message": "વધુ ..."
+  },
+  "hide_details": {
+    "message": "ઓછું ..."
+  },
+  "save_position": {
+    "message": "પોઝિશન સાચવો"
+  },
+  "revert_position": {
+    "message": "પોઝિશન પાછું ફેરવવું"
+  },
+  "win_disable": {
+    "message": "$1 પર અક્ષમ કરો"
+  },
+  "cm_advanced": {
+    "message": "અદ્યતન"
+  },
+  "op_visit_home": {
+    "message": "હોમપેજની મુલાકાત લો"
+  },
+  "op_support_me": {
+    "message": "આ પ્રોજેક્ટને સહાય કરો"
+  },
+  "hide": {
+    "message": "વિન્ડો છુપાવો"
+  },
+  "show": {
+    "message": "બતાવો વિન્ડો"
+  },
+  "reset_position": {
+    "message": "પોઝિશન ફરીથી સેટ કરો"
+  },
+  "search": {
+    "message": "શોધ"
+  },
+  "configure_search": {
+    "message": "શોધ વિકલ્પો રૂપરેખાંકિત કરો"
+  },
+  "selection_search": {
+    "message": "શોધ $1"
+  },
+  "menu_options": {
+    "message": "વિકલ્પો"
+  },
+  "menu_quick_options": {
+    "message": "ઝડપી વિકલ્પો"
+  },
+  "menu_visit_homepage": {
+    "message": "હોમપેજની મુલાકાત લો"
+  },
+  "menu_request_support": {
+    "message": "$1 માટે વિનંતી સપોર્ટ"
+  },
+  "show_introduction": {
+    "message": "પરિચય પૃષ્ઠ બતાવો"
+  },
+  "o_about_issues": {
+    "message": "અહેવાલોની જાણ કરો:"
+  },
+  "safari_store": {
+    "message": "મેક એપ સ્ટોર"
+  },
+  "firefox_store": {
+    "message": "ફાયરફોક્સ ઍડ-ઑન્સ"
+  },
+  "chrome_store": {
+    "message": "ક્રોમ વેબ સ્ટોર"
+  },
+  "movie_not_detected": {
+    "message": "મૂવી શોધી નથી"
+  },
+  "movie_not_detected_title": {
+    "message": "આ પૃષ્ઠ પર કોઈ મૂવી / ટીવી શ્રેણી મળી નથી."
+  },
+  "movie_not_found": {
+    "message": "મૂવી મળી નથી"
+  },
+  "movie_not_found_title": {
+    "message": "મૂવી માહિતી સર્વર પર મળી નથી."
+  },
+  "status_type_0": {
+    "message": "ચાલી રહેલું"
+  },
+  "status_type_1": {
+    "message": "સમાપ્ત"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "બતાવો ચાલુ રહેશે"
+  },
+  "status_type_title_1": {
+    "message": "બતાવો સમાપ્ત થયો છે - ત્યાં કોઈ વધુ મોસમની યોજના નથી"
+  },
+  "status_type_title_2": {
+    "message": "ભવિષ્ય બતાવે છે તે અસ્પષ્ટ છે"
+  },
+  "notify_movie_not_found": {
+    "message": "મૂવી મળી નથી: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "ફક્ત અંગ્રેજી મૂવી નામનો ઉપયોગ કરો!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "શોધ સંપૂર્ણ નથી ..."
+  },
+  "notify_video_hide": {
+    "message": "વિડિઓ શોધી કાઢ્યું - $app_name$ હવે છુપાયેલ છે"
+  },
+  "notify_video_hide_body": {
+    "message": "આ સૂચના ફરીથી બતાવવા માટે અહીં ક્લિક કરો"
+  },
+  "notify_new_episodes": {
+    "message": "નવી એપિસોડ પ્રસારિત કરવામાં આવી હતી"
+  },
+  "title_introduction": {
+    "message": "પરિચય"
+  },
+  "supported_pages": {
+    "message": "સપોર્ટેડ પૃષ્ઠો"
+  },
+  "supported_grows": {
+    "message": "(આ સૂચિ મોટી અને મોટી વધે છે)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "રેટિંગ્સ અને લોકપ્રિયતાની માહિતી $1$ થી છે. એપિસોડ્સ વિશેની માહિતી $2$ થી છે."
+  },
+  "title_got_it": {
+    "message": "તે મળી, ચાલો શરૂ કરીએ!"
+  },
+  "_description_privacy_policy": {
+    "message": "ગોપનીયતા નીતિ"
+  },
+  "_description_recent_features": {
+    "message": "તાજેતરમાં ઉમેરાયેલ લક્ષણો:"
+  },
+  "_description_known_issues": {
+    "message": "જાણીતા મુદ્દાઓ:"
+  },
+  "_description_common_tags": {
+    "message": "ટૅગ્સ:"
+  },
+  "_description_features": {
+    "message": "વિશેષતા:"
+  },
+  "about_me": {
+    "message": "હું 2016 થી એડન ડેવલપર છું. મારો ધ્યેય તમને વધુ ઉત્પાદક બનાવવા માટે તમારા વેબ-બ્રાઉઝર માટે શક્તિશાળી એક્સ્ટેન્શન્સ બનાવવાનું છે."
+  },
+  "about_good_job": {
+    "message": "જો તમને લાગે કે હું સારી નોકરી કરી રહ્યો છું, તો કૃપા કરીને દાન કરો :)"
+  },
+  "about_income": {
+    "message": "તમારો દાન મારી એકમાત્ર આવક છે!"
+  },
+  "about_thanks": {
+    "message": "મારા કામને ટેકો આપવા બદલ આભાર!"
+  },
+  "o_about_support_by_iban": {
+    "message": "ઇબાનનો ઉપયોગ કરીને બેંક ટ્રાન્સફર:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "આધાર સ્વતંત્ર વિકાસકર્તા!"
+  }
+}

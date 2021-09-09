@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "어디서나, 버튼, 커서, 드래그, 잡아, 끌기, 잡아, 끌기, 무한, 왼쪽, 중간, 운동량, 마우스, 이동, 페이지, 오른쪽, 스크롤, 스크롤 페이지, 스크롤 막대, 스크롤, 스크롤"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "페이지의 어느 곳에서나 가운데 마우스 버튼으로 스크롤 막대를 드래그하십시오. 또한 \"잡아서 드래그\"스타일을 지원합니다."
+  },
+  "field_int_default_value": {
+    "message": "기본값 : $1, min : $2, max : $3"
+  },
+  "field_set_default": {
+    "message": "기본값으로 재설정 : $1."
+  },
+  "thunderbird_store": {
+    "message": "썬더 버드 애드온"
+  },
+  "firefox_store": {
+    "message": "Firefox 부가 기능"
+  },
+  "chrome_store": {
+    "message": "크롬 웹 스토어"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "win_disable": {
+    "message": "$1에서 비활성화"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "$1에서 수평 스크롤을 비활성화합니다"
+  },
+  "op_visit_home": {
+    "message": "홈페이지를 방문하십시오"
+  },
+  "op_support_me": {
+    "message": "이 프로젝트에 도움이됩니다"
+  },
+  "o_title": {
+    "message": "옵션 - $1."
+  },
+  "o_tab_general": {
+    "message": "일반"
+  },
+  "o_tab_momentum": {
+    "message": "기세"
+  },
+  "o_tab_cursor": {
+    "message": "커서"
+  },
+  "o_axis_locking": {
+    "message": "축 잠금"
+  },
+  "o_tab_performance": {
+    "message": "공연"
+  },
+  "o_tab_disabled_on": {
+    "message": "장애인"
+  },
+  "o_tab_advanced": {
+    "message": "많은"
+  },
+  "o_tab_scrollbars": {
+    "message": "스크롤 막대"
+  },
+  "o_tab_backup": {
+    "message": "가져 오기 / 백업"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "한 축에서 스크롤 할 수있는 상자를 스크롤 할 때 상위 상자가 다른 축에서 스크롤 할 수 있으므로 다음을 사용하여 하나의 축으로 스크롤합니다."
+  },
+  "o_axis_lock_0": {
+    "message": "스마트 잠금 - 기세를 이용한 시간 잠금"
+  },
+  "o_axis_lock_1": {
+    "message": "엄격한 잠금 - 인스턴트 방향 잠금"
+  },
+  "o_axis_lock_2": {
+    "message": "두 축 모두에서 무료 스크롤이 없습니다"
+  },
+  "o_trend_momentum_window": {
+    "message": "스마트 잠금 스택 크기"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "큰 값은 스크롤 축을 변경하기 위해 반대쪽 축을 더 스크롤해야합니다."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon은 사용 중지됩니다! 사용하려면 여기를 클릭하십시오."
+  },
+  "o_cursor_change_default": {
+    "message": "변경 없음 - 최상의 성능"
+  },
+  "o_scroll_button": {
+    "message": "스크롤 버튼 :"
+  },
+  "o_direction_speed": {
+    "message": "스크롤 스타일 / 방향 / 속도 :"
+  },
+  "o_multiplier": {
+    "message": "승수"
+  },
+  "o_times_speed": {
+    "message": "시간 스크롤 속도"
+  },
+  "o_maximum_speed": {
+    "message": "최대 스크롤 속도 (0 - 사용 안 함) :"
+  },
+  "o_ratio_unit": {
+    "message": "비율 (페이지 길이 / 창 크기)"
+  },
+  "o_scroll_type_0": {
+    "message": "스크롤 막대를 에뮬레이트하십시오"
+  },
+  "o_scroll_type_1": {
+    "message": "잡아서 드래그 - 스마트 폰처럼"
+  },
+  "o_scroll_type_2": {
+    "message": "동적 속도 (실험적)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "스크롤 바를 드래그하는 것과 같습니다"
+  },
+  "o_scroll_type_title_1": {
+    "message": "전화 화면에서 손가락으로 페이지를 드래그하는 것과 같습니다."
+  },
+  "o_scroll_type_title_2": {
+    "message": "페이지가 길어지면 동적 속도가 스크롤 속도가 느려집니다."
+  },
+  "o_disable_key": {
+    "message": "키가 끊어지면 스크롤 사용 / 활성화 :"
+  },
+  "o_momentum_category": {
+    "message": "기세:"
+  },
+  "o_momentum_formula": {
+    "message": "모멘텀 수식 :"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "균일하게 감속 된 움직임"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "페이지 스크롤이 멈출 때까지 균일하게 느려질 것입니다."
+  },
+  "o_momentum_formula_type_1": {
+    "message": "기하 급수적으로 감속 된 움직임"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "페이지 스크롤이 빠르게 (기하 급수적으로) 속도가 빨라집니다"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "무한한 움직임 ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "스크롤은 결코 멈추지 않습니다"
+  },
+  "o_momentum_max_speed": {
+    "message": "최대 속도 (0 - 비활성화) :"
+  },
+  "o_page_weight": {
+    "message": "페이지 무게 :"
+  },
+  "o_grams": {
+    "message": "그램 :)"
+  },
+  "o_additional_speed": {
+    "message": "추가 속도 :"
+  },
+  "o_pixels_second": {
+    "message": "초당 픽셀"
+  },
+  "o_additional_duration": {
+    "message": "추가 기간 :"
+  },
+  "o_advanced_momentum": {
+    "message": "고급 모멘텀 설정 (전문가 전문가 만!) :"
+  },
+  "o_advanced_momentum_title": {
+    "message": "이 값을 변경하면 운동량이 깨질 수 있습니다!"
+  },
+  "o_compute_from_last": {
+    "message": "마지막으로 계산 :"
+  },
+  "o_mouse_stop_detection": {
+    "message": "마우스 멈춤 탐지 :"
+  },
+  "o_tracking_speed": {
+    "message": "추적 속도 :"
+  },
+  "o_reset_values": {
+    "message": "값 재설정"
+  },
+  "o_cursor_scrolling": {
+    "message": "스크롤 할 때 사용되는 커서 :"
+  },
+  "o_performance": {
+    "message": "공연:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "큰 점프를 방지하십시오"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "도구를 사용하는 도구를 사용하는 경우 화면에 커서를 텔레포트 할 수있는 경우 (에지에 도달 할 때) 연속 (무한) 스크롤을 허용하려면이 옵션을 활성화하십시오."
+  },
+  "o_advanced": {
+    "message": "많은:"
+  },
+  "o_movement_detection": {
+    "message": "마우스 이동 감지 임계 값 :"
+  },
+  "o_helper_text_move_detection": {
+    "message": "얼마나 많은 픽셀이 마우스를 마우스로 이동해야합니다. 때로는 스크롤 버튼을 누르면 마우스를 약간 움직이지 만 그 링크가 비활성화되지 않아도됩니다."
+  },
+  "o_context_menu_block": {
+    "message": "컨텍스트 메뉴 블록 :"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "상황에 맞는 메뉴 지연 차단 해제"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "마우스 오른쪽 버튼으로 스크롤 한 후 컨텍스트 메뉴가 표시되면이 값을 늘리십시오."
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "도메인에서 가로 스크롤 사용 안 함 :"
+  },
+  "o_is_disabled_domains": {
+    "message": "도메인에서 사용 중지됨 :"
+  },
+  "o_is_disabled_url": {
+    "message": "페이지 / 하위 페이지에서 사용 중지됨 :"
+  },
+  "o_is_disabled_url_help": {
+    "message": "별 기호 (*)를 사용하여 URL 부분을 정의 할 수 있습니다 (예 : \"google.com/Maps)\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "한 줄에 하나의 도메인을 입력하십시오."
+  },
+  "o_is_disabled": {
+    "message": "추가 기능을 비활성화하십시오"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "도구 모음 아이콘을 기본 ON / OFF 스위치로 사용하십시오."
+  },
+  "o_scroll_button_middle": {
+    "message": "가운데 버튼"
+  },
+  "o_scroll_button_right": {
+    "message": "오른쪽 버튼"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Mac 사용자 - \"브라우저 설정 읽기 및 수정\"을 묻는 메시지가 표시됩니다. 스크롤하기 전에 컨텍스트 메뉴를 표시하지 않도록해야합니다!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac 사용자 - 컨텍스트 메뉴가 차단됩니다! 상황에 맞는 메뉴를 열려면 \"Shift\"키 또는 트리플 클릭 오른쪽 버튼을 누릅니다."
+  },
+  "o_scroll_button_left": {
+    "message": "왼쪽 버튼 (실험적)"
+  },
+  "o_scroll_on_links": {
+    "message": "링크에서 스크롤하십시오"
+  },
+  "o_scroll_on_links_title": {
+    "message": "활성화되면 링크를 드래그 앤 드롭 할 수 없을 것입니다 ( '비활성화'키를 사용 하여만 사용하십시오)"
+  },
+  "o_scroll_on_text": {
+    "message": "텍스트 스크롤하십시오"
+  },
+  "o_scroll_on_text_title": {
+    "message": "전화 스크롤 / 편집 전화 - \"편집 모드\"로 전환하려면 텍스트를 클릭해야합니다. 텍스트 외부를 클릭하면 스크롤이 다시 스크롤 할 수 있습니다."
+  },
+  "o_scroll_on_textarea": {
+    "message": "TextArea에서 스크롤하십시오"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "TextArea는 텍스트 블록이며 일반적으로 크기가 조정할 수 없습니다. 예를 들어 \"Disabled on\"탭에서 TextArea를 볼 수 있습니다."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "편집 가능한 HTML로 스크롤하십시오"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "예를 들어 Gmail의 전자 메일 본문은 편집 가능한 HTML입니다."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "텍스트에서 텍스트를 선택 / 편집 할 수 있습니다."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "텍스트를 클릭하면 \"편집 모드\"가 활성화됩니다. 외부 텍스트를 클릭하여 \"스크롤 모드\"를 활성화하십시오."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "한 번의 클릭"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "더블 클릭"
+  },
+  "o_scrollbars_width": {
+    "message": "스크롤 막대보기"
+  },
+  "o_scrollbars_width_0": {
+    "message": "정상 (변경 없음)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "얇은"
+  },
+  "o_scrollbars_width_2": {
+    "message": "숨겨진"
+  },
+  "o_scrollbars_color": {
+    "message": "스크롤 바 슬라이더 색상 :"
+  },
+  "o_scrollbars_background": {
+    "message": "스크롤바 배경 색상 :"
+  },
+  "o_reverse": {
+    "message": "역방향 스크롤 방향"
+  },
+  "o_disable_alt": {
+    "message": "Alt."
+  },
+  "o_disable_shift": {
+    "message": "시프트"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl."
+  },
+  "o_disable_type_0": {
+    "message": "키가 꺼지면 사용 안 함) :"
+  },
+  "o_disable_type_1": {
+    "message": "키가 꺼지면 활성화 :"
+  },
+  "o_momentum": {
+    "message": "모멘텀 활성화 - 페이지를 \"던지십시오\"할 수 있습니다 (전화처럼)."
+  },
+  "o_no_css_edit": {
+    "message": "Iframe을 잠그고 스크롤 할 때 커서를 변경하지 마십시오"
+  },
+  "o_no_prevent_default": {
+    "message": "기본 버튼 조치를 차단하지 마십시오"
+  },
+  "o_auto_link_lock": {
+    "message": "링크 차단 :"
+  },
+  "o_no_link_block": {
+    "message": "이동 후 링크를 클릭하십시오"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "링크에서 스크롤을 시작한 다음 동일한 링크에서 스크롤을 완료하면 브라우저가 링크가 열립니다. 이것은 일반적으로 원하는 동작이 아닙니다. 기본적으로 차단됩니다."
+  },
+  "o_page_weight_title": {
+    "message": "이것은 페이지가 어떻게 '무겁다'는 것을 제어합니다. 무거운 페이지는 더 긴 기세가 있습니다."
+  },
+  "o_additional_speed_title": {
+    "message": "속도를 가속화 할 수 있습니다."
+  },
+  "o_additional_duration_title": {
+    "message": "각 운동량을위한 추가 시간."
+  },
+  "o_compute_from_last_title": {
+    "message": "Momentum 초기 속도는 스크롤 버튼을 놓기 전에 스크롤 속도로 결정됩니다."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "스크롤 버튼을 릴리스하기 전에 마우스 스테이를 유지하기 전에 마우스를 얼마나 많이해야합니까?"
+  },
+  "o_tracking_speed_title": {
+    "message": "현재 스크롤 속도 측정 간격."
+  },
+  "o_scrolling_area": {
+    "message": "스크롤 영역 :"
+  },
+  "o_outside_area_width": {
+    "message": "스크롤 영역 (0 - 비활성화) :"
+  },
+  "o_outside_area_width_helper": {
+    "message": "스크롤 영역 외부에서 커서를 이동하면 스크롤 위치가 되돌아갑니다. 스크롤 막대를 드래그 할 때 동일한 동작을 볼 수 있습니다."
+  },
+  "o_scroll_button_left_title": {
+    "message": "경고 - 왼쪽 버튼 지원은 향후 버전의 Firefox에서 제거 할 수있는 더 이상 사용되지 않는 Firefox API를 사용하고 있습니다."
+  },
+  "o_prevent_text_selection": {
+    "message": "왼쪽 버튼으로 스크롤 할 때 텍스트 선택을 방지하십시오"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "일부 장치에서 마우스 왼쪽 버튼으로 스크롤하면 페이지에서 텍스트가 선택됩니다."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "스크롤 할 수없는 페이지를 스크롤하려고 할 때 컨텍스트 메뉴를 차단하지 마십시오."
+  },
+  "o_backup_restore": {
+    "message": "백업 / 복원 설정 파일 :"
+  },
+  "o_export_settings": {
+    "message": "설정을 파일로 내보내십시오"
+  },
+  "import_settings_button": {
+    "message": "$1 파일에서 설정 가져 오기 ..."
+  },
+  "import_finished": {
+    "message": "가져 오기 완료!"
+  },
+  "test_page_title": {
+    "message": "여기에서 스크롤 설정을 테스트하십시오"
+  },
+  "menu_options": {
+    "message": "옵션"
+  },
+  "menu_visit_title": {
+    "message": "홈페이지를 방문하십시오"
+  },
+  "not_working": {
+    "message": "웹 브라우저에서 사용 중지되었습니다"
+  },
+  "disabled_by_user": {
+    "message": "이 도메인에서 사용 중지되었습니다"
+  },
+  "not_working_title": {
+    "message": "브라우저는 이러한 유형의 페이지에서 스크롤을 차단합니다."
+  },
+  "not_working_body": {
+    "message": "\"mozilla.org\"페이지에서 스크롤을 사용하려면이 YouTube 자습서를 참조하십시오."
+  },
+  "show_scrollbars": {
+    "message": "스크롤 막대 표시"
+  },
+  "show_scrollbars_title": {
+    "message": "일시적으로 스크롤 막대를 보여줍니다"
+  },
+  "switch_on_off": {
+    "message": "스위치 애드온 오프 / 켜짐"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "스크롤 버튼을 누르고 스크롤을 시작할 때 눈에 띄는 지연이 발생하면이 옵션을 사용하도록 설정하십시오. 그러나 일부 오래된 임베디드 비디오 또는 일부 광고와 같은 \"iframe\"을 스크롤 할 수 없습니다."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "이렇게하면 스크롤하는 동안 커서를 변경하는 옵션이 비활성화됩니다."
+  },
+  "o_helper_text_default_action": {
+    "message": "Linux에서는 중간 버튼으로 붙여 넣기를 활성화합니다."
+  },
+  "o_about_hello": {
+    "message": "안녕하세요 :)"
+  },
+  "o_about_intro": {
+    "message": "내 이름은 $1$이고 $app_name$의 저자입니다."
+  },
+  "o_about_like_it": {
+    "message": "당신이 그것을 좋아한다면, 그것을 평가하십시오."
+  },
+  "o_about_dislike_it": {
+    "message": "당신이 그것을 좋아하지 않는다면, 이메일을 보내주십시오. 나는 내가받는 대부분의 기능을 구현하고 있습니다."
+  },
+  "o_disabled": {
+    "message": "장애인",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "활성화",
+    "common": true
+  },
+  "o_times": {
+    "message": "타임스",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "픽셀",
+    "common": true
+  },
+  "o_items": {
+    "message": "항목",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "밀리 초",
+    "common": true
+  },
+  "label_working": {
+    "message": "일...",
+    "common": true
+  },
+  "label_close": {
+    "message": "닫기",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "제 일을 지원하는 것을 고려하십시오",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "기부 (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "내 후원자가되기",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "감사합니다!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "집:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "접촉:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "보고서 문제 :",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "나는 영어 / 슬로바키아에서만 회신 할 수 있습니다",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "소셜 미디어:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "변경 사항을 저장하고 닫습니다",
+    "common": true
+  },
+  "o_saved": {
+    "message": "저장!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "곧 제공합니다",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "변경 사항을 저장하다",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "개인 정보 정책",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "최근 추가 된 기능 :",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "태그 :",
+    "common": true
+  }
+}

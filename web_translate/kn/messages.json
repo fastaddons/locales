@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "ಆಯ್ದ ಪಠ್ಯವನ್ನು ಭಾಷಾಂತರಿಸಿ (ಸನ್ನಿವೇಶ ಮೆನುವಿನಿಂದ)"
+  },
+  "_description_feature_2": {
+    "message": "ಇಡೀ ಪುಟ ಅನುವಾದ"
+  },
+  "_description_feature_3": {
+    "message": "ಡಾರ್ಕ್ ಮೋಡ್!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, bing, ಡಾರ್ಕ್, ಇಮೇಲ್, ಗೂಗಲ್, ಲ್ಯಾಂಗ್, ಭಾಷೆ, ಮೈಕ್ರೋಸಾಫ್ಟ್, ಪುಟ, preeklad, prekladač, s3, ಆಯ್ಕೆ, ಪಠ್ಯ, transetur, ಅನುವಾದ, ಅನುವಾದಕ, überetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ ನಿಮ್ಮ ವೆಬ್ ಬ್ರೌಸರ್ / ಥಂಡರ್ಬರ್ಡ್ಗಾಗಿ ಭಾಷಾಂತರಕಾರನನ್ನು ಬಳಸಲು ಸುಲಭವಾಗಿದೆ!"
+  },
+  "o_tab_translate": {
+    "message": "ಅನುವಾದಿಸು"
+  },
+  "_description_supported_translators": {
+    "message": "ಬೆಂಬಲಿತ ಅನುವಾದ ಪೂರೈಕೆದಾರರು:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "ಮೋಡಲ್ ವಿಂಡೋ"
+  },
+  "open_in_1": {
+    "message": "ಪಾಪ್ಅಪ್ ವಿಂಡೋ"
+  },
+  "open_in_2": {
+    "message": "ಹೊಸ ಟ್ಯಾಬ್"
+  },
+  "open_in_3": {
+    "message": "ಹೊಸ ವಿಂಡೋ"
+  },
+  "open_in_4": {
+    "message": "ಹೊಸ ಟ್ಯಾಬ್ (ಕಂಟೇನರ್ ಇಲ್ಲದೆ)"
+  },
+  "modal_window": {
+    "message": "ಮೋಡಲ್ ವಿಂಡೋ"
+  },
+  "toolbar_icon_action": {
+    "message": "ಟೂಲ್ಬಾರ್ ಐಕಾನ್ ಆಕ್ಷನ್"
+  },
+  "toolbar_icon_text": {
+    "message": "ಟೂಲ್ಬಾರ್ ಐಕಾನ್ ಪಠ್ಯ"
+  },
+  "sidebar_size": {
+    "message": "ಪಾರ್ಶ್ವಪಟ್ಟಿ ಗಾತ್ರ"
+  },
+  "translation_provider": {
+    "message": "ಅನುವಾದ ಒದಗಿಸುವವರು"
+  },
+  "translate_to": {
+    "message": "ಗೆ ಭಾಷಾಂತರಿಸಿ:"
+  },
+  "no_overlay": {
+    "message": "ಓವರ್ಲೇ ಇಲ್ಲ (ಸುಮಾರು ಡಾರ್ಕ್ ಪ್ರದೇಶ)"
+  },
+  "no_overlay_hint": {
+    "message": "ನೀವು ಹೊರಗೆ ಕ್ಲಿಕ್ ಮಾಡಿದರೂ ಸಹ ಮೋಡಲ್ ವಿಂಡೋ ತೆರೆದಿರುತ್ತದೆ."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "ಅನುವಾದವನ್ನು ತೆರೆಯಿರಿ:"
+  },
+  "fallback_1": {
+    "message": "ಫಾಲ್ಬ್ಯಾಕ್ ವಿಧಾನ"
+  },
+  "fallback_2": {
+    "message": "ಫಾಲ್ಬ್ಯಾಕ್ ವಿಧಾನ"
+  },
+  "fallback_title": {
+    "message": "ಮೋಡಲ್ ವಿಂಡೋ ಮತ್ತು ಪಾಪ್ಅಪ್ ವಿಂಡೋವನ್ನು ಕೆಲವು ಸಂದರ್ಭಗಳಲ್ಲಿ ಬಳಸಲಾಗುವುದಿಲ್ಲ."
+  },
+  "open_in_tab": {
+    "message": "ಹೊಸ ಟ್ಯಾಬ್ನಲ್ಲಿ ತೆರೆಯಿರಿ"
+  },
+  "translate_this_page": {
+    "message": "ಈ ಪುಟವನ್ನು ಭಾಷಾಂತರಿಸಿ"
+  },
+  "selection_translate": {
+    "message": "ಭಾಷಾಂತರಿಸಿ \"$1\""
+  },
+  "page_translate": {
+    "message": "ಭಾಷಾಂತರ ಪುಟ"
+  },
+  "selected_text": {
+    "message": "ಆಯ್ದ ಪಠ್ಯ"
+  },
+  "disable_context_menu": {
+    "message": "ಸನ್ನಿವೇಶ ಮೆನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ: $1"
+  },
+  "import_finished": {
+    "message": "ಆಮದು ಮುಗಿದಿದೆ!"
+  },
+  "import_error": {
+    "message": "ದೋಷ"
+  },
+  "import_backup_file": {
+    "message": "ಬ್ಯಾಕ್ಅಪ್ ಫೈಲ್ ಅನ್ನು ಆಮದು ಮಾಡಿ $1"
+  },
+  "search_search": {
+    "message": "ಹುಡುಕಿ Kannada"
+  },
+  "homepage": {
+    "message": "ಮುಖಪುಟ"
+  },
+  "addon_page": {
+    "message": "Addon ಪುಟ"
+  },
+  "safari_store": {
+    "message": "ಮ್ಯಾಕ್ ಆಪ್ ಸ್ಟೋರ್"
+  },
+  "chrome_store": {
+    "message": "ಕ್ರೋಮ್ ವೆಬ್ ಅಂಗಡಿ"
+  },
+  "firefox_store": {
+    "message": "ಫೈರ್ಫಾಕ್ಸ್ ಆಡ್-ಆನ್ಗಳು"
+  },
+  "thunderbird_store": {
+    "message": "ಥಂಡರ್ಬರ್ಡ್ ಆಡ್-ಆನ್ಗಳು"
+  },
+  "label_font_size": {
+    "message": "ಅಕ್ಷರ ಗಾತ್ರ"
+  },
+  "label_next": {
+    "message": "ಮುಂದಿನ"
+  },
+  "label_note": {
+    "message": "ಸೂಚನೆ:"
+  },
+  "label_remove": {
+    "message": "ತೆಗೆದುಹಾಕಿ"
+  },
+  "label_warning": {
+    "message": "ಎಚ್ಚರಿಕೆ:"
+  },
+  "label_default": {
+    "message": "ಡೀಫಾಲ್ಟ್:"
+  },
+  "label_done": {
+    "message": "ಮುಗಿದಿದೆ!"
+  },
+  "label_copied": {
+    "message": "ನಕಲಿಸಲಾಗಿದೆ!"
+  },
+  "label_close": {
+    "message": "ಮುಚ್ಚು"
+  },
+  "label_open_page": {
+    "message": "ತೆರೆದ ಪುಟ"
+  },
+  "label_agree": {
+    "message": "ಒಪ್ಪು"
+  },
+  "label_cancel": {
+    "message": "ರದ್ದುಮಾಡು"
+  },
+  "op_support_me": {
+    "message": "ಈ ಯೋಜನೆಗೆ ಸಹಾಯ ಮಾಡಿ"
+  },
+  "support_developer": {
+    "message": "ಸ್ವತಂತ್ರ ಡೆವಲಪರ್ ಬೆಂಬಲ!"
+  },
+  "hello_there": {
+    "message": "ಅಲ್ಲಿ ಹಲೋ!"
+  },
+  "about_me": {
+    "message": "ನಾನು 2016 ರಿಂದ Addon ಡೆವಲಪರ್ ಆಗಿದ್ದೇನೆ. ನಿಮ್ಮ ವೆಬ್ ಬ್ರೌಸರ್ಗಾಗಿ ಪ್ರಬಲ ವಿಸ್ತರಣೆಗಳನ್ನು ನಿರ್ಮಿಸುವುದು ನನ್ನ ಗುರಿಯಾಗಿದೆ."
+  },
+  "about_good_job": {
+    "message": "ನಾನು ಒಳ್ಳೆಯ ಕೆಲಸವನ್ನು ಮಾಡುತ್ತಿದ್ದೇನೆ ಎಂದು ನೀವು ಭಾವಿಸಿದರೆ, ದಯವಿಟ್ಟು ದಾನ :)"
+  },
+  "about_income": {
+    "message": "ನಿಮ್ಮ ಕೊಡುಗೆ ನನ್ನ ಏಕೈಕ ಆದಾಯ!"
+  },
+  "about_thanks": {
+    "message": "ನನ್ನ ಕೆಲಸವನ್ನು ಬೆಂಬಲಿಸಿದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು!"
+  },
+  "o_tab_context_menu": {
+    "message": "ಸನ್ನಿವೇಶ ಮೆನು"
+  },
+  "o_tab_about": {
+    "message": "ಬಗ್ಗೆ"
+  },
+  "o_tab_settings": {
+    "message": "ಸಂಯೋಜನೆಗಳು"
+  },
+  "o_pixels": {
+    "message": "ಪಿಕ್ಸೆಲ್ಗಳು"
+  },
+  "o_seconds": {
+    "message": "ಸೆಕೆಂಡುಗಳು"
+  },
+  "label_or": {
+    "message": "ಅಥವಾ"
+  },
+  "o_about_hello": {
+    "message": "ಹಲೋ :)"
+  },
+  "o_about_intro": {
+    "message": "ನನ್ನ ಹೆಸರು $1$ ಮತ್ತು ನಾನು $app_name$ ನ ಲೇಖಕ."
+  },
+  "o_about_like_it": {
+    "message": "ನಿಮಗೆ ಇಷ್ಟವಾದಲ್ಲಿ, ದಯವಿಟ್ಟು ಇಲ್ಲಿ ರೇಟ್ ಮಾಡಿ:"
+  },
+  "o_about_thanks": {
+    "message": "ಧನ್ಯವಾದಗಳು!"
+  },
+  "o_about_contact": {
+    "message": "ಸಂಪರ್ಕಿಸಿ:"
+  },
+  "o_about_issues": {
+    "message": "ವರದಿ ಸಮಸ್ಯೆಗಳನ್ನು ವರದಿ ಮಾಡಿ:"
+  },
+  "o_about_social_media": {
+    "message": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ:"
+  },
+  "o_about_support_by_iban": {
+    "message": "ಬ್ಯಾಂಕ್ ವರ್ಗಾವಣೆ ಐಬಿಎಎನ್ ಬಳಸಿ:"
+  },
+  "ps_no_results": {
+    "message": "ಯಾವುದೇ ಹೊಂದಾಣಿಕೆಯ ಫಲಿತಾಂಶಗಳಿಲ್ಲ"
+  },
+  "label_no_data": {
+    "message": "ಮಾಹಿತಿ ಇಲ್ಲ"
+  },
+  "dark_mode": {
+    "message": "ಡಾರ್ಕ್ ಮೋಡ್"
+  },
+  "dark_mode_system": {
+    "message": "ವ್ಯವಸ್ಥೆಯಿಂದ ನಿಯಂತ್ರಿಸಲ್ಪಡುತ್ತದೆ"
+  },
+  "_description_features": {
+    "message": "ವೈಶಿಷ್ಟ್ಯಗಳು:"
+  },
+  "_description_why": {
+    "message": "ಏಕೆ?"
+  },
+  "_description_privacy_policy": {
+    "message": "ಗೌಪ್ಯತಾ ನೀತಿ"
+  },
+  "_description_recent_features": {
+    "message": "ಇತ್ತೀಚೆಗೆ ಸೇರಿಸಲಾಗಿದೆ ವೈಶಿಷ್ಟ್ಯಗಳು:"
+  },
+  "_description_common_tags": {
+    "message": "ಟ್ಯಾಗ್ಗಳು:"
+  },
+  "_description_also_for_firefox": {
+    "message": "ನಿಮ್ಮ ಫೈರ್ಫಾಕ್ಸ್ಗೆ ಸಹ ಲಭ್ಯವಿದೆ:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "ನಿಮ್ಮ ಥಂಡರ್ಬರ್ಡ್ಗೆ ಸಹ ಲಭ್ಯವಿದೆ:"
+  }
+}

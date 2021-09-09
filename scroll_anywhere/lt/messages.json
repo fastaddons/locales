@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "bet kur, mygtukas, žymeklis, vilkite, patraukti, patraukti vilkite, patraukti ir vilkite, begalinį, kairę, vidurinį, impulsą, pelę, judėti, puslapį, dešinę, slinkti, slinkti puslapį, slinkties juostą, slinkimą, mesti"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Vilkite slinkties klavišą su savo viduriniu pelės mygtuku bet kurioje puslapio vietoje. Palaiko taip pat \"patraukti ir vilkite\" stilių."
+  },
+  "field_int_default_value": {
+    "message": "Numatytoji reikšmė: $1, min: $2, Max: $3"
+  },
+  "field_set_default": {
+    "message": "Atstatyti pagal nutylėjimą: $1"
+  },
+  "thunderbird_store": {
+    "message": "\"Thunderbird\" priedai"
+  },
+  "firefox_store": {
+    "message": "\"Firefox\" priedai"
+  },
+  "chrome_store": {
+    "message": "\"Chrome\" internetinė parduotuvė"
+  },
+  "safari_store": {
+    "message": "\"Mac App Store\""
+  },
+  "win_disable": {
+    "message": "Išjungti $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Išjunkite horizontalų slinkimą $1"
+  },
+  "op_visit_home": {
+    "message": "Apsilankykite pagrindiniame puslapyje"
+  },
+  "op_support_me": {
+    "message": "Padėti šiam projektui"
+  },
+  "o_title": {
+    "message": "Parinktys - $1."
+  },
+  "o_tab_general": {
+    "message": "Apskritai. \\ T"
+  },
+  "o_tab_momentum": {
+    "message": "Momentu"
+  },
+  "o_tab_cursor": {
+    "message": "Žymeklis"
+  },
+  "o_axis_locking": {
+    "message": "Ašies užrakinimas"
+  },
+  "o_tab_performance": {
+    "message": "Spektaklis"
+  },
+  "o_tab_disabled_on": {
+    "message": "Išjungta"
+  },
+  "o_tab_advanced": {
+    "message": "Išplėstinė. \\ T"
+  },
+  "o_tab_scrollbars": {
+    "message": "Slinkties juostos"
+  },
+  "o_tab_backup": {
+    "message": "Import / Backup."
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Kai slinkite langelį, kuris yra slinkti į vieną ašį, bet tėvų dėžutė yra slinkti į kitą ašį, užrakinti slinkimas į vieną ašį naudojant:"
+  },
+  "o_axis_lock_0": {
+    "message": "\"Smart Lock\" - laikinas užraktas naudojant pagreitį"
+  },
+  "o_axis_lock_1": {
+    "message": "Stiprus užraktas - tiesioginė krypties užraktas"
+  },
+  "o_axis_lock_2": {
+    "message": "Nėra užrakto - nemokamai slinkimas abiejose ašies"
+  },
+  "o_trend_momentum_window": {
+    "message": "\"Smart Lock\" kamino dydis"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Didesnė vertė reikalauja daugiau slinkimo priešingoje ašyje, kad pakeistumėte slinkimo ašį."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon yra išjungtas! Spustelėkite čia, kad įjungtumėte."
+  },
+  "o_cursor_change_default": {
+    "message": "jokių pakeitimų - geriausio našumo"
+  },
+  "o_scroll_button": {
+    "message": "Slinkite mygtuką:"
+  },
+  "o_direction_speed": {
+    "message": "Slinkties stilius / kryptis / greitis:"
+  },
+  "o_multiplier": {
+    "message": "Daugiklis"
+  },
+  "o_times_speed": {
+    "message": "\"Times Slinkite greičiu"
+  },
+  "o_maximum_speed": {
+    "message": "Maksimalus slinkties greitis (0 - neįgalus):"
+  },
+  "o_ratio_unit": {
+    "message": "santykis (puslapio ilgis / lango dydis)"
+  },
+  "o_scroll_type_0": {
+    "message": "Imate slinkties juostą"
+  },
+  "o_scroll_type_1": {
+    "message": "Patraukti ir vilkite - kaip išmanųjį telefoną"
+  },
+  "o_scroll_type_2": {
+    "message": "Dinaminis greitis (eksperimentinis)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Tai tarsi vilkimas slinkties juostos"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Tai tarsi vilkdami puslapį su pirštu ant telefono ekrane"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Dinaminis greitis leidžia slinkties greitį lėčiau, kai puslapis yra ilgesnis"
+  },
+  "o_disable_key": {
+    "message": "Išjunkite / įjungti slinkimą, kai klavišas yra žemyn:"
+  },
+  "o_momentum_category": {
+    "message": "Momentu:"
+  },
+  "o_momentum_formula": {
+    "message": "Momentum formulė:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Vienodai sulėtėjęs judėjimas"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Puslapio slinkimas bus vienodai sulėtęs, kol jis sustos"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Eksponentiškai sulėtėjęs judėjimas"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Puslapio slinkimas greitai (eksponentiškai) sulėtins"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Begalinis judėjimas ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Slinkimas niekada nesibaigs"
+  },
+  "o_momentum_max_speed": {
+    "message": "Maksimalus greitis (0 - neįgalus):"
+  },
+  "o_page_weight": {
+    "message": "Puslapio svoris:"
+  },
+  "o_grams": {
+    "message": "gramai :)"
+  },
+  "o_additional_speed": {
+    "message": "Papildomas greitis:"
+  },
+  "o_pixels_second": {
+    "message": "pikseliai per sekundę"
+  },
+  "o_additional_duration": {
+    "message": "Papildoma trukmė:"
+  },
+  "o_advanced_momentum": {
+    "message": "Išplėstinė pagreičio sąranka (tik ekspertams!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Šių verčių keitimas gali sulaužyti jūsų pagreitį!"
+  },
+  "o_compute_from_last": {
+    "message": "Apskaičiuoti nuo paskutinio:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Pelės sustabdymo aptikimas:"
+  },
+  "o_tracking_speed": {
+    "message": "Stebėjimo greitis:"
+  },
+  "o_reset_values": {
+    "message": "Atstatyti reikšmes"
+  },
+  "o_cursor_scrolling": {
+    "message": "Žymeklis, naudojamas slinkdami:"
+  },
+  "o_performance": {
+    "message": "Spektaklis:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Užkirsti kelią dideliems šuoliams"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Jei naudojate įrankį, kuris gali teleportuoti savo žymeklį per ekraną (kai pasieksite kraštą), įjunkite šią parinktį, kad galėtumėte nuolat (begaliniai) slinkimui."
+  },
+  "o_advanced": {
+    "message": "Išplėstinė:"
+  },
+  "o_movement_detection": {
+    "message": "Pelės judėjimo aptikimo slenkstis:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Kiek pikselių turi į pelės pereiti į blokų nuorodą. Kartais paspaudus slinkties mygtuką, šiek tiek perkeliate pelę, bet nenorite, kad nuoroda būtų išjungta dėl to."
+  },
+  "o_context_menu_block": {
+    "message": "Konteksto meniu blokas:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Atblokuoti kontekstinį meniu vėlavimą"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Jei pamatysite kontekstinį meniu po slinkimo su dešiniuoju pelės mygtuku, padidinkite šią vertę"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Išjunkite horizontalų slinkimą nuo domenų:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Išjungta domenuose:"
+  },
+  "o_is_disabled_url": {
+    "message": "Išjungta puslapiuose / papunkčiuose:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Galite naudoti žvaigždės simbolį (*), kad nustatytumėte URL dalį, pavyzdžiui: \"Google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Įveskite vieną domeną vienai eilutei."
+  },
+  "o_is_disabled": {
+    "message": "Išjungti priedą"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Naudokite įrankių juostos piktogramą kaip pagrindinį įjungimo / išjungimo jungiklį"
+  },
+  "o_scroll_button_middle": {
+    "message": "Vidutinis mygtukas"
+  },
+  "o_scroll_button_right": {
+    "message": "Dešiniuoju mygtuku"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "\"Linux\" / \"Mac\" naudotojai - būsite paraginti naujų leidimų \"skaityti ir keisti naršyklės nustatymą\" - tai reikalinga konteksto meniu bus rodoma prieš slinkimą!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "\"Linux\" / \"Mac\" naudotojai - jūsų konteksto meniu bus užblokuotas! Norėdami atidaryti kontekstinį meniu Laikykite \"Shift\" klavišą arba trigubą spustelėkite dešinįjį mygtuką."
+  },
+  "o_scroll_button_left": {
+    "message": "Kairysis mygtukas (eksperimentinis)"
+  },
+  "o_scroll_on_links": {
+    "message": "Slinkite ant nuorodų"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Kai įjungta, negalėsite vilkti ir nuleisti nuorodas (tik naudojant \"išjungti\" klavišą)"
+  },
+  "o_scroll_on_text": {
+    "message": "Slinkite ant teksto"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emuliuoja telefono slinkimas / redagavimas - turite spustelėti ant teksto, kad pereitumėte į \"redagavimo režimą\". Spustelėję teksto ribų leidžia vėl slinkti."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Slinkite į textarea."
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "TEXTAREA yra teksto blokas, paprastai keičiamas. Pavyzdžiui, \"Išjungta\" skirtuke galite matyti tekstą."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Slinkite į redaguojamą HTML"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Pavyzdžiui, \"Gmail\" el. Pašto korpusas yra redaguojamas HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "tekste leis pasirinkti / redaguoti tekstą."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Spustelėkite ant teksto leis \"Redaguoti režimas\". Jei norite įjungti \"slinkties režimą\", spustelėkite lauko tekstą."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Vienas paspaudimas"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Dukart spustelėkite"
+  },
+  "o_scrollbars_width": {
+    "message": "Slinkties juostos atrodo"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normalus (nėra pokyčių)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Plonas"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Paslėpta"
+  },
+  "o_scrollbars_color": {
+    "message": "Slinkties juostos slankiklio spalva:"
+  },
+  "o_scrollbars_background": {
+    "message": "SlinypsBar fono spalva:"
+  },
+  "o_reverse": {
+    "message": "Atvirkštinio slinkties kryptis"
+  },
+  "o_disable_alt": {
+    "message": "Alt."
+  },
+  "o_disable_shift": {
+    "message": "SHIFT."
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl."
+  },
+  "o_disable_type_0": {
+    "message": "Išjunkite, kai raktas yra žemyn:"
+  },
+  "o_disable_type_1": {
+    "message": "Įgalinti, kai klavišas yra žemyn:"
+  },
+  "o_momentum": {
+    "message": "įgalinti pagreitį - galite \"mesti\" puslapį (pvz., telefonu)"
+  },
+  "o_no_css_edit": {
+    "message": "Negalima užrakinti iframes ir nesikeiskite žymeklio"
+  },
+  "o_no_prevent_default": {
+    "message": "Negalima užblokuoti numatytojo mygtuko veiksmo"
+  },
+  "o_auto_link_lock": {
+    "message": "Nuorodos blokavimas:"
+  },
+  "o_no_link_block": {
+    "message": "Negalima užblokuoti pelės paspaudimų spustelėkite nuorodą po judėjimo"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Kai pradėsite slinkti ant nuorodos ir tada baigsite slinkimą toje pačioje nuorodoje, naršyklė atidarys nuorodą. Paprastai tai nėra norima elgesio, todėl pagal nutylėjimą jis užblokuotas."
+  },
+  "o_page_weight_title": {
+    "message": "Tai kontroliuoja, kaip \"sunkus\" puslapis yra. Sunkesni puslapiai turi ilgesnį pagreitį."
+  },
+  "o_additional_speed_title": {
+    "message": "Galite paspartinti pagreitį."
+  },
+  "o_additional_duration_title": {
+    "message": "Papildomas laikas už kiekvieną pagreitį."
+  },
+  "o_compute_from_last_title": {
+    "message": "\"Momentum\" pradinis greitis nustatomas pagal slinkimo dešinės greitį prieš išleidžiant slinkties mygtuką."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Kiek laiko turi būti pelė, vis dar yra - prieš atleidžiant slinkties mygtuką - neaktyvinti pagreitį."
+  },
+  "o_tracking_speed_title": {
+    "message": "Dabartinio slinkties greičio matavimo intervalas."
+  },
+  "o_scrolling_area": {
+    "message": "Slinkimo sritis:"
+  },
+  "o_outside_area_width": {
+    "message": "Slinkimo sritis (0 - neįgalieji):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Perkeliant žymeklį už slinkties srities, bus sugrąžinti slinkimo padėtį. Tas pats elgesys gali būti vertinamas, kai vilkdami slinkties juostą."
+  },
+  "o_scroll_button_left_title": {
+    "message": "Įspėjimas - kairiojo mygtuko palaikymas naudoja nusidėvėjusią \"Firefox API\", kuri gali būti pašalinta būsimose \"Firefox\" versijose."
+  },
+  "o_prevent_text_selection": {
+    "message": "Užkirsti kelią teksto pasirinkimui, kai slinkite su kairįjį mygtuku"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Kai kuriuose įrenginiuose slinkimas su kairįjį pelės mygtuku taip pat pasirinkite tekstą puslapyje."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Negalima užblokuoti kontekstinio meniu, kai bandote slinkti ne-slinkti puslapį"
+  },
+  "o_backup_restore": {
+    "message": "Atsarginės / atkūrimo nustatymai į failą:"
+  },
+  "o_export_settings": {
+    "message": "Eksportuoti nustatymus į failą"
+  },
+  "import_settings_button": {
+    "message": "Importuoti nustatymus iš $1 failo ..."
+  },
+  "import_finished": {
+    "message": "Importas baigtas!"
+  },
+  "test_page_title": {
+    "message": "Išbandykite savo slinkimo nustatymus čia"
+  },
+  "menu_options": {
+    "message": "Galimybės"
+  },
+  "menu_visit_title": {
+    "message": "Apsilankykite pagrindiniame puslapyje"
+  },
+  "not_working": {
+    "message": "Išjungta jūsų naršyklė"
+  },
+  "disabled_by_user": {
+    "message": "Išjungta šioje srityje"
+  },
+  "not_working_title": {
+    "message": "Jūsų naršyklė užfiksuos slintany vietą šių puslapių tipo:"
+  },
+  "not_working_body": {
+    "message": "Norėdami įjungti slintany vietą \"Mozilla.org\" puslapiuose, žr. Šis \"YouTube\" pamoka"
+  },
+  "show_scrollbars": {
+    "message": "Rodyti scrollbars."
+  },
+  "show_scrollbars_title": {
+    "message": "Laikinai rodyti slinkties"
+  },
+  "switch_on_off": {
+    "message": "Perjunkite priedą / įjungimą"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Jei pasireiškia pastebimas vėlavimas tarp paspaudimo slinkimo mygtuko ir paleiskite slinkimą, pabandykite įjungti šią parinktį. Tačiau jūs negalėsite pereiti per \"iframes\", pavyzdžiui, kai kurių senų įterptųjų vaizdo įrašų ar kai kurių skelbimų."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Tai taip pat išjungs galimybę pakeisti žymeklį, kai slinkite."
+  },
+  "o_helper_text_default_action": {
+    "message": "Naudinga \"Linux\", kad įjungtumėte pasta su viduriniu mygtuku."
+  },
+  "o_about_hello": {
+    "message": "Sveiki :)"
+  },
+  "o_about_intro": {
+    "message": "Mano vardas yra $1$ ir aš esu $app_name$ autorius."
+  },
+  "o_about_like_it": {
+    "message": "Jei jums tai patinka, vertinkite jį čia:"
+  },
+  "o_about_dislike_it": {
+    "message": "Jei jums nepatinka, praneškite man, kodėl mano el. Aš įgyvendinu daugumą jų gaunamų funkcijų prašymų."
+  },
+  "o_disabled": {
+    "message": "neįgalūs",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "įjungtas",
+    "common": true
+  },
+  "o_times": {
+    "message": "laikai",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pikseliai",
+    "common": true
+  },
+  "o_items": {
+    "message": "elementai",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milliseconds.",
+    "common": true
+  },
+  "label_working": {
+    "message": "darbas ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Uždaryti",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Prašome apsvarstyti galimybę remti savo darbą",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donorystė (paypal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "tapti mano globėju",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Ačiū!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "namai:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontaktas:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Ataskaitos problemos:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Galiu atsakyti tik anglų / slovakų kalba",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Socialinė žiniasklaida:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Išsaugokite pakeitimus ir uždarykite",
+    "common": true
+  },
+  "o_saved": {
+    "message": "išgelbėti!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Netrukus",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Išsaugoti pakeitimus",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Privatumo politika",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Paskutinės patalpos:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Žymos:",
+    "common": true
+  }
+}

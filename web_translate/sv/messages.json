@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Översätt vald text (från kontextmenyn)"
+  },
+  "_description_feature_2": {
+    "message": "Hela sidan översättning"
+  },
+  "_description_feature_3": {
+    "message": "Mörkt läge!"
+  },
+  "_description_tags_wt": {
+    "message": "bing, bing, mörk, email, google, lang, språk, microsoft, sida, preklad, prekladač, s3, urval, text, traduct, översätt, översättare, übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ är lätt att använda översättare för din webbläsare / thunderbird!"
+  },
+  "o_tab_translate": {
+    "message": "Översätt"
+  },
+  "_description_supported_translators": {
+    "message": "Stödda översättningsleverantörer:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Modalfönster"
+  },
+  "open_in_1": {
+    "message": "Pop-up fönster"
+  },
+  "open_in_2": {
+    "message": "Ny flik"
+  },
+  "open_in_3": {
+    "message": "Nytt fönster"
+  },
+  "open_in_4": {
+    "message": "Ny flik (utan behållare)"
+  },
+  "modal_window": {
+    "message": "Modalfönster"
+  },
+  "toolbar_icon_action": {
+    "message": "Verktygsfält ikon Åtgärd"
+  },
+  "toolbar_icon_text": {
+    "message": "Verktygsfält ikon text"
+  },
+  "sidebar_size": {
+    "message": "Sidofältstorlek"
+  },
+  "translation_provider": {
+    "message": "Översättningsleverantör"
+  },
+  "translate_to": {
+    "message": "Översätt till:"
+  },
+  "no_overlay": {
+    "message": "Ingen överlagring (det mörka området runt)"
+  },
+  "no_overlay_hint": {
+    "message": "Modalt fönster kommer att vara öppet även om du klickar på utsidan."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Öppna översättning av:"
+  },
+  "fallback_1": {
+    "message": "Nedgångsmetod"
+  },
+  "fallback_2": {
+    "message": "Nedgångsmetod"
+  },
+  "fallback_title": {
+    "message": "Modalt fönster och popup-fönster kan inte användas i vissa fall."
+  },
+  "open_in_tab": {
+    "message": "Öppna i ny flik"
+  },
+  "translate_this_page": {
+    "message": "Översätt den här sidan"
+  },
+  "selection_translate": {
+    "message": "Översätt \"$1\""
+  },
+  "page_translate": {
+    "message": "Översätt sida"
+  },
+  "selected_text": {
+    "message": "vald text"
+  },
+  "disable_context_menu": {
+    "message": "Inaktivera snabbmeny: $1"
+  },
+  "import_finished": {
+    "message": "Importen färdig!"
+  },
+  "import_error": {
+    "message": "Fel"
+  },
+  "import_backup_file": {
+    "message": "Importera backup-fil $1"
+  },
+  "search_search": {
+    "message": "Sök"
+  },
+  "homepage": {
+    "message": "Hemsida"
+  },
+  "addon_page": {
+    "message": "Addon Page"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Chrome webbutik"
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-ons"
+  },
+  "label_font_size": {
+    "message": "Textstorlek"
+  },
+  "label_next": {
+    "message": "Nästa"
+  },
+  "label_note": {
+    "message": "Notera:"
+  },
+  "label_remove": {
+    "message": "Avlägsna"
+  },
+  "label_warning": {
+    "message": "VARNING:"
+  },
+  "label_default": {
+    "message": "Standard:"
+  },
+  "label_done": {
+    "message": "Gjort!"
+  },
+  "label_copied": {
+    "message": "Kopieras!"
+  },
+  "label_close": {
+    "message": "Stänga"
+  },
+  "label_open_page": {
+    "message": "Öppna sidan"
+  },
+  "label_agree": {
+    "message": "Hålla med"
+  },
+  "label_cancel": {
+    "message": "Avbryt"
+  },
+  "op_support_me": {
+    "message": "Hjälp detta projekt"
+  },
+  "support_developer": {
+    "message": "Stöd oberoende utvecklare!"
+  },
+  "hello_there": {
+    "message": "Hej där!"
+  },
+  "about_me": {
+    "message": "Jag är Addon Developer sedan 2016. Mitt mål är att bygga kraftfulla tillägg för din webbläsare för att göra dig mer produktiv."
+  },
+  "about_good_job": {
+    "message": "Om du tror att jag gör ett bra jobb, snälla donera :)"
+  },
+  "about_income": {
+    "message": "Din donation är min enda inkomst!"
+  },
+  "about_thanks": {
+    "message": "Tack för att du har stött på mitt arbete!"
+  },
+  "o_tab_context_menu": {
+    "message": "Innehållsmeny"
+  },
+  "o_tab_about": {
+    "message": "Handla om"
+  },
+  "o_tab_settings": {
+    "message": "Inställningar"
+  },
+  "o_pixels": {
+    "message": "pixlar"
+  },
+  "o_seconds": {
+    "message": "sekunder"
+  },
+  "label_or": {
+    "message": "eller"
+  },
+  "o_about_hello": {
+    "message": "Hej :)"
+  },
+  "o_about_intro": {
+    "message": "Jag heter $1$ och jag är författaren till $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Om du gillar det, snälla betygsätta det här:"
+  },
+  "o_about_thanks": {
+    "message": "Tack!"
+  },
+  "o_about_contact": {
+    "message": "Kontakt:"
+  },
+  "o_about_issues": {
+    "message": "Rapportera problem:"
+  },
+  "o_about_social_media": {
+    "message": "Sociala media:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Banköverföring med IBAN:"
+  },
+  "ps_no_results": {
+    "message": "Inga matchande resultat"
+  },
+  "label_no_data": {
+    "message": "Inga data"
+  },
+  "dark_mode": {
+    "message": "Mörkt läge"
+  },
+  "dark_mode_system": {
+    "message": "Kontrolleras av systemet"
+  },
+  "_description_features": {
+    "message": "Funktioner:"
+  },
+  "_description_why": {
+    "message": "Varför?"
+  },
+  "_description_privacy_policy": {
+    "message": "Integritetspolicy"
+  },
+  "_description_recent_features": {
+    "message": "Nyligen tillagda funktioner:"
+  },
+  "_description_common_tags": {
+    "message": "Taggar:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Tillgänglig även för din Firefox:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Tillgänglig även för din Thunderbird:"
+  }
+}

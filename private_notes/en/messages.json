@@ -1,0 +1,346 @@
+{
+  "_description_feature_1": {
+    "message": "Your notes can be synchronized using Firefox/Chrome account with other devices."
+  },
+  "_description_feature_2": {
+    "message": "Ideal for storing the most sensitive information, like Recovery codes, Wi-Fi passwords, server configs, etc..."
+  },
+  "_description_tags_pn": {
+    "message": "private, privacy, note, message, secure, text, sync, synchronization, e2e, encryption, sensitive, Firefox Sync, device, zip, compression, editor, vault, pass, password, crypto, safe"
+  },
+  "app_name": {
+    "message": "Private Notes"
+  },
+  "app_desc": {
+    "message": "$app_name$ gives you safe and fully encrypted place for your Top Secret notes!"
+  },
+  "compression_level_0": {
+    "message": "Low"
+  },
+  "compression_level_1": {
+    "message": "Normal"
+  },
+  "compression_level_2": {
+    "message": "Best"
+  },
+  "compression_level_info_0": {
+    "message": "Fastest compression for low-end devices."
+  },
+  "compression_level_info_1": {
+    "message": "Good compression with fast encoding."
+  },
+  "compression_level_info_2": {
+    "message": "Best compression - can be very slow with huge notes."
+  },
+  "title_notes": {
+    "message": "Notes"
+  },
+  "restore_backup": {
+    "message": "Restore backup"
+  },
+  "create_new_note": {
+    "message": "Create new note"
+  },
+  "auto_locking_strategy_0": {
+    "message": "Keep unlocked while browser runs"
+  },
+  "auto_locking_strategy_1": {
+    "message": "Lock when popup/tab is closed"
+  },
+  "restore_note": {
+    "message": "Restore note"
+  },
+  "locked": {
+    "message": "Locked"
+  },
+  "change_master_password": {
+    "message": "Change master password"
+  },
+  "import_export": {
+    "message": "Import / Export"
+  },
+  "about_faq": {
+    "message": "About / FAQ"
+  },
+  "notes_auto_saved_placeholder": {
+    "message": "Your notes are being automatically saved"
+  },
+  "setup_new_pwd": {
+    "message": "Setup new password"
+  },
+  "change_pwd": {
+    "message": "Change password"
+  },
+  "pwd_to_change": {
+    "message": "Password to change"
+  },
+  "current_pwd": {
+    "message": "Current password"
+  },
+  "new_pwd_advice": {
+    "message": "New password - it's better to use long and easy than short and complex"
+  },
+  "repeat_pwd": {
+    "message": "Repeat new password"
+  },
+  "hint_pwd": {
+    "message": "Hint for your new password"
+  },
+  "pwd_warning": {
+    "message": "Don't forget your password! There is NO recovery if you forget it!"
+  },
+  "remember_pwd_0": {
+    "message": "Help me remember my password"
+  },
+  "remember_pwd_1": {
+    "message": "It's easy to forget new password in the first few hours."
+  },
+  "remember_pwd_2": {
+    "message": "I will help you remember your password by asking you to enter it after 3h, 6h, 12h, 24h, 48h, 4 days, 8 days, 16 days and then once a month."
+  },
+  "pwd_save": {
+    "message": "Save new password"
+  },
+  "error_saving_note": {
+    "message": "Error saving note \"$1\"!"
+  },
+  "quota_bytes_per_item": {
+    "message": "Maximum note size exceeded! Don't use images or other multimedia in notes. Note can be only about 8,000 characters long."
+  },
+  "quota_bytes": {
+    "message": "Storage is full! Remove some notes to free up some space."
+  },
+  "max_items": {
+    "message": "Storage is full! There can be only about 500 notes in the storage."
+  },
+  "max_write_operations_per_hour": {
+    "message": "Too many saving attempts per hour."
+  },
+  "max_write_operations_per_minute": {
+    "message": "Too many saving attempts per minute."
+  },
+  "security": {
+    "message": "Security"
+  },
+  "visual_options": {
+    "message": "Visual options"
+  },
+  "compression_level": {
+    "message": "Compression level"
+  },
+  "auto_locking_strategy": {
+    "message": "Auto-locking strategy"
+  },
+  "auto_lock_inactive_for": {
+    "message": "Auto-lock when inactive for:"
+  },
+  "dense_notes_list": {
+    "message": "Dense list of notes"
+  },
+  "import_replace_all": {
+    "message": "Replace all existing notes and passwords"
+  },
+  "export_encrypted": {
+    "message": "Export encrypted backup"
+  },
+  "minutes": {
+    "message": "minutes"
+  },
+  "label_font_size": {
+    "message": "Font size"
+  },
+  "sidebar_size": {
+    "message": "Sidebar size"
+  },
+  "popup_window_width": {
+    "message": "Popup window Width:"
+  },
+  "popup_window_height": {
+    "message": "Popup window Height:"
+  },
+  "always_open_in_new_tab": {
+    "message": "Always open in New tab - when clicking toolbar icon"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store"
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons"
+  },
+  "import_finished": {
+    "message": "Import finished!"
+  },
+  "import_error": {
+    "message": "Error"
+  },
+  "import_backup_file": {
+    "message": "Import backup file $1"
+  },
+  "search_search": {
+    "message": "Search"
+  },
+  "title_import": {
+    "message": "Import"
+  },
+  "title_export": {
+    "message": "Export"
+  },
+  "title_backups": {
+    "message": "Backups"
+  },
+  "homepage": {
+    "message": "Homepage"
+  },
+  "addon_page": {
+    "message": "Addon page"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "options": {
+    "message": "Options"
+  },
+  "label_backups": {
+    "message": "Backups"
+  },
+  "label_rename": {
+    "message": "Rename"
+  },
+  "label_download": {
+    "message": "Download"
+  },
+  "label_delete": {
+    "message": "Delete"
+  },
+  "label_next": {
+    "message": "Next"
+  },
+  "label_note": {
+    "message": "Note:"
+  },
+  "label_remove": {
+    "message": "Remove"
+  },
+  "label_warning": {
+    "message": "WARNING:"
+  },
+  "label_default": {
+    "message": "Default:"
+  },
+  "label_done": {
+    "message": "Done!"
+  },
+  "label_copied": {
+    "message": "Copied!"
+  },
+  "label_close": {
+    "message": "Close"
+  },
+  "label_open_page": {
+    "message": "Open page"
+  },
+  "label_agree": {
+    "message": "Agree"
+  },
+  "label_cancel": {
+    "message": "Cancel"
+  },
+  "op_support_me": {
+    "message": "Help this project"
+  },
+  "support_developer": {
+    "message": "Support independent developer!"
+  },
+  "hello_there": {
+    "message": "Hello there!"
+  },
+  "about_me": {
+    "message": "I'm addon developer since 2016 and my goal is to build powerful extensions for your web-browser to make you more productive."
+  },
+  "about_good_job": {
+    "message": "If you think I'm doing a good job, please donate :)"
+  },
+  "about_income": {
+    "message": "Your donation is my only income!"
+  },
+  "about_thanks": {
+    "message": "Thank you for supporting my work!"
+  },
+  "o_tab_context_menu": {
+    "message": "Context menu"
+  },
+  "o_tab_about": {
+    "message": "About"
+  },
+  "o_pixels": {
+    "message": "pixels"
+  },
+  "o_seconds": {
+    "message": "seconds"
+  },
+  "label_or": {
+    "message": "or"
+  },
+  "o_about_hello": {
+    "message": "Hello :)"
+  },
+  "o_about_intro": {
+    "message": "My name is $1$ and I'm the author of $app_name$.",
+    "placeholders": {
+      "1": {
+        "content": "Juraj Mäsiar"
+      }
+    }
+  },
+  "o_about_like_it": {
+    "message": "If you like it, please rate it here:"
+  },
+  "o_about_thanks": {
+    "message": "Thank you!"
+  },
+  "o_about_contact": {
+    "message": "Contact:"
+  },
+  "o_about_issues": {
+    "message": "Report issues:"
+  },
+  "o_about_social_media": {
+    "message": "Social media:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Bank transfer using IBAN:"
+  },
+  "used_space": {
+    "message": "Used space: $1 / $2"
+  },
+  "ps_no_results": {
+    "message": "No matching results"
+  },
+  "label_no_data": {
+    "message": "No data"
+  },
+  "dark_mode": {
+    "message": "Dark mode"
+  },
+  "dark_mode_system": {
+    "message": "Controlled by system"
+  },
+  "open_in_new_tab": {
+    "message": "Open in new tab"
+  },
+  "_description_features": {
+    "message": "Features:"
+  },
+  "_description_privacy_policy": {
+    "message": "Privacy Policy"
+  },
+  "_description_recent_features": {
+    "message": "Recently added features:"
+  },
+  "_description_common_tags": {
+    "message": "Tags:"
+  }
+}

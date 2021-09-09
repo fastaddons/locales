@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "kahit saan, pindutan, cursor, drag, grab, grab drag, grab at drag, walang hanggan, kaliwa, gitna, momentum, mouse, ilipat, pahina, kanan, mag-scroll, mag-scroll, scrollbar, pag-scroll, itapon"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "I-drag ang Scrollbar gamit ang iyong gitnang pindutan ng mouse kahit saan sa pahina. Sinusuportahan din ang \"grab at drag\" na estilo."
+  },
+  "field_int_default_value": {
+    "message": "Default na halaga: $1, min: $2, max: $3"
+  },
+  "field_set_default": {
+    "message": "I-reset sa default: $1."
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird add-ons."
+  },
+  "firefox_store": {
+    "message": "Firefox add-ons."
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store."
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "win_disable": {
+    "message": "Huwag paganahin ang $1."
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Huwag paganahin ang horizontal scroll sa $1."
+  },
+  "op_visit_home": {
+    "message": "Bisitahin ang Homepage"
+  },
+  "op_support_me": {
+    "message": "Tulungan ang proyektong ito"
+  },
+  "o_title": {
+    "message": "Mga pagpipilian - $1."
+  },
+  "o_tab_general": {
+    "message": "Pangkalahatan"
+  },
+  "o_tab_momentum": {
+    "message": "Momentum."
+  },
+  "o_tab_cursor": {
+    "message": "Cursor"
+  },
+  "o_axis_locking": {
+    "message": "Axis locking."
+  },
+  "o_tab_performance": {
+    "message": "Pagganap"
+  },
+  "o_tab_disabled_on": {
+    "message": "Hindi pinagana"
+  },
+  "o_tab_advanced": {
+    "message": "Advanced."
+  },
+  "o_tab_scrollbars": {
+    "message": "Scrollbars."
+  },
+  "o_tab_backup": {
+    "message": "Mag-import / backup"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Kapag nag-scroll ng isang kahon na maaaring i-scroll sa isang axis ngunit ang kahon ng magulang ay maaaring i-scroll sa iba pang axis, i-lock ang pag-scroll sa isang axis gamit ang:"
+  },
+  "o_axis_lock_0": {
+    "message": "Smart Lock - Temporal Lock gamit ang Momentum."
+  },
+  "o_axis_lock_1": {
+    "message": "Mahigpit na lock - Instant Direction Lock"
+  },
+  "o_axis_lock_2": {
+    "message": "Walang lock - libreng pag-scroll sa parehong axis."
+  },
+  "o_trend_momentum_window": {
+    "message": "Smart lock stack size."
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Ang mas malaking halaga ay nangangailangan ng mas maraming pag-scroll sa kabaligtaran ng axis upang baguhin ang scroll axis."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Hindi pinagana ang Addon! Mag-click dito upang paganahin."
+  },
+  "o_cursor_change_default": {
+    "message": "walang pagbabago - pinakamahusay na pagganap"
+  },
+  "o_scroll_button": {
+    "message": "Mag-scroll button:"
+  },
+  "o_direction_speed": {
+    "message": "Mag-scroll estilo / direksyon / bilis:"
+  },
+  "o_multiplier": {
+    "message": "Multiplier."
+  },
+  "o_times_speed": {
+    "message": "oras na mag-scroll bilis"
+  },
+  "o_maximum_speed": {
+    "message": "Pinakamataas na bilis ng scroll (0 - hindi pinagana):"
+  },
+  "o_ratio_unit": {
+    "message": "ratio (haba ng pahina / laki ng window)"
+  },
+  "o_scroll_type_0": {
+    "message": "Tularan scrollbar"
+  },
+  "o_scroll_type_1": {
+    "message": "Grab at i-drag - tulad ng sa isang smartphone"
+  },
+  "o_scroll_type_2": {
+    "message": "Dynamic na bilis (pang-eksperimentong)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Ito ay tulad ng pag-drag ng isang scrollbar"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Ito ay tulad ng pag-drag ng isang pahina gamit ang iyong daliri sa isang screen ng telepono"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Ang dynamic na bilis ay ginagawang mas mabagal ang bilis ng scroll kapag mas mahaba"
+  },
+  "o_disable_key": {
+    "message": "Huwag paganahin / paganahin ang pag-scroll kapag ang key ay bumaba:"
+  },
+  "o_momentum_category": {
+    "message": "Momentum:"
+  },
+  "o_momentum_formula": {
+    "message": "Momentum formula:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Uniformly decelerated movement."
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Ang scroll ng pahina ay pantay na pinabagal hanggang tumigil ito"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Exponentially decelerated movement."
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Ang scroll ng pahina ay mabilis (exponentially) mabagal"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Walang-hangganang kilusan ∞."
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Ang pag-scroll ay hindi hihinto"
+  },
+  "o_momentum_max_speed": {
+    "message": "Pinakamataas na bilis (0 - hindi pinagana):"
+  },
+  "o_page_weight": {
+    "message": "Pahina ng timbang:"
+  },
+  "o_grams": {
+    "message": "gramo :)"
+  },
+  "o_additional_speed": {
+    "message": "Karagdagang bilis:"
+  },
+  "o_pixels_second": {
+    "message": "pixels bawat segundo"
+  },
+  "o_additional_duration": {
+    "message": "Karagdagang Tagal:"
+  },
+  "o_advanced_momentum": {
+    "message": "Advanced momentum setup (para sa mga eksperto lamang!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Ang pagbabago ng mga halagang ito ay maaaring masira ang iyong momentum!"
+  },
+  "o_compute_from_last": {
+    "message": "Kumpirmahin mula sa huling:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Mouse stop detection:"
+  },
+  "o_tracking_speed": {
+    "message": "Pagsubaybay ng bilis:"
+  },
+  "o_reset_values": {
+    "message": "I-reset ang mga halaga"
+  },
+  "o_cursor_scrolling": {
+    "message": "Ginamit ang cursor kapag nag-scroll:"
+  },
+  "o_performance": {
+    "message": "Pagganap:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Pigilan ang malaking jumps"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Kung gumagamit ka ng tool na maaaring teleport ang iyong cursor sa buong screen (kapag naabot mo ang isang gilid), paganahin ang pagpipiliang ito upang payagan ang tuloy-tuloy na (walang katapusan) na pag-scroll."
+  },
+  "o_advanced": {
+    "message": "Advanced:"
+  },
+  "o_movement_detection": {
+    "message": "Mouse kilusan detection threshold:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Gaano karaming mga pixel ang kailangang ilipat ng mouse upang harangan ang link. Minsan kapag pinindot ang pindutan ng scroll ilipat mo ang mouse nang bahagya ngunit hindi mo nais na hindi pinagana ang link dahil iyon."
+  },
+  "o_context_menu_block": {
+    "message": "I-block ang menu ng konteksto:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Unblock context menu delay."
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Kung nakikita mo ang menu ng konteksto pagkatapos mag-scroll sa kanang pindutan ng mouse, dagdagan ang halagang ito"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Huwag paganahin ang horizontal scroll sa mga domain:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Hindi pinagana sa mga domain:"
+  },
+  "o_is_disabled_url": {
+    "message": "Hindi pinagana sa mga pahina / mga sub-page:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Maaari mong gamitin ang simbolo ng bituin (*) upang tukuyin ang isang bahagi ng URL, halimbawa: \"google.com/mapsis\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Magpasok ng isang domain sa bawat linya."
+  },
+  "o_is_disabled": {
+    "message": "Huwag paganahin ang add-on"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Gamitin ang icon ng toolbar bilang pangunahing on / off switch"
+  },
+  "o_scroll_button_middle": {
+    "message": "Gitnang pindutan"
+  },
+  "o_scroll_button_right": {
+    "message": "Kanang pindutan ng"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Mga gumagamit ng Linux / Mac - sasabihan ka para sa bagong pahintulot na \"Basahin at baguhin ang setting ng browser\" - kinakailangan upang sugpuin ang menu ng konteksto na ipinapakita bago mag-scroll!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Mga gumagamit ng Linux / Mac - mai-block ang iyong menu ng konteksto! Upang buksan ang menu ng konteksto i-hold ang \"shift\" key o triple-click kanang pindutan."
+  },
+  "o_scroll_button_left": {
+    "message": "Kaliwang pindutan (pang-eksperimentong)"
+  },
+  "o_scroll_on_links": {
+    "message": "Mag-scroll sa mga link"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Kapag pinagana, hindi mo magagawang i-drag at i-drop ang mga link (lamang sa pamamagitan ng paggamit ng 'huwag paganahin' key)"
+  },
+  "o_scroll_on_text": {
+    "message": "Mag-scroll sa teksto"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emulates Phone Scrolling / Editing - Kailangan mong mag-click sa teksto upang lumipat sa \"mode ng pag-edit\". Ang pag-click sa labas ng teksto ay nagbibigay-daan sa pag-scroll muli."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Mag-scroll sa textarea."
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Ang Textarea ay isang bloke ng teksto, karaniwang resizable. Halimbawa sa tab na \"hindi pinagana sa\" maaari mong makita ang textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Mag-scroll sa nae-edit na HTML."
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Halimbawa ng katawan ng email sa Gmail ay mae-edit na HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "sa teksto ay magbibigay-daan sa pagpili / pag-edit ng teksto."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Mag-click sa teksto ay magbibigay-daan sa \"I-edit ang Mode\". Mag-click sa labas ng teksto upang paganahin ang \"scroll mode\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Single click."
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Double-click"
+  },
+  "o_scrollbars_width": {
+    "message": "Scrollbars Look."
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normal (walang pagbabago)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Manipis"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Nakatago"
+  },
+  "o_scrollbars_color": {
+    "message": "Kulay ng slider ng scrollbar:"
+  },
+  "o_scrollbars_background": {
+    "message": "Kulay ng background ng scrollbar:"
+  },
+  "o_reverse": {
+    "message": "Reverse Scroll Direction."
+  },
+  "o_disable_alt": {
+    "message": "Alt."
+  },
+  "o_disable_shift": {
+    "message": "Shift."
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl."
+  },
+  "o_disable_type_0": {
+    "message": "Huwag paganahin kapag ang key ay bumaba:"
+  },
+  "o_disable_type_1": {
+    "message": "Paganahin kapag ang key ay bumaba:"
+  },
+  "o_momentum": {
+    "message": "paganahin ang Momentum - Maaari mong \"itapon\" ang pahina (tulad ng sa telepono)"
+  },
+  "o_no_css_edit": {
+    "message": "Huwag i-lock ang iframes at huwag baguhin ang cursor kapag nag-scroll"
+  },
+  "o_no_prevent_default": {
+    "message": "Huwag i-block ang default na pindutan ng pagkilos"
+  },
+  "o_auto_link_lock": {
+    "message": "Mga Pag-block ng Mga Link:"
+  },
+  "o_no_link_block": {
+    "message": "Huwag i-block ang mouse Mag-click sa link pagkatapos ng paggalaw."
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Kapag sinimulan mo ang pag-scroll sa isang link at pagkatapos ay tapusin mo ang pag-scroll sa parehong link, bubuksan ng browser ang link. Ito ay karaniwang hindi nais na pag-uugali kaya sa pamamagitan ng default ito ay hinarangan."
+  },
+  "o_page_weight_title": {
+    "message": "Kinokontrol nito kung paano 'mabigat' ang pahina. Ang mas mabibigat na mga pahina ay mas mahaba ang momentum."
+  },
+  "o_additional_speed_title": {
+    "message": "Maaari mong mapabilis ang bilis ng momentum."
+  },
+  "o_additional_duration_title": {
+    "message": "Karagdagang oras para sa bawat momentum."
+  },
+  "o_compute_from_last_title": {
+    "message": "Ang unang bilis ng momentum ay tinutukoy ng bilis ng pag-scroll bago ilalabas ang pindutan ng scroll."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Gaano karaming oras ang dapat manatili sa mouse - bago ilalabas ang pindutan ng scroll - upang hindi i-activate ang momentum."
+  },
+  "o_tracking_speed_title": {
+    "message": "Agwat para sa pagsukat ng kasalukuyang bilis ng scroll."
+  },
+  "o_scrolling_area": {
+    "message": "Scrolling area:"
+  },
+  "o_outside_area_width": {
+    "message": "Scrolling area (0 - hindi pinagana):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Ang paglipat ng iyong cursor sa labas ng scroll area ay magbabalik sa pag-scroll posisyon. Ang parehong pag-uugali ay makikita kapag nag-drag ng scrollbar."
+  },
+  "o_scroll_button_left_title": {
+    "message": "Babala - Ang Suporta sa Kaliwang Pindutan ay gumagamit ng deprecated Firefox API na maaaring alisin sa mga bersyon sa hinaharap ng Firefox."
+  },
+  "o_prevent_text_selection": {
+    "message": "Pigilan ang pagpili ng teksto kapag nag-scroll sa kaliwang pindutan"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Sa ilang mga aparato, ang pag-scroll sa kaliwang pindutan ng mouse ay pipiliin din ang teksto sa pahina."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Huwag i-block ang menu ng konteksto kapag sinusubukang mag-scroll hindi-scroll na pahina"
+  },
+  "o_backup_restore": {
+    "message": "I-backup / Ibalik ang mga setting upang mag-file:"
+  },
+  "o_export_settings": {
+    "message": "I-export ang mga setting sa isang file"
+  },
+  "import_settings_button": {
+    "message": "Mag-import ng mga setting mula sa $1 file ..."
+  },
+  "import_finished": {
+    "message": "Nagtapos ang pag-import!"
+  },
+  "test_page_title": {
+    "message": "Subukan ang iyong mga setting ng pag-scroll dito"
+  },
+  "menu_options": {
+    "message": "Mga Opsyon"
+  },
+  "menu_visit_title": {
+    "message": "Bisitahin ang Homepage"
+  },
+  "not_working": {
+    "message": "Hindi pinagana ng iyong web-browser"
+  },
+  "disabled_by_user": {
+    "message": "Hindi pinagana sa domain na ito"
+  },
+  "not_working_title": {
+    "message": "I-block ng iyong browser ang Scrollanywhere sa ganitong uri ng mga pahina:"
+  },
+  "not_working_body": {
+    "message": "Upang paganahin ang scrollanywhere sa mga pahina ng \"mozilla.org\", tingnan ang tutorial na ito sa YouTube"
+  },
+  "show_scrollbars": {
+    "message": "Ipakita ang scrollbars."
+  },
+  "show_scrollbars_title": {
+    "message": "Pansamantalang nagpapakita ng scrollbars."
+  },
+  "switch_on_off": {
+    "message": "Lumipat add-on / on."
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Kung nakakaranas ka ng kapansin-pansin na pagkaantala sa pagitan ng pagpindot sa pindutan ng scroll at pagsisimula ng pag-scroll, subukang paganahin ang pagpipiliang ito. Gayunpaman hindi ka makakapag-scroll sa \"iframes\" tulad ng ilang mga lumang naka-embed na video o ilang mga ad."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "I-disable din nito ang pagpipilian upang baguhin ang cursor habang nag-scroll."
+  },
+  "o_helper_text_default_action": {
+    "message": "Kapaki-pakinabang sa Linux upang paganahin ang i-paste gamit ang gitnang pindutan."
+  },
+  "o_about_hello": {
+    "message": "Kamusta :)"
+  },
+  "o_about_intro": {
+    "message": "Ang pangalan ko ay $1$ at ako ang may-akda ng $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Kung gusto mo ito, mangyaring i-rate ito dito:"
+  },
+  "o_about_dislike_it": {
+    "message": "Kung hindi mo gusto ito, mangyaring ipaalam sa akin kung bakit sa aking e-mail. Ipinatutupad ko ang karamihan sa mga tampok na tinatanggap ko."
+  },
+  "o_disabled": {
+    "message": "hindi pinagana",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "pinagana",
+    "common": true
+  },
+  "o_times": {
+    "message": "beses",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels.",
+    "common": true
+  },
+  "o_items": {
+    "message": "mga Item",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milliseconds.",
+    "common": true
+  },
+  "label_working": {
+    "message": "paggawa ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Malapit",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Mangyaring isaalang-alang ang pagsuporta sa aking trabaho sa pamamagitan ng.",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donasyon (paypal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "pagiging aking patron",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Salamat!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "tahanan:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Makipag-ugnay sa:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Iulat ang mga isyu:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Maaari akong tumugon lamang sa Ingles / Slovak",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Social Media:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "I-save ang mga pagbabago at isara",
+    "common": true
+  },
+  "o_saved": {
+    "message": "nai-save!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Malapit na",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "I-save ang mga pagbabago",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Patakaran sa Pagkapribado",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Kamakailang idinagdag na mga tampok:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

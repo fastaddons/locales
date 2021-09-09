@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "Đôi khi trang không được thiết kế tốt và thông tin bạn đang tìm kiếm không thể nhìn thấy đủ."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Các trường hợp sử dụng phổ biến:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Đánh dấu siêu dữ liệu như:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Đánh dấu \"Giao hàng miễn phí\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Bạn đang tìm kiếm một cái gì đó cụ thể trên web? Sử dụng \"Điểm nổi bật tạm thời\" để giúp bạn tìm thấy nó trên tất cả các trang. Điểm nổi bật tạm thời được tự động xóa khi bạn đóng trình duyệt của mình."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Bạn thậm chí có thể ẩn các từ bằng cách đặt kích thước phông chữ thành 0 hoặc bằng cách làm cho chúng trong suốt."
+  },
+  "_description_tags_ah": {
+    "message": "đánh dấu, đánh dấu, siêu dữ liệu, phim, tự động, văn bản, đồng bộ hóa, lựa chọn, tìm kiếm"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ sẽ tự động làm nổi bật các từ được xác định trên các trang được xác định."
+  },
+  "match_type": {
+    "message": "Loại so khớp:"
+  },
+  "match_type_0": {
+    "message": "Tên miền là."
+  },
+  "match_type_1": {
+    "message": "URL là."
+  },
+  "match_type_2": {
+    "message": "URL chứa"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "Mỗi trang"
+  },
+  "selection_highlight": {
+    "message": "Đánh dấu $1."
+  },
+  "selection_temp": {
+    "message": "Tạm thời làm nổi bật $1."
+  },
+  "selection_temp_everywhere": {
+    "message": "Tạm thời nổi bật ở khắp mọi nơi $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ trên trang này"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Luôn mở trong tab mới - khi nhấp vào biểu tượng Thanh công cụ"
+  },
+  "disable_rule": {
+    "message": "Tàn tật"
+  },
+  "temporal_rule": {
+    "message": "Tạm thời."
+  },
+  "each_word": {
+    "message": "Mỗi từ"
+  },
+  "rules": {
+    "message": "Quy tắc"
+  },
+  "delete": {
+    "message": "Xóa bỏ"
+  },
+  "rename": {
+    "message": "Đổi tên"
+  },
+  "duplicate": {
+    "message": "Bản sao"
+  },
+  "delete_rule": {
+    "message": "Xóa Quy tắc"
+  },
+  "delete_rule_title": {
+    "message": "Xóa quy tắc \"$1\"?"
+  },
+  "on_pages": {
+    "message": "Trên các trang:"
+  },
+  "disabled_rule": {
+    "message": "Nguyên tắc vô hiệu hóa"
+  },
+  "incomplete_rule": {
+    "message": "Quy tắc không đầy đủ"
+  },
+  "active_on_current_page": {
+    "message": "Hoạt động trên trang hiện tại"
+  },
+  "temporal_rule_helper": {
+    "message": "Quy tắc tạm thời - sẽ bị xóa sau khi khởi động lại trình duyệt"
+  },
+  "active_on_pages": {
+    "message": "Hoạt động trên các trang:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Đánh dấu từng từ riêng biệt"
+  },
+  "case_sensitive": {
+    "message": "Trường hợp nhạy cảm"
+  },
+  "ignore_diacritics": {
+    "message": "Bỏ qua dấu phụ"
+  },
+  "reg_exp": {
+    "message": "Regrexp."
+  },
+  "regular_expression": {
+    "message": "Biểu hiện thông thường"
+  },
+  "across_elements": {
+    "message": "Trên các yếu tố"
+  },
+  "across_elements_help": {
+    "message": "Tìm kiếm văn bản trên các phần tử HTML hàng xóm"
+  },
+  "style": {
+    "message": "Phong cách"
+  },
+  "preview": {
+    "message": "Xem trước:"
+  },
+  "empty_rule": {
+    "message": "quy tắc trống"
+  },
+  "create_new_rule": {
+    "message": "Tạo quy tắc mới"
+  },
+  "import_export": {
+    "message": "Nhập khẩu xuất khẩu"
+  },
+  "help_this_project": {
+    "message": "Giúp dự án này"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "Câu hỏi thường gặp:"
+  },
+  "storage_info": {
+    "message": "Thông tin lưu trữ:"
+  },
+  "storage_safari_1": {
+    "message": "Safari hiện không hỗ trợ đồng bộ hóa dữ liệu tự động."
+  },
+  "storage_safari_2": {
+    "message": "Để chuyển (hoặc sao lưu) các quy tắc tô sáng của bạn, hãy sử dụng tính năng \"Nhập / Xuất\"."
+  },
+  "storage_info_1": {
+    "message": "Các quy tắc của bạn được lưu trữ bằng Secure $1 SYNC sẽ đồng bộ hóa các quy tắc của bạn giữa tất cả các thiết bị của bạn (nếu bạn đăng nhập vào cùng một tài khoản)."
+  },
+  "storage_info_2": {
+    "message": "Lưu trữ đám mây này có thể lưu trữ 100 KB dữ liệu và tối đa 500 quy tắc tô sáng."
+  },
+  "storage_info_3": {
+    "message": "Bạn cũng có thể xuất (sao lưu) các quy tắc của mình vào tệp bằng tính năng \"Nhập / Xuất\" và sau đó nhập nó trên các thiết bị khác."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Thay thế các quy tắc tô sáng hiện có"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Thêm trang để tô sáng trên"
+  },
+  "remove_highlight_from_page": {
+    "message": "Xóa điểm nổi bật khỏi trang"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "Italic."
+  },
+  "underline": {
+    "message": "Gạch chân"
+  },
+  "background_color": {
+    "message": "Màu nền"
+  },
+  "background": {
+    "message": "Lý lịch"
+  },
+  "text_color": {
+    "message": "Văn bản màu"
+  },
+  "color": {
+    "message": "Màu sắc"
+  },
+  "font_size": {
+    "message": "Cỡ chữ"
+  },
+  "rule_name": {
+    "message": "Tên quy tắc"
+  },
+  "highlight_regular_expression": {
+    "message": "Làm nổi bật biểu thức chính quy:"
+  },
+  "highlight_text": {
+    "message": "Văn bản nổi bật:"
+  },
+  "highlight_on_pages": {
+    "message": "Đánh dấu trên trang"
+  },
+  "empty_name_helper": {
+    "message": "Để trống để sử dụng \"văn bản được tô sáng\" như tên"
+  },
+  "faq_1": {
+    "message": "Làm thế nào để nhanh chóng làm nổi bật từ trên trang hiện tại?"
+  },
+  "faq_1a": {
+    "message": "Sử dụng menu ngữ cảnh - Chọn Văn bản / Nhấp chuột phải / \"Tự động tô sáng\". Nếu bạn nhấp chuột phải vào một trang (không chọn văn bản), bạn có thể áp dụng các quy tắc hiện có cho trang hiện tại."
+  },
+  "faq_2": {
+    "message": "Tôi muốn làm nổi bật nhiều từ, tôi có cần tạo quy tắc mới cho từng từ riêng không?"
+  },
+  "faq_2a": {
+    "message": "Không, chỉ cần kiểm tra hộp kiểm \"mỗi từ\". Sau đó mỗi từ sẽ được tô sáng riêng."
+  },
+  "faq_3": {
+    "message": "\"RegExp\" đó là gì?"
+  },
+  "faq_3a": {
+    "message": "Còn được gọi là biểu thức thông thường, đó là một chuỗi các ký tự xác định mẫu tìm kiếm. Đây là một cấu trúc phức tạp cho phép làm nổi bật phức tạp các yếu tố với một số mẫu tương tự. Ví dụ, giá, ngày, số điện thoại, v.v ..."
+  },
+  "faq_4": {
+    "message": "Bạn có thể chỉ cho tôi một số ví dụ RegExp?"
+  },
+  "faq_4a": {
+    "message": "Đánh dấu tất cả giá như $1"
+  },
+  "faq_5": {
+    "message": "Bạn có thể giải thích những người đó?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" Đăng xuất dấu đô la. Dấu gạch chéo ngược ở đây vì Dollar có một ý nghĩa đặc biệt trong RegExp."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" Điểm nổi bật một chữ số"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" có nghĩa là lặp lại một hoặc nhiều lần. Khi được đặt sau khi chọn Bộ chọn $2$, nó có nghĩa là một hoặc nhiều chữ số."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" Điểm nổi bật chấm. Bật ngược lại là một lần nữa cần thiết vì biểu tượng DOT một mình có nghĩa là bất kỳ ký tự đơn lẻ trong regfp."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" có nghĩa là không hoặc một lần. Khi được đặt sau dấu ngoặc $2$, nó có nghĩa là bất cứ điều gì bên trong các dấu ngoặc đó là tùy chọn (có thể ở đó hoặc không). Chúng tôi sử dụng nó cho phần thập phân của số là tùy chọn."
+  },
+  "faq_5f": {
+    "message": "thông tin thêm về quy tắc RegExp"
+  },
+  "import_finished": {
+    "message": "Nhập xong!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Lỗi",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Nhập tệp sao lưu $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Trang chủ",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Trang Addon",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Cửa hàng ứng dụng Mac",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Cửa hàng Chrome trực tuyến",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Tiện ích Firefox",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Tiện ích Thunderbird",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Tùy chọn",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Cỡ chữ",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Sidebar size.",
+    "common": true
+  },
+  "label_next": {
+    "message": "Kế tiếp",
+    "common": true
+  },
+  "label_note": {
+    "message": "Ghi chú:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Tẩy",
+    "common": true
+  },
+  "label_warning": {
+    "message": "CẢNH BÁO:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Tùy chọn:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Mặc định:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Làm xong!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Sao chép!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Tập quán:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Đóng",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Cài đặt",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Mở trang",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Đồng ý",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Hủy bỏ",
+    "common": true
+  },
+  "label_save": {
+    "message": "Tiết kiệm",
+    "common": true
+  },
+  "label_required": {
+    "message": "Cần thiết",
+    "common": true
+  },
+  "label_sending": {
+    "message": "gửi...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Tỉ lệ:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Thu phóng:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Kích thước:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Sắp có",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Lưu thay đổi",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Loại bỏ những thay đổi",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Thực đơn",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Truy cập trang chủ",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Giúp dự án này",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Hỗ trợ nhà phát triển độc lập!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Xin chào!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Tôi là Addon Developer kể từ năm 2016. Mục tiêu của tôi là xây dựng các tiện ích mở rộng mạnh mẽ cho trình duyệt web của bạn để khiến bạn hiệu ích hơn.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Nếu bạn nghĩ rằng tôi đang làm một công việc tốt, xin vui lòng tặng :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Đóng góp của bạn là thu nhập duy nhất của tôi!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Cảm ơn bạn đã hỗ trợ công việc của tôi!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Cứu giúp",
+    "common": true
+  },
+  "o_title": {
+    "message": "Tùy chọn - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "sao lưu",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Tạo bản sao lưu mới",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Lưu các thiết lập",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Để xuất dữ liệu của bạn vào một tệp, hãy mở lại cửa sổ này trong một tab mới.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Nhấp chuột phải / \"Tải xuống tệp được liên kết\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Chung",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Lý lịch",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Danh mục",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Hình thu nhỏ",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Phím tắt",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Nhập / sao lưu.",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Cài đặt",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Chủ đề:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Chung:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "tàn tật",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "đã bật",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "điểm ảnh",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "giây",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Danh mục:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Vô hiệu hóa menu ngữ cảnh: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Cài đặt sao lưu / khôi phục vào tệp:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Nhập khẩu",
+    "common": true
+  },
+  "title_import": {
+    "message": "Nhập khẩu",
+    "common": true
+  },
+  "title_export": {
+    "message": "Xuất khẩu",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Sao lưu xuất khẩu.",
+    "common": true
+  },
+  "label_or": {
+    "message": "hoặc là",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Xin chào :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Tên tôi là $1$ và tôi là tác giả của $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Nếu bạn thích nó, xin vui lòng đánh giá nó ở đây:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Nếu bạn không thích nó, xin vui lòng cho tôi biết tại sao e-mail của tôi. Tôi đang thực hiện hầu hết các yêu cầu tính năng tôi nhận được.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Hãy xem xét hỗ trợ công việc của tôi bởi",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Chuyển khoản ngân hàng bằng IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "đóng góp (Paypal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "trở thành người bảo trợ của tôi",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Cảm ơn bạn!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "trang Chủ:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Tiếp xúc:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Các vấn đề báo cáo:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Tôi chỉ có thể trả lời bằng tiếng Anh / Slovak",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Truyền thông xã hội:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Lưu các thay đổi và đóng",
+    "common": true
+  },
+  "o_saved": {
+    "message": "tiết kiệm!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Không có kết quả phù hợp",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Không có dữ liệu",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Chế độ tối",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Kiểm soát bởi hệ thống",
+    "common": true
+  },
+  "used_space": {
+    "message": "Không gian đã sử dụng: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Mở ra trong trang mới",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Bật / tắt addon",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon bị vô hiệu hóa",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Tại sao?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Chính sách bảo mật",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Các tính năng được thêm gần đây:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

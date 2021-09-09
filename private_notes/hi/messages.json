@@ -1,0 +1,341 @@
+{
+  "_description_feature_1": {
+    "message": ""
+  },
+  "_description_feature_2": {
+    "message": ""
+  },
+  "_description_tags_pn": {
+    "message": ""
+  },
+  "app_name": {
+    "message": "Private Notes"
+  },
+  "app_desc": {
+    "message": ""
+  },
+  "compression_level_0": {
+    "message": ""
+  },
+  "compression_level_1": {
+    "message": ""
+  },
+  "compression_level_2": {
+    "message": ""
+  },
+  "compression_level_info_0": {
+    "message": ""
+  },
+  "compression_level_info_1": {
+    "message": ""
+  },
+  "compression_level_info_2": {
+    "message": ""
+  },
+  "title_notes": {
+    "message": ""
+  },
+  "restore_backup": {
+    "message": ""
+  },
+  "create_new_note": {
+    "message": ""
+  },
+  "auto_locking_strategy_0": {
+    "message": ""
+  },
+  "auto_locking_strategy_1": {
+    "message": ""
+  },
+  "restore_note": {
+    "message": ""
+  },
+  "locked": {
+    "message": ""
+  },
+  "change_master_password": {
+    "message": ""
+  },
+  "import_export": {
+    "message": ""
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "notes_auto_saved_placeholder": {
+    "message": ""
+  },
+  "setup_new_pwd": {
+    "message": ""
+  },
+  "change_pwd": {
+    "message": ""
+  },
+  "pwd_to_change": {
+    "message": ""
+  },
+  "current_pwd": {
+    "message": ""
+  },
+  "new_pwd_advice": {
+    "message": ""
+  },
+  "repeat_pwd": {
+    "message": ""
+  },
+  "hint_pwd": {
+    "message": ""
+  },
+  "pwd_warning": {
+    "message": ""
+  },
+  "remember_pwd_0": {
+    "message": ""
+  },
+  "remember_pwd_1": {
+    "message": ""
+  },
+  "remember_pwd_2": {
+    "message": ""
+  },
+  "pwd_save": {
+    "message": ""
+  },
+  "error_saving_note": {
+    "message": ""
+  },
+  "quota_bytes_per_item": {
+    "message": ""
+  },
+  "quota_bytes": {
+    "message": ""
+  },
+  "max_items": {
+    "message": ""
+  },
+  "max_write_operations_per_hour": {
+    "message": ""
+  },
+  "max_write_operations_per_minute": {
+    "message": ""
+  },
+  "security": {
+    "message": ""
+  },
+  "visual_options": {
+    "message": ""
+  },
+  "compression_level": {
+    "message": ""
+  },
+  "auto_locking_strategy": {
+    "message": ""
+  },
+  "auto_lock_inactive_for": {
+    "message": ""
+  },
+  "dense_notes_list": {
+    "message": ""
+  },
+  "import_replace_all": {
+    "message": ""
+  },
+  "export_encrypted": {
+    "message": ""
+  },
+  "minutes": {
+    "message": ""
+  },
+  "label_font_size": {
+    "message": "फ़ॉन्ट आकार"
+  },
+  "sidebar_size": {
+    "message": ""
+  },
+  "popup_window_width": {
+    "message": ""
+  },
+  "popup_window_height": {
+    "message": ""
+  },
+  "always_open_in_new_tab": {
+    "message": ""
+  },
+  "safari_store": {
+    "message": "मैक ऐप स्टोर"
+  },
+  "chrome_store": {
+    "message": "क्रोम वेब स्टोर"
+  },
+  "firefox_store": {
+    "message": "फ़ायरफ़ॉक्स ऐड-ऑन"
+  },
+  "import_finished": {
+    "message": "आयात समाप्त हो गया!"
+  },
+  "import_error": {
+    "message": "त्रुटि"
+  },
+  "import_backup_file": {
+    "message": "आयात बैकअप फ़ाइल $1"
+  },
+  "search_search": {
+    "message": ""
+  },
+  "title_import": {
+    "message": "आयात"
+  },
+  "title_export": {
+    "message": "निर्यात"
+  },
+  "title_backups": {
+    "message": ""
+  },
+  "homepage": {
+    "message": "होमपेज"
+  },
+  "addon_page": {
+    "message": "एडन पेज"
+  },
+  "settings": {
+    "message": ""
+  },
+  "options": {
+    "message": ""
+  },
+  "label_backups": {
+    "message": ""
+  },
+  "label_rename": {
+    "message": ""
+  },
+  "label_download": {
+    "message": ""
+  },
+  "label_delete": {
+    "message": ""
+  },
+  "label_next": {
+    "message": "अगला"
+  },
+  "label_note": {
+    "message": "ध्यान दें:"
+  },
+  "label_remove": {
+    "message": "हटाना"
+  },
+  "label_warning": {
+    "message": "चेतावनी:"
+  },
+  "label_default": {
+    "message": "चूक:"
+  },
+  "label_done": {
+    "message": "किया हुआ!"
+  },
+  "label_copied": {
+    "message": "नकल!"
+  },
+  "label_close": {
+    "message": "बंद करे"
+  },
+  "label_open_page": {
+    "message": "खुला पृष्ठ"
+  },
+  "label_agree": {
+    "message": "इस बात से सहमत"
+  },
+  "label_cancel": {
+    "message": "रद्द करना"
+  },
+  "op_support_me": {
+    "message": "इस परियोजना में मदद करें"
+  },
+  "support_developer": {
+    "message": "स्वतंत्र डेवलपर का समर्थन करें!"
+  },
+  "hello_there": {
+    "message": "नमस्ते!"
+  },
+  "about_me": {
+    "message": "मैं 2016 से एडन डेवलपर हूं। मेरा लक्ष्य आपको अपने वेब-ब्राउज़र के लिए अधिक उत्पादक बनाने के लिए शक्तिशाली एक्सटेंशन बनाना है।"
+  },
+  "about_good_job": {
+    "message": "अगर आपको लगता है कि मैं एक अच्छा काम कर रहा हूं, तो कृपया दान करें :)"
+  },
+  "about_income": {
+    "message": "आपका दान मेरी एकमात्र आय है!"
+  },
+  "about_thanks": {
+    "message": "मेरे काम का समर्थन करने के लिए धन्यवाद!"
+  },
+  "o_tab_context_menu": {
+    "message": "सन्दर्भ विकल्प सूची"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_pixels": {
+    "message": "पिक्सल"
+  },
+  "o_seconds": {
+    "message": "सेकंड"
+  },
+  "label_or": {
+    "message": "या"
+  },
+  "o_about_hello": {
+    "message": "नमस्ते :)"
+  },
+  "o_about_intro": {
+    "message": "मेरा नाम $1$ है और मैं $app_name$ के लेखक हूं।"
+  },
+  "o_about_like_it": {
+    "message": "अगर आपको यह पसंद है, तो कृपया इसे यहां रेट करें:"
+  },
+  "o_about_thanks": {
+    "message": "धन्यवाद!"
+  },
+  "o_about_contact": {
+    "message": "संपर्क करें:"
+  },
+  "o_about_issues": {
+    "message": "रिपोर्ट समस्याएं:"
+  },
+  "o_about_social_media": {
+    "message": "सामाजिक मीडिया:"
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN का उपयोग करके बैंक हस्तांतरण:"
+  },
+  "used_space": {
+    "message": "प्रयुक्त स्थान: $1 / $2"
+  },
+  "ps_no_results": {
+    "message": "कोई मिलान परिणाम नहीं"
+  },
+  "label_no_data": {
+    "message": "कोई आकड़ा उपलब्ध नहीं है"
+  },
+  "dark_mode": {
+    "message": "डार्क मोड"
+  },
+  "dark_mode_system": {
+    "message": "तंत्र द्वारा नियंत्रित"
+  },
+  "open_in_new_tab": {
+    "message": "वेब टेब में खोलें"
+  },
+  "_description_features": {
+    "message": ""
+  },
+  "_description_privacy_policy": {
+    "message": "गोपनीयता नीति"
+  },
+  "_description_recent_features": {
+    "message": "हाल ही में जोड़ा गया विशेषताएं:"
+  },
+  "_description_common_tags": {
+    "message": "टैग:"
+  }
+}

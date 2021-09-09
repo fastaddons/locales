@@ -1,0 +1,548 @@
+{
+  "_description_tags_sa": {
+    "message": "どこにでも、ボタン、カーソル、ドラッグ、つかむ、グラブドラッグ、グラブ、ドラッグ、無限、左、中、身体像、マウス、移動、ページ、右、スクロール、スクロールページ、スクロールバー、スクロール、スロー"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "ページ上の任意の場所にスクロールバーをマウスのマウスボタンでドラッグします。 スタイル「グラブとドラッグ」もサポートします。"
+  },
+  "field_set_default": {
+    "message": "デフォルトへのリセット：$1."
+  },
+  "thunderbird_store": {
+    "message": "Thunderbirdアドオン"
+  },
+  "firefox_store": {
+    "message": "Firefoxアドオン"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "win_disable": {
+    "message": "$1を無効にする"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "$1の水平スクロールを無効にします"
+  },
+  "op_visit_home": {
+    "message": "ホームページを訪問してください"
+  },
+  "op_support_me": {
+    "message": "このプロジェクトを支援します"
+  },
+  "o_title": {
+    "message": "オプション -  $1."
+  },
+  "o_tab_general": {
+    "message": "一般"
+  },
+  "o_tab_momentum": {
+    "message": "勢い"
+  },
+  "o_tab_cursor": {
+    "message": "カーソル"
+  },
+  "o_axis_locking": {
+    "message": "軸ロック"
+  },
+  "o_tab_performance": {
+    "message": "Performance"
+  },
+  "o_tab_disabled_on": {
+    "message": "身体障害者"
+  },
+  "o_tab_advanced": {
+    "message": "先進的に"
+  },
+  "o_tab_scrollbars": {
+    "message": "スクロールバー"
+  },
+  "o_tab_backup": {
+    "message": "インポート/バックアップ"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "1つの軸でスクロール可能なボックスをスクロールするときは、他の軸で親ボックスがスクロールできない場合は、次のものを使用して1つの軸にスクロールをロックします。"
+  },
+  "o_axis_lock_0": {
+    "message": "スマートロック - 勢いを使った時間ロック"
+  },
+  "o_axis_lock_1": {
+    "message": "厳密なロック - 即時方向ロック"
+  },
+  "o_axis_lock_2": {
+    "message": "両方の軸ではロックなしのスクロールはありません"
+  },
+  "o_trend_momentum_window": {
+    "message": "スマートロックスタックサイズ"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "値が大きいほど、スクロール軸を変更するには反対の軸をもっとスクロールする必要があります。"
+  },
+  "o_addon_disabled_warning": {
+    "message": "アドオンは無効です！ 有効にするにはここをクリックしてください。"
+  },
+  "o_cursor_change_default": {
+    "message": "変更なし - 最高のパフォーマンス"
+  },
+  "o_scroll_button": {
+    "message": "スクロールボタン："
+  },
+  "o_direction_speed": {
+    "message": "スクロールスタイル/方向/速度："
+  },
+  "o_multiplier": {
+    "message": "乗数"
+  },
+  "o_times_speed": {
+    "message": "タイムスクロールスピード"
+  },
+  "o_maximum_speed": {
+    "message": "最大スクロール速度（0  - 無効）："
+  },
+  "o_ratio_unit": {
+    "message": "比率（ページ長/ウィンドウサイズ）"
+  },
+  "o_scroll_type_0": {
+    "message": "スクロールバーをエミュレートします"
+  },
+  "o_scroll_type_1": {
+    "message": "スマートフォンの上につくとドラッグします"
+  },
+  "o_scroll_type_2": {
+    "message": "動的速度（実験的）"
+  },
+  "o_scroll_type_title_0": {
+    "message": "スクロールバーをドラッグするようなものです"
+  },
+  "o_scroll_type_title_1": {
+    "message": "電話画面上の指でページをドラッグするようなものです"
+  },
+  "o_scroll_type_title_2": {
+    "message": "動的スピードは、ページが長いとスクロール速度が遅くなります"
+  },
+  "o_disable_key": {
+    "message": "キーが停止しているときにスクロールを無効/有効にします。"
+  },
+  "o_momentum_category": {
+    "message": "運動量："
+  },
+  "o_momentum_formula": {
+    "message": "勢い式："
+  },
+  "o_momentum_formula_type_0": {
+    "message": "一様に減速された移動"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "ページスクロールは停止するまで均一に減速されます"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "指数関数的に減速された移動"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "ページスクロールは迅速に（指数関数的に）遅くなります"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "無限運動"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "スクロールは止まることはありません"
+  },
+  "o_momentum_max_speed": {
+    "message": "最大速度（0  - 無効）："
+  },
+  "o_page_weight": {
+    "message": "ページ重み："
+  },
+  "o_grams": {
+    "message": "グラム:)"
+  },
+  "o_additional_speed": {
+    "message": "追加のスピード："
+  },
+  "o_pixels_second": {
+    "message": "1秒あたりのピクセル"
+  },
+  "o_additional_duration": {
+    "message": "追加期間："
+  },
+  "o_advanced_momentum": {
+    "message": "高度な勢いセットアップ（専門家のみ）："
+  },
+  "o_advanced_momentum_title": {
+    "message": "これらの値を変更するとあなたの勢いが壊れることができます！"
+  },
+  "o_compute_from_last": {
+    "message": "最後から計算："
+  },
+  "o_mouse_stop_detection": {
+    "message": "マウス停止検出："
+  },
+  "o_tracking_speed": {
+    "message": "トラッキングスピード："
+  },
+  "o_reset_values": {
+    "message": "値をリセットします"
+  },
+  "o_cursor_scrolling": {
+    "message": "スクロール時に使用されるカーソル"
+  },
+  "o_performance": {
+    "message": "パフォーマンス："
+  },
+  "o_prevent_big_jumps": {
+    "message": "大きなジャンプを防ぎます"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "画面上でカーソルをテレポートできるツールを使用している場合（エッジに達すると）、このオプションを有効にして、Continure（Infinite）スクロールを許可します。"
+  },
+  "o_advanced": {
+    "message": "高度："
+  },
+  "o_movement_detection": {
+    "message": "マウス移動検出しきい値："
+  },
+  "o_helper_text_move_detection": {
+    "message": "ブロックリンクに移動するピクセル数のピクセル数。 スクロールボタンを押すと、マウスをわずかに移動しますが、その結果、リンクを無効にする必要はありません。"
+  },
+  "o_context_menu_block": {
+    "message": "コンテキストメニューブロック："
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "コンテキストメニューの遅延をブロック解除します"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "マウスの右ボタンでスクロールした後にコンテキストメニューが表示された場合は、この値を増やします"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "ドメインの水平スクロールを無効にします。"
+  },
+  "o_is_disabled_domains": {
+    "message": "ドメインで無効になっています。"
+  },
+  "o_is_disabled_url": {
+    "message": "ページ/サブページで無効になっています。"
+  },
+  "o_is_disabled_url_help": {
+    "message": "スターシンボル（*）を使用してURL部品を定義できます。例えば、「google.com/maps*」"
+  },
+  "o_is_disabled_domain_help": {
+    "message": "1行に1つのドメインを入力してください。"
+  },
+  "o_is_disabled": {
+    "message": "アドオンを無効にします"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "メインオン/オフスイッチとしてツールバーアイコンを使用する"
+  },
+  "o_scroll_button_middle": {
+    "message": "中央のボタン"
+  },
+  "o_scroll_button_right": {
+    "message": "右ボタン"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Macユーザー - 新規権限の入力を求められます。「ブラウザの読み取りと変更ブラウザ設定」 - スクロール前に表示されているコンテキストメニューを抑制するために必要です。"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Macユーザー - あなたのコンテキストメニューはブロックされます！ コンテキストメニューを開くには、「Shift」キーまたはTriple-Click右クリックボタンを押します。"
+  },
+  "o_scroll_button_left": {
+    "message": "左ボタン（実験的）"
+  },
+  "o_scroll_on_links": {
+    "message": "リンクをスクロールします"
+  },
+  "o_scroll_on_links_title": {
+    "message": "有効にすると、リンクをドラッグアンドドロップできません（「無効」キーを使用してのみ）"
+  },
+  "o_scroll_on_text": {
+    "message": "テキストにスクロールします"
+  },
+  "o_scroll_on_text_title": {
+    "message": "電話スクロール/編集をエミュレートする - 「編集モード」に切り替えるには、テキストをクリックする必要があります。 テキストの外側をクリックすると、もう一度スクロールが可能になります。"
+  },
+  "o_scroll_on_textarea": {
+    "message": "Textareaのスクロール"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "TextAreaはテキストのブロック、通常はサイズ変更可能です。 たとえば、「無効な」タブでTextAreaを見ることができます。"
+  },
+  "o_scroll_on_editable_html": {
+    "message": "編集可能なHTMLをスクロールします"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "たとえば、Gmailの電子メールボディは編集可能なHTMLです。"
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "テキストでは、テキストの選択/編集を有効にします。"
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "テキストをクリックすると「編集モード」が有効になります。 「スクロールモード」を有効にするには、[外部テキスト]をクリックします。"
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "シングルクリック"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "ダブルクリック"
+  },
+  "o_scrollbars_width": {
+    "message": "スクロールバールック"
+  },
+  "o_scrollbars_width_0": {
+    "message": "通常（変化なし）"
+  },
+  "o_scrollbars_width_1": {
+    "message": "薄い"
+  },
+  "o_scrollbars_width_2": {
+    "message": "隠された"
+  },
+  "o_scrollbars_color": {
+    "message": "スクロールバースライダーカラー："
+  },
+  "o_scrollbars_background": {
+    "message": "スクロールバーの背景色："
+  },
+  "o_reverse": {
+    "message": "リバーススクロール方向"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "シフト"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl."
+  },
+  "o_disable_type_0": {
+    "message": "キーが停止しているときに無効にします。"
+  },
+  "o_disable_type_1": {
+    "message": "キーが停止しているときに有効にします。"
+  },
+  "o_momentum": {
+    "message": "勢いを有効にする - ページを「投げる」（電話で）"
+  },
+  "o_no_css_edit": {
+    "message": "IFramesをロックしないで、スクロール時にカーソルを変更しないでください"
+  },
+  "o_no_prevent_default": {
+    "message": "デフォルトのボタンアクションをブロックしないでください"
+  },
+  "o_auto_link_lock": {
+    "message": "リンクブロック："
+  },
+  "o_no_link_block": {
+    "message": "移動後のリンクをブロックしないでください"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "リンクのスクロールを開始してから同じリンクでスクロールを終了すると、ブラウザがリンクを開きます。 これは通常望まれていません。デフォルトではブロックされています。"
+  },
+  "o_page_weight_title": {
+    "message": "これはページの「重い」のようなものを制御します。 より重いページは勢いが長いです。"
+  },
+  "o_additional_speed_title": {
+    "message": "運動量の速度を加速することができます。"
+  },
+  "o_additional_duration_title": {
+    "message": "各勢いのための追加の時間。"
+  },
+  "o_compute_from_last_title": {
+    "message": "勢い初期速度は、スクロールボタンを離す直前にスクロールする速度によって決まります。"
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "スクロールボタンを解放する前に - 勢いを解放する前に、マウスの滞在時間はいくらですか。"
+  },
+  "o_tracking_speed_title": {
+    "message": "現在のスクロール速度を測定する間隔。"
+  },
+  "o_scrolling_area": {
+    "message": "スクロールエリア："
+  },
+  "o_outside_area_width": {
+    "message": "スクロール領域（0  - 無効）："
+  },
+  "o_outside_area_width_helper": {
+    "message": "スクロール領域の外側にカーソルを移動すると、スクロール位置を元に戻します。 スクロールバーをドラッグするときに同じ動作が見られます。"
+  },
+  "o_scroll_button_left_title": {
+    "message": "警告 - 左ボタンのサポートは、Firefoxの将来のバージョンで削除される可能性がある非推奨Firefox APIを使用しています。"
+  },
+  "o_prevent_text_selection": {
+    "message": "左ボタンでスクロールするときのテキスト選択を防ぐ"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "一部のデバイスでは、マウスの左ボタンでスクロールすると、ページ上のテキストも選択されます。"
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "スクロールできないページをスクロールしようとしたときにコンテキストメニューをブロックしないでください"
+  },
+  "o_backup_restore": {
+    "message": "ファイルへのバックアップ/復元設定："
+  },
+  "o_export_settings": {
+    "message": "ファイルに設定をエクスポートします"
+  },
+  "import_settings_button": {
+    "message": "$1ファイルから設定をインポートします。"
+  },
+  "import_finished": {
+    "message": "輸入完成！"
+  },
+  "test_page_title": {
+    "message": "ここでスクロール設定をテストします"
+  },
+  "menu_options": {
+    "message": "オプション"
+  },
+  "menu_visit_title": {
+    "message": "ホームページを訪問してください"
+  },
+  "not_working": {
+    "message": "Webブラウザによって無効にされています"
+  },
+  "disabled_by_user": {
+    "message": "このドメインで無効になります"
+  },
+  "not_working_title": {
+    "message": "ブラウザはこれらの種類のページのScrollAnywhereをブロックします。"
+  },
+  "not_working_body": {
+    "message": "\"Mozilla.org\"ページのScrollAnywhereを有効にするには、このYouTubeチュートリアルを参照してください。"
+  },
+  "show_scrollbars": {
+    "message": "スクロールバーを表示"
+  },
+  "show_scrollbars_title": {
+    "message": "一時的にスクロールバーを表示します"
+  },
+  "switch_on_off": {
+    "message": "スイッチアドオン/オン"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "スクロールボタンを押してスクロールを開始するのに目立たない遅延が発生した場合は、このオプションを有効にしてください。 ただし、古い埋め込まれたビデオや一部の広告など、「IFRAMES」をスクロールすることはできません。"
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "スクロール中にカーソルを変更するオプションを無効にします。"
+  },
+  "o_helper_text_default_action": {
+    "message": "途中で貼り付けを有効にするためにLinuxで便利です。"
+  },
+  "o_about_hello": {
+    "message": "こんにちは ：）"
+  },
+  "o_about_intro": {
+    "message": "私の名前は$1$であり、私は$app_name$の作者です。"
+  },
+  "o_about_like_it": {
+    "message": "あなたがそれが好きなら、ここでそれを評価してください："
+  },
+  "o_about_dislike_it": {
+    "message": "あなたがそれを好きではないならば、私に電子メールになぜ私に知らせてください。 私は私が受け取ることのほとんどの機能要求を実装しています。"
+  },
+  "o_disabled": {
+    "message": "無効",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "有効",
+    "common": true
+  },
+  "o_times": {
+    "message": "times",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "ピクセル",
+    "common": true
+  },
+  "o_items": {
+    "message": "アイテム",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "ミリ秒",
+    "common": true
+  },
+  "label_working": {
+    "message": "ワーキング...",
+    "common": true
+  },
+  "label_close": {
+    "message": "閉じる",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "私の仕事を支援することを検討してください",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "寄付（Paypal）",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "私の父親になる",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "ありがとうございました！",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "ホーム：",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "連絡先：",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "問題の報告：",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "私は英語/スロバックでのみ返信できます",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "ソーシャルメディア：",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "変更を保存して閉じる",
+    "common": true
+  },
+  "o_saved": {
+    "message": "節約！",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "近日公開",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "変更内容を保存",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "個人情報保護方針",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "最近追加された機能：",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "タグ：",
+    "common": true
+  }
+}

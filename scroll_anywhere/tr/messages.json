@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "her yerde, düğme, imleç, sürükle, kapmak, sürükle, kapmak ve sürüklemek, sonsuz, sol, orta, momentum, fare, taşı, sayfa, sağ, kaydırma, sayfayı kaydırma, kaydırma çubuğu, kaydırma, atmak"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Scrollbar'ı sayfanın herhangi bir yerinde orta fare düğmenizle sürükleyin. \"Kapmak ve sürükle\" stilini de destekler."
+  },
+  "field_int_default_value": {
+    "message": "Varsayılan değer: $1, dak: $2, maks: $3"
+  },
+  "field_set_default": {
+    "message": "Varsayılana Sıfırla: $1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Eklentileri"
+  },
+  "firefox_store": {
+    "message": "Firefox eklentileri"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Mağazası"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "win_disable": {
+    "message": "Devre Dışı Bırak $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "$1 üzerindeki yatay kaydırmayı devre dışı bırakın"
+  },
+  "op_visit_home": {
+    "message": "Ana Sayfa Ziyaret Edin"
+  },
+  "op_support_me": {
+    "message": "Bu projeye yardım et"
+  },
+  "o_title": {
+    "message": "Seçenekler - $1"
+  },
+  "o_tab_general": {
+    "message": "Genel"
+  },
+  "o_tab_momentum": {
+    "message": "İtme"
+  },
+  "o_tab_cursor": {
+    "message": "İmleç"
+  },
+  "o_axis_locking": {
+    "message": "Eksen Kilitleme"
+  },
+  "o_tab_performance": {
+    "message": "Verim"
+  },
+  "o_tab_disabled_on": {
+    "message": "Devre dışı"
+  },
+  "o_tab_advanced": {
+    "message": "Ileri"
+  },
+  "o_tab_scrollbars": {
+    "message": "Kaydırma çubukları"
+  },
+  "o_tab_backup": {
+    "message": "İthalat / Yedekleme"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Bir eksende kaydırılan bir kutuyu kaydırırken, ancak ana kutu diğer eksenlerde kaydırılır, bir eksene kaydırır:"
+  },
+  "o_axis_lock_0": {
+    "message": "Akıllı Kilit - Momentum Kullanarak Geçici Kilit"
+  },
+  "o_axis_lock_1": {
+    "message": "Sıkı Kilit - Anında Yön Kilidi"
+  },
+  "o_axis_lock_2": {
+    "message": "Kilit yok - her iki eksende de serbest kaydırma"
+  },
+  "o_trend_momentum_window": {
+    "message": "Akıllı kilit yığını boyutu"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Daha büyük değer, kaydırma eksenini değiştirmek için zıt eksende daha fazla kaydırma gerektirecektir."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon devre dışı! Etkinleştirmek için buraya tıklayın."
+  },
+  "o_cursor_change_default": {
+    "message": "değişim Yok - En İyi Performans"
+  },
+  "o_scroll_button": {
+    "message": "Kaydırma butonu:"
+  },
+  "o_direction_speed": {
+    "message": "Kaydırma Stili / Yön / Hız:"
+  },
+  "o_multiplier": {
+    "message": "Çarpan"
+  },
+  "o_times_speed": {
+    "message": "zaman kaydırma hızı"
+  },
+  "o_maximum_speed": {
+    "message": "Maksimum kaydırma hızı (0 - devre dışı):"
+  },
+  "o_ratio_unit": {
+    "message": "oran (sayfa uzunluğu / pencere boyutu)"
+  },
+  "o_scroll_type_0": {
+    "message": "Kaydırma çubuğu taklit etmek"
+  },
+  "o_scroll_type_1": {
+    "message": "Kepçe ve sürükle - bir akıllı telefon gibi"
+  },
+  "o_scroll_type_2": {
+    "message": "Dinamik Hız (Deneysel)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Bir kaydırma çubuğunu sürüklemek gibi"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Bir sayfayı bir telefon ekranında parmağınızla sürüklemek gibi"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Dinamik hız, sayfa daha uzun olduğunda kaydırma hızını yavaşlatır"
+  },
+  "o_disable_key": {
+    "message": "Anahtar aşağı indiğinde kaydırmayı devre dışı bırakın / etkinleştirin:"
+  },
+  "o_momentum_category": {
+    "message": "İtme:"
+  },
+  "o_momentum_formula": {
+    "message": "Momentum Formülü:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Düzgün bir şekilde yavaşlayan hareket"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Sayfa kaydırma, durana kadar düzgün bir şekilde yavaşlatılacak"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Katlanarak yavaşlayan hareket"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Sayfa kaydırma hızla (katlanarak) yavaşlayacaktır"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Sonsuz Hareketi ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Kaydırma asla durmayacak"
+  },
+  "o_momentum_max_speed": {
+    "message": "Maksimum Hız (0 - Engelli):"
+  },
+  "o_page_weight": {
+    "message": "Sayfa Ağırlığı:"
+  },
+  "o_grams": {
+    "message": "gram :)"
+  },
+  "o_additional_speed": {
+    "message": "Ek hız:"
+  },
+  "o_pixels_second": {
+    "message": "saniyede piksel"
+  },
+  "o_additional_duration": {
+    "message": "Ek Süre:"
+  },
+  "o_advanced_momentum": {
+    "message": "Gelişmiş Momentum Kurulumu (sadece uzmanlar için!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Bu değerleri değiştirmek momentumuzu kırabilir!"
+  },
+  "o_compute_from_last": {
+    "message": "Sonundan Hesaplama:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Fare Durdurma Algılama:"
+  },
+  "o_tracking_speed": {
+    "message": "İzleme Hızı:"
+  },
+  "o_reset_values": {
+    "message": "Değerleri sıfırla"
+  },
+  "o_cursor_scrolling": {
+    "message": "Kaydırırken imleç kullanılır:"
+  },
+  "o_performance": {
+    "message": "Verim:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Büyük atlamaları önlemek"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "İmlecinizi ekranda ışınlayabilecek bir aracı kullanıyorsanız (bir kenara ulaştığınızda), bu seçeneğin sürekli (sonsuz) kaydırma yapmasına izin vermesini sağlayın."
+  },
+  "o_advanced": {
+    "message": "İleri:"
+  },
+  "o_movement_detection": {
+    "message": "Fare Hareketi Algılama Eşiği:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Fare bağlantısını engellemek için kaç piksel var. Bazen Kaydırma düğmesine basarken fareyi hafifçe hareket ettirirsiniz, ancak bunun için bağlantının devre dışı bırakılmasını istemiyorsunuz."
+  },
+  "o_context_menu_block": {
+    "message": "Bağlam Menüsü Bloğu:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Bağlam menü gecikmesini engellemeyi kaldır"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Sağ fare düğmesiyle kaydırdıktan sonra bağlam menüsü görürseniz, bu değeri arttırın"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Etki alanlarındaki yatay kaydırmayı devre dışı bırakın:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Etki Alanlarında Devre Dışı:"
+  },
+  "o_is_disabled_url": {
+    "message": "Sayfalar / alt sayfalarda devre dışı:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Bir URL bölümünü tanımlamak için yıldız sembolünü (*) kullanabilirsiniz, örneğin: \"Google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Satır başına bir etki alanı girin."
+  },
+  "o_is_disabled": {
+    "message": "Eklentiyi devre dışı bırak"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Ana açma / kapama düğmesi olarak araç çubuğu simgesini kullanın"
+  },
+  "o_scroll_button_middle": {
+    "message": "Orta düğme"
+  },
+  "o_scroll_button_right": {
+    "message": "Sağ düğme"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Mac kullanıcıları - \"Tarayıcı ayarını oku ve değiştirme\" için yeni izin verilecek - bu, kaydırma işleminden önce gösterilecek olan bağlam menüsünü bastırmak için gereklidir!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac kullanıcıları - Bağlam menüsünüz engellenecek! Bağlam menüsünü açmak için \"Shift\" tuşunu basılı tutun veya Sağ düğmeye üç katlayın."
+  },
+  "o_scroll_button_left": {
+    "message": "Sol Düğme (Deneysel)"
+  },
+  "o_scroll_on_links": {
+    "message": "Bağlantılara kaydırın"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Etkinleştirildiğinde, bağlantıları sürükleyip bırakamazsınız (yalnızca 'Disable' tuşunu kullanarak)"
+  },
+  "o_scroll_on_text": {
+    "message": "Metin üzerinde kaydırma"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Telefon Kaydırmayı / Düzenlemesini Siz - \"Düzenleme Modu\" na geçmek için metne tıklamanız gerekir. Metnin dışına tıklamak tekrar kaydırılmasını sağlar."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Textarea üzerinde kaydırma"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea, genellikle yeniden boyutlandırılabilir bir metin bloğudır. Örneğin \"Devre Dışı Bırak\" sekmesinde, TextArea'yu görebilirsiniz."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Düzenlenebilir HTML'de Kaydır"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Örneğin, Gmail'deki e-posta gövdesi düzenlenebilir HTML'dir."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "metin, metni seçmeyi / düzenlemeyi etkinleştirir."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Metin'e tıklayın \"Düzenle modunu\" etkinleştirir. \"Kaydırma modunu\" etkinleştirmek için dış metni tıklayın."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Tek tık"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Çift tıklama"
+  },
+  "o_scrollbars_width": {
+    "message": "Scrollbars bak"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normal (değişiklik yok)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "İnce"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Gizli"
+  },
+  "o_scrollbars_color": {
+    "message": "ScrollBar Slider Rengi:"
+  },
+  "o_scrollbars_background": {
+    "message": "Scrollbar arka plan rengi:"
+  },
+  "o_reverse": {
+    "message": "Ters Kaydırma Yönü"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Vardiya"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl"
+  },
+  "o_disable_type_0": {
+    "message": "Anahtar aşağı olduğunda devre dışı bırakın:"
+  },
+  "o_disable_type_1": {
+    "message": "Anahtar aşağı indiğinde etkinleştirin:"
+  },
+  "o_momentum": {
+    "message": "momentum'u etkinleştir - Sayfayı \"atabilirsiniz\" (telefonda)"
+  },
+  "o_no_css_edit": {
+    "message": "İfadeleri kilitlemeyin ve kaydırırken imleci değiştirmeyin"
+  },
+  "o_no_prevent_default": {
+    "message": "Varsayılan düğme işlemini engellemeyin"
+  },
+  "o_auto_link_lock": {
+    "message": "Linkler Engelleme:"
+  },
+  "o_no_link_block": {
+    "message": "Hareketten sonra bağlantıda fare tıklamayın"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Bir bağlantıyı kaydırmaya başladığınızda ve ardından aynı bağlantıya kaydırmayı tamamladığınızda, tarayıcı bağlantıyı açacaktır. Bu genellikle istenen davranış değildir, böylece varsayılan olarak engellenir."
+  },
+  "o_page_weight_title": {
+    "message": "Bu, sayfanın nasıl 'ağır' olduğunu kontrol eder. Ağır sayfalar daha uzun bir momentum var."
+  },
+  "o_additional_speed_title": {
+    "message": "Momentum belirten hızını hızlandırabilirsiniz."
+  },
+  "o_additional_duration_title": {
+    "message": "Her momentum için ek zaman."
+  },
+  "o_compute_from_last_title": {
+    "message": "Momentum ilk hızı, kaydırma düğmesini serbest bırakmadan önce sağa kaydırma hızıyla belirlenir."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "SCROLL düğmesini serbest bırakmadan önce hala fare hala kalacak kadar kalır. - Momentum'u etkinleştirmek için."
+  },
+  "o_tracking_speed_title": {
+    "message": "Akım kaydırma hızını ölçme aralığı."
+  },
+  "o_scrolling_area": {
+    "message": "Kaydırma alanı:"
+  },
+  "o_outside_area_width": {
+    "message": "Kaydırma Alanı (0 - Engelli):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "İmlecinizi kaydırma alanı dışında hareket ettirin, kaydırma konumunu geri alır. Bir kaydırma çubuğunu sürüklerken aynı davranış görülebilir."
+  },
+  "o_scroll_button_left_title": {
+    "message": "Uyarı - Sol Düğme Desteği, Firefox'un gelecekteki sürümlerinde kaldırılabilecek devredilen Firefox API kullanıyor."
+  },
+  "o_prevent_text_selection": {
+    "message": "Sol düğme ile kaydırıldığında metin seçimini önleyin"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Bazı cihazlarda, sol fare düğmesiyle kaydırma, sayfadaki metni de seçecektir."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Kaydırılabilir sayfayı kaydırmaya çalışırken bağlam menüsünü engellemeyin"
+  },
+  "o_backup_restore": {
+    "message": "Ayarları dosyaya yedekleme / geri yükleme:"
+  },
+  "o_export_settings": {
+    "message": "Ayarları bir dosyaya verme"
+  },
+  "import_settings_button": {
+    "message": "$1 dosyasından ithalat ayarları ..."
+  },
+  "import_finished": {
+    "message": "İthalat tamamlandı!"
+  },
+  "test_page_title": {
+    "message": "Kaydırma ayarlarınızı burada test edin"
+  },
+  "menu_options": {
+    "message": "Seçenekleri"
+  },
+  "menu_visit_title": {
+    "message": "Ana Sayfa Ziyaret Edin"
+  },
+  "not_working": {
+    "message": "Web tarayıcınız tarafından devre dışı"
+  },
+  "disabled_by_user": {
+    "message": "Bu etki alanında devre dışı"
+  },
+  "not_working_title": {
+    "message": "Tarayıcınız, bu tür sayfalardaki kaydırma yerlerini engelleyecektir:"
+  },
+  "not_working_body": {
+    "message": "\"Mozilla.org\" sayfalarında scrollywhere etkinleştirmek için bu YouTube Eğitimi'ne bakın."
+  },
+  "show_scrollbars": {
+    "message": "Scrollbars göster"
+  },
+  "show_scrollbars_title": {
+    "message": "Geçici olarak kaydırma çubuklarını göster"
+  },
+  "switch_on_off": {
+    "message": "Eklenti Kapalı / Açık Anahtar"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Kaydırma düğmesine basıldığında ve kaydırma işlemi arasında gözle görülür bir gecikme yaşarsanız, bu seçeneği etkinleştirmeyi deneyin. Bununla birlikte, bazı eski gömülü videolar veya bazı reklamlar gibi \"iframes\" üzerine kaydıramazsınız."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Bu, kaydırırken imleci değiştirme seçeneğini de devre dışı bırakacaktır."
+  },
+  "o_helper_text_default_action": {
+    "message": "Linux'ta orta düğme ile yapıştırın etkinleştirmek için kullanışlıdır."
+  },
+  "o_about_hello": {
+    "message": "Merhaba :)"
+  },
+  "o_about_intro": {
+    "message": "Benim adım $1$ ve ben $app_name$'in yazarıyım."
+  },
+  "o_about_like_it": {
+    "message": "Eğer beğenirseniz, lütfen buradan değerlendirin:"
+  },
+  "o_about_dislike_it": {
+    "message": "Eğer beğenmediysen, neden e-postamın nedenini bildirin. Aldığım özellik taleplerinin çoğunu uyguluyorum."
+  },
+  "o_disabled": {
+    "message": "engelli",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "etkin",
+    "common": true
+  },
+  "o_times": {
+    "message": "zamanlar",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "piksel",
+    "common": true
+  },
+  "o_items": {
+    "message": "öğeler",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milisaniye",
+    "common": true
+  },
+  "label_working": {
+    "message": "çalışma...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Kapat",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Lütfen işimi desteklemeyi düşünün",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "bağış (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "benim patronum olmak",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Teşekkür ederim!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "ev:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "İletişim:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Sorunları bildir:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Sadece İngilizce / Slovak'ta cevap verebilirim",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sosyal medya:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Değişiklikleri kaydet ve kapat",
+    "common": true
+  },
+  "o_saved": {
+    "message": "kazandı!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Çok yakında",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Değişiklikleri Kaydet",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Gizlilik Politikası",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Son Eklenen Özellikler:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Etiketler:",
+    "common": true
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "選択したテキストを翻訳する（コンテキストメニューから）"
+  },
+  "_description_feature_2": {
+    "message": "全ページ翻訳"
+  },
+  "_description_feature_3": {
+    "message": "ダークモード！"
+  },
+  "_description_tags_wt": {
+    "message": "baidu、Bing、Dark、Eメール、Google、Lang、Language、Microsoft、Page、Preklad、Prekladaş、S3、Selection、Text、Traducteur、翻訳、翻訳、翻訳者、Übersetzer、"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$あなたのWebブラウザ/ Thunderbirdのための翻訳者を使いやすい！"
+  },
+  "o_tab_translate": {
+    "message": "翻訳する"
+  },
+  "_description_supported_translators": {
+    "message": "サポートされている翻訳プロバイダ："
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "モーダルウィンドウ"
+  },
+  "open_in_1": {
+    "message": "ポップアップウィンドウ"
+  },
+  "open_in_2": {
+    "message": "新しいタブ"
+  },
+  "open_in_3": {
+    "message": "新しい窓"
+  },
+  "open_in_4": {
+    "message": "新しいタブ（コンテナなし）"
+  },
+  "modal_window": {
+    "message": "モーダルウィンドウ"
+  },
+  "toolbar_icon_action": {
+    "message": "ツールバーアイコンアクション"
+  },
+  "toolbar_icon_text": {
+    "message": "ツールバーアイコンテキスト"
+  },
+  "sidebar_size": {
+    "message": "サイドバーのサイズ"
+  },
+  "translation_provider": {
+    "message": "翻訳プロバイダー"
+  },
+  "translate_to": {
+    "message": "翻訳："
+  },
+  "no_overlay": {
+    "message": "オーバーレイなし（周囲の暗い領域）"
+  },
+  "no_overlay_hint": {
+    "message": "外側をクリックしてもモーダルウィンドウは開いたままになります。"
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "で翻訳を開く："
+  },
+  "fallback_1": {
+    "message": "フォールバック方式"
+  },
+  "fallback_2": {
+    "message": "フォールバック方式"
+  },
+  "fallback_title": {
+    "message": "モーダルウィンドウやポップアップウィンドウが使用できない場合があります。"
+  },
+  "open_in_tab": {
+    "message": "新しいタブで開く"
+  },
+  "translate_this_page": {
+    "message": "このページを翻訳する"
+  },
+  "selection_translate": {
+    "message": "「$1」を翻訳"
+  },
+  "page_translate": {
+    "message": "翻訳ページ"
+  },
+  "selected_text": {
+    "message": "選択したテキスト"
+  },
+  "disable_context_menu": {
+    "message": "コンテキストメニューを無効にする：「$1」"
+  },
+  "import_finished": {
+    "message": "インポートが完了しました！"
+  },
+  "import_error": {
+    "message": "エラー"
+  },
+  "import_backup_file": {
+    "message": "バックアップファイル$1をインポートします"
+  },
+  "search_search": {
+    "message": "探す"
+  },
+  "homepage": {
+    "message": "ホームページ"
+  },
+  "addon_page": {
+    "message": "アドオンページ"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store"
+  },
+  "firefox_store": {
+    "message": "Firefoxアドオン"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbirdアドオン"
+  },
+  "label_font_size": {
+    "message": "フォントサイズ"
+  },
+  "label_next": {
+    "message": "次"
+  },
+  "label_note": {
+    "message": "注意："
+  },
+  "label_remove": {
+    "message": "削除する"
+  },
+  "label_warning": {
+    "message": "警告："
+  },
+  "label_default": {
+    "message": "デフォルト："
+  },
+  "label_done": {
+    "message": "完了！"
+  },
+  "label_copied": {
+    "message": "コピーしました！"
+  },
+  "label_close": {
+    "message": "閉じる"
+  },
+  "label_open_page": {
+    "message": "ページを開く"
+  },
+  "label_agree": {
+    "message": "同意する"
+  },
+  "label_cancel": {
+    "message": "キャンセル"
+  },
+  "op_support_me": {
+    "message": "このプロジェクトを支援する"
+  },
+  "support_developer": {
+    "message": "独立した開発者をサポートしてください！"
+  },
+  "hello_there": {
+    "message": "こんにちは！"
+  },
+  "about_me": {
+    "message": "私は2016年からアドオン開発者です。私の目標は、Webブラウザーの強力な拡張機能を構築して、生産性を高めることです。"
+  },
+  "about_good_job": {
+    "message": "私が良い仕事をしていると思うなら、寄付してください:)"
+  },
+  "about_income": {
+    "message": "あなたの寄付は私の唯一の収入です！"
+  },
+  "about_thanks": {
+    "message": "私の仕事をサポートしてくれてありがとう！"
+  },
+  "o_tab_context_menu": {
+    "message": "コンテキストメニュー"
+  },
+  "o_tab_about": {
+    "message": "約"
+  },
+  "o_tab_settings": {
+    "message": "設定"
+  },
+  "o_pixels": {
+    "message": "ピクセル"
+  },
+  "o_seconds": {
+    "message": "秒"
+  },
+  "label_or": {
+    "message": "または"
+  },
+  "o_about_hello": {
+    "message": "こんにちは ：）"
+  },
+  "o_about_intro": {
+    "message": "私の名前は$1$であり、私は$app_name$の作者です。"
+  },
+  "o_about_like_it": {
+    "message": "あなたがそれを好きなら、ここでそれを評価してください："
+  },
+  "o_about_thanks": {
+    "message": "ありがとうございました！"
+  },
+  "o_about_contact": {
+    "message": "連絡先："
+  },
+  "o_about_issues": {
+    "message": "問題の報告："
+  },
+  "o_about_social_media": {
+    "message": "ソーシャルメディア："
+  },
+  "o_about_support_by_iban": {
+    "message": "IBANを使用した銀行振込："
+  },
+  "ps_no_results": {
+    "message": "一致する結果はありません"
+  },
+  "label_no_data": {
+    "message": "データなし"
+  },
+  "dark_mode": {
+    "message": "ダークモード"
+  },
+  "dark_mode_system": {
+    "message": "システムによる制御"
+  },
+  "_description_features": {
+    "message": "特徴："
+  },
+  "_description_why": {
+    "message": "どうして？"
+  },
+  "_description_privacy_policy": {
+    "message": "個人情報保護方針"
+  },
+  "_description_recent_features": {
+    "message": "最近追加された機能："
+  },
+  "_description_common_tags": {
+    "message": "タグ："
+  },
+  "_description_also_for_firefox": {
+    "message": "Firefoxにも利用可能です。"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "あなたのThunderbirdにも利用可能です。"
+  }
+}

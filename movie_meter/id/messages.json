@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "tanggal, IMDB, Deskripsi, Episode, Gauge, Grafik, IMDB, Info, Meter, Film, Film, Film, Netflix, IMDB, Peringkat, Seri, Pertunjukan, TV, Visual, Vote, Musim"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "film tidak ditemukan / salah film ditemukan - karena tidak ada integrasi \"resmi\" dengan halaman target, saya tidak dapat menjamin hasil 100% yang benar (tetapi dalam mayoritas kasusnya bekerja dengan sempurna)"
+  },
+  "_description_mm_not_working": {
+    "message": "Tidak berfungsi di halaman film favorit Anda?"
+  },
+  "_description_mm_add_support": {
+    "message": "Hubungi saya dan saya akan menambahkannya - jika mungkin (halaman harus berisi nama film dalam bahasa Inggris atau $visit_imdb$ tautan)."
+  },
+  "_description_mm_feature_1": {
+    "message": "peringkat film dan popularitas dari $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "tanggal episode berikutnya / sebelumnya dari $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "informasi film tambahan film / TV"
+  },
+  "_description_mm_feature_4": {
+    "message": "pemberitahuan Tentang Episode Baru"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark TV seri sebagai favorit dan Anda akan mendapatkan pemberitahuan ketika episode baru tersedia"
+  },
+  "_description_mm_feature_7": {
+    "message": "sembunyikan otomatis saat pemutaran video terdeteksi"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ akan menunjukkan kepada Anda peringkat dan popularitas film (atau serial TV)"
+  },
+  "name": {
+    "message": "Nama"
+  },
+  "year": {
+    "message": "Tahun"
+  },
+  "video_type": {
+    "message": "Tipe"
+  },
+  "video_type_0": {
+    "message": "Film"
+  },
+  "video_type_1": {
+    "message": "Seri"
+  },
+  "video_type_2": {
+    "message": "Episode"
+  },
+  "runtime": {
+    "message": "Runtime."
+  },
+  "premiered": {
+    "message": "Premier"
+  },
+  "premiere_in": {
+    "message": "Premiere in"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Negara"
+  },
+  "actors": {
+    "message": "Aktor"
+  },
+  "dvd": {
+    "message": "DVD"
+  },
+  "director": {
+    "message": "Direktur"
+  },
+  "totalseasons": {
+    "message": "Total Seasons."
+  },
+  "writer": {
+    "message": "Penulis"
+  },
+  "language": {
+    "message": "Bahasa"
+  },
+  "awards": {
+    "message": "Penghargaan"
+  },
+  "rated": {
+    "message": "Diberi peringkat"
+  },
+  "production": {
+    "message": "Produksi"
+  },
+  "plot": {
+    "message": "Merencanakan"
+  },
+  "website": {
+    "message": "Situs web"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Kunjungi $visit_imdb$ halaman"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Kunjungi $visit_tvmaze$ halaman untuk acara ini"
+  },
+  "make_favorite": {
+    "message": "Favorit"
+  },
+  "make_favorite_title": {
+    "message": "Tambahkan seri TV ke favorit. Ini akan memungkinkan Anda untuk menerima pemberitahuan tentang episode baru."
+  },
+  "last_episode": {
+    "message": "Terakhir"
+  },
+  "next_episode": {
+    "message": "Lanjut"
+  },
+  "last_episode_title": {
+    "message": "Episode terakhir"
+  },
+  "next_episode_title": {
+    "message": "Episode selanjutnya"
+  },
+  "episode_airtime": {
+    "message": "Airtime."
+  },
+  "episode_name": {
+    "message": "Nama"
+  },
+  "series_status": {
+    "message": "Status"
+  },
+  "episodes_count": {
+    "message": "Semua episode"
+  },
+  "episodes_count_title": {
+    "message": "Musim Sekarang $1 Memiliki $2 Episode"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "hari."
+  },
+  "hours": {
+    "message": "jam"
+  },
+  "na": {
+    "message": "Tidak tersedia"
+  },
+  "user_rating": {
+    "message": "Peringkat pengguna: $1"
+  },
+  "user_popularity": {
+    "message": "Popularitas: $1 suara"
+  },
+  "source": {
+    "message": "Sumber: $1"
+  },
+  "show_details": {
+    "message": "lebih..."
+  },
+  "hide_details": {
+    "message": "kurang..."
+  },
+  "save_position": {
+    "message": "Simpan Posisi"
+  },
+  "revert_position": {
+    "message": "Kembalikan Posisi"
+  },
+  "win_disable": {
+    "message": "Nonaktifkan pada $1"
+  },
+  "cm_advanced": {
+    "message": "Maju"
+  },
+  "op_visit_home": {
+    "message": "Kunjungi Homepage."
+  },
+  "op_support_me": {
+    "message": "Bantu proyek ini"
+  },
+  "hide": {
+    "message": "Sembunyikan jendela"
+  },
+  "show": {
+    "message": "Etalase"
+  },
+  "reset_position": {
+    "message": "Reset Posisi"
+  },
+  "search": {
+    "message": "Cari"
+  },
+  "configure_search": {
+    "message": "Konfigurasikan opsi pencarian"
+  },
+  "selection_search": {
+    "message": "Cari $1."
+  },
+  "menu_options": {
+    "message": "Pilihan"
+  },
+  "menu_quick_options": {
+    "message": "Pilihan Cepat"
+  },
+  "menu_visit_homepage": {
+    "message": "Kunjungi Homepage."
+  },
+  "menu_request_support": {
+    "message": "Minta Dukungan untuk $1"
+  },
+  "show_introduction": {
+    "message": "Tampilkan Pendahuluan Halaman"
+  },
+  "o_about_issues": {
+    "message": "Masalah laporan:"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "firefox_store": {
+    "message": "Add-on Firefox"
+  },
+  "chrome_store": {
+    "message": "Toko web Chrome"
+  },
+  "movie_not_detected": {
+    "message": "Film tidak terdeteksi"
+  },
+  "movie_not_detected_title": {
+    "message": "Tidak ada seri film / TV yang tidak terdeteksi di halaman ini."
+  },
+  "movie_not_found": {
+    "message": "Film tidak ditemukan"
+  },
+  "movie_not_found_title": {
+    "message": "Info film tidak ditemukan di server."
+  },
+  "status_type_0": {
+    "message": "Berlari"
+  },
+  "status_type_1": {
+    "message": "Berakhir."
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Show akan berlanjut"
+  },
+  "status_type_title_1": {
+    "message": "Tampilkan telah berakhir - tidak ada lagi musim yang direncanakan"
+  },
+  "status_type_title_2": {
+    "message": "Menunjukkan masa depan tidak jelas"
+  },
+  "notify_movie_not_found": {
+    "message": "Film tidak ditemukan: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Gunakan nama film bahasa Inggris saja!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Cari tidak sempurna ..."
+  },
+  "notify_video_hide": {
+    "message": "Video terdeteksi - $app_name$ sekarang disembunyikan"
+  },
+  "notify_video_hide_body": {
+    "message": "Klik di sini untuk tidak menunjukkan pemberitahuan ini lagi"
+  },
+  "notify_new_episodes": {
+    "message": "Episode baru ditayangkan"
+  },
+  "title_introduction": {
+    "message": "Pengantar"
+  },
+  "supported_pages": {
+    "message": "Halaman yang didukung:"
+  },
+  "supported_grows": {
+    "message": "(Daftar ini tumbuh lebih besar dan lebih besar)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Peringkat dan informasi popularitas berasal dari $1$. Informasi tentang episode berasal dari $2$."
+  },
+  "title_got_it": {
+    "message": "Mendapatnya, mari kita mulai!"
+  },
+  "_description_privacy_policy": {
+    "message": "Kebijakan pribadi"
+  },
+  "_description_recent_features": {
+    "message": "Fitur yang baru ditambahkan:"
+  },
+  "_description_known_issues": {
+    "message": "Masalah Dikenal:"
+  },
+  "_description_common_tags": {
+    "message": "Tag:"
+  },
+  "_description_features": {
+    "message": "Fitur:"
+  },
+  "about_me": {
+    "message": "Saya Addon Developer sejak 2016. Tujuan saya adalah membangun ekstensi yang kuat untuk browser web Anda untuk membuat Anda lebih produktif."
+  },
+  "about_good_job": {
+    "message": "Jika Anda pikir saya melakukan pekerjaan dengan baik, silakan donasi :)"
+  },
+  "about_income": {
+    "message": "Donasi Anda adalah satu-satunya penghasilan saya!"
+  },
+  "about_thanks": {
+    "message": "Terima kasih telah mendukung pekerjaan saya!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Transfer bank menggunakan IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Mendukung pengembang independen!"
+  }
+}

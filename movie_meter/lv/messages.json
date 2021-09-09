@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "datums, IMDB, apraksts, epizode, gabarīts, grafiks, IMDB, info, skaitītājs, filma, filmas, filmas, netflix, IMDB, reitings, sērija, šovi, TV, TV šovs, video, vizuālās, balsis, sezona"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "filma nav atrasta / nepareiza filma, jo nav \"oficiāla\" integrācija ar mērķa lapām, es nevaru garantēt 100% pareizus rezultātus (bet vairumā gadījumu tas darbojas perfekti)"
+  },
+  "_description_mm_not_working": {
+    "message": "Vai nedarbojas savā iecienītākajā filmas lapā?"
+  },
+  "_description_mm_add_support": {
+    "message": "Sazinieties ar mani, un es to pievienošu - ja iespējams (lapā jāietver filmas nosaukums angļu valodā vai $visit_imdb$ saite)."
+  },
+  "_description_mm_feature_1": {
+    "message": "filmu vērtējums un popularitāte no $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "nākamais / Iepriekšējais epizode datums no $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "papildu filmu / TV sērijas informācija"
+  },
+  "_description_mm_feature_4": {
+    "message": "paziņojums par jaunu epizodi"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark TV sērija kā mīļākie, un jūs saņemsiet paziņojumu, kad ir pieejama jauna epizode"
+  },
+  "_description_mm_feature_7": {
+    "message": "automātiski paslēpt, kad atklāj video atskaņošanu"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ parādīs filmas (vai TV sērijas) vērtējumu un popularitāti"
+  },
+  "name": {
+    "message": "Nosaukt"
+  },
+  "year": {
+    "message": "Gads"
+  },
+  "video_type": {
+    "message": "Veids"
+  },
+  "video_type_0": {
+    "message": "Filma"
+  },
+  "video_type_1": {
+    "message": "Sērija"
+  },
+  "video_type_2": {
+    "message": "Epizode"
+  },
+  "runtime": {
+    "message": "Runtime"
+  },
+  "premiered": {
+    "message": "Pirmizrāde"
+  },
+  "premiere_in": {
+    "message": "Pirmizrāde"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Valsts"
+  },
+  "actors": {
+    "message": "Aktieri"
+  },
+  "dvd": {
+    "message": "Dvd"
+  },
+  "director": {
+    "message": "Direktors"
+  },
+  "totalseasons": {
+    "message": "Kopā sezonas"
+  },
+  "writer": {
+    "message": "Rakstnieks"
+  },
+  "language": {
+    "message": "Valoda"
+  },
+  "awards": {
+    "message": "Apbalvojumi"
+  },
+  "rated": {
+    "message": "Nomināls"
+  },
+  "production": {
+    "message": "Ražošana"
+  },
+  "plot": {
+    "message": "Zemes gabals"
+  },
+  "website": {
+    "message": "Vietne"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Apmeklējiet $visit_imdb$ lapu"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Apmeklējiet $visit_tvmaze$ lapu šai izstādei"
+  },
+  "make_favorite": {
+    "message": "Iecienītākais"
+  },
+  "make_favorite_title": {
+    "message": "Pievienot TV sēriju favorītiem. Tas ļaus jums saņemt paziņojumu par jaunām epizodēm."
+  },
+  "last_episode": {
+    "message": "Pēdējais"
+  },
+  "next_episode": {
+    "message": "Nākamais"
+  },
+  "last_episode_title": {
+    "message": "Pēdējā epizode"
+  },
+  "next_episode_title": {
+    "message": "Nākamā epizode"
+  },
+  "episode_airtime": {
+    "message": "Kuģa laika beigām"
+  },
+  "episode_name": {
+    "message": "Nosaukt"
+  },
+  "series_status": {
+    "message": "Statuss"
+  },
+  "episodes_count": {
+    "message": "Epizodes"
+  },
+  "episodes_count_title": {
+    "message": "Pašreizējā sezona $1 ir $2 epizodes"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "dienas"
+  },
+  "hours": {
+    "message": "stundas"
+  },
+  "na": {
+    "message": "Nav pieejams"
+  },
+  "user_rating": {
+    "message": "Lietotāja vērtējums: $1"
+  },
+  "user_popularity": {
+    "message": "Popularitāte: $1 balsis"
+  },
+  "source": {
+    "message": "Avots: $1"
+  },
+  "show_details": {
+    "message": "vairāk ..."
+  },
+  "hide_details": {
+    "message": "mazāk ..."
+  },
+  "save_position": {
+    "message": "Saglabāt pozīciju"
+  },
+  "revert_position": {
+    "message": "Atgriezt pozīciju"
+  },
+  "win_disable": {
+    "message": "Atspējot $1"
+  },
+  "cm_advanced": {
+    "message": "Progresīvs"
+  },
+  "op_visit_home": {
+    "message": "Apmeklējiet mājas lapu"
+  },
+  "op_support_me": {
+    "message": "Palīdzēt šim projektam"
+  },
+  "hide": {
+    "message": "Slēpt logu"
+  },
+  "show": {
+    "message": "Parādīt logu"
+  },
+  "reset_position": {
+    "message": "Atiestatīt pozīciju"
+  },
+  "search": {
+    "message": "Meklēt"
+  },
+  "configure_search": {
+    "message": "Konfigurēt meklēšanas iespējas"
+  },
+  "selection_search": {
+    "message": "Meklēt $1"
+  },
+  "menu_options": {
+    "message": "Opcijas"
+  },
+  "menu_quick_options": {
+    "message": "Ātrās opcijas"
+  },
+  "menu_visit_homepage": {
+    "message": "Apmeklējiet mājas lapu"
+  },
+  "menu_request_support": {
+    "message": "Pieprasīt atbalstu $1"
+  },
+  "show_introduction": {
+    "message": "Rādīt ieviešanas lapu"
+  },
+  "o_about_issues": {
+    "message": "Ziņojuma jautājumi:"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "firefox_store": {
+    "message": "Firefox pievienojumprogrammas"
+  },
+  "chrome_store": {
+    "message": "Chrome interneta veikals"
+  },
+  "movie_not_detected": {
+    "message": "Filma nav atklāta"
+  },
+  "movie_not_detected_title": {
+    "message": "Šajā lapā netika konstatēta filmu / TV sērija."
+  },
+  "movie_not_found": {
+    "message": "Filma nav atrasta"
+  },
+  "movie_not_found_title": {
+    "message": "Filmas informācija netika atrasts serverī."
+  },
+  "status_type_0": {
+    "message": "Skriešana"
+  },
+  "status_type_1": {
+    "message": "Beidzās"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Rādīt turpināsies"
+  },
+  "status_type_title_1": {
+    "message": "Šovs ir beidzies - nav plānotas vairāk gadalaiku"
+  },
+  "status_type_title_2": {
+    "message": "Rāda nākotni nav skaidrs"
+  },
+  "notify_movie_not_found": {
+    "message": "Filma nav atrasta: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Izmantojiet tikai angļu filmas nosaukumu!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Meklēšana nav ideāls ..."
+  },
+  "notify_video_hide": {
+    "message": "Atklāts video - $app_name$ tagad ir slēpta"
+  },
+  "notify_video_hide_body": {
+    "message": "Noklikšķiniet šeit, lai vēlreiz neparādītu šo paziņojumu"
+  },
+  "notify_new_episodes": {
+    "message": "Jauna epizode tika nodota"
+  },
+  "title_introduction": {
+    "message": "Ieviešana"
+  },
+  "supported_pages": {
+    "message": "Atbalstītās lapas:"
+  },
+  "supported_grows": {
+    "message": "(Šis saraksts aug lielāks un lielāks)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Informācija par popularitāti ir no $1$. Informācija par epizodēm ir no $2$."
+  },
+  "title_got_it": {
+    "message": "Got to, sāksim!"
+  },
+  "_description_privacy_policy": {
+    "message": "Privātuma politika"
+  },
+  "_description_recent_features": {
+    "message": "Nesen pievienotās funkcijas:"
+  },
+  "_description_known_issues": {
+    "message": "Zināmi jautājumi:"
+  },
+  "_description_common_tags": {
+    "message": "Tags:"
+  },
+  "_description_features": {
+    "message": "Iespējas:"
+  },
+  "about_me": {
+    "message": "Es esmu Addon izstrādātājs kopš 2016. gada Mans mērķis ir veidot spēcīgus paplašinājumus jūsu tīmekļa pārlūkprogrammai, lai padarītu jūs produktīvāku."
+  },
+  "about_good_job": {
+    "message": "Ja jūs domājat, ka es daru labu darbu, lūdzu, ziedot :)"
+  },
+  "about_income": {
+    "message": "Jūsu ziedojums ir mans vienīgais ienākums!"
+  },
+  "about_thanks": {
+    "message": "Paldies, ka atbalstāt savu darbu!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankas pārskaitījums, izmantojot IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Atbalstiet neatkarīgu attīstītāju!"
+  }
+}

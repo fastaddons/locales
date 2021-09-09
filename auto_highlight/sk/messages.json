@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "Niekedy stránka nie je dobre navrhnutá a informácie, ktoré hľadáte, nie sú dostatočne viditeľné."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Bežné prípady použitia:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Zvýraznite kľúčové slová ako:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Zvýraznite \"Doprava zdarma\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Hľadáte niečo konkrétne na webe? Použite \"Dočasné zvýraznenie\", ktoré vám to pomôže nájsť na všetkých stránkach. Dočasné zvýraznenie sa automaticky vymažte, keď zatvoríte prehliadač."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Môžete dokonca skryť slová nastavením veľkosti písma na nulu."
+  },
+  "_description_tags_ah": {
+    "message": "zvýraznenie, značka, metadáta, film, automatický, text, synchronizácia, výber, hľadanie"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ automaticky zvýrazní definované slová na definovaných stránkach."
+  },
+  "match_type": {
+    "message": "Typ zhody:"
+  },
+  "match_type_0": {
+    "message": "Doména je"
+  },
+  "match_type_1": {
+    "message": "URL je"
+  },
+  "match_type_2": {
+    "message": "URL obsahuje"
+  },
+  "match_type_3": {
+    "message": "URL spĺňa RegEx"
+  },
+  "match_type_4": {
+    "message": "Každá stránka"
+  },
+  "selection_highlight": {
+    "message": "Zvýraznite $1"
+  },
+  "selection_temp": {
+    "message": "Dočasne zvýrazniť $1"
+  },
+  "selection_temp_everywhere": {
+    "message": "Dočasne zvýrazniť všade $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ na tejto stránke"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Vždy sa otvorí na novej karte - po kliknutí na ikonu panela s nástrojmi"
+  },
+  "disable_rule": {
+    "message": "Zakázané"
+  },
+  "temporal_rule": {
+    "message": "Dočasný"
+  },
+  "each_word": {
+    "message": "Každé slovo"
+  },
+  "rules": {
+    "message": "Pravidlá"
+  },
+  "delete": {
+    "message": "Vymazať"
+  },
+  "rename": {
+    "message": "Premenovať"
+  },
+  "duplicate": {
+    "message": "Duplikovať"
+  },
+  "delete_rule": {
+    "message": "Vymazať pravidlo"
+  },
+  "delete_rule_title": {
+    "message": "Vymazať pravidlo \"$1\"?"
+  },
+  "on_pages": {
+    "message": "Na stránkach:"
+  },
+  "disabled_rule": {
+    "message": "Pravidlo je zakázané"
+  },
+  "incomplete_rule": {
+    "message": "Neúplné pravidlo"
+  },
+  "active_on_current_page": {
+    "message": "Aktívne na aktuálnej stránke"
+  },
+  "temporal_rule_helper": {
+    "message": "Dočasné pravidlo - sa po reštartovaní prehliadača sa vymaže"
+  },
+  "active_on_pages": {
+    "message": "Aktívne na stránkach:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Zvýrazniť každé slovo samostatne"
+  },
+  "case_sensitive": {
+    "message": "Citlivý na veľkosť písmen"
+  },
+  "ignore_diacritics": {
+    "message": "Ignorovať diakritiku"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "Regulárny výraz"
+  },
+  "across_elements": {
+    "message": "Cez prvky"
+  },
+  "across_elements_help": {
+    "message": "Vyhľadajte text cez susedské HTML prvky"
+  },
+  "style": {
+    "message": "Štýl"
+  },
+  "preview": {
+    "message": "Náhľad:"
+  },
+  "empty_rule": {
+    "message": "prázdne pravidlo"
+  },
+  "create_new_rule": {
+    "message": "Vytvoriť nové pravidlo"
+  },
+  "import_export": {
+    "message": "Import / Export"
+  },
+  "help_this_project": {
+    "message": "Pomôžte tomuto projektu"
+  },
+  "about_faq": {
+    "message": "Info / FAQ"
+  },
+  "faq": {
+    "message": "FAQ:"
+  },
+  "storage_info": {
+    "message": "Informácie o ukladaní:"
+  },
+  "storage_safari_1": {
+    "message": "Safari v súčasnosti nepodporuje automatickú synchronizáciu údajov."
+  },
+  "storage_safari_2": {
+    "message": "Pre prenos (alebo zálohovanie) pravidiel zvýraznenia použite funkciu \"Import / Export\"."
+  },
+  "storage_info_1": {
+    "message": "Vaše pravidlá sa ukladajú pomocou bezpečného $1 Sync, ktorý synchronizuje vaše pravidlá medzi všetkými zariadeniami (ak ste prihlásení na rovnaký účet)."
+  },
+  "storage_info_2": {
+    "message": "Toto ukladací priestor dokáže uložiť 100 kB dát a až do 500 pravidiel."
+  },
+  "storage_info_3": {
+    "message": "Môžete tiež exportovať (zálohovať) svoje pravidlá do súboru pomocou funkcie \"Import / Export\" a potom ho importovať na iné zariadenia."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Nahradiť existujúce pravidlá zvýraznenia"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Pridať stránku na zvýraznenie"
+  },
+  "remove_highlight_from_page": {
+    "message": "Odstrániť zvýraznenie zo stránky"
+  },
+  "bold": {
+    "message": "Tučný"
+  },
+  "italic": {
+    "message": "Kurzíva"
+  },
+  "underline": {
+    "message": "Podčiarknutie"
+  },
+  "background_color": {
+    "message": "Farba pozadia"
+  },
+  "background": {
+    "message": "Pozadie"
+  },
+  "text_color": {
+    "message": "Farba textu"
+  },
+  "color": {
+    "message": "Farba"
+  },
+  "font_size": {
+    "message": "Veľkosť písma"
+  },
+  "rule_name": {
+    "message": "Názov pravidla"
+  },
+  "highlight_regular_expression": {
+    "message": "Zvýrazniť regulárny výraz:"
+  },
+  "highlight_text": {
+    "message": "Zvýrazniť text:"
+  },
+  "highlight_on_pages": {
+    "message": "Zvýrazniť na stránkach"
+  },
+  "empty_name_helper": {
+    "message": "Nechajte prázdne, ak chcete použiť \"Zvýraznený text\" ako názov"
+  },
+  "faq_1": {
+    "message": "Ako rýchlo zvýrazniť slovo na aktuálnej stránke?"
+  },
+  "faq_1a": {
+    "message": "Použite kontextové menu - vyberte text / pravým tlačidlom myši / \"Auto Highlight\". Ak kliknite pravým tlačidlom myši na stránku (bez výberu textu) môžete aplikovať existujúce pravidlá na aktuálnu stránku."
+  },
+  "faq_2": {
+    "message": "Chcem zvýrazniť viac slov, musím vytvoriť nové pravidlo pre každé slovo?"
+  },
+  "faq_2a": {
+    "message": "Nie, použite políčko \"Každé slovo\". Potom bude každé slovo zvýraznené samostatne."
+  },
+  "faq_3": {
+    "message": "Čo je to \"RegExp\"?"
+  },
+  "faq_3a": {
+    "message": "Tiež známy ako regulárny výraz, je to sekvencia znakov, ktoré definujú vyhľadávací vzor. Je to komplikovaný konštrukt, ktorý umožňuje komplexné zvýraznenie prvkov s nejakým podobným vzorom. Napríklad ceny, dátumy, telefónne čísla atď."
+  },
+  "faq_4": {
+    "message": "Môžete mi ukázať nejaké príklady RegExp?"
+  },
+  "faq_4a": {
+    "message": "Zvýraznite všetky ceny ako napr. $1"
+  },
+  "faq_5": {
+    "message": "Mohli by ste to vysvetliť?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" zvýrazní znak dolára. Spätné lomítko je potrebné, pretože dolár má špeciálny význam v RegExp."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" zvýrazní jednu číslicu"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" znamená opakovať jeden alebo viackrát. Pri umiestnení za číslicou $2$ znamená jedno alebo viac číslic."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" zdôrazňuje bodku. Spätný lomík je opäť potrebný, pretože bodový symbol sám znamená ľubovoľný jeden znak v RegExp."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" znamená ani raz alebo raz. Pri umiestnení po zátvorkách $2$ to znamená, čo je vo vnútri týchto zátvoriek voliteľné (môže byť tam alebo nie). Používame ho pre desatinnú časť čísla, ktorá je voliteľná."
+  },
+  "faq_5f": {
+    "message": "Viac informácií o pravidlách RegExp"
+  },
+  "import_finished": {
+    "message": "Import dokočený",
+    "common": true
+  },
+  "import_error": {
+    "message": "Error",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Importovať zálohovací súbor $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Domovská stránka",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Stránka dopnku",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome obchod",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox doplnky",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Doplnky Thunderbird",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Možnosti",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Veľkosť textu",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Veľkosť bočného panela",
+    "common": true
+  },
+  "label_next": {
+    "message": "Ďalej",
+    "common": true
+  },
+  "label_note": {
+    "message": "Poznámka:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Odstrániť",
+    "common": true
+  },
+  "label_warning": {
+    "message": "POZOR:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Nastavenia:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Štandardné:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Hotovo!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Skopírované!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Vlastné:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Zavrieť",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Nainštalovaný",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Otvoriť stránku",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Súhlasím",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Zrušiť",
+    "common": true
+  },
+  "label_save": {
+    "message": "Uložiť",
+    "common": true
+  },
+  "label_required": {
+    "message": "Požadovaný",
+    "common": true
+  },
+  "label_sending": {
+    "message": "Odosielanie ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Škála:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Priblíženie:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Veľkosť:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Už čoskoro",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Uložiť zmeny",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Zrušiť zmeny",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menu",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Navštíviť web",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Pomôž tomuto projektu",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Podpor programátora z Dolného Kubína!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Ahoj!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Som vývojár doplnkov od roku 2016 a mojím cieľom je vytvoriť výkonné rozšírenia pre Tvoj webový prehliadač, aby si dosiahol vyššiu produktivitu.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Ak si myslíš, že odvádzam dobrú prácu, prosím podpor ma :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Tvoj dar je mojím jediným príjmom!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Ďakujem za podporu mojej práce!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Pomoc",
+    "common": true
+  },
+  "o_title": {
+    "message": "Možnosti - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "záloha",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Vytvoriť novú zálohu",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Uložiť nastavenia",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Ak chcete exportovať údaje do súboru, znova otvorte toto okno na novej karte.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Kliknite pravým tlačidlom myši / \"Download Linked File\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Všeobecné",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Pozadie",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Kontextové menu",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Miniatúry",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Klávesové skratky",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Import / záloha",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "O rozšírení",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Nastavenia",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Téma:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Všeobecné:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "vypnuté",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "zapnuté",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixelov",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "sekúnd",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Kontextové menu:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Vypnúť kontextové menu: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Nastavenia zálohovania / obnovy do súboru:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Importuj",
+    "common": true
+  },
+  "title_import": {
+    "message": "Import",
+    "common": true
+  },
+  "title_export": {
+    "message": "Export",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Export zálohy",
+    "common": true
+  },
+  "label_or": {
+    "message": "alebo",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Ahoj :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Volám sa $1$, som z Dolného Kubína a som autorom rozšírenia $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Ak sa ti páči, neváhaj a napíš mi hodnotenie tu:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Ak sa ti niečo nepáči, prosím napíš mi na môj e-mail. Spätná väzba je veľmi dôležitá a väčšinu požiadaviek hneď programujem.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Prosím, zváž podporu mojej práce",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankový prevod pomocou IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "peňažným darom (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "cez Patron",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Ďakujem!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "domov:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Nahlásiť problémy:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Môžem odpovedať iba po Anglicky / Slovensky",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sociálne médiá:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Uložiť zmeny a zavrieť",
+    "common": true
+  },
+  "o_saved": {
+    "message": "uložené!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Žiadne zodpovedajúce výsledky",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Žiadne dáta",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Tmavý režim",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Ovládané systémom",
+    "common": true
+  },
+  "used_space": {
+    "message": "Použitý priestor: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Otvoriť v novej karte",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Zapnite / vypnite Addon",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon je vypnutý",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Prečo?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Zásady ochrany osobných údajov",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Nedávno pridané funkcie:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tagy:",
+    "common": true
+  }
+}

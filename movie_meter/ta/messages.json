@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "தேதி, IMDB, விளக்கம், எபிசோட், காஜ், வரைபடம், IMDB, தகவல், மீட்டர், திரைப்படம், படம், திரைப்படங்கள், நெட்ஃபிக்ஸ், IMDB, மதிப்பீடு, தொடர், நிகழ்ச்சிகள், தொலைக்காட்சி, தொலைக்காட்சி நிகழ்ச்சி, வீடியோ, காட்சி, வாக்குகள், பருவம்"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "திரைப்படம் காணப்படவில்லை / தவறான படம் காணப்படவில்லை - இலக்கு பக்கங்களுடன் \"அதிகாரி\" ஒருங்கிணைப்பு இல்லை என்பதால், 100% சரியான முடிவுகளை நான் உத்தரவாதம் செய்ய முடியாது (ஆனால் பெரும்பாலான வழக்குகளில் அது செய்தபின் வேலை செய்கிறது)"
+  },
+  "_description_mm_not_working": {
+    "message": "உங்களுக்கு பிடித்த திரைப்பட பக்கத்தில் வேலை செய்யவில்லையா?"
+  },
+  "_description_mm_add_support": {
+    "message": "என்னை தொடர்பு கொள்ளவும் மற்றும் நான் அதை சேர்க்கிறேன் (பக்கம் ஆங்கிலம் அல்லது $visit_imdb$ இணைப்பில் படம் பெயர் கொண்டிருக்க வேண்டும்)."
+  },
+  "_description_mm_feature_1": {
+    "message": "$visit_imdb$ இலிருந்து திரைப்பட மதிப்பீடு மற்றும் புகழ் பெற்றது"
+  },
+  "_description_mm_feature_2": {
+    "message": "$visit_tvmaze$ இலிருந்து அடுத்த / முந்தைய எபிசோட் தேதி"
+  },
+  "_description_mm_feature_3": {
+    "message": "கூடுதல் திரைப்பட / தொலைக்காட்சி தொடர் தகவல்"
+  },
+  "_description_mm_feature_4": {
+    "message": "புதிய எபிசோட் பற்றி அறிவிப்பு"
+  },
+  "_description_mm_feature_5": {
+    "message": "மார்க் டிவி தொடர் பிடித்த மற்றும் புதிய எபிசோட் கிடைக்கும்போது அறிவிப்பைப் பெறுவீர்கள்"
+  },
+  "_description_mm_feature_7": {
+    "message": "வீடியோ பின்னணி கண்டறியப்பட்ட போது தானாக மறை"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ ஒரு திரைப்படத்தின் மதிப்பீடு மற்றும் புகழ் காண்பிக்கும் (அல்லது தொலைக்காட்சி தொடர்)"
+  },
+  "name": {
+    "message": "பெயர்"
+  },
+  "year": {
+    "message": "ஆண்டு"
+  },
+  "video_type": {
+    "message": "வகை"
+  },
+  "video_type_0": {
+    "message": "திரைப்பட"
+  },
+  "video_type_1": {
+    "message": "தொடர்"
+  },
+  "video_type_2": {
+    "message": "எபிசோட்"
+  },
+  "runtime": {
+    "message": "இயக்க முறை"
+  },
+  "premiered": {
+    "message": "பிரீமியர்"
+  },
+  "premiere_in": {
+    "message": "பிரீமியர் இன்"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "நாடு"
+  },
+  "actors": {
+    "message": "நடிகர்கள்"
+  },
+  "dvd": {
+    "message": "Dvd."
+  },
+  "director": {
+    "message": "இயக்குனர்"
+  },
+  "totalseasons": {
+    "message": "மொத்த பருவங்கள்"
+  },
+  "writer": {
+    "message": "எழுத்தாளர்"
+  },
+  "language": {
+    "message": "மொழி. மொழி"
+  },
+  "awards": {
+    "message": "விருதுகள்"
+  },
+  "rated": {
+    "message": "மதிப்பிடப்பட்டது"
+  },
+  "production": {
+    "message": "உற்பத்தி"
+  },
+  "plot": {
+    "message": "சதி"
+  },
+  "website": {
+    "message": "இணையதளம்"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "$visit_imdb$ பக்கத்தைப் பார்வையிடவும்"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "இந்த நிகழ்ச்சிக்கு $visit_tvmaze$ பக்கத்தைப் பார்வையிடவும்"
+  },
+  "make_favorite": {
+    "message": "பிடித்த"
+  },
+  "make_favorite_title": {
+    "message": "விருப்பத்திற்கு டிவி தொடர் சேர்க்கவும். இது புதிய எபிசோடுகளைப் பற்றி அறிவிப்பைப் பெற அனுமதிக்கும்."
+  },
+  "last_episode": {
+    "message": "கடந்த"
+  },
+  "next_episode": {
+    "message": "அடுத்தது"
+  },
+  "last_episode_title": {
+    "message": "கடைசி எபிசோட்"
+  },
+  "next_episode_title": {
+    "message": "அடுத்த எபிசோட்"
+  },
+  "episode_airtime": {
+    "message": "AIRTIME."
+  },
+  "episode_name": {
+    "message": "பெயர்"
+  },
+  "series_status": {
+    "message": "நிலை"
+  },
+  "episodes_count": {
+    "message": "எபிசோடுகள்"
+  },
+  "episodes_count_title": {
+    "message": "தற்போதைய பருவம் $1 $2 எபிசோடுகள்"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "நாட்களில்"
+  },
+  "hours": {
+    "message": "மணி நேரம்"
+  },
+  "na": {
+    "message": "கிடைக்கவில்லை"
+  },
+  "user_rating": {
+    "message": "பயனர் மதிப்பீடு: $1."
+  },
+  "user_popularity": {
+    "message": "புகழ்: $1 வாக்குகள்"
+  },
+  "source": {
+    "message": "மூல: $1."
+  },
+  "show_details": {
+    "message": "மேலும் ..."
+  },
+  "hide_details": {
+    "message": "குறைந்த ..."
+  },
+  "save_position": {
+    "message": "பதவியை சேமிக்கவும்"
+  },
+  "revert_position": {
+    "message": "நிலையை மாற்றவும்"
+  },
+  "win_disable": {
+    "message": "$1 இல் முடக்கவும்"
+  },
+  "cm_advanced": {
+    "message": "மேம்படுத்தபட்ட"
+  },
+  "op_visit_home": {
+    "message": "முகப்புப்பக்கத்தைப் பார்வையிடவும்"
+  },
+  "op_support_me": {
+    "message": "இந்த திட்டத்தை உதவுங்கள்"
+  },
+  "hide": {
+    "message": "சாளரத்தை மறை"
+  },
+  "show": {
+    "message": "சாளரத்தைக் காட்டு"
+  },
+  "reset_position": {
+    "message": "நிலையை மீட்டமை"
+  },
+  "search": {
+    "message": "தேடல்"
+  },
+  "configure_search": {
+    "message": "தேடல் விருப்பங்களை கட்டமைக்கவும்"
+  },
+  "selection_search": {
+    "message": "தேடல் $1."
+  },
+  "menu_options": {
+    "message": "விருப்பங்கள்"
+  },
+  "menu_quick_options": {
+    "message": "விரைவு விருப்பங்கள்"
+  },
+  "menu_visit_homepage": {
+    "message": "முகப்புப்பக்கத்தைப் பார்வையிடவும்"
+  },
+  "menu_request_support": {
+    "message": "$1 க்கான ஆதரவு கோரிக்கை"
+  },
+  "show_introduction": {
+    "message": "அறிமுகம் பக்கம் காட்டு"
+  },
+  "o_about_issues": {
+    "message": "அறிக்கை சிக்கல்கள்:"
+  },
+  "safari_store": {
+    "message": "மேக் ஆப் ஸ்டோர்"
+  },
+  "firefox_store": {
+    "message": "பயர்பாக்ஸ் add-ons."
+  },
+  "chrome_store": {
+    "message": "குரோம் வலை கடை"
+  },
+  "movie_not_detected": {
+    "message": "படம் கண்டறியப்படவில்லை"
+  },
+  "movie_not_detected_title": {
+    "message": "இந்தப் பக்கத்தில் எந்த படம் / டிவி தொடர் கண்டறியப்படவில்லை."
+  },
+  "movie_not_found": {
+    "message": "படம் காணப்படவில்லை"
+  },
+  "movie_not_found_title": {
+    "message": "சினிமா தகவல் சேவையகத்தில் காணப்படவில்லை."
+  },
+  "status_type_0": {
+    "message": "ஓடுதல்"
+  },
+  "status_type_1": {
+    "message": "முடிந்தது"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "நிகழ்ச்சி தொடரும்"
+  },
+  "status_type_title_1": {
+    "message": "நிகழ்ச்சி முடிந்தது - இன்னும் பருவங்கள் திட்டமிடப்படவில்லை"
+  },
+  "status_type_title_2": {
+    "message": "எதிர்கால காட்டுகிறது தெளிவாக இல்லை"
+  },
+  "notify_movie_not_found": {
+    "message": "படம் காணப்படவில்லை: $1."
+  },
+  "notify_movie_not_found_body": {
+    "message": "ஆங்கில திரைப்பட பெயரை மட்டும் பயன்படுத்தவும்!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "தேடல் சரியானது அல்ல ..."
+  },
+  "notify_video_hide": {
+    "message": "வீடியோ கண்டறியப்பட்டது - $app_name$ இப்போது மறைக்கப்படுகிறது"
+  },
+  "notify_video_hide_body": {
+    "message": "இந்த அறிவிப்பை மீண்டும் காட்ட வேண்டாம் இங்கே கிளிக் செய்யவும்"
+  },
+  "notify_new_episodes": {
+    "message": "புதிய எபிசோட் ஒளிபரப்பப்பட்டது"
+  },
+  "title_introduction": {
+    "message": "அறிமுகம்"
+  },
+  "supported_pages": {
+    "message": "ஆதரவு பக்கங்கள்:"
+  },
+  "supported_grows": {
+    "message": "(இந்த பட்டியல் பெரிய மற்றும் பெரிய வளரும்)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "மதிப்பீடுகள் மற்றும் புகழ் தகவல் $1$ இலிருந்து. எபிசோடுகள் பற்றிய தகவல்கள் $2$ இலிருந்து வந்தவை."
+  },
+  "title_got_it": {
+    "message": "அது கிடைத்தது, ஆரம்பிக்கலாம்!"
+  },
+  "_description_privacy_policy": {
+    "message": "தனியுரிமை கொள்கை"
+  },
+  "_description_recent_features": {
+    "message": "சமீபத்தில் சேர்க்கப்பட்டது அம்சங்கள்:"
+  },
+  "_description_known_issues": {
+    "message": "அறியப்பட்ட சிக்கல்கள்:"
+  },
+  "_description_common_tags": {
+    "message": "குறிச்சொற்கள்:"
+  },
+  "_description_features": {
+    "message": "அம்சங்கள்:"
+  },
+  "about_me": {
+    "message": "நான் 2016 ஆம் ஆண்டு முதல் addon டெவலப்பர் இருக்கிறேன். உங்கள் வலை உலாவிக்கு உங்கள் வலை உலாவிக்கு சக்திவாய்ந்த நீட்டிப்புகளை உருவாக்க வேண்டும்."
+  },
+  "about_good_job": {
+    "message": "நான் ஒரு நல்ல வேலை செய்கிறேன் என்று நினைத்தால், தயவு செய்து நன்கொடை :)"
+  },
+  "about_income": {
+    "message": "உங்கள் நன்கொடை என் வருமானம்!"
+  },
+  "about_thanks": {
+    "message": "என் வேலையை ஆதரிப்பதற்கு நன்றி!"
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN ஐ பயன்படுத்தி வங்கி பரிமாற்றம்:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "ஆதரவு சுயாதீன டெவலப்பர்!"
+  }
+}

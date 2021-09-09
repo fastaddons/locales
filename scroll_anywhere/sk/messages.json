@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "kdekoľvek, tlačidlo, kurzor, drag, chytiť, chytiť drag, chytiť a drag, nekonečnú, ľavú, strednú, hybnosť, myš, pohyb, stránku, vpravo, rolovanie, rolovaciu stránku, posuvník, rolovanie, hod"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Skroluj stránku ťahaním tlačidla na myške. Podporuje rôzne nastavenia vrátane zotrvačnosti skrolovania!"
+  },
+  "field_int_default_value": {
+    "message": "Predvolená hodnota: $1, min: $2, max: $3"
+  },
+  "field_set_default": {
+    "message": "Obnoviť hodnotu na: $1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird rozšírenia"
+  },
+  "firefox_store": {
+    "message": "Firefox rozšírenia"
+  },
+  "chrome_store": {
+    "message": "Chrome obchod"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "win_disable": {
+    "message": "Vypnúť na doméne $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Vypnúť horizontálne skrolovanie na $1"
+  },
+  "op_visit_home": {
+    "message": "Navštíviť domovskú stránku"
+  },
+  "op_support_me": {
+    "message": "Pomôž tomuto projektu"
+  },
+  "o_title": {
+    "message": "Možnosti - $1"
+  },
+  "o_tab_general": {
+    "message": "Všeobecné"
+  },
+  "o_tab_momentum": {
+    "message": "Zotrvačnosť"
+  },
+  "o_tab_cursor": {
+    "message": "Kurzor"
+  },
+  "o_axis_locking": {
+    "message": "Uzamknutie osi"
+  },
+  "o_tab_performance": {
+    "message": "Výkon"
+  },
+  "o_tab_disabled_on": {
+    "message": "Vypnuté na"
+  },
+  "o_tab_advanced": {
+    "message": "Pokročilé"
+  },
+  "o_tab_scrollbars": {
+    "message": "Posuvníky"
+  },
+  "o_tab_backup": {
+    "message": "Záloha"
+  },
+  "o_tab_about": {
+    "message": "O rozšírení"
+  },
+  "o_axis_lock_helper": {
+    "message": "Pri skrolovaní časti stránky, ktorá sa dá skrolovať v jednej osi ale nadradená časť sa dá skrolovať v druhej osi, uzamknúť skrolovanie na jednu os:"
+  },
+  "o_axis_lock_0": {
+    "message": "Inteligentný zámok - dočasný zámok využívajúci zotrvačnosť"
+  },
+  "o_axis_lock_1": {
+    "message": "Striktný zámok - okamžité uzamknutie danej osi"
+  },
+  "o_axis_lock_2": {
+    "message": "Žiadny zámok - skrolovanie v oboch osiach"
+  },
+  "o_trend_momentum_window": {
+    "message": "Veľkosť zásobníka pre Inteligentný zámok"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Väčšia hodnota bude vyžadovať viac skrolovania v opačnej osi, aby sa zmenila os sckrolovania."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Doplnok je vypnutý! Kliknutím sem ho zapnete."
+  },
+  "o_cursor_change_default": {
+    "message": "bez zmeny - najlepší výkon"
+  },
+  "o_scroll_button": {
+    "message": "Skrolovacie tlačidlo:"
+  },
+  "o_direction_speed": {
+    "message": "Smer a rýchlosť:"
+  },
+  "o_multiplier": {
+    "message": "Násobič"
+  },
+  "o_times_speed": {
+    "message": "krát rýchlosť skrolovania"
+  },
+  "o_maximum_speed": {
+    "message": "Maximálna rýchlosť skrolovania (0 - vypnuté)"
+  },
+  "o_ratio_unit": {
+    "message": "pomer (dĺžka stránky / veľkosť okna)"
+  },
+  "o_scroll_type_0": {
+    "message": "Emulovať Posuvník v pravo"
+  },
+  "o_scroll_type_1": {
+    "message": "Uchopiť a ťahať - ako na mobile"
+  },
+  "o_scroll_type_2": {
+    "message": "Dynamická rýchlosť (experimentálne)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Ako keď ťaháte posuvník"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Ako posúvať stránku prstom na obrazovke mobilu"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Rýchlosť skrolovania bude pomalšia keď je stránka dlhšia"
+  },
+  "o_disable_key": {
+    "message": "Skrolovať / Neskrolovať pri stlačení klávesy:"
+  },
+  "o_momentum_category": {
+    "message": "Zotrvačnosť:"
+  },
+  "o_momentum_formula": {
+    "message": "Vzorec pre zotrvačnosť:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Rovnomerne spomalený pohyb"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Skrolovanie bude rovnomerne spomaľovať až kým nezastane"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Exponenciálne spomalený pohyb"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Skrolovanie bude rýchlo spomaľovať"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Nekonečný pohyb ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Skrolovanie nikdy neskončí"
+  },
+  "o_momentum_max_speed": {
+    "message": "Maximálna rýchlosť (0 - vypnuté):"
+  },
+  "o_page_weight": {
+    "message": "Váha stránky"
+  },
+  "o_grams": {
+    "message": "gramov :)"
+  },
+  "o_additional_speed": {
+    "message": "Dodatočná rýchlosť:"
+  },
+  "o_pixels_second": {
+    "message": "pixelov za sekundu"
+  },
+  "o_additional_duration": {
+    "message": "Dodatočná rýchlosť:"
+  },
+  "o_advanced_momentum": {
+    "message": "Pokročilé nastavenia zotrvačnosti (len pre expertov!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Zmena týchto hodnôt môže pokaziť zotrvačník!"
+  },
+  "o_compute_from_last": {
+    "message": "Vypočítať z posledných hodnôt:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Detekcia zastavenia"
+  },
+  "o_tracking_speed": {
+    "message": "Rýchlosť merania:"
+  },
+  "o_reset_values": {
+    "message": "Obnoviť hodnoty"
+  },
+  "o_cursor_scrolling": {
+    "message": "Kurzor použitý pri skrolovaní:"
+  },
+  "o_performance": {
+    "message": "Výkon:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Zabrániť veľkým skokom"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Ak používate nástroj, ktorý dokáže teleportovať kurzor cez obrazovku (keď sa dostanete na okraj), povolením tejto možnosti povolíte nepretržité (nekonečné) skrolovanie."
+  },
+  "o_advanced": {
+    "message": "Pokročilé:"
+  },
+  "o_movement_detection": {
+    "message": "Detekcia pohybu myši:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "O koľko pixelov sa musí pohnúť myš, aby sa zablokoval odkaz (link). Niekedy pri stlačení scrolovacieho tlačidla myši dôjde k malému pohybu myši, ktoré ale nechceme detekovať ako pohyb myši (a tým zablokovať link)."
+  },
+  "o_context_menu_block": {
+    "message": "Blokovanie kontextového menu:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Odblokovať kontextové menu po"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Ak sa ti zobrazuje kontextové menu po skrolovaní pravým tlačidlom myši, zvýš túto hodnotu"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Vypnúť horizontálne skrolovanie na doménach:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Vypnúť doplnok na doménach:"
+  },
+  "o_is_disabled_url": {
+    "message": "Vypnúť doplnok pre konkrétnu adresu / časť adresy:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Môžeš použiť hviezdičku (*) pre definovanie časti adresy, napríklad \"google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Zadajte jednu doménu na riadok."
+  },
+  "o_is_disabled": {
+    "message": "Vypnúť doplnok"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Použite ikonu panela s nástrojmi ako hlavného vypínača"
+  },
+  "o_scroll_button_middle": {
+    "message": "Stredné tlačidlo"
+  },
+  "o_scroll_button_right": {
+    "message": "Pravé tlačidlo"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Mac užívatelia - pre správne fungovanie - nezobrazovanie kontextového menu počas skrolovania - budete musieť súhlasiť s novým povolením."
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac užívatelia - kontextové menu bude zablokované! Pre jeho otvorenie podržte \"Shift\" klávesu alebo stlačte pravé tlačidlo tri-krát."
+  },
+  "o_scroll_button_left": {
+    "message": "Ľavé tlačidlo (experimentálna funkcionalita)"
+  },
+  "o_scroll_on_links": {
+    "message": "Skrolovať na odkazoch"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Keď je zapnuté, nebudeš môcť preťahovať odkazy (tzv: Drag & drop), iba pri nastavení a stlačení klávesy pre vypnutie skrolovania (Cltr, Alt alebo Shift)."
+  },
+  "o_scroll_on_text": {
+    "message": "Skrolovať cez text"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Napodobňuje skrolovanie / editovanie ako na mobile - po kliknutí na text sa vypne skrolovanie (editovací mód). Kliknutie mimo textu opäť aktivuje skrolovanie."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Skrolovať na textovom poli (textarea)"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea je blok textu, ktorému sa dá meniť veľkosť."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Skrolovať na editovateľnom html"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Napríklad telo email-u na Gmail stránke je editovateľné html."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "na text sa povolí označovanie / editovanie textu."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Kliknutím na text sa aktivuje \"Editovací mód\". Kliknutím mimo textu sa aktivuje \"Scrolovací mód\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Jedným kliknutím"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Dvojitým kliknutím"
+  },
+  "o_scrollbars_width": {
+    "message": "Vzhľad posuvníkov"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normálny (bez zmeny)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Tenké"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Žiadne"
+  },
+  "o_scrollbars_color": {
+    "message": "Farba posuvníka:"
+  },
+  "o_scrollbars_background": {
+    "message": "Farba pozadia posuvníka:"
+  },
+  "o_reverse": {
+    "message": "Obrátiť smer skrolovania"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Shift"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl"
+  },
+  "o_disable_type_0": {
+    "message": "Neskrolovať pri stlačení klávesy:"
+  },
+  "o_disable_type_1": {
+    "message": "Skrolovať iba pri stlačení klávesy:"
+  },
+  "o_momentum": {
+    "message": "povoliť zotrvačnosť - budeš môcť \"hodiť\" stránku (ako na dotykových zariadeniach / mobiloch)"
+  },
+  "o_no_css_edit": {
+    "message": "Neblokuj \"iframe\" elementy a nemeň kurzor pri skrolovaní"
+  },
+  "o_no_prevent_default": {
+    "message": "Neblokuj štandardnú akciu tlačidla"
+  },
+  "o_auto_link_lock": {
+    "message": "Blokovanie odkazov:"
+  },
+  "o_no_link_block": {
+    "message": "Neblokuj akciu tlačidla nad odkazom po skrolovaní"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Pri začatí skrolovania na odkaze a skončení skrolovania na tom istom odkaze prehliadač otvorí odkaz (link). Toto väčšinou nie je žiadané správanie a tak je sú odkazy štandardne zablokované."
+  },
+  "o_page_weight_title": {
+    "message": "Táto hodnota predstavuje ako \"ťažká\" je stránka. Ťažšie stránky majú väčšiu zotrvačnosť."
+  },
+  "o_additional_speed_title": {
+    "message": "Môžeš zrýchliť začiatočnú rýchlosť zotrvačníka."
+  },
+  "o_additional_duration_title": {
+    "message": "Pridaný čas k zotrvačnosti."
+  },
+  "o_compute_from_last_title": {
+    "message": "Začiatočná rýchlosť zotrvačnosti sa určí podľa rýchlosti skrolovania pred uvoľnením skrolovacieho tlačidla."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Ako dlho musí myš ostať v kľude - pred uvoľnením skrolovacieho tlačidla - aby sa NEAKTIVOVAL zotrvačník."
+  },
+  "o_tracking_speed_title": {
+    "message": "Interval pre meranie aktuálne rýchlosti skrolovania."
+  },
+  "o_scrolling_area": {
+    "message": "Skrolovacia oblasť:"
+  },
+  "o_outside_area_width": {
+    "message": "Skrolovacia oblasť (0 - vypnuté):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Pohybom kurzora mimo oblasti skrolovania sa obnoví pozícia z pred začiatkom skrolovania. Toto je štandardné správanie posuvníka v prehliadačoch."
+  },
+  "o_scroll_button_left_title": {
+    "message": "Pozor! Podpora pre ľavé tlačidlo myši závisí od funkčnosti jednej konkrétnej - už nepodporovanej - funkcie prehliadača Firefox, ktorá môže byť odstránená v niektorej z jeho budúcich verzií."
+  },
+  "o_prevent_text_selection": {
+    "message": "Zabrániť označeniu textu pri skrolovaní ľavým tlačidlom"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Na niektorých zariadeniach sa skrolovaním ľavým tlačidlom myši označuje aj text na stránke."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Neblokovať kontextové menu pri pokuse o skrolovanie stránky, ktorá nie je skrolovateľná"
+  },
+  "o_backup_restore": {
+    "message": "Záloha / Obnova nastavení"
+  },
+  "o_export_settings": {
+    "message": "Exportovať nastavenia do súboru"
+  },
+  "import_settings_button": {
+    "message": "Importovať nastavenia zo súboru $1 ..."
+  },
+  "import_finished": {
+    "message": "Import dokončený!"
+  },
+  "test_page_title": {
+    "message": "Otestujte si tu nastavenie skrolovania"
+  },
+  "menu_options": {
+    "message": "Možnosti"
+  },
+  "menu_visit_title": {
+    "message": "Navštíviť web"
+  },
+  "not_working": {
+    "message": "Zablokované prehliadačom"
+  },
+  "disabled_by_user": {
+    "message": "Vypnuté na tejto doméne"
+  },
+  "not_working_title": {
+    "message": "Váš prehliadač nepovolí ScrollAnywhere doplnok na týchto typoch stránok:"
+  },
+  "not_working_body": {
+    "message": "Ak chcete povoliť tento doplnok na stránkach \"mozilla.org\", pozrite si tento YouTube návod"
+  },
+  "show_scrollbars": {
+    "message": "Zobraziť posuvníky"
+  },
+  "show_scrollbars_title": {
+    "message": "Dočasne zobraziť posuvníky"
+  },
+  "switch_on_off": {
+    "message": "Vypnúť / Zapnúť skrolovanie"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Ak sa prejavuje citeľné oneskorenie medzi stlačením skrolovacieho tlačidla a začatím skrolovania, skúste aktivovať túto možnosť. Avšak nebude môcť skrolovať cez takzvané \"iframe\" elementy na webe, ako napríklad niektoré staré vložené videá alebo reklamy."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Toto nastavenia taktiež vypne zmenu kurzoru počas skrolovania (v prípade, že máte nejakú nastavenú)."
+  },
+  "o_helper_text_default_action": {
+    "message": "Užitočné v Linux-e na povolenie akcie \"Prilepiť\" stredným tlačidlom myši."
+  },
+  "o_about_hello": {
+    "message": "Ahoj :)"
+  },
+  "o_about_intro": {
+    "message": "Volám sa Juraj Mäsiar, som z Dolného Kubína a som autorom rozšírenia ScrollAnywhere."
+  },
+  "o_about_like_it": {
+    "message": "Ak sa ti páči, neváhaj a napíš mi hodnotenie tu:"
+  },
+  "o_about_dislike_it": {
+    "message": "Ak sa ti niečo nepáči, prosím napíš mi na môj e-mail. Spätná väzba je veľmi dôležitá a väčšinu požiadaviek viem naprogramovať."
+  },
+  "o_disabled": {
+    "message": "vypnuté",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "zapnuté",
+    "common": true
+  },
+  "o_times": {
+    "message": "krát",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixelov",
+    "common": true
+  },
+  "o_items": {
+    "message": "položiek",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milisekúnd",
+    "common": true
+  },
+  "label_working": {
+    "message": "pracujem...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Zavrieť",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Prosím, zváž podporu mojej práce",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "peňažným darom (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "cez Patreon",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Ďakujem!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "domov:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Nahlásiť problémy:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Môžem odpovedať iba po Anglicky / Slovensky",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sociálne médiá:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Uložiť zmeny a zavrieť",
+    "common": true
+  },
+  "o_saved": {
+    "message": "uložené!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Príde čoskoro...",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Uložiť zmeny",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Zásady ochrany osobných údajov",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Nedávno pridané funkcie:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tagy:",
+    "common": true
+  }
+}

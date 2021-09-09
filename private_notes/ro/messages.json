@@ -1,0 +1,341 @@
+{
+  "_description_feature_1": {
+    "message": ""
+  },
+  "_description_feature_2": {
+    "message": ""
+  },
+  "_description_tags_pn": {
+    "message": ""
+  },
+  "app_name": {
+    "message": "Private Notes"
+  },
+  "app_desc": {
+    "message": ""
+  },
+  "compression_level_0": {
+    "message": ""
+  },
+  "compression_level_1": {
+    "message": ""
+  },
+  "compression_level_2": {
+    "message": ""
+  },
+  "compression_level_info_0": {
+    "message": ""
+  },
+  "compression_level_info_1": {
+    "message": ""
+  },
+  "compression_level_info_2": {
+    "message": ""
+  },
+  "title_notes": {
+    "message": ""
+  },
+  "restore_backup": {
+    "message": ""
+  },
+  "create_new_note": {
+    "message": ""
+  },
+  "auto_locking_strategy_0": {
+    "message": ""
+  },
+  "auto_locking_strategy_1": {
+    "message": ""
+  },
+  "restore_note": {
+    "message": ""
+  },
+  "locked": {
+    "message": ""
+  },
+  "change_master_password": {
+    "message": ""
+  },
+  "import_export": {
+    "message": ""
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "notes_auto_saved_placeholder": {
+    "message": ""
+  },
+  "setup_new_pwd": {
+    "message": ""
+  },
+  "change_pwd": {
+    "message": ""
+  },
+  "pwd_to_change": {
+    "message": ""
+  },
+  "current_pwd": {
+    "message": ""
+  },
+  "new_pwd_advice": {
+    "message": ""
+  },
+  "repeat_pwd": {
+    "message": ""
+  },
+  "hint_pwd": {
+    "message": ""
+  },
+  "pwd_warning": {
+    "message": ""
+  },
+  "remember_pwd_0": {
+    "message": ""
+  },
+  "remember_pwd_1": {
+    "message": ""
+  },
+  "remember_pwd_2": {
+    "message": ""
+  },
+  "pwd_save": {
+    "message": ""
+  },
+  "error_saving_note": {
+    "message": ""
+  },
+  "quota_bytes_per_item": {
+    "message": ""
+  },
+  "quota_bytes": {
+    "message": ""
+  },
+  "max_items": {
+    "message": ""
+  },
+  "max_write_operations_per_hour": {
+    "message": ""
+  },
+  "max_write_operations_per_minute": {
+    "message": ""
+  },
+  "security": {
+    "message": ""
+  },
+  "visual_options": {
+    "message": ""
+  },
+  "compression_level": {
+    "message": ""
+  },
+  "auto_locking_strategy": {
+    "message": ""
+  },
+  "auto_lock_inactive_for": {
+    "message": ""
+  },
+  "dense_notes_list": {
+    "message": ""
+  },
+  "import_replace_all": {
+    "message": ""
+  },
+  "export_encrypted": {
+    "message": ""
+  },
+  "minutes": {
+    "message": ""
+  },
+  "label_font_size": {
+    "message": "Marimea fontului"
+  },
+  "sidebar_size": {
+    "message": ""
+  },
+  "popup_window_width": {
+    "message": ""
+  },
+  "popup_window_height": {
+    "message": ""
+  },
+  "always_open_in_new_tab": {
+    "message": ""
+  },
+  "safari_store": {
+    "message": "Magazin de aplicații Mac."
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store."
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons"
+  },
+  "import_finished": {
+    "message": "Importul sa terminat!"
+  },
+  "import_error": {
+    "message": "Eroare"
+  },
+  "import_backup_file": {
+    "message": "Importați fișierul de backup $1"
+  },
+  "search_search": {
+    "message": ""
+  },
+  "title_import": {
+    "message": "Import"
+  },
+  "title_export": {
+    "message": "Export"
+  },
+  "title_backups": {
+    "message": ""
+  },
+  "homepage": {
+    "message": "Pagina principala"
+  },
+  "addon_page": {
+    "message": "Addon pagina"
+  },
+  "settings": {
+    "message": ""
+  },
+  "options": {
+    "message": ""
+  },
+  "label_backups": {
+    "message": ""
+  },
+  "label_rename": {
+    "message": ""
+  },
+  "label_download": {
+    "message": ""
+  },
+  "label_delete": {
+    "message": ""
+  },
+  "label_next": {
+    "message": "Următorul"
+  },
+  "label_note": {
+    "message": "Notă:"
+  },
+  "label_remove": {
+    "message": "Elimina"
+  },
+  "label_warning": {
+    "message": "AVERTIZARE:"
+  },
+  "label_default": {
+    "message": "Mod implicit:"
+  },
+  "label_done": {
+    "message": "Terminat!"
+  },
+  "label_copied": {
+    "message": "Copiat!"
+  },
+  "label_close": {
+    "message": "Închide"
+  },
+  "label_open_page": {
+    "message": "Deschideți pagina"
+  },
+  "label_agree": {
+    "message": "De acord"
+  },
+  "label_cancel": {
+    "message": "Anulare"
+  },
+  "op_support_me": {
+    "message": "Ajutați acest proiect"
+  },
+  "support_developer": {
+    "message": "Sprijiniți dezvoltatorul independent!"
+  },
+  "hello_there": {
+    "message": "Salutare!"
+  },
+  "about_me": {
+    "message": "Sunt Addon Developer din 2016. Scopul meu este de a construi extensii puternice pentru browserul dvs. web pentru a vă face mai productivi."
+  },
+  "about_good_job": {
+    "message": "Dacă credeți că fac o treabă bună, vă rugăm să donați :)"
+  },
+  "about_income": {
+    "message": "Donația dvs. este singurul meu venit!"
+  },
+  "about_thanks": {
+    "message": "Vă mulțumim că ați susținut munca mea!"
+  },
+  "o_tab_context_menu": {
+    "message": "Meniul contextual"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_pixels": {
+    "message": "pixeli"
+  },
+  "o_seconds": {
+    "message": "secunde"
+  },
+  "label_or": {
+    "message": "sau"
+  },
+  "o_about_hello": {
+    "message": "Buna ziua :)"
+  },
+  "o_about_intro": {
+    "message": "Numele meu este $1$ și sunt autorul lui $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Dacă vă place, vă rugăm să îl evaluați aici:"
+  },
+  "o_about_thanks": {
+    "message": "Mulțumesc!"
+  },
+  "o_about_contact": {
+    "message": "A lua legatura:"
+  },
+  "o_about_issues": {
+    "message": "Raport Probleme:"
+  },
+  "o_about_social_media": {
+    "message": "Social Media:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Transfer bancar folosind IBAN:"
+  },
+  "used_space": {
+    "message": "Spațiu folosit: $1 / $2"
+  },
+  "ps_no_results": {
+    "message": "Nu există rezultate potrivite"
+  },
+  "label_no_data": {
+    "message": "Nu există date"
+  },
+  "dark_mode": {
+    "message": "Modul întunecat."
+  },
+  "dark_mode_system": {
+    "message": "Controlate de sistem"
+  },
+  "open_in_new_tab": {
+    "message": "Deschideți în fila nouă"
+  },
+  "_description_features": {
+    "message": ""
+  },
+  "_description_privacy_policy": {
+    "message": "Politica de Confidențialitate"
+  },
+  "_description_recent_features": {
+    "message": "Caracteristici adăugate recent:"
+  },
+  "_description_common_tags": {
+    "message": "Etichete:"
+  }
+}

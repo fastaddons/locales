@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "ቀን, IMDB, መግለጫ, ትዕይንት, መለኪያ, ግራፍ, IMDB, IMDB, ፊልም, ፊልም, ቴሌቪዥኖች, ቴሌቪዥኖች, ቪዲዮ, የቴሌቪዥን, ድምጽ, ወቅታዊ"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "ፊልም አልተገኘም / የተሳሳተ ፊልም አልተገኘም - ኦፊሴላዊ ገጾች ከሌሉ, 100% ትክክለኛ ውጤቶችን ዋስትና አይሰጥም (ግን በአብዛኛዎቹ ጉዳዮች በትክክል ይሠራል)"
+  },
+  "_description_mm_not_working": {
+    "message": "በሚወዱት የፊልም ገጽ ላይ አይሰራም?"
+  },
+  "_description_mm_add_support": {
+    "message": "እኔን ያነጋግሩ እኔም እጨምራለሁ - ከተቻለ (ገጽ በእንግሊዝኛ ወይም $visit_imdb$ አገናኝ) ሊኖረው ይገባል."
+  },
+  "_description_mm_feature_1": {
+    "message": "የፊልም ደረጃ እና ከ $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "ቀጣይ / የቀድሞው ክፍል ከ $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "ተጨማሪ ፊልም / የቴሌቪዥን ተከታታይ መረጃ"
+  },
+  "_description_mm_feature_4": {
+    "message": "ስለ አዲስ ክፍል ማስታወቂያ"
+  },
+  "_description_mm_feature_5": {
+    "message": "የቴሌቪዥን ተከታታይ ተከታታይ እንደመሆናቸው, አዲስ ክፍል በሚገኝበት ጊዜ ማስታወቂያ ያገኛሉ"
+  },
+  "_description_mm_feature_7": {
+    "message": "የቪዲዮ መልሶ ማጫዎቻ ተገኝቷል"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ የፊልም ፊልም (ወይም የቴሌቪዥን ተከታታይ) ያሳያችኋል."
+  },
+  "name": {
+    "message": "ስም"
+  },
+  "year": {
+    "message": "አመት"
+  },
+  "video_type": {
+    "message": "ዓይነት"
+  },
+  "video_type_0": {
+    "message": "ፊልም"
+  },
+  "video_type_1": {
+    "message": "ተከታታይ"
+  },
+  "video_type_2": {
+    "message": "ክፍል"
+  },
+  "runtime": {
+    "message": "አጥነት"
+  },
+  "premiered": {
+    "message": "ፕሪሚየር"
+  },
+  "premiere_in": {
+    "message": "ፕሪሚየር ውስጥ"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "ሀገር"
+  },
+  "actors": {
+    "message": "ተዋናዮች"
+  },
+  "dvd": {
+    "message": "ዲቪዲ"
+  },
+  "director": {
+    "message": "ዳይሬክተር"
+  },
+  "totalseasons": {
+    "message": "ጠቅላላ ወቅቶች"
+  },
+  "writer": {
+    "message": "ጸሐፊ"
+  },
+  "language": {
+    "message": "ቋንቋ"
+  },
+  "awards": {
+    "message": "ሽልማቶች"
+  },
+  "rated": {
+    "message": "ደረጃ የተሰጠው"
+  },
+  "production": {
+    "message": "ምርት"
+  },
+  "plot": {
+    "message": "ሴራ"
+  },
+  "website": {
+    "message": "ድህረገፅ"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "$visit_imdb$ ን ይጎብኙ"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "ለዚህ ትዕይንት $visit_tvmaze$ ገጽ ይጎብኙ"
+  },
+  "make_favorite": {
+    "message": "የሚወደድ"
+  },
+  "make_favorite_title": {
+    "message": "የቴሌቪዥን ተከታታይ ጨዋታዎችን ወደ ተወዳጆች ያክሉ. ይህ ስለ አዳዲስ ክፍሎች ማስታወቂያ እንዲቀበሉ ያስችልዎታል."
+  },
+  "last_episode": {
+    "message": "የመጨረሻው"
+  },
+  "next_episode": {
+    "message": "ቀጥሎም"
+  },
+  "last_episode_title": {
+    "message": "የመጨረሻው ክፍል"
+  },
+  "next_episode_title": {
+    "message": "ቀጣይ ክፍል"
+  },
+  "episode_airtime": {
+    "message": "የአየር ሰዓት"
+  },
+  "episode_name": {
+    "message": "ስም"
+  },
+  "series_status": {
+    "message": "ሁኔታ"
+  },
+  "episodes_count": {
+    "message": "ክፍሎች"
+  },
+  "episodes_count_title": {
+    "message": "የአሁኑ ወቅት $1 $2 ክፍሎች አሉት"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "ቀናት"
+  },
+  "hours": {
+    "message": "ሰዓታት"
+  },
+  "na": {
+    "message": "አይገኝም"
+  },
+  "user_rating": {
+    "message": "የተጠቃሚ ደረጃ: $1"
+  },
+  "user_popularity": {
+    "message": "ታዋቂነት: $1 ድምጾች"
+  },
+  "source": {
+    "message": "ምንጭ: $1"
+  },
+  "show_details": {
+    "message": "ተጨማሪ ..."
+  },
+  "hide_details": {
+    "message": "ያነሰ ..."
+  },
+  "save_position": {
+    "message": "ቦታን ያስቀምጡ"
+  },
+  "revert_position": {
+    "message": "አቀማመጥ አድን"
+  },
+  "win_disable": {
+    "message": "$1 ያሰናክሉ"
+  },
+  "cm_advanced": {
+    "message": "የላቀ"
+  },
+  "op_visit_home": {
+    "message": "የመነሻ ገጽን ይጎብኙ"
+  },
+  "op_support_me": {
+    "message": "ይህንን ፕሮጀክት ይረዱ"
+  },
+  "hide": {
+    "message": "መስኮት ደብቅ"
+  },
+  "show": {
+    "message": "መስኮት አሳይ"
+  },
+  "reset_position": {
+    "message": "አቀማመጥ አስጀምር"
+  },
+  "search": {
+    "message": "ፍለጋ"
+  },
+  "configure_search": {
+    "message": "የፍለጋ አማራጮችን ያዋቅሩ"
+  },
+  "selection_search": {
+    "message": "$1 ፈልግ"
+  },
+  "menu_options": {
+    "message": "አማራጮች"
+  },
+  "menu_quick_options": {
+    "message": "ፈጣን አማራጮች"
+  },
+  "menu_visit_homepage": {
+    "message": "የመነሻ ገጽን ይጎብኙ"
+  },
+  "menu_request_support": {
+    "message": "ለ $1 ድጋፍ ይጠይቁ"
+  },
+  "show_introduction": {
+    "message": "የመግቢያ ገጽን አሳይ"
+  },
+  "o_about_issues": {
+    "message": "ጉዳዮች ሪፖርት ያድርጉ"
+  },
+  "safari_store": {
+    "message": "Mac መተግበሪያ መደብር"
+  },
+  "firefox_store": {
+    "message": "ፋየርፎክስ ተጨማሪዎች"
+  },
+  "chrome_store": {
+    "message": "Chrome ድር ማከማቻ"
+  },
+  "movie_not_detected": {
+    "message": "ፊልም አልተገኘም"
+  },
+  "movie_not_detected_title": {
+    "message": "በዚህ ገጽ ላይ ምንም ፊልም / የቴሌቪዥን ተከታታይ አልተገኙም."
+  },
+  "movie_not_found": {
+    "message": "ፊልም አልተገኘም"
+  },
+  "movie_not_found_title": {
+    "message": "የፊልም መረጃ በአገልጋዩ ላይ አልተገኘም."
+  },
+  "status_type_0": {
+    "message": "መሮጥ"
+  },
+  "status_type_1": {
+    "message": "አበቃ"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "ትዕይንት ይቀጥላል"
+  },
+  "status_type_title_1": {
+    "message": "አሳይ - ተጠናቅቋል - ምንም ጊዜ የታቀዱ ወቅቶች የሉም"
+  },
+  "status_type_title_2": {
+    "message": "የወደፊቱን ያሳያል ግልጽ አይደለም"
+  },
+  "notify_movie_not_found": {
+    "message": "ፊልም አልተገኘም $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "የእንግሊዝኛ ፊልም ስም ብቻ ይጠቀሙ!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "ፍለጋ ፍጹም አይደለም ..."
+  },
+  "notify_video_hide": {
+    "message": "ቪዲዮ ተገኝቷል - $app_name$ አሁን ተደብቋል"
+  },
+  "notify_video_hide_body": {
+    "message": "እንደገና ማወቂያ እንደገና ለማያያዝ እዚህ ጠቅ ያድርጉ"
+  },
+  "notify_new_episodes": {
+    "message": "አዲስ ክፍል ተሽሯል"
+  },
+  "title_introduction": {
+    "message": "መግቢያ"
+  },
+  "supported_pages": {
+    "message": "የሚደገፉ ገጾች"
+  },
+  "supported_grows": {
+    "message": "(ይህ ዝርዝር ትልልቅ እና ትልልቅ ያድጋል)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "ደረጃ አሰጣጥ እና ተወዳጅነት መረጃ ከ $1$ ናቸው. ስለ ትዕይንት መረጃዎች ከ $2$ ናቸው."
+  },
+  "title_got_it": {
+    "message": "ገባኝ, እንጀምር!"
+  },
+  "_description_privacy_policy": {
+    "message": "የ ግል የሆነ"
+  },
+  "_description_recent_features": {
+    "message": "በቅርቡ የታከሉ ባህሪዎች"
+  },
+  "_description_known_issues": {
+    "message": "የታወቁ ጉዳዮች"
+  },
+  "_description_common_tags": {
+    "message": "መለያዎች:"
+  },
+  "_description_features": {
+    "message": "ዋና መለያ ጸባያት:"
+  },
+  "about_me": {
+    "message": "እ.ኤ.አ. ከ 2016 ጀምሮ እሳቤ ረዳት ነኝ. ግቤ ለበለጠ አሳሽዎ የበለጠ ውጤታማ እንዲሆኑ ለማድረግ ኃይለኛ ቅጥያዎችን መገንባት ነው."
+  },
+  "about_good_job": {
+    "message": "ጥሩ ሥራ እየሠራሁ እንደሆነ ካሰቡ እባክዎን ይለግሱ :)"
+  },
+  "about_income": {
+    "message": "ልገሳዎ የእኔ ብቸኛ ገቢዬ ነው!"
+  },
+  "about_thanks": {
+    "message": "ሥራዬን በመደገፍ እናመሰግናለን!"
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN ን በመጠቀም የባንክ ማስተላለፍ"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "ገለልተኛ ገንቢ ድጋፍ!"
+  }
+}

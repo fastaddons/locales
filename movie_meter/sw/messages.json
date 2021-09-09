@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "tarehe, IMDB, maelezo, sehemu, kupima, graph, imdb, info, mita, movie, filamu, sinema, netflix, IMDB, rating, mfululizo, maonyesho, tv, show ya tv, video, visual, kura, msimu"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "kisasa haipatikani / Kisasa cha Kisasa kilichopatikana - Kwa kuwa hakuna ushirikiano wa \"rasmi\" na kurasa za lengo, siwezi kuhakikisha matokeo sahihi ya 100% (lakini kwa wengi wa kesi inafanya kazi kikamilifu)"
+  },
+  "_description_mm_not_working": {
+    "message": "Haifanyi kazi kwenye ukurasa wako wa filamu unaopenda?"
+  },
+  "_description_mm_add_support": {
+    "message": "Wasiliana na mimi na nitaongeza - ikiwa inawezekana (ukurasa lazima iwe na jina la filamu kwa Kiingereza au $visit_imdb$ link)."
+  },
+  "_description_mm_feature_1": {
+    "message": "upimaji wa Kisasa na umaarufu kutoka $visit_imdb$."
+  },
+  "_description_mm_feature_2": {
+    "message": "tarehe ya pili / ya awali ya Kipindi kutoka $visit_tvmaze$."
+  },
+  "_description_mm_feature_3": {
+    "message": "maelezo ya ziada ya movie / TV mfululizo."
+  },
+  "_description_mm_feature_4": {
+    "message": "arifa kuhusu sehemu mpya"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark TV mfululizo kama favorite na utapata taarifa wakati kipindi kipya kinapatikana"
+  },
+  "_description_mm_feature_7": {
+    "message": "kujificha auto wakati video ya kucheza inavyoonekana"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ itakuonyesha kiwango na umaarufu wa movie (au mfululizo wa TV)"
+  },
+  "name": {
+    "message": "Jina."
+  },
+  "year": {
+    "message": "Mwaka."
+  },
+  "video_type": {
+    "message": "Andika"
+  },
+  "video_type_0": {
+    "message": "Kisasa."
+  },
+  "video_type_1": {
+    "message": "Mfululizo."
+  },
+  "video_type_2": {
+    "message": "Kipindi"
+  },
+  "runtime": {
+    "message": "Runtime."
+  },
+  "premiered": {
+    "message": "Premiere."
+  },
+  "premiere_in": {
+    "message": "Premiere in."
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Nchi."
+  },
+  "actors": {
+    "message": "Watendaji"
+  },
+  "dvd": {
+    "message": "DVD."
+  },
+  "director": {
+    "message": "Mkurugenzi"
+  },
+  "totalseasons": {
+    "message": "Nyakati za jumla"
+  },
+  "writer": {
+    "message": "Mwandishi"
+  },
+  "language": {
+    "message": "Lugha"
+  },
+  "awards": {
+    "message": "Tuzo"
+  },
+  "rated": {
+    "message": "Lilipimwa"
+  },
+  "production": {
+    "message": "Uzalishaji"
+  },
+  "plot": {
+    "message": "Plot."
+  },
+  "website": {
+    "message": "Tovuti."
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Tembelea $visit_imdb$ ukurasa."
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Tembelea $visit_tvmaze$ ukurasa wa show hii."
+  },
+  "make_favorite": {
+    "message": "Favorite."
+  },
+  "make_favorite_title": {
+    "message": "Ongeza mfululizo wa TV kwa favorites. Hii itawawezesha kupokea taarifa kuhusu vipindi vipya."
+  },
+  "last_episode": {
+    "message": "Mwisho"
+  },
+  "next_episode": {
+    "message": "Ijayo"
+  },
+  "last_episode_title": {
+    "message": "Kipindi cha mwisho"
+  },
+  "next_episode_title": {
+    "message": "Kipindi cha pili"
+  },
+  "episode_airtime": {
+    "message": "Wakati wa hewa"
+  },
+  "episode_name": {
+    "message": "Jina."
+  },
+  "series_status": {
+    "message": "Hali"
+  },
+  "episodes_count": {
+    "message": "Episodes."
+  },
+  "episodes_count_title": {
+    "message": "Msimu wa sasa $1 ina $2 Episodes."
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "siku"
+  },
+  "hours": {
+    "message": "masaa."
+  },
+  "na": {
+    "message": "Haipatikani"
+  },
+  "user_rating": {
+    "message": "Upimaji wa mtumiaji: $1."
+  },
+  "user_popularity": {
+    "message": "Umaarufu: $1 Votes."
+  },
+  "source": {
+    "message": "Chanzo: $1."
+  },
+  "show_details": {
+    "message": "zaidi ..."
+  },
+  "hide_details": {
+    "message": "chini ..."
+  },
+  "save_position": {
+    "message": "Hifadhi nafasi"
+  },
+  "revert_position": {
+    "message": "Revert Position."
+  },
+  "win_disable": {
+    "message": "Zima kwenye $1."
+  },
+  "cm_advanced": {
+    "message": "Ya juu"
+  },
+  "op_visit_home": {
+    "message": "Tembelea Homepage."
+  },
+  "op_support_me": {
+    "message": "Msaada mradi huu"
+  },
+  "hide": {
+    "message": "Ficha dirisha."
+  },
+  "show": {
+    "message": "Onyesha dirisha."
+  },
+  "reset_position": {
+    "message": "Weka nafasi"
+  },
+  "search": {
+    "message": "Utafutaji"
+  },
+  "configure_search": {
+    "message": "Sanidi chaguzi za utafutaji."
+  },
+  "selection_search": {
+    "message": "Tafuta $1."
+  },
+  "menu_options": {
+    "message": "Chaguzi."
+  },
+  "menu_quick_options": {
+    "message": "Chaguzi za haraka"
+  },
+  "menu_visit_homepage": {
+    "message": "Tembelea Homepage."
+  },
+  "menu_request_support": {
+    "message": "Omba msaada kwa $1."
+  },
+  "show_introduction": {
+    "message": "Onyesha ukurasa wa kuanzishwa"
+  },
+  "o_about_issues": {
+    "message": "Ripoti masuala:"
+  },
+  "safari_store": {
+    "message": "Duka la App Mac."
+  },
+  "firefox_store": {
+    "message": "Vidokezo vya Firefox."
+  },
+  "chrome_store": {
+    "message": "Duka la Wavuti wa Chrome."
+  },
+  "movie_not_detected": {
+    "message": "Movie haipatikani."
+  },
+  "movie_not_detected_title": {
+    "message": "Hakuna mfululizo wa filamu / TV haukugunduliwa kwenye ukurasa huu."
+  },
+  "movie_not_found": {
+    "message": "Kisasa haipatikani"
+  },
+  "movie_not_found_title": {
+    "message": "Maelezo ya Kisasa hayakupatikana kwenye seva."
+  },
+  "status_type_0": {
+    "message": "Kimbia"
+  },
+  "status_type_1": {
+    "message": "Kumalizika"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Onyesha itaendelea"
+  },
+  "status_type_title_1": {
+    "message": "Onyesha imekamilika - hakuna misimu zaidi iliyopangwa"
+  },
+  "status_type_title_2": {
+    "message": "Inaonyesha baadaye haijulikani."
+  },
+  "notify_movie_not_found": {
+    "message": "Kisasa haipatikani: $1."
+  },
+  "notify_movie_not_found_body": {
+    "message": "Tumia jina la Kisasa cha Kiingereza tu!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Tafuta sio kamili ..."
+  },
+  "notify_video_hide": {
+    "message": "Video imegunduliwa - $app_name$ sasa imefichwa"
+  },
+  "notify_video_hide_body": {
+    "message": "Bofya hapa usionyeshe taarifa hii tena"
+  },
+  "notify_new_episodes": {
+    "message": "Kipindi kipya kilifunguliwa"
+  },
+  "title_introduction": {
+    "message": "Utangulizi"
+  },
+  "supported_pages": {
+    "message": "Kurasa zilizosaidiwa:"
+  },
+  "supported_grows": {
+    "message": "(Orodha hii inakua kubwa na kubwa)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Ukadiriaji na habari za umaarufu zinatoka $1$. Taarifa kuhusu vipindi vinatoka $2$."
+  },
+  "title_got_it": {
+    "message": "Umeipata, hebu tuanze!"
+  },
+  "_description_privacy_policy": {
+    "message": "Sera ya faragha."
+  },
+  "_description_recent_features": {
+    "message": "Features zilizoongezwa hivi karibuni:"
+  },
+  "_description_known_issues": {
+    "message": "Masuala yanayojulikana:"
+  },
+  "_description_common_tags": {
+    "message": "Tags:"
+  },
+  "_description_features": {
+    "message": "Vipengele:"
+  },
+  "about_me": {
+    "message": "Mimi ni msanidi wa addon tangu 2016. Lengo langu ni kujenga upanuzi wenye nguvu kwa kivinjari chako cha wavuti ili kukuwezesha kuzalisha zaidi."
+  },
+  "about_good_job": {
+    "message": "Ikiwa unafikiri ninafanya kazi nzuri, tafadhali chagua :)"
+  },
+  "about_income": {
+    "message": "Mchango wako ni mapato yangu tu!"
+  },
+  "about_thanks": {
+    "message": "Asante kwa kuunga mkono kazi yangu!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Uhamisho wa Benki kwa kutumia Iban:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Kusaidia msanidi wa kujitegemea!"
+  }
+}

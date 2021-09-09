@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "తేదీ, IMDB, వివరణ, ఎపిసోడ్, గేజ్, గ్రాఫ్, IMDB, సమాచారం, మీటర్, చిత్రం, చిత్రం, సినిమాలు, నెట్ఫ్లిక్స్, IMDB, రేటింగ్, సిరీస్, ప్రదర్శనలు, TV, TV షో, వీడియో, విజువల్, ఓట్లు, సీజన్"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "చిత్రం దొరకలేదు / తప్పు చిత్రం దొరకలేదు - లక్ష్య పేజీలతో \"అధికారిక\" అనుసంధానం లేదు కాబట్టి, నేను 100% సరైన ఫలితాలు హామీ కాదు (కానీ చాలా సందర్భాలలో అది సంపూర్ణ పనిచేస్తుంది)"
+  },
+  "_description_mm_not_working": {
+    "message": "మీ ఇష్టమైన చిత్రం పేజీలో పనిచేయలేదా?"
+  },
+  "_description_mm_add_support": {
+    "message": "నన్ను సంప్రదించండి మరియు నేను దానిని జోడిస్తాను - వీలైతే (పేజీని ఆంగ్లంలో లేదా $visit_imdb$ లింక్ లో మూవీ పేరును కలిగి ఉండాలి)."
+  },
+  "_description_mm_feature_1": {
+    "message": "$visit_imdb$ నుండి సినిమా రేటింగ్ మరియు ప్రజాదరణ"
+  },
+  "_description_mm_feature_2": {
+    "message": "తదుపరి / మునుపటి ఎపిసోడ్ తేదీ $visit_tvmaze$ నుండి"
+  },
+  "_description_mm_feature_3": {
+    "message": "అదనపు చిత్రం / TV సిరీస్ సమాచారం"
+  },
+  "_description_mm_feature_4": {
+    "message": "కొత్త ఎపిసోడ్ గురించి నోటిఫికేషన్"
+  },
+  "_description_mm_feature_5": {
+    "message": "nARK TV సిరీస్ అభిమాన మరియు మీరు కొత్త ఎపిసోడ్ అందుబాటులో ఉన్నప్పుడు నోటిఫికేషన్ పొందుతారు"
+  },
+  "_description_mm_feature_7": {
+    "message": "వీడియో ప్లేబ్యాక్ గుర్తించినప్పుడు ఆటో-దాచు"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ మీరు ఒక చిత్రం (లేదా TV సిరీస్) యొక్క రేటింగ్ మరియు ప్రజాదరణను చూపుతుంది"
+  },
+  "name": {
+    "message": "పేరు"
+  },
+  "year": {
+    "message": "సంవత్సరం"
+  },
+  "video_type": {
+    "message": "రకం"
+  },
+  "video_type_0": {
+    "message": "మూవీ"
+  },
+  "video_type_1": {
+    "message": "సిరీస్"
+  },
+  "video_type_2": {
+    "message": "భాగం"
+  },
+  "runtime": {
+    "message": "రన్టైం"
+  },
+  "premiered": {
+    "message": "ప్రీమియర్"
+  },
+  "premiere_in": {
+    "message": "ప్రీమియర్"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "దేశం"
+  },
+  "actors": {
+    "message": "నటులు"
+  },
+  "dvd": {
+    "message": "Dvd."
+  },
+  "director": {
+    "message": "దర్శకుడు"
+  },
+  "totalseasons": {
+    "message": "మొత్తం సీజన్లు"
+  },
+  "writer": {
+    "message": "రచయిత"
+  },
+  "language": {
+    "message": "భాష"
+  },
+  "awards": {
+    "message": "అవార్డులు"
+  },
+  "rated": {
+    "message": "Rated"
+  },
+  "production": {
+    "message": "ఉత్పత్తి"
+  },
+  "plot": {
+    "message": "ప్లాట్లు"
+  },
+  "website": {
+    "message": "వెబ్సైట్"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "$visit_imdb$ పేజీని సందర్శించండి"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "ఈ ప్రదర్శన కోసం $visit_tvmaze$ ను సందర్శించండి"
+  },
+  "make_favorite": {
+    "message": "ఇష్టమైన"
+  },
+  "make_favorite_title": {
+    "message": "ఇష్టాలకు TV సిరీస్ను జోడించండి. ఇది క్రొత్త ఎపిసోడ్ల గురించి నోటిఫికేషన్ను స్వీకరించడానికి మిమ్మల్ని అనుమతిస్తుంది."
+  },
+  "last_episode": {
+    "message": "చివరిది"
+  },
+  "next_episode": {
+    "message": "తరువాత"
+  },
+  "last_episode_title": {
+    "message": "చివరి ఎపిసోడ్"
+  },
+  "next_episode_title": {
+    "message": "తదుపరి ఎపిసోడ్"
+  },
+  "episode_airtime": {
+    "message": "ప్రసారం"
+  },
+  "episode_name": {
+    "message": "పేరు"
+  },
+  "series_status": {
+    "message": "స్థితి"
+  },
+  "episodes_count": {
+    "message": "భాగాలు"
+  },
+  "episodes_count_title": {
+    "message": "ప్రస్తుత సీజన్ $1 $2 ఎపిసోడ్లు"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "రోజులు"
+  },
+  "hours": {
+    "message": "గంటలు"
+  },
+  "na": {
+    "message": "అందుబాటులో లేదు"
+  },
+  "user_rating": {
+    "message": "వాడుకరి రేటింగ్: $1"
+  },
+  "user_popularity": {
+    "message": "ప్రజాదరణ: $1 ఓట్లు"
+  },
+  "source": {
+    "message": "మూలం: $1"
+  },
+  "show_details": {
+    "message": "మరింత..."
+  },
+  "hide_details": {
+    "message": "తక్కువ ..."
+  },
+  "save_position": {
+    "message": "స్థానం సేవ్"
+  },
+  "revert_position": {
+    "message": "స్థానం తిరిగి"
+  },
+  "win_disable": {
+    "message": "$1 లో నిలిపివేయండి"
+  },
+  "cm_advanced": {
+    "message": "ఆధునిక"
+  },
+  "op_visit_home": {
+    "message": "హోమ్పేజీని సందర్శించండి"
+  },
+  "op_support_me": {
+    "message": "ఈ ప్రాజెక్ట్ సహాయం"
+  },
+  "hide": {
+    "message": "విండోను దాచు"
+  },
+  "show": {
+    "message": "విండో చూపించు"
+  },
+  "reset_position": {
+    "message": "స్థానాన్ని రీసెట్ చేయండి"
+  },
+  "search": {
+    "message": "వెతకండి"
+  },
+  "configure_search": {
+    "message": "శోధన ఎంపికలను కాన్ఫిగర్ చేయండి"
+  },
+  "selection_search": {
+    "message": "శోధన $1."
+  },
+  "menu_options": {
+    "message": "ఐచ్ఛికాలు"
+  },
+  "menu_quick_options": {
+    "message": "త్వరిత ఎంపికలు"
+  },
+  "menu_visit_homepage": {
+    "message": "హోమ్పేజీని సందర్శించండి"
+  },
+  "menu_request_support": {
+    "message": "$1 కోసం అభ్యర్ధన మద్దతు"
+  },
+  "show_introduction": {
+    "message": "పరిచయం పేజీని చూపించు"
+  },
+  "o_about_issues": {
+    "message": "నివేదిక సమస్యలు:"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "firefox_store": {
+    "message": "Firefox add-ons"
+  },
+  "chrome_store": {
+    "message": "Chrome వెబ్ స్టోర్"
+  },
+  "movie_not_detected": {
+    "message": "చిత్రం కనుగొనబడలేదు"
+  },
+  "movie_not_detected_title": {
+    "message": "ఈ పేజీలో మూవీ / TV సిరీస్ కనుగొనబడలేదు."
+  },
+  "movie_not_found": {
+    "message": "చిత్రం కనుగొనబడలేదు"
+  },
+  "movie_not_found_title": {
+    "message": "మూవీ సమాచారం సర్వర్లో కనుగొనబడలేదు."
+  },
+  "status_type_0": {
+    "message": "రన్నింగ్"
+  },
+  "status_type_1": {
+    "message": "అంతకు ముందు"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "ప్రదర్శన కొనసాగుతుంది"
+  },
+  "status_type_title_1": {
+    "message": "షో ముగిసింది - ఏ సీజన్లలో ప్రణాళికలు లేవు"
+  },
+  "status_type_title_2": {
+    "message": "భవిష్యత్ అస్పష్టంగా ఉంది"
+  },
+  "notify_movie_not_found": {
+    "message": "చిత్రం కనుగొనబడలేదు: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "ఇంగ్లీష్ మూవీ పేరును మాత్రమే ఉపయోగించండి!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "శోధన ఖచ్చితమైనది కాదు ..."
+  },
+  "notify_video_hide": {
+    "message": "వీడియో కనుగొనబడింది - $app_name$ ఇప్పుడు దాగి ఉంది"
+  },
+  "notify_video_hide_body": {
+    "message": "మళ్ళీ ఈ నోటిఫికేషన్ను చూపించవద్దు"
+  },
+  "notify_new_episodes": {
+    "message": "కొత్త ఎపిసోడ్ ప్రసారం చేయబడింది"
+  },
+  "title_introduction": {
+    "message": "పరిచయము"
+  },
+  "supported_pages": {
+    "message": "మద్దతు ఉన్న పేజీలు:"
+  },
+  "supported_grows": {
+    "message": "(ఈ జాబితా పెద్దది మరియు పెద్దది)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "రేటింగ్లు మరియు ప్రజాదరణ సమాచారం $1$ నుండి. ఎపిసోడ్ల గురించి సమాచారం $2$ నుండి."
+  },
+  "title_got_it": {
+    "message": "అది వచ్చింది, ప్రారంభిద్దాం!"
+  },
+  "_description_privacy_policy": {
+    "message": "గోప్యతా విధానం"
+  },
+  "_description_recent_features": {
+    "message": "ఇటీవల జోడించిన లక్షణాలు:"
+  },
+  "_description_known_issues": {
+    "message": "తెలిసిన సమస్యలు:"
+  },
+  "_description_common_tags": {
+    "message": "టాగ్లు:"
+  },
+  "_description_features": {
+    "message": "లక్షణాలు:"
+  },
+  "about_me": {
+    "message": "నేను 2016 నుండి యాడ్ఆన్ డెవలపర్ ఉన్నాను. నా లక్ష్యం మీ వెబ్ బ్రౌజర్ కోసం మీరు మరింత ఉత్పాదకంగా చేయడానికి శక్తివంతమైన పొడిగింపులను నిర్మించడం."
+  },
+  "about_good_job": {
+    "message": "నేను మంచి ఉద్యోగం చేస్తున్నానని అనుకుంటే, దయచేసి దానం చేయండి :)"
+  },
+  "about_income": {
+    "message": "మీ విరాళం నా మాత్రమే ఆదాయం!"
+  },
+  "about_thanks": {
+    "message": "నా పనికి మద్దతు ఇచ్చినందుకు ధన్యవాదాలు!"
+  },
+  "o_about_support_by_iban": {
+    "message": "ఐకాన్ ఉపయోగించి బ్యాంకు బదిలీ:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "స్వతంత్ర డెవలపర్ మద్దతు!"
+  }
+}

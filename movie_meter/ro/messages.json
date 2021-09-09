@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "data, IMDB, descriere, episod, ecartament, grafic, IMDB, info, contor, film, film, filme, netflix, IMDB, rating, serie, spectacole, TV, emisiune TV, video, vizual, voturi, sezon"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "film nu a fost găsit / film greșit găsit - deoarece nu există o integrare \"oficială\" cu paginile țintă, nu pot garanta rezultate corecte de 100% (dar în majoritatea cazurilor funcționează perfect)"
+  },
+  "_description_mm_not_working": {
+    "message": "Nu funcționează pe pagina dvs. preferată de film?"
+  },
+  "_description_mm_add_support": {
+    "message": "Contactați-mă și voi adăuga - dacă este posibil (pagina trebuie să conțină numele filmului în limba engleză sau $visit_imdb$ link)."
+  },
+  "_description_mm_feature_1": {
+    "message": "evaluarea filmului și popularitatea de la $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "următorul / episodul anterior Data de la $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "informații suplimentare despre seria de filme / TV"
+  },
+  "_description_mm_feature_4": {
+    "message": "notificare despre noul episod"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark Series TV ca favorit și veți primi notificări atunci când este disponibil un episod nou"
+  },
+  "_description_mm_feature_7": {
+    "message": "ascunde automat când redarea video a fost detectată"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ vă va arăta evaluarea și popularitatea unui film (sau serii TV)"
+  },
+  "name": {
+    "message": "Nume"
+  },
+  "year": {
+    "message": "An"
+  },
+  "video_type": {
+    "message": "Tip"
+  },
+  "video_type_0": {
+    "message": "Film"
+  },
+  "video_type_1": {
+    "message": "Serie"
+  },
+  "video_type_2": {
+    "message": "Episod"
+  },
+  "runtime": {
+    "message": "Runtime."
+  },
+  "premiered": {
+    "message": "Premieră"
+  },
+  "premiere_in": {
+    "message": "Premiera In"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Țară"
+  },
+  "actors": {
+    "message": "Actori"
+  },
+  "dvd": {
+    "message": "DVD"
+  },
+  "director": {
+    "message": "Director"
+  },
+  "totalseasons": {
+    "message": "Total sezoane"
+  },
+  "writer": {
+    "message": "Scriitor"
+  },
+  "language": {
+    "message": "Limba"
+  },
+  "awards": {
+    "message": "Premii"
+  },
+  "rated": {
+    "message": "Evaluat"
+  },
+  "production": {
+    "message": "Producție"
+  },
+  "plot": {
+    "message": "Plot."
+  },
+  "website": {
+    "message": "Website"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Vizitați $visit_imdb$ Pagina"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Vizitați $visit_tvmaze$ Pagina pentru acest spectacol"
+  },
+  "make_favorite": {
+    "message": "Favorită"
+  },
+  "make_favorite_title": {
+    "message": "Adăugați serii TV la favorite. Acest lucru vă va permite să primiți notificări despre noile episoade."
+  },
+  "last_episode": {
+    "message": "Ultimul"
+  },
+  "next_episode": {
+    "message": "Următorul"
+  },
+  "last_episode_title": {
+    "message": "Ultimul episod"
+  },
+  "next_episode_title": {
+    "message": "Episodul urmator"
+  },
+  "episode_airtime": {
+    "message": "Timp de antenă"
+  },
+  "episode_name": {
+    "message": "Nume"
+  },
+  "series_status": {
+    "message": "Stare"
+  },
+  "episodes_count": {
+    "message": "Episoade"
+  },
+  "episodes_count_title": {
+    "message": "Sezonul curent $1 are $2 episoade"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "zile"
+  },
+  "hours": {
+    "message": "ores."
+  },
+  "na": {
+    "message": "Nu este disponibil"
+  },
+  "user_rating": {
+    "message": "Evaluarea utilizatorului: $1"
+  },
+  "user_popularity": {
+    "message": "Popularitate: $1 voturi"
+  },
+  "source": {
+    "message": "Sursa: $1"
+  },
+  "show_details": {
+    "message": "mai mult..."
+  },
+  "hide_details": {
+    "message": "mai puțin..."
+  },
+  "save_position": {
+    "message": "Salvează poziția"
+  },
+  "revert_position": {
+    "message": "Reveniți poziția"
+  },
+  "win_disable": {
+    "message": "Dezactivați pe $1"
+  },
+  "cm_advanced": {
+    "message": "Avansat"
+  },
+  "op_visit_home": {
+    "message": "Vizitați pagina de pornire"
+  },
+  "op_support_me": {
+    "message": "Ajutați acest proiect"
+  },
+  "hide": {
+    "message": "Ascundeți fereastra"
+  },
+  "show": {
+    "message": "Afișați fereastra"
+  },
+  "reset_position": {
+    "message": "Resetați poziția"
+  },
+  "search": {
+    "message": "Căutare"
+  },
+  "configure_search": {
+    "message": "Configurați opțiunile de căutare"
+  },
+  "selection_search": {
+    "message": "Căutare $1."
+  },
+  "menu_options": {
+    "message": "Opțiuni"
+  },
+  "menu_quick_options": {
+    "message": "Opțiuni rapide"
+  },
+  "menu_visit_homepage": {
+    "message": "Vizitați pagina de pornire"
+  },
+  "menu_request_support": {
+    "message": "Solicitați suport pentru $1"
+  },
+  "show_introduction": {
+    "message": "Afișați pagina Introducere"
+  },
+  "o_about_issues": {
+    "message": "Raport Probleme:"
+  },
+  "safari_store": {
+    "message": "Magazin de aplicații Mac."
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store."
+  },
+  "movie_not_detected": {
+    "message": "Filmul nu a fost detectat"
+  },
+  "movie_not_detected_title": {
+    "message": "Nici o serie de filme / TV nu a fost detectată pe această pagină."
+  },
+  "movie_not_found": {
+    "message": "Filmul nu a fost găsit"
+  },
+  "movie_not_found_title": {
+    "message": "Informațiile despre film nu au fost găsite pe server."
+  },
+  "status_type_0": {
+    "message": "Alergare"
+  },
+  "status_type_1": {
+    "message": "Încheiat"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Afișarea va continua"
+  },
+  "status_type_title_1": {
+    "message": "Show-ul sa încheiat - nu mai există sezoane planificate"
+  },
+  "status_type_title_2": {
+    "message": "Arată că viitorul este neclar"
+  },
+  "notify_movie_not_found": {
+    "message": "Film nu a fost găsit: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Utilizați Numai numele filmului de film!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Căutarea nu este perfectă ..."
+  },
+  "notify_video_hide": {
+    "message": "Video detectat - $app_name$ este acum ascuns"
+  },
+  "notify_video_hide_body": {
+    "message": "Faceți clic aici pentru a nu arăta această notificare din nou"
+  },
+  "notify_new_episodes": {
+    "message": "Episodul nou a fost difuzat"
+  },
+  "title_introduction": {
+    "message": "Introducere"
+  },
+  "supported_pages": {
+    "message": "Pagini acceptate:"
+  },
+  "supported_grows": {
+    "message": "(Această listă crește mai mare și mai mare)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Evaluările și informațiile despre popularitate sunt de la $1$. Informațiile despre episoade provin din $2$."
+  },
+  "title_got_it": {
+    "message": "Am înțeles!"
+  },
+  "_description_privacy_policy": {
+    "message": "Politica de Confidențialitate"
+  },
+  "_description_recent_features": {
+    "message": "Caracteristici adăugate recent:"
+  },
+  "_description_known_issues": {
+    "message": "Probleme cunoscute:"
+  },
+  "_description_common_tags": {
+    "message": "Etichete:"
+  },
+  "_description_features": {
+    "message": "Caracteristici:"
+  },
+  "about_me": {
+    "message": "Sunt Addon Developer din 2016. Scopul meu este de a construi extensii puternice pentru browserul dvs. web pentru a vă face mai productivi."
+  },
+  "about_good_job": {
+    "message": "Dacă credeți că fac o treabă bună, vă rugăm să donați :)"
+  },
+  "about_income": {
+    "message": "Donația dvs. este singurul meu venit!"
+  },
+  "about_thanks": {
+    "message": "Vă mulțumim că ați susținut munca mea!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Transfer bancar folosind IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Sprijiniți dezvoltatorul independent!"
+  }
+}

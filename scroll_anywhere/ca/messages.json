@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "en qualsevol lloc, el botó, el cursor, arrossegueu, agafeu, arrossegueu, agafeu i arrossegueu, infinits, esquerra, mitjana, impuls, ratolí, moviment, pàgina, dret, desplaçament, desplaçament, desplaçament, desplaçament, desplaçament, llançament"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Arrossegueu la barra de desplaçament amb el botó central del ratolí a qualsevol lloc de la pàgina. Suporta també l'estil \"agafar i arrossegar\"."
+  },
+  "field_int_default_value": {
+    "message": "Valor per defecte: $1, min: $2, màx: $3"
+  },
+  "field_set_default": {
+    "message": "Restableix per defecte: $1"
+  },
+  "thunderbird_store": {
+    "message": "Complements de thunderbird"
+  },
+  "firefox_store": {
+    "message": "Complements de Firefox"
+  },
+  "chrome_store": {
+    "message": "Botiga web de Chrome"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "win_disable": {
+    "message": "Inhabiliteu $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Desactiveu el desplaçament horitzontal a $1"
+  },
+  "op_visit_home": {
+    "message": "Visiteu la pàgina d'inici"
+  },
+  "op_support_me": {
+    "message": "Ajudeu a aquest projecte"
+  },
+  "o_title": {
+    "message": "Opcions - $1"
+  },
+  "o_tab_general": {
+    "message": "General"
+  },
+  "o_tab_momentum": {
+    "message": "Moment"
+  },
+  "o_tab_cursor": {
+    "message": "Cursor"
+  },
+  "o_axis_locking": {
+    "message": "Bloqueig de l'eix"
+  },
+  "o_tab_performance": {
+    "message": "Rendiment"
+  },
+  "o_tab_disabled_on": {
+    "message": "Desactivat"
+  },
+  "o_tab_advanced": {
+    "message": "Avançat"
+  },
+  "o_tab_scrollbars": {
+    "message": "Barres de desplaçament"
+  },
+  "o_tab_backup": {
+    "message": "Importació / còpia de seguretat"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Quan es desplaça una caixa que es desplaça en un eix, però la caixa dels pares es desplaça en altres eixos, bloquejar el desplaçament a un eix utilitzant:"
+  },
+  "o_axis_lock_0": {
+    "message": "Pany intel·ligent: bloqueig temporal amb impuls"
+  },
+  "o_axis_lock_1": {
+    "message": "Pany estricte: bloqueig de direcció instantània"
+  },
+  "o_axis_lock_2": {
+    "message": "Sense bloqueig - desplaçament lliure en tots dos eixos"
+  },
+  "o_trend_momentum_window": {
+    "message": "Mida de pila de bloqueig intel·ligent"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "El valor més gran requerirà més desplaçament en l'eix oposat per canviar l'eix de desplaçament."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon està desactivat! Feu clic aquí per habilitar."
+  },
+  "o_cursor_change_default": {
+    "message": "sense canvis: millor rendiment"
+  },
+  "o_scroll_button": {
+    "message": "Botó de desplaçament:"
+  },
+  "o_direction_speed": {
+    "message": "Estil de desplaçament / direcció / velocitat:"
+  },
+  "o_multiplier": {
+    "message": "Multiplicador"
+  },
+  "o_times_speed": {
+    "message": "velocitat de desplaçament"
+  },
+  "o_maximum_speed": {
+    "message": "Velocitat màxima de desplaçament (0 - desactivat):"
+  },
+  "o_ratio_unit": {
+    "message": "relació (Longitud de pàgina / mida de la finestra)"
+  },
+  "o_scroll_type_0": {
+    "message": "Emular la barra de desplaçament"
+  },
+  "o_scroll_type_1": {
+    "message": "Agafa i arrossega, com en un telèfon intel·ligent"
+  },
+  "o_scroll_type_2": {
+    "message": "Velocitat dinàmica (experimental)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "És com arrossegar una barra de desplaçament"
+  },
+  "o_scroll_type_title_1": {
+    "message": "És com arrossegar una pàgina amb el dit a la pantalla del telèfon"
+  },
+  "o_scroll_type_title_2": {
+    "message": "La velocitat dinàmica fa que la velocitat de desplaçament sigui més lenta quan la pàgina és més llarga"
+  },
+  "o_disable_key": {
+    "message": "Inhabiliteu / habiliteu el desplaçament quan la tecla hagi baixada:"
+  },
+  "o_momentum_category": {
+    "message": "Impuls:"
+  },
+  "o_momentum_formula": {
+    "message": "Fórmula d'impuls:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Moviment decelerat uniformement"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "El desplaçament de la pàgina es reduirà de forma uniforme fins que s'aturi"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Moviment descelerador exponencialment"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "El desplaçament de la pàgina es reduirà ràpidament (exponencialment)"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Moviment infinit ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "El desplaçament no s'aturarà mai"
+  },
+  "o_momentum_max_speed": {
+    "message": "Velocitat màxima (0 - desactivada):"
+  },
+  "o_page_weight": {
+    "message": "Pes de la pàgina:"
+  },
+  "o_grams": {
+    "message": "grams :)"
+  },
+  "o_additional_speed": {
+    "message": "Velocitat addicional:"
+  },
+  "o_pixels_second": {
+    "message": "píxels per segon"
+  },
+  "o_additional_duration": {
+    "message": "Durada addicional:"
+  },
+  "o_advanced_momentum": {
+    "message": "Configuració avançada d'impuls (només per a experts!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Canviar aquests valors pot trencar l'impuls!"
+  },
+  "o_compute_from_last": {
+    "message": "Calcular de l'últim:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Detecció de parada del ratolí:"
+  },
+  "o_tracking_speed": {
+    "message": "Velocitat de seguiment:"
+  },
+  "o_reset_values": {
+    "message": "Restableix els valors"
+  },
+  "o_cursor_scrolling": {
+    "message": "Cursor utilitzat quan es desplaça:"
+  },
+  "o_performance": {
+    "message": "Rendiment:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Eviteu salts grans"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Si utilitzeu l'eina que pot teletransportar el cursor a la pantalla (quan arribeu a una vora), permeteu que aquesta opció permeti desplaçar-se contínua (infinita)."
+  },
+  "o_advanced": {
+    "message": "Avançat:"
+  },
+  "o_movement_detection": {
+    "message": "Llindar de detecció del moviment del ratolí:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Quants píxels ha de moure el ratolí per bloquejar l'enllaç. De vegades, en prémer el botó de desplaçament, moveu el ratolí lleugerament, però no voleu que l'enllaç sigui deshabilitat a causa d'això."
+  },
+  "o_context_menu_block": {
+    "message": "Bloc de menús contextual:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Desbloqueja el retard del menú contextual"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Si veieu el menú contextual després de desplaçar-vos amb el botó dret del ratolí, augmentar aquest valor"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Inhabiliteu el desplaçament horitzontal sobre els dominis:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Desactivat en dominis:"
+  },
+  "o_is_disabled_url": {
+    "message": "Desactivat a les pàgines / sub-pàgines:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Podeu utilitzar el símbol estel·lar (*) per definir una part d'URL, per exemple: \"Google.com/Maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Introduïu un domini per línia."
+  },
+  "o_is_disabled": {
+    "message": "Desactiva el complement"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Utilitzeu la icona de la barra d'eines com a interruptor principal / desactivat"
+  },
+  "o_scroll_button_middle": {
+    "message": "Botó mig"
+  },
+  "o_scroll_button_right": {
+    "message": "Botó dret"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Usuaris Linux / Mac: se us demanarà un nou permís \"Llegiu i modifica la configuració del navegador\", es requereix per suprimir el menú contextual que es mostra abans de desplaçar-se!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Usuaris de Linux / Mac: el menú contextual serà bloquejat! Per obrir el menú de context Manteniu premuda la tecla \"Maj\" o feu clic al botó dret."
+  },
+  "o_scroll_button_left": {
+    "message": "Botó esquerre (experimental)"
+  },
+  "o_scroll_on_links": {
+    "message": "Desplaceu-vos als enllaços"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Quan estigui activat, no podreu arrossegar i deixar anar els enllaços (només utilitzant la tecla \"Desactivar\")"
+  },
+  "o_scroll_on_text": {
+    "message": "Desplaceu-vos al text"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emula el desplaçament / edició del telèfon: heu de fer clic al text per canviar a \"mode d'edició\". Si feu clic fora del text, cal desplaçar-vos de nou."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Desplaceu-vos a Textarea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea és un bloc de text, generalment redimensionable. Per exemple, a la pestanya \"desactivada a\", podeu veure textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Desplaceu-vos en HTML editable"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Per exemple, el cos de correu electrònic a Gmail és HTML editable."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "en text permetrà seleccionar / editar text."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Feu clic al text permetrà \"mode d'edició\". Feu clic a text extern per habilitar \"Mode de desplaçament\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Feu clic únic"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Feu doble clic"
+  },
+  "o_scrollbars_width": {
+    "message": "Mireu les barres de desplaçament"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normal (sense canvi)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Prim"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Amagat"
+  },
+  "o_scrollbars_color": {
+    "message": "Color lliscant de la barra de desplaçament:"
+  },
+  "o_scrollbars_background": {
+    "message": "Color de fons de la barra de desplaçament:"
+  },
+  "o_reverse": {
+    "message": "Direcció de desplaçament inversa"
+  },
+  "o_disable_alt": {
+    "message": "Ota"
+  },
+  "o_disable_shift": {
+    "message": "Torn"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl"
+  },
+  "o_disable_type_0": {
+    "message": "Inhabiliteu quan la tecla hagi baixada:"
+  },
+  "o_disable_type_1": {
+    "message": "Habiliteu quan la tecla hagi baixada:"
+  },
+  "o_momentum": {
+    "message": "habilita l'impuls: podeu \"llançar\" la pàgina (com a telèfon)"
+  },
+  "o_no_css_edit": {
+    "message": "No bloquegeu els iframes i no canvieu el cursor quan es desplaça"
+  },
+  "o_no_prevent_default": {
+    "message": "No bloquegeu l'acció del botó per defecte"
+  },
+  "o_auto_link_lock": {
+    "message": "Bloqueig d'enllaços:"
+  },
+  "o_no_link_block": {
+    "message": "No bloquegeu el ratolí clic a l'enllaç després del moviment"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Quan comenceu a desplaçar-vos en un enllaç i, a continuació, acabeu de desplaçar-vos al mateix enllaç, el navegador obrirà l'enllaç. Normalment, això no és el comportament desitjat, de manera que per defecte està bloquejat."
+  },
+  "o_page_weight_title": {
+    "message": "Això controla com és \"pesat\" la pàgina. Les pàgines més pesades tenen un impuls més llarg."
+  },
+  "o_additional_speed_title": {
+    "message": "Podeu accelerar la velocitat indicant el moment."
+  },
+  "o_additional_duration_title": {
+    "message": "Temps addicional per a cada moment."
+  },
+  "o_compute_from_last_title": {
+    "message": "La velocitat inicial de l'impuls es determina per la velocitat de desplaçament just abans de llançar el botó de desplaçament."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Quant de temps ha de mantenir el ratolí encara - abans de llançar el botó de desplaçament: no activar l'impuls."
+  },
+  "o_tracking_speed_title": {
+    "message": "Interval per mesurar la velocitat de desplaçament actual."
+  },
+  "o_scrolling_area": {
+    "message": "Àrea de desplaçament:"
+  },
+  "o_outside_area_width": {
+    "message": "Àrea de desplaçament (0 - desactivat):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "El trasllat del cursor fora de l'àrea de desplaçament revertirà la posició de desplaçament. El mateix comportament es pot veure quan arrossegueu una barra de desplaçament."
+  },
+  "o_scroll_button_left_title": {
+    "message": "Advertència - Suport al botó esquerre s'utilitza l'API de Firefox obsolet que es podria eliminar en futures versions de Firefox."
+  },
+  "o_prevent_text_selection": {
+    "message": "Eviteu la selecció de text quan es desplaça amb el botó esquerre"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "En alguns dispositius, el desplaçament amb el botó esquerre del ratolí també seleccionarà text a la pàgina."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "No bloquegeu el menú contextual quan intenteu desplaçar-vos no-desplaçable"
+  },
+  "o_backup_restore": {
+    "message": "Configuració de còpia de seguretat / restauració al fitxer:"
+  },
+  "o_export_settings": {
+    "message": "Exporta la configuració a un fitxer"
+  },
+  "import_settings_button": {
+    "message": "Importa Configuració de $1 Fitxer ..."
+  },
+  "import_finished": {
+    "message": "Importació acabada!"
+  },
+  "test_page_title": {
+    "message": "Proveu els paràmetres de desplaçament aquí"
+  },
+  "menu_options": {
+    "message": "Opcions"
+  },
+  "menu_visit_title": {
+    "message": "Visiteu la pàgina d'inici"
+  },
+  "not_working": {
+    "message": "Desactivat pel vostre navegador web"
+  },
+  "disabled_by_user": {
+    "message": "Desactivat en aquest domini"
+  },
+  "not_working_title": {
+    "message": "El vostre navegador bloquejarà Scrollanwhere en aquest tipus de pàgines:"
+  },
+  "not_working_body": {
+    "message": "Per habilitar Scrougarwhere a les pàgines \"Mozilla.org\", vegeu aquest tutorial de YouTube"
+  },
+  "show_scrollbars": {
+    "message": "Mostra les barres de desplaçament"
+  },
+  "show_scrollbars_title": {
+    "message": "Mostra temporalment les barres de desplaçament"
+  },
+  "switch_on_off": {
+    "message": "Canvia el complement / activat"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Si experimenteu un retard notable entre premeu el botó de desplaçament i el desplaçament inicial, proveu d'habilitar aquesta opció. No obstant això, no podreu desplaçar-vos per sobre de \"iframes\", com ara alguns vells vídeos incrustats o alguns anuncis."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Això també desactivarà l'opció de canviar el cursor mentre es desplaça."
+  },
+  "o_helper_text_default_action": {
+    "message": "Útil a Linux per habilitar la pasta amb el botó central."
+  },
+  "o_about_hello": {
+    "message": "Hola :)"
+  },
+  "o_about_intro": {
+    "message": "El meu nom és $1$ i sóc l'autor de $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Si t'agrada, valora-ho aquí:"
+  },
+  "o_about_dislike_it": {
+    "message": "Si no t'agrada, fes-me saber per què al meu correu electrònic. Estic implementant la majoria de les peticions que rebo."
+  },
+  "o_disabled": {
+    "message": "inepte",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "habilitat",
+    "common": true
+  },
+  "o_times": {
+    "message": "vegades",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "píxels",
+    "common": true
+  },
+  "o_items": {
+    "message": "articles",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "millisegons",
+    "common": true
+  },
+  "label_working": {
+    "message": "treball...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Tanca",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Penseu en donar suport a la meva feina",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donació (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "convertir-se en el meu patró",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Gràcies!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "casa:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contacte:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Informeu dels problemes:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Puc respondre només en anglès / eslovac",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Mitjà de comunicació social:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Desa els canvis i tanca",
+    "common": true
+  },
+  "o_saved": {
+    "message": "guardats!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Pròximament",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Guardar canvis",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Política de privacitat",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Característiques afegides recentment:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Etiquetes:",
+    "common": true
+  }
+}

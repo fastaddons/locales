@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "कधीकधी पृष्ठ केवळ चांगले डिझाइन केलेले नाही आणि आपण शोधत असलेली माहिती पुरेसे दिसत नाही."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "सामान्य वापर-प्रकरण:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "मेटाडेटा हायलाइट करा:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "\"विनामूल्य शिपिंग\" हायलाइट करा :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "आपण वेबवर विशिष्ट काहीतरी शोधत आहात? आपल्याला सर्व पृष्ठांवर शोधण्यात मदत करण्यासाठी \"तात्पुरती हायलाइट\" वापरा. जेव्हा आपण आपला ब्राउझर बंद करता तेव्हा तात्पुरती हायलाइट्स स्वयं-हटविली जातात."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "आपण शून्य-आकार सेट करून किंवा त्यांना पारदर्शी करून शब्द लपवू शकता."
+  },
+  "_description_tags_ah": {
+    "message": "हायलाइट, चिन्ह, मेटाडेटा, मूव्ही, स्वयंचलित, मजकूर, सिंक्रोनाइझेशन, निवड, शोध"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ स्वयंचलितपणे परिभाषित पृष्ठांवर परिभाषित शब्द ठळक करतील."
+  },
+  "match_type": {
+    "message": "जुळणी प्रकारः"
+  },
+  "match_type_0": {
+    "message": "डोमेन आहे"
+  },
+  "match_type_1": {
+    "message": "URL आहे"
+  },
+  "match_type_2": {
+    "message": "URL आहे"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "प्रत्येक पृष्ठ"
+  },
+  "selection_highlight": {
+    "message": "$1 हायलाइट करा"
+  },
+  "selection_temp": {
+    "message": "तात्पुरते $1 हायलाइट करा"
+  },
+  "selection_temp_everywhere": {
+    "message": "अस्थायीपणे सर्वत्र $1 ला हायलाइट करा"
+  },
+  "page_highlight": {
+    "message": "या पृष्ठावर $app_name$"
+  },
+  "toolbar_click_new_tab": {
+    "message": "नेहमी नवीन टॅबमध्ये उघडा - टूलबार चिन्ह क्लिक केल्यावर"
+  },
+  "disable_rule": {
+    "message": "अक्षम"
+  },
+  "temporal_rule": {
+    "message": "तात्पुरती"
+  },
+  "each_word": {
+    "message": "प्रत्येक शब्द"
+  },
+  "rules": {
+    "message": "नियम"
+  },
+  "delete": {
+    "message": "हटवा"
+  },
+  "rename": {
+    "message": "पुनर्नामित"
+  },
+  "duplicate": {
+    "message": "नक्कल"
+  },
+  "delete_rule": {
+    "message": "नियम हटवा"
+  },
+  "delete_rule_title": {
+    "message": "\"$1\" नियम हटवा?"
+  },
+  "on_pages": {
+    "message": "पृष्ठांवर:"
+  },
+  "disabled_rule": {
+    "message": "अक्षम नियम"
+  },
+  "incomplete_rule": {
+    "message": "अपूर्ण नियम"
+  },
+  "active_on_current_page": {
+    "message": "वर्तमान पृष्ठावर सक्रिय"
+  },
+  "temporal_rule_helper": {
+    "message": "अस्थायी नियम - ब्राउझर रीस्टार्ट केल्यानंतर हटविला जाईल"
+  },
+  "active_on_pages": {
+    "message": "पृष्ठांवर सक्रिय:"
+  },
+  "highlight_each_word_separately": {
+    "message": "प्रत्येक शब्द स्वतंत्रपणे हायलाइट करा"
+  },
+  "case_sensitive": {
+    "message": "केस संवेदनशील"
+  },
+  "ignore_diacritics": {
+    "message": "पूर्वी क्रिवटिक्स दुर्लक्ष करा"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "नियमित अभिव्यक्ती"
+  },
+  "across_elements": {
+    "message": "संपूर्ण घटक"
+  },
+  "across_elements_help": {
+    "message": "शेजारच्या HTML घटकांवर मजकूर शोधा"
+  },
+  "style": {
+    "message": "शैली"
+  },
+  "preview": {
+    "message": "पूर्वावलोकन:"
+  },
+  "empty_rule": {
+    "message": "रिक्त नियम"
+  },
+  "create_new_rule": {
+    "message": "नवीन नियम तयार करा"
+  },
+  "import_export": {
+    "message": "आयात निर्यात"
+  },
+  "help_this_project": {
+    "message": "या प्रकल्पास मदत करा"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "एफएक्यूः"
+  },
+  "storage_info": {
+    "message": "स्टोरेज माहितीः"
+  },
+  "storage_safari_1": {
+    "message": "सफारी सध्या स्वयंचलित डेटा सिंक्रोनाइझेशनला समर्थन देत नाही."
+  },
+  "storage_safari_2": {
+    "message": "आपले हायलाइट नियम हस्तांतरित करणे (किंवा बॅकअप), \"आयात / निर्यात\" वैशिष्ट्याचा वापर करा."
+  },
+  "storage_info_1": {
+    "message": "आपले नियम सुरक्षित $1 सिंक वापरून संग्रहित केले जातात जे आपल्या सर्व डिव्हाइसेस दरम्यान आपले नियम सिंक्रोनाइझ करेल (जर आपण त्याच खात्यात लॉग इन केले असेल तर)."
+  },
+  "storage_info_2": {
+    "message": "हे क्लाउड स्टोरेज 100 केबी डेटा आणि 500 पर्यंत हायलाइट करू शकते."
+  },
+  "storage_info_3": {
+    "message": "\"आयात / निर्यात\" वैशिष्ट्याचा वापर करून आपण आपल्या नियमांचे निर्यात (बॅकअप) देखील निर्यात देखील करू शकता आणि नंतर इतर डिव्हाइसेसवर आयात करू शकता."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "विद्यमान हायलाइट नियम पुनर्स्थित करा"
+  },
+  "add_page_to_highlight_on": {
+    "message": "हायलाइट करण्यासाठी पृष्ठ जोडा"
+  },
+  "remove_highlight_from_page": {
+    "message": "पृष्ठावरून हायलाइट काढा"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "इटालिक"
+  },
+  "underline": {
+    "message": "अधोरेखित"
+  },
+  "background_color": {
+    "message": "पार्श्वभूमी रंग"
+  },
+  "background": {
+    "message": "पार्श्वभूमी"
+  },
+  "text_color": {
+    "message": "मजकूर रंग"
+  },
+  "color": {
+    "message": "रंग"
+  },
+  "font_size": {
+    "message": "अक्षराचा आकार"
+  },
+  "rule_name": {
+    "message": "नियम नाव"
+  },
+  "highlight_regular_expression": {
+    "message": "नियमित अभिव्यक्ती हायलाइट करा:"
+  },
+  "highlight_text": {
+    "message": "मजकूर हायलाइट करा:"
+  },
+  "highlight_on_pages": {
+    "message": "पृष्ठांवर हायलाइट करा"
+  },
+  "empty_name_helper": {
+    "message": "नाव म्हणून \"हायलाइट केलेला मजकूर\" वापरण्यासाठी रिक्त सोडा"
+  },
+  "faq_1": {
+    "message": "वर्तमान पृष्ठावर शब्द द्रुतपणे हायलाइट कसा करावा?"
+  },
+  "faq_1a": {
+    "message": "संदर्भ मेनू वापरा - मजकूर / उजवे क्लिक / \"ऑटो हायलाइट\" निवडा. आपण पृष्ठावर उजवे क्लिक केल्यास (मजकूर निवडल्याशिवाय) आपण वर्तमान नियमांवर विद्यमान नियम लागू करू शकता."
+  },
+  "faq_2": {
+    "message": "मला एकाधिक शब्द ठळक करायचे आहे, मला प्रत्येक शब्दापासून स्वतंत्रपणे नवीन नियम तयार करण्याची आवश्यकता आहे का?"
+  },
+  "faq_2a": {
+    "message": "नाही, फक्त \"प्रत्येक शब्द\" चेकबॉक्स तपासा. मग प्रत्येक शब्द स्वतंत्रपणे ठळक केला जाईल."
+  },
+  "faq_3": {
+    "message": "ते \"RegExp\" काय आहे?"
+  },
+  "faq_3a": {
+    "message": "नियमित अभिव्यक्ती म्हणून देखील ओळखले जाते, हे एक वर्ण अनुक्रम आहे जे शोध नमूद परिभाषित करते. हे एक जटिल रचना आहे जी काही समान नमुना असलेल्या घटकांचे जटिल हायलाइट करण्यास परवानगी देते. उदाहरणार्थ किंमती, तारीख, फोन नंबर, इत्यादी ..."
+  },
+  "faq_4": {
+    "message": "आपण मला काही reguxp उदाहरणे दर्शवू शकता?"
+  },
+  "faq_4a": {
+    "message": "$1 सारखे सर्व किंमती हायलाइट करा"
+  },
+  "faq_5": {
+    "message": "आपण ते समजावून सांगू शकता?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" डॉलर चिन्ह ठळक करते. बॅकस्लॅश येथे आवश्यक आहे कारण RegExp मध्ये डॉलरचे विशेष अर्थ आहे."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" हायलाइट्स सिंगल अंक"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" म्हणजे एक किंवा अधिक वेळा पुन्हा करा. अंक निवडक $2$ नंतर ठेवल्यास, याचा अर्थ एक किंवा अधिक अंकांचा अर्थ आहे."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" हायलाइट्स डॉट. बॅकस्लॅश पुन्हा आवश्यक आहे कारण डॉट प्रतीक म्हणजे रीगेक्स पी मध्ये कोणतेही एकच पात्र."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" म्हणजे शून्य किंवा एक वेळ. $2$ नंतर ब्रॅकेट्स नंतर ठेवल्यास, याचा अर्थ त्या कंसाच्या आत जे काही आहे ते पर्यायी आहे (तेथे असू शकते किंवा नाही). आम्ही पर्यायी असलेल्या संख्येच्या दशांश भागासाठी ते वापरतो."
+  },
+  "faq_5f": {
+    "message": "RegExp नियमांबद्दल अधिक माहिती"
+  },
+  "import_finished": {
+    "message": "आयात आयात!",
+    "common": true
+  },
+  "import_error": {
+    "message": "त्रुटी",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "आयात बॅकअप फाइल $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "मुख्यपृष्ठ",
+    "common": true
+  },
+  "addon_page": {
+    "message": "अॅडॉन पृष्ठ",
+    "common": true
+  },
+  "safari_store": {
+    "message": "मॅक अॅप स्टोअर",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome वेब स्टोअर",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "फायरफॉक्स ऍड-ऑन्स",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "थंडरबर्ड अॅड-ऑन",
+    "common": true
+  },
+  "menu_options": {
+    "message": "पर्याय",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "अक्षराचा आकार",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "साइडबार आकार",
+    "common": true
+  },
+  "label_next": {
+    "message": "पुढे",
+    "common": true
+  },
+  "label_note": {
+    "message": "टीपः",
+    "common": true
+  },
+  "label_remove": {
+    "message": "काढा",
+    "common": true
+  },
+  "label_warning": {
+    "message": "चेतावणीः",
+    "common": true
+  },
+  "label_options": {
+    "message": "पर्यायः",
+    "common": true
+  },
+  "label_default": {
+    "message": "डीफॉल्ट:",
+    "common": true
+  },
+  "label_done": {
+    "message": "केले!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "कॉपी केले!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "सानुकूल:",
+    "common": true
+  },
+  "label_close": {
+    "message": "बंद",
+    "common": true
+  },
+  "label_installed": {
+    "message": "स्थापित",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "ओपन पेज",
+    "common": true
+  },
+  "label_agree": {
+    "message": "सहमत",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "रद्द करा",
+    "common": true
+  },
+  "label_save": {
+    "message": "जतन करा",
+    "common": true
+  },
+  "label_required": {
+    "message": "आवश्यक",
+    "common": true
+  },
+  "label_sending": {
+    "message": "पाठवून...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "स्केल:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "झूमः",
+    "common": true
+  },
+  "label_size": {
+    "message": "आकार:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "लवकरच येत आहे",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "बदल जतन करा",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "बदल रद्द करा",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "मेनू",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "मुख्यपृष्ठ भेट द्या",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "या प्रकल्पास मदत करा",
+    "common": true
+  },
+  "support_developer": {
+    "message": "स्वतंत्र विकासक समर्थन!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "नमस्कार!",
+    "common": true
+  },
+  "about_me": {
+    "message": "2016 पासून मी अॅडॉन विकसक आहे. माझे लक्ष्य आपल्या वेब-ब्राउझरसाठी अधिक उत्पादनक्षम बनविण्यासाठी शक्तिशाली विस्तार तयार करणे आहे.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "जर तुम्हाला वाटत असेल की मी चांगली नोकरी करत आहे, कृपया दान करा :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "आपले दान माझा एकमात्र उत्पन्न आहे!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "माझ्या कामाचे समर्थन केल्याबद्दल धन्यवाद!",
+    "common": true
+  },
+  "op_help": {
+    "message": "मदत",
+    "common": true
+  },
+  "o_title": {
+    "message": "पर्याय - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "बॅकअप",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "नवीन बॅकअप तयार करा",
+    "common": true
+  },
+  "save_settings": {
+    "message": "सेटिंग्ज जतन",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "आपला डेटा फाइलवर निर्यात करण्यासाठी, या विंडोला एका नवीन टॅबमध्ये पुन्हा उघडा.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "उजवे क्लिक / \"लिंक्ड फाइल डाउनलोड करा\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "सामान्य",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "पार्श्वभूमी",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "संदर्भ मेनू",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "लघुप्रतिमा",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "शॉर्टकट",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "आयात / बॅकअप",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "सेटिंग्ज",
+    "common": true
+  },
+  "o_theme": {
+    "message": "थीमः",
+    "common": true
+  },
+  "o_general": {
+    "message": "सामान्य:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "अक्षम",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "सक्षम",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "पिक्सेल",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "सेकंद",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "संदर्भ मेनू:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "संदर्भ मेनू अक्षम करा: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Placup / पुनर्संचयित सेटिंग्ज फाइल करण्यासाठी:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "आयात",
+    "common": true
+  },
+  "title_import": {
+    "message": "आयात",
+    "common": true
+  },
+  "title_export": {
+    "message": "निर्यात",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "निर्यात बॅकअप",
+    "common": true
+  },
+  "label_or": {
+    "message": "किंवा",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "नमस्कार :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "माझे नाव $1$ आहे आणि मी $app_name$ चे लेखक आहे.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "आपल्याला ते आवडत असल्यास, कृपया येथे रेट करा:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "आपल्याला ते आवडत नसल्यास, कृपया मला कळवा की माझ्या ई-मेल का आहे. मी प्राप्त केलेल्या बर्याच वैशिष्ट्यांना राबवित आहे.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "कृपया माझ्या कामाचे समर्थन करण्याचा विचार करा",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "इबान वापरुन बँक हस्तांतरण:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "देणगी (पेपैल)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "माझे संरक्षक बनणे",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "धन्यवाद!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "मुख्यपृष्ठ:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "संपर्कः",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "समस्या अहवालः",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "मी केवळ इंग्रजी / स्लोवकमध्ये उत्तर देऊ शकतो",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "सामाजिक माध्यमे:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "बदल जतन करा आणि बंद करा",
+    "common": true
+  },
+  "o_saved": {
+    "message": "जतन!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "कोणतेही जुळणारे परिणाम नाहीत",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "माहिती उपलब्ध नाही",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "गडद मोड",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "प्रणालीद्वारे नियंत्रित",
+    "common": true
+  },
+  "used_space": {
+    "message": "वापरलेले स्पेस: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "नवीन टॅब मध्ये उघडा",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "अॅडॉन चालू / बंद स्विच",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "अॅडॉन अक्षम आहे",
+    "common": true
+  },
+  "_description_why": {
+    "message": "का?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "गोपनीयता धोरण",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "अलीकडे जोडलेले वैशिष्ट्ये:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "टॅग्ज:",
+    "common": true
+  }
+}

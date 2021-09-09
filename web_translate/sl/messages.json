@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Prevedite izbrano besedilo (iz kontekstnega menija)"
+  },
+  "_description_feature_2": {
+    "message": "Prevajanje celotne strani."
+  },
+  "_description_feature_3": {
+    "message": "Dark način!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, Dark, Email, Google, Lang, Jezik, Microsoft, Stran, Preklad, Prekladač, S3, izbor, Besedilo, Traductuct, Prevedi, Prevajalec, Übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ je enostaven za uporabo prevajalca za vaš spletni brskalnik / Thunderbird!"
+  },
+  "o_tab_translate": {
+    "message": "Prevesti"
+  },
+  "_description_supported_translators": {
+    "message": "Podprti ponudniki prevajanja:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Modalno okno."
+  },
+  "open_in_1": {
+    "message": "Popup okno."
+  },
+  "open_in_2": {
+    "message": "Nov zavihek"
+  },
+  "open_in_3": {
+    "message": "Novo okno"
+  },
+  "open_in_4": {
+    "message": "Novi jeziček (brez posode)"
+  },
+  "modal_window": {
+    "message": "Modalno okno."
+  },
+  "toolbar_icon_action": {
+    "message": "Ikona orodne vrstice"
+  },
+  "toolbar_icon_text": {
+    "message": "Ikona orodne vrstice"
+  },
+  "sidebar_size": {
+    "message": "Stranska vrstica"
+  },
+  "translation_provider": {
+    "message": "Prevajalski ponudnik"
+  },
+  "translate_to": {
+    "message": "Prevedi k:"
+  },
+  "no_overlay": {
+    "message": "Brez prekrivanja (temno območje okoli)"
+  },
+  "no_overlay_hint": {
+    "message": "Modalno okno bo ostalo, tudi če kliknete zunaj."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Odprti prevod v:"
+  },
+  "fallback_1": {
+    "message": "Podana metoda"
+  },
+  "fallback_2": {
+    "message": "Podana metoda"
+  },
+  "fallback_title": {
+    "message": "V nekaterih primerih ni mogoče uporabiti modalnega okna in pojavnega okna."
+  },
+  "open_in_tab": {
+    "message": "Odprite v novem zavihku"
+  },
+  "translate_this_page": {
+    "message": "Prevedi to stran"
+  },
+  "selection_translate": {
+    "message": "Prevedi \"$1\""
+  },
+  "page_translate": {
+    "message": "Prevedi stran."
+  },
+  "selected_text": {
+    "message": "izbrano besedilo"
+  },
+  "disable_context_menu": {
+    "message": "Onemogoči kontekstni meni: $1"
+  },
+  "import_finished": {
+    "message": "Uvoz je končal!"
+  },
+  "import_error": {
+    "message": "Error."
+  },
+  "import_backup_file": {
+    "message": "Uvozi datoteko za varnostno kopiranje $1"
+  },
+  "search_search": {
+    "message": "Iskanje"
+  },
+  "homepage": {
+    "message": "Domača stran"
+  },
+  "addon_page": {
+    "message": "Stran ADDON"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Spletna trgovina Chrome."
+  },
+  "firefox_store": {
+    "message": "Firefox dodatki"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbirdni dodatki"
+  },
+  "label_font_size": {
+    "message": "Velikost pisave"
+  },
+  "label_next": {
+    "message": "Naslednji"
+  },
+  "label_note": {
+    "message": "Opomba:"
+  },
+  "label_remove": {
+    "message": "Odstrani"
+  },
+  "label_warning": {
+    "message": "OPOZORILO:"
+  },
+  "label_default": {
+    "message": "Privzeto:"
+  },
+  "label_done": {
+    "message": "Končano!"
+  },
+  "label_copied": {
+    "message": "Kopira!"
+  },
+  "label_close": {
+    "message": "Zapri"
+  },
+  "label_open_page": {
+    "message": "Odpri stran."
+  },
+  "label_agree": {
+    "message": "Strinjam se"
+  },
+  "label_cancel": {
+    "message": "Prekliči"
+  },
+  "op_support_me": {
+    "message": "Pomagajte ta projekt"
+  },
+  "support_developer": {
+    "message": "Podpora neodvisnemu razvijalcu!"
+  },
+  "hello_there": {
+    "message": "Pozdravljeni!"
+  },
+  "about_me": {
+    "message": "Jaz sem addon razvijalec od leta 2016. Moj cilj je graditi močne razširitve za vaš spletni brskalnik, da bi vas bolj produktivno."
+  },
+  "about_good_job": {
+    "message": "Če misliš, da delam dobro delo, prosim donirajte :)"
+  },
+  "about_income": {
+    "message": "Vaša donacija je moj edini dohodek!"
+  },
+  "about_thanks": {
+    "message": "Hvala, ker ste podprli moje delo!"
+  },
+  "o_tab_context_menu": {
+    "message": "Kontekstni meni"
+  },
+  "o_tab_about": {
+    "message": "Približno"
+  },
+  "o_tab_settings": {
+    "message": "Nastavitve"
+  },
+  "o_pixels": {
+    "message": "pixels."
+  },
+  "o_seconds": {
+    "message": "sekund"
+  },
+  "label_or": {
+    "message": "ali"
+  },
+  "o_about_hello": {
+    "message": "Zdravo :)"
+  },
+  "o_about_intro": {
+    "message": "Moje ime je $1$ in jaz sem avtor $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Če vam je všeč, ga ocenite tukaj:"
+  },
+  "o_about_thanks": {
+    "message": "Hvala vam!"
+  },
+  "o_about_contact": {
+    "message": "Kontakt:"
+  },
+  "o_about_issues": {
+    "message": "Vprašanja poročila:"
+  },
+  "o_about_social_media": {
+    "message": "Socialni mediji:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Bančni prenos z uporabo IBAN:"
+  },
+  "ps_no_results": {
+    "message": "Brez ustreznih rezultatov"
+  },
+  "label_no_data": {
+    "message": "Ni podatkov"
+  },
+  "dark_mode": {
+    "message": "Dark način"
+  },
+  "dark_mode_system": {
+    "message": "Nadzoruje sistem"
+  },
+  "_description_features": {
+    "message": "Lastnosti:"
+  },
+  "_description_why": {
+    "message": "Zakaj?"
+  },
+  "_description_privacy_policy": {
+    "message": "Pravilnik o zasebnosti"
+  },
+  "_description_recent_features": {
+    "message": "Nedavno dodane funkcije:"
+  },
+  "_description_common_tags": {
+    "message": "Oznake:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Na voljo tudi za vaš Firefox:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Na voljo tudi za vaš Thunderbird:"
+  }
+}

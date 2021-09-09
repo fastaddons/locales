@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "Às vezes, a página não é projetada bem e as informações que você procura não é visível o suficiente."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Casos de uso comum:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Destaque Metadados como:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Destaque \"Frete Grátis\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Você está procurando por algo específico na web? Use \"destaque temporal\" para ajudá-lo a encontrá-lo em todas as páginas. Destaques temporais são excluídos automaticamente quando você fecha o seu navegador."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Você pode até esconder palavras, definindo o tamanho da fonte para zero ou tornando-os transparentes."
+  },
+  "_description_tags_ah": {
+    "message": "destaque, Marcos, Metadados, Filme, Automático, Texto, Sincronização, Seleção, Pesquisa"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "O $app_name$ destacará automaticamente palavras definidas em páginas definidas."
+  },
+  "match_type": {
+    "message": "Tipo de partida:"
+  },
+  "match_type_0": {
+    "message": "Domínio é"
+  },
+  "match_type_1": {
+    "message": "URL é."
+  },
+  "match_type_2": {
+    "message": "URL contém"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "Cada página"
+  },
+  "selection_highlight": {
+    "message": "Destaque $1."
+  },
+  "selection_temp": {
+    "message": "Destaque temporariamente $1."
+  },
+  "selection_temp_everywhere": {
+    "message": "Destaque temporariamente em todos os lugares $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ nesta página"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Sempre aberto em nova guia - ao clicar no ícone da barra de ferramentas"
+  },
+  "disable_rule": {
+    "message": "Desativada"
+  },
+  "temporal_rule": {
+    "message": "Temporal"
+  },
+  "each_word": {
+    "message": "Cada palavra"
+  },
+  "rules": {
+    "message": "Regras"
+  },
+  "delete": {
+    "message": "Excluir"
+  },
+  "rename": {
+    "message": "Renomear"
+  },
+  "duplicate": {
+    "message": "Duplicada"
+  },
+  "delete_rule": {
+    "message": "Excluir regra"
+  },
+  "delete_rule_title": {
+    "message": "Excluir regra \"$1\"?"
+  },
+  "on_pages": {
+    "message": "Nas páginas:"
+  },
+  "disabled_rule": {
+    "message": "Regra desativada"
+  },
+  "incomplete_rule": {
+    "message": "Regra incompleta"
+  },
+  "active_on_current_page": {
+    "message": "Ativo na página atual"
+  },
+  "temporal_rule_helper": {
+    "message": "Regra temporal - será excluída após reiniciar o navegador"
+  },
+  "active_on_pages": {
+    "message": "Ativo nas páginas:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Destaque cada palavra separadamente"
+  },
+  "case_sensitive": {
+    "message": "Maiúsculas e Minúsculas"
+  },
+  "ignore_diacritics": {
+    "message": "Ignorar diacríticos"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "Expressão regular"
+  },
+  "across_elements": {
+    "message": "Através de elementos"
+  },
+  "across_elements_help": {
+    "message": "Procure por texto no vizinho Elementos HTML"
+  },
+  "style": {
+    "message": "Estilo"
+  },
+  "preview": {
+    "message": "Preview:"
+  },
+  "empty_rule": {
+    "message": "regra vazia"
+  },
+  "create_new_rule": {
+    "message": "Crie nova regra"
+  },
+  "import_export": {
+    "message": "Importar / exportar."
+  },
+  "help_this_project": {
+    "message": "Ajude este projeto"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "PERGUNTAS FREQUENTES:"
+  },
+  "storage_info": {
+    "message": "Informações de armazenamento:"
+  },
+  "storage_safari_1": {
+    "message": "O Safari atualmente não suporta a sincronização automática de dados."
+  },
+  "storage_safari_2": {
+    "message": "Para transferir (ou backup) suas regras de destaque, use o recurso \"Importar / Exportar\"."
+  },
+  "storage_info_1": {
+    "message": "Suas regras são armazenadas usando Secrete Secure $1 que sincronizará suas regras entre todos os seus dispositivos (se você estiver conectado à mesma conta)."
+  },
+  "storage_info_2": {
+    "message": "Este armazenamento em nuvem pode armazenar 100 KB de dados e até 500 regras de destaque."
+  },
+  "storage_info_3": {
+    "message": "Você também pode exportar (backup) suas regras para um arquivo usando o recurso \"Importar / Exportar\" e, em seguida, importá-lo em outros dispositivos."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Substituir regras de destaque existentes"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Adicionar página para realçar em"
+  },
+  "remove_highlight_from_page": {
+    "message": "Remover destaque da página"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "Itálica"
+  },
+  "underline": {
+    "message": "Sublinhada"
+  },
+  "background_color": {
+    "message": "Cor de fundo"
+  },
+  "background": {
+    "message": "Fundo"
+  },
+  "text_color": {
+    "message": "Cor do texto"
+  },
+  "color": {
+    "message": "Cor"
+  },
+  "font_size": {
+    "message": "Tamanho da fonte"
+  },
+  "rule_name": {
+    "message": "Nome da regra"
+  },
+  "highlight_regular_expression": {
+    "message": "Destaque a expressão regular:"
+  },
+  "highlight_text": {
+    "message": "Destaque texto:"
+  },
+  "highlight_on_pages": {
+    "message": "Destaque nas páginas"
+  },
+  "empty_name_helper": {
+    "message": "Deixe vazio para usar \"texto destacado\" como nome"
+  },
+  "faq_1": {
+    "message": "Como realçar rapidamente o Word na página atual?"
+  },
+  "faq_1a": {
+    "message": "Use o menu de contexto - Selecione Texto / Clique com o botão direito / \"Destaque automático\". Se você clicar com o botão direito em uma página (sem selecionar texto), você pode aplicar regras existentes à página atual."
+  },
+  "faq_2": {
+    "message": "Eu quero destacar várias palavras, preciso criar nova regra para cada palavra separadamente?"
+  },
+  "faq_2a": {
+    "message": "Não, basta verificar a caixa de seleção \"Cada palavra\". Em seguida, cada palavra será destacada separadamente."
+  },
+  "faq_3": {
+    "message": "O que é esse \"RegExp\"?"
+  },
+  "faq_3a": {
+    "message": "Também conhecido como expressão regular, é uma seqüência de caracteres que definem um padrão de pesquisa. É uma construção complicada que permite realçar complexa de elementos com algum padrão similar. Por exemplo, preços, datas, números de telefone, etc ..."
+  },
+  "faq_4": {
+    "message": "Você pode me mostrar alguns exemplos de RegExp?"
+  },
+  "faq_4a": {
+    "message": "Realce todos os preços como $1"
+  },
+  "faq_5": {
+    "message": "Você poderia explicar isso?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" destaca o cifrão. A barra invertida é necessária aqui porque o dólar tem um significado especial no RegExp."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" destaca um dígito único"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" significa repetir uma ou mais vezes. Quando colocado após o seletor de dígitos $2$, significa um ou mais dígitos."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" destaca o ponto. A barra invertida é necessária novamente porque o símbolo do ponto sozinho significa qualquer caractere único no RegExp."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" significa zero ou uma vez. Quando colocado após colchetes $2$, significa que tudo estiver dentro desses colchetes é opcional (pode estar lá, ou não). Nós usamos para a parte decimal do número que é opcional."
+  },
+  "faq_5f": {
+    "message": "mais informações sobre regras de RegExp"
+  },
+  "import_finished": {
+    "message": "Importação terminada!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Erro",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Importar arquivo de backup $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Pagina inicial",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Página Addon.",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Loja online do Chrome",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Add-ons do Firefox",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Add-ons do Thunderbird",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Opções",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Tamanho da fonte",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Tamanho da barra lateral",
+    "common": true
+  },
+  "label_next": {
+    "message": "Próxima",
+    "common": true
+  },
+  "label_note": {
+    "message": "Observação:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Remover",
+    "common": true
+  },
+  "label_warning": {
+    "message": "AVISO:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Opções:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Padrão:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Feita!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Copiada!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Personalizada:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Perto",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Instalada",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Página aberta",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Concordar",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Cancelar",
+    "common": true
+  },
+  "label_save": {
+    "message": "Salve ",
+    "common": true
+  },
+  "label_required": {
+    "message": "Obrigatória",
+    "common": true
+  },
+  "label_sending": {
+    "message": "enviando ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Escala:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Ampliação:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Tamanho:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Em breve",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Salvar alterações",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Descartar mudanças",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Cardápio",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Visite Homepage",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Ajude este projeto",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Apoie o desenvolvedor independente!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Olá!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Eu sou Addon Developer desde 2016. Meu objetivo é construir extensões poderosas para o seu navegador para torná-lo mais produtivo.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Se você acha que estou fazendo um bom trabalho, por favor doe :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Sua doação é minha única renda!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Obrigado por apoiar meu trabalho!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Ajuda",
+    "common": true
+  },
+  "o_title": {
+    "message": "Opções - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "cópia de segurança",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Crie novo backup",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Salvar configurações",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Para exportar seus dados para um arquivo, reabrir esta janela em uma nova guia.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Clique com o botão direito do mouse / \"Download do arquivo vinculado\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Em geral",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Fundo",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Menu contextual",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Miniaturas",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Atalhos",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Importar / Backup",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Definições",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Tema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Em geral:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "desativada",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "ativada",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "píxeis",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "segundas",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Menu contextual:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Desativar o menu de contexto: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Configurações de backup / restauração para arquivar:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Importar",
+    "common": true
+  },
+  "title_import": {
+    "message": "Importar",
+    "common": true
+  },
+  "title_export": {
+    "message": "Exportar",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Exportar backup",
+    "common": true
+  },
+  "label_or": {
+    "message": "ou",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Olá :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Meu nome é $1$ e eu sou o autor de $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Se você gosta, por favor, avalie aqui:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Se você não gosta, por favor, deixe-me saber porque meu e-mail. Estou implementando a maioria dos pedidos de recursos que recebo.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Por favor, considere apoiar meu trabalho por",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Transferência bancária usando o Iban:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "doação (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "tornando-se meu patrono",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Obrigada!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "casa:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contato:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Questões de relatório:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Eu posso responder apenas em inglês / eslovaco",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Mídia social:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Salvar alterações e fechar",
+    "common": true
+  },
+  "o_saved": {
+    "message": "salvou!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Nenhum resultado correspondente",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Sem dados",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Modo escuro",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Controlado pelo sistema",
+    "common": true
+  },
+  "used_space": {
+    "message": "Espaço usado: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Aberto em nova guia",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Switch Addon On / Off",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon está desativado",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Por quê?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Política de Privacidade",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Recursos recentemente adicionados:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tag:",
+    "common": true
+  }
+}

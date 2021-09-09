@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "날짜, IMDB, 설명, 에피소드, 게이지, 그래프, IMDB, 정보, 미터, 영화, 영화, 영화, netflix, imdb, 등급, 시리즈, 쇼, TV, TV 쇼, 비디오, 비주얼, 투표,"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "영화를 찾을 수 없음 / 잘못된 영화 발견 - 대상 페이지와의 \"공식적인\"통합이 없으므로 100 % 정확한 결과를 보장 할 수 없으므로 (그러나 대다수의 경우 완벽하게 작동합니다)"
+  },
+  "_description_mm_not_working": {
+    "message": "좋아하는 영화 페이지에서 작동하지 않습니까?"
+  },
+  "_description_mm_add_support": {
+    "message": "저에게 연락하십시오. 가능한 경우 (페이지가 영어 또는 $visit_imdb$ 링크에 무비 이름을 포함해야 함)."
+  },
+  "_description_mm_feature_1": {
+    "message": "영화 등급 및 인기가 $visit_imdb$."
+  },
+  "_description_mm_feature_2": {
+    "message": "다음 / 이전 에피소드 날짜 $visit_tvmaze$."
+  },
+  "_description_mm_feature_3": {
+    "message": "추가 영화 / TV 시리즈 정보"
+  },
+  "_description_mm_feature_4": {
+    "message": "새로운 에피소드에 대한 알림"
+  },
+  "_description_mm_feature_5": {
+    "message": "tV 시리즈를 즐겨 찾기로 표시하고 새로운 에피소드를 사용할 수있을 때 알림을 받게됩니다."
+  },
+  "_description_mm_feature_7": {
+    "message": "비디오 재생이 감지되면 자동 숨기기"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$은 영화의 등급과 인기를 보여줍니다 (또는 TV 시리즈)"
+  },
+  "name": {
+    "message": "이름"
+  },
+  "year": {
+    "message": "년"
+  },
+  "video_type": {
+    "message": "유형"
+  },
+  "video_type_0": {
+    "message": "영화"
+  },
+  "video_type_1": {
+    "message": "시리즈"
+  },
+  "video_type_2": {
+    "message": "삽화"
+  },
+  "runtime": {
+    "message": "실행 시간"
+  },
+  "premiered": {
+    "message": "첫날"
+  },
+  "premiere_in": {
+    "message": "초연"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "국가"
+  },
+  "actors": {
+    "message": "배우"
+  },
+  "dvd": {
+    "message": "DVD"
+  },
+  "director": {
+    "message": "감독"
+  },
+  "totalseasons": {
+    "message": "총 계절"
+  },
+  "writer": {
+    "message": "작가"
+  },
+  "language": {
+    "message": "언어"
+  },
+  "awards": {
+    "message": "어워드"
+  },
+  "rated": {
+    "message": "평온함"
+  },
+  "production": {
+    "message": "생산"
+  },
+  "plot": {
+    "message": "음모"
+  },
+  "website": {
+    "message": "웹 사이트"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "$visit_imdb$ 페이지를 방문하십시오"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "$visit_tvmaze$ 페이지를 방문하십시오"
+  },
+  "make_favorite": {
+    "message": "특히 잘하는"
+  },
+  "make_favorite_title": {
+    "message": "즐겨 찾기에 TV 시리즈를 추가하십시오. 이렇게하면 새로운 에피소드에 대한 알림을받을 수 있습니다."
+  },
+  "last_episode": {
+    "message": "마지막"
+  },
+  "next_episode": {
+    "message": "다음"
+  },
+  "last_episode_title": {
+    "message": "마지막 에피소드"
+  },
+  "next_episode_title": {
+    "message": "다음 에피소드"
+  },
+  "episode_airtime": {
+    "message": "방송 시간"
+  },
+  "episode_name": {
+    "message": "이름"
+  },
+  "series_status": {
+    "message": "상태"
+  },
+  "episodes_count": {
+    "message": "에피소드"
+  },
+  "episodes_count_title": {
+    "message": "현재 시즌 $1은 $2 에피소드가 있습니다"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "며칠"
+  },
+  "hours": {
+    "message": "시간"
+  },
+  "na": {
+    "message": "사용할 수 없습니다"
+  },
+  "user_rating": {
+    "message": "사용자 등급 : $1."
+  },
+  "user_popularity": {
+    "message": "인기 : $1 투표"
+  },
+  "source": {
+    "message": "출처 : $1."
+  },
+  "show_details": {
+    "message": "더..."
+  },
+  "hide_details": {
+    "message": "적게..."
+  },
+  "save_position": {
+    "message": "위치를 저장하십시오"
+  },
+  "revert_position": {
+    "message": "위치를 되돌립니다"
+  },
+  "win_disable": {
+    "message": "$1에서 비활성화"
+  },
+  "cm_advanced": {
+    "message": "많은"
+  },
+  "op_visit_home": {
+    "message": "홈페이지를 방문하십시오"
+  },
+  "op_support_me": {
+    "message": "이 프로젝트에 도움이됩니다"
+  },
+  "hide": {
+    "message": "숨기기 창"
+  },
+  "show": {
+    "message": "쇼 창"
+  },
+  "reset_position": {
+    "message": "위치 재설정"
+  },
+  "search": {
+    "message": "검색"
+  },
+  "configure_search": {
+    "message": "검색 옵션 구성"
+  },
+  "selection_search": {
+    "message": "$1을 검색하십시오"
+  },
+  "menu_options": {
+    "message": "옵션"
+  },
+  "menu_quick_options": {
+    "message": "빠른 옵션"
+  },
+  "menu_visit_homepage": {
+    "message": "홈페이지를 방문하십시오"
+  },
+  "menu_request_support": {
+    "message": "$1에 대한 지원 요청"
+  },
+  "show_introduction": {
+    "message": "소개 표시 페이지"
+  },
+  "o_about_issues": {
+    "message": "보고서 문제 :"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "firefox_store": {
+    "message": "Firefox 부가 기능"
+  },
+  "chrome_store": {
+    "message": "크롬 웹 스토어"
+  },
+  "movie_not_detected": {
+    "message": "영화가 감지되지 않았습니다"
+  },
+  "movie_not_detected_title": {
+    "message": "이 페이지에서 동영상 / TV 시리즈가 감지되지 않았습니다."
+  },
+  "movie_not_found": {
+    "message": "영화를 찾을 수 없습니다"
+  },
+  "movie_not_found_title": {
+    "message": "서버 정보를 서버에서 찾을 수 없습니다."
+  },
+  "status_type_0": {
+    "message": "달리는"
+  },
+  "status_type_1": {
+    "message": "끝내었다"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "쇼가 계속 될 것입니다"
+  },
+  "status_type_title_1": {
+    "message": "쇼가 끝났습니다 - 더 이상 계절이 없습니다."
+  },
+  "status_type_title_2": {
+    "message": "미래가 불분명하다는 것을 보여줍니다"
+  },
+  "notify_movie_not_found": {
+    "message": "영화를 찾을 수 없습니다 : $1."
+  },
+  "notify_movie_not_found_body": {
+    "message": "영어 영화 이름 만 사용하십시오!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "검색은 완벽하지 않습니다 ..."
+  },
+  "notify_video_hide": {
+    "message": "비디오 감지 - $app_name$ 이제 숨겨져 있습니다"
+  },
+  "notify_video_hide_body": {
+    "message": "이 알림을 다시 표시하지 않으려면 여기를 클릭하십시오"
+  },
+  "notify_new_episodes": {
+    "message": "새로운 에피소드가 방영되었습니다"
+  },
+  "title_introduction": {
+    "message": "소개"
+  },
+  "supported_pages": {
+    "message": "지원되는 페이지 :"
+  },
+  "supported_grows": {
+    "message": "(이 목록은 더 크고 크게 성장합니다)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "등급과 인기 정보는 $1$입니다. 에피소드에 대한 정보는 $2$입니다."
+  },
+  "title_got_it": {
+    "message": "알았어, 시작하자!"
+  },
+  "_description_privacy_policy": {
+    "message": "개인 정보 정책"
+  },
+  "_description_recent_features": {
+    "message": "최근 추가 된 기능 :"
+  },
+  "_description_known_issues": {
+    "message": "알려진 문제점 :"
+  },
+  "_description_common_tags": {
+    "message": "태그 :"
+  },
+  "_description_features": {
+    "message": "풍모:"
+  },
+  "about_me": {
+    "message": "저는 2016 년 이래 Addon Developer입니다. 내 목표는 귀하의 웹 브라우저에 대한 강력한 확장을 구축하여 더 생산적으로 만드는 것입니다."
+  },
+  "about_good_job": {
+    "message": "내가 좋은 일을하고 있다고 생각한다면, 기부하십시오 :)"
+  },
+  "about_income": {
+    "message": "기부금은 나의 유일한 수입입니다!"
+  },
+  "about_thanks": {
+    "message": "내 일을 지원해 주셔서 감사합니다!"
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN을 이용한 은행 송금 :"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "독립적 인 개발자를 지원하십시오!"
+  }
+}

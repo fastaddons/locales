@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "дата, IMDB, описание, епизод, габарит, графика, IMDB, информация, метър, филм, филм, филми, netflix, IMDB, рейтинг, серия, предавания, телевизор, телевизионно шоу, видео, визуални, гласове, сезон"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "филм, който не е намерен / грешен филм, намерен - тъй като няма \"официална\" интеграция с целевите страници, не мога да гарантирам 100% правилни резултати (но в повечето случаи работи перфектно)"
+  },
+  "_description_mm_not_working": {
+    "message": "Не работи на любимия ви филм?"
+  },
+  "_description_mm_add_support": {
+    "message": "Свържете се с мен и аз ще го добавя - ако е възможно (страницата трябва да съдържа име на филм на английски или $visit_imdb$ връзка)."
+  },
+  "_description_mm_feature_1": {
+    "message": "рейтинг и популярност от $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "следващ / предишен епизод дата от $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "допълнителна информация за филма / телевизионна серия"
+  },
+  "_description_mm_feature_4": {
+    "message": "уведомяване за нов епизод"
+  },
+  "_description_mm_feature_5": {
+    "message": "маркирайте телевизионния сериал като фаворит и ще получите уведомление, когато има нов епизод"
+  },
+  "_description_mm_feature_7": {
+    "message": "автоматично скриване, когато се открие видео възпроизвеждане"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ ще ви покаже рейтинг и популярност на филм (или телевизионна серия)"
+  },
+  "name": {
+    "message": "Име"
+  },
+  "year": {
+    "message": "Година"
+  },
+  "video_type": {
+    "message": "Тип"
+  },
+  "video_type_0": {
+    "message": "Филм"
+  },
+  "video_type_1": {
+    "message": "Серия"
+  },
+  "video_type_2": {
+    "message": "Епизод"
+  },
+  "runtime": {
+    "message": "Работа"
+  },
+  "premiered": {
+    "message": "Премиера"
+  },
+  "premiere_in": {
+    "message": "Премиера в"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Страна"
+  },
+  "actors": {
+    "message": "Актьори"
+  },
+  "dvd": {
+    "message": "DVD"
+  },
+  "director": {
+    "message": "Директор"
+  },
+  "totalseasons": {
+    "message": "Общо сезони"
+  },
+  "writer": {
+    "message": "Писателка"
+  },
+  "language": {
+    "message": "Език"
+  },
+  "awards": {
+    "message": "Награди"
+  },
+  "rated": {
+    "message": "Оценени"
+  },
+  "production": {
+    "message": "Производство"
+  },
+  "plot": {
+    "message": "Парцел"
+  },
+  "website": {
+    "message": "Уебсайт"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Посетете $visit_imdb$ страница"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Посетете $visit_tvmaze$ страница за това шоу"
+  },
+  "make_favorite": {
+    "message": "Любими"
+  },
+  "make_favorite_title": {
+    "message": "Добавете телевизионна серия към любимите. Това ще ви позволи да получавате уведомление за нови епизоди."
+  },
+  "last_episode": {
+    "message": "Последно"
+  },
+  "next_episode": {
+    "message": "Следващия"
+  },
+  "last_episode_title": {
+    "message": "Последно епизод"
+  },
+  "next_episode_title": {
+    "message": "Следващ епизод"
+  },
+  "episode_airtime": {
+    "message": "Енергия"
+  },
+  "episode_name": {
+    "message": "Име"
+  },
+  "series_status": {
+    "message": "Статус"
+  },
+  "episodes_count": {
+    "message": "Епизоди"
+  },
+  "episodes_count_title": {
+    "message": "Текущ сезон $1 има $2 епизоди"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "дни"
+  },
+  "hours": {
+    "message": "часа"
+  },
+  "na": {
+    "message": "Не е наличен"
+  },
+  "user_rating": {
+    "message": "Рейтинг на потребителя: $1"
+  },
+  "user_popularity": {
+    "message": "Популярност: $1 гласа"
+  },
+  "source": {
+    "message": "Източник: $1"
+  },
+  "show_details": {
+    "message": "повече ▼..."
+  },
+  "hide_details": {
+    "message": "по-малко..."
+  },
+  "save_position": {
+    "message": "Запазване на позиция"
+  },
+  "revert_position": {
+    "message": "Възстановяване на позиция"
+  },
+  "win_disable": {
+    "message": "Деактивиране на $1"
+  },
+  "cm_advanced": {
+    "message": "Разширено"
+  },
+  "op_visit_home": {
+    "message": "Посетете началната страница"
+  },
+  "op_support_me": {
+    "message": "Помогнете на този проект"
+  },
+  "hide": {
+    "message": "Скриване на прозореца"
+  },
+  "show": {
+    "message": "Показване на прозореца"
+  },
+  "reset_position": {
+    "message": "Нулиране на позицията"
+  },
+  "search": {
+    "message": "Търсене"
+  },
+  "configure_search": {
+    "message": "Конфигуриране на опции за търсене"
+  },
+  "selection_search": {
+    "message": "Търсене $1."
+  },
+  "menu_options": {
+    "message": "Настроики"
+  },
+  "menu_quick_options": {
+    "message": "Бързи опции"
+  },
+  "menu_visit_homepage": {
+    "message": "Посетете началната страница"
+  },
+  "menu_request_support": {
+    "message": "Заявка за поддръжка за $1"
+  },
+  "show_introduction": {
+    "message": "Покажи Въведение"
+  },
+  "o_about_issues": {
+    "message": "Доклад Въпроси:"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "firefox_store": {
+    "message": "Добавки от Firefox"
+  },
+  "chrome_store": {
+    "message": "Хром уеб магазин"
+  },
+  "movie_not_detected": {
+    "message": "Филм, който не е открит"
+  },
+  "movie_not_detected_title": {
+    "message": "На тази страница не е открит филмов / телевизионен сериал."
+  },
+  "movie_not_found": {
+    "message": "Филм не е намерен"
+  },
+  "movie_not_found_title": {
+    "message": "Информацията за филма не е намерена на сървъра."
+  },
+  "status_type_0": {
+    "message": "Работа"
+  },
+  "status_type_1": {
+    "message": "Край"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Шоуто ще продължи"
+  },
+  "status_type_title_1": {
+    "message": "Шоуто е приключило - не са планирани повече сезони"
+  },
+  "status_type_title_2": {
+    "message": "Показва бъдещето е неясно"
+  },
+  "notify_movie_not_found": {
+    "message": "Филм не е намерен: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Използвайте само името на английски език!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Търсенето не е перфектно ..."
+  },
+  "notify_video_hide": {
+    "message": "Открит видеоклип - $app_name$ е скрит"
+  },
+  "notify_video_hide_body": {
+    "message": "Кликнете тук, за да не покажете отново това уведомление"
+  },
+  "notify_new_episodes": {
+    "message": "Новият епизод беше излъчен"
+  },
+  "title_introduction": {
+    "message": "Въведение"
+  },
+  "supported_pages": {
+    "message": "Поддържани страници:"
+  },
+  "supported_grows": {
+    "message": "(Този списък става по-голям и по-голям)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Рейтингите и информацията за популярност са от $1$. Информацията за епизодите е от $2$."
+  },
+  "title_got_it": {
+    "message": "Имам го, да започнем!"
+  },
+  "_description_privacy_policy": {
+    "message": "Декларация за поверителност"
+  },
+  "_description_recent_features": {
+    "message": "Наскоро добавени функции:"
+  },
+  "_description_known_issues": {
+    "message": "Вече известни проблеми:"
+  },
+  "_description_common_tags": {
+    "message": "Тагове:"
+  },
+  "_description_features": {
+    "message": "Характеристика:"
+  },
+  "about_me": {
+    "message": "Аз съм предприемач на Addon от 2016 г. Целта ми е да изградя мощни разширения за вашия уеб браузър, за да ви направи по-продуктивни."
+  },
+  "about_good_job": {
+    "message": "Ако мислите, че правя добра работа, моля да даря :)"
+  },
+  "about_income": {
+    "message": "Вашето дарение е единственият ми доход!"
+  },
+  "about_thanks": {
+    "message": "Благодарим ви, че подкрепяхте работата ми!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Банков превод, използващ IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Поддръжка на независим разработчик!"
+  }
+}

@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "kõikjal, nupp, kursor, lohistage, haarata, haarata lohistage, haarata ja lohistage, lõpmatu, vasak, keskel, hoogu, hiir, liikumine, leht, parem, kerimine, kerimisleht, kerimisriba, kerimine, viska"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Lohistage kerimisriba oma keskmise hiire nupuga kõikjal lehel. Toetab ka \"haarata ja lohistage\" stiili."
+  },
+  "field_int_default_value": {
+    "message": "Vaikeväärtus: $1, min: $2, max: $3"
+  },
+  "field_set_default": {
+    "message": "Vaikimisi lähtestamine: $1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird lisandmoodulid"
+  },
+  "firefox_store": {
+    "message": "Firefoxi lisandmoodulid"
+  },
+  "chrome_store": {
+    "message": "Chrome'i veebipood"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "win_disable": {
+    "message": "Keela $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Keela horisontaalne kerimine $1"
+  },
+  "op_visit_home": {
+    "message": "Külasta kodulehekülge"
+  },
+  "op_support_me": {
+    "message": "Aita seda projekti"
+  },
+  "o_title": {
+    "message": "Valikud - $1"
+  },
+  "o_tab_general": {
+    "message": "Üldine"
+  },
+  "o_tab_momentum": {
+    "message": "Hoog"
+  },
+  "o_tab_cursor": {
+    "message": "Kursor"
+  },
+  "o_axis_locking": {
+    "message": "Axis lukustamine"
+  },
+  "o_tab_performance": {
+    "message": "Tulemuslikkus"
+  },
+  "o_tab_disabled_on": {
+    "message": "Keelatud"
+  },
+  "o_tab_advanced": {
+    "message": "Arenenud"
+  },
+  "o_tab_scrollbars": {
+    "message": "Kerimisribad"
+  },
+  "o_tab_backup": {
+    "message": "Import / backup"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Kui kerimine keritakse ühel teljel, kuid vanepartlik on keritav teiste teljega, lukustusse kerimine ühele teljele:"
+  },
+  "o_axis_lock_0": {
+    "message": "SMART LOCK - ajaline lukk hoogu abil"
+  },
+  "o_axis_lock_1": {
+    "message": "Range lukk - kiirsuunalukk"
+  },
+  "o_axis_lock_2": {
+    "message": "NO LOCK - TASUTA kerimine mõlemas teljel"
+  },
+  "o_trend_momentum_window": {
+    "message": "Smart Lock Stack suurus"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Suurem väärtus nõuab kerimise telje muutmiseks rohkem kerimist."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon on keelatud! Klõpsake siia."
+  },
+  "o_cursor_change_default": {
+    "message": "muutusi ei ole - parim jõudlus"
+  },
+  "o_scroll_button": {
+    "message": "Keri nupp:"
+  },
+  "o_direction_speed": {
+    "message": "Kerige Style / suund / kiirus:"
+  },
+  "o_multiplier": {
+    "message": "Kordaja"
+  },
+  "o_times_speed": {
+    "message": "korda kerimise kiirus"
+  },
+  "o_maximum_speed": {
+    "message": "Maksimaalne kerimispikk (0 - keelatud):"
+  },
+  "o_ratio_unit": {
+    "message": "suhe (lehekülje pikkus / akna suurus)"
+  },
+  "o_scroll_type_0": {
+    "message": "Emuleerida kerimisriba"
+  },
+  "o_scroll_type_1": {
+    "message": "Haara ja lohistage nutitelefonis"
+  },
+  "o_scroll_type_2": {
+    "message": "Dünaamiline kiirus (eksperimentaalne)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "See on nagu kerimisriba lohistamine"
+  },
+  "o_scroll_type_title_1": {
+    "message": "See on nagu lehel lohistades oma sõrmega telefoni ekraanil"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Dünaamiline kiirus teeb kerimise kiirus aeglasemalt, kui leht on pikem"
+  },
+  "o_disable_key": {
+    "message": "Keela / lubamine kerimine Kui klahv on alla:"
+  },
+  "o_momentum_category": {
+    "message": "Momentum:"
+  },
+  "o_momentum_formula": {
+    "message": "Momentum Vormel:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Ühtlaselt aeglustunud liikumine"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Leheke liikumise ühtlaselt aeglustub, kuni see peatub"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Eksponentsiaalselt aeglustunud liikumine"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Leheke liikumine kiiresti (eksponentsiaalselt) aeglustab"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Lõpmatu liikumine ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Kerimine ei lõpe kunagi"
+  },
+  "o_momentum_max_speed": {
+    "message": "Maksimaalne kiirus (0 - keelatud):"
+  },
+  "o_page_weight": {
+    "message": "Lehe kaal:"
+  },
+  "o_grams": {
+    "message": "grammi :)"
+  },
+  "o_additional_speed": {
+    "message": "Täiendav kiirus:"
+  },
+  "o_pixels_second": {
+    "message": "pikslid sekundis"
+  },
+  "o_additional_duration": {
+    "message": "Täiendav kestus:"
+  },
+  "o_advanced_momentum": {
+    "message": "Täiustatud Momentum Setup (ainult ekspertidele!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Nende väärtuste muutmine võib teie hoogu murda!"
+  },
+  "o_compute_from_last": {
+    "message": "Arvutab viimasest:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Hiire lõpetamise tuvastamine:"
+  },
+  "o_tracking_speed": {
+    "message": "Jälgimiskiirus:"
+  },
+  "o_reset_values": {
+    "message": "Lähtesta väärtused"
+  },
+  "o_cursor_scrolling": {
+    "message": "Kursor, mida kasutatakse kerimise ajal:"
+  },
+  "o_performance": {
+    "message": "Tulemuslikkus:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Vältige suuri hüppeid"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Kui kasutate vahendit, mis suudab teie kursorit ekraanil teleportida (kui jõuad serva), lubage see võimalus lubada pidevat (lõpmatu) kerimist."
+  },
+  "o_advanced": {
+    "message": "Täiustatud:"
+  },
+  "o_movement_detection": {
+    "message": "Hiire liikumise tuvastamise künnis:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Mitu pikslite hiire liikuda blokeerida link. Mõnikord, kui vajutate kerimisnuppu, liigutate hiirt veidi, kuid te ei soovi linki puudega keelata."
+  },
+  "o_context_menu_block": {
+    "message": "Kontekstimenüüplokk:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Unlock konteksti menüü hilinemine"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Kui näete kontekstimenüüst pärast hiire parema nupuga kerimist, suurendage seda väärtust"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Keela horisontaalne kerimine domeenide:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Domeenide keelatud:"
+  },
+  "o_is_disabled_url": {
+    "message": "Puuetega lehekülgedel / alampiirkonnad:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "URL-i osa määramiseks saate rakendada tähe sümboli (*), näiteks: \"Google.com/maps\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Sisestage üks domeeni rea kohta."
+  },
+  "o_is_disabled": {
+    "message": "Keela lisandmooduli"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Kasutage tööriistariba ikooni peamise sisse- / väljalüliti"
+  },
+  "o_scroll_button_middle": {
+    "message": "Keskmine nupp"
+  },
+  "o_scroll_button_right": {
+    "message": "Parem nupp"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Maci kasutajad - Teil palutakse uue luba \"lugeda ja muuta brauseri seadistus\" - see on vajalik kontekstimenüü maha surumiseks enne kerimist!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Maci kasutajad - teie kontekstimenüü blokeeritakse! Kontekstimenüü avamine Hoidke klahvi \"Shift\" või Triple-Clip-klõpsuga paremale nupule."
+  },
+  "o_scroll_button_left": {
+    "message": "Vasak nupp (eksperimentaalne)"
+  },
+  "o_scroll_on_links": {
+    "message": "Leidke lingid"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Kui see on lubatud, ei saa te linke lohistada ja tilkida (ainult keelata \"abil)"
+  },
+  "o_scroll_on_text": {
+    "message": "Kerige teksti"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emuleerib telefoni kerimist / redigeerimist - peate klikkima tekstile, et lülituda \"redigeerimisrežiimi\". Klõpsates väljaspool teksti, võimaldab taas kerida."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Leidke Textarea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea on teksti plokk, mis on tavaliselt kättesaadavad. Näiteks \"keelatud\" Tab näete Textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Leidke redigeeritav html"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Näiteks e-posti keha Gmail on redigeeritav HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "teksti võimaldab valida / redigeerimise teksti."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Vajuta tekstil võimaldab \"redigeerida režiimis\". Klõpsa väljapoole teksti, et võimaldada \"kerimisrežiimi\" lubamiseks."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Ühe klõpsuga"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Topeltklõps"
+  },
+  "o_scrollbars_width": {
+    "message": "Kerimisribad"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normaalne (muutusteta)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Õhuke"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Peidetud"
+  },
+  "o_scrollbars_color": {
+    "message": "Scrollbar liuguri värv:"
+  },
+  "o_scrollbars_background": {
+    "message": "Kerimisriba taustavärv:"
+  },
+  "o_reverse": {
+    "message": "Reverse kerimissuunda"
+  },
+  "o_disable_alt": {
+    "message": "ALT"
+  },
+  "o_disable_shift": {
+    "message": "Vahetus"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl"
+  },
+  "o_disable_type_0": {
+    "message": "Keela, kui klahv on alla:"
+  },
+  "o_disable_type_1": {
+    "message": "Luba, kui klahv on alla:"
+  },
+  "o_momentum": {
+    "message": "luba hoogu - saate lehe \"visata\" (nagu telefon)"
+  },
+  "o_no_css_edit": {
+    "message": "Ärge lukustage Iframe ja ärge muutke kursorit kerimisel"
+  },
+  "o_no_prevent_default": {
+    "message": "Ärge blokeeri vaikimisi nuppu"
+  },
+  "o_auto_link_lock": {
+    "message": "Lingid blokeerimine:"
+  },
+  "o_no_link_block": {
+    "message": "Ärge blokeeri hiireklõpsu lingil pärast liikumist"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Kui alustate linki kerimist ja siis lõpetate sama lingi kerimise, avab brauser lingi. See ei ole tavaliselt soovitav käitumine nii vaikimisi see on blokeeritud."
+  },
+  "o_page_weight_title": {
+    "message": "See kontroll on \"raske\" lehekülg on. Raskemad lehekülgedel on pikem hoogu."
+  },
+  "o_additional_speed_title": {
+    "message": "Te saate kiirendada hoogu, et kiirus."
+  },
+  "o_additional_duration_title": {
+    "message": "Täiendav kord iga hoogu jaoks."
+  },
+  "o_compute_from_last_title": {
+    "message": "Momentum Esmane kiirus määratakse kerimise kiirusega enne kerimisnupu vabastamist."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Kui palju aega on hiirega jääda - enne kerimisnupu vabastamist - hoogu aktiveerimiseks."
+  },
+  "o_tracking_speed_title": {
+    "message": "Praeguse kerimise kiiruse mõõtmise intervall."
+  },
+  "o_scrolling_area": {
+    "message": "Kerimispiirkond:"
+  },
+  "o_outside_area_width": {
+    "message": "Kerimispiirkond (0 - keelatud):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Kursori liigutamine väljaspool kerimispiirkonda pöördub kerimise asendisse. Sama käitumist saab näha kerimisriba lohistamisel."
+  },
+  "o_scroll_button_left_title": {
+    "message": "HOIATUS - Vasak nupu tugi kasutab kaalutud Firefox API-d, mida saaks eemaldada Firefoxi tulevastes versioonides."
+  },
+  "o_prevent_text_selection": {
+    "message": "Vältige vasakpoolse nupu kerimise teksti valikut"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Mõnedel seadmetel valib hiire vasaku nupu kerimine lehel ka teksti."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Ärge blokeerige kontekstimenüüt, kui proovite kerida elektrit"
+  },
+  "o_backup_restore": {
+    "message": "Varundus / taastamise seaded faili:"
+  },
+  "o_export_settings": {
+    "message": "Ekspordi seaded faili"
+  },
+  "import_settings_button": {
+    "message": "Impordi seaded alates $1 faili ..."
+  },
+  "import_finished": {
+    "message": "Import lõpetas!"
+  },
+  "test_page_title": {
+    "message": "Testige siin kerimisseadeid"
+  },
+  "menu_options": {
+    "message": "Valikuvõimalused"
+  },
+  "menu_visit_title": {
+    "message": "Külasta kodulehekülge"
+  },
+  "not_working": {
+    "message": "Teie veebibrauseri poolt keelatud"
+  },
+  "disabled_by_user": {
+    "message": "Keelatud sellel domendil"
+  },
+  "not_working_title": {
+    "message": "Teie brauser blokeerib sellistes lehekülgedel varieerumise:"
+  },
+  "not_working_body": {
+    "message": "Et võimaldada Scroringwhere \"Mozilla.org\" lehekülge, vaadake seda YouTube'i juhendaja"
+  },
+  "show_scrollbars": {
+    "message": "Näita kerimisribasid"
+  },
+  "show_scrollbars_title": {
+    "message": "Ajutiselt näidata kerimisribasid"
+  },
+  "switch_on_off": {
+    "message": "Lülitage lisandmooduli Off / ON"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Kui teil tekib märgatav viivitus kerimisnupu vajutamise ja kerimise käivitamise vahel, proovige seda võimalust lubada. Kuid te ei suuda sirvida \"iframe\", nagu mõned vanad varjatud videod või mõned reklaamid."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "See keelab ka võimalus kursori muutmiseks kerimise ajal."
+  },
+  "o_helper_text_default_action": {
+    "message": "Kasulik Linuxis, et võimaldada kleepida keskmise nupuga."
+  },
+  "o_about_hello": {
+    "message": "Tere :)"
+  },
+  "o_about_intro": {
+    "message": "Minu nimi on $1$ ja ma olen $app_name$ autor."
+  },
+  "o_about_like_it": {
+    "message": "Kui sulle meeldib see, hinnake seda siin:"
+  },
+  "o_about_dislike_it": {
+    "message": "Kui sulle ei meeldi, siis palun andke mulle teada, miks minu e-posti teel. Ma rakendan enamikku funktsioonide taotlusi."
+  },
+  "o_disabled": {
+    "message": "puudega",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "lubatud",
+    "common": true
+  },
+  "o_times": {
+    "message": "kord",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pikslit",
+    "common": true
+  },
+  "o_items": {
+    "message": "esemed",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "millisekundid",
+    "common": true
+  },
+  "label_working": {
+    "message": "töötamine ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Sulge",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Palun kaaluge oma töö toetamist",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "annetus (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "minu patroon muutub",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Aitäh!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "kodu:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Aruande küsimused:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Võin vastata ainult inglise / slovaki keeles",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sotsiaalmeedia:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Salvesta muudatused ja sulgege",
+    "common": true
+  },
+  "o_saved": {
+    "message": "salvestatud!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Tulekul",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Salvesta muudatused",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Privaatsuspoliitika",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Hiljuti lisatud funktsioonid:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Sildid:",
+    "common": true
+  }
+}

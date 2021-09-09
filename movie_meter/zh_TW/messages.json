@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "日期，IMDB，描述，劇集，儀表，圖形，IMDB，信息，儀表，電影，電影，電影，Netflix，IMDB，評級，系列，節目，電視，電視節目，視頻，視覺，投票，季節"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "找不到/錯誤電影發現 - 由於沒有與目標頁面的“官方”集成，我無法保證100％正確的結果（但在大多數情況下它完美地工作）"
+  },
+  "_description_mm_not_working": {
+    "message": "不適用於您最喜歡的電影頁面？"
+  },
+  "_description_mm_add_support": {
+    "message": "聯繫我，我會添加它 - 如果可能的話（頁面必須包含英文中的電影名稱或$visit_imdb$鏈接）。"
+  },
+  "_description_mm_feature_1": {
+    "message": "來自$visit_imdb$的電影額定值和人氣"
+  },
+  "_description_mm_feature_2": {
+    "message": "下一個/上一個第0章日期$visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "額外的電影/電視系列信息"
+  },
+  "_description_mm_feature_4": {
+    "message": "關於新集的通知"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark TV系列作為收藏率，您將在新集發電時收到通知"
+  },
+  "_description_mm_feature_7": {
+    "message": "檢測到視頻播放時自動隱藏"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$將向您展示電影（或電視劇）的評級和普及"
+  },
+  "name": {
+    "message": "名稱"
+  },
+  "year": {
+    "message": "年"
+  },
+  "video_type": {
+    "message": "類型"
+  },
+  "video_type_0": {
+    "message": "電影"
+  },
+  "video_type_1": {
+    "message": "系列"
+  },
+  "video_type_2": {
+    "message": "插曲"
+  },
+  "runtime": {
+    "message": "運行"
+  },
+  "premiered": {
+    "message": "首映"
+  },
+  "premiere_in": {
+    "message": "首映"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "國家"
+  },
+  "actors": {
+    "message": "演員"
+  },
+  "dvd": {
+    "message": "DVD"
+  },
+  "director": {
+    "message": "導演"
+  },
+  "totalseasons": {
+    "message": "總季節"
+  },
+  "writer": {
+    "message": "作家"
+  },
+  "language": {
+    "message": "語"
+  },
+  "awards": {
+    "message": "獎項"
+  },
+  "rated": {
+    "message": "評分為"
+  },
+  "production": {
+    "message": "生產"
+  },
+  "plot": {
+    "message": "陰謀"
+  },
+  "website": {
+    "message": "網站"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "訪問$visit_imdb$頁"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "訪問$visit_tvmaze$頁的此節目"
+  },
+  "make_favorite": {
+    "message": "最喜歡的"
+  },
+  "make_favorite_title": {
+    "message": "將電視系列添加到收藏夾。 這將允許您收到有關新劇集的通知。"
+  },
+  "last_episode": {
+    "message": "最後的"
+  },
+  "next_episode": {
+    "message": "下一個"
+  },
+  "last_episode_title": {
+    "message": "最後一集"
+  },
+  "next_episode_title": {
+    "message": "下一集"
+  },
+  "episode_airtime": {
+    "message": "通話時間"
+  },
+  "episode_name": {
+    "message": "名稱"
+  },
+  "series_status": {
+    "message": "地位"
+  },
+  "episodes_count": {
+    "message": "劇集"
+  },
+  "episodes_count_title": {
+    "message": "當前的季節$1有$2劇集"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "天"
+  },
+  "hours": {
+    "message": "小時"
+  },
+  "na": {
+    "message": "無法使用"
+  },
+  "user_rating": {
+    "message": "用戶評分：$1"
+  },
+  "user_popularity": {
+    "message": "人氣：$1投票"
+  },
+  "source": {
+    "message": "來源：$1"
+  },
+  "show_details": {
+    "message": "更多的..."
+  },
+  "hide_details": {
+    "message": "較少的..."
+  },
+  "save_position": {
+    "message": "保存位置"
+  },
+  "revert_position": {
+    "message": "恢復姿勢"
+  },
+  "win_disable": {
+    "message": "禁用$1"
+  },
+  "cm_advanced": {
+    "message": "先進的"
+  },
+  "op_visit_home": {
+    "message": "造訪首頁"
+  },
+  "op_support_me": {
+    "message": "協助此專案"
+  },
+  "hide": {
+    "message": "隱藏窗口"
+  },
+  "show": {
+    "message": "櫥窗"
+  },
+  "reset_position": {
+    "message": "重置位置"
+  },
+  "search": {
+    "message": "搜索"
+  },
+  "configure_search": {
+    "message": "配置搜索選項"
+  },
+  "selection_search": {
+    "message": "搜索$1."
+  },
+  "menu_options": {
+    "message": "選項"
+  },
+  "menu_quick_options": {
+    "message": "快速選項"
+  },
+  "menu_visit_homepage": {
+    "message": "造訪首頁"
+  },
+  "menu_request_support": {
+    "message": "請求支持$1"
+  },
+  "show_introduction": {
+    "message": "顯示介紹頁面"
+  },
+  "o_about_issues": {
+    "message": "回報問題："
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "firefox_store": {
+    "message": "Firefox 附加元件頁面"
+  },
+  "chrome_store": {
+    "message": "Chrome 線上應用程式商店頁面"
+  },
+  "movie_not_detected": {
+    "message": "電影未檢測到"
+  },
+  "movie_not_detected_title": {
+    "message": "此頁面上未檢測到電影/電視系列。"
+  },
+  "movie_not_found": {
+    "message": "沒有找到電影"
+  },
+  "movie_not_found_title": {
+    "message": "在服務器上找不到電影信息。"
+  },
+  "status_type_0": {
+    "message": "跑步"
+  },
+  "status_type_1": {
+    "message": "結束了"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "顯示將繼續"
+  },
+  "status_type_title_1": {
+    "message": "表演已經結束 - 沒有更多的季節計劃"
+  },
+  "status_type_title_2": {
+    "message": "顯示未來尚不清楚"
+  },
+  "notify_movie_not_found": {
+    "message": "沒有找到電影：$1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "僅使用英文電影名稱！"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "搜索並不完美......"
+  },
+  "notify_video_hide": {
+    "message": "檢測到視頻 -  $app_name$現在隱藏"
+  },
+  "notify_video_hide_body": {
+    "message": "單擊此處無法再次顯示此通知"
+  },
+  "notify_new_episodes": {
+    "message": "新的劇集被播出了"
+  },
+  "title_introduction": {
+    "message": "簡介"
+  },
+  "supported_pages": {
+    "message": "支持的頁面："
+  },
+  "supported_grows": {
+    "message": "（這個名單變得更大，更大）"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "評級和人氣信息來自$1$。 關於劇集的信息來自$2$。"
+  },
+  "title_got_it": {
+    "message": "好的，開始吧！"
+  },
+  "_description_privacy_policy": {
+    "message": "隱私政策"
+  },
+  "_description_recent_features": {
+    "message": "最近添加的功能："
+  },
+  "_description_known_issues": {
+    "message": "已知的問題："
+  },
+  "_description_common_tags": {
+    "message": "標籤："
+  },
+  "_description_features": {
+    "message": "特徵："
+  },
+  "about_me": {
+    "message": "自2016年以來我是Addon開發人員。我的目標是為您的網絡瀏覽器構建強大的擴展，以使您更富有成效。"
+  },
+  "about_good_job": {
+    "message": "如果你認為我做得很好，請捐贈:)"
+  },
+  "about_income": {
+    "message": "你的捐款是我唯一的收入！"
+  },
+  "about_thanks": {
+    "message": "謝謝你支持我的工作！"
+  },
+  "o_about_support_by_iban": {
+    "message": "使用IBAN轉帳："
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "支持獨立開發人員！"
+  }
+}

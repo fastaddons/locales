@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "datum, IMDB, popis, epizoda, měřidlo, graf, IMDb, informace, metr, film, film, filmy, Netflix, IMDB, hodnocení, série, zobrazení, televize, televizní show, video, hlasování, sezóna"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "film nebyl nalezen / špatný film - protože neexistuje žádná \"oficiální\" integrace s cílovými stránkami, nemohu zaručit 100% správné výsledky (ale ve většině případů funguje perfektně)"
+  },
+  "_description_mm_not_working": {
+    "message": "Nefunguje na vaší oblíbené filmové stránce?"
+  },
+  "_description_mm_add_support": {
+    "message": "Kontaktujte mě a přidám ji - pokud je to možné (stránka musí obsahovat název filmu v angličtině nebo $visit_imdb$ link)."
+  },
+  "_description_mm_feature_1": {
+    "message": "hodnocení a popularita filmů z $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "další / předchozí epizody datum z $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "další informace o filmu / televize"
+  },
+  "_description_mm_feature_4": {
+    "message": "oznámení o nové epizodě"
+  },
+  "_description_mm_feature_5": {
+    "message": "označte televizorovou sérii jako oblíbené a získáte oznámení, když je k dispozici nová epizoda"
+  },
+  "_description_mm_feature_7": {
+    "message": "automatické srkytie při zjištění přehrávání videa"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ vám zobrazí hodnocení a popularitu filmů (a televizních seriálů)"
+  },
+  "name": {
+    "message": "Název"
+  },
+  "year": {
+    "message": "Rok"
+  },
+  "video_type": {
+    "message": "Typ"
+  },
+  "video_type_0": {
+    "message": "Film"
+  },
+  "video_type_1": {
+    "message": "Seriál"
+  },
+  "video_type_2": {
+    "message": "Epizoda"
+  },
+  "runtime": {
+    "message": "Runtime"
+  },
+  "premiered": {
+    "message": "Premiéra"
+  },
+  "premiere_in": {
+    "message": "Premiéra za"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Země"
+  },
+  "actors": {
+    "message": "Herci"
+  },
+  "dvd": {
+    "message": "DVD"
+  },
+  "director": {
+    "message": "Režisér"
+  },
+  "totalseasons": {
+    "message": "Celkový počet období"
+  },
+  "writer": {
+    "message": "Scenář"
+  },
+  "language": {
+    "message": "Jazyk"
+  },
+  "awards": {
+    "message": "Ocenění"
+  },
+  "rated": {
+    "message": "R"
+  },
+  "production": {
+    "message": "Výroba"
+  },
+  "plot": {
+    "message": "Obsah"
+  },
+  "website": {
+    "message": "Webová stránka"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Navštivte stránku $visit_imdb$"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Navštivte stránku $visit_tvmaze$ pro tento seriál"
+  },
+  "make_favorite": {
+    "message": "Oblíbený"
+  },
+  "make_favorite_title": {
+    "message": "Přidat televizní seriál do oblíbených. To vám umožní přijímat oznámení o nových epizodách."
+  },
+  "last_episode": {
+    "message": "Poslední"
+  },
+  "next_episode": {
+    "message": "Další"
+  },
+  "last_episode_title": {
+    "message": "Poslední epizoda"
+  },
+  "next_episode_title": {
+    "message": "Další epizoda"
+  },
+  "episode_airtime": {
+    "message": "Vysílací čas"
+  },
+  "episode_name": {
+    "message": "Název"
+  },
+  "series_status": {
+    "message": "Status"
+  },
+  "episodes_count": {
+    "message": "Epizody"
+  },
+  "episodes_count_title": {
+    "message": "Aktuální sezóna $1 má $2 epizody"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "dnů"
+  },
+  "hours": {
+    "message": "hodiny"
+  },
+  "na": {
+    "message": "Není dostupný"
+  },
+  "user_rating": {
+    "message": "Hodnocení uživatel: $1"
+  },
+  "user_popularity": {
+    "message": "Popularita: $1 hlasů"
+  },
+  "source": {
+    "message": "Zdroj: $1"
+  },
+  "show_details": {
+    "message": "více..."
+  },
+  "hide_details": {
+    "message": "méně..."
+  },
+  "save_position": {
+    "message": "Uložit pozici"
+  },
+  "revert_position": {
+    "message": "Vrátit pozici"
+  },
+  "win_disable": {
+    "message": "Zakázat na $1"
+  },
+  "cm_advanced": {
+    "message": "Pokročilý"
+  },
+  "op_visit_home": {
+    "message": "Navštívit domácí stránku"
+  },
+  "op_support_me": {
+    "message": "Pomoc tomuto projektu"
+  },
+  "hide": {
+    "message": "Skrýt okno"
+  },
+  "show": {
+    "message": "Ukaž okno"
+  },
+  "reset_position": {
+    "message": "Resetovat pozici"
+  },
+  "search": {
+    "message": "Vyhledávání"
+  },
+  "configure_search": {
+    "message": "Konfigurace možností vyhledávání"
+  },
+  "selection_search": {
+    "message": "Vyhledávání $1."
+  },
+  "menu_options": {
+    "message": "Možnosti"
+  },
+  "menu_quick_options": {
+    "message": "Rychlé nastavení"
+  },
+  "menu_visit_homepage": {
+    "message": "Navštívit domácí stránku"
+  },
+  "menu_request_support": {
+    "message": "Podpora požadavku pro $1"
+  },
+  "show_introduction": {
+    "message": "Zobrazit úvodní stránku"
+  },
+  "o_about_issues": {
+    "message": "Hlášení problémů:"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "firefox_store": {
+    "message": "Stránka doplňků pro Firefox"
+  },
+  "chrome_store": {
+    "message": "Chrome obchod"
+  },
+  "movie_not_detected": {
+    "message": "Film nebyl zjištěn"
+  },
+  "movie_not_detected_title": {
+    "message": "Na této stránce nebyl zjištěn žádný film / televizní seriál."
+  },
+  "movie_not_found": {
+    "message": "Film nebyl nalezen"
+  },
+  "movie_not_found_title": {
+    "message": "Informace o filmu nebyly nalezeny na serveru."
+  },
+  "status_type_0": {
+    "message": "Běží"
+  },
+  "status_type_1": {
+    "message": "Skončil"
+  },
+  "status_type_2": {
+    "message": "Bude upresnené"
+  },
+  "status_type_title_0": {
+    "message": "Show bude pokračovat"
+  },
+  "status_type_title_1": {
+    "message": "Seriál skončil - více sezón nebude"
+  },
+  "status_type_title_2": {
+    "message": "Budoucnost tohto seriálu je nejistá"
+  },
+  "notify_movie_not_found": {
+    "message": "Film nebyl nalezen: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Použi anglický název filmu!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Vyhledávání není dokonalé ..."
+  },
+  "notify_video_hide": {
+    "message": "Video detekováno - $app_name$ je nyní skrytý"
+  },
+  "notify_video_hide_body": {
+    "message": "Klikněte zde pro skrytí tohto oznámení"
+  },
+  "notify_new_episodes": {
+    "message": "Byla vysílána nová epizoda"
+  },
+  "title_introduction": {
+    "message": "Úvod"
+  },
+  "supported_pages": {
+    "message": "Podporované stránky:"
+  },
+  "supported_grows": {
+    "message": "(tento seznam roste větší a větší)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Hodnocení a informace popularity jsou z $1$. Informace o epizodách jsou z $2$."
+  },
+  "title_got_it": {
+    "message": "Rozumím, pojďme na to!"
+  },
+  "_description_privacy_policy": {
+    "message": "Zásady ochrany osobních údajů"
+  },
+  "_description_recent_features": {
+    "message": "Nedávno přidané funkce:"
+  },
+  "_description_known_issues": {
+    "message": "Známé problémy:"
+  },
+  "_description_common_tags": {
+    "message": "Tagy:"
+  },
+  "_description_features": {
+    "message": "Funkce:"
+  },
+  "about_me": {
+    "message": "Jsem vývojář addonů od roku 2016 a mým cílem je vytvořit skvělá rozšíření pro váš webový prohlížeč, abyste byli produktivnější."
+  },
+  "about_good_job": {
+    "message": "Pokud si myslíte, že dělám dobrou práci, prosím darujte :)"
+  },
+  "about_income": {
+    "message": "Váš dar je můj jediný příjem!"
+  },
+  "about_thanks": {
+    "message": "Děkuji za podporu mé práce!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankovní převod pomocí IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Podpořte nezávislého vývojáře!"
+  }
+}

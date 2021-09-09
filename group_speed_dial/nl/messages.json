@@ -1,0 +1,2543 @@
+{
+  "app_name": {
+    "message": "Group Speed Dial"
+  },
+  "app_desc": {
+    "message": "SpeedDial (was: visual bookmarks) met groepen voor gevorderde gebruikers."
+  },
+  "welcome_header": {
+    "message": "Welkom in add-on $app_name$"
+  },
+  "welcome_setup": {
+    "message": ""
+  },
+  "welcome_watch_video": {
+    "message": "Bekijk een korte introductievideo (1:50) met de belangrijkste functies."
+  },
+  "welcome_watch_android_video": {
+    "message": "Bekijk de setup video met Android-instellingen."
+  },
+  "welcome_home_group": {
+    "message": "Huidige \"Start groep\" heeft 4 x 3 dials, je kunt dat hier wijzigen:"
+  },
+  "welcome_import_josep_del_rio": {
+    "message": "er is een importfunctie van \"Speed ​​Dial by Josep del Rio\" en anderen in de opties:"
+  },
+  "welcome_options_page": {
+    "message": "Opties pagina"
+  },
+  "welcome_pick_color": {
+    "message": "Kies een kleurenthema dat je wilt gebruiken:"
+  },
+  "welcome_visuals": {
+    "message": "Ga voor meer opties naar de Opties pagina"
+  },
+  "import_settings_button": {
+    "message": "Importeer instellingen en snelkeuzes..."
+  },
+  "import_josep_button": {
+    "message": "Importeer \"CurrentSettings.speeddial\" bestand..."
+  },
+  "import_firefox_button": {
+    "message": "Importeer \"bookmarks-2017-XX-XX.json\" bestand..."
+  },
+  "import_fast_dial_button": {
+    "message": "Importeer \"fastdial.json\" bestand..."
+  },
+  "import_super_start_button": {
+    "message": "Importeer \"sites.v1.json\" bestand..."
+  },
+  "import_speed_dial_2_button": {
+    "message": "Importeer \"willekeurige_naam\" bestand"
+  },
+  "import_done_text": {
+    "message": "Externe snelkeuzes geimporteerd"
+  },
+  "import_skip": {
+    "message": "Importeer niets"
+  },
+  "import_pages_stats": {
+    "message": "Importeer $1 pagina's in $2 groepen"
+  },
+  "import_data_from": {
+    "message": "Importeer data uit:"
+  },
+  "load_bookmarks": {
+    "message": "Laad bladwijzers"
+  },
+  "load_top_pages": {
+    "message": "Laad meest gebruikte pagina's"
+  },
+  "group_generated_name": {
+    "message": "Groep $1"
+  },
+  "default_home_group_name": {
+    "message": "Start groep"
+  },
+  "drag_group_hover_open": {
+    "message": "Open groep"
+  },
+  "replace_dial": {
+    "message": "Vervang dial"
+  },
+  "replace_duplicate_dial": {
+    "message": "Dupliceer dial - klik om de miniatuur te updaten"
+  },
+  "create_multi_page_dial": {
+    "message": ""
+  },
+  "replace_multi_page_dial": {
+    "message": ""
+  },
+  "msg_pro_cloud_upload": {
+    "message": "Uploaden van thumbnails naar de cloud - hiermee kun je ze zien in de"
+  },
+  "msg_pro_cloud_web": {
+    "message": "webpagina van Cloud-dials"
+  },
+  "msg_pro_cloud_web_desc": {
+    "message": "Cloud-versie is momenteel niet bewerkbaar, maar het werkt in elke browser - zelfs in je telefoon!"
+  },
+  "msg_pro_same_thumbnails": {
+    "message": "Nu kun je op elk apparaat dezelfde miniaturen hebben!"
+  },
+  "msg_pro_thumbnails_download": {
+    "message": "Hiermee worden al je geüploade miniaturen uit de cloud gedownload en je huidige lokalen vervangen."
+  },
+  "msg_correct_account": {
+    "message": "Ga naar de cloud-server en zorg ervoor dat je bent ingelogd op een correct account:"
+  },
+  "msg_replace_text": {
+    "message": "Als alternatief kunt je je lokale dials vervangen."
+  },
+  "url_search": {
+    "message": ""
+  },
+  "msg_search_by": {
+    "message": "Zoeken op:"
+  },
+  "msg_search_tip": {
+    "message": "Tip: voeg aantekening toe aan dials om beter te kunnen zoeken"
+  },
+  "msg_search_url": {
+    "message": "URL"
+  },
+  "msg_search_name": {
+    "message": "Naam"
+  },
+  "msg_search_note": {
+    "message": "Opmerkingen"
+  },
+  "msg_add_dial_text": {
+    "message": "Je kunt ook tussen groepen navigeren, bestaande dials verplaatsen of verwijderen."
+  },
+  "msg_add_dial_no_show": {
+    "message": "Niet meer tonen"
+  },
+  "msg_add_dials_here": {
+    "message": ""
+  },
+  "add_target_dial": {
+    "message": "Lege dial selecteren voor pagina:"
+  },
+  "add_target_dials": {
+    "message": "Maak nieuwe lege groep of kies $1 dials"
+  },
+  "add_image": {
+    "message": ""
+  },
+  "bc_first_group": {
+    "message": "Eerste groep aangemaakt"
+  },
+  "show_all_groups": {
+    "message": ""
+  },
+  "fr_home_group": {
+    "message": "Start groep"
+  },
+  "err_db_settings_loading": {
+    "message": "Er is een fout opgetreden bij het ophalen van de instellingen en database"
+  },
+  "err_db_creation": {
+    "message": "Er is een fout opgetreden tijdens het aanmaken van de database"
+  },
+  "err_db_loading": {
+    "message": "Er is een fout opgetreden bij het laden van de database"
+  },
+  "err_db_images": {
+    "message": "Er is een fout opgetreden bij het ophalen van de beelden"
+  },
+  "sync_synced_ok": {
+    "message": "gesynchroniseerd met server"
+  },
+  "sync_working": {
+    "message": "bezig ..."
+  },
+  "sync_syncing": {
+    "message": "Synchronisatie wordt uitgevoerd ..."
+  },
+  "sync_synced": {
+    "message": "gesynchroniseerd"
+  },
+  "sync_sync_ok": {
+    "message": "Succesvol gesynchroniseerd"
+  },
+  "sync_err_label": {
+    "message": "fout $1 - probeer later nog eens"
+  },
+  "sync_err_conflict": {
+    "message": "conflict"
+  },
+  "sync_err_server_newer": {
+    "message": "Server bevat nieuwere versie."
+  },
+  "sync_err_user_mismatch_": {
+    "message": "niet-overeenkomende gebruiker"
+  },
+  "sync_err_wrong_account": {
+    "message": "Uw versie hoort bij een ander account."
+  },
+  "sync_err_not_empty": {
+    "message": "fout - niet leeg"
+  },
+  "sync_err_server_not_empty": {
+    "message": "Server bevat al enkele gegevens."
+  },
+  "sync_err_forbidden": {
+    "message": "Je hebt geen toegang tot deze bron"
+  },
+  "sync_downloading": {
+    "message": "bezig met downloaden ..."
+  },
+  "sync_down_thumbnails": {
+    "message": "miniaturen downloaden"
+  },
+  "sync_down_thumbnails_progress": {
+    "message": "downloaden van $1 / $2"
+  },
+  "sync_down_thumbnails_wait": {
+    "message": "miniaturen worden gedownload, een ogenblik geduld"
+  },
+  "sync_up": {
+    "message": "bezig met uploaden ..."
+  },
+  "sync_up_sync_thumbnails": {
+    "message": "bezig met synchroniseren van miniaturen ... klaar om te uploaden"
+  },
+  "sync_up_progress": {
+    "message": "bezig met uploaden van $1 / $2"
+  },
+  "sync_up_wait": {
+    "message": "bezig met uploaden van miniaturen, even geduld aub"
+  },
+  "sync_thumbnails_progress": {
+    "message": "miniaturen synchroniseren ... $1 / $2"
+  },
+  "add_page": {
+    "message": "Deze Pagina aan dial toevoegen"
+  },
+  "add_dial": {
+    "message": "Dit Tabblad aan dial toevoegen"
+  },
+  "add_link": {
+    "message": "Deze Link aan dial toevoegen"
+  },
+  "use_image_as_thumbnail": {
+    "message": ""
+  },
+  "cm_choose_dial": {
+    "message": "Kies doel dial"
+  },
+  "return_to_tab": {
+    "message": "Terug naar tabblad"
+  },
+  "stay_here": {
+    "message": "Blijf hier"
+  },
+  "close_added_pages": {
+    "message": ""
+  },
+  "close_this_tab": {
+    "message": ""
+  },
+  "group_first_created": {
+    "message": "Eerste groep aangemaakt"
+  },
+  "privacy_info_head": {
+    "message": "Met deze add-on kun je een back-up maken van je dials en deze synchroniseren met behulp van de Cloud-server op $1"
+  },
+  "privacy_info_body_1": {
+    "message": "Als je daar een cloud-account maakt, worden je dials gesynchroniseerd met deze server. Deze gegevens bevatten alleen basisinformatie (door jou ingevoerd) over je dials - zoals naam, URL, enz ... Er zijn GEEN tracking gegevens noch statistieken!"
+  },
+  "privacy_info_body_2": {
+    "message": "Zonder cloud-account zal deze add-on GEEN aanvragen doen bij een server. Als je het downloaden van Favicons via de Google-service inschakelt (op de pagina Opties), worden aanvrage ingediend bij de Google-server om Favicons te downloaden. Gebruik van optionele cloud-gerelateerde functies (zoals miniaturen uit openbare bibliotheek) zal ook aanvragen bij de Cloud-server produceren. Deze verzoeken bevatten GEEN privé-informatie."
+  },
+  "field_size_range": {
+    "message": "Waarde moet tussen $1 en $2 liggen"
+  },
+  "field_zoom_range": {
+    "message": "Zoom moet tussen $1 en $2 zijn"
+  },
+  "field_scale_range": {
+    "message": "Schaal moet tussen $1 en $2 zijn"
+  },
+  "field_out_of_range": {
+    "message": "Buiten geldig bereik"
+  },
+  "file_load_label": {
+    "message": "Laden vanuit bestand..."
+  },
+  "file_loaded_name": {
+    "message": "Geladen bestand: $1"
+  },
+  "image_err_loading": {
+    "message": "Foutmelding tijdens laden van afbeelding"
+  },
+  "field_hours_range": {
+    "message": "Uren moeten tussen $1 en $2 zijn"
+  },
+  "field_minutes_range": {
+    "message": "Minuten moeten tussen $1 en $2 zijn"
+  },
+  "field_columns_range": {
+    "message": "Kolomnummer moet tussen $1 en $2 zijn"
+  },
+  "field_rows_range": {
+    "message": "Rijnummer moet tussen $1 en $2 zijn"
+  },
+  "validation_url": {
+    "message": "Voer geldige URL in (link)"
+  },
+  "save_dial_edited": {
+    "message": "dial bewerkt - $1"
+  },
+  "save_dials_added_to_group": {
+    "message": ""
+  },
+  "save_dial_moved": {
+    "message": "dial verplaatst - $1"
+  },
+  "save_dial_resized": {
+    "message": "formaat dial gewijzigd - $1"
+  },
+  "save_group_rc_color": {
+    "message": "groep rij/kolom kleur is veranderd"
+  },
+  "save_group_moved": {
+    "message": "groep verplaatst - $1"
+  },
+  "save_dial_names_saved": {
+    "message": "nieuwe namen van dials opgeslagen - $1"
+  },
+  "save_dials_sorted": {
+    "message": "dials gesorteerd in groep: $1"
+  },
+  "save_thumbnail_uploaded": {
+    "message": "miniatuur geüpload - $1"
+  },
+  "save_public_thumbnail_uploaded": {
+    "message": "openbare miniatuur geüpload - $1"
+  },
+  "save_productivity_selection_changed": {
+    "message": ""
+  },
+  "err_db_err_title": {
+    "message": "Oeps... Er is iets fout gegaan :-("
+  },
+  "save_dial_removed": {
+    "message": "dial verwijderd - $1"
+  },
+  "field_position_range": {
+    "message": "Positie tussen groepen onderling moet tussen $1 en $2 zijn"
+  },
+  "field_ratio_x_range": {
+    "message": "Verhouding X moet tussen $1 en $2 zijn"
+  },
+  "field_ratio_y_range": {
+    "message": "Verhouding Y moet tussen $1 en $2 zijn"
+  },
+  "validation_small_group_dimensions": {
+    "message": "Deze groep bevat al $1 dials. Gebruik meer rijen of kolommen zodat ze passen."
+  },
+  "save_group_edited": {
+    "message": "groep bewerkt - Groep: - $1"
+  },
+  "group_delete_title": {
+    "message": "Groep \"$1\" wordt met alle dials verwijderd"
+  },
+  "group_delete_body": {
+    "message": "Weet je zeker dat je de groep en al zijn snelkeuzes wil verwijderen?"
+  },
+  "group_delete_yes": {
+    "message": "Ja"
+  },
+  "group_delete_no": {
+    "message": "Nee, niet verwijderen"
+  },
+  "save_group_deleted": {
+    "message": "groep verwijderd - Groep: $1"
+  },
+  "cm_shortcut_title": {
+    "message": "Snelkoppeling: \"$1\""
+  },
+  "cm_open_new_tab": {
+    "message": "In nieuw tabblad openen"
+  },
+  "cm_new_tab_in_container": {
+    "message": "Openen in Container"
+  },
+  "firefox_containers_about": {
+    "message": "Over Firefox Containers"
+  },
+  "cm_open_all_new": {
+    "message": "Alle dials openen - in nieuwe tabbladen"
+  },
+  "cm_open_all_replace": {
+    "message": "Alle dials openen - huidige tabbladen vervangen"
+  },
+  "cm_replace_existing_title": {
+    "message": "Huidige tabbladen vervangen door dials uit deze groep"
+  },
+  "cm_edit_dial": {
+    "message": "Dial  aanpassen"
+  },
+  "cm_create_dial": {
+    "message": "Nieuwe dial aanmaken"
+  },
+  "cm_copy_link": {
+    "message": "Copy link locatie"
+  },
+  "cm_move_dial": {
+    "message": "Verplaats dial"
+  },
+  "cm_move_dial_to": {
+    "message": "Verplaats naar groep"
+  },
+  "cm_cut_dial": {
+    "message": "Knip dial"
+  },
+  "cm_copy_dial": {
+    "message": "Kopieer dial"
+  },
+  "cm_paste_dial": {
+    "message": "Plak dial"
+  },
+  "cm_paste_swap_dial": {
+    "message": "Plak (wissel) dial"
+  },
+  "cm_paste_replace_dial": {
+    "message": "Plak (vervang) dial"
+  },
+  "convert_to_multi": {
+    "message": ""
+  },
+  "add_to_multi": {
+    "message": ""
+  },
+  "cm_insert_up": {
+    "message": ""
+  },
+  "cm_insert_left": {
+    "message": ""
+  },
+  "cm_insert_right": {
+    "message": ""
+  },
+  "cm_insert_down": {
+    "message": ""
+  },
+  "cm_drop_replace": {
+    "message": ""
+  },
+  "cm_drop_copy_replace": {
+    "message": ""
+  },
+  "cm_drop_swap": {
+    "message": ""
+  },
+  "cm_clear_dial": {
+    "message": "Dial wissen"
+  },
+  "cm_refresh_dial": {
+    "message": "Dial verversen"
+  },
+  "cm_refresh_image_here": {
+    "message": "Ververs afbeelding hier"
+  },
+  "cm_plus_delay": {
+    "message": "+$1s"
+  },
+  "cm_plus_delay_title": {
+    "message": "Wacht $1 secondes na het laden van de pagina vóór het maken van een screenshot"
+  },
+  "cm_btn_big": {
+    "message": "Groot"
+  },
+  "cm_bigger_title": {
+    "message": "Genereer groter miniatuur"
+  },
+  "cm_refresh_visit": {
+    "message": "Ververs door pagina te bezoeken"
+  },
+  "cm_btn_left": {
+    "message": "links"
+  },
+  "cm_btn_left_title": {
+    "message": "Screenshot links uitlijnen (standaard is gecentreerd)"
+  },
+  "cm_group_open_new_tab": {
+    "message": "Openen in nieuwe tab"
+  },
+  "cm_edit_group": {
+    "message": "Groep aanpassen"
+  },
+  "cm_create_new_group": {
+    "message": "nieuwe groep Aanmaken"
+  },
+  "cm_sort_by": {
+    "message": "Sorteren op"
+  },
+  "sort_by_name": {
+    "message": "Naam"
+  },
+  "sort_by_note": {
+    "message": "Opmerking"
+  },
+  "sort_by_url": {
+    "message": "URL"
+  },
+  "sort_by_date": {
+    "message": "Datum gecreëerd"
+  },
+  "sort_by_remove_empty_dials": {
+    "message": "Verwijder lege dials"
+  },
+  "resize_dial": {
+    "message": "Formaat wijzigen"
+  },
+  "resize_dial_normal": {
+    "message": "Normaal"
+  },
+  "resize_dial_v_half": {
+    "message": ""
+  },
+  "resize_dial_h_half": {
+    "message": ""
+  },
+  "resize_dial_small": {
+    "message": "Klein"
+  },
+  "resize_dial_tiny": {
+    "message": "Heel klein"
+  },
+  "resize_dial_micro": {
+    "message": "Micro"
+  },
+  "rc_color": {
+    "message": "Kolom/Rij kleur"
+  },
+  "row_color": {
+    "message": "Rij kleur"
+  },
+  "col_color": {
+    "message": "Kolom kleur"
+  },
+  "cm_refresh_dials": {
+    "message": "dials verversen"
+  },
+  "cm_change_thumbnail": {
+    "message": "Afbeelding wijzigen"
+  },
+  "cm_refresh_dial_background": {
+    "message": "Ververs afbeelding op achtergrond"
+  },
+  "cm_advanced": {
+    "message": "Geavanceerd"
+  },
+  "cm_legacy_features": {
+    "message": "Verouderde functies (niet gebruiken)"
+  },
+  "cm_restore_previous_thumbnail": {
+    "message": "Vorige miniatuur herstellen"
+  },
+  "cm_public_upload": {
+    "message": "Upload miniatuur naar openbare bibliotheek"
+  },
+  "cm_synchronize_thumbnails": {
+    "message": "Miniaturen synchroniseren met cloudaccount"
+  },
+  "cm_user_consent_google_favicon": {
+    "message": "Download pictogrammen met Google service"
+  },
+  "cm_remove_group": {
+    "message": "Verwijder groep"
+  },
+  "cm_upload_thumbnails": {
+    "message": "Miniaturen uploaden"
+  },
+  "cm_upgrade_pro": {
+    "message": "Opwaarderen naar Pro versie"
+  },
+  "cm_pro_only": {
+    "message": "Alleen in Pro versie"
+  },
+  "save_group_created": {
+    "message": "Nieuwe groep gemaakt"
+  },
+  "refresh_all_title": {
+    "message": "Ververs alle miniaturen:"
+  },
+  "refresh_ok": {
+    "message": "Ververs miniaturen"
+  },
+  "refresh_all": {
+    "message": "Alle miniaturen"
+  },
+  "refresh_method": {
+    "message": "Verversingsmethode:"
+  },
+  "refresh_this_group": {
+    "message": "Alles in deze groep"
+  },
+  "refresh_missing": {
+    "message": "Alleen ontbrekende miniaturen"
+  },
+  "refresh_group_dials": {
+    "message": "Alleen groeps dials"
+  },
+  "refresh_auto_reload": {
+    "message": "Dials met Auto-reload ingeschakeld"
+  },
+  "pro_upgrade_label": {
+    "message": "Upgrade naar Pro"
+  },
+  "pro_upgrade_now_label": {
+    "message": "Upgrade nu naar Pro"
+  },
+  "sync_down_thumbnails_title": {
+    "message": "Miniaturen downloaden"
+  },
+  "sync_download_cloud_question": {
+    "message": "Weet je zeker dat je je miniaturen van de cloud wilt downloaden?"
+  },
+  "sync_download_cloud_question_2": {
+    "message": "Dit zal uw huidige lokale miniaturen vervangen."
+  },
+  "sync_download_yes": {
+    "message": "Ja, download"
+  },
+  "sync_download_no": {
+    "message": "Nee"
+  },
+  "sync_conflict": {
+    "message": "Synchronisatie conflict"
+  },
+  "sync_conflict_body": {
+    "message": "Er is een nieuwere versie op de Cloud-server, maar je hebt enkele niet-opgeslagen lokale wijzigingen."
+  },
+  "sync_conflict_body_2": {
+    "message": "Wilt je je lokale versie vervangen?"
+  },
+  "sync_conflict_replace_local": {
+    "message": "Vervang lokaal"
+  },
+  "sync_conflict_replace_server": {
+    "message": "Vervangen op server"
+  },
+  "sync_err_account_title": {
+    "message": "Je gegevensversie is gekoppeld aan een ander account"
+  },
+  "sync_err_account_replace_local": {
+    "message": "Vervang lokaal"
+  },
+  "sync_err_account_replace_cloud": {
+    "message": "Vervangen in de cloud"
+  },
+  "sync_err_account_retry": {
+    "message": "Opnieuw"
+  },
+  "sync_not_empty_title": {
+    "message": "Er zijn al enkele dials in de cloud"
+  },
+  "sync_not_empty_replace_local": {
+    "message": "Vervang lokaal"
+  },
+  "sync_not_empty_replace_cloud": {
+    "message": "Vervangen in cloud"
+  },
+  "sync_not_empty_replace_retry": {
+    "message": "Opnieuw"
+  },
+  "sync_changed_account": {
+    "message": ""
+  },
+  "sync_changed_account_body": {
+    "message": ""
+  },
+  "login_login_create": {
+    "message": "Inloggen / Account aanmaken"
+  },
+  "history_title": {
+    "message": "Backups / Geschiedenis"
+  },
+  "history_restore": {
+    "message": "Herstellen is geselecteerd"
+  },
+  "history_loading": {
+    "message": ""
+  },
+  "history_cancel": {
+    "message": "Annuleren"
+  },
+  "history_revert_dials": {
+    "message": ""
+  },
+  "save_history_restored": {
+    "message": "gegevens hersteld uit geschiedenis"
+  },
+  "search_title": {
+    "message": "Zoeken naar dial"
+  },
+  "unexpected_title": {
+    "message": "Er was een onverwachte fout!"
+  },
+  "unexpected_solution": {
+    "message": "Klik hier om de add-on opnieuw te laden (probeer uw browser of pc opnieuw op te starten als dit niet helpt)."
+  },
+  "unexpected_body": {
+    "message": "Stuur het volgende foutenlogbestand naar mijn support-e-mail:"
+  },
+  "unexpected_thanks": {
+    "message": "Dank je."
+  },
+  "unexpected_close": {
+    "message": "Sluiten"
+  },
+  "err_mutable_title": {
+    "message": "Er is een fout opgetreden bij het ophalen van de database omdat in de browser Geschiedenis onthouden uitgeschakeld is."
+  },
+  "err_mutable_body": {
+    "message": "Je moet \"Geschiedenis onthouden\" instellen in Firefox (Opties > Privacy & Beveiliging > Geschiedenis)."
+  },
+  "err_is_firefox_bug": {
+    "message": "Dit is een bug in Firefox."
+  },
+  "err_error_details": {
+    "message": "Details van de foutmelding:"
+  },
+  "login_login_title": {
+    "message": "Login om cloud synchronisatie en toegang tot cloud-dials mogelijk te maken"
+  },
+  "menu_refresh_all": {
+    "message": "Ververs alles in groep / alles wat ontbreekt (na synchronisatie) / alle groeps-dials"
+  },
+  "menu_history_title": {
+    "message": "Opent venster waar je je geschiedenis / back-ups kunt beheren"
+  },
+  "menu_pro_upload": {
+    "message": "Alleen Pro-versies - Uploadt alle miniaturen naar de cloud en maakt ze beschikbaar op de webpagina van Cloud-dials (zelfs in je telefoon!)"
+  },
+  "menu_pro_download": {
+    "message": "Alleen Pro-versies - Downloadt alle miniaturen uit de cloud ter vervanging van de huidige lokale."
+  },
+  "menu_page_to_dial": {
+    "message": "Voeg deze pagina toe aan dial"
+  },
+  "menu_pages_to_dial": {
+    "message": "Voeg $1 tabbladen toe aan dials"
+  },
+  "menu_cloud_dials": {
+    "message": "Cloud-dials"
+  },
+  "menu_dials_page": {
+    "message": "Dials pagina menu"
+  },
+  "keys_ctrl_shift_f": {
+    "message": "Ctrl + Shift + F"
+  },
+  "ed_edit_dial": {
+    "message": "Dial bewerken:"
+  },
+  "ed_tab_general": {
+    "message": "Algemeen"
+  },
+  "ed_auto_reload": {
+    "message": "Automatisch opnieuw laden"
+  },
+  "ed_crop_scale": {
+    "message": "Bijsnijden / schalen"
+  },
+  "screen_width": {
+    "message": ""
+  },
+  "screen_height": {
+    "message": ""
+  },
+  "ed_tab_thumbnail": {
+    "message": "Miniatuur"
+  },
+  "ed_tab_visual": {
+    "message": "Weergave"
+  },
+  "ed_tab_settings": {
+    "message": "Instellingen"
+  },
+  "ed_dial_title": {
+    "message": "Dial titel:"
+  },
+  "ed_dial_note": {
+    "message": "Notitie:"
+  },
+  "ed_link_to_page": {
+    "message": "Koppeling naar pagina:"
+  },
+  "ed_create_new_group": {
+    "message": "Koppelen aan nieuwe groep:"
+  },
+  "ed_group_name": {
+    "message": "Naam:"
+  },
+  "ed_columns": {
+    "message": "Kolommen:"
+  },
+  "ed_rows": {
+    "message": "Rijen:"
+  },
+  "ed_link_to_group": {
+    "message": "Koppelen aan bestaande groep:"
+  },
+  "ed_page_dial": {
+    "message": ""
+  },
+  "ed_group_dial": {
+    "message": ""
+  },
+  "ed_text_dial": {
+    "message": "Tekst dial:"
+  },
+  "ed_search_dial": {
+    "message": "Zoek dial:"
+  },
+  "ed_multi_dial": {
+    "message": ""
+  },
+  "ed_live_dial": {
+    "message": ""
+  },
+  "ed_live_dial_title_1": {
+    "message": ""
+  },
+  "ed_live_dial_title_2": {
+    "message": ""
+  },
+  "page_name": {
+    "message": ""
+  },
+  "search_provider_name": {
+    "message": "Naam"
+  },
+  "search_provider_url": {
+    "message": "URL"
+  },
+  "search_provider_icon": {
+    "message": "Icoon"
+  },
+  "search_provider_name_placeholder": {
+    "message": "Voer de naam van de zoekprovider in"
+  },
+  "search_provider_url_placeholder": {
+    "message": "Voer zoek-URL in - moet $1 bevatten"
+  },
+  "search_provider_url_info": {
+    "message": "Bekijk deze video tutorial over het maken van een zoek-URL"
+  },
+  "search_add_more": {
+    "message": "voeg meer zoekmachines toe"
+  },
+  "search_add_more_title": {
+    "message": "Je kunt meerdere zoekingangen hebben binnen één dial."
+  },
+  "search_provider_tip": {
+    "message": "Druk op \"Enter\" om hier te zoeken of \"Ctrl + Enter\" om de zoekopdracht te openen in een Nieuw tabblad"
+  },
+  "multi_dial_import": {
+    "message": ""
+  },
+  "multi_dial_import_help_0": {
+    "message": ""
+  },
+  "multi_dial_import_help_1": {
+    "message": ""
+  },
+  "multi_dial_import_current": {
+    "message": ""
+  },
+  "multi_dial_title_action": {
+    "message": ""
+  },
+  "multi_dial_link_action": {
+    "message": ""
+  },
+  "multi_dial_title_action_0": {
+    "message": ""
+  },
+  "multi_dial_title_action_1": {
+    "message": ""
+  },
+  "multi_dial_link_action_0": {
+    "message": ""
+  },
+  "multi_dial_link_action_1": {
+    "message": ""
+  },
+  "live_dial_opt_no_interaction": {
+    "message": ""
+  },
+  "live_dial_opt_hide_scrollbars": {
+    "message": ""
+  },
+  "dial_text_placeholder": {
+    "message": "Voer hier tekst in"
+  },
+  "dial_click_to_clipboard": {
+    "message": "Kopieer tekst naar klembord bij dial klik"
+  },
+  "ed_ar_title": {
+    "message": "Miniatuur automatisch opnieuw laden"
+  },
+  "ed_ar_disabled_radio": {
+    "message": "Uitgeschakeld"
+  },
+  "ed_ar_enabled_radio": {
+    "message": "Ingeschakeld"
+  },
+  "ed_au_type_0": {
+    "message": "Herlaad elke/ieder"
+  },
+  "ed_au_type_1": {
+    "message": "Dagelijks"
+  },
+  "ed_au_type_2": {
+    "message": "maandelijks"
+  },
+  "ed_au_type_3": {
+    "message": "weekdagen"
+  },
+  "ed_au_type_4": {
+    "message": "weekends"
+  },
+  "ed_au_type_5": {
+    "message": "maandag"
+  },
+  "ed_au_type_6": {
+    "message": "dinsdag"
+  },
+  "ed_au_type_7": {
+    "message": "woensdag"
+  },
+  "ed_au_type_8": {
+    "message": "donderdag"
+  },
+  "ed_au_type_9": {
+    "message": "vrijdag"
+  },
+  "ed_au_type_10": {
+    "message": "zaterdag"
+  },
+  "ed_au_type_11": {
+    "message": "zondag"
+  },
+  "ed_crop_off_radio": {
+    "message": "Automatisch"
+  },
+  "ed_crop_on_radio": {
+    "message": "Op maat"
+  },
+  "ar_at": {
+    "message": "bij:"
+  },
+  "ar_hours": {
+    "message": "Uren"
+  },
+  "ar_minutes": {
+    "message": "Minuten"
+  },
+  "ar_dial_delay": {
+    "message": "Vertraging voordat screenshot wordt gemaakt:"
+  },
+  "ar_dial_delay_title": {
+    "message": "Nadat de pagina is geladen, wachten we voordat we een miniatuur maken. Dit kan helpen als de pagina na verloop van tijd zijn inhoud laadt of complexe afbeeldingen bevat."
+  },
+  "ed_more_advanced": {
+    "message": "Geavanceerdere opties worden in volgende versies toegevoegd."
+  },
+  "ed_auto_generated_th_radio": {
+    "message": "Automatisch gegenereerde miniatuur:"
+  },
+  "ed_blank_radio": {
+    "message": "miniatuur zonder of met effen kleuren - met behulp van Achtergrondkleur"
+  },
+  "ed_make_text_radio": {
+    "message": "Maak je eigen Tekst Miniatuur met webpagina $1:"
+  },
+  "use_for_dial": {
+    "message": "Gebruik voor dial"
+  },
+  "ed_custom_th_file": {
+    "message": "Maak miniatuur op maat vanuit bestand:"
+  },
+  "ed_custom_th_url": {
+    "message": "Maak miniatuur op maat vanuit URL:"
+  },
+  "ed_public_thumbnail_radio": {
+    "message": "Miniatuur uit openbare bibliotheek:"
+  },
+  "load_images": {
+    "message": "Laad afbeeldingen"
+  },
+  "load_images_empty": {
+    "message": "Geen afbeeldingen gevonden voor dit domein"
+  },
+  "downloads": {
+    "message": "Downloads:"
+  },
+  "image_info": {
+    "message": "Afbeelding info:"
+  },
+  "image_extension": {
+    "message": "Afbeeldingstype:"
+  },
+  "create_date": {
+    "message": "Maak datum:"
+  },
+  "image_file_size": {
+    "message": "Afbeeldingsgrootte:"
+  },
+  "resolution_too_low": {
+    "message": "Resolutie is te laag"
+  },
+  "report_image": {
+    "message": "Rappor afbeelding"
+  },
+  "category_vector_images": {
+    "message": "Vector afbeeldingen"
+  },
+  "category_high_dpi": {
+    "message": "Hoge resolutie"
+  },
+  "category_medium_dpi": {
+    "message": "Gemiddelde resolutie"
+  },
+  "category_low_dpi": {
+    "message": "Lage resolutie"
+  },
+  "public_upload_consent": {
+    "message": "Door een miniatuur te uploaden naar de openbare bibliotheek, gaat u akkoord met:"
+  },
+  "public_upload_body_1": {
+    "message": "Miniatuur geüpload naar een openbare bibliotheek is beschikbaar voor alle gebruikers!"
+  },
+  "public_upload_body_2": {
+    "message": "Geüploade gegevens bevatten - miniatuurafbeelding, miniatuurpositie, dialnaam. Andere gebruikers kunnen niet zien wie de miniatuur heeft geüpload."
+  },
+  "label_sending": {
+    "message": "bezig te verzenden ..."
+  },
+  "report_send": {
+    "message": "Verslag!"
+  },
+  "report_details_placeholder": {
+    "message": "Aanvullende informatie"
+  },
+  "report_type": {
+    "message": "?? Type schending:"
+  },
+  "report_type_spam": {
+    "message": "spam"
+  },
+  "report_type_copyright": {
+    "message": "auteursrecht"
+  },
+  "report_type_violent": {
+    "message": "?? heftig"
+  },
+  "report_type_unethical": {
+    "message": "onethisch"
+  },
+  "report_type_other": {
+    "message": "?? ander"
+  },
+  "ed_save_on_disk": {
+    "message": "Op schijf opslaan"
+  },
+  "ed_vr_resolution": {
+    "message": "Resolutie:"
+  },
+  "ed_vr_resolution_title": {
+    "message": "Pagina resolutie tijdens het maken van miniaturen."
+  },
+  "ed_no_zoom": {
+    "message": "Geen zoom"
+  },
+  "ed_top": {
+    "message": "boven"
+  },
+  "ed_left": {
+    "message": "links"
+  },
+  "ed_center": {
+    "message": "midden"
+  },
+  "ed_align_left": {
+    "message": "links uitlijnen"
+  },
+  "ed_load_preview": {
+    "message": "Voorbeeldweergave laden"
+  },
+  "ed_reset_position": {
+    "message": "Positie opnieuw instellen"
+  },
+  "ed_reset_zoom": {
+    "message": "Zoom opnieuw instellen"
+  },
+  "ed_reset_size": {
+    "message": "Grootte opnieuw instellen"
+  },
+  "ed_reset_scale": {
+    "message": "Schaal opnieuw instellen"
+  },
+  "label_reset_all": {
+    "message": ""
+  },
+  "label_coming_soon": {
+    "message": "Binnekort beschikbaar"
+  },
+  "label_save_changes": {
+    "message": "Wijzigingen opslaan"
+  },
+  "label_discard_changes": {
+    "message": "Wijzigingen ongedaan maken"
+  },
+  "label_create_all_thumbnails": {
+    "message": "Maak alle miniaturen"
+  },
+  "label_create_thumbnail": {
+    "message": "Maak miniatuur"
+  },
+  "ed_position": {
+    "message": "Positie:"
+  },
+  "ed_thumbnail_position_0": {
+    "message": "Midden (opvullen)"
+  },
+  "ed_thumbnail_position_1": {
+    "message": "Volledige breedte - boven uitlijnen"
+  },
+  "ed_thumbnail_position_2": {
+    "message": "Bedekken (hele dial)"
+  },
+  "ed_thumbnail_position_3": {
+    "message": "Opvullen (uitrekken)"
+  },
+  "ds_fetch_new_name": {
+    "message": "Update dial tijdens herladen (vereist JavaScript)"
+  },
+  "ds_fetch_new_name_title": {
+    "message": "Tijdens het (automatisch) herladen, worden dial titels gewijzigd in de huidige paginatitel. Hiervoor moet JavaScript zijn ingeschakeld."
+  },
+  "ds_no_script": {
+    "message": "Schakel JavaScript uit tijdens het herladen"
+  },
+  "ds_no_script_title": {
+    "message": "JavaScript uitschakelen kan voor sommige pagina's helpen bij het genereren van miniaturen."
+  },
+  "ds_open_dial_in": {
+    "message": "Open dial in:"
+  },
+  "ds_open_dial_in_0": {
+    "message": "Huidig ​​tabblad"
+  },
+  "ds_open_dial_in_1": {
+    "message": "Nieuw tabblad (gericht)"
+  },
+  "ds_open_dial_in_2": {
+    "message": "Nieuw tabblad"
+  },
+  "ds_open_dial_in_3": {
+    "message": "Nieuw venster"
+  },
+  "ds_open_dial_in_4": {
+    "message": "Nieuw Privé venster"
+  },
+  "open_in_chrome_incognito": {
+    "message": "Incognito Venster"
+  },
+  "open_in_firefox_private": {
+    "message": "Privé venster"
+  },
+  "firefox_containers": {
+    "message": "Containers"
+  },
+  "no_container": {
+    "message": "Geen container"
+  },
+  "eg_title": {
+    "message": "Groep bewerken"
+  },
+  "eg_position": {
+    "message": "Positie:"
+  },
+  "eg_name": {
+    "message": "Naam:"
+  },
+  "eg_columns": {
+    "message": "Kolommen:"
+  },
+  "eg_rows": {
+    "message": "Rijen:"
+  },
+  "eg_dials_ratio": {
+    "message": "Dial verhouding:"
+  },
+  "eg_flexible": {
+    "message": "flexibel"
+  },
+  "eg_fixed": {
+    "message": "vast"
+  },
+  "group_eg_scrollable": {
+    "message": "Maak groep in rolmenu"
+  },
+  "eg_background_color": {
+    "message": "Achtergrond kleur:"
+  },
+  "eg_text_color": {
+    "message": "Tekst kleur:"
+  },
+  "menu_search_title": {
+    "message": "Zoeken naar dial (Ctrl + Shift + F) - met behulp van URL / Naam / Notitie"
+  },
+  "dial_number_title": {
+    "message": "Dial nummer - kan gebruikt worden met \"Ctrl + nummer voor Group Speed Dial\" add-on om dit dial met een toetsenbord shortcut te openen."
+  },
+  "dial_name_placeholder": {
+    "message": "wordt automatisch aangemaakt wanneer leeg"
+  },
+  "dial_note_placeholder": {
+    "message": "notities helpen om dials te vinden via de zoek functie (Ctrl + Shift + F)"
+  },
+  "dial_url_placeholder": {
+    "message": "Je kan http:// weglaten (voorbeeld: google.nl)"
+  },
+  "duplicate_dial_found": {
+    "message": ""
+  },
+  "op_search": {
+    "message": "Zoeken naar dial"
+  },
+  "op_refresh": {
+    "message": "Afbeeldingen verversen"
+  },
+  "op_history": {
+    "message": "Geschiedenis / back-ups"
+  },
+  "menu_archive_title": {
+    "message": "Archief bevat je groepen gemarkeerd als Gearchiveerd."
+  },
+  "op_upload_thumbnails": {
+    "message": "Upload miniaturen"
+  },
+  "op_download_thumbnails": {
+    "message": "Download miniaturen"
+  },
+  "op_pro_only": {
+    "message": "(alleen Pro)"
+  },
+  "op_bing_image": {
+    "message": "Bing achtergrond"
+  },
+  "op_bing_next": {
+    "message": "Volgende afbeelding"
+  },
+  "op_bing_previous": {
+    "message": "Vorige afbeelding"
+  },
+  "op_bing_fullscreen": {
+    "message": "Toon volledige afbeelding"
+  },
+  "op_bing_quiz": {
+    "message": "Bing afbeelding Quiz"
+  },
+  "o_bing_hide_dials": {
+    "message": "Dials automatisch verbergen om de achtergrond te zien"
+  },
+  "o_no_dial_reflection": {
+    "message": ""
+  },
+  "o_background_url_placeholder": {
+    "message": "voorbeeld: https://www.some_page.com/nature.jpg"
+  },
+  "o_paste_import_placeholder": {
+    "message": "plak hier de geëxporteerde tekst"
+  },
+  "o_add_current_after_action": {
+    "message": "Na het toevoegen van de huidige pagina aan dials:"
+  },
+  "o_add_current_after_action_0": {
+    "message": "Vraag de gebruiker om Terug te keren / te Blijven"
+  },
+  "o_add_current_after_action_1": {
+    "message": "Ga terug naar het vorige tabblad"
+  },
+  "o_add_current_after_action_2": {
+    "message": "Blijf op de dials pagina"
+  },
+  "o_theme_title": {
+    "message": "standaard: zwart - voor een betere nachtrust!"
+  },
+  "o_padding_title": {
+    "message": "Spatie rond elke dial; tussen twee dials wordt de waarde verdubbeld."
+  },
+  "o_sync_dials": {
+    "message": "Synchronisatie van dial data"
+  },
+  "o_sync_settings": {
+    "message": "Synchronisatie van instellingen data"
+  },
+  "o_disable_dials_sync": {
+    "message": "Dial synchronisatie op dit apparaat uitschakelen"
+  },
+  "o_disable_dials_sync_title": {
+    "message": "Je dials worden NIET geback-upt naar de cloud. Vergeet niet om regelmatig locale back-ups te maken om data verlies te voorkomen!"
+  },
+  "o_auto_options_sync": {
+    "message": "Maak automatische back-up en synchronisatie van de opties voor al je apparaten"
+  },
+  "o_group_padding_title": {
+    "message": "Spatie rond elke groepsnaam; tussen twee groepen wordt de waarde verdubbeld."
+  },
+  "o_group_font_size_title": {
+    "message": "Tekstgrootte in de bovenste balk."
+  },
+  "o_recommended_for_performance_title": {
+    "message": "Aanbevolen voor de beste prestaties."
+  },
+  "o_two_gradient_colors_title": {
+    "message": "Selecteer minstens 2 kleuren om kleurverloop te gebruiken. - Het gebruik van achtergronden met gecompliceerde kleurovergangen kan de prestaties enigszins beïnvloeden."
+  },
+  "o_background_preview_title": {
+    "message": "Achtergrond voorbeeld"
+  },
+  "o_big_picture_warning_title": {
+    "message": "Gebruik van te grote afbeeldingen kan de prestaties negatief beïnvloeden (nieuwe laadtijd van het tabblad)."
+  },
+  "o_group_delayed_activation_title": {
+    "message": "Met deze vertraging kun je een groep kiezen, zelfs wanneer deze wordt omringd door andere groepen (als je ongeveer 3 rijen met groepen hebt)"
+  },
+  "o_auto_upload_title": {
+    "message": "Professionele versie is vereist. - Auto-upload kan slechts op één apparaat actief zijn."
+  },
+  "o_no_title": {
+    "message": "Geen titel op dials (alleen miniaturen)"
+  },
+  "o_no_title_title": {
+    "message": "Indien ingeschakeld worden alle dialnamen verborgen."
+  },
+  "o_squared_edges": {
+    "message": "Geen ronde hoeken"
+  },
+  "o_squared_edges_title": {
+    "message": "Indien ingeschakeld hebben dials scherpe hoeken."
+  },
+  "o_dial_font_size": {
+    "message": "Lettergrootte van dial namen"
+  },
+  "o_dial_title_down": {
+    "message": "Dial namen onderaan"
+  },
+  "o_dial_title_down_title": {
+    "message": "Indien ingeschakeld, staat de dial naam onderaan."
+  },
+  "o_scrollable_thumbnails": {
+    "message": "Sta scrollen van miniatuur in dial toe"
+  },
+  "o_no_shadow": {
+    "message": "Geen schaduw rond dials"
+  },
+  "o_no_shadow_title": {
+    "message": "Indien ingeschakeld, wordt standaardschaduw rond dials verborgen."
+  },
+  "o_hide_empty_dials": {
+    "message": "Verberg lege dials"
+  },
+  "o_hide_empty_dials_title": {
+    "message": "Indien ingeschakeld worden alle lege dials verborgen."
+  },
+  "o_hide_hover_shadow": {
+    "message": "Verberg de schaduw bij beweging over een object"
+  },
+  "o_dial_numbers_title": {
+    "message": "Dial nummers worden weergegeven naast de betreffende dial naam. Dial nummers zijn nuttig als je de add-on \"Ctrl + Nummer voor Group Speed Dial\" wilt gebruiken, om dials direct via snelkoppelingen op het toetsenbord te openen."
+  },
+  "o_dial_numbers": {
+    "message": "Toon dial nummers"
+  },
+  "o_hide_hover_shadow_title": {
+    "message": "Indien ingeschakeld, wordt de schaduw bij bewegen over een object uitgeschakeld."
+  },
+  "o_hide_login_part": {
+    "message": "Login-gedeelte verbergen"
+  },
+  "o_hide_login_part_title": {
+    "message": "Verbergt het label \"Inloggen / Account aanmaken\" of je cloudnaam als je bent ingelogd."
+  },
+  "o_hide_top_bar": {
+    "message": "Verberg groepen en login-gedeelte"
+  },
+  "o_hide_top_bar_title": {
+    "message": "Indien ingeschakeld, worden de groepenlijst en het inloggedeelte verborgen."
+  },
+  "o_hide_add_group": {
+    "message": "Verberg de \"+\" knop aan het einde van de groepenlijst"
+  },
+  "o_hide_add_group_title": {
+    "message": "Verberg + knop"
+  },
+  "o_root_groups_only": {
+    "message": "Verberg geneste groepen van groepenlijst (in bovenste balk)"
+  },
+  "o_root_groups_only_title": {
+    "message": "Alleen root-groepen worden getoond. Groepen met groepskeuze in een willekeurige groep worden verborgen."
+  },
+  "o_firefox_homepage_override": {
+    "message": "Wanneer Firefox start, open de dials pagina"
+  },
+  "o_pro_thumbnail_sync": {
+    "message": "Activeer automatische miniaturen synchronisatie met de cloud server"
+  },
+  "o_group_name_as_title": {
+    "message": "Stel titel van dialpagina in als naam van de momenteel geselecteerde groep"
+  },
+  "o_prevent_new_tab_container": {
+    "message": ""
+  },
+  "o_prevent_new_tab_container_title": {
+    "message": ""
+  },
+  "o_group_name_as_title_title": {
+    "message": "Groepsnaam wordt ingesteld als pagina Titel - deze kan dan zichtbaar zijn als een Tabnaam of naam op de taakbalk."
+  },
+  "o_instant_popup_redirect": {
+    "message": "Werkbalk pictogram - directe omleiding naar de dials pagina"
+  },
+  "o_instant_popup_new_tab": {
+    "message": "Openen in nieuw tabblad"
+  },
+  "o_instant_popup_new_tab_title": {
+    "message": "Nieuw tabblad wordt altijd geopend naast het huidige tabblad."
+  },
+  "o_user_consent_google_favicon": {
+    "message": "Gebruik van Google-service inschakelen om Favicons voor dials te krijgen (alleen gebruikt wanneer favicon niet rechtstreeks kan worden gedownload) - aanbevolen"
+  },
+  "o_instant_popup_redirect_title": {
+    "message": "Klik op het werkbalk pictogram om de dials pagina te openen"
+  },
+  "o_disable_quick_edit": {
+    "message": "Schakel snel bewerken uit met linkermuisknop"
+  },
+  "o_disable_quick_edit_title": {
+    "message": "Klik met de linkermuisknop op een lege dial om het bewerkingsvak niet meer weer te geven."
+  },
+  "o_open_always_new_window": {
+    "message": "Altijd openen in Nieuw venster"
+  },
+  "o_open_always_new_window_title": {
+    "message": "Klikken op de dial opent de URL in een nieuw venster"
+  },
+  "o_open_always_new_tab": {
+    "message": "Altijd openen op Nieuw tabblad"
+  },
+  "o_open_always_new_tab_title": {
+    "message": "Klikken op dial opent de URL in een nieuw tabblad"
+  },
+  "o_open_always_include_group_dials": {
+    "message": "Inclusief groepsdials"
+  },
+  "o_open_always_include_group_dials_title": {
+    "message": "Ook groepsdials worden geopend in nieuw tabblad"
+  },
+  "o_open_always_focused": {
+    "message": "Automatisch overschakelen naar Nieuw tabblad"
+  },
+  "o_open_always_focused_title": {
+    "message": "Nieuw geopende tabblad zal ook focus krijgen"
+  },
+  "o_remember_group": {
+    "message": "Laatst geopende groep onthouden"
+  },
+  "o_remember_group_title": {
+    "message": "Wanneer Ingeschakeld wordt bij het openen van een Nieuw tabblad de laatst gebruikte groep weergegeven."
+  },
+  "o_remember_group_runtime": {
+    "message": "Onthoud alleen tot browser opnieuw is opgestart"
+  },
+  "o_disable_auto_show_groups": {
+    "message": "Schakel automatisch tonen groepenlijst uit bij gebruik van Slepen en Neerzetten"
+  },
+  "o_disable_auto_show_groups_title": {
+    "message": "Wanneer je dials Sleept en Neerzet, is de hele groepenijst standaard zichtbaar om te schakelen tussen alle groepen."
+  },
+  "o_scroll_groups": {
+    "message": "Scroll door groepen"
+  },
+  "o_scroll_groups_title": {
+    "message": "Je kunt je muiswiel gebruiken om door groepen te scrollen."
+  },
+  "o_scroll_groups_reverse": {
+    "message": "Omgekeerde scrollrichting"
+  },
+  "o_scroll_groups_reverse_title": {
+    "message": "OMHOOG scrollen gaat naar de volgende groep."
+  },
+  "o_scroll_groups_circle": {
+    "message": "Doorloop van begin to einde"
+  },
+  "o_scroll_groups_circle_title": {
+    "message": "Wanneer het einde is bereikt, gaat verder scrollen naar het begin (en vice- versa)."
+  },
+  "o_frame_jpeg": {
+    "message": "Gebruik JPEG in plaats van PNG"
+  },
+  "o_frame_jpeg_title": {
+    "message": "JPEG-indeling verbruikt minder geheugen en kost minder tijd om te laden."
+  },
+  "o_visit_jpeg": {
+    "message": "Gebruik JPEG in plaats van PNG"
+  },
+  "o_visit_jpeg_title": {
+    "message": "JPEG-indeling verbruikt minder geheugen en bouwt de afbeelding sneller op."
+  },
+  "o_visit_jpeg_high_resolution": {
+    "message": "Gebruik een hoge resolutie"
+  },
+  "o_visit_jpeg_high_resolution_title": {
+    "message": "Miniatuur heeft een dubbele resolutie om de kwaliteit te verbeteren."
+  },
+  "o_current_dial_dimensions": {
+    "message": "Gebruik huidige dial afmetingen (niet aanbevolen)"
+  },
+  "o_current_dial_dimensions_title": {
+    "message": "Indien ingeschakeld, wordt de huidige dial-grootte gebruikt voor doelresolutie. Indien uitgeschakeld, wordt de resolutie van de doel dial berekend op basis van de monitorresolutie en de groepsrijen / kolommen."
+  },
+  "o_context_menu_show_groups": {
+    "message": "Toon groepenlijst in contextmenu om snel in te voegen"
+  },
+  "o_context_menu_internal": {
+    "message": "Context menu's dials-pagina:"
+  },
+  "o_dials_context_menu": {
+    "message": "Dials en groep-dials:"
+  },
+  "o_groups_context_menu": {
+    "message": "Groepen:"
+  },
+  "o_options_context_menu": {
+    "message": "Opties menu:"
+  },
+  "o_tab_visual_dials": {
+    "message": "Dials"
+  },
+  "o_tab_visual_groups": {
+    "message": "Groepen"
+  },
+  "o_tab_thumbnails": {
+    "message": "Miniaturen"
+  },
+  "o_tab_image": {
+    "message": "Beeldkwaliteit"
+  },
+  "o_theme": {
+    "message": "Thema:"
+  },
+  "o_color_theme": {
+    "message": "Kleuren thema:"
+  },
+  "o_custom_css": {
+    "message": "Aangepaste CSS-stijlen:"
+  },
+  "o_custom_css_placeholder": {
+    "message": "WAARSCHUWING: Alleen voor ervaren gebruikers! Verkeerde stijlen kunnen de visuele ervaring te niet doen."
+  },
+  "o_reload_group_dials": {
+    "message": "Groepsdials opnieuw laden na wijzigen van de achtergrond"
+  },
+  "o_dials": {
+    "message": "Dials:"
+  },
+  "o_dials_visual": {
+    "message": "Dials - visueel:"
+  },
+  "o_android_min_size": {
+    "message": ""
+  },
+  "o_android_min_dial_size": {
+    "message": ""
+  },
+  "o_space_around_dials": {
+    "message": "Ruimte rond dials:"
+  },
+  "o_group_list": {
+    "message": "Groepenlijst:"
+  },
+  "o_space_around_groups": {
+    "message": "Ruimte rond groepen:"
+  },
+  "o_group_list_size": {
+    "message": "Groepenlijst lettergrootte:"
+  },
+  "o_group_list_height": {
+    "message": "Groepenlijst hoogte:"
+  },
+  "o_background_pic": {
+    "message": "Achtergrond afbeelding:"
+  },
+  "o_gradient_type": {
+    "message": "type Verloopkleuren:"
+  },
+  "o_gradient_colors": {
+    "message": "Verloopkleuren:"
+  },
+  "o_gradient_solid": {
+    "message": "effen kleur - geen verloop"
+  },
+  "o_gradient_linear_up_down": {
+    "message": "lineair - omhoog / omlaag"
+  },
+  "o_gradient_linear_left_right": {
+    "message": "lineair - links / rechts"
+  },
+  "o_gradient_linear_diagonal": {
+    "message": "lineair - diagonaal"
+  },
+  "o_gradient_radial_elipse": {
+    "message": "radiaal - ellips"
+  },
+  "o_gradient_radial_circle": {
+    "message": "radiaal - cirkel"
+  },
+  "o_choose_local_image": {
+    "message": "Kies lokaal afbeeldingsbestand..."
+  },
+  "o_copy_link": {
+    "message": "Kopieer koppeling startpagina"
+  },
+  "o_safari_dials_page_hotkeys": {
+    "message": ""
+  },
+  "o_how_to_homepage": {
+    "message": "om $app_name$ als startpagina in te stellen - klik op de knop \"Startpagina koppeling kopiëren\" en plak deze in de browser / Opties / Startpagina"
+  },
+  "o_redirect_url": {
+    "message": "\"Nieuw tabblad\" pagina vervangen door URL:"
+  },
+  "o_redirect_url_placeholder": {
+    "message": "voorbeeld: https://www.google.com/"
+  },
+  "o_redirect_url_title": {
+    "message": "WAARSCHUWING: Je kunt alleen links gebruiken voor normale webpagina's. Interne pagina's zoals \"about:newtab\" werken niet! Enige uitzonderingen zijn \"about: blank\" / \"about: home\"."
+  },
+  "o_groups": {
+    "message": "Groepen:"
+  },
+  "o_group_activation_delay": {
+    "message": "Activeringsvertraging bij gebruik van Slepen en Neerzetten:"
+  },
+  "o_short_keys": {
+    "message": "Sneltoetsen - een andere add-on is vereist:"
+  },
+  "o_key_extended_mode": {
+    "message": "Maak toegang tot meer dan 9 dials mogelijk"
+  },
+  "o_key_extended_mode_title": {
+    "message": "Je kunt meercijferige nummers kiezen."
+  },
+  "o_dial_only_current_group": {
+    "message": "Alleen dials in momenteel geopende groep"
+  },
+  "o_dial_only_current_group_title": {
+    "message": "Voorbeeld: als je \"1\" kiest, wordt de eerste dial in de op dat moment geopende groep geopend."
+  },
+  "o_key_force_page_focus": {
+    "message": "Focus op pagina forceren (experimenteel - werkt mogelijk niet)"
+  },
+  "o_key_force_page_focus_title": {
+    "message": "Als de focus op de adresbalk ligt, zullen we proberen om in plaats daarvan de pagina te focussen. Maar er zal dan geen \"Terug\" knop meer beschikbaar zijn na navigatie. Dit is een experimentele functie en werkt mogelijk niet meer in nieuwere Firefox-versies."
+  },
+  "o_key_to_group_dial": {
+    "message": "Toegang tot groepen inschakelen door toets ingedrukt te houden:"
+  },
+  "o_key_to_group_dial_title": {
+    "message": "Terwijl deze toets ingedrukt is kun je groepen in plaats van dials kiezen."
+  },
+  "o_key_disable_alt": {
+    "message": "Schakel de \"Alt\" / \"CMD\" sneltoetsen uit"
+  },
+  "o_key_disable_alt_title": {
+    "message": "Schakelt sneltoetsen uit als je de \"Alt\" -toets op Windows en de \"CMD\" -opdrachtsleutel op Mac OS gebruikt."
+  },
+  "o_key_disable_ctrl": {
+    "message": "Schakel \"Ctrl\" sneltoetsen uit"
+  },
+  "o_key_disable_ctrl_title": {
+    "message": "Schakelt sneltoetsen uit met de \"Ctrl\" toets."
+  },
+  "o_key_disable_shift": {
+    "message": "Schakel de \"Shift\" sneltoetsen uit"
+  },
+  "o_key_disable_shift_title": {
+    "message": "Schakelt sneltoetsen uit wanneer de \"Shift\" toets wordt gebruikt, bijvoorbeeld \"Ctrl + Shift + 1\" of \"Alt + Shift + 1\"."
+  },
+  "o_key_disable_f4": {
+    "message": "Schakel de \"F4\" sneltoets uit om een Nieuw tabblad te openen"
+  },
+  "o_key_disable_f4_title": {
+    "message": "Drukken op \"F4\" zal geen Nieuw tabblad openen."
+  },
+  "o_key_f4_active_here": {
+    "message": "Open dials pagina in aktief tabblad"
+  },
+  "o_key_disable_zero": {
+    "message": "Schakel de \"Ctrl + 0\" sneltoets uit om de 10e dial te openen"
+  },
+  "o_key_disable_zero_title": {
+    "message": "\"Ctrl + 0\" (gebruikt voor \"Reset zoom\") zal niet langer dialnummer 10 openen."
+  },
+  "o_key_new_tab": {
+    "message": "In Nieuw tabblad openen"
+  },
+  "o_key_new_tab_title": {
+    "message": "Gekozen dials worden altijd op nieuwe tabbladen geopend."
+  },
+  "o_key_next_to_current": {
+    "message": "naast huidig tabblad"
+  },
+  "o_key_next_to_current_title": {
+    "message": "Gekozen dials worden geopend naast huidige tabblad"
+  },
+  "o_keys_delay": {
+    "message": "Vertraging voor nummers met meerdere cijfers:"
+  },
+  "o_ar_settings": {
+    "message": "Instellingen automatisch opnieuw laden"
+  },
+  "o_ar_disable_this_device": {
+    "message": "Uitschakelen op dit apparaat"
+  },
+  "o_ar_disable_this_device_title": {
+    "message": "Automatisch herladen wordt uitgeschakeld in deze browser."
+  },
+  "o_ar_keep_pinned_tab": {
+    "message": "Houd het herladen tabblad geopend na het herladen"
+  },
+  "o_ar_keep_pinned_tab_title": {
+    "message": "Het tabblad dat wordt gebruikt voor het maken van miniaturen blijft geopend na het herladen."
+  },
+  "o_ar_concurrent_count": {
+    "message": "Maximaal gelijktijdig te laden pagina's"
+  },
+  "o_ar_concurrent_count_title": {
+    "message": "Beperk het aantal pagina's dat tegelijkertijd wordt geladen tijdens het maken van miniaturen. Lagere waarde kan CPU en geheugen besparen."
+  },
+  "o_ar_screen_resolution": {
+    "message": "Doelscherm-resolutie automatisch opnieuw laden"
+  },
+  "o_ar_auto_radio": {
+    "message": "Automatisch - gebaseerd op huidige monitorresolutie (aanbevolen)"
+  },
+  "o_ar_custom_radio": {
+    "message": "Handmatig"
+  },
+  "o_ar_screen_resolution_help": {
+    "message": "Miniatuurresolutie wordt berekend op basis van de schermgrootte en de doelgroepgrootte."
+  },
+  "o_vr_screen_resolution": {
+    "message": "Virtuele paginaresolutie gebruikt bij het genereren van miniaturen."
+  },
+  "o_vr_default_width": {
+    "message": "Standaard virtuele paginabreedte"
+  },
+  "o_vr_default_width_title": {
+    "message": "Breedte van de pagina gebruikt bij het genereren van miniaturen."
+  },
+  "o_thumb_timings": {
+    "message": "Tijdsinstellingen en vertragingen voor het genereren van miniaturen:"
+  },
+  "o_load_timeout": {
+    "message": "Maximale time-out voor laden van pagina:"
+  },
+  "o_context_menu_plus_delay": {
+    "message": "Extra vertraging voor het context menu:"
+  },
+  "o_normal_reload_fixed_delay": {
+    "message": "Normaal herladen vaste vertraging:"
+  },
+  "o_reload_visit_fixed_delay": {
+    "message": "Vaste vertraging van herladen na ? bezoek aan pagina:"
+  },
+  "o_thumbnails_delays_help": {
+    "message": "Deze vertragingen zijn handig voor het maken van miniaturen - veel pagina's gebruiken JavaScript om het laden van inhoud te voltooien en de browser heeft vaak enkele milliseconden nodig om de pagina op te bouwen."
+  },
+  "o_img_quality_default_reload": {
+    "message": "Beeldkwaliteit - standaard herladen:"
+  },
+  "o_img_compression_level": {
+    "message": "compressie niveau"
+  },
+  "o_img_quality_reload_visit": {
+    "message": "Beeldkwaliteit - herladen bij ? bezoek:"
+  },
+  "o_context_menu_dials_page": {
+    "message": "Context menu op de Dials pagina"
+  },
+  "o_backup_restore": {
+    "message": "Instellingen voor Back-up / herstellen naar bestand:"
+  },
+  "o_export_dials": {
+    "message": "Instellingen en dials exporteren"
+  },
+  "o_export_thumbnails": {
+    "message": "exporteer ook miniaturen - dit zal het export-bestand aanzienlijk vergroten"
+  },
+  "o_import_other_addons": {
+    "message": "Importeren uit andere add-ons:"
+  },
+  "o_import_josep": {
+    "message": "Dials importeren uit de add-on \"Speed ​​Dial by Josep del Rio\":"
+  },
+  "o_import_fvd": {
+    "message": "Dials importeren uit \"Speed ​​Dial [FVD] by Nimbus Web\":"
+  },
+  "o_import_firefox_bookmarks": {
+    "message": "Dials importeren uit Firefox bladwijzersbestand \".json\":"
+  },
+  "o_import_fast_dial": {
+    "message": "Dial importeren uit de add-on \"Fast Dial by telega\":"
+  },
+  "o_import_super_start_bookmarks": {
+    "message": "Importeer dials uit de add-on \"Super Start by cyberscorpio\":"
+  },
+  "o_import_speed_dial_2": {
+    "message": "Importeer dials uit \"Speed Dial 2 by speeddial2.com\" add-on:"
+  },
+  "o_replace_existing": {
+    "message": "Vervang bestaande dials"
+  },
+  "o_import_from_text": {
+    "message": "Uit tekst:"
+  },
+  "o_about_cloud_dials": {
+    "message": "Cloud-dials:"
+  },
+  "o_auto_upload_pro": {
+    "message": "miniaturen Automatisch uploaden (alleen Pro)"
+  },
+  "o_picture_from_url": {
+    "message": "afbeelding van URL:"
+  },
+  "o_picture_is_web_page": {
+    "message": "webpagina als achtergrond:"
+  },
+  "o_picture_bing_of_the_day": {
+    "message": "Bing afbeelding van de dag:"
+  },
+  "o_picture_bing_of_the_day_note": {
+    "message": "elke dag een nieuwe afbeelding vanaf $1"
+  },
+  "o_picture_bing_of_the_day_help": {
+    "message": "Je kunt Bing-afbeeldingen beheren vanuit het hoofdmenu op de dials pagina."
+  },
+  "o_picture_from_pc": {
+    "message": "afbeelding van PC:"
+  },
+  "o_gradient_colors_sm": {
+    "message": "verloopkleuren:"
+  },
+  "o_none_fastest": {
+    "message": "geen (snelst)"
+  },
+  "o_watch_youtube_import": {
+    "message": "Bekijk een tutorial op YouTube"
+  },
+  "o_cloud_backup_instead": {
+    "message": "Je kunt óók gewoon een gratis account in de cloud aanmaken en je dials worden dan automatisch in de cloud opgeslagen. Alle gegevens worden overgedragen via gecodeerde HTTPS-verbinding."
+  },
+  "reload_heading": {
+    "message": "$app_name$ - tabblad miniaturen herladen"
+  },
+  "reload_subheading": {
+    "message": "Dit tabblad wordt gebruikt door de functie Automatisch opnieuw laden en om miniaturen op de achtergrond aan te maken."
+  },
+  "archive": {
+    "message": "Archive"
+  },
+  "archived": {
+    "message": "gearchiveerd"
+  },
+  "archive_empty": {
+    "message": "Archief is leeg"
+  },
+  "archive_empty_body": {
+    "message": "Markeer een groep als zijnde eerste gearchiveerd."
+  },
+  "archive_close_title": {
+    "message": "Klik om archief te sluiten"
+  },
+  "group_archive_group": {
+    "message": "Verplaats groep naar archief"
+  },
+  "group_archive_group_title": {
+    "message": "Gearchiveerde groepen zijn niet zichtbaar in de lijst met groepen. Je kunt ze openen via het Hoofdmenu / Archief."
+  },
+  "productivity_mode": {
+    "message": ""
+  },
+  "productivity_mode_title": {
+    "message": ""
+  },
+  "auto_productivity_mode": {
+    "message": ""
+  },
+  "active_days": {
+    "message": ""
+  },
+  "start_time": {
+    "message": ""
+  },
+  "end_time": {
+    "message": ""
+  },
+  "elapsed_time": {
+    "message": ""
+  },
+  "remaining_time": {
+    "message": ""
+  },
+  "start_productivity": {
+    "message": ""
+  },
+  "end_productivity": {
+    "message": ""
+  },
+  "choose_distracting_dials": {
+    "message": ""
+  },
+  "selected_dials_groups": {
+    "message": ""
+  },
+  "s_cp": {
+    "message": "Aangepaste zoekprovider"
+  },
+  "sc_0": {
+    "message": "Aangepast // Categorieën zoeken:"
+  },
+  "sc_1": {
+    "message": "Zoeken op internet"
+  },
+  "sc_2": {
+    "message": "Vertaal"
+  },
+  "sc_3": {
+    "message": "Video"
+  },
+  "sc_4": {
+    "message": "Sociale media"
+  },
+  "sc_5": {
+    "message": "Kaarten"
+  },
+  "sc_6": {
+    "message": "Musiek"
+  },
+  "sc_7": {
+    "message": "Video"
+  },
+  "sc_8": {
+    "message": "Andere"
+  },
+  "search_engine": {
+    "message": "",
+    "common": true
+  },
+  "color_remove_color": {
+    "message": "Verwijder kleur",
+    "common": true
+  },
+  "color_transparent": {
+    "message": "transparant",
+    "common": true
+  },
+  "color_rgb": {
+    "message": "RGB",
+    "common": true
+  },
+  "color_no_color": {
+    "message": "geen kleur",
+    "common": true
+  },
+  "field_int_default_value": {
+    "message": "Standaard waarde: $1, min: $2, max: $3",
+    "common": true
+  },
+  "field_set_default": {
+    "message": "Opnieuw instellen op standaard: $1",
+    "common": true
+  },
+  "import_finished": {
+    "message": "Importeren is afgerond!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Foutmelding",
+    "common": true
+  },
+  "pro_required": {
+    "message": "Pro-versie vereist",
+    "common": true
+  },
+  "version_free": {
+    "message": "$1 versie (gratis) - alleen voor niet-commercieel gebruik",
+    "common": true
+  },
+  "version_pro": {
+    "message": "$1 versie",
+    "common": true
+  },
+  "msg_pro_header": {
+    "message": "Deze functie is alleen beschikbaar in de professionele versie.",
+    "common": true
+  },
+  "msg_pro_support": {
+    "message": "Ondersteun de toekomstige ontwikkeling van deze add-on door te upgraden.",
+    "common": true
+  },
+  "statistics": {
+    "message": "",
+    "common": true
+  },
+  "color_black": {
+    "message": "Zwart",
+    "common": true
+  },
+  "color_white": {
+    "message": "Wit",
+    "common": true
+  },
+  "theme_light": {
+    "message": "",
+    "common": true
+  },
+  "theme_dark": {
+    "message": "",
+    "common": true
+  },
+  "title_introduction": {
+    "message": "Introductie",
+    "common": true
+  },
+  "title_got_it": {
+    "message": "Ik snap het, Aan de slag!",
+    "common": true
+  },
+  "privacy_info": {
+    "message": "Privacy informatie",
+    "common": true
+  },
+  "search_search": {
+    "message": "Zoeken",
+    "common": true
+  },
+  "search_close": {
+    "message": "Sluiten",
+    "common": true
+  },
+  "email_send_me": {
+    "message": "verstuur e-mail",
+    "common": true
+  },
+  "send_runtime_error_log": {
+    "message": "Foutlogs verzenden ...",
+    "common": true
+  },
+  "send_runtime_errors": {
+    "message": "Klik op de onderstaande link om me een e-mail te sturen met de informatie die je hieronder kunt zien:",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons pagina",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store pagina",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Opties",
+    "common": true
+  },
+  "menu_quick_options": {
+    "message": "Snelle opties",
+    "common": true
+  },
+  "menu_visit_homepage": {
+    "message": "Ga naar de startpagina",
+    "common": true
+  },
+  "key_name_ctrl": {
+    "message": "Ctrl",
+    "common": true
+  },
+  "key_name_alt": {
+    "message": "Alt",
+    "common": true
+  },
+  "key_name_shift": {
+    "message": "Shift",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Lettergrootte",
+    "common": true
+  },
+  "label_font_size_preview": {
+    "message": "Voorbeeld van lettergrootte",
+    "common": true
+  },
+  "label_previous": {
+    "message": "",
+    "common": true
+  },
+  "label_back": {
+    "message": "",
+    "common": true
+  },
+  "label_next": {
+    "message": "Volgende",
+    "common": true
+  },
+  "label_note": {
+    "message": "Opmerking:",
+    "common": true
+  },
+  "label_not_supported_by_browser": {
+    "message": "",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Verwijder",
+    "common": true
+  },
+  "label_warning": {
+    "message": "WAARSCHUWING:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Opties:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Standaard:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Klaar!",
+    "common": true
+  },
+  "label_copy": {
+    "message": "",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Gekopieerd!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Aangepast:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Sluiten",
+    "common": true
+  },
+  "label_maximize": {
+    "message": "",
+    "common": true
+  },
+  "label_minimize": {
+    "message": "",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Geïnstalleerd",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Open pagina",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Mee eens",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Annuleren",
+    "common": true
+  },
+  "label_active": {
+    "message": "",
+    "common": true
+  },
+  "label_inactive": {
+    "message": "",
+    "common": true
+  },
+  "label_paused": {
+    "message": "",
+    "common": true
+  },
+  "label_pause": {
+    "message": "",
+    "common": true
+  },
+  "label_resume": {
+    "message": "",
+    "common": true
+  },
+  "label_select_all": {
+    "message": "",
+    "common": true
+  },
+  "label_select_none": {
+    "message": "",
+    "common": true
+  },
+  "label_minutes": {
+    "message": "",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Schaal:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Grootte:",
+    "common": true
+  },
+  "label_example": {
+    "message": "",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menu",
+    "common": true
+  },
+  "menu_visit_title": {
+    "message": "Ga naar de startpagina",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Ga naar de startpagina",
+    "common": true
+  },
+  "online_help": {
+    "message": "",
+    "common": true
+  },
+  "online_help_info": {
+    "message": "",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Help dit project",
+    "common": true
+  },
+  "op_help": {
+    "message": "Help",
+    "common": true
+  },
+  "op_help_introduction": {
+    "message": "Introductie video",
+    "common": true
+  },
+  "op_help_safari_setup": {
+    "message": "",
+    "common": true
+  },
+  "op_help_android_setup": {
+    "message": "Android installatie video",
+    "common": true
+  },
+  "o_title": {
+    "message": "Opties - $1 Opties",
+    "common": true
+  },
+  "o_manual_options_sync": {
+    "message": "Handmatige back-up",
+    "common": true
+  },
+  "automatic_backup": {
+    "message": "",
+    "common": true
+  },
+  "backup": {
+    "message": "back-up",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Maak nieuwe back-up",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Instellingen opslaan",
+    "common": true
+  },
+  "load_settings": {
+    "message": "Laad instellingen",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Algemeen",
+    "common": true
+  },
+  "o_tab_sync": {
+    "message": "Synchronisatie",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Achtergrond",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Context menu",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Sneltoetsen",
+    "common": true
+  },
+  "o_tab_import": {
+    "message": "Importeren / back-up",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "Over",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels",
+    "common": true
+  },
+  "o_general": {
+    "message": "Algemeen:",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milliseconden",
+    "common": true
+  },
+  "o_special_features": {
+    "message": "Speciale functies:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "uitgeschakeld",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "ingeschakeld",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "seconden",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Context menu:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Import",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Hallo :)",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Als de add-on je bevalt, beoordeel hem dan hier:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Als hij je niet bevalt, laat me dan in een e-mail weten waarom niet. Ik implementeer de meeste functieverzoeken die ik ontvang.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Overweeg alsjeblieft om mijn werk te ondersteunen door",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donatie (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "mijn Beschermheer worden",
+    "common": true
+  },
+  "o_about_support_by_update": {
+    "message": "upgraden naar de Professionele versie",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Bedankt!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "start:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contact:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Rapporteer problemen:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Ik kan alleen antwoorden in het Engels / Slowaaks",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sociale media:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Wijzigingen opslaan en sluiten",
+    "common": true
+  },
+  "o_saved": {
+    "message": "opgeslagen!",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Mijn naam is $1$ en ik ben de auteur van $app_name$.",
+    "common": true
+  },
+  "s_baidu": {
+    "message": "Baidu // Zoekproviders: // Als je niet vertaalt, wordt de Engelse versie gebruikt",
+    "common": true
+  },
+  "s_google": {
+    "message": "Google",
+    "common": true
+  },
+  "s_bing": {
+    "message": "Bing",
+    "common": true
+  },
+  "s_yahoo": {
+    "message": "Yahoo",
+    "common": true
+  },
+  "s_brave": {
+    "message": "Brave",
+    "common": true
+  },
+  "s_yandex": {
+    "message": "Yandex",
+    "common": true
+  },
+  "s_duck_duck_go": {
+    "message": "DuckDuckGo",
+    "common": true
+  },
+  "s_qwant": {
+    "message": "Qwant",
+    "common": true
+  },
+  "s_ecosia": {
+    "message": "Ecosia",
+    "common": true
+  },
+  "s_seznam": {
+    "message": "Seznam",
+    "common": true
+  },
+  "s_translate_en": {
+    "message": "Google Translate",
+    "common": true
+  },
+  "s_translate_microsoft_en": {
+    "message": "",
+    "common": true
+  },
+  "s_translate_deepl_en": {
+    "message": "",
+    "common": true
+  },
+  "s_translate_yandex_en": {
+    "message": "",
+    "common": true
+  },
+  "s_translate_baidu_en": {
+    "message": "",
+    "common": true
+  },
+  "s_wikipedia": {
+    "message": "Wikipedia",
+    "common": true
+  },
+  "s_youtube": {
+    "message": "YouTube",
+    "common": true
+  },
+  "s_google_maps": {
+    "message": "Google Maps",
+    "common": true
+  },
+  "s_twitter": {
+    "message": "Twitter",
+    "common": true
+  },
+  "s_facebook": {
+    "message": "Facebook",
+    "common": true
+  },
+  "s_imdb": {
+    "message": "IMDb",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Geen overeenkomende resultaten",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Geen data",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Donkere modus",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Gecontroleerd door het systeem",
+    "common": true
+  }
+}

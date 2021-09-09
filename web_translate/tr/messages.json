@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Seçili metni tercüme (içerik menüsünden)"
+  },
+  "_description_feature_2": {
+    "message": "Bütün Sayfa Çevirisi"
+  },
+  "_description_feature_3": {
+    "message": "Koyu mod!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, bing, karanlık, e-posta, google, lang, dil, microsoft, sayfa, preklad, prekladač, S3, seçimi, metin, Transfer, tercüme, tercüme, übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ Web tarayıcınız / Thunderbird için tercüman kullanmak kolaydır!"
+  },
+  "o_tab_translate": {
+    "message": "Çevirmek"
+  },
+  "_description_supported_translators": {
+    "message": "Desteklenen çeviri sağlayıcıları:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Modal pencere"
+  },
+  "open_in_1": {
+    "message": "Açılır pencere"
+  },
+  "open_in_2": {
+    "message": "Yeni sekme"
+  },
+  "open_in_3": {
+    "message": "Yeni Pencere"
+  },
+  "open_in_4": {
+    "message": "Yeni sekme (konteynır olmadan)"
+  },
+  "modal_window": {
+    "message": "Modal pencere"
+  },
+  "toolbar_icon_action": {
+    "message": "Araç çubuğu simgesi eylem"
+  },
+  "toolbar_icon_text": {
+    "message": "Araç çubuğu simgesi metin"
+  },
+  "sidebar_size": {
+    "message": "Kenar çubuğu boyutu"
+  },
+  "translation_provider": {
+    "message": "Çeviri sağlayıcı"
+  },
+  "translate_to": {
+    "message": "Çevir:"
+  },
+  "no_overlay": {
+    "message": "Kaplama yok (etrafındaki karanlık alan)"
+  },
+  "no_overlay_hint": {
+    "message": "Dışarıda tıklasanız bile modal pencere açılacaktır."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Çeviri açın:"
+  },
+  "fallback_1": {
+    "message": "Geri dönüş yöntemi"
+  },
+  "fallback_2": {
+    "message": "Geri dönüş yöntemi"
+  },
+  "fallback_title": {
+    "message": "Modal pencere ve açılır pencere bazı durumlarda kullanılamaz."
+  },
+  "open_in_tab": {
+    "message": "Yeni sekmede aç"
+  },
+  "translate_this_page": {
+    "message": "Bu sayfayı çevir"
+  },
+  "selection_translate": {
+    "message": "\"$1\" tercüme"
+  },
+  "page_translate": {
+    "message": "Sayfa Çevir"
+  },
+  "selected_text": {
+    "message": "seçilen metin"
+  },
+  "disable_context_menu": {
+    "message": "Bağlam menüsünü devre dışı bırakma: $1"
+  },
+  "import_finished": {
+    "message": "İthalat tamamlandı!"
+  },
+  "import_error": {
+    "message": "Hata"
+  },
+  "import_backup_file": {
+    "message": "Yedekleme dosyasını alma $1"
+  },
+  "search_search": {
+    "message": "Arama"
+  },
+  "homepage": {
+    "message": "Ana sayfa"
+  },
+  "addon_page": {
+    "message": "Eklenti sayfası"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Mağazası"
+  },
+  "firefox_store": {
+    "message": "Firefox eklentileri"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Eklentileri"
+  },
+  "label_font_size": {
+    "message": "Yazı Boyutu"
+  },
+  "label_next": {
+    "message": "Sonraki"
+  },
+  "label_note": {
+    "message": "Not:"
+  },
+  "label_remove": {
+    "message": "Kaldırmak"
+  },
+  "label_warning": {
+    "message": "UYARI:"
+  },
+  "label_default": {
+    "message": "Varsayılan:"
+  },
+  "label_done": {
+    "message": "Bırak!"
+  },
+  "label_copied": {
+    "message": "Kopyalandı!"
+  },
+  "label_close": {
+    "message": "Kapat"
+  },
+  "label_open_page": {
+    "message": "Sayfa açmak"
+  },
+  "label_agree": {
+    "message": "Katılıyorum"
+  },
+  "label_cancel": {
+    "message": "İptal etmek"
+  },
+  "op_support_me": {
+    "message": "Bu projeye yardım et"
+  },
+  "support_developer": {
+    "message": "Bağımsız geliştiriciyi destekleyin!"
+  },
+  "hello_there": {
+    "message": "Merhaba!"
+  },
+  "about_me": {
+    "message": "Ben 2016 yılından beri Addon Geliştiriciyim. Amacım, web tarayıcınızın sizi daha üretken hale getirmesi için güçlü uzantılar oluşturmaktır."
+  },
+  "about_good_job": {
+    "message": "Eğer iyi bir iş yaptığımı düşünüyorsanız, lütfen bağış yapın :)"
+  },
+  "about_income": {
+    "message": "Bağışın benim tek gelirim!"
+  },
+  "about_thanks": {
+    "message": "İşimi desteklediğin için teşekkür ederim!"
+  },
+  "o_tab_context_menu": {
+    "message": "Bağlam menüsü"
+  },
+  "o_tab_about": {
+    "message": "Hakkında"
+  },
+  "o_tab_settings": {
+    "message": "Ayarlar"
+  },
+  "o_pixels": {
+    "message": "piksel"
+  },
+  "o_seconds": {
+    "message": "saniye"
+  },
+  "label_or": {
+    "message": "veya"
+  },
+  "o_about_hello": {
+    "message": "Merhaba :)"
+  },
+  "o_about_intro": {
+    "message": "Benim adım $1$ ve ben $app_name$'in yazarıyım."
+  },
+  "o_about_like_it": {
+    "message": "Eğer beğenirseniz, lütfen buradan değerlendirin:"
+  },
+  "o_about_thanks": {
+    "message": "Teşekkür ederim!"
+  },
+  "o_about_contact": {
+    "message": "İletişim:"
+  },
+  "o_about_issues": {
+    "message": "Sorunları bildir:"
+  },
+  "o_about_social_media": {
+    "message": "Sosyal medya:"
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN kullanarak banka havalesi:"
+  },
+  "ps_no_results": {
+    "message": "Eşleşen sonuç yok"
+  },
+  "label_no_data": {
+    "message": "Veri yok"
+  },
+  "dark_mode": {
+    "message": "Karanlık mod"
+  },
+  "dark_mode_system": {
+    "message": "Sistem tarafından kontrol edilir"
+  },
+  "_description_features": {
+    "message": "Özellikleri:"
+  },
+  "_description_why": {
+    "message": "Neden?"
+  },
+  "_description_privacy_policy": {
+    "message": "Gizlilik Politikası"
+  },
+  "_description_recent_features": {
+    "message": "Son Eklenen Özellikler:"
+  },
+  "_description_common_tags": {
+    "message": "Etiketler:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Firefox'ınız için de mevcut:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Thunderbird'iniz için de mevcut:"
+  }
+}

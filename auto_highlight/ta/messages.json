@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "சில நேரங்களில் பக்கம் நன்றாக வடிவமைக்கப்பட்டுள்ளது மற்றும் நீங்கள் தேடும் தகவல் போதுமான தெரியாது இல்லை."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "பொதுவான பயன்பாட்டு-வழக்குகள்:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "போன்ற மெட்டாடேட்டாவை சிறப்பம்சமாக:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "சிறப்பம்சமாக \"இலவச கப்பல்\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "இணையத்தில் குறிப்பிட்ட ஏதாவது தேடுகிறீர்களா? அனைத்து பக்கங்களிலும் அதை கண்டுபிடிக்க உதவ \"தற்காலிக சிறப்பம்சமாக\" பயன்படுத்தவும். உங்கள் உலாவியை மூடும்போது தற்காலிக சிறப்பம்சங்கள் தானாக நீக்கப்பட்டன."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "பூஜ்ஜியத்தை பூஜ்ஜியமாக அல்லது வெளிப்படையாக உருவாக்குவதன் மூலம் நீங்கள் வார்த்தைகளை மறைக்க முடியும்."
+  },
+  "_description_tags_ah": {
+    "message": "சிறப்பம்சமாக, குறி, மெட்டாடேட்டா, திரைப்படம், தானியங்கி, உரை, ஒத்திசைவு, தேர்வு, தேடல்"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ தானாக வரையறுக்கப்பட்ட பக்கங்களில் வரையறுக்கப்பட்ட வார்த்தைகளை முன்னிலைப்படுத்தும்."
+  },
+  "match_type": {
+    "message": "போட்டி வகை:"
+  },
+  "match_type_0": {
+    "message": "டொமைன் IS."
+  },
+  "match_type_1": {
+    "message": "URL IS."
+  },
+  "match_type_2": {
+    "message": "URL உள்ளது"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "ஒவ்வொரு பக்கம்"
+  },
+  "selection_highlight": {
+    "message": "$1 ஐ உயர்த்தவும்"
+  },
+  "selection_temp": {
+    "message": "தற்காலிகமாக $1 ஐ உயர்த்தும்"
+  },
+  "selection_temp_everywhere": {
+    "message": "எல்லா இடங்களிலும் $1."
+  },
+  "page_highlight": {
+    "message": "இந்த பக்கத்தில் $app_name$"
+  },
+  "toolbar_click_new_tab": {
+    "message": "எப்போதும் புதிய தாவலில் திறக்க - கருவிப்பட்டி ஐகானைக் கிளிக் செய்யும் போது"
+  },
+  "disable_rule": {
+    "message": "முடக்கப்பட்டது"
+  },
+  "temporal_rule": {
+    "message": "தற்காலிக"
+  },
+  "each_word": {
+    "message": "ஒவ்வொரு வார்த்தையும்"
+  },
+  "rules": {
+    "message": "விதிகள்"
+  },
+  "delete": {
+    "message": "அழி"
+  },
+  "rename": {
+    "message": "மறுபெயரிடு"
+  },
+  "duplicate": {
+    "message": "நகல்"
+  },
+  "delete_rule": {
+    "message": "விதி நீக்கு"
+  },
+  "delete_rule_title": {
+    "message": "நீக்க விதி \"$1\"?"
+  },
+  "on_pages": {
+    "message": "பக்கங்களில்:"
+  },
+  "disabled_rule": {
+    "message": "ஊனமுற்ற விதி"
+  },
+  "incomplete_rule": {
+    "message": "முழுமையற்ற விதி"
+  },
+  "active_on_current_page": {
+    "message": "தற்போதைய பக்கத்தில் செயலில்"
+  },
+  "temporal_rule_helper": {
+    "message": "தற்காலிக விதி - உலாவியில் மறுதொடக்கம் செய்த பிறகு நீக்கப்படும்"
+  },
+  "active_on_pages": {
+    "message": "பக்கங்களில் செயலில்:"
+  },
+  "highlight_each_word_separately": {
+    "message": "தனித்தனியாக ஒவ்வொரு வார்த்தையும் முன்னிலைப்படுத்தவும்"
+  },
+  "case_sensitive": {
+    "message": "வழக்கு உணர்திறன்"
+  },
+  "ignore_diacritics": {
+    "message": "Diacritics புறக்கணிக்க"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "வழக்கமான வெளிப்பாடு"
+  },
+  "across_elements": {
+    "message": "உறுப்புகள் முழுவதும்"
+  },
+  "across_elements_help": {
+    "message": "அண்டை HTML உறுப்புகள் முழுவதும் உரை தேட"
+  },
+  "style": {
+    "message": "உடை"
+  },
+  "preview": {
+    "message": "முன்னோட்ட:"
+  },
+  "empty_rule": {
+    "message": "வெற்று விதி"
+  },
+  "create_new_rule": {
+    "message": "புதிய விதி உருவாக்கவும்"
+  },
+  "import_export": {
+    "message": "இறக்குமதி ஏற்றுமதி"
+  },
+  "help_this_project": {
+    "message": "இந்த திட்டத்தை உதவுங்கள்"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "கேள்விகள்:"
+  },
+  "storage_info": {
+    "message": "சேமிப்பு தகவல்:"
+  },
+  "storage_safari_1": {
+    "message": "சஃபாரி தற்போது தானாக தரவு ஒத்திசைவு ஆதரிக்கவில்லை."
+  },
+  "storage_safari_2": {
+    "message": "உங்கள் சிறப்பம்சமாக விதிகள் மாற்ற (அல்லது காப்பு) மாற்றுவதற்கு, \"இறக்குமதி / ஏற்றுமதி\" அம்சத்தைப் பயன்படுத்தவும்."
+  },
+  "storage_info_1": {
+    "message": "உங்கள் விதிகள் பாதுகாப்பான $1 ஒத்திசைவைப் பயன்படுத்தி சேமிக்கப்படும் உங்கள் எல்லா சாதனங்களுக்கிடையேயான உங்கள் விதிகளை ஒத்திசைக்கப்படும் (அதே கணக்கில் உள்நுழைந்திருந்தால்)."
+  },
+  "storage_info_2": {
+    "message": "இந்த கிளவுட் சேமிப்பு 100 KB தரவு சேமிக்க முடியும் மற்றும் 500 சிறப்பம்சமாக விதிகள் வரை."
+  },
+  "storage_info_3": {
+    "message": "நீங்கள் \"இறக்குமதி / ஏற்றுமதி\" அம்சத்தைப் பயன்படுத்தி ஒரு கோப்பை (காப்பு) ஏற்றுமதி செய்யலாம் மற்றும் பிற சாதனங்களில் அதை இறக்குமதி செய்யலாம்."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "தற்போதுள்ள சிறப்பம்சமாக விதிகள் பதிலாக"
+  },
+  "add_page_to_highlight_on": {
+    "message": "சிறப்பம்சமாக பக்கத்தைச் சேர்க்கவும்"
+  },
+  "remove_highlight_from_page": {
+    "message": "பக்கத்தில் இருந்து சிறப்பம்சமாக நீக்கவும்"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "சாய்வு"
+  },
+  "underline": {
+    "message": "அடிக்கோடிடு"
+  },
+  "background_color": {
+    "message": "பின்னணி நிறம்"
+  },
+  "background": {
+    "message": "பின்னணி"
+  },
+  "text_color": {
+    "message": "உரை வண்ணம்"
+  },
+  "color": {
+    "message": "நிறம்"
+  },
+  "font_size": {
+    "message": "எழுத்துரு அளவு"
+  },
+  "rule_name": {
+    "message": "விதி பெயர்"
+  },
+  "highlight_regular_expression": {
+    "message": "வழக்கமான வெளிப்பாட்டை முன்னிலைப்படுத்தவும்:"
+  },
+  "highlight_text": {
+    "message": "உரை சிறப்பம்சமாக:"
+  },
+  "highlight_on_pages": {
+    "message": "பக்கங்கள் மீது சிறப்பம்சமாக"
+  },
+  "empty_name_helper": {
+    "message": "பெயராக \"சிறப்பம்சமாக உரை\" பயன்படுத்த காலியாக விடவும்"
+  },
+  "faq_1": {
+    "message": "தற்போதைய பக்கத்தின் மீது விரைவாக சொல்வது எப்படி?"
+  },
+  "faq_1a": {
+    "message": "சூழல் மெனுவை பயன்படுத்தவும் - உரை / வலது கிளிக் / \"ஆட்டோ ஹைலைட்\" என்பதைத் தேர்ந்தெடுக்கவும். நீங்கள் ஒரு பக்கத்தில் வலது கிளிக் செய்தால் (உரை தேர்வு இல்லாமல்) நீங்கள் தற்போதைய பக்கம் இருக்கும் விதிகள் விண்ணப்பிக்க முடியும்."
+  },
+  "faq_2": {
+    "message": "நான் பல வார்த்தைகளை முன்னிலைப்படுத்த விரும்புகிறேன், ஒவ்வொரு வார்த்தையிலும் தனித்தனியாக புதிய விதிகளை உருவாக்க வேண்டுமா?"
+  },
+  "faq_2a": {
+    "message": "இல்லை, \"ஒவ்வொரு வார்த்தையும்\" பெட்டியை சரிபார்க்கவும். ஒவ்வொரு வார்த்தையும் தனித்தனியாக உயர்த்தப்படும்."
+  },
+  "faq_3": {
+    "message": "அது \"RegExp\" என்றால் என்ன?"
+  },
+  "faq_3a": {
+    "message": "வழக்கமான வெளிப்பாடு என்றும் அழைக்கப்படும், இது தேடல் முறைமையை வரையறுக்கும் எழுத்துகளின் வரிசை. இது சில ஒத்த வடிவத்துடன் கூடிய சிக்கலான சிறப்பம்சங்களை அனுமதிக்கும் ஒரு சிக்கலான கட்டமாகும். உதாரணமாக விலை, தேதிகள், தொலைபேசி எண்கள், போன்றவை ..."
+  },
+  "faq_4": {
+    "message": "நீங்கள் சில RegExp உதாரணங்கள் காட்ட முடியுமா?"
+  },
+  "faq_4a": {
+    "message": "$1 போன்ற அனைத்து விலைகளையும் முன்னிலைப்படுத்தவும்"
+  },
+  "faq_5": {
+    "message": "நீங்கள் அந்த விளக்க முடியுமா?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" ஹைலைட்ஸ் டாலர் அடையாளம். Backslash இங்கே தேவை ஏனெனில் டாலர் RegExp ஒரு சிறப்பு பொருள் உள்ளது."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" ஒற்றை இலக்கத்தை சிறப்பித்துள்ளது"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" என்பது ஒன்று அல்லது அதற்கு மேற்பட்ட முறை மீண்டும் பொருள். இலக்கத் தேர்ந்தெடுக்கும் $2$ க்குப் பிறகு வைக்கப்படும் போது, ஒன்று அல்லது அதற்கு மேற்பட்ட இலக்கங்கள் ஆகும்."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" ஹைலைட்ஸ் டாட். டாட் சின்னம் தனியாக RegExp உள்ள எந்த ஒற்றை பாத்திரம் பொருள் ஏனெனில் Backslash மீண்டும் தேவைப்படுகிறது."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" என்பது பூஜ்யம் அல்லது ஒரு முறை. அடைப்புக்குறிக்குப் பின் $2$ க்குப் பின் வைக்கப்படும் போது, அந்த அடைப்புக்குறிக்குள் உள்ளமை என்னவென்றால் (அங்கே இருக்க முடியும், அல்லது இல்லை). விருப்பமான எண்ணின் தசம பகுதிக்கு நாங்கள் அதைப் பயன்படுத்துகிறோம்."
+  },
+  "faq_5f": {
+    "message": "RegExp விதிகள் பற்றி மேலும் தகவல்"
+  },
+  "import_finished": {
+    "message": "இறக்குமதி முடிந்தது!",
+    "common": true
+  },
+  "import_error": {
+    "message": "பிழை",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "இறக்குமதி காப்பு கோப்பு $1.",
+    "common": true
+  },
+  "homepage": {
+    "message": "முகப்புப்பக்கம்",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon பக்கம்",
+    "common": true
+  },
+  "safari_store": {
+    "message": "மேக் ஆப் ஸ்டோர்",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "குரோம் வலை கடை",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "பயர்பாக்ஸ் add-ons.",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "தண்டர்பேர்ட் add-ons.",
+    "common": true
+  },
+  "menu_options": {
+    "message": "விருப்பங்கள்",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "எழுத்துரு அளவு",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "பக்கப்பட்டி அளவு",
+    "common": true
+  },
+  "label_next": {
+    "message": "அடுத்தது",
+    "common": true
+  },
+  "label_note": {
+    "message": "குறிப்பு:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "நீக்க",
+    "common": true
+  },
+  "label_warning": {
+    "message": "எச்சரிக்கை:",
+    "common": true
+  },
+  "label_options": {
+    "message": "விருப்பங்கள்:",
+    "common": true
+  },
+  "label_default": {
+    "message": "இயல்புநிலை:",
+    "common": true
+  },
+  "label_done": {
+    "message": "முடிந்தது!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "நகல்!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "விருப்ப:",
+    "common": true
+  },
+  "label_close": {
+    "message": "நெருக்கமான",
+    "common": true
+  },
+  "label_installed": {
+    "message": "நிறுவப்பட்ட",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "திறந்த பக்கம்",
+    "common": true
+  },
+  "label_agree": {
+    "message": "ஏற்றுக்கொள்ளுங்கள்",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "ரத்துசெய்",
+    "common": true
+  },
+  "label_save": {
+    "message": "சேமிக்கவும்",
+    "common": true
+  },
+  "label_required": {
+    "message": "தேவை",
+    "common": true
+  },
+  "label_sending": {
+    "message": "அனுப்புதல் ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "அளவு:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "பெரிதாக்கு:",
+    "common": true
+  },
+  "label_size": {
+    "message": "அளவு:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "விரைவில் வரும்",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "மாற்றங்களை சேமியுங்கள்",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "மாற்றங்களை கைவிடலாம்",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "பட்டியல்",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "முகப்புப்பக்கத்தைப் பார்வையிடவும்",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "இந்த திட்டத்தை உதவுங்கள்",
+    "common": true
+  },
+  "support_developer": {
+    "message": "ஆதரவு சுயாதீன டெவலப்பர்!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "வணக்கம்!",
+    "common": true
+  },
+  "about_me": {
+    "message": "நான் 2016 ஆம் ஆண்டு முதல் addon டெவலப்பர் இருக்கிறேன். உங்கள் வலை உலாவிக்கு உங்கள் வலை உலாவிக்கு சக்திவாய்ந்த நீட்டிப்புகளை உருவாக்க வேண்டும்.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "நான் ஒரு நல்ல வேலை செய்கிறேன் என்று நினைத்தால், தயவு செய்து நன்கொடை :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "உங்கள் நன்கொடை என் வருமானம்!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "என் வேலையை ஆதரிப்பதற்கு நன்றி!",
+    "common": true
+  },
+  "op_help": {
+    "message": "உதவி",
+    "common": true
+  },
+  "o_title": {
+    "message": "விருப்பங்கள் - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "காப்பு",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "புதிய காப்பு உருவாக்கவும்",
+    "common": true
+  },
+  "save_settings": {
+    "message": "அமைப்புகளை சேமிக்கவும்",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "உங்கள் தரவை ஒரு கோப்பில் ஏற்றுமதி செய்ய, ஒரு புதிய தாவலில் இந்த சாளரத்தை மீண்டும் திறக்கவும்.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "வலது கிளிக் / \"பதிவிறக்க இணைக்கப்பட்ட கோப்பு\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "பொது",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "பின்னணி",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "சூழல் மெனு",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "சிறுபடங்கள்",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "குறுக்குவழிகள்",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "இறக்குமதி / காப்பு",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "அமைப்புகள்",
+    "common": true
+  },
+  "o_theme": {
+    "message": "தீம்:",
+    "common": true
+  },
+  "o_general": {
+    "message": "பொது:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "முடக்கப்பட்டது",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "இயக்கப்பட்டது",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "பிக்சல்கள்",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "விநாடிகள்",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "சூழல் மெனு:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "சூழல் மெனு முடக்கு: $1.",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "கோப்பை காப்புப்பிரதி / மீட்டமை அமைப்புகள்:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "இறக்குமதி",
+    "common": true
+  },
+  "title_import": {
+    "message": "இறக்குமதி",
+    "common": true
+  },
+  "title_export": {
+    "message": "ஏற்றுமதி",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "ஏற்றுமதி காப்பு",
+    "common": true
+  },
+  "label_or": {
+    "message": "அல்லது",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "வணக்கம் :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "என் பெயர் $1$ மற்றும் நான் $app_name$ எழுத்தாளர் ஆவார்.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "நீங்கள் விரும்பினால், அதை இங்கே மதிப்பிடுங்கள்:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "நீங்கள் விரும்பவில்லை என்றால், என் மின்னஞ்சல் ஏன் எனக்குத் தெரியப்படுத்துங்கள். நான் பெறும் அம்ச கோரிக்கைகளை பெரும்பாலானவற்றை செயல்படுத்துகிறேன்.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "என் வேலையை ஆதரிக்கவும்",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN ஐ பயன்படுத்தி வங்கி பரிமாற்றம்:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "நன்கொடை (பேபால்)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "என் புரவலர் ஆனார்",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "நன்றி!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "வீடு:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "தொடர்பு",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "அறிக்கை சிக்கல்கள்:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "நான் ஆங்கிலம் / ஸ்லோவாக மட்டுமே பதிலளிக்க முடியும்",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "சமூக ஊடகம்:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "மாற்றங்கள் மற்றும் நெருக்கமாக சேமிக்கவும்",
+    "common": true
+  },
+  "o_saved": {
+    "message": "சேமிக்கப்பட்டது!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "பொருத்தமான முடிவுகள் எதுவும் இல்லை",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "தகவல் இல்லை",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "இருண்ட முறை",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "அமைப்பு மூலம் கட்டுப்படுத்தப்படுகிறது",
+    "common": true
+  },
+  "used_space": {
+    "message": "பயன்படுத்திய இடம்: $1 / $2.",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "புதிய தாவலில் திறக்கவும்",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Addon on / இனிய மாறவும்",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon முடக்கப்பட்டுள்ளது",
+    "common": true
+  },
+  "_description_why": {
+    "message": "ஏன்?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "தனியுரிமை கொள்கை",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "சமீபத்தில் சேர்க்கப்பட்டது அம்சங்கள்:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "குறிச்சொற்கள்:",
+    "common": true
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "_description_feature_1": {
+    "message": ""
+  },
+  "_description_feature_2": {
+    "message": ""
+  },
+  "_description_tags_pn": {
+    "message": ""
+  },
+  "app_name": {
+    "message": "Private Notes"
+  },
+  "app_desc": {
+    "message": ""
+  },
+  "compression_level_0": {
+    "message": ""
+  },
+  "compression_level_1": {
+    "message": ""
+  },
+  "compression_level_2": {
+    "message": ""
+  },
+  "compression_level_info_0": {
+    "message": ""
+  },
+  "compression_level_info_1": {
+    "message": ""
+  },
+  "compression_level_info_2": {
+    "message": ""
+  },
+  "title_notes": {
+    "message": ""
+  },
+  "restore_backup": {
+    "message": ""
+  },
+  "create_new_note": {
+    "message": ""
+  },
+  "auto_locking_strategy_0": {
+    "message": ""
+  },
+  "auto_locking_strategy_1": {
+    "message": ""
+  },
+  "restore_note": {
+    "message": ""
+  },
+  "locked": {
+    "message": ""
+  },
+  "change_master_password": {
+    "message": ""
+  },
+  "import_export": {
+    "message": ""
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "notes_auto_saved_placeholder": {
+    "message": ""
+  },
+  "setup_new_pwd": {
+    "message": ""
+  },
+  "change_pwd": {
+    "message": ""
+  },
+  "pwd_to_change": {
+    "message": ""
+  },
+  "current_pwd": {
+    "message": ""
+  },
+  "new_pwd_advice": {
+    "message": ""
+  },
+  "repeat_pwd": {
+    "message": ""
+  },
+  "hint_pwd": {
+    "message": ""
+  },
+  "pwd_warning": {
+    "message": ""
+  },
+  "remember_pwd_0": {
+    "message": ""
+  },
+  "remember_pwd_1": {
+    "message": ""
+  },
+  "remember_pwd_2": {
+    "message": ""
+  },
+  "pwd_save": {
+    "message": ""
+  },
+  "error_saving_note": {
+    "message": ""
+  },
+  "quota_bytes_per_item": {
+    "message": ""
+  },
+  "quota_bytes": {
+    "message": ""
+  },
+  "max_items": {
+    "message": ""
+  },
+  "max_write_operations_per_hour": {
+    "message": ""
+  },
+  "max_write_operations_per_minute": {
+    "message": ""
+  },
+  "security": {
+    "message": ""
+  },
+  "visual_options": {
+    "message": ""
+  },
+  "compression_level": {
+    "message": ""
+  },
+  "auto_locking_strategy": {
+    "message": ""
+  },
+  "auto_lock_inactive_for": {
+    "message": ""
+  },
+  "dense_notes_list": {
+    "message": ""
+  },
+  "import_replace_all": {
+    "message": ""
+  },
+  "export_encrypted": {
+    "message": ""
+  },
+  "minutes": {
+    "message": ""
+  },
+  "label_font_size": {
+    "message": "ಅಕ್ಷರ ಗಾತ್ರ"
+  },
+  "sidebar_size": {
+    "message": ""
+  },
+  "popup_window_width": {
+    "message": ""
+  },
+  "popup_window_height": {
+    "message": ""
+  },
+  "always_open_in_new_tab": {
+    "message": ""
+  },
+  "safari_store": {
+    "message": "ಮ್ಯಾಕ್ ಆಪ್ ಸ್ಟೋರ್"
+  },
+  "chrome_store": {
+    "message": "ಕ್ರೋಮ್ ವೆಬ್ ಅಂಗಡಿ"
+  },
+  "firefox_store": {
+    "message": "ಫೈರ್ಫಾಕ್ಸ್ ಆಡ್-ಆನ್ಗಳು"
+  },
+  "import_finished": {
+    "message": "ಆಮದು ಮುಗಿದಿದೆ!"
+  },
+  "import_error": {
+    "message": "ದೋಷ"
+  },
+  "import_backup_file": {
+    "message": "ಬ್ಯಾಕ್ಅಪ್ ಫೈಲ್ ಅನ್ನು ಆಮದು ಮಾಡಿ $1"
+  },
+  "search_search": {
+    "message": ""
+  },
+  "title_import": {
+    "message": "ಆಮದು"
+  },
+  "title_export": {
+    "message": "ರಫ್ತು ಮಾಡು"
+  },
+  "title_backups": {
+    "message": ""
+  },
+  "homepage": {
+    "message": "ಮುಖಪುಟ"
+  },
+  "addon_page": {
+    "message": "Addon ಪುಟ"
+  },
+  "settings": {
+    "message": ""
+  },
+  "options": {
+    "message": ""
+  },
+  "label_backups": {
+    "message": ""
+  },
+  "label_rename": {
+    "message": ""
+  },
+  "label_download": {
+    "message": ""
+  },
+  "label_delete": {
+    "message": ""
+  },
+  "label_next": {
+    "message": "ಮುಂದಿನ"
+  },
+  "label_note": {
+    "message": "ಸೂಚನೆ:"
+  },
+  "label_remove": {
+    "message": "ತೆಗೆದುಹಾಕಿ"
+  },
+  "label_warning": {
+    "message": "ಎಚ್ಚರಿಕೆ:"
+  },
+  "label_default": {
+    "message": "ಡೀಫಾಲ್ಟ್:"
+  },
+  "label_done": {
+    "message": "ಮುಗಿದಿದೆ!"
+  },
+  "label_copied": {
+    "message": "ನಕಲಿಸಲಾಗಿದೆ!"
+  },
+  "label_close": {
+    "message": "ಮುಚ್ಚು"
+  },
+  "label_open_page": {
+    "message": "ತೆರೆದ ಪುಟ"
+  },
+  "label_agree": {
+    "message": "ಒಪ್ಪು"
+  },
+  "label_cancel": {
+    "message": "ರದ್ದುಮಾಡು"
+  },
+  "op_support_me": {
+    "message": "ಈ ಯೋಜನೆಗೆ ಸಹಾಯ ಮಾಡಿ"
+  },
+  "support_developer": {
+    "message": "ಸ್ವತಂತ್ರ ಡೆವಲಪರ್ ಬೆಂಬಲ!"
+  },
+  "hello_there": {
+    "message": "ಅಲ್ಲಿ ಹಲೋ!"
+  },
+  "about_me": {
+    "message": "ನಾನು 2016 ರಿಂದ Addon ಡೆವಲಪರ್ ಆಗಿದ್ದೇನೆ. ನಿಮ್ಮ ವೆಬ್ ಬ್ರೌಸರ್ಗಾಗಿ ಪ್ರಬಲ ವಿಸ್ತರಣೆಗಳನ್ನು ನಿರ್ಮಿಸುವುದು ನನ್ನ ಗುರಿಯಾಗಿದೆ."
+  },
+  "about_good_job": {
+    "message": "ನಾನು ಒಳ್ಳೆಯ ಕೆಲಸವನ್ನು ಮಾಡುತ್ತಿದ್ದೇನೆ ಎಂದು ನೀವು ಭಾವಿಸಿದರೆ, ದಯವಿಟ್ಟು ದಾನ :)"
+  },
+  "about_income": {
+    "message": "ನಿಮ್ಮ ಕೊಡುಗೆ ನನ್ನ ಏಕೈಕ ಆದಾಯ!"
+  },
+  "about_thanks": {
+    "message": "ನನ್ನ ಕೆಲಸವನ್ನು ಬೆಂಬಲಿಸಿದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು!"
+  },
+  "o_tab_context_menu": {
+    "message": "ಸನ್ನಿವೇಶ ಮೆನು"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_pixels": {
+    "message": "ಪಿಕ್ಸೆಲ್ಗಳು"
+  },
+  "o_seconds": {
+    "message": "ಸೆಕೆಂಡುಗಳು"
+  },
+  "label_or": {
+    "message": "ಅಥವಾ"
+  },
+  "o_about_hello": {
+    "message": "ಹಲೋ :)"
+  },
+  "o_about_intro": {
+    "message": "ನನ್ನ ಹೆಸರು $1$ ಮತ್ತು ನಾನು $app_name$ ನ ಲೇಖಕ."
+  },
+  "o_about_like_it": {
+    "message": "ನಿಮಗೆ ಇಷ್ಟವಾದಲ್ಲಿ, ದಯವಿಟ್ಟು ಇಲ್ಲಿ ರೇಟ್ ಮಾಡಿ:"
+  },
+  "o_about_thanks": {
+    "message": "ಧನ್ಯವಾದಗಳು!"
+  },
+  "o_about_contact": {
+    "message": "ಸಂಪರ್ಕಿಸಿ:"
+  },
+  "o_about_issues": {
+    "message": "ವರದಿ ಸಮಸ್ಯೆಗಳನ್ನು ವರದಿ ಮಾಡಿ:"
+  },
+  "o_about_social_media": {
+    "message": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ:"
+  },
+  "o_about_support_by_iban": {
+    "message": "ಬ್ಯಾಂಕ್ ವರ್ಗಾವಣೆ ಐಬಿಎಎನ್ ಬಳಸಿ:"
+  },
+  "used_space": {
+    "message": "ಉಪಯೋಗಿಸಿದ ಸ್ಥಳ: $1 / $2"
+  },
+  "ps_no_results": {
+    "message": "ಯಾವುದೇ ಹೊಂದಾಣಿಕೆಯ ಫಲಿತಾಂಶಗಳಿಲ್ಲ"
+  },
+  "label_no_data": {
+    "message": "ಮಾಹಿತಿ ಇಲ್ಲ"
+  },
+  "dark_mode": {
+    "message": "ಡಾರ್ಕ್ ಮೋಡ್"
+  },
+  "dark_mode_system": {
+    "message": "ವ್ಯವಸ್ಥೆಯಿಂದ ನಿಯಂತ್ರಿಸಲ್ಪಡುತ್ತದೆ"
+  },
+  "open_in_new_tab": {
+    "message": "ಹೊಸ ಟ್ಯಾಬ್ನಲ್ಲಿ ತೆರೆಯಿರಿ"
+  },
+  "_description_features": {
+    "message": ""
+  },
+  "_description_privacy_policy": {
+    "message": "ಗೌಪ್ಯತಾ ನೀತಿ"
+  },
+  "_description_recent_features": {
+    "message": "ಇತ್ತೀಚೆಗೆ ಸೇರಿಸಲಾಗಿದೆ ವೈಶಿಷ್ಟ್ಯಗಳು:"
+  },
+  "_description_common_tags": {
+    "message": "ಟ್ಯಾಗ್ಗಳು:"
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "翻譯所選文本（從上下文菜單中）"
+  },
+  "_description_feature_2": {
+    "message": "全頁翻譯"
+  },
+  "_description_feature_3": {
+    "message": "黑暗模式！"
+  },
+  "_description_tags_wt": {
+    "message": "百度，冰，黑暗，電子郵件，谷歌，郎，語言，微軟，頁面，前克拉德，前克拉德奇，S3，選擇，文本，Traducteur，翻譯，翻譯，Übersetzer，翻譯"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$很容易使用Web瀏覽器/ Thunderbird的翻譯！"
+  },
+  "o_tab_translate": {
+    "message": "翻譯"
+  },
+  "_description_supported_translators": {
+    "message": "支持的翻譯提供商："
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "模態窗"
+  },
+  "open_in_1": {
+    "message": "彈出窗口"
+  },
+  "open_in_2": {
+    "message": "新標籤"
+  },
+  "open_in_3": {
+    "message": "新窗戶"
+  },
+  "open_in_4": {
+    "message": "新標籤（沒有容器）"
+  },
+  "modal_window": {
+    "message": "模態窗"
+  },
+  "toolbar_icon_action": {
+    "message": "工具欄圖標動作"
+  },
+  "toolbar_icon_text": {
+    "message": "工具欄圖標文本"
+  },
+  "sidebar_size": {
+    "message": "邊欄尺寸"
+  },
+  "translation_provider": {
+    "message": "翻譯提供者"
+  },
+  "translate_to": {
+    "message": "翻譯成："
+  },
+  "no_overlay": {
+    "message": "無覆蓋層（周圍的黑暗區域）"
+  },
+  "no_overlay_hint": {
+    "message": "即使您在外部單擊，模態窗口也將保持打開狀態。"
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "在以下位置打開翻譯："
+  },
+  "fallback_1": {
+    "message": "後備方法"
+  },
+  "fallback_2": {
+    "message": "後備方法"
+  },
+  "fallback_title": {
+    "message": "在某些情況下，無法使用模式窗口和彈出窗口。"
+  },
+  "open_in_tab": {
+    "message": "在新標籤頁中打開"
+  },
+  "translate_this_page": {
+    "message": "翻譯此頁面"
+  },
+  "selection_translate": {
+    "message": "翻譯“$1”"
+  },
+  "page_translate": {
+    "message": "翻譯頁面"
+  },
+  "selected_text": {
+    "message": "所選文字"
+  },
+  "disable_context_menu": {
+    "message": "禁用上下文菜單：“$1”"
+  },
+  "import_finished": {
+    "message": "匯入已結束！"
+  },
+  "import_error": {
+    "message": "錯誤"
+  },
+  "import_backup_file": {
+    "message": "導入備份文件$1"
+  },
+  "search_search": {
+    "message": "搜尋"
+  },
+  "homepage": {
+    "message": "主頁"
+  },
+  "addon_page": {
+    "message": "附加頁面"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Chrome 線上應用程式商店頁面"
+  },
+  "firefox_store": {
+    "message": "Firefox 附加元件頁面"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird附加組件"
+  },
+  "label_font_size": {
+    "message": "字型大小"
+  },
+  "label_next": {
+    "message": "下一步"
+  },
+  "label_note": {
+    "message": "註記："
+  },
+  "label_remove": {
+    "message": "移除"
+  },
+  "label_warning": {
+    "message": "警告："
+  },
+  "label_default": {
+    "message": "預設："
+  },
+  "label_done": {
+    "message": "完成！"
+  },
+  "label_copied": {
+    "message": "已複製！"
+  },
+  "label_close": {
+    "message": "關閉"
+  },
+  "label_open_page": {
+    "message": "開啟頁面"
+  },
+  "label_agree": {
+    "message": "同意"
+  },
+  "label_cancel": {
+    "message": "取消"
+  },
+  "op_support_me": {
+    "message": "協助此專案"
+  },
+  "support_developer": {
+    "message": "支持獨立開發者！"
+  },
+  "hello_there": {
+    "message": "你好！"
+  },
+  "about_me": {
+    "message": "自2016年以來，我一直是插件開發人員，我的目標是為您的Web瀏覽器構建強大的擴展，以使您的工作效率更高。"
+  },
+  "about_good_job": {
+    "message": "如果您認為我做得很好，請捐款:)"
+  },
+  "about_income": {
+    "message": "您的捐款是我唯一的收入！"
+  },
+  "about_thanks": {
+    "message": "感謝您支持我的工作！"
+  },
+  "o_tab_context_menu": {
+    "message": "右鍵選單"
+  },
+  "o_tab_about": {
+    "message": "關於"
+  },
+  "o_tab_settings": {
+    "message": "設定值"
+  },
+  "o_pixels": {
+    "message": "像素"
+  },
+  "o_seconds": {
+    "message": "秒"
+  },
+  "label_or": {
+    "message": "要么"
+  },
+  "o_about_hello": {
+    "message": "您好 :)"
+  },
+  "o_about_intro": {
+    "message": "我的名字是$1$，我是$app_name$的作者。"
+  },
+  "o_about_like_it": {
+    "message": "若您喜歡它，請在此評分："
+  },
+  "o_about_thanks": {
+    "message": "謝謝！"
+  },
+  "o_about_contact": {
+    "message": "聯絡："
+  },
+  "o_about_issues": {
+    "message": "報告問題："
+  },
+  "o_about_social_media": {
+    "message": "社群媒體："
+  },
+  "o_about_support_by_iban": {
+    "message": "使用IBAN轉帳："
+  },
+  "ps_no_results": {
+    "message": "沒有符合的結果"
+  },
+  "label_no_data": {
+    "message": "沒有資料"
+  },
+  "dark_mode": {
+    "message": "暗模式"
+  },
+  "dark_mode_system": {
+    "message": "由系統控制"
+  },
+  "_description_features": {
+    "message": "特徵："
+  },
+  "_description_why": {
+    "message": "為什麼？"
+  },
+  "_description_privacy_policy": {
+    "message": "隱私政策"
+  },
+  "_description_recent_features": {
+    "message": "最近添加的功能："
+  },
+  "_description_common_tags": {
+    "message": "標籤："
+  },
+  "_description_also_for_firefox": {
+    "message": "也可以為您的Firefox提供："
+  },
+  "_description_also_for_thunderbird": {
+    "message": "也可以為您的雷鳥提供："
+  }
+}

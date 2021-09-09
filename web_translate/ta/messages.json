@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "தேர்ந்தெடுக்கப்பட்ட உரை (சூழல் மெனுவிலிருந்து)"
+  },
+  "_description_feature_2": {
+    "message": "முழு பக்க மொழிபெயர்ப்பு"
+  },
+  "_description_feature_3": {
+    "message": "இருண்ட முறை!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, இருண்ட, மின்னஞ்சல், கூகிள், லாங், மொழி, மைக்ரோசாப்ட், பக்கம், Preklad, prekladacč, s3, தேர்வு, உரை, traducteur, மொழிபெயர், மொழிபெயர்ப்பாளர், überetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ உங்கள் வலை உலாவி / தண்டர்பேர்ட் மொழிபெயர்ப்பாளர் பயன்படுத்த எளிதானது!"
+  },
+  "o_tab_translate": {
+    "message": "மொழிபெயர்"
+  },
+  "_description_supported_translators": {
+    "message": "ஆதரவு மொழிபெயர்ப்பு வழங்குநர்கள்:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "மாதிரி சாளரம்"
+  },
+  "open_in_1": {
+    "message": "பாப் அப் விண்டோ"
+  },
+  "open_in_2": {
+    "message": "புதிய தாவலில்"
+  },
+  "open_in_3": {
+    "message": "புதிய சாளரம்"
+  },
+  "open_in_4": {
+    "message": "புதிய தாவல் (கொள்கலன் இல்லாமல்)"
+  },
+  "modal_window": {
+    "message": "மாதிரி சாளரம்"
+  },
+  "toolbar_icon_action": {
+    "message": "கருவிப்பட்டி ஐகான் அதிரடி"
+  },
+  "toolbar_icon_text": {
+    "message": "கருவிப்பட்டி ஐகான் உரை"
+  },
+  "sidebar_size": {
+    "message": "பக்கப்பட்டி அளவு"
+  },
+  "translation_provider": {
+    "message": "மொழிபெயர்ப்பு வழங்குநர்"
+  },
+  "translate_to": {
+    "message": "மொழிபெயர்க்கவும்:"
+  },
+  "no_overlay": {
+    "message": "இல்லை மேலடுக்கு (சுற்றி இருண்ட பகுதி)"
+  },
+  "no_overlay_hint": {
+    "message": "நீங்கள் வெளியே கிளிக் செய்தாலும் கூட மாதிரி சாளரம் திறக்கப்படும்."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "திறந்த மொழிபெயர்ப்பு"
+  },
+  "fallback_1": {
+    "message": "குறைவடையும் முறை"
+  },
+  "fallback_2": {
+    "message": "குறைவடையும் முறை"
+  },
+  "fallback_title": {
+    "message": "மாதிரி சாளரம் மற்றும் பாப் அப் விண்டோவில் சில சந்தர்ப்பங்களில் பயன்படுத்த முடியாது."
+  },
+  "open_in_tab": {
+    "message": "புதிய தாவலில் திறக்கவும்"
+  },
+  "translate_this_page": {
+    "message": "இந்த பக்கத்தை மொழிபெயர்க்கவும்"
+  },
+  "selection_translate": {
+    "message": "மொழிபெயர் \"$1\""
+  },
+  "page_translate": {
+    "message": "பக்கத்தை மொழிபெயர்க்கவும்"
+  },
+  "selected_text": {
+    "message": "தேர்ந்தெடுக்கப்பட்ட உரை"
+  },
+  "disable_context_menu": {
+    "message": "சூழல் மெனு முடக்கு: $1."
+  },
+  "import_finished": {
+    "message": "இறக்குமதி முடிந்தது!"
+  },
+  "import_error": {
+    "message": "பிழை"
+  },
+  "import_backup_file": {
+    "message": "இறக்குமதி காப்பு கோப்பு $1."
+  },
+  "search_search": {
+    "message": "தேடல்"
+  },
+  "homepage": {
+    "message": "முகப்புப்பக்கம்"
+  },
+  "addon_page": {
+    "message": "Addon பக்கம்"
+  },
+  "safari_store": {
+    "message": "மேக் ஆப் ஸ்டோர்"
+  },
+  "chrome_store": {
+    "message": "குரோம் வலை கடை"
+  },
+  "firefox_store": {
+    "message": "பயர்பாக்ஸ் add-ons."
+  },
+  "thunderbird_store": {
+    "message": "தண்டர்பேர்ட் add-ons."
+  },
+  "label_font_size": {
+    "message": "எழுத்துரு அளவு"
+  },
+  "label_next": {
+    "message": "அடுத்தது"
+  },
+  "label_note": {
+    "message": "குறிப்பு:"
+  },
+  "label_remove": {
+    "message": "நீக்க"
+  },
+  "label_warning": {
+    "message": "எச்சரிக்கை:"
+  },
+  "label_default": {
+    "message": "இயல்புநிலை:"
+  },
+  "label_done": {
+    "message": "முடிந்தது!"
+  },
+  "label_copied": {
+    "message": "நகல்!"
+  },
+  "label_close": {
+    "message": "நெருக்கமான"
+  },
+  "label_open_page": {
+    "message": "திறந்த பக்கம்"
+  },
+  "label_agree": {
+    "message": "ஏற்றுக்கொள்ளுங்கள்"
+  },
+  "label_cancel": {
+    "message": "ரத்துசெய்"
+  },
+  "op_support_me": {
+    "message": "இந்த திட்டத்தை உதவுங்கள்"
+  },
+  "support_developer": {
+    "message": "ஆதரவு சுயாதீன டெவலப்பர்!"
+  },
+  "hello_there": {
+    "message": "வணக்கம்!"
+  },
+  "about_me": {
+    "message": "நான் 2016 ஆம் ஆண்டு முதல் addon டெவலப்பர் இருக்கிறேன். உங்கள் வலை உலாவிக்கு உங்கள் வலை உலாவிக்கு சக்திவாய்ந்த நீட்டிப்புகளை உருவாக்க வேண்டும்."
+  },
+  "about_good_job": {
+    "message": "நான் ஒரு நல்ல வேலை செய்கிறேன் என்று நினைத்தால், தயவு செய்து நன்கொடை :)"
+  },
+  "about_income": {
+    "message": "உங்கள் நன்கொடை என் வருமானம்!"
+  },
+  "about_thanks": {
+    "message": "என் வேலையை ஆதரிப்பதற்கு நன்றி!"
+  },
+  "o_tab_context_menu": {
+    "message": "சூழல் மெனு"
+  },
+  "o_tab_about": {
+    "message": "பற்றி"
+  },
+  "o_tab_settings": {
+    "message": "அமைப்புகள்"
+  },
+  "o_pixels": {
+    "message": "பிக்சல்கள்"
+  },
+  "o_seconds": {
+    "message": "விநாடிகள்"
+  },
+  "label_or": {
+    "message": "அல்லது"
+  },
+  "o_about_hello": {
+    "message": "வணக்கம் :)"
+  },
+  "o_about_intro": {
+    "message": "என் பெயர் $1$ மற்றும் நான் $app_name$ எழுத்தாளர் ஆவார்."
+  },
+  "o_about_like_it": {
+    "message": "நீங்கள் விரும்பினால், அதை இங்கே மதிப்பிடுங்கள்:"
+  },
+  "o_about_thanks": {
+    "message": "நன்றி!"
+  },
+  "o_about_contact": {
+    "message": "தொடர்பு"
+  },
+  "o_about_issues": {
+    "message": "அறிக்கை சிக்கல்கள்:"
+  },
+  "o_about_social_media": {
+    "message": "சமூக ஊடகம்:"
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN ஐ பயன்படுத்தி வங்கி பரிமாற்றம்:"
+  },
+  "ps_no_results": {
+    "message": "பொருத்தமான முடிவுகள் எதுவும் இல்லை"
+  },
+  "label_no_data": {
+    "message": "தகவல் இல்லை"
+  },
+  "dark_mode": {
+    "message": "இருண்ட முறை"
+  },
+  "dark_mode_system": {
+    "message": "அமைப்பு மூலம் கட்டுப்படுத்தப்படுகிறது"
+  },
+  "_description_features": {
+    "message": "அம்சங்கள்:"
+  },
+  "_description_why": {
+    "message": "ஏன்?"
+  },
+  "_description_privacy_policy": {
+    "message": "தனியுரிமை கொள்கை"
+  },
+  "_description_recent_features": {
+    "message": "சமீபத்தில் சேர்க்கப்பட்டது அம்சங்கள்:"
+  },
+  "_description_common_tags": {
+    "message": "குறிச்சொற்கள்:"
+  },
+  "_description_also_for_firefox": {
+    "message": "உங்கள் Firefox க்கு கிடைக்கும்:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "உங்கள் தண்டர்பேர்டிற்காகவும் கிடைக்கும்:"
+  }
+}

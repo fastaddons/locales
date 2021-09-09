@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "Bazen sayfa sadece iyi tasarlanmamıştır ve aradığınız bilgiler yeterince görünmez."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Yaygın kullanım durumları:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Gibi meta verileri vurgulamak:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "\"Ücretsiz kargo\" seçeneğini vurgulayın :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Web'de belirli bir şey mi arıyorsunuz? Tüm sayfalarda bulmanıza yardımcı olmak için \"zamansal vurgulama\" kullanın. Tarayıcınızı kapattığınızda zamansal vurgular otomatik olarak silinir."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Yazı tipi boyutunu sıfıra ayarlayarak veya saydamlaştırarak kelimeleri bile saklayabilirsiniz."
+  },
+  "_description_tags_ah": {
+    "message": "vurgulamak, işaret, meta veriler, film, otomatik, metin, senkronizasyon, seçim, arama"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$, tanımlanmış sayfalardaki tanımlanmış kelimeleri otomatik olarak vurgulayacaktır."
+  },
+  "match_type": {
+    "message": "Eşleşme türü:"
+  },
+  "match_type_0": {
+    "message": "Etki alanı"
+  },
+  "match_type_1": {
+    "message": "URL"
+  },
+  "match_type_2": {
+    "message": "URL içerir"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "Her sayfa"
+  },
+  "selection_highlight": {
+    "message": "$1 vurgulayın"
+  },
+  "selection_temp": {
+    "message": "Geçici olarak $1'ı vurgulayın"
+  },
+  "selection_temp_everywhere": {
+    "message": "Her yerde geçici olarak vurgulamak $1"
+  },
+  "page_highlight": {
+    "message": "Bu sayfada $app_name$"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Her zaman yeni sekmede açın - araç çubuğu simgesini tıklatırken"
+  },
+  "disable_rule": {
+    "message": "Engelli"
+  },
+  "temporal_rule": {
+    "message": "Geçici"
+  },
+  "each_word": {
+    "message": "Her kelime"
+  },
+  "rules": {
+    "message": "Kurallar"
+  },
+  "delete": {
+    "message": "Silmek"
+  },
+  "rename": {
+    "message": "Adını değiştirmek"
+  },
+  "duplicate": {
+    "message": "Çiftleme"
+  },
+  "delete_rule": {
+    "message": "Kuralı sil"
+  },
+  "delete_rule_title": {
+    "message": "\"$1\" kuralını sil?"
+  },
+  "on_pages": {
+    "message": "Sayfalarda:"
+  },
+  "disabled_rule": {
+    "message": "Engelli Kuralı"
+  },
+  "incomplete_rule": {
+    "message": "Tamamlanmamış kural"
+  },
+  "active_on_current_page": {
+    "message": "Geçerli sayfada aktif"
+  },
+  "temporal_rule_helper": {
+    "message": "Geçici kural - tarayıcıyı yeniden başlattıktan sonra silinecek"
+  },
+  "active_on_pages": {
+    "message": "Sayfalarda etkin:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Her kelimeyi ayrı ayrı vurgulayın"
+  },
+  "case_sensitive": {
+    "message": "Harfe duyarlı"
+  },
+  "ignore_diacritics": {
+    "message": "Dierkritikleri yoksay"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "Düzenli ifade"
+  },
+  "across_elements": {
+    "message": "Elementler arasında"
+  },
+  "across_elements_help": {
+    "message": "Komşu HTML Elemanları arasında metni ara"
+  },
+  "style": {
+    "message": "Stil"
+  },
+  "preview": {
+    "message": "Ön izleme:"
+  },
+  "empty_rule": {
+    "message": "boş kural"
+  },
+  "create_new_rule": {
+    "message": "Yeni kural oluştur"
+  },
+  "import_export": {
+    "message": "İthalat ihracat"
+  },
+  "help_this_project": {
+    "message": "Bu projeye yardım et"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "SSS:"
+  },
+  "storage_info": {
+    "message": "Depolama Bilgisi:"
+  },
+  "storage_safari_1": {
+    "message": "Safari şu anda otomatik veri senkronizasyonunu desteklemiyor."
+  },
+  "storage_safari_2": {
+    "message": "Vurgulama kurallarınızı aktarmak (veya yedeklemek), \"İthalat / İhracat\" özelliğini kullanın."
+  },
+  "storage_info_1": {
+    "message": "Kurallarınız, tüm cihazlarınız arasında kurallarınızı senkronize edecek Secure $1 senkronizasyonu kullanılarak saklanır (eğer aynı hesaba giriş yaptıysanız)."
+  },
+  "storage_info_2": {
+    "message": "Bu bulut depolama, 100 KB veri ve 500 vurgu kuralını saklayabilir."
+  },
+  "storage_info_3": {
+    "message": "Kurallarınızı \"Yedekleme)\" Yedekleme) \"İçe Aktarma / Ver\" özelliğini kullanarak bir dosyaya (yedekleyin) ve ardından diğer cihazlarda içe aktarabilirsiniz."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Mevcut Vurgu kurallarını değiştirin"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Açıklamak için Sayfa Ekle"
+  },
+  "remove_highlight_from_page": {
+    "message": "Sayfadan Vurgu Kaldır"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "İtalik"
+  },
+  "underline": {
+    "message": "Altını çizmek"
+  },
+  "background_color": {
+    "message": "Arka plan rengi"
+  },
+  "background": {
+    "message": "Arka fon"
+  },
+  "text_color": {
+    "message": "Metin rengi"
+  },
+  "color": {
+    "message": "Renk"
+  },
+  "font_size": {
+    "message": "Yazı Boyutu"
+  },
+  "rule_name": {
+    "message": "Kural adı"
+  },
+  "highlight_regular_expression": {
+    "message": "Düzenli ifadeyi vurgulayın:"
+  },
+  "highlight_text": {
+    "message": "Metni vurgulamak:"
+  },
+  "highlight_on_pages": {
+    "message": "Sayfaları vurgulayın"
+  },
+  "empty_name_helper": {
+    "message": "\"Vurgulanan metni\" adını kullanmak için boş bırakın"
+  },
+  "faq_1": {
+    "message": "Geçerli sayfadaki kelimeyi hızlı bir şekilde vurgulayabilirsiniz?"
+  },
+  "faq_1a": {
+    "message": "Bağlam menüsünü kullanın - Metin / sağ tıklayın / \"Otomatik vurgu\" seçeneğini seçin. Bir sayfaya sağ tıkladığınızda (metin seçmeden) mevcut kuralları geçerli sayfaya uygulayabilirsiniz."
+  },
+  "faq_2": {
+    "message": "Birden fazla kelimeyi vurgulamak istiyorum, her kelime için ayrı ayrı yeni bir kural oluşturmam gerekiyor mu?"
+  },
+  "faq_2a": {
+    "message": "Hayır, sadece \"her kelimeyi\" onay kutusunu işaretleyin. Sonra her kelime ayrı ayrı vurgulanacaktır."
+  },
+  "faq_3": {
+    "message": "Bu \"RegExp\" nedir?"
+  },
+  "faq_3a": {
+    "message": "Ayrıca normal ifade olarak da bilinir, bir arama deseni tanımlayan bir karakter dizisidir. Benzer bir düzende elemanların karmaşık vurgulanmasını sağlayan karmaşık bir yapıdır. Örneğin fiyatlar, tarihler, telefon numaraları, vb ..."
+  },
+  "faq_4": {
+    "message": "Bana bazı RegExp örnekleri gösterebilir misin?"
+  },
+  "faq_4a": {
+    "message": "$1 gibi tüm fiyatları vurgulayın"
+  },
+  "faq_5": {
+    "message": "Onları açıklar mısın?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" Dolar işareti vurgular. Burada ters eğik çizgi gerekiyor, çünkü doların RegExp'de özel bir anlamı var."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" tek basamaklı vurgular"
+  },
+  "faq_5c": {
+    "message": "\"$1$\", bir veya daha fazla kez tekrarlayın. Digit Selector'dan sonra yerleştirildiğinde $2$, bir veya daha fazla rakam anlamına gelir."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" nokta vurgular. Backshash tekrar gereklidir, çünkü tek başına nokta sembolü RegExp'de herhangi bir tek karakter anlamına gelir."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" sıfır veya bir kez anlamına gelir. $2$ parantezlerinden sonra yerleştirildiğinde, bu parantez içinde ne olursa olsun isteğe bağlıdır (orada olabilir, yok). İsteğe bağlı olan sayının ondalık kısmı için kullanıyoruz."
+  },
+  "faq_5f": {
+    "message": "RegExp kuralları hakkında daha fazla bilgi"
+  },
+  "import_finished": {
+    "message": "İthalat tamamlandı!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Hata",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Yedekleme dosyasını alma $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Ana sayfa",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Eklenti sayfası",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Mağazası",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox eklentileri",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Eklentileri",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Seçenekleri",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Yazı Boyutu",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Kenar çubuğu boyutu",
+    "common": true
+  },
+  "label_next": {
+    "message": "Sonraki",
+    "common": true
+  },
+  "label_note": {
+    "message": "Not:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Kaldırmak",
+    "common": true
+  },
+  "label_warning": {
+    "message": "UYARI:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Seçenekler:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Varsayılan:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Bırak!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Kopyalandı!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Özel:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Kapat",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Kurulmuş",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Sayfa açmak",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Katılıyorum",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "İptal etmek",
+    "common": true
+  },
+  "label_save": {
+    "message": "Kayıt etmek",
+    "common": true
+  },
+  "label_required": {
+    "message": "Gereklidir",
+    "common": true
+  },
+  "label_sending": {
+    "message": "gönderme ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Ölçek:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Boyut:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Çok yakında",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Değişiklikleri Kaydet",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Değişiklikleri gözardı et",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menü",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Ana Sayfa Ziyaret Edin",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Bu projeye yardım et",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Bağımsız geliştiriciyi destekleyin!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Merhaba!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Ben 2016 yılından beri Addon Geliştiriciyim. Amacım, web tarayıcınızın sizi daha üretken hale getirmesi için güçlü uzantılar oluşturmaktır.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Eğer iyi bir iş yaptığımı düşünüyorsanız, lütfen bağış yapın :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Bağışın benim tek gelirim!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "İşimi desteklediğin için teşekkür ederim!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Yardım",
+    "common": true
+  },
+  "o_title": {
+    "message": "Seçenekler - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "destek olmak",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Yeni Yedekleme Oluştur",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Ayarları kaydet",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Verilerinizi bir dosyaya vermek için, bu pencereyi yeni bir sekmede yeniden açın.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Sağ tıklayın / \"Bağlantılı Dosyayı İndir\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Genel",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Arka fon",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Bağlam menüsü",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Küçük resim",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Kısayollar",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "İthalat / Yedekleme",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Ayarlar",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Tema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Genel:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "engelli",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "etkin",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "piksel",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "saniye",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Bağlam Menüsü:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Bağlam menüsünü devre dışı bırakma: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Ayarları dosyaya yedekleme / geri yükleme:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "İthalat",
+    "common": true
+  },
+  "title_import": {
+    "message": "İthalat",
+    "common": true
+  },
+  "title_export": {
+    "message": "İhracat",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Yedekleme İhracat",
+    "common": true
+  },
+  "label_or": {
+    "message": "veya",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Merhaba :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Benim adım $1$ ve ben $app_name$'in yazarıyım.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Eğer beğenirseniz, lütfen buradan değerlendirin:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Eğer beğenmediysen, neden e-postamın nedenini bildirin. Aldığım özellik taleplerinin çoğunu uyguluyorum.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Lütfen işimi desteklemeyi düşünün",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN kullanarak banka havalesi:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "bağış (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "benim patronum olmak",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Teşekkür ederim!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "ev:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "İletişim:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Sorunları bildir:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Sadece İngilizce / Slovak'ta cevap verebilirim",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sosyal medya:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Değişiklikleri kaydet ve kapat",
+    "common": true
+  },
+  "o_saved": {
+    "message": "kazandı!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Eşleşen sonuç yok",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Veri yok",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Karanlık mod",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Sistem tarafından kontrol edilir",
+    "common": true
+  },
+  "used_space": {
+    "message": "Kullanılmış alan: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Yeni sekmede aç",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Addon anahtarı açma / kapama",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon devre dışı",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Neden?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Gizlilik Politikası",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Son Eklenen Özellikler:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Etiketler:",
+    "common": true
+  }
+}

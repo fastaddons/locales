@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "時々ページがまったく設計されていないだけで、探している情報は十分に見えません。"
+  },
+  "_description_ah_use_cases_0": {
+    "message": "一般的なユースケース："
+  },
+  "_description_ah_use_cases_1": {
+    "message": "メタデータのハイライト："
+  },
+  "_description_ah_use_cases_2": {
+    "message": "「送料無料」:)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Web上で特定のものを探していますか？ 「Temporal Highlight」を使用して、すべてのページに見つけるのに役立ちます。 あなたのブラウザを閉じると、一時的なハイライトが自動的に削除されます。"
+  },
+  "_description_ah_use_cases_4": {
+    "message": "フォントサイズをゼロに設定することによって、またはそれらを透明にすることで、単語を隠すこともできます。"
+  },
+  "_description_tags_ah": {
+    "message": "ハイライト、マーク、メタデータ、ムービー、自動、テキスト、同期、選択、検索"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$は自動的に定義されたページ上の定義された単語を強調表示します。"
+  },
+  "match_type": {
+    "message": "マッチタイプ："
+  },
+  "match_type_0": {
+    "message": "ドメインIS"
+  },
+  "match_type_1": {
+    "message": "URL"
+  },
+  "match_type_2": {
+    "message": "URLに含まれています"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "すべてのページ"
+  },
+  "selection_highlight": {
+    "message": "$1を強調表示する"
+  },
+  "selection_temp": {
+    "message": "一時的に$1を強調表示します"
+  },
+  "selection_temp_everywhere": {
+    "message": "$1をどこでも強調表示します"
+  },
+  "page_highlight": {
+    "message": "このページの$app_name$"
+  },
+  "toolbar_click_new_tab": {
+    "message": "常に[新しい]タブで開く -  [ツールバー]アイコンをクリックすると"
+  },
+  "disable_rule": {
+    "message": "無効"
+  },
+  "temporal_rule": {
+    "message": "一時的に"
+  },
+  "each_word": {
+    "message": "各単語"
+  },
+  "rules": {
+    "message": "規則"
+  },
+  "delete": {
+    "message": "削除する"
+  },
+  "rename": {
+    "message": "Ren ren"
+  },
+  "duplicate": {
+    "message": "重複して"
+  },
+  "delete_rule": {
+    "message": "ルールを削除します"
+  },
+  "delete_rule_title": {
+    "message": "ルール \"$1\"を削除しますか？"
+  },
+  "on_pages": {
+    "message": "ページで："
+  },
+  "disabled_rule": {
+    "message": "無効なルール"
+  },
+  "incomplete_rule": {
+    "message": "不完全な規則"
+  },
+  "active_on_current_page": {
+    "message": "現在のページでアクティブです"
+  },
+  "temporal_rule_helper": {
+    "message": "時間規則 - ブラウザの再起動後に削除されます"
+  },
+  "active_on_pages": {
+    "message": "ページでアクティブ："
+  },
+  "highlight_each_word_separately": {
+    "message": "各単語を別々にハイライトします"
+  },
+  "case_sensitive": {
+    "message": "大文字と小文字を区別"
+  },
+  "ignore_diacritics": {
+    "message": "Diacriticsを無視してください"
+  },
+  "reg_exp": {
+    "message": "正規XP"
+  },
+  "regular_expression": {
+    "message": "正規表現"
+  },
+  "across_elements": {
+    "message": "要素を越えて"
+  },
+  "across_elements_help": {
+    "message": "隣接HTML要素間でテキストを検索します"
+  },
+  "style": {
+    "message": "スタイル"
+  },
+  "preview": {
+    "message": "プレビュー："
+  },
+  "empty_rule": {
+    "message": "空のルール"
+  },
+  "create_new_rule": {
+    "message": "新しいルールを作成します"
+  },
+  "import_export": {
+    "message": "インポート・エクスポート"
+  },
+  "help_this_project": {
+    "message": "このプロジェクトを支援します"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "よくある質問："
+  },
+  "storage_info": {
+    "message": "ストレージ情報："
+  },
+  "storage_safari_1": {
+    "message": "Safariは現在自動データ同期をサポートしていません。"
+  },
+  "storage_safari_2": {
+    "message": "ハイライトルールを転送（またはバックアップ）するには、「インポート/エクスポート」機能を使用します。"
+  },
+  "storage_info_1": {
+    "message": "すべてのデバイス間でルールを同期するSecure $1同期を使用して、ルールは保存されます（同じアカウントにログインしている場合）。"
+  },
+  "storage_info_2": {
+    "message": "このクラウドストレージは、100 KBのデータと最大500のハイライトルールを格納できます。"
+  },
+  "storage_info_3": {
+    "message": "「インポート/エクスポート」機能を使用して、ルールをファイルにエクスポート（バックアップ）してから他のデバイスにインポートすることもできます。"
+  },
+  "replace_existing_highlight_rules": {
+    "message": "既存のハイライト規則を置き換えます"
+  },
+  "add_page_to_highlight_on": {
+    "message": "オンにハイライトするページを追加する"
+  },
+  "remove_highlight_from_page": {
+    "message": "ページからのハイライトを削除します"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "イタリック"
+  },
+  "underline": {
+    "message": "下線を引く"
+  },
+  "background_color": {
+    "message": "背景色"
+  },
+  "background": {
+    "message": "バックグラウンド"
+  },
+  "text_color": {
+    "message": "テキストの色"
+  },
+  "color": {
+    "message": "色"
+  },
+  "font_size": {
+    "message": "フォントサイズ"
+  },
+  "rule_name": {
+    "message": "ルール名"
+  },
+  "highlight_regular_expression": {
+    "message": "正規表現を強調表示します。"
+  },
+  "highlight_text": {
+    "message": "テキストを強調表示します。"
+  },
+  "highlight_on_pages": {
+    "message": "ページでのハイライト"
+  },
+  "empty_name_helper": {
+    "message": "名前として「強調表示されたテキスト」を使用するには空のままにしてください"
+  },
+  "faq_1": {
+    "message": "現在のページで単語を素早く強調表示する方法"
+  },
+  "faq_1a": {
+    "message": "コンテキストメニューを使用 - テキスト/右クリック/「自動ハイライト」を選択します。 ページを右クリックすると（テキストを選択せずに）現在のページに既存のルールを適用できます。"
+  },
+  "faq_2": {
+    "message": "複数の単語を強調表示したいのですが、個別に各単語に新しいルールを作成する必要がありますか？"
+  },
+  "faq_2a": {
+    "message": "いいえ、「各word」チェックボックスをチェックしてください。 それから各単語は別々に強調表示されます。"
+  },
+  "faq_3": {
+    "message": "その「RegExp」とは何ですか？"
+  },
+  "faq_3a": {
+    "message": "正規表現とも呼ばれ、検索パターンを定義する一連の文字です。 それはいくつかの類似したパターンを持つ要素の複雑な強調表示を可能にする複雑な構成です。 例：価格、日付、電話番号など..."
+  },
+  "faq_4": {
+    "message": "いくつかの正規表現の例を見せてもらえますか？"
+  },
+  "faq_4a": {
+    "message": "$1のようなすべての価格を強調表示します"
+  },
+  "faq_5": {
+    "message": "あなたはそれらを説明してもらえますか？"
+  },
+  "faq_5a": {
+    "message": "\"$1$\"はドル記号を強調しています。 ドルは正規表現で特別な意味を持つため、ここではバックスラッシュが必要です。"
+  },
+  "faq_5b": {
+    "message": "\"$1$\"は単一桁を強調表示します"
+  },
+  "faq_5c": {
+    "message": "\"$1$\"は1回以上繰り返すことを意味します。 Digit Selector $2$の後に配置されると、1桁以上を意味します。"
+  },
+  "faq_5d": {
+    "message": "\"$1$\"はドットをハイライトします。 ドットシンボルだけでは、RegExpの単一文字を意味するため、バックスラッシュが必要です。"
+  },
+  "faq_5e": {
+    "message": "\"$1$\"はゼロまたは1回を意味します。 括弧$2$の後に置かれたとき、それはそれらの括弧内にあるものがオプションであることを意味します（そこにあることができます）。 オプションの数の小数点以下の部分に使用します。"
+  },
+  "faq_5f": {
+    "message": "RegExp Rulesについての詳細"
+  },
+  "import_finished": {
+    "message": "輸入完成！",
+    "common": true
+  },
+  "import_error": {
+    "message": "エラー",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "バックアップファイルの$1をインポートします",
+    "common": true
+  },
+  "homepage": {
+    "message": "ホームページ",
+    "common": true
+  },
+  "addon_page": {
+    "message": "アドオンページ",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefoxアドオン",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbirdアドオン",
+    "common": true
+  },
+  "menu_options": {
+    "message": "オプション",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "フォントサイズ",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "サイドバーサイズ",
+    "common": true
+  },
+  "label_next": {
+    "message": "次",
+    "common": true
+  },
+  "label_note": {
+    "message": "注意：",
+    "common": true
+  },
+  "label_remove": {
+    "message": "削除する",
+    "common": true
+  },
+  "label_warning": {
+    "message": "警告：",
+    "common": true
+  },
+  "label_options": {
+    "message": "オプション：",
+    "common": true
+  },
+  "label_default": {
+    "message": "デフォルト：",
+    "common": true
+  },
+  "label_done": {
+    "message": "Done！",
+    "common": true
+  },
+  "label_copied": {
+    "message": "コピーしました！",
+    "common": true
+  },
+  "label_custom": {
+    "message": "カスタム：",
+    "common": true
+  },
+  "label_close": {
+    "message": "閉じる",
+    "common": true
+  },
+  "label_installed": {
+    "message": "インストール",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "ページを開く",
+    "common": true
+  },
+  "label_agree": {
+    "message": "賛成",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "キャンセル",
+    "common": true
+  },
+  "label_save": {
+    "message": "セーブ",
+    "common": true
+  },
+  "label_required": {
+    "message": "必須",
+    "common": true
+  },
+  "label_sending": {
+    "message": "送信...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "規模：",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "ズーム：",
+    "common": true
+  },
+  "label_size": {
+    "message": "サイズ：",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "近日公開",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "変更内容を保存",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "変更を破棄",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "メニュー",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "ホームページを訪問してください",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "このプロジェクトを支援します",
+    "common": true
+  },
+  "support_developer": {
+    "message": "独立開発者をサポート！",
+    "common": true
+  },
+  "hello_there": {
+    "message": "こんにちは！",
+    "common": true
+  },
+  "about_me": {
+    "message": "私は2016年からアドオン開発者です。私の目標はあなたのWebブラウザのための強力な拡張を構築してあなたをより生産的にすることです。",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "あなたが私が良い仕事をしていると思うならば、寄付してください:)",
+    "common": true
+  },
+  "about_income": {
+    "message": "あなたの寄付は私の唯一の収入です！",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "私の仕事を支えてくれてありがとう！",
+    "common": true
+  },
+  "op_help": {
+    "message": "助けて",
+    "common": true
+  },
+  "o_title": {
+    "message": "オプション -  $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "バックアップ",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "新しいバックアップを作成します",
+    "common": true
+  },
+  "save_settings": {
+    "message": "設定を保存する",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "データをファイルにエクスポートするには、このウィンドウを新しいタブで再度開きます。",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "右クリック/「リンクされたファイルをダウンロード」",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "一般",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "バックグラウンド",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "コンテキストメニュー",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "サムネイル",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "ショートカット",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "インポート/バックアップ",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "設定",
+    "common": true
+  },
+  "o_theme": {
+    "message": "テーマ：",
+    "common": true
+  },
+  "o_general": {
+    "message": "一般：",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "無効",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "有効",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "ピクセル",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "秒数",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "コンテキストメニュー：",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "コンテキストメニューを無効にする：$1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "ファイルへのバックアップ/復元設定：",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "インポート",
+    "common": true
+  },
+  "title_import": {
+    "message": "インポート",
+    "common": true
+  },
+  "title_export": {
+    "message": "書き出す",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "エクスポートバックアップ",
+    "common": true
+  },
+  "label_or": {
+    "message": "または",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "こんにちは ：）",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "私の名前は$1$であり、私は$app_name$の作者です。",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "あなたがそれが好きなら、ここでそれを評価してください：",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "あなたがそれを好きではないならば、私に電子メールになぜ私に知らせてください。 私は私が受け取ることのほとんどの機能要求を実装しています。",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "私の仕事を支援することを検討してください",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "IBANを使用した銀行振込：",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "寄付（Paypal）",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "私の父親になる",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "ありがとうございました！",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "ホーム：",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "連絡先：",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "問題の報告：",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "私は英語/スロバックでのみ返信できます",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "ソーシャルメディア：",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "変更を保存して閉じる",
+    "common": true
+  },
+  "o_saved": {
+    "message": "節約！",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "マッチング結果はありません",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "データなし",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "暗いモード",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "システムによって制御されます",
+    "common": true
+  },
+  "used_space": {
+    "message": "中古スペース：$1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "新しいタブで開きます",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "アドオンをオン/オフに切り替えます",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "アドオンは無効です",
+    "common": true
+  },
+  "_description_why": {
+    "message": "どうして？",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "個人情報保護方針",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "最近追加された機能：",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "タグ：",
+    "common": true
+  }
+}

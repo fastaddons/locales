@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "päivämäärä, IMDB, Kuvaus, Episodi, mittari, Graph, IMDB, Info, Meter, Elokuva, elokuva, elokuvat, Netflix, IMDB, Rating, Series, Sarja, TV, TV Show, Video, Visual, äänet, Kausi"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "elokuva ei löydy / väärä elokuva löytyi - koska ei ole \"virallista\" integraatiota kohde-sivuilla, en voi taata 100% oikeat tulokset (mutta useimmissa tapauksissa se toimii täydellisesti)"
+  },
+  "_description_mm_not_working": {
+    "message": "Ei toimi suosikki elokuvasivun?"
+  },
+  "_description_mm_add_support": {
+    "message": "Ota yhteyttä minuun ja aion lisätä sen - jos mahdollista (sivulla on oltava elokuvan nimi englanniksi tai $visit_imdb$ linkki)."
+  },
+  "_description_mm_feature_1": {
+    "message": "elokuvan luokitus ja suosio $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "seuraava / edellinen episodin päivämäärä $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "muita elokuvia / TV-sarjan tietoja"
+  },
+  "_description_mm_feature_4": {
+    "message": "ilmoitus uudesta jaksosta"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark TV-sarja suosikiksi ja saat ilmoituksen, kun uusi episodi on saatavilla"
+  },
+  "_description_mm_feature_7": {
+    "message": "automaattinen piilota, kun videon toisto havaitaan"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ näyttää sinulle luokituksen ja elokuvan (tai TV-sarjan) suosion"
+  },
+  "name": {
+    "message": "Nimi"
+  },
+  "year": {
+    "message": "Vuosi"
+  },
+  "video_type": {
+    "message": "Tyyppi"
+  },
+  "video_type_0": {
+    "message": "Elokuva"
+  },
+  "video_type_1": {
+    "message": "Sarja"
+  },
+  "video_type_2": {
+    "message": "Episodi"
+  },
+  "runtime": {
+    "message": "Ajoaika"
+  },
+  "premiered": {
+    "message": "Ensi-ilta"
+  },
+  "premiere_in": {
+    "message": "Ensi-ilta"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Maa"
+  },
+  "actors": {
+    "message": "Toimijat"
+  },
+  "dvd": {
+    "message": "DVD"
+  },
+  "director": {
+    "message": "Johtaja"
+  },
+  "totalseasons": {
+    "message": "Yhteensä vuodenaikaa"
+  },
+  "writer": {
+    "message": "Kirjailija"
+  },
+  "language": {
+    "message": "Kieli"
+  },
+  "awards": {
+    "message": "Palkinnot"
+  },
+  "rated": {
+    "message": "Luokiteltu"
+  },
+  "production": {
+    "message": "Tuotanto"
+  },
+  "plot": {
+    "message": "Tontti"
+  },
+  "website": {
+    "message": "Verkkosivusto"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Käy $visit_imdb$ sivulla"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Käy sivulle $visit_tvmaze$ sivulla"
+  },
+  "make_favorite": {
+    "message": "Suosikki"
+  },
+  "make_favorite_title": {
+    "message": "Lisää TV-sarja suosikkeihin. Näin voit saada ilmoituksen uusista jaksoista."
+  },
+  "last_episode": {
+    "message": "Kestää"
+  },
+  "next_episode": {
+    "message": "Seuraava"
+  },
+  "last_episode_title": {
+    "message": "Viimeinen jakso"
+  },
+  "next_episode_title": {
+    "message": "Seuraava episodi"
+  },
+  "episode_airtime": {
+    "message": "Lähetysaikaa"
+  },
+  "episode_name": {
+    "message": "Nimi"
+  },
+  "series_status": {
+    "message": "Tila"
+  },
+  "episodes_count": {
+    "message": "Episodit"
+  },
+  "episodes_count_title": {
+    "message": "Nykyinen kausi $1 on $2 jaksot"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "päivät"
+  },
+  "hours": {
+    "message": "tunteja"
+  },
+  "na": {
+    "message": "Ei saatavilla"
+  },
+  "user_rating": {
+    "message": "Käyttäjän luokitus: $1"
+  },
+  "user_popularity": {
+    "message": "Suosio: $1 ääntä"
+  },
+  "source": {
+    "message": "Lähde: $1"
+  },
+  "show_details": {
+    "message": "lisää..."
+  },
+  "hide_details": {
+    "message": "vähemmän..."
+  },
+  "save_position": {
+    "message": "Tallenna sijainti"
+  },
+  "revert_position": {
+    "message": "Palauta sijainti"
+  },
+  "win_disable": {
+    "message": "Poista käytöstä $1"
+  },
+  "cm_advanced": {
+    "message": "Pitkälle kehittynyt"
+  },
+  "op_visit_home": {
+    "message": "Käy kotisivulla"
+  },
+  "op_support_me": {
+    "message": "Auta tätä hanketta"
+  },
+  "hide": {
+    "message": "Piilota ikkuna"
+  },
+  "show": {
+    "message": "Näytä ikkuna"
+  },
+  "reset_position": {
+    "message": "Palauta sijainti"
+  },
+  "search": {
+    "message": "Hae"
+  },
+  "configure_search": {
+    "message": "Määritä hakuvaihtoehdot"
+  },
+  "selection_search": {
+    "message": "Haku $1"
+  },
+  "menu_options": {
+    "message": "Vaihtoehdot"
+  },
+  "menu_quick_options": {
+    "message": "Nopeat vaihtoehdot"
+  },
+  "menu_visit_homepage": {
+    "message": "Käy kotisivulla"
+  },
+  "menu_request_support": {
+    "message": "Pyydä tukea $1"
+  },
+  "show_introduction": {
+    "message": "Näytä esittelysivu"
+  },
+  "o_about_issues": {
+    "message": "Ilmoita:"
+  },
+  "safari_store": {
+    "message": "Mac App Storesta"
+  },
+  "firefox_store": {
+    "message": "Firefoxin lisäosat"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store"
+  },
+  "movie_not_detected": {
+    "message": "Elokuva ei havaita"
+  },
+  "movie_not_detected_title": {
+    "message": "Tällä sivulla ei havaittu elokuvaa / TV-sarjaa."
+  },
+  "movie_not_found": {
+    "message": "Elokuva ei löydy"
+  },
+  "movie_not_found_title": {
+    "message": "Elokuvan tietoja ei löytynyt palvelimelta."
+  },
+  "status_type_0": {
+    "message": "Käynnissä oleva"
+  },
+  "status_type_1": {
+    "message": "Päättynyt"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Näytä jatkuu"
+  },
+  "status_type_title_1": {
+    "message": "Show on päättynyt - ei ole enää kaujoja"
+  },
+  "status_type_title_2": {
+    "message": "Osoittaa, että tulevaisuus on epäselvä"
+  },
+  "notify_movie_not_found": {
+    "message": "Elokuva ei löydy: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Käytä vain englanninkielistä elokuvan nimeä!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Haku ei ole täydellinen ..."
+  },
+  "notify_video_hide": {
+    "message": "Video havaittu - $app_name$ on nyt piilossa"
+  },
+  "notify_video_hide_body": {
+    "message": "Klikkaa tästä Älä näytä tätä ilmoitusta uudelleen"
+  },
+  "notify_new_episodes": {
+    "message": "Uusi episodi ilmestyi"
+  },
+  "title_introduction": {
+    "message": "Johdanto"
+  },
+  "supported_pages": {
+    "message": "Tuetut sivut:"
+  },
+  "supported_grows": {
+    "message": "(Tämä luettelo kasvaa suuremmaksi ja suuremmaksi)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Luokitukset ja suosiotiedot ovat $1$. Tietoja jaksot ovat peräisin $2$."
+  },
+  "title_got_it": {
+    "message": "Sain sen, aloitetaan!"
+  },
+  "_description_privacy_policy": {
+    "message": "Tietosuojakäytäntö"
+  },
+  "_description_recent_features": {
+    "message": "Äskettäin lisätyt ominaisuudet:"
+  },
+  "_description_known_issues": {
+    "message": "Tunnetut ongelmat:"
+  },
+  "_description_common_tags": {
+    "message": "Tunnisteet:"
+  },
+  "_description_features": {
+    "message": "Ominaisuudet:"
+  },
+  "about_me": {
+    "message": "Olen ADDON Kehittäjä vuodesta 2016. Tavoitteenani on rakentaa voimakkaita laajennuksia web-selaimellesi, jotta sinusta tulee tuottavampi."
+  },
+  "about_good_job": {
+    "message": "Jos luulet, että teen hyvää työtä, lahjoita :)"
+  },
+  "about_income": {
+    "message": "Lahjoituksesi on ainoa tuloni!"
+  },
+  "about_thanks": {
+    "message": "Kiitos, että tukenut työni!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Pankkisiirto IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Tuki riippumaton kehittäjä!"
+  }
+}

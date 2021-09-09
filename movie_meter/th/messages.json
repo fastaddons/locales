@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "วันที่, IMDB, คำอธิบาย, ตอน, วัด, กราฟ, IMDB, ข้อมูล, มิเตอร์, ภาพยนตร์, ภาพยนตร์, ภาพยนตร์, Netflix, IMDB, การจัดอันดับ, การแสดง, ทีวี, รายการทีวี, วิดีโอ, ภาพ, โหวต, ฤดู"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "ไม่พบภาพยนตร์ / พบภาพยนตร์ที่ไม่ถูกต้อง - เนื่องจากไม่มีการรวม \"อย่างเป็นทางการ\" กับหน้าเป้าหมายฉันไม่สามารถรับประกันผลลัพธ์ที่ถูกต้อง 100% (แต่ในกรณีส่วนใหญ่มันทำงานได้อย่างสมบูรณ์แบบ)"
+  },
+  "_description_mm_not_working": {
+    "message": "ไม่ทำงานในหน้าภาพยนตร์ที่คุณชื่นชอบ?"
+  },
+  "_description_mm_add_support": {
+    "message": "ติดต่อฉันและฉันจะเพิ่ม - ถ้าเป็นไปได้ (หน้าต้องมีชื่อภาพยนตร์เป็นภาษาอังกฤษหรือ #$visit_imdb$ ลิงก์)"
+  },
+  "_description_mm_feature_1": {
+    "message": "การจัดอันดับภาพยนตร์และความนิยมจาก $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "วันถัดไป / ก่อนหน้าวันที่จาก $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "ข้อมูลภาพยนตร์ / ทีวีเพิ่มเติมเพิ่มเติม"
+  },
+  "_description_mm_feature_4": {
+    "message": "การแจ้งเตือนเกี่ยวกับตอนใหม่"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark TV Series เป็นที่ชื่นชอบและคุณจะได้รับการแจ้งเตือนเมื่อมีตอนใหม่"
+  },
+  "_description_mm_feature_7": {
+    "message": "ซ่อนอัตโนมัติเมื่อตรวจพบการเล่นวิดีโอ"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ จะแสดงการให้คะแนนและความนิยมของภาพยนตร์ (หรือละครโทรทัศน์)"
+  },
+  "name": {
+    "message": "ชื่อ"
+  },
+  "year": {
+    "message": "ปี"
+  },
+  "video_type": {
+    "message": "ประเภท"
+  },
+  "video_type_0": {
+    "message": "ภาพยนตร์"
+  },
+  "video_type_1": {
+    "message": "ชุด"
+  },
+  "video_type_2": {
+    "message": "ตอน"
+  },
+  "runtime": {
+    "message": "รันไทม์"
+  },
+  "premiered": {
+    "message": "รอบปฐมทัศน์"
+  },
+  "premiere_in": {
+    "message": "รอบปฐมทัศน์ใน"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "ประเทศ"
+  },
+  "actors": {
+    "message": "นักแสดง"
+  },
+  "dvd": {
+    "message": "ดีวีดี"
+  },
+  "director": {
+    "message": "ผู้อำนวยการ"
+  },
+  "totalseasons": {
+    "message": "ฤดูกาลทั้งหมด"
+  },
+  "writer": {
+    "message": "นักเขียน"
+  },
+  "language": {
+    "message": "ภาษา"
+  },
+  "awards": {
+    "message": "รางวัล"
+  },
+  "rated": {
+    "message": "ที่ได้จัดอันดับ"
+  },
+  "production": {
+    "message": "การผลิต"
+  },
+  "plot": {
+    "message": "พล็อต"
+  },
+  "website": {
+    "message": "เว็บไซต์"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "เยี่ยมชม $visit_imdb$ หน้า"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "เยี่ยมชม $visit_tvmaze$ หน้าสำหรับการแสดงนี้"
+  },
+  "make_favorite": {
+    "message": "ที่ชื่นชอบ"
+  },
+  "make_favorite_title": {
+    "message": "เพิ่มซีรีส์ทีวีให้กับรายการโปรด สิ่งนี้จะช่วยให้คุณได้รับการแจ้งเตือนเกี่ยวกับตอนใหม่"
+  },
+  "last_episode": {
+    "message": "ล่าสุด"
+  },
+  "next_episode": {
+    "message": "ต่อไป"
+  },
+  "last_episode_title": {
+    "message": "ตอนสุดท้าย"
+  },
+  "next_episode_title": {
+    "message": "ตอนต่อไป"
+  },
+  "episode_airtime": {
+    "message": "เวลาออกอากาศ"
+  },
+  "episode_name": {
+    "message": "ชื่อ"
+  },
+  "series_status": {
+    "message": "สถานะ"
+  },
+  "episodes_count": {
+    "message": "ตอน"
+  },
+  "episodes_count_title": {
+    "message": "ซีซั่นปัจจุบัน $1 มี $2 ตอน"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "วัน"
+  },
+  "hours": {
+    "message": "ชั่วโมง"
+  },
+  "na": {
+    "message": "ไม่ว่าง"
+  },
+  "user_rating": {
+    "message": "คะแนนของผู้ใช้: $1"
+  },
+  "user_popularity": {
+    "message": "ความนิยม: $1 โหวต"
+  },
+  "source": {
+    "message": "ที่มา: $1"
+  },
+  "show_details": {
+    "message": "มากกว่า..."
+  },
+  "hide_details": {
+    "message": "น้อยลง ..."
+  },
+  "save_position": {
+    "message": "บันทึกตำแหน่ง"
+  },
+  "revert_position": {
+    "message": "ย้อนกลับตำแหน่ง"
+  },
+  "win_disable": {
+    "message": "ปิดใช้งานใน $1"
+  },
+  "cm_advanced": {
+    "message": "ขั้นสูง"
+  },
+  "op_visit_home": {
+    "message": "เยี่ยมชมโฮมเพจ"
+  },
+  "op_support_me": {
+    "message": "ช่วยโครงการนี้"
+  },
+  "hide": {
+    "message": "ซ่อนหน้าต่าง"
+  },
+  "show": {
+    "message": "แสดงหน้าต่าง"
+  },
+  "reset_position": {
+    "message": "รีเซ็ตตำแหน่ง"
+  },
+  "search": {
+    "message": "ค้นหา"
+  },
+  "configure_search": {
+    "message": "กำหนดค่าตัวเลือกการค้นหา"
+  },
+  "selection_search": {
+    "message": "ค้นหา $1"
+  },
+  "menu_options": {
+    "message": "ตัวเลือก"
+  },
+  "menu_quick_options": {
+    "message": "ตัวเลือกด่วน"
+  },
+  "menu_visit_homepage": {
+    "message": "เยี่ยมชมโฮมเพจ"
+  },
+  "menu_request_support": {
+    "message": "ขอรองรับ $1"
+  },
+  "show_introduction": {
+    "message": "แสดงหน้าแนะนำ"
+  },
+  "o_about_issues": {
+    "message": "ปัญหารายงาน:"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store"
+  },
+  "movie_not_detected": {
+    "message": "ไม่พบภาพยนตร์"
+  },
+  "movie_not_detected_title": {
+    "message": "ไม่มีการตรวจพบภาพยนตร์ / ทีวีในหน้านี้"
+  },
+  "movie_not_found": {
+    "message": "ไม่พบภาพยนตร์"
+  },
+  "movie_not_found_title": {
+    "message": "ไม่พบข้อมูลภาพยนตร์บนเซิร์ฟเวอร์"
+  },
+  "status_type_0": {
+    "message": "วิ่ง"
+  },
+  "status_type_1": {
+    "message": "สิ้นสุดแล้ว"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "การแสดงจะดำเนินต่อไป"
+  },
+  "status_type_title_1": {
+    "message": "การแสดงสิ้นสุดลงแล้ว - ไม่มีการวางแผนอีกต่อไป"
+  },
+  "status_type_title_2": {
+    "message": "แสดงให้เห็นในอนาคตไม่ชัดเจน"
+  },
+  "notify_movie_not_found": {
+    "message": "ไม่พบภาพยนตร์: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "ใช้ชื่อภาพยนตร์ภาษาอังกฤษเท่านั้น!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "การค้นหาไม่สมบูรณ์แบบ ..."
+  },
+  "notify_video_hide": {
+    "message": "ตรวจพบวิดีโอ - $app_name$ ตอนนี้ซ่อนอยู่แล้ว"
+  },
+  "notify_video_hide_body": {
+    "message": "คลิกที่นี่เพื่อไม่แสดงการแจ้งเตือนนี้อีกครั้ง"
+  },
+  "notify_new_episodes": {
+    "message": "ตอนใหม่ถูกออกอากาศ"
+  },
+  "title_introduction": {
+    "message": "บทนำ"
+  },
+  "supported_pages": {
+    "message": "หน้าเว็บที่รองรับ:"
+  },
+  "supported_grows": {
+    "message": "(รายการนี้เติบโตขึ้นและใหญ่ขึ้น)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "การให้คะแนนและข้อมูลความนิยมมาจาก $1$ ข้อมูลเกี่ยวกับตอนมาจาก $2$"
+  },
+  "title_got_it": {
+    "message": "ได้รับมันเริ่มกันเถอะ!"
+  },
+  "_description_privacy_policy": {
+    "message": "นโยบายความเป็นส่วนตัว"
+  },
+  "_description_recent_features": {
+    "message": "คุณสมบัติที่เพิ่มล่าสุด:"
+  },
+  "_description_known_issues": {
+    "message": "ปัญหาที่ทราบ:"
+  },
+  "_description_common_tags": {
+    "message": "Tags:"
+  },
+  "_description_features": {
+    "message": "คุณสมบัติ:"
+  },
+  "about_me": {
+    "message": "ฉันพัฒนา Addon ตั้งแต่ปี 2559 เป้าหมายของฉันคือการสร้างส่วนขยายที่ทรงพลังสำหรับเว็บเบราว์เซอร์ของคุณเพื่อให้คุณมีประสิทธิผลมากขึ้น"
+  },
+  "about_good_job": {
+    "message": "ถ้าคุณคิดว่าฉันทำงานได้ดีโปรดบริจาค :)"
+  },
+  "about_income": {
+    "message": "การบริจาคของคุณเป็นรายได้เดียวของฉัน!"
+  },
+  "about_thanks": {
+    "message": "ขอบคุณสำหรับการสนับสนุนงานของฉัน!"
+  },
+  "o_about_support_by_iban": {
+    "message": "โอนเงินผ่านธนาคารโดยใช้ IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "สนับสนุนนักพัฒนาอิสระ!"
+  }
+}

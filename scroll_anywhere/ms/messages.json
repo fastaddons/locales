@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "di mana-mana, butang, kursor, seret, merebut, merebut seret, merebut dan menyeret, tak terhingga, kiri, tengah, momentum, tetikus, bergerak, halaman, kanan, tatal, halaman skrol, scrollbar, menatal, membuang"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Seret scrollbar dengan butang tetikus tengah anda di mana sahaja di halaman. Menyokong juga \"merebut dan menyeret\" gaya."
+  },
+  "field_int_default_value": {
+    "message": "Nilai lalai: $1, MIN: $2, MAX: $3"
+  },
+  "field_set_default": {
+    "message": "Tetapkan semula ke Lalai: $1"
+  },
+  "thunderbird_store": {
+    "message": "Tambah thunderbird"
+  },
+  "firefox_store": {
+    "message": "Add-on Firefox"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store."
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "win_disable": {
+    "message": "Lumpuhkan pada $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Lumpuhkan menatal mendatar pada $1"
+  },
+  "op_visit_home": {
+    "message": "Lawati Homepage."
+  },
+  "op_support_me": {
+    "message": "Bantu projek ini"
+  },
+  "o_title": {
+    "message": "Pilihan - $1."
+  },
+  "o_tab_general": {
+    "message": "Am"
+  },
+  "o_tab_momentum": {
+    "message": "Momentum."
+  },
+  "o_tab_cursor": {
+    "message": "Kursor"
+  },
+  "o_axis_locking": {
+    "message": "Axis mengunci"
+  },
+  "o_tab_performance": {
+    "message": "Prestasi"
+  },
+  "o_tab_disabled_on": {
+    "message": "Dilumpuhkan pada."
+  },
+  "o_tab_advanced": {
+    "message": "Maju"
+  },
+  "o_tab_scrollbars": {
+    "message": "Scrollbars."
+  },
+  "o_tab_backup": {
+    "message": "Import / sandaran"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Apabila menatal kotak yang boleh ditatal dalam satu paksi tetapi kotak induk boleh ditatal dalam paksi lain, kunci menatal ke satu paksi menggunakan:"
+  },
+  "o_axis_lock_0": {
+    "message": "Kunci Pintar - Kunci Temporal Menggunakan Momentum"
+  },
+  "o_axis_lock_1": {
+    "message": "Kunci ketat - kunci arah segera"
+  },
+  "o_axis_lock_2": {
+    "message": "Tiada kunci - menatal percuma di kedua paksi"
+  },
+  "o_trend_momentum_window": {
+    "message": "Saiz Stack Smart Lock"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Nilai yang lebih besar akan memerlukan lebih banyak menatal dalam paksi bertentangan untuk menukar paksi menatal."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon dilumpuhkan! Klik di sini untuk mendayakan."
+  },
+  "o_cursor_change_default": {
+    "message": "tiada perubahan - prestasi terbaik"
+  },
+  "o_scroll_button": {
+    "message": "Butang tatal:"
+  },
+  "o_direction_speed": {
+    "message": "Gaya skrol / Arah / Kelajuan:"
+  },
+  "o_multiplier": {
+    "message": "Multiplier."
+  },
+  "o_times_speed": {
+    "message": "times Scroll Speed."
+  },
+  "o_maximum_speed": {
+    "message": "Kelajuan tatal maksimum (0 - dilumpuhkan):"
+  },
+  "o_ratio_unit": {
+    "message": "nisbah (panjang halaman / saiz tetingkap)"
+  },
+  "o_scroll_type_0": {
+    "message": "Meniru scrollbar."
+  },
+  "o_scroll_type_1": {
+    "message": "Ambil dan seret - seperti pada telefon pintar"
+  },
+  "o_scroll_type_2": {
+    "message": "Kelajuan dinamik (eksperimen)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Ia seperti menyeret scrollbar"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Ia seperti menyeret halaman dengan jari anda pada skrin telefon"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Kelajuan dinamik menjadikan kelajuan skrol lebih perlahan apabila halaman lebih lama"
+  },
+  "o_disable_key": {
+    "message": "Lumpuhkan / Membolehkan menatal apabila kunci turun:"
+  },
+  "o_momentum_category": {
+    "message": "Momentum:"
+  },
+  "o_momentum_formula": {
+    "message": "Formula Momentum:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Pergerakan seragam yang berkurang"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Skrol halaman akan menjadi seragam perlahan sehingga ia berhenti"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Pergerakan yang decelerated secara eksponen"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Skrol halaman akan dengan cepat (secara eksponen) perlahan"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Pergerakan tak terhingga ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Scrolling tidak akan berhenti"
+  },
+  "o_momentum_max_speed": {
+    "message": "Kelajuan maksimum (0 - dilumpuhkan):"
+  },
+  "o_page_weight": {
+    "message": "Berat Page:"
+  },
+  "o_grams": {
+    "message": "gram :)"
+  },
+  "o_additional_speed": {
+    "message": "Kelajuan tambahan:"
+  },
+  "o_pixels_second": {
+    "message": "piksel setiap saat"
+  },
+  "o_additional_duration": {
+    "message": "Tempoh tambahan:"
+  },
+  "o_advanced_momentum": {
+    "message": "Persediaan momentum lanjutan (untuk pakar sahaja!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Menukar nilai-nilai ini boleh memecahkan momentum anda!"
+  },
+  "o_compute_from_last": {
+    "message": "Hitung dari lepas:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Pengesanan berhenti tetikus:"
+  },
+  "o_tracking_speed": {
+    "message": "Kelajuan pengesanan:"
+  },
+  "o_reset_values": {
+    "message": "Menetapkan semula nilai-nilai"
+  },
+  "o_cursor_scrolling": {
+    "message": "Kursor yang digunakan semasa menatal:"
+  },
+  "o_performance": {
+    "message": "Prestasi:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Cegah melompat besar"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Jika anda menggunakan alat yang boleh menelefon kursor anda di seluruh skrin (apabila anda mencapai kelebihan), aktifkan pilihan ini untuk membolehkan menatal berterusan (tak terhingga)."
+  },
+  "o_advanced": {
+    "message": "Advanced:"
+  },
+  "o_movement_detection": {
+    "message": "Ambang Pengesanan Pergerakan Mouse:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Berapa banyak piksel yang perlu bergerak tetikus untuk menyekat pautan. Kadang-kadang apabila menekan butang skrol anda bergerak sedikit tetapi anda tidak mahu pautan itu dilumpuhkan kerana itu."
+  },
+  "o_context_menu_block": {
+    "message": "Blok Menu Konteks:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Melambatkan menu menu konteks"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Jika anda melihat menu konteks selepas menatal dengan butang tetikus kanan, tambahkan nilai ini"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Lumpuhkan menatal mendatar pada domain:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Dilumpuhkan di Domain:"
+  },
+  "o_is_disabled_url": {
+    "message": "Dilumpuhkan di halaman / sub-halaman:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Anda boleh menggunakan Star Simbol (*) untuk menentukan bahagian URL, sebagai contoh: \"google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Masukkan satu domain setiap baris."
+  },
+  "o_is_disabled": {
+    "message": "Lumpuhkan add-on"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Gunakan ikon Toolbar sebagai suis ON / OFF utama"
+  },
+  "o_scroll_button_middle": {
+    "message": "Button tengah."
+  },
+  "o_scroll_button_right": {
+    "message": "Butang kanan"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Pengguna Linux / Mac - anda akan diminta untuk kebenaran baru \"Baca dan ubah suai tetapan penyemak imbas\" - ini diperlukan untuk menyekat menu konteks yang ditunjukkan sebelum menatal!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Pengguna Linux / Mac - Menu konteks anda akan disekat! Untuk membuka menu konteks Hold \"Shift\" kekunci atau butang triple-klik kanan."
+  },
+  "o_scroll_button_left": {
+    "message": "Butang kiri (eksperimen)"
+  },
+  "o_scroll_on_links": {
+    "message": "Tatal ke pautan"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Apabila diaktifkan, anda tidak akan dapat menyeret dan menjatuhkan pautan (hanya dengan menggunakan 'Lumpuhkan' kekunci)"
+  },
+  "o_scroll_on_text": {
+    "message": "Tatal pada teks"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emulates Telefon Menatal / Pengeditan - Anda perlu klik pada teks untuk bertukar kepada \"mod penyuntingan\". Mengklik di luar teks yang membolehkan menatal lagi."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Tatal pada Textarea."
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea adalah blok teks, biasanya resizable. Sebagai contoh pada tab \"Dilumpuhkan pada\" anda boleh melihat Textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Tatal pada HTML yang boleh diedit"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Sebagai contoh, badan e-mel di Gmail adalah html yang boleh diedit."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "pada teks akan membolehkan memilih / mengedit teks."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Klik pada teks akan membolehkan \"Edit Mod\". Klik di luar Teks untuk mendayakan \"Mod Skrol\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Klik tunggal"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Klik dua kali"
+  },
+  "o_scrollbars_width": {
+    "message": "Scrollbars melihat"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normal (tiada perubahan)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Tipis"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Tersembunyi"
+  },
+  "o_scrollbars_color": {
+    "message": "Warna Slider Scrollbar:"
+  },
+  "o_scrollbars_background": {
+    "message": "Warna Latar Belakang Scrollbar:"
+  },
+  "o_reverse": {
+    "message": "Arah skrol terbalik"
+  },
+  "o_disable_alt": {
+    "message": "Alt."
+  },
+  "o_disable_shift": {
+    "message": "Shift."
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl."
+  },
+  "o_disable_type_0": {
+    "message": "Lumpuhkan apabila kunci turun:"
+  },
+  "o_disable_type_1": {
+    "message": "Dayakan Apabila Kunci Turun:"
+  },
+  "o_momentum": {
+    "message": "dayakan momentum - anda boleh \"membuang\" halaman (seperti di telefon)"
+  },
+  "o_no_css_edit": {
+    "message": "Jangan mengunci iframes dan jangan ubah kursor semasa menatal"
+  },
+  "o_no_prevent_default": {
+    "message": "Jangan menghalang tindakan butang lalai"
+  },
+  "o_auto_link_lock": {
+    "message": "Pautan Menyekat:"
+  },
+  "o_no_link_block": {
+    "message": "Jangan menghalang klik tetikus pada pautan selepas pergerakan"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Apabila anda mula menatal pada pautan dan kemudian anda selesai menatal pada pautan yang sama, penyemak imbas akan membuka pautan. Ini biasanya tidak diingini tingkah laku supaya secara lalai ia disekat."
+  },
+  "o_page_weight_title": {
+    "message": "Ini mengawal bagaimana 'berat' halaman itu. Halaman yang lebih berat mempunyai momentum yang lebih lama."
+  },
+  "o_additional_speed_title": {
+    "message": "Anda boleh mempercepatkan momentum yang menyatakan kelajuan."
+  },
+  "o_additional_duration_title": {
+    "message": "Masa tambahan untuk setiap momentum."
+  },
+  "o_compute_from_last_title": {
+    "message": "Kelajuan awal momentum ditentukan oleh kelajuan menatal ke kanan sebelum melepaskan butang skrol."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Berapa banyak masa yang perlu tetap tetikus - sebelum melepaskan butang skrol - untuk tidak mengaktifkan momentum."
+  },
+  "o_tracking_speed_title": {
+    "message": "Selang untuk mengukur kelajuan skrol semasa."
+  },
+  "o_scrolling_area": {
+    "message": "Kawasan menatal:"
+  },
+  "o_outside_area_width": {
+    "message": "Kawasan menatal (0 - dilumpuhkan):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Menggerakkan kursor anda di luar kawasan menatal akan kembali ke kedudukan menatal. Tingkah laku yang sama dapat dilihat apabila menyeret scrollbar."
+  },
+  "o_scroll_button_left_title": {
+    "message": "Amaran - Sokongan butang kiri menggunakan API Firefox yang tidak pernah ditakrifkan yang boleh dikeluarkan dalam versi Firefox yang akan datang."
+  },
+  "o_prevent_text_selection": {
+    "message": "Mencegah pemilihan teks apabila menatal dengan butang kiri"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Pada sesetengah peranti, menatal dengan butang kiri tetikus juga akan memilih teks pada halaman."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Jangan menyekat menu konteks apabila cuba menatal halaman tidak boleh ditatal"
+  },
+  "o_backup_restore": {
+    "message": "Backup / Restore Tetapan ke Fail:"
+  },
+  "o_export_settings": {
+    "message": "Tetapan Eksport ke fail"
+  },
+  "import_settings_button": {
+    "message": "Tetapan import dari $1 Fail ..."
+  },
+  "import_finished": {
+    "message": "Import selesai!"
+  },
+  "test_page_title": {
+    "message": "Uji tetapan menatal anda di sini"
+  },
+  "menu_options": {
+    "message": "Pilihan"
+  },
+  "menu_visit_title": {
+    "message": "Lawati Homepage."
+  },
+  "not_working": {
+    "message": "Dilumpuhkan oleh penyemak imbas web anda"
+  },
+  "disabled_by_user": {
+    "message": "Kurang upaya pada domain ini"
+  },
+  "not_working_title": {
+    "message": "Penyemak imbas anda akan menyekat Scrollany di mana pada jenis halaman ini:"
+  },
+  "not_working_body": {
+    "message": "Untuk mendayakan Scrollany di mana di halaman \"Mozilla.org\", lihat tutorial YouTube ini"
+  },
+  "show_scrollbars": {
+    "message": "Tunjukkan Scrollbars."
+  },
+  "show_scrollbars_title": {
+    "message": "Sementara menunjukkan scrollbars."
+  },
+  "switch_on_off": {
+    "message": "Suis Add-ON OFF / ON"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Jika anda mengalami kelewatan yang ketara antara menekan butang skrol dan mula menatal, cuba untuk membolehkan pilihan ini. Walau bagaimanapun anda tidak akan dapat menatal ke atas \"Iframes\" seperti beberapa video tertanam lama atau beberapa iklan."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Ini juga akan melumpuhkan pilihan untuk menukar kursor semasa menatal."
+  },
+  "o_helper_text_default_action": {
+    "message": "Berguna di Linux untuk membolehkan pes dengan butang tengah."
+  },
+  "o_about_hello": {
+    "message": "Hello :)"
+  },
+  "o_about_intro": {
+    "message": "Nama saya $1$ dan saya pengarang $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Jika anda suka, sila nilaikan di sini:"
+  },
+  "o_about_dislike_it": {
+    "message": "Jika anda tidak menyukainya, sila beritahu saya mengapa ke e-mel saya. Saya melaksanakan kebanyakan permintaan ciri yang saya terima."
+  },
+  "o_disabled": {
+    "message": "dilumpuhkan",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "diaktifkan",
+    "common": true
+  },
+  "o_times": {
+    "message": "kali.",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "piksel.",
+    "common": true
+  },
+  "o_items": {
+    "message": "barangan",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milisaats.",
+    "common": true
+  },
+  "label_working": {
+    "message": "bekerja ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Tutup",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Sila pertimbangkan untuk menyokong kerja saya oleh",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "dONASI (PAYPAL)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "menjadi penaung saya",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Terima kasih!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "rumah:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Hubungi:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Laporkan isu:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Saya boleh membalas hanya dalam bahasa Inggeris / Slovak",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Media Sosial:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Simpan perubahan dan tutup",
+    "common": true
+  },
+  "o_saved": {
+    "message": "disimpan!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Akan datang",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Simpan perubahan",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Dasar Privasi.",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Ciri-ciri yang baru ditambah:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

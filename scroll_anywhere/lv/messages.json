@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "jebkur, poga, kursors, velciet, greifers, greifers velciet, greifers un velciet, bezgalīgs, pa kreisi, vidū, impulss, pele, pārvietošana, lapa, pa labi, ritiniet, ritinātu lapu, ritjoslu, ritinātu, mest"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Velciet ritjoslu ar savu vidējo peles pogu jebkurā vietā lapā. Atbalsta arī \"greifers un velciet\" stilu."
+  },
+  "field_int_default_value": {
+    "message": "Noklusējuma vērtība: $1, min: $2, MAX: $3"
+  },
+  "field_set_default": {
+    "message": "Atjaunot noklusējumu: $1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird add-ons"
+  },
+  "firefox_store": {
+    "message": "Firefox pievienojumprogrammas"
+  },
+  "chrome_store": {
+    "message": "Chrome interneta veikals"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "win_disable": {
+    "message": "Atspējot $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Atspējot horizontālo ritināšanu uz $1"
+  },
+  "op_visit_home": {
+    "message": "Apmeklējiet mājas lapu"
+  },
+  "op_support_me": {
+    "message": "Palīdzēt šim projektam"
+  },
+  "o_title": {
+    "message": "Iespējas - $1"
+  },
+  "o_tab_general": {
+    "message": "Vispārējs"
+  },
+  "o_tab_momentum": {
+    "message": "Impulss"
+  },
+  "o_tab_cursor": {
+    "message": "Kursors"
+  },
+  "o_axis_locking": {
+    "message": "Ass bloķēšana"
+  },
+  "o_tab_performance": {
+    "message": "Veiktspēja"
+  },
+  "o_tab_disabled_on": {
+    "message": "Invalīdi"
+  },
+  "o_tab_advanced": {
+    "message": "Progresīvs"
+  },
+  "o_tab_scrollbars": {
+    "message": "Ritjoslas"
+  },
+  "o_tab_backup": {
+    "message": "Importēt / dublēt"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Ritinot lodziņu, kas ir ritināms vienā ass, bet vecāku kaste ir ritināms citā asī, bloķējiet ritināšanu uz vienu asi, izmantojot:"
+  },
+  "o_axis_lock_0": {
+    "message": "Smart Lock - laika bloķēšana, izmantojot impulsu"
+  },
+  "o_axis_lock_1": {
+    "message": "Stingra atslēga - tūlītēja virziena atslēga"
+  },
+  "o_axis_lock_2": {
+    "message": "Nav bloķēšanas - bezmaksas ritināšana abās asi"
+  },
+  "o_trend_momentum_window": {
+    "message": "Smart Lock Stack izmērs"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Lielāka vērtība prasīs vairāk ritināšanu pretējā ass, lai mainītu ritināšanas asi."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon ir atspējots! Noklikšķiniet šeit, lai iespējotu."
+  },
+  "o_cursor_change_default": {
+    "message": "nekādas izmaiņas - labākais sniegums"
+  },
+  "o_scroll_button": {
+    "message": "Ritināšanas poga:"
+  },
+  "o_direction_speed": {
+    "message": "Ritiniet stils / virziens / ātrums:"
+  },
+  "o_multiplier": {
+    "message": "Reizinātājs"
+  },
+  "o_times_speed": {
+    "message": "reizes ritināšanas ātrums"
+  },
+  "o_maximum_speed": {
+    "message": "Maksimālais ritināšanas ātrums (0 - invalīds):"
+  },
+  "o_ratio_unit": {
+    "message": "attiecība (lapas garums / loga izmērs)"
+  },
+  "o_scroll_type_0": {
+    "message": "Scrollbar emulāts"
+  },
+  "o_scroll_type_1": {
+    "message": "Greifers un velciet - kā viedtālrunī"
+  },
+  "o_scroll_type_2": {
+    "message": "Dinamiskais ātrums (eksperimentālais)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Tas ir kā ritjoslas vilkšana"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Tas ir tāpat kā velkot lapu ar pirkstu uz tālruņa ekrāna"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Dinamiskais ātrums padara ritināšanas ātrumu lēnāk, kad lapa ir ilgāka"
+  },
+  "o_disable_key": {
+    "message": "Atslēgt / iespējot ritināšanu, kad atslēga ir uz leju:"
+  },
+  "o_momentum_category": {
+    "message": "Momentums:"
+  },
+  "o_momentum_formula": {
+    "message": "Momentum formula:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Vienmērīgi palēnināta kustība"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Lapa ritināšana tiks vienmērīgi palēnināta, līdz tas apstājas"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Eksponenciāli palēnināta kustība"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Lapa ritināšana ātri (eksponenciāli) palēninās"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Bezgalīga kustība ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Ritināšana nekad neapstājas"
+  },
+  "o_momentum_max_speed": {
+    "message": "Maksimālais ātrums (0 - invalīds):"
+  },
+  "o_page_weight": {
+    "message": "Lapas svars:"
+  },
+  "o_grams": {
+    "message": "grami :)"
+  },
+  "o_additional_speed": {
+    "message": "Papildu ātrums:"
+  },
+  "o_pixels_second": {
+    "message": "pikseļi sekundē"
+  },
+  "o_additional_duration": {
+    "message": "Papildu ilgums:"
+  },
+  "o_advanced_momentum": {
+    "message": "Advanced Momentum Setup (tikai ekspertiem!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Šīs vērtības mainīšana var izjaukt jūsu impulsu!"
+  },
+  "o_compute_from_last": {
+    "message": "Aprēķināt no pēdējās:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Peles pārtraukuma noteikšana:"
+  },
+  "o_tracking_speed": {
+    "message": "Izsekošanas ātrums:"
+  },
+  "o_reset_values": {
+    "message": "Atiestatīt vērtības"
+  },
+  "o_cursor_scrolling": {
+    "message": "Kursors, ko izmanto, ritinot:"
+  },
+  "o_performance": {
+    "message": "Veiktspēja:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Novērst lielus lēcienus"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Ja izmantojat rīku, kas var teleportēt kursoru pāri ekrānam (kad jūs sasniedzat malu), iespējojiet šo iespēju, lai nodrošinātu nepārtrauktu (bezgalīgu) ritināšanu."
+  },
+  "o_advanced": {
+    "message": "Advanced:"
+  },
+  "o_movement_detection": {
+    "message": "Peles kustības noteikšanas slieksnis:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Cik pikseļu ir peles pārvietot, lai bloķētu saiti. Dažreiz, nospiežot ritināšanas pogu, nedaudz pārvietojat peli, bet jūs nevēlaties, lai saite tiktu izsniegta."
+  },
+  "o_context_menu_block": {
+    "message": "Konteksta izvēlnes bloks:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Atbloķēšanas konteksta izvēlnes aizture"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Ja pēc ritināšanas ar peles labo peles ritināšanu redzat, palieliniet šo vērtību"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Atspējot horizontālo ritināšanu domēnos:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Invalīdiem domēniem:"
+  },
+  "o_is_disabled_url": {
+    "message": "Atspējoti lapās / apakšlapās:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Jūs varat izmantot Star simbolu (*), lai definētu URL daļu, piemēram: \"Google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Ievadiet vienu domēnu vienā rindā."
+  },
+  "o_is_disabled": {
+    "message": "Atspējot papildinājumu"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Izmantojiet rīkjoslas ikonu kā galveno ieslēgšanas / izslēgšanas slēdzi"
+  },
+  "o_scroll_button_middle": {
+    "message": "Vidējā poga"
+  },
+  "o_scroll_button_right": {
+    "message": "Labā poga"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Mac lietotājiem - jums tiks piedāvāts jaunu atļauju \"Lasīt un modificēt pārlūkprogrammas iestatījumu\" - tas ir nepieciešams, lai nomāktu konteksta izvēlni, kas tiek parādīta pirms ritināšanas!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac lietotāji - jūsu konteksta izvēlne tiks bloķēta! Lai atvērtu konteksta izvēlni Turiet taustiņu \"Shift\" taustiņu vai triple noklikšķiniet uz labo pogu."
+  },
+  "o_scroll_button_left": {
+    "message": "Kreisā poga (eksperimentāls)"
+  },
+  "o_scroll_on_links": {
+    "message": "Ritiniet saites"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Ieslēdzot iespējošanu, jūs nevarēsiet vilkt un nomest saites (tikai izmantojot \"Atslēgt\" taustiņu)"
+  },
+  "o_scroll_on_text": {
+    "message": "Ritiniet uz teksta"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emulē tālruņa ritināšanu / rediģēšanu - jums ir nepieciešams noklikšķināt uz teksta, lai pārslēgtos uz \"rediģēšanas režīmu\". Noklikšķinot ārpus teksta, ļauj ritināt vēlreiz."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Ritiniet uz TextArea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea ir teksta bloks, kas parasti ir maināms. Piemēram, \"invalīdu\" cilnē var redzēt tekstaru."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Ritiniet uz rediģējamu HTML"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "Piemēram, e-pasta korpuss Gmail ir rediģējams HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "tekstā tiks atlasīts / rediģēšanas teksts."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Noklikšķiniet uz teksta iespējai \"rediģēt režīmu\". Noklikšķiniet uz Ārpus teksta, lai iespējotu \"ritināšanas režīmu\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Viens klikšķis"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Dubultklikšķi"
+  },
+  "o_scrollbars_width": {
+    "message": "Ritjoslas izskatās"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normāls (bez izmaiņām)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Plāns"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Apgādāts"
+  },
+  "o_scrollbars_color": {
+    "message": "Scrollbar slīdņa krāsa:"
+  },
+  "o_scrollbars_background": {
+    "message": "Ritjoslas fona krāsa:"
+  },
+  "o_reverse": {
+    "message": "Reversā ritināšanas virziens"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Pāriet"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl"
+  },
+  "o_disable_type_0": {
+    "message": "Atspējot, ja atslēga ir uz leju:"
+  },
+  "o_disable_type_1": {
+    "message": "Iespējot, ja atslēga ir uz leju:"
+  },
+  "o_momentum": {
+    "message": "iespējot impulsu - jūs varat \"mest\" lapu (piemēram, pa tālruni)"
+  },
+  "o_no_css_edit": {
+    "message": "Nelietojiet bloķēt iFrames un nemainiet kursoru, ritinot"
+  },
+  "o_no_prevent_default": {
+    "message": "Nelietojiet bloķēt noklusējuma pogas darbību"
+  },
+  "o_auto_link_lock": {
+    "message": "Saites bloķēšana:"
+  },
+  "o_no_link_block": {
+    "message": "Nelietojiet bloķēt peles klikšķi uz saites pēc kustības"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Kad sākat ritināt saiti un pēc tam jūs pabeigsiet ritināšanu tajā pašā saitē, pārlūks atvērs saiti. Tas parasti nav vēlama uzvedība pēc noklusējuma tas ir bloķēts."
+  },
+  "o_page_weight_title": {
+    "message": "Šī kontrole ir \"smaga\" lapa ir. Smagākas lapas ir garāks impulss."
+  },
+  "o_additional_speed_title": {
+    "message": "Jūs varat paātrināt impulsu, norādot ātrumu."
+  },
+  "o_additional_duration_title": {
+    "message": "Papildu laiks katram impulsam."
+  },
+  "o_compute_from_last_title": {
+    "message": "Momentum sākotnējo ātrumu nosaka ātrums ritināšanu tieši pirms atbrīvojot ritināšanas pogu."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Cik daudz laika ir peles palikt, pirms atbrīvojot ritināšanas pogu - ne aktivizēt impulsu."
+  },
+  "o_tracking_speed_title": {
+    "message": "Intervāls strāvas ritināšanas ātruma mērīšanai."
+  },
+  "o_scrolling_area": {
+    "message": "Ritināšanas zona:"
+  },
+  "o_outside_area_width": {
+    "message": "Ritināšanas zona (0 - invalīds):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Pārvietojot kursoru ārpus ritināšanas zonas, atgriezīsies ritināšanas pozīcijā. Tāda pati uzvedība var redzēt, velkot ritjoslu."
+  },
+  "o_scroll_button_left_title": {
+    "message": "BRĪDINĀJUMS - Kreisais pogas atbalsts tiek izmantots novecojis Firefox API, ko varētu noņemt Firefox nākotnes versijās."
+  },
+  "o_prevent_text_selection": {
+    "message": "Novērst teksta izvēli, ritinot ar kreiso pogu"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Dažās ierīcēs ritināšana ar kreiso peles pogu izvēlēsies arī tekstu lapā."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Nelietojiet bloķēt konteksta izvēlni, mēģinot ritināt ne-ritināmu lapu"
+  },
+  "o_backup_restore": {
+    "message": "Dublēšana / atjaunošanas iestatījumi failam:"
+  },
+  "o_export_settings": {
+    "message": "Eksporta iestatījumi uz failu"
+  },
+  "import_settings_button": {
+    "message": "Importēt iestatījumus no $1 failu ..."
+  },
+  "import_finished": {
+    "message": "Imports pabeigts!"
+  },
+  "test_page_title": {
+    "message": "Pārbaudiet savu ritināšanas iestatījumus šeit"
+  },
+  "menu_options": {
+    "message": "Opcijas"
+  },
+  "menu_visit_title": {
+    "message": "Apmeklējiet mājas lapu"
+  },
+  "not_working": {
+    "message": "Jūsu tīmekļa pārlūkprogrammā ir atspējots"
+  },
+  "disabled_by_user": {
+    "message": "Atspējots šajā jomā"
+  },
+  "not_working_title": {
+    "message": "Jūsu pārlūkprogramma bloķēs ScrollityWhere šāda veida lapās:"
+  },
+  "not_working_body": {
+    "message": "Lai iespējotu Scrollicewhere \"Mozilla.org\" lapās, skatiet šo YouTube pamācību"
+  },
+  "show_scrollbars": {
+    "message": "Rādīt ritjoslas"
+  },
+  "show_scrollbars_title": {
+    "message": "Īslaicīgi rāda ritjoslas"
+  },
+  "switch_on_off": {
+    "message": "Ieslēdziet papildinājumu OFF / ON"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Ja Jums rodas ievērojamu kavēšanos starp ritināšanas pogu un sākiet ritināšanu, mēģiniet iespējot šo iespēju. Tomēr jūs nevarēsiet ritināt \"iFrames\", piemēram, kādu vecu iegulto video vai dažas reklāmas."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Tas arī atspējotu iespēju mainīt kursoru, ritinot."
+  },
+  "o_helper_text_default_action": {
+    "message": "Noderīga Linux, lai iespējotu ielīmēšanu ar vidējo pogu."
+  },
+  "o_about_hello": {
+    "message": "Sveiki :)"
+  },
+  "o_about_intro": {
+    "message": "Mans vārds ir $1$ un es esmu $app_name$ autors."
+  },
+  "o_about_like_it": {
+    "message": "Ja jums tas patīk, lūdzu, novērtējiet to šeit:"
+  },
+  "o_about_dislike_it": {
+    "message": "Ja jums tas nepatīk, lūdzu, ļaujiet man zināt, kāpēc uz manu e-pastu. Es īstenoju lielāko daļu saņemto funkciju pieprasījumu."
+  },
+  "o_disabled": {
+    "message": "invalīds",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "iespējots",
+    "common": true
+  },
+  "o_times": {
+    "message": "laiki",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pikseļi",
+    "common": true
+  },
+  "o_items": {
+    "message": "vienumi",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milisekundes",
+    "common": true
+  },
+  "label_working": {
+    "message": "darbs ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Tuvoties",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Lūdzu, apsveriet iespēju atbalstīt manu darbu",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "ziedojums (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "kļūstot par manu patronu",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Paldies!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "mājas:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontaktpersona:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Ziņojuma jautājumi:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Es varu atbildēt tikai angļu / slovāku valodā",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sociālie mēdiji:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Saglabājiet izmaiņas un tuvu",
+    "common": true
+  },
+  "o_saved": {
+    "message": "saglabāts!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Drīzumā",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Saglabāt izmaiņas",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Privātuma politika",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Nesen pievienotās funkcijas:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

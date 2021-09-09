@@ -1,0 +1,542 @@
+{
+  "_description_tags_sa": {
+    "message": "ఎక్కడైనా, బటన్, కర్సర్, డ్రాగ్, పట్టుకోడానికి, లాగు డ్రాగ్, పట్టుకోడానికి మరియు డ్రాగ్, అనంతం, ఎడమ, మధ్య, మొమెంటం, మౌస్, తరలింపు, పేజీ, కుడి, స్క్రోల్, స్క్రోల్ పేజీ, స్క్రోల్, స్క్రోలింగ్, త్రో"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "పేజీలో ఎక్కడైనా మీ మధ్య మౌస్ బటన్తో స్క్రోల్ చెయ్యండి. కూడా \"పట్టుకోడానికి మరియు డ్రాగ్\" శైలి."
+  },
+  "thunderbird_store": {
+    "message": "థండర్బర్డ్ యాడ్-ఆన్లు"
+  },
+  "firefox_store": {
+    "message": "Firefox add-ons"
+  },
+  "chrome_store": {
+    "message": "Chrome వెబ్ స్టోర్"
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "$1 లో క్షితిజసమాంతర స్క్రోలింగ్ను ఆపివేయి"
+  },
+  "op_visit_home": {
+    "message": "హోమ్పేజీని సందర్శించండి"
+  },
+  "op_support_me": {
+    "message": "ఈ ప్రాజెక్ట్ సహాయం"
+  },
+  "o_title": {
+    "message": "ఐచ్ఛికాలు - $1."
+  },
+  "o_tab_general": {
+    "message": "జనరల్"
+  },
+  "o_tab_momentum": {
+    "message": "ఊపందుకుంటున్నది"
+  },
+  "o_tab_cursor": {
+    "message": "కర్సర్"
+  },
+  "o_axis_locking": {
+    "message": "యాక్సిస్ లాకింగ్"
+  },
+  "o_tab_performance": {
+    "message": "ప్రదర్శన"
+  },
+  "o_tab_disabled_on": {
+    "message": "నిలిపివేయబడింది"
+  },
+  "o_tab_advanced": {
+    "message": "ఆధునిక"
+  },
+  "o_tab_scrollbars": {
+    "message": "స్క్రోల్బార్ల"
+  },
+  "o_tab_backup": {
+    "message": "దిగుమతి / బ్యాకప్"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "ఒక అక్షం లో స్క్రోల్ చెయ్యదగిన ఒక బాక్స్ స్క్రోలింగ్ చేసినప్పుడు కానీ మాతృ బాక్స్ ఇతర అక్షం లో స్క్రోల్ చెయ్యదగిన, ఉపయోగించి ఒక అక్షం స్క్రోలింగ్ లాక్:"
+  },
+  "o_axis_lock_0": {
+    "message": "స్మార్ట్ లాక్ - మొమెంటం ఉపయోగించి తాత్కాలిక లాక్"
+  },
+  "o_axis_lock_1": {
+    "message": "కఠినమైన లాక్ - తక్షణ దిశలో లాక్"
+  },
+  "o_axis_lock_2": {
+    "message": "ఏ లాక్ - రెండు అక్షం లో ఉచిత స్క్రోలింగ్"
+  },
+  "o_trend_momentum_window": {
+    "message": "స్మార్ట్ లాక్ స్టాక్ పరిమాణం"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "పెద్ద విలువ స్క్రోలింగ్ అక్షం మార్చడానికి వ్యతిరేక అక్షం లో మరింత స్క్రోలింగ్ అవసరం."
+  },
+  "o_addon_disabled_warning": {
+    "message": "యాడ్ఆన్ నిలిపివేయబడింది! ప్రారంభించడానికి ఇక్కడ క్లిక్ చేయండి."
+  },
+  "o_cursor_change_default": {
+    "message": "మార్పు - ఉత్తమ ప్రదర్శన"
+  },
+  "o_scroll_button": {
+    "message": "స్క్రోల్ బటన్:"
+  },
+  "o_direction_speed": {
+    "message": "స్క్రోల్ శైలి / దిశ / వేగం:"
+  },
+  "o_multiplier": {
+    "message": "గుణకారం"
+  },
+  "o_times_speed": {
+    "message": "సార్లు స్క్రోల్ వేగం"
+  },
+  "o_maximum_speed": {
+    "message": "గరిష్ఠ స్క్రోల్ వేగం (0 - డిసేబుల్):"
+  },
+  "o_ratio_unit": {
+    "message": "నిష్పత్తి (పేజీ పొడవు / విండో పరిమాణం)"
+  },
+  "o_scroll_type_0": {
+    "message": "స్క్రోల్బార్ను అనుకరించండి"
+  },
+  "o_scroll_type_1": {
+    "message": "పట్టుకోడానికి మరియు లాగండి - స్మార్ట్ఫోన్లో వలె"
+  },
+  "o_scroll_type_2": {
+    "message": "డైనమిక్ వేగం (ప్రయోగాత్మక)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "ఇది ఒక స్క్రోల్ను లాగడం లాంటిది"
+  },
+  "o_scroll_type_title_1": {
+    "message": "ఇది ఫోన్ తెరపై మీ వేలుతో ఒక పేజీని లాగడం వంటిది"
+  },
+  "o_scroll_type_title_2": {
+    "message": "పేజీ ఎక్కువసేపు ఉన్నప్పుడు డైనమిక్ వేగం స్క్రోల్ వేగం నెమ్మదిగా చేస్తుంది"
+  },
+  "o_disable_key": {
+    "message": "కీ డౌన్ ఉన్నప్పుడు స్క్రోలింగ్ను ఆపివేయి / ప్రారంభించు:"
+  },
+  "o_momentum_category": {
+    "message": "ఊపందుకుంటున్నది:"
+  },
+  "o_momentum_formula": {
+    "message": "మొమెంటం ఫార్ములా:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "ఏకరీతిలో తగ్గిన కదలిక"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "పేజీ స్క్రోల్ ఆపివేసే వరకు ఏకరీతిలో మందగించబడుతుంది"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "విశేషంగా డిక్లిరేటెడ్ ఉద్యమం"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "పేజీ స్క్రోల్ వేగంగా (విశేషంగా) వేగాన్ని తగ్గిస్తుంది"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "అనంత ఉద్యమం ∞."
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "స్క్రోలింగ్ ఎప్పటికీ నిలిపివేయదు"
+  },
+  "o_momentum_max_speed": {
+    "message": "గరిష్ట వేగం (0 - డిసేబుల్):"
+  },
+  "o_page_weight": {
+    "message": "పేజీ బరువు:"
+  },
+  "o_grams": {
+    "message": "గ్రాములు :)"
+  },
+  "o_additional_speed": {
+    "message": "అదనపు వేగం:"
+  },
+  "o_pixels_second": {
+    "message": "సెకనుకు పిక్సెళ్ళు"
+  },
+  "o_additional_duration": {
+    "message": "అదనపు వ్యవధి:"
+  },
+  "o_advanced_momentum": {
+    "message": "అధునాతన మొమెంటం సెటప్ (నిపుణుల కోసం మాత్రమే!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "ఈ విలువలను మార్చడం మీ మొమెంటంను విచ్ఛిన్నం చేస్తుంది!"
+  },
+  "o_compute_from_last": {
+    "message": "చివరి నుండి గణించడం:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "మౌస్ స్టాప్ డిటెక్షన్:"
+  },
+  "o_tracking_speed": {
+    "message": "ట్రాకింగ్ వేగం:"
+  },
+  "o_reset_values": {
+    "message": "విలువలను రీసెట్ చేయండి"
+  },
+  "o_cursor_scrolling": {
+    "message": "స్క్రోలింగ్ ఉన్నప్పుడు కర్సర్ ఉపయోగిస్తారు:"
+  },
+  "o_performance": {
+    "message": "ప్రదర్శన:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "పెద్ద హెచ్చుతగ్గులని నిరోధించండి"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "మీరు స్క్రీన్ అంతటా మీ కర్సర్ను (మీరు ఒక అంచు చేరుకున్నప్పుడు) ను పర్యవేక్షించే సాధనాన్ని ఉపయోగిస్తుంటే, నిరంతరాయంగా (అనంతం) స్క్రోలింగ్ను అనుమతించడానికి ఈ ఎంపికను ప్రారంభించండి."
+  },
+  "o_advanced": {
+    "message": "ఆధునిక:"
+  },
+  "o_movement_detection": {
+    "message": "మౌస్ ఉద్యమం డిటెక్షన్ థ్రెషోల్డ్:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "లింక్ను బ్లాక్ చేయడానికి మౌస్ కదలికకు ఎన్ని పిక్సెళ్ళు ఉన్నాయి. కొన్నిసార్లు స్క్రోల్ బటన్ నొక్కడం మీరు కొద్దిగా మౌస్ తరలించడానికి కానీ మీరు ఎందుకంటే లింక్ డిసేబుల్ కావలసిన ఇష్టం లేదు."
+  },
+  "o_context_menu_block": {
+    "message": "కాంటెక్స్ట్ మెను బ్లాక్:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "కాంటెక్స్ట్ మెను ఆలస్యం అన్బ్లాక్"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "మీరు కుడి మౌస్ బటన్ను స్క్రోలింగ్ చేసిన సందర్భం మెనుని చూస్తే, ఈ విలువను పెంచుతుంది"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "డొమైన్లలో సమాంతర స్క్రోలింగ్ను ఆపివేయి:"
+  },
+  "o_is_disabled_domains": {
+    "message": "డొమైన్లలో డిసేబుల్ చెయ్యబడింది:"
+  },
+  "o_is_disabled_url": {
+    "message": "పేజీలు / ఉప పేజీలలో డిసేబుల్ చెయ్యబడింది:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "మీరు ఒక URL భాగాన్ని నిర్వచించడానికి స్టార్ చిహ్నం (*) ను ఉపయోగించవచ్చు, ఉదాహరణకు: \"Google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "పంక్తికి ఒక డొమైన్ను నమోదు చేయండి."
+  },
+  "o_is_disabled": {
+    "message": "అనుబంధాన్ని ఆపివేయి"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "టూల్బార్ ఐకాన్ను ప్రధానంగా / ఆఫ్ స్విచ్గా ఉపయోగించండి"
+  },
+  "o_scroll_button_middle": {
+    "message": "మధ్య బటన్"
+  },
+  "o_scroll_button_right": {
+    "message": "కుడి బటన్"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Mac వినియోగదారులు - మీరు కొత్త అనుమతి కోసం ప్రాంప్ట్ చేయబడతారు \"బ్రౌజర్ సెట్టింగ్ చదవండి మరియు సవరించడం\" - స్క్రోలింగ్ ముందు చూపిన సందర్భం మెను అణిచివేసేందుకు అవసరం!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac వినియోగదారులు - మీ కాంటెక్స్ట్ మెను బ్లాక్ చేయబడుతుంది! సందర్భం మెనుని తెరవడానికి \"షిఫ్ట్\" కీ లేదా ట్రిపుల్-క్లిక్ కుడి బటన్ను నొక్కి ఉంచండి."
+  },
+  "o_scroll_button_left": {
+    "message": "ఎడమ బటన్ (ప్రయోగాత్మక)"
+  },
+  "o_scroll_on_links": {
+    "message": "లింకులపై స్క్రోల్ చేయండి"
+  },
+  "o_scroll_on_links_title": {
+    "message": "ఎనేబుల్ చేసినప్పుడు, మీరు డ్రాగ్ మరియు డ్రాప్ చేయలేరు (మాత్రమే 'డిసేబుల్' కీ ఉపయోగించి)"
+  },
+  "o_scroll_on_text": {
+    "message": "టెక్స్ట్ మీద స్క్రోల్ చేయండి"
+  },
+  "o_scroll_on_text_title": {
+    "message": "ఫోన్ స్క్రోలింగ్ / ఎడిటింగ్ emulates - మీరు \"ఎడిటింగ్ మోడ్\" మారడానికి క్రమంలో క్లిక్ చెయ్యాలి. టెక్స్ట్ వెలుపల క్లిక్ చేయడం మళ్లీ స్క్రోలింగ్ను ప్రారంభిస్తుంది."
+  },
+  "o_scroll_on_textarea": {
+    "message": "టెక్స్ట్ఏరియాలో స్క్రోల్ చేయండి"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "టెక్స్ట్ఏరియా అనేది టెక్స్ట్ యొక్క బ్లాక్, సాధారణంగా పునర్పరిమాణ. ఉదాహరణకు \"డిసేబుల్ చెయ్యబడింది\" ట్యాబ్లో మీరు టెక్స్ట్ఏరియా చూడవచ్చు."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "సవరించగలిగేలా HTML పై స్క్రోల్ చేయండి"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "ఉదాహరణకు Gmail లో ఇమెయిల్ శరీరం సవరించగలిగేలా HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "టెక్స్ట్ను ఎంచుకోవడం / సవరించడం టెక్స్ట్ని ప్రారంభించు ఉంటుంది."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "వచనంపై క్లిక్ చేయండి \"సవరించు మోడ్\" ను ప్రారంభిస్తుంది. \"స్క్రోల్ మోడ్\" ను ప్రారంభించడానికి వెలుపల టెక్స్ట్ క్లిక్ చేయండి."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "సింగిల్ క్లిక్"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "రెండుసార్లు నొక్కు"
+  },
+  "o_scrollbars_width": {
+    "message": "స్క్రోల్బార్ల లుక్"
+  },
+  "o_scrollbars_width_0": {
+    "message": "సాధారణ (మార్పు లేదు)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "సన్నని"
+  },
+  "o_scrollbars_width_2": {
+    "message": "దాచిన"
+  },
+  "o_scrollbars_color": {
+    "message": "స్క్రోల్ బార్ స్లయిడర్ రంగు:"
+  },
+  "o_scrollbars_background": {
+    "message": "స్క్రోల్బార్ నేపథ్య రంగు:"
+  },
+  "o_reverse": {
+    "message": "స్క్రోల్ దిశలో రివర్స్"
+  },
+  "o_disable_alt": {
+    "message": "Alt."
+  },
+  "o_disable_shift": {
+    "message": "మార్పు"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl."
+  },
+  "o_disable_type_0": {
+    "message": "కీ డౌన్ ఉన్నప్పుడు ఆపివేయి:"
+  },
+  "o_disable_type_1": {
+    "message": "కీ డౌన్ ఉన్నప్పుడు ప్రారంభించు:"
+  },
+  "o_momentum": {
+    "message": "మొమెంటం ప్రారంభించు - మీరు పేజీని \"త్రో\" చేయవచ్చు (ఫోన్లో)"
+  },
+  "o_no_css_edit": {
+    "message": "స్క్రోలింగ్ చేసినప్పుడు IFrames లాక్ మరియు కర్సర్ను మార్చవద్దు"
+  },
+  "o_no_prevent_default": {
+    "message": "డిఫాల్ట్ బటన్ చర్యను నిరోధించవద్దు"
+  },
+  "o_auto_link_lock": {
+    "message": "లింకులు నిరోధించడం:"
+  },
+  "o_no_link_block": {
+    "message": "ఉద్యమం తర్వాత లింక్ క్లిక్ బ్లాక్ బ్లాక్ చేయవద్దు"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "మీరు ఒక లింక్పై స్క్రోలింగ్ ప్రారంభించినప్పుడు మరియు మీరు అదే లింక్పై స్క్రోలింగ్ పూర్తి చేసి, బ్రౌజర్ లింక్ను తెరుస్తుంది. ఇది సాధారణంగా కోరుకున్న ప్రవర్తన కాదు కాబట్టి అప్రమేయంగా ఇది బ్లాక్ చేయబడింది."
+  },
+  "o_page_weight_title": {
+    "message": "ఈ పేజీ ఎలా 'భారీ' అనే నియంత్రిస్తుంది. భారీ పేజీలు ఎక్కువ వేగాన్ని కలిగి ఉంటాయి."
+  },
+  "o_additional_speed_title": {
+    "message": "మీరు వేగాన్ని వేగాన్ని వేగవంతం చేయవచ్చు."
+  },
+  "o_additional_duration_title": {
+    "message": "ప్రతి మొమెంటం కోసం అదనపు సమయం."
+  },
+  "o_compute_from_last_title": {
+    "message": "మొమెంటం ప్రారంభ వేగం స్క్రోల్ బటన్ను విడుదల చేయడానికి ముందు స్క్రోలింగ్ వేగంతో నిర్ణయించబడుతుంది."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "స్క్రోల్ బటన్ విడుదల ముందు - స్క్రోల్ బటన్ విడుదల ముందు ఎంత సమయం ఉంది - మొమెంటం సక్రియం లేదు."
+  },
+  "o_tracking_speed_title": {
+    "message": "ప్రస్తుత స్క్రోల్ వేగాన్ని కొలిచే విరామం."
+  },
+  "o_scrolling_area": {
+    "message": "స్క్రోలింగ్ ప్రాంతం:"
+  },
+  "o_outside_area_width": {
+    "message": "స్క్రోలింగ్ ప్రాంతం (0 - డిసేబుల్):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "స్క్రోలింగ్ ప్రాంతం వెలుపల మీ కర్సర్ను తరలించడం స్క్రోలింగ్ స్థానంను మారుస్తుంది. ఒక స్క్రోల్ను లాగడం ఉన్నప్పుడు అదే ప్రవర్తన చూడవచ్చు."
+  },
+  "o_scroll_button_left_title": {
+    "message": "హెచ్చరిక - ఎడమ బటన్ మద్దతు ఫైర్ఫాక్స్ యొక్క భవిష్యత్ సంస్కరణల్లో తీసివేయబడిన డీప్రికేటెడ్ ఫైర్ఫాక్స్ API ను ఉపయోగిస్తోంది."
+  },
+  "o_prevent_text_selection": {
+    "message": "ఎడమ బటన్తో స్క్రోలింగ్ చేసేటప్పుడు టెక్స్ట్ ఎంపికను నిరోధించండి"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "కొన్ని పరికరాల్లో, ఎడమ మౌస్ బటన్ తో స్క్రోలింగ్ కూడా పేజీలో టెక్స్ట్ ఎంచుకోండి."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "స్క్రోల్ చెయ్యదగిన పేజీని స్క్రోల్ చేయడానికి ప్రయత్నిస్తున్నప్పుడు సందర్భ మెనుని బ్లాక్ చేయవద్దు"
+  },
+  "o_backup_restore": {
+    "message": "ఫైల్ను బ్యాకప్ / పునరుద్ధరించండి:"
+  },
+  "o_export_settings": {
+    "message": "ఒక ఫైల్కు సెట్టింగ్లను ఎగుమతి చేయండి"
+  },
+  "import_settings_button": {
+    "message": "$1 నుండి దిగుమతి సెట్టింగ్లు ..."
+  },
+  "import_finished": {
+    "message": "దిగుమతి పూర్తయింది!"
+  },
+  "test_page_title": {
+    "message": "ఇక్కడ మీ స్క్రోలింగ్ సెట్టింగ్లను పరీక్షించండి"
+  },
+  "menu_options": {
+    "message": "ఐచ్ఛికాలు"
+  },
+  "menu_visit_title": {
+    "message": "హోమ్పేజీని సందర్శించండి"
+  },
+  "not_working": {
+    "message": "మీ వెబ్ బ్రౌజర్ ద్వారా నిలిపివేయబడింది"
+  },
+  "disabled_by_user": {
+    "message": "ఈ డొమైన్లో నిలిపివేయబడింది"
+  },
+  "not_working_title": {
+    "message": "మీ బ్రౌజర్ ఈ రకమైన పేజీలలో స్క్రాల్యులెను నిరోధిస్తుంది:"
+  },
+  "not_working_body": {
+    "message": "\"Mozilla.org\" పేజీలలో స్క్రాలిన్వేను ప్రారంభించడానికి, ఈ YouTube ట్యుటోరియల్ చూడండి"
+  },
+  "show_scrollbars": {
+    "message": "స్క్రోల్బార్లను చూపించు"
+  },
+  "show_scrollbars_title": {
+    "message": "తాత్కాలికంగా స్క్రోల్బార్లను చూపుతుంది"
+  },
+  "switch_on_off": {
+    "message": "జోడించు యాడ్-ఆన్ ఆఫ్ / ఆన్"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "స్క్రోల్ బటన్ మరియు స్క్రోలింగ్ ప్రారంభించిన మధ్య మీరు గుర్తించదగ్గ ఆలస్యం అనుభవిస్తే, ఈ ఎంపికను ప్రారంభించడానికి ప్రయత్నించండి. అయితే మీరు కొన్ని పాత ఎంబెడెడ్ వీడియోలు లేదా కొన్ని ప్రకటనలు వంటి \"ఐఫ్రేమ్\" పై స్క్రోల్ చేయలేరు."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "స్క్రోలింగ్ సమయంలో కర్సర్ను మార్చడానికి ఇది ఎంపికను నిలిపివేస్తుంది."
+  },
+  "o_helper_text_default_action": {
+    "message": "మధ్య బటన్తో పేస్ట్ చేయడానికి Linux లో ఉపయోగపడుతుంది."
+  },
+  "o_about_hello": {
+    "message": "హలో :)"
+  },
+  "o_about_intro": {
+    "message": "నా పేరు $1$ మరియు $app_name$ రచయిత."
+  },
+  "o_about_like_it": {
+    "message": "మీకు కావాలనుకుంటే, దయచేసి ఇక్కడ రేట్ చేయండి:"
+  },
+  "o_about_dislike_it": {
+    "message": "మీకు నచ్చకపోతే, దయచేసి నా ఇ-మెయిల్కు ఎందుకు నాకు తెలపండి. నేను అందుకున్న ఫీచర్-అభ్యర్థనలను ఎక్కువగా అమలు చేస్తున్నాను."
+  },
+  "o_disabled": {
+    "message": "నిలిపివేయబడింది",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "ప్రారంభించబడింది",
+    "common": true
+  },
+  "o_times": {
+    "message": "సార్లు",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "పిక్సెల్స్",
+    "common": true
+  },
+  "o_items": {
+    "message": "అంశాలు",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "మిల్లిసెకన్లు",
+    "common": true
+  },
+  "label_working": {
+    "message": "పని ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "దగ్గరగా",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "దయచేసి నా పనిని మద్దతునివ్వండి",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "విరాళం (పేపాల్)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "నా పోషకుడిగా మారింది",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "ధన్యవాదాలు!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "హోమ్:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "సంప్రదించండి:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "నివేదిక సమస్యలు:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "నేను ఇంగ్లీష్ / స్లోవాక్లో మాత్రమే ప్రత్యుత్తరం ఇవ్వగలను",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "సాంఘిక ప్రసార మాధ్యమం:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "మార్పులను మరియు దగ్గరగా సేవ్ చేయండి",
+    "common": true
+  },
+  "o_saved": {
+    "message": "సేవ్!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "త్వరలో",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "మార్పులను ఊంచు",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "గోప్యతా విధానం",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "ఇటీవల జోడించిన లక్షణాలు:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "టాగ్లు:",
+    "common": true
+  }
+}

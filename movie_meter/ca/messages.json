@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "data, imdb, descripció, episodi, mesurador, gràfic, imdb, informació, mesurador, pel·lícula, pel·lícules, netflix, imdb, valoració, classificació, sèries, espectacles, televisió, TV, vídeo, vídeo, vots, temporada"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "no s'ha trobat la pel·lícula / pel·lícula incorrecta: ja que no hi ha cap integració \"oficial\" amb les pàgines d'orientació, no puc garantir resultats 100% correctes (però en la majoria dels casos funciona perfectament)"
+  },
+  "_description_mm_not_working": {
+    "message": "No funciona a la vostra pàgina preferida de la pel·lícula?"
+  },
+  "_description_mm_add_support": {
+    "message": "Poseu-vos en contacte amb mi i ho afegiré, si és possible (la pàgina ha de contenir nom de pel·lícula en anglès o $visit_imdb$ enllaç)."
+  },
+  "_description_mm_feature_1": {
+    "message": "valoració de la pel·lícula i popularitat des de $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "següent / Episodi anterior Data de $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "informació addicional de la sèrie de pel·lícules / TV"
+  },
+  "_description_mm_feature_4": {
+    "message": "notificació sobre el nou episodi"
+  },
+  "_description_mm_feature_5": {
+    "message": "mark TV Sèrie com a favorit i obtindreu notificació quan estigui disponible un nou episodi"
+  },
+  "_description_mm_feature_7": {
+    "message": "auto-amaga quan es detecta la reproducció de vídeo"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ us mostrarà la valoració i la popularitat d'una pel·lícula (o sèries de televisió)"
+  },
+  "name": {
+    "message": "Nom"
+  },
+  "year": {
+    "message": "Curs"
+  },
+  "video_type": {
+    "message": "Lletra"
+  },
+  "video_type_0": {
+    "message": "Pel·lícula"
+  },
+  "video_type_1": {
+    "message": "Sèrie"
+  },
+  "video_type_2": {
+    "message": "Episodi"
+  },
+  "runtime": {
+    "message": "Dinorme"
+  },
+  "premiered": {
+    "message": "Estrena"
+  },
+  "premiere_in": {
+    "message": "Premiere a"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Camp"
+  },
+  "actors": {
+    "message": "Actors"
+  },
+  "dvd": {
+    "message": "Dvd"
+  },
+  "director": {
+    "message": "Director"
+  },
+  "totalseasons": {
+    "message": "Total de temporades"
+  },
+  "writer": {
+    "message": "Escriptor"
+  },
+  "language": {
+    "message": "Llenguatge"
+  },
+  "awards": {
+    "message": "Premis"
+  },
+  "rated": {
+    "message": "Navegació"
+  },
+  "production": {
+    "message": "Producció"
+  },
+  "plot": {
+    "message": "Parcel · la"
+  },
+  "website": {
+    "message": "Lloc web"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Visita $visit_imdb$ pàgina"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Visita $visit_tvmaze$ Pàgina per a aquest espectacle"
+  },
+  "make_favorite": {
+    "message": "Favorit"
+  },
+  "make_favorite_title": {
+    "message": "Afegiu sèries de TV a favorits. Això us permetrà rebre notificació sobre nous episodis."
+  },
+  "last_episode": {
+    "message": "Per acabar"
+  },
+  "next_episode": {
+    "message": "Pròxim"
+  },
+  "last_episode_title": {
+    "message": "Últim episodi"
+  },
+  "next_episode_title": {
+    "message": "Següent episodi"
+  },
+  "episode_airtime": {
+    "message": "Temps d'aire"
+  },
+  "episode_name": {
+    "message": "Nom"
+  },
+  "series_status": {
+    "message": "Estat"
+  },
+  "episodes_count": {
+    "message": "Episodis"
+  },
+  "episodes_count_title": {
+    "message": "Temporada actual $1 té episodis $2"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "dies"
+  },
+  "hours": {
+    "message": "hores"
+  },
+  "na": {
+    "message": "No disponible"
+  },
+  "user_rating": {
+    "message": "Valoració dels usuaris: $1"
+  },
+  "user_popularity": {
+    "message": "Popularitat: $1 vots"
+  },
+  "source": {
+    "message": "Font: $1"
+  },
+  "show_details": {
+    "message": "més ..."
+  },
+  "hide_details": {
+    "message": "menys ..."
+  },
+  "save_position": {
+    "message": "Desa la posició"
+  },
+  "revert_position": {
+    "message": "Revertir la posició"
+  },
+  "win_disable": {
+    "message": "Inhabiliteu $1"
+  },
+  "cm_advanced": {
+    "message": "Avançat"
+  },
+  "op_visit_home": {
+    "message": "Visiteu la pàgina d'inici"
+  },
+  "op_support_me": {
+    "message": "Ajudeu a aquest projecte"
+  },
+  "hide": {
+    "message": "Amaga la finestra"
+  },
+  "show": {
+    "message": "Mostra la finestra"
+  },
+  "reset_position": {
+    "message": "Posició de restabliment"
+  },
+  "search": {
+    "message": "Cerca"
+  },
+  "configure_search": {
+    "message": "Configura les opcions de cerca"
+  },
+  "selection_search": {
+    "message": "Cerca $1"
+  },
+  "menu_options": {
+    "message": "Opcions"
+  },
+  "menu_quick_options": {
+    "message": "Opcions ràpides"
+  },
+  "menu_visit_homepage": {
+    "message": "Visiteu la pàgina d'inici"
+  },
+  "menu_request_support": {
+    "message": "Sol·licitar suport per a $1"
+  },
+  "show_introduction": {
+    "message": "Mostra la pàgina d'introducció"
+  },
+  "o_about_issues": {
+    "message": "Informeu dels problemes:"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "firefox_store": {
+    "message": "Complements de Firefox"
+  },
+  "chrome_store": {
+    "message": "Botiga web de Chrome"
+  },
+  "movie_not_detected": {
+    "message": "No s'ha detectat la pel·lícula"
+  },
+  "movie_not_detected_title": {
+    "message": "No s'ha detectat cap sèrie de pel·lícules / televisió en aquesta pàgina."
+  },
+  "movie_not_found": {
+    "message": "No s'ha trobat la pel·lícula"
+  },
+  "movie_not_found_title": {
+    "message": "No s'ha trobat la informació de la pel·lícula al servidor."
+  },
+  "status_type_0": {
+    "message": "Corrent"
+  },
+  "status_type_1": {
+    "message": "Acabat"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Show continuarà"
+  },
+  "status_type_title_1": {
+    "message": "Mostra ha finalitzat: no hi ha més estacions planificades"
+  },
+  "status_type_title_2": {
+    "message": "Els espectacles futurs no estan clars"
+  },
+  "notify_movie_not_found": {
+    "message": "No s'ha trobat la pel·lícula: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Utilitzeu només el nom de la pel·lícula en anglès."
+  },
+  "notify_movie_not_found_body2": {
+    "message": "La cerca no és perfecta ..."
+  },
+  "notify_video_hide": {
+    "message": "Vídeo detectat - $app_name$ ara està ocult"
+  },
+  "notify_video_hide_body": {
+    "message": "Feu clic aquí per no mostrar aquesta notificació de nou"
+  },
+  "notify_new_episodes": {
+    "message": "Es va emetre un nou episodi"
+  },
+  "title_introduction": {
+    "message": "Presentació"
+  },
+  "supported_pages": {
+    "message": "Pàgines suportades:"
+  },
+  "supported_grows": {
+    "message": "(Aquesta llista creix més i més gran)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Les valoracions i la informació de la popularitat són de $1$. La informació sobre episodis prové de $2$."
+  },
+  "title_got_it": {
+    "message": "Tens, començem!"
+  },
+  "_description_privacy_policy": {
+    "message": "Política de privacitat"
+  },
+  "_description_recent_features": {
+    "message": "Característiques afegides recentment:"
+  },
+  "_description_known_issues": {
+    "message": "Problemes coneguts:"
+  },
+  "_description_common_tags": {
+    "message": "Etiquetes:"
+  },
+  "_description_features": {
+    "message": "Característiques:"
+  },
+  "about_me": {
+    "message": "Sóc Addon Developer des de 2016. El meu objectiu és construir àmplies extensions per al vostre navegador web per fer-vos més productiu."
+  },
+  "about_good_job": {
+    "message": "Si creieu que estic fent una bona feina, si us plau, doneu :)"
+  },
+  "about_income": {
+    "message": "La vostra donació és la meva única renda!"
+  },
+  "about_thanks": {
+    "message": "Gràcies per donar suport a la meva feina!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Transferència bancària mitjançant IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Donar suport al desenvolupador independent!"
+  }
+}

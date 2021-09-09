@@ -1,0 +1,341 @@
+{
+  "_description_feature_1": {
+    "message": ""
+  },
+  "_description_feature_2": {
+    "message": ""
+  },
+  "_description_tags_pn": {
+    "message": ""
+  },
+  "app_name": {
+    "message": "Private Notes"
+  },
+  "app_desc": {
+    "message": ""
+  },
+  "compression_level_0": {
+    "message": ""
+  },
+  "compression_level_1": {
+    "message": ""
+  },
+  "compression_level_2": {
+    "message": ""
+  },
+  "compression_level_info_0": {
+    "message": ""
+  },
+  "compression_level_info_1": {
+    "message": ""
+  },
+  "compression_level_info_2": {
+    "message": ""
+  },
+  "title_notes": {
+    "message": ""
+  },
+  "restore_backup": {
+    "message": ""
+  },
+  "create_new_note": {
+    "message": ""
+  },
+  "auto_locking_strategy_0": {
+    "message": ""
+  },
+  "auto_locking_strategy_1": {
+    "message": ""
+  },
+  "restore_note": {
+    "message": ""
+  },
+  "locked": {
+    "message": ""
+  },
+  "change_master_password": {
+    "message": ""
+  },
+  "import_export": {
+    "message": ""
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "notes_auto_saved_placeholder": {
+    "message": ""
+  },
+  "setup_new_pwd": {
+    "message": ""
+  },
+  "change_pwd": {
+    "message": ""
+  },
+  "pwd_to_change": {
+    "message": ""
+  },
+  "current_pwd": {
+    "message": ""
+  },
+  "new_pwd_advice": {
+    "message": ""
+  },
+  "repeat_pwd": {
+    "message": ""
+  },
+  "hint_pwd": {
+    "message": ""
+  },
+  "pwd_warning": {
+    "message": ""
+  },
+  "remember_pwd_0": {
+    "message": ""
+  },
+  "remember_pwd_1": {
+    "message": ""
+  },
+  "remember_pwd_2": {
+    "message": ""
+  },
+  "pwd_save": {
+    "message": ""
+  },
+  "error_saving_note": {
+    "message": ""
+  },
+  "quota_bytes_per_item": {
+    "message": ""
+  },
+  "quota_bytes": {
+    "message": ""
+  },
+  "max_items": {
+    "message": ""
+  },
+  "max_write_operations_per_hour": {
+    "message": ""
+  },
+  "max_write_operations_per_minute": {
+    "message": ""
+  },
+  "security": {
+    "message": ""
+  },
+  "visual_options": {
+    "message": ""
+  },
+  "compression_level": {
+    "message": ""
+  },
+  "auto_locking_strategy": {
+    "message": ""
+  },
+  "auto_lock_inactive_for": {
+    "message": ""
+  },
+  "dense_notes_list": {
+    "message": ""
+  },
+  "import_replace_all": {
+    "message": ""
+  },
+  "export_encrypted": {
+    "message": ""
+  },
+  "minutes": {
+    "message": ""
+  },
+  "label_font_size": {
+    "message": "Šrifto dydis"
+  },
+  "sidebar_size": {
+    "message": ""
+  },
+  "popup_window_width": {
+    "message": ""
+  },
+  "popup_window_height": {
+    "message": ""
+  },
+  "always_open_in_new_tab": {
+    "message": ""
+  },
+  "safari_store": {
+    "message": "\"Mac App Store\""
+  },
+  "chrome_store": {
+    "message": "\"Chrome\" internetinė parduotuvė"
+  },
+  "firefox_store": {
+    "message": "\"Firefox\" priedai"
+  },
+  "import_finished": {
+    "message": "Importas baigtas!"
+  },
+  "import_error": {
+    "message": "Klaida"
+  },
+  "import_backup_file": {
+    "message": "Importuoti atsarginę failą $1"
+  },
+  "search_search": {
+    "message": ""
+  },
+  "title_import": {
+    "message": "Importas. \\ T"
+  },
+  "title_export": {
+    "message": "Eksportas. \\ T"
+  },
+  "title_backups": {
+    "message": ""
+  },
+  "homepage": {
+    "message": "Pagrindinis puslapis. \\ T"
+  },
+  "addon_page": {
+    "message": "Addon Page."
+  },
+  "settings": {
+    "message": ""
+  },
+  "options": {
+    "message": ""
+  },
+  "label_backups": {
+    "message": ""
+  },
+  "label_rename": {
+    "message": ""
+  },
+  "label_download": {
+    "message": ""
+  },
+  "label_delete": {
+    "message": ""
+  },
+  "label_next": {
+    "message": "Kitas"
+  },
+  "label_note": {
+    "message": "Pastaba:"
+  },
+  "label_remove": {
+    "message": "Pašalinti"
+  },
+  "label_warning": {
+    "message": "ĮSPĖJIMAS:"
+  },
+  "label_default": {
+    "message": "Numatytas:"
+  },
+  "label_done": {
+    "message": "Padaryta!"
+  },
+  "label_copied": {
+    "message": "Nukopijuoti!"
+  },
+  "label_close": {
+    "message": "Uždaryti"
+  },
+  "label_open_page": {
+    "message": "Atidarykite puslapį"
+  },
+  "label_agree": {
+    "message": "Sutinku"
+  },
+  "label_cancel": {
+    "message": "Atšaukti"
+  },
+  "op_support_me": {
+    "message": "Padėti šiam projektui"
+  },
+  "support_developer": {
+    "message": "Palaikykite nepriklausomą kūrėją!"
+  },
+  "hello_there": {
+    "message": "Sveiki!"
+  },
+  "about_me": {
+    "message": "Aš esu \"Addon\" kūrėjas nuo 2016 m. Mano tikslas yra sukurti galingus jūsų žiniatinklio naršyklės plėtinius, kad padarytumėte našesnį."
+  },
+  "about_good_job": {
+    "message": "Jei manote, kad darau gerą darbą, prašome paaukoti :)"
+  },
+  "about_income": {
+    "message": "Jūsų donorystė yra vienintelė pajamos!"
+  },
+  "about_thanks": {
+    "message": "Dėkojame, kad palaikėte mano darbą!"
+  },
+  "o_tab_context_menu": {
+    "message": "Kontekstinis meniu"
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_pixels": {
+    "message": "pikseliai"
+  },
+  "o_seconds": {
+    "message": "sekundės"
+  },
+  "label_or": {
+    "message": "arba. \\ T"
+  },
+  "o_about_hello": {
+    "message": "Sveiki :)"
+  },
+  "o_about_intro": {
+    "message": "Mano vardas yra $1$ ir aš esu $app_name$ autorius."
+  },
+  "o_about_like_it": {
+    "message": "Jei jums tai patinka, vertinkite jį čia:"
+  },
+  "o_about_thanks": {
+    "message": "Ačiū!"
+  },
+  "o_about_contact": {
+    "message": "Kontaktas:"
+  },
+  "o_about_issues": {
+    "message": "Ataskaitos problemos:"
+  },
+  "o_about_social_media": {
+    "message": "Socialinė žiniasklaida:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Banko pervedimas naudojant IBAN:"
+  },
+  "used_space": {
+    "message": "Naudota erdvė: $1 / $2"
+  },
+  "ps_no_results": {
+    "message": "Nėra atitinkamų rezultatų"
+  },
+  "label_no_data": {
+    "message": "Nėra duomenų"
+  },
+  "dark_mode": {
+    "message": "Tamsus režimas"
+  },
+  "dark_mode_system": {
+    "message": "Kontroliuojamas pagal sistemą"
+  },
+  "open_in_new_tab": {
+    "message": "Atidarykite naujame skirtuke"
+  },
+  "_description_features": {
+    "message": ""
+  },
+  "_description_privacy_policy": {
+    "message": "Privatumo politika"
+  },
+  "_description_recent_features": {
+    "message": "Paskutinės patalpos:"
+  },
+  "_description_common_tags": {
+    "message": "Žymos:"
+  }
+}

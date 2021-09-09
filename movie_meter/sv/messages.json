@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "datum, imdb, beskrivning, avsnitt, mätare, graf, imdb, info, meter, film, film, filmer, netflix, imdb, betyg, serie, visar, tv, tv-show, video, visuell, röster, säsong"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "film ej hittad / fel film hittades - Eftersom det inte finns någon \"officiell\" integration med målsidor, kan jag inte garantera 100% korrekta resultat (men i majoriteten fungerar det perfekt)"
+  },
+  "_description_mm_not_working": {
+    "message": "Fungerar inte på din favoritfilm sida?"
+  },
+  "_description_mm_add_support": {
+    "message": "Kontakta mig och jag lägger till den - om möjligt (sidan måste innehålla filmnamn på engelska eller $visit_imdb$-länk)."
+  },
+  "_description_mm_feature_1": {
+    "message": "filmräkning och popularitet från $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "nästa / tidigare episoddatum från $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "ytterligare information om film / tv-serie"
+  },
+  "_description_mm_feature_4": {
+    "message": "meddelande om ny episod"
+  },
+  "_description_mm_feature_5": {
+    "message": "markera TV-serien som favorit och du får meddelande när ny episod är tillgänglig"
+  },
+  "_description_mm_feature_7": {
+    "message": "automatisk hide när videouppspelning detekteras"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ kommer att visa dig betyg och popularitet hos en film (eller tv-serie)"
+  },
+  "name": {
+    "message": "Namn"
+  },
+  "year": {
+    "message": "År"
+  },
+  "video_type": {
+    "message": "Typ"
+  },
+  "video_type_0": {
+    "message": "Film"
+  },
+  "video_type_1": {
+    "message": "Serier"
+  },
+  "video_type_2": {
+    "message": "Episod"
+  },
+  "runtime": {
+    "message": "Körning"
+  },
+  "premiered": {
+    "message": "Premiär"
+  },
+  "premiere_in": {
+    "message": "Premiär i"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Land"
+  },
+  "actors": {
+    "message": "Skådespelare"
+  },
+  "dvd": {
+    "message": "Dvd"
+  },
+  "director": {
+    "message": "Direktör"
+  },
+  "totalseasons": {
+    "message": "Totala årstider"
+  },
+  "writer": {
+    "message": "Författare"
+  },
+  "language": {
+    "message": "Språk"
+  },
+  "awards": {
+    "message": "Utmärkelser"
+  },
+  "rated": {
+    "message": "Rankad"
+  },
+  "production": {
+    "message": "Produktion"
+  },
+  "plot": {
+    "message": "Komplott"
+  },
+  "website": {
+    "message": "Hemsida"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Besök $visit_imdb$ sida"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Besök $visit_tvmaze$ sida för den här showen"
+  },
+  "make_favorite": {
+    "message": "Favorit"
+  },
+  "make_favorite_title": {
+    "message": "Lägg till TV-serier till favoriter. Detta gör att du kan få anmälan om nya episoder."
+  },
+  "last_episode": {
+    "message": "Sista"
+  },
+  "next_episode": {
+    "message": "Nästa"
+  },
+  "last_episode_title": {
+    "message": "Senaste avsnittet"
+  },
+  "next_episode_title": {
+    "message": "Nästa avsnitt"
+  },
+  "episode_airtime": {
+    "message": "Luft tid"
+  },
+  "episode_name": {
+    "message": "Namn"
+  },
+  "series_status": {
+    "message": "Status"
+  },
+  "episodes_count": {
+    "message": "Episoder"
+  },
+  "episodes_count_title": {
+    "message": "Aktuell säsong $1 har $2 episoder"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "dagar"
+  },
+  "hours": {
+    "message": "himmar"
+  },
+  "na": {
+    "message": "Inte tillgänglig"
+  },
+  "user_rating": {
+    "message": "Användarbetyg: $1"
+  },
+  "user_popularity": {
+    "message": "Popularitet: $1 röster"
+  },
+  "source": {
+    "message": "Källa: $1"
+  },
+  "show_details": {
+    "message": "mer..."
+  },
+  "hide_details": {
+    "message": "mindre..."
+  },
+  "save_position": {
+    "message": "Spara position"
+  },
+  "revert_position": {
+    "message": "Återgå till"
+  },
+  "win_disable": {
+    "message": "Inaktivera den $1"
+  },
+  "cm_advanced": {
+    "message": "Avancerad"
+  },
+  "op_visit_home": {
+    "message": "Besök hemsida"
+  },
+  "op_support_me": {
+    "message": "Hjälp detta projekt"
+  },
+  "hide": {
+    "message": "Dölj fönster"
+  },
+  "show": {
+    "message": "Visa fönster"
+  },
+  "reset_position": {
+    "message": "Återställ position"
+  },
+  "search": {
+    "message": "Sök"
+  },
+  "configure_search": {
+    "message": "Konfigurera sökalternativ"
+  },
+  "selection_search": {
+    "message": "Sök $1"
+  },
+  "menu_options": {
+    "message": "Alternativ"
+  },
+  "menu_quick_options": {
+    "message": "Snabba alternativ"
+  },
+  "menu_visit_homepage": {
+    "message": "Besök hemsida"
+  },
+  "menu_request_support": {
+    "message": "Begär stöd för $1"
+  },
+  "show_introduction": {
+    "message": "Visa introduktionssida"
+  },
+  "o_about_issues": {
+    "message": "Rapportera problem:"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons"
+  },
+  "chrome_store": {
+    "message": "Chrome webbutik"
+  },
+  "movie_not_detected": {
+    "message": "Film inte detekterad"
+  },
+  "movie_not_detected_title": {
+    "message": "Ingen film / tv-serie upptäcktes inte på den här sidan."
+  },
+  "movie_not_found": {
+    "message": "Film inte hittad"
+  },
+  "movie_not_found_title": {
+    "message": "Filminformation hittades inte på servern."
+  },
+  "status_type_0": {
+    "message": "Löpning"
+  },
+  "status_type_1": {
+    "message": "Slut"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Show fortsätter"
+  },
+  "status_type_title_1": {
+    "message": "Show har slutat - det finns inga fler årstider planerade"
+  },
+  "status_type_title_2": {
+    "message": "Visar framtid är oklart"
+  },
+  "notify_movie_not_found": {
+    "message": "Movie hittades inte: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Använd endast engelska filmnamn!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Sök är inte perfekt ..."
+  },
+  "notify_video_hide": {
+    "message": "Video detekterad - $app_name$ är nu dold"
+  },
+  "notify_video_hide_body": {
+    "message": "Klicka här för att inte visa denna anmälan igen"
+  },
+  "notify_new_episodes": {
+    "message": "Ny episod var aired"
+  },
+  "title_introduction": {
+    "message": "Introduktion"
+  },
+  "supported_pages": {
+    "message": "Stödda sidor:"
+  },
+  "supported_grows": {
+    "message": "(den här listan växer större och större)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Betygsätt och popularitetsinformation är från $1$. Information om episoder är från $2$."
+  },
+  "title_got_it": {
+    "message": "Fick det, låt oss börja!"
+  },
+  "_description_privacy_policy": {
+    "message": "Integritetspolicy"
+  },
+  "_description_recent_features": {
+    "message": "Nyligen tillagda funktioner:"
+  },
+  "_description_known_issues": {
+    "message": "Kända problem:"
+  },
+  "_description_common_tags": {
+    "message": "Taggar:"
+  },
+  "_description_features": {
+    "message": "Funktioner:"
+  },
+  "about_me": {
+    "message": "Jag är Addon Developer sedan 2016. Mitt mål är att bygga kraftfulla tillägg för din webbläsare för att göra dig mer produktiv."
+  },
+  "about_good_job": {
+    "message": "Om du tror att jag gör ett bra jobb, snälla donera :)"
+  },
+  "about_income": {
+    "message": "Din donation är min enda inkomst!"
+  },
+  "about_thanks": {
+    "message": "Tack för att du har stött på mitt arbete!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Banköverföring med IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Stöd oberoende utvecklare!"
+  }
+}

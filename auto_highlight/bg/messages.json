@@ -1,0 +1,667 @@
+{
+  "_description_ah_why_1": {
+    "message": "Понякога страницата просто не е проектирана добре и информацията, която търсите, не е достатъчно видима."
+  },
+  "_description_ah_use_cases_0": {
+    "message": "Общи случаи на употреба:"
+  },
+  "_description_ah_use_cases_1": {
+    "message": "Маркирайте метаданните като:"
+  },
+  "_description_ah_use_cases_2": {
+    "message": "Маркирайте \"Безплатна доставка\" :)"
+  },
+  "_description_ah_use_cases_3": {
+    "message": "Търсите ли нещо специфично в мрежата? Използвайте \"Timeal Highlight\", за да ви помогнат да го намерите на всички страници. Временните акценти са автоматично изтрити, когато затворите браузъра си."
+  },
+  "_description_ah_use_cases_4": {
+    "message": "Можете дори да скриете думите, като зададете размер на шрифта до нула или да ги направите прозрачни."
+  },
+  "_description_tags_ah": {
+    "message": "маркиране, марка, метаданни, филм, автоматичен, текст, синхронизация, избор, търсене"
+  },
+  "app_name": {
+    "message": "Auto Highlight"
+  },
+  "app_desc": {
+    "message": "$app_name$ автоматично ще подчертае определени думи на определени страници."
+  },
+  "match_type": {
+    "message": "Тип съвпадение:"
+  },
+  "match_type_0": {
+    "message": "Домейн е"
+  },
+  "match_type_1": {
+    "message": "URL адрес"
+  },
+  "match_type_2": {
+    "message": "URL адресът съдържа"
+  },
+  "match_type_3": {
+    "message": ""
+  },
+  "match_type_4": {
+    "message": "Всяка страница"
+  },
+  "selection_highlight": {
+    "message": "Маркирайте $1."
+  },
+  "selection_temp": {
+    "message": "Временно маркирайте $1."
+  },
+  "selection_temp_everywhere": {
+    "message": "Временно подчертайте навсякъде $1"
+  },
+  "page_highlight": {
+    "message": "$app_name$ на тази страница"
+  },
+  "toolbar_click_new_tab": {
+    "message": "Винаги отваряйте в нов раздел - когато кликнете върху иконата на лентата с инструменти"
+  },
+  "disable_rule": {
+    "message": "Хора с увреждания"
+  },
+  "temporal_rule": {
+    "message": "Временно"
+  },
+  "each_word": {
+    "message": "Всяка дума"
+  },
+  "rules": {
+    "message": "Правила"
+  },
+  "delete": {
+    "message": "Изтрий"
+  },
+  "rename": {
+    "message": "Преименуване"
+  },
+  "duplicate": {
+    "message": "Дубликат"
+  },
+  "delete_rule": {
+    "message": "Изтриване на правило"
+  },
+  "delete_rule_title": {
+    "message": "Изтриване на правило \"$1\"?"
+  },
+  "on_pages": {
+    "message": "На страници:"
+  },
+  "disabled_rule": {
+    "message": "Деактивирано правило"
+  },
+  "incomplete_rule": {
+    "message": "Непълно правило"
+  },
+  "active_on_current_page": {
+    "message": "Активен на текущата страница"
+  },
+  "temporal_rule_helper": {
+    "message": "Временното правило - ще бъде изтрито след рестартиране на браузъра"
+  },
+  "active_on_pages": {
+    "message": "Активен на страници:"
+  },
+  "highlight_each_word_separately": {
+    "message": "Подчертайте всяка дума отделно"
+  },
+  "case_sensitive": {
+    "message": "Различаващ главни от малки букви"
+  },
+  "ignore_diacritics": {
+    "message": "Игнорирайте диакритиците"
+  },
+  "reg_exp": {
+    "message": "RegExp"
+  },
+  "regular_expression": {
+    "message": "Редовен израз"
+  },
+  "across_elements": {
+    "message": "По елементи"
+  },
+  "across_elements_help": {
+    "message": "Търсене на текст в HTML елементи"
+  },
+  "style": {
+    "message": "Стил"
+  },
+  "preview": {
+    "message": "Визуализация:"
+  },
+  "empty_rule": {
+    "message": "празно правило"
+  },
+  "create_new_rule": {
+    "message": "Създайте ново правило"
+  },
+  "import_export": {
+    "message": "Внос износ"
+  },
+  "help_this_project": {
+    "message": "Помогнете на този проект"
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "faq": {
+    "message": "ЧЗВ:"
+  },
+  "storage_info": {
+    "message": "Информация за съхранение:"
+  },
+  "storage_safari_1": {
+    "message": "Safari в момента не поддържа автоматична синхронизация на данни."
+  },
+  "storage_safari_2": {
+    "message": "За да прехвърлите (или архивиране) Вашите правила за подчертаване, използвайте функцията \"Import / Export\"."
+  },
+  "storage_info_1": {
+    "message": "Вашите правила се съхраняват чрез Secure $1 Sync, която ще синхронизира вашите правила между всичките ви устройства (ако сте влезли в същия акаунт)."
+  },
+  "storage_info_2": {
+    "message": "Това облачно съхранение може да съхранява 100 KB данни и до 500 марки за подчертаване."
+  },
+  "storage_info_3": {
+    "message": "Можете също така да експортирате (архивиране) вашите правила към файл, като използвате функцията \"импортиране / експортиране\" и след това го импортирайте на други устройства."
+  },
+  "replace_existing_highlight_rules": {
+    "message": "Замени съществуващите правила за подчертаване"
+  },
+  "add_page_to_highlight_on": {
+    "message": "Добавете страница, за да маркирате"
+  },
+  "remove_highlight_from_page": {
+    "message": "Премахнете маркирането от страницата"
+  },
+  "bold": {
+    "message": ""
+  },
+  "italic": {
+    "message": "Italic."
+  },
+  "underline": {
+    "message": "Подчертайте"
+  },
+  "background_color": {
+    "message": "Цвят на фона"
+  },
+  "background": {
+    "message": "Заден план"
+  },
+  "text_color": {
+    "message": "Цвят на текста"
+  },
+  "color": {
+    "message": "Цвят"
+  },
+  "font_size": {
+    "message": "Размер на шрифта"
+  },
+  "rule_name": {
+    "message": "Име на правилото"
+  },
+  "highlight_regular_expression": {
+    "message": "Подчертайте редовния израз:"
+  },
+  "highlight_text": {
+    "message": "Маркирайте текста:"
+  },
+  "highlight_on_pages": {
+    "message": "Маркирайте страниците"
+  },
+  "empty_name_helper": {
+    "message": "Оставете празно, за да използвате \"подчертан текст\" като име"
+  },
+  "faq_1": {
+    "message": "Как бързо да маркирате дума на текущата страница?"
+  },
+  "faq_1a": {
+    "message": "Използвайте контекстното меню - изберете текст / щракнете с десния бутон / \"Auto Highlight\". Ако кликнете с десния бутон на мишката върху страница (без избор на текст) Можете да приложите съществуващи правила към текущата страница."
+  },
+  "faq_2": {
+    "message": "Искам да подчертая множество думи, трябва ли да създам ново правило за всяка дума поотделно?"
+  },
+  "faq_2a": {
+    "message": "Не, проверете квадратчето \"всяка дума\". След това всяка дума ще бъде подчертана отделно."
+  },
+  "faq_3": {
+    "message": "Какво е това \"RegExp\"?"
+  },
+  "faq_3a": {
+    "message": "Също известен като редовен израз, това е последователност от символи, които определят модел за търсене. Това е сложна конструкция, която позволява сложно подчертаване на елементи с някакъв подобен модел. Например цени, дати, телефонни номера и др."
+  },
+  "faq_4": {
+    "message": "Можете ли да ми покажете някои примери за RegExp?"
+  },
+  "faq_4a": {
+    "message": "Маркирайте всички цени като $1"
+  },
+  "faq_5": {
+    "message": "Можете ли да обясните тези?"
+  },
+  "faq_5a": {
+    "message": "\"$1$\" подчертава знака на долара. Наклонът е необходим тук, защото доларът има специално значение в RegExp."
+  },
+  "faq_5b": {
+    "message": "\"$1$\" подчертава една цифра"
+  },
+  "faq_5c": {
+    "message": "\"$1$\" означава повторете един или повече пъти. Когато се поставя след цифров селектор $2$, това означава една или повече цифри."
+  },
+  "faq_5d": {
+    "message": "\"$1$\" подчертава точка. Наклонът отново е необходим, защото само символът DOT означава всеки един символ в RegExp."
+  },
+  "faq_5e": {
+    "message": "\"$1$\" означава нула или един път. Когато се поставят след скоби $2$, това означава, че каквото е вътре в тези скоби, е по избор (може да бъде там, или не). Ние го използваме за десетичната част на номера, който е по избор."
+  },
+  "faq_5f": {
+    "message": "повече информация за RegExp правилата"
+  },
+  "import_finished": {
+    "message": "Внос завърши!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Грешка",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Импортиране на архивен файл $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Начална страница",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon страница",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Хром уеб магазин",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Добавки от Firefox",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Добавки от гръмотевици",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Настроики",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Размер на шрифта",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Размер на страничната лента",
+    "common": true
+  },
+  "label_next": {
+    "message": "Следващия",
+    "common": true
+  },
+  "label_note": {
+    "message": "Забележка:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Премахване",
+    "common": true
+  },
+  "label_warning": {
+    "message": "ВНИМАНИЕ:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Настроики:",
+    "common": true
+  },
+  "label_default": {
+    "message": "По подразбиране:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Свършен!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Копиран!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Персонализиран:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Близо",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Инсталиран",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Отворете страницата",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Съгласен",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Отказ",
+    "common": true
+  },
+  "label_save": {
+    "message": "Save.",
+    "common": true
+  },
+  "label_required": {
+    "message": "Изисква се",
+    "common": true
+  },
+  "label_sending": {
+    "message": "изпращане...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Скала:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Размер:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Очаквайте скоро",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Запазите промените",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Отхвърлите промените",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Меню",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Посетете началната страница",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Помогнете на този проект",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Поддръжка на независим разработчик!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Здравей!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Аз съм предприемач на Addon от 2016 г. Целта ми е да изградя мощни разширения за вашия уеб браузър, за да ви направи по-продуктивни.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Ако мислите, че правя добра работа, моля да даря :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Вашето дарение е единственият ми доход!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Благодарим ви, че подкрепяхте работата ми!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Помогне",
+    "common": true
+  },
+  "o_title": {
+    "message": "Опции - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "гръб",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Създайте нов архив",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Запазване на настройките",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "За да експортирате данните си в даден файл, отворете отново този прозорец в нов раздел.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Кликнете с десния бутон / \"Изтегляне на файла\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Общ",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Заден план",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Контекстно меню",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Миниатюри",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Преки пътища",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Импортиране / архивиране",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Настройки",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Тема:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Общ:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "хора с увреждания",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "активиран",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "пиксели",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "секунди",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Контекстно меню:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Деактивиране на контекстното меню: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Настройки за архивиране / възстановяване към файл:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Внос",
+    "common": true
+  },
+  "title_import": {
+    "message": "Внос",
+    "common": true
+  },
+  "title_export": {
+    "message": "Износ",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Износ Backup.",
+    "common": true
+  },
+  "label_or": {
+    "message": "или",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Здравейте :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Моето име е $1$ и аз съм автор на $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Ако ви харесва, моля, оценете го тук:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Ако не ви харесва, моля да ме уведомите защо на моя имейл. Аз изпълнявам повечето от исканията за функции, които получавам.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Моля, помислете за подкрепата ми",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Банков превод, използващ IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "дарение (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "ставайки моя покровител",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Благодаря ти!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "у дома:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Контакт:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Доклад Въпроси:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Мога да отговоря само на английски / словашки",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Социална медия:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Запазете промените и затворете",
+    "common": true
+  },
+  "o_saved": {
+    "message": "запазени!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Няма съвпадение",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Няма данни",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Тъмен режим",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Контролирано от системата",
+    "common": true
+  },
+  "used_space": {
+    "message": "Използвано пространство: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Отворете в нов раздел",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Превключване на addon включване / изключване",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon е инвалид",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Защо?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Декларация за поверителност",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Наскоро добавени функции:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Тагове:",
+    "common": true
+  }
+}

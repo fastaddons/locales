@@ -1,0 +1,341 @@
+{
+  "_description_tags_mm": {
+    "message": "dATUM, IMDB, BESCHRIJVING, Aflevering, Meter, Grafiek, IMDB, Info, Meter, Movie, Film, Films, Netflix, IMDB, Rating, Serie, Tails, TV, TV-show, video, visuele, stemmen, seizoen"
+  },
+  "_description_known_issue_mm_1": {
+    "message": "film niet gevonden / verkeerde film gevonden - Omdat er geen \"officiële\" integratie met doelpagina's is, kan ik geen 100% correcte resultaten garanderen (maar in de meerderheid van de gevallen werkt het perfect)"
+  },
+  "_description_mm_not_working": {
+    "message": "Werkt niet op je favoriete filmpagina?"
+  },
+  "_description_mm_add_support": {
+    "message": "Neem contact met me op en ik zal het toevoegen - indien mogelijk (pagina moet filmnaam bevatten in het Engels of $visit_imdb$ link)."
+  },
+  "_description_mm_feature_1": {
+    "message": "filmclassificatie en populariteit van $visit_imdb$"
+  },
+  "_description_mm_feature_2": {
+    "message": "volgende / vorige aflevering datum van $visit_tvmaze$"
+  },
+  "_description_mm_feature_3": {
+    "message": "extra informatie over film / tv-serie"
+  },
+  "_description_mm_feature_4": {
+    "message": "melding over nieuwe aflevering"
+  },
+  "_description_mm_feature_5": {
+    "message": "markeer tv-serie als favoriet en u krijgt een melding wanneer er nieuwe aflevering beschikbaar is"
+  },
+  "_description_mm_feature_7": {
+    "message": "auto-verbergen wanneer video-afspelen is gedetecteerd"
+  },
+  "app_name": {
+    "message": "Movie Meter"
+  },
+  "app_desc": {
+    "message": "$app_name$ toont u waardering en populariteit van een film (of tv-serie)"
+  },
+  "name": {
+    "message": "Naam"
+  },
+  "year": {
+    "message": "Jaar"
+  },
+  "video_type": {
+    "message": "Type"
+  },
+  "video_type_0": {
+    "message": "Film"
+  },
+  "video_type_1": {
+    "message": "Serie"
+  },
+  "video_type_2": {
+    "message": "Aflevering"
+  },
+  "runtime": {
+    "message": "Runtime"
+  },
+  "premiered": {
+    "message": "Première"
+  },
+  "premiere_in": {
+    "message": "Première in"
+  },
+  "premiere_days_ago": {
+    "message": "Premiered $1 days ago."
+  },
+  "country": {
+    "message": "Land"
+  },
+  "actors": {
+    "message": "Acteurs"
+  },
+  "dvd": {
+    "message": "DVD"
+  },
+  "director": {
+    "message": "Regisseur"
+  },
+  "totalseasons": {
+    "message": "Totale seizoenen"
+  },
+  "writer": {
+    "message": "Auteur"
+  },
+  "language": {
+    "message": "Taal"
+  },
+  "awards": {
+    "message": "Awards"
+  },
+  "rated": {
+    "message": "Beoordeeld"
+  },
+  "production": {
+    "message": "Productie"
+  },
+  "plot": {
+    "message": "Verhaal"
+  },
+  "website": {
+    "message": "Website"
+  },
+  "visit_imdb": {
+    "message": "IMDb"
+  },
+  "visit_imdb_title": {
+    "message": "Bezoek $visit_imdb$ pagina"
+  },
+  "visit_tvmaze": {
+    "message": "TV Maze"
+  },
+  "visit_tvmaze_title": {
+    "message": "Bezoek $visit_tvmaze$ pagina voor deze show"
+  },
+  "make_favorite": {
+    "message": "Favoriete"
+  },
+  "make_favorite_title": {
+    "message": "Voeg tv-serie toe aan favorieten. Hiermee kunt u kennis ontvangen van nieuwe afleveringen."
+  },
+  "last_episode": {
+    "message": "Laatste"
+  },
+  "next_episode": {
+    "message": "De volgende"
+  },
+  "last_episode_title": {
+    "message": "Laatste aflevering"
+  },
+  "next_episode_title": {
+    "message": "Volgende aflevering"
+  },
+  "episode_airtime": {
+    "message": "Zendtijd"
+  },
+  "episode_name": {
+    "message": "Naam"
+  },
+  "series_status": {
+    "message": "Toestand"
+  },
+  "episodes_count": {
+    "message": "Episodes"
+  },
+  "episodes_count_title": {
+    "message": "Huidig seizoen $1 heeft $2 episodes"
+  },
+  "days_short": {
+    "message": "d"
+  },
+  "hours_short": {
+    "message": "h"
+  },
+  "days": {
+    "message": "dagen"
+  },
+  "hours": {
+    "message": "uren"
+  },
+  "na": {
+    "message": "Niet beschikbaar"
+  },
+  "user_rating": {
+    "message": "Gebruikersbeoordeling: $1"
+  },
+  "user_popularity": {
+    "message": "Populariteit: $1 stemmen"
+  },
+  "source": {
+    "message": "Bron: $1"
+  },
+  "show_details": {
+    "message": "meer..."
+  },
+  "hide_details": {
+    "message": "minder..."
+  },
+  "save_position": {
+    "message": "Veilige positie"
+  },
+  "revert_position": {
+    "message": "REVERVERENDE POSITIE"
+  },
+  "win_disable": {
+    "message": "Uitschakelen op $1"
+  },
+  "cm_advanced": {
+    "message": "Geavanceerd"
+  },
+  "op_visit_home": {
+    "message": "Ga naar de startpagina"
+  },
+  "op_support_me": {
+    "message": "Help dit project"
+  },
+  "hide": {
+    "message": "Verberg venster"
+  },
+  "show": {
+    "message": "Weergeven"
+  },
+  "reset_position": {
+    "message": "Reset positie"
+  },
+  "search": {
+    "message": "Zoeken"
+  },
+  "configure_search": {
+    "message": "Configureer zoekopties"
+  },
+  "selection_search": {
+    "message": "ZOEKEN $1"
+  },
+  "menu_options": {
+    "message": "Opties"
+  },
+  "menu_quick_options": {
+    "message": "Snelle opties"
+  },
+  "menu_visit_homepage": {
+    "message": "Ga naar de startpagina"
+  },
+  "menu_request_support": {
+    "message": "Ondersteuning aanvragen voor $1"
+  },
+  "show_introduction": {
+    "message": "Toon introductiepagina"
+  },
+  "o_about_issues": {
+    "message": "Rapporteer problemen:"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons pagina"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store pagina"
+  },
+  "movie_not_detected": {
+    "message": "Film niet gedetecteerd"
+  },
+  "movie_not_detected_title": {
+    "message": "Er is geen film / tv-serie gedetecteerd op deze pagina."
+  },
+  "movie_not_found": {
+    "message": "Film niet gevonden"
+  },
+  "movie_not_found_title": {
+    "message": "Film Info is niet gevonden op de server."
+  },
+  "status_type_0": {
+    "message": "Rennen"
+  },
+  "status_type_1": {
+    "message": "Beëindigd"
+  },
+  "status_type_2": {
+    "message": "To Be Determined"
+  },
+  "status_type_title_0": {
+    "message": "Show zal doorgaan"
+  },
+  "status_type_title_1": {
+    "message": "Show is beëindigd - er zijn geen geplande seizoenen"
+  },
+  "status_type_title_2": {
+    "message": "Toont de toekomst is onduidelijk"
+  },
+  "notify_movie_not_found": {
+    "message": "Film niet gevonden: $1"
+  },
+  "notify_movie_not_found_body": {
+    "message": "Gebruik alleen Engelse filmnaam!"
+  },
+  "notify_movie_not_found_body2": {
+    "message": "Zoeken is niet perfect ..."
+  },
+  "notify_video_hide": {
+    "message": "Video gedetecteerd - $app_name$ is nu verborgen"
+  },
+  "notify_video_hide_body": {
+    "message": "Klik hier om deze melding niet opnieuw te tonen"
+  },
+  "notify_new_episodes": {
+    "message": "Nieuwe aflevering is uitgezonden"
+  },
+  "title_introduction": {
+    "message": "Introductie"
+  },
+  "supported_pages": {
+    "message": "Ondersteunde pagina's:"
+  },
+  "supported_grows": {
+    "message": "(Deze lijst groeit groter en groter)"
+  },
+  "credits_imdb_tvmaze": {
+    "message": "Ratings en populariteitsinformatie zijn van $1$. Informatie over afleveringen zijn van $2$."
+  },
+  "title_got_it": {
+    "message": "Ik snap het, Aan de slag!"
+  },
+  "_description_privacy_policy": {
+    "message": "Privacybeleid"
+  },
+  "_description_recent_features": {
+    "message": "Recent toegevoegde functies:"
+  },
+  "_description_known_issues": {
+    "message": "Bekende problemen:"
+  },
+  "_description_common_tags": {
+    "message": "Tags:"
+  },
+  "_description_features": {
+    "message": "Kenmerken:"
+  },
+  "about_me": {
+    "message": "Ik ben sinds 2016 Addon-ontwikkelaar. Mijn doel is om krachtige extensies voor uw webbrowser te bouwen om u productiever te maken."
+  },
+  "about_good_job": {
+    "message": "Als je denkt dat ik goed werk doe, doneer alsjeblieft :)"
+  },
+  "about_income": {
+    "message": "Uw donatie is mijn enige inkomen!"
+  },
+  "about_thanks": {
+    "message": "Bedankt voor het ondersteunen van mijn werk!"
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankoverschrijving met behulp van IBAN:"
+  },
+  "_description_credits": {
+    "message": "Credits:"
+  },
+  "support_developer": {
+    "message": "Ondersteuning onafhankelijke ontwikkelaar!"
+  }
+}

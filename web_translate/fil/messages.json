@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Isalin ang napiling teksto (mula sa menu ng konteksto)"
+  },
+  "_description_feature_2": {
+    "message": "Buong pagsasalin ng pahina"
+  },
+  "_description_feature_3": {
+    "message": "Madilim na mode!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, Madilim, Email, Google, Lang, Wika, Microsoft, Pahina, Preklad, Prekladač, S3, Pinili, Teksto, Traducteur, Translate, Translator, Übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ ay madaling gamitin Tagasalin para sa iyong web browser / Thunderbird!"
+  },
+  "o_tab_translate": {
+    "message": "Isalin"
+  },
+  "_description_supported_translators": {
+    "message": "Mga suportadong tagapagkaloob ng pagsasalin:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Modal window"
+  },
+  "open_in_1": {
+    "message": "Popup window"
+  },
+  "open_in_2": {
+    "message": "Bagong tab"
+  },
+  "open_in_3": {
+    "message": "Bagong window"
+  },
+  "open_in_4": {
+    "message": "Bagong tab (walang lalagyan)"
+  },
+  "modal_window": {
+    "message": "Modal window"
+  },
+  "toolbar_icon_action": {
+    "message": "Pagkilos ng icon ng toolbar"
+  },
+  "toolbar_icon_text": {
+    "message": "Toolbar Icon Text."
+  },
+  "sidebar_size": {
+    "message": "SIZE SIZE."
+  },
+  "translation_provider": {
+    "message": "Tagapagbigay ng pagsasalin"
+  },
+  "translate_to": {
+    "message": "Isalin sa:"
+  },
+  "no_overlay": {
+    "message": "Walang overlay (ang madilim na lugar sa paligid)"
+  },
+  "no_overlay_hint": {
+    "message": "Modal window ay mananatiling bukas kahit na mag-click ka sa labas."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Buksan ang pagsasalin sa:"
+  },
+  "fallback_1": {
+    "message": "Paraan ng fallback"
+  },
+  "fallback_2": {
+    "message": "Paraan ng fallback"
+  },
+  "fallback_title": {
+    "message": "Ang modal window at popup window ay hindi maaaring gamitin sa ilang mga kaso."
+  },
+  "open_in_tab": {
+    "message": "Buksan sa bagong tab"
+  },
+  "translate_this_page": {
+    "message": "Isalin ang pahinang ito"
+  },
+  "selection_translate": {
+    "message": "Isalin ang \"$1\""
+  },
+  "page_translate": {
+    "message": "Pahina ng isalin"
+  },
+  "selected_text": {
+    "message": "napiling teksto"
+  },
+  "disable_context_menu": {
+    "message": "Huwag paganahin ang menu ng konteksto: \"$1\""
+  },
+  "import_finished": {
+    "message": "Tapos na ang pag-import!"
+  },
+  "import_error": {
+    "message": "Error"
+  },
+  "import_backup_file": {
+    "message": "I-import ang backup na file na $1"
+  },
+  "search_search": {
+    "message": "Maghanap"
+  },
+  "homepage": {
+    "message": "Homepage"
+  },
+  "addon_page": {
+    "message": "Pahina ng Addon"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store."
+  },
+  "firefox_store": {
+    "message": "Firefox add-ons."
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird add-ons."
+  },
+  "label_font_size": {
+    "message": "Laki ng font"
+  },
+  "label_next": {
+    "message": "Susunod"
+  },
+  "label_note": {
+    "message": "Tandaan:"
+  },
+  "label_remove": {
+    "message": "Tanggalin"
+  },
+  "label_warning": {
+    "message": "BABALA:"
+  },
+  "label_default": {
+    "message": "Default:"
+  },
+  "label_done": {
+    "message": "Tapos na!"
+  },
+  "label_copied": {
+    "message": "Kinopya!"
+  },
+  "label_close": {
+    "message": "Isara"
+  },
+  "label_open_page": {
+    "message": "Buksan ang pahina"
+  },
+  "label_agree": {
+    "message": "Sang-ayon"
+  },
+  "label_cancel": {
+    "message": "Kanselahin"
+  },
+  "op_support_me": {
+    "message": "Tulungan ang proyektong ito"
+  },
+  "support_developer": {
+    "message": "Suportahan ang independiyenteng developer!"
+  },
+  "hello_there": {
+    "message": "Kamusta diyan!"
+  },
+  "about_me": {
+    "message": "Nag-develop ako ng addon mula pa noong 2016 at ang aking hangarin ay upang bumuo ng mga makapangyarihang extension para sa iyong web-browser upang mas maging produktibo ka."
+  },
+  "about_good_job": {
+    "message": "Kung sa palagay mo ay mahusay ako sa trabaho, mangyaring mag-abuloy :)"
+  },
+  "about_income": {
+    "message": "Ang donasyon mo lang ang kita ko!"
+  },
+  "about_thanks": {
+    "message": "Salamat sa pagsuporta sa aking trabaho!"
+  },
+  "o_tab_context_menu": {
+    "message": "Menu ng konteksto"
+  },
+  "o_tab_about": {
+    "message": "Tungkol sa"
+  },
+  "o_tab_settings": {
+    "message": "Mga setting"
+  },
+  "o_pixels": {
+    "message": "mga pixel"
+  },
+  "o_seconds": {
+    "message": "segundo"
+  },
+  "label_or": {
+    "message": "o"
+  },
+  "o_about_hello": {
+    "message": "Kamusta :)"
+  },
+  "o_about_intro": {
+    "message": "Ang pangalan ko ay $1$ at ako ang may-akda ng $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Kung gusto mo ito, mangyaring i-rate ito dito:"
+  },
+  "o_about_thanks": {
+    "message": "Salamat!"
+  },
+  "o_about_contact": {
+    "message": "Makipag-ugnay sa:"
+  },
+  "o_about_issues": {
+    "message": "Iulat ang mga isyu:"
+  },
+  "o_about_social_media": {
+    "message": "Social Media:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Bank transfer gamit ang Iban:"
+  },
+  "ps_no_results": {
+    "message": "Walang tumutugma na mga resulta"
+  },
+  "label_no_data": {
+    "message": "Walang data"
+  },
+  "dark_mode": {
+    "message": "Madilim na mode"
+  },
+  "dark_mode_system": {
+    "message": "Kinokontrol ng system"
+  },
+  "_description_features": {
+    "message": "Mga Tampok:"
+  },
+  "_description_why": {
+    "message": "Bakit?"
+  },
+  "_description_privacy_policy": {
+    "message": "Patakaran sa Pagkapribado"
+  },
+  "_description_recent_features": {
+    "message": "Kamakailang idinagdag na mga tampok:"
+  },
+  "_description_common_tags": {
+    "message": "Tags:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Magagamit din para sa iyong Firefox:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Magagamit din para sa iyong Thunderbird:"
+  }
+}

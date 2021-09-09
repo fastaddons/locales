@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "oriunde, buton, cursor, drag, apuca, apuca trageți, apuca și trageți, infinit, stânga, mijloc, impuls, mouse, mutare, pagină, dreapta, derulare, derulare pagină, scroll bara, derulare, arunca"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Glisați bara de defilare cu butonul din mijloc al mouse-ului oriunde pe pagină."
+  },
+  "field_int_default_value": {
+    "message": "Valoarea implicită: $1, min: $2, max: $3"
+  },
+  "field_set_default": {
+    "message": "Resetați la valoarea implicită: $1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-ons"
+  },
+  "firefox_store": {
+    "message": "Pagina complementelor Firefox"
+  },
+  "chrome_store": {
+    "message": "pagina Magazin Web Chrome"
+  },
+  "safari_store": {
+    "message": "Magazin de aplicații Mac."
+  },
+  "win_disable": {
+    "message": "Dezactivează $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Dezactivați defilarea orizontală pe $1"
+  },
+  "op_visit_home": {
+    "message": "Accesați pagina de pornire"
+  },
+  "op_support_me": {
+    "message": "Ajutați acest proiect"
+  },
+  "o_title": {
+    "message": "Opțiuni - $1"
+  },
+  "o_tab_general": {
+    "message": "General"
+  },
+  "o_tab_momentum": {
+    "message": "Momentum"
+  },
+  "o_tab_cursor": {
+    "message": "Cursor"
+  },
+  "o_axis_locking": {
+    "message": "Axă Blocare"
+  },
+  "o_tab_performance": {
+    "message": "Performanță"
+  },
+  "o_tab_disabled_on": {
+    "message": "Dezactivat activat"
+  },
+  "o_tab_advanced": {
+    "message": "Avansat"
+  },
+  "o_tab_scrollbars": {
+    "message": "Barele de derulare"
+  },
+  "o_tab_backup": {
+    "message": "Backup"
+  },
+  "o_tab_about": {
+    "message": "Despre"
+  },
+  "o_axis_lock_helper": {
+    "message": "Când derulați o cutie care este scollabilă într-o axă, dar cutia parentală este scrollabilă în altă axă, blocarea derulării la o singură axă utilizând:"
+  },
+  "o_axis_lock_0": {
+    "message": "Blocare inteligentă - blocare temporală folosind impulsul"
+  },
+  "o_axis_lock_1": {
+    "message": "Blocare strictă - blocare directă instantanee"
+  },
+  "o_axis_lock_2": {
+    "message": "Fără derulare fără blocare în ambele axe"
+  },
+  "o_trend_momentum_window": {
+    "message": "Smart Block Stack Dimensiune"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Valoarea mai mare va necesita mai mult derulare în axa opusă pentru a schimba axa de derulare."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon este dezactivat! Faceți clic aici pentru a activa."
+  },
+  "o_cursor_change_default": {
+    "message": "nicio modificare - cea mai bună performanță"
+  },
+  "o_scroll_button": {
+    "message": "Butonul de derulare:"
+  },
+  "o_direction_speed": {
+    "message": "Stil de defilare / direcție / viteză:"
+  },
+  "o_multiplier": {
+    "message": "Multiplicator"
+  },
+  "o_times_speed": {
+    "message": "viteza de defilare"
+  },
+  "o_maximum_speed": {
+    "message": "Viteza maximă de derulare (0 - dezactivată):"
+  },
+  "o_ratio_unit": {
+    "message": "raport (lungimea paginii / dimensiunea ferestrei)"
+  },
+  "o_scroll_type_0": {
+    "message": "Emulați bara de defilare"
+  },
+  "o_scroll_type_1": {
+    "message": "Grab and Drag - ca pe un smartphone"
+  },
+  "o_scroll_type_2": {
+    "message": "Viteza dinamică (experimentală)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Este ca și cum ai trage o bară de defilare"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Este ca și cum ai trage o pagină cu degetul pe ecranul telefonului"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Viteza dinamică face viteza de derulare mai lentă când pagina este mai lungă"
+  },
+  "o_disable_key": {
+    "message": "Dezactivare / Activare derulare când tasta este în jos:"
+  },
+  "o_momentum_category": {
+    "message": "Momentum:"
+  },
+  "o_momentum_formula": {
+    "message": "Formula de moment:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Mișcarea decelerată uniform"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Defilarea paginii va fi încetinită uniform până când se va opri"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Mișcarea decelerată exponențial"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Defilarea paginii se va încetini rapid (exponențial)"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Mișcarea infinită ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Defilarea nu se va opri niciodată"
+  },
+  "o_momentum_max_speed": {
+    "message": "Viteza maximă (0 - dezactivată):"
+  },
+  "o_page_weight": {
+    "message": "Greutatea paginii:"
+  },
+  "o_grams": {
+    "message": "grame :)"
+  },
+  "o_additional_speed": {
+    "message": "Viteză suplimentară:"
+  },
+  "o_pixels_second": {
+    "message": "pixeli pe secundă"
+  },
+  "o_additional_duration": {
+    "message": "Durata suplimentară:"
+  },
+  "o_advanced_momentum": {
+    "message": "Configurarea avansată a momentului (doar pentru experți!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Modificarea acestor valori îți poate întrerupe impulsul!"
+  },
+  "o_compute_from_last": {
+    "message": "Calculează din ultima:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Detectarea stopului mouse-ului:"
+  },
+  "o_tracking_speed": {
+    "message": "Viteza de urmărire:"
+  },
+  "o_reset_values": {
+    "message": "Resetați valorile"
+  },
+  "o_cursor_scrolling": {
+    "message": "Cursorul utilizat la defilare:"
+  },
+  "o_performance": {
+    "message": "Performanță:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Împiedicați salturile mari"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Dacă utilizați un instrument care poate teleporta cursorul pe ecran (când ajungeți la o margine), activați această opțiune pentru a permite derularea continuă (infinită)."
+  },
+  "o_advanced": {
+    "message": "Avansat:"
+  },
+  "o_movement_detection": {
+    "message": "Pragul de detectare a mișcării mouse-ului:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Câți pixeli trebuie să se miște pentru a bloca linkul. Uneori, când apăsați butonul de defilare, mutați ușor mouse-ul, dar nu doriți ca linkul să fie dezactivat din cauza asta."
+  },
+  "o_context_menu_block": {
+    "message": "Bloc meniu contextual:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Deblocați întârzierea meniului contextual"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Dacă vedeți meniul contextual după derularea cu butonul dreapta al mouse-ului, creșteți această valoare"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Dezactivați defilarea orizontală pe domenii:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Dezactivat pe domenii:"
+  },
+  "o_is_disabled_url": {
+    "message": "Dezactivat pe pagini / sub-pagini:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Puteți utiliza simbolul stele (*) pentru a defini o parte URL, de exemplu: \"google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Introduceți un domeniu pe linie."
+  },
+  "o_is_disabled": {
+    "message": "Dezactivați suplimentul"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Utilizați pictograma barei de instrumente ca comutator principal ON / OFF"
+  },
+  "o_scroll_button_middle": {
+    "message": "Buton mijloc"
+  },
+  "o_scroll_button_right": {
+    "message": "Butonul drept"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Utilizatorii Linux / Mac - vi se va solicita o nouă permisiune \"Citiți și modificați setarea browserului\" - aceasta este necesară pentru a suprima meniul contextual care este afișat înainte de derulare!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Utilizatori Linux / Mac - meniul dvs. contextual va fi blocat! Pentru a deschide meniul contextual, țineți apăsată tasta \"Shift\" sau faceți triplu clic pe butonul dreapta."
+  },
+  "o_scroll_button_left": {
+    "message": "Butonul stânga (experimental)"
+  },
+  "o_scroll_on_links": {
+    "message": "Parcurgeți linkurile"
+  },
+  "o_scroll_on_links_title": {
+    "message": "Când este activat, nu veți putea glisa și arunca link-uri (doar cu ajutorul tastei \"Dezactivați\")"
+  },
+  "o_scroll_on_text": {
+    "message": "Derulați pe text"
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emulează derularea / editarea telefonului - trebuie să faceți clic pe text pentru a trece la \"modul de editare\". Făcând clic în afara textului, permiteți din nou derularea."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Parcurgeți textarea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea este un bloc de text, de obicei redimensionabil. De exemplu în fila \"Dezactivat pe\" puteți vedea textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Derulați pe html editabil"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "De exemplu, corpul de e-mail din Gmail este html editabil."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "pe text va permite selectarea / editarea textului."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Faceți clic pe text pentru a activa \"Modul editare\". Faceți clic pe textul exterior pentru a activa \"Modul de defilare\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Un singur clic"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Faceți dublu clic"
+  },
+  "o_scrollbars_width": {
+    "message": "Aspect bare de derulare"
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normal (fără modificări)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "subțire"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Ascunse"
+  },
+  "o_scrollbars_color": {
+    "message": "Culoarea glisorului pentru bara de derulare:"
+  },
+  "o_scrollbars_background": {
+    "message": "Culoarea de fundal a barei de derulare:"
+  },
+  "o_reverse": {
+    "message": "sens invers de derulare"
+  },
+  "o_disable_alt": {
+    "message": "Alt"
+  },
+  "o_disable_shift": {
+    "message": "Shift"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl"
+  },
+  "o_disable_type_0": {
+    "message": "Dezactivare când tasta este jos:"
+  },
+  "o_disable_type_1": {
+    "message": "Activați când tasta este jos:"
+  },
+  "o_momentum": {
+    "message": "activare impuls - puteți \"arunca\" pagina (ca la telefon)"
+  },
+  "o_no_css_edit": {
+    "message": "Nu blocați iframele și nu schimbați cursorul atunci când derulați"
+  },
+  "o_no_prevent_default": {
+    "message": "Nu blocați acțiunea implicită a butonului"
+  },
+  "o_auto_link_lock": {
+    "message": "Blocarea legăturilor:"
+  },
+  "o_no_link_block": {
+    "message": "Nu blocați clic pe link pe link după mișcare"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Când începeți derularea pe un link și apoi terminați derularea pe același link, browserul va deschide linkul. De obicei, acest comportament nu este dorit, deci implicit este blocat."
+  },
+  "o_page_weight_title": {
+    "message": "Aceasta controlează cât de încărcată este pagina. Paginile mai încărcate au un impuls mai lung."
+  },
+  "o_additional_speed_title": {
+    "message": "Puteți accelera viteza de declarare a impulsului."
+  },
+  "o_additional_duration_title": {
+    "message": "Timp suplimentar pentru fiecare impuls."
+  },
+  "o_compute_from_last_title": {
+    "message": "Viteza inițială inițială este determinată de viteza de derulare chiar înainte de a elibera butonul Scroll."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Cât timp are mouse-ul să rămână nemișcat - înainte de a elibera butonul Scroll - pentru a NU activa Momentum."
+  },
+  "o_tracking_speed_title": {
+    "message": "Interval pentru măsurarea vitezei curente de derulare ."
+  },
+  "o_scrolling_area": {
+    "message": "Zona de defilare:"
+  },
+  "o_outside_area_width": {
+    "message": "Zona de defilare (0 - Dezactivat):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Mutarea cursorului în afara zonei de derulare va reveni la poziția de derulare. Același comportament poate fi văzut când trage o bară de derulare."
+  },
+  "o_scroll_button_left_title": {
+    "message": "Avertisment - Suportul butonului stânga folosește API-ul Firefox învechit care ar putea fi eliminat în versiunile viitoare ale Firefox."
+  },
+  "o_prevent_text_selection": {
+    "message": "Împiedicați selecția textului atunci când derulați cu butonul stânga"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "Pe unele dispozitive, derularea cu butonul stâng al mouse-ului va selecta și textul de pe pagină."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Nu blocați meniul contextual când încercați să derulați pagina care nu poate fi derulată"
+  },
+  "o_backup_restore": {
+    "message": "Setări de rezervă / resetare:"
+  },
+  "o_export_settings": {
+    "message": "Exportarea setărilor într-un fișier"
+  },
+  "import_settings_button": {
+    "message": "Importați setările din fișierul $1..."
+  },
+  "import_finished": {
+    "message": "Import finalizat!"
+  },
+  "test_page_title": {
+    "message": "Testează setările de derulare aici"
+  },
+  "menu_options": {
+    "message": "Opțiuni"
+  },
+  "menu_visit_title": {
+    "message": "Accesați pagina de pornire"
+  },
+  "not_working": {
+    "message": "Dezactivat de browser-ul dvs. web"
+  },
+  "disabled_by_user": {
+    "message": "Dezactivat în acest domeniu"
+  },
+  "not_working_title": {
+    "message": "Browserul dvs. va bloca ScrollAnywhere pe aceste tipuri de pagini:"
+  },
+  "not_working_body": {
+    "message": "Pentru a activa ScrollAnywhere pe paginile \"mozilla.org\", consultați acest tutorial YouTube"
+  },
+  "show_scrollbars": {
+    "message": "Afișați barele de derulare"
+  },
+  "show_scrollbars_title": {
+    "message": "Se afișează temporar barele de derulare"
+  },
+  "switch_on_off": {
+    "message": "Activează suplimentul OFF / ON"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Dacă aveți o întârziere vizibilă între apăsarea butonului de derulare și începerea derulării, încercați să activați această opțiune. Cu toate acestea, nu veți putea derula peste \"iframe\", cum ar fi unele videoclipuri vechi încorporate sau unele reclame."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "De asemenea, aceasta va dezactiva opțiunea de a schimba cursorul în timp ce derulați."
+  },
+  "o_helper_text_default_action": {
+    "message": "Util în Linux pentru a activa Lipire cu butonul din mijloc."
+  },
+  "o_about_hello": {
+    "message": "Bună ziua :)"
+  },
+  "o_about_intro": {
+    "message": "Numele meu este Juraj Mäsiar și sunt autorul ScrollAnywhere."
+  },
+  "o_about_like_it": {
+    "message": "Dacă vă place, evaluați-l aici:"
+  },
+  "o_about_dislike_it": {
+    "message": "Dacă nu vă place, vă rog să mă anunțați de ce pe e-mailul meu. Implementez majoritatea solicitărilor de funcții pe care le primesc."
+  },
+  "o_disabled": {
+    "message": "dezactivat",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "activat",
+    "common": true
+  },
+  "o_times": {
+    "message": "ori",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixeli",
+    "common": true
+  },
+  "o_items": {
+    "message": "articole",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "milisecunde",
+    "common": true
+  },
+  "label_working": {
+    "message": "în lucru ...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Închide",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Vă rugăm să luați în considerare susținerea activității mele prin",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donație (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "devenind Patronul meu",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Mulțumesc!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "acasă:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contact:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Raport Probleme:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Pot răspunde numai în engleză / slovacă",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Social media:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Salvați modificările și închideți",
+    "common": true
+  },
+  "o_saved": {
+    "message": "salvat!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "În curând",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Salvare modificări",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Politica de Confidențialitate",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Caracteristici adăugate recent:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Etichete:",
+    "common": true
+  }
+}

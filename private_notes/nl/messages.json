@@ -1,0 +1,341 @@
+{
+  "_description_feature_1": {
+    "message": ""
+  },
+  "_description_feature_2": {
+    "message": ""
+  },
+  "_description_tags_pn": {
+    "message": ""
+  },
+  "app_name": {
+    "message": "Private Notes"
+  },
+  "app_desc": {
+    "message": ""
+  },
+  "compression_level_0": {
+    "message": ""
+  },
+  "compression_level_1": {
+    "message": ""
+  },
+  "compression_level_2": {
+    "message": ""
+  },
+  "compression_level_info_0": {
+    "message": ""
+  },
+  "compression_level_info_1": {
+    "message": ""
+  },
+  "compression_level_info_2": {
+    "message": ""
+  },
+  "title_notes": {
+    "message": ""
+  },
+  "restore_backup": {
+    "message": ""
+  },
+  "create_new_note": {
+    "message": ""
+  },
+  "auto_locking_strategy_0": {
+    "message": ""
+  },
+  "auto_locking_strategy_1": {
+    "message": ""
+  },
+  "restore_note": {
+    "message": ""
+  },
+  "locked": {
+    "message": ""
+  },
+  "change_master_password": {
+    "message": ""
+  },
+  "import_export": {
+    "message": ""
+  },
+  "about_faq": {
+    "message": ""
+  },
+  "notes_auto_saved_placeholder": {
+    "message": ""
+  },
+  "setup_new_pwd": {
+    "message": ""
+  },
+  "change_pwd": {
+    "message": ""
+  },
+  "pwd_to_change": {
+    "message": ""
+  },
+  "current_pwd": {
+    "message": ""
+  },
+  "new_pwd_advice": {
+    "message": ""
+  },
+  "repeat_pwd": {
+    "message": ""
+  },
+  "hint_pwd": {
+    "message": ""
+  },
+  "pwd_warning": {
+    "message": ""
+  },
+  "remember_pwd_0": {
+    "message": ""
+  },
+  "remember_pwd_1": {
+    "message": ""
+  },
+  "remember_pwd_2": {
+    "message": ""
+  },
+  "pwd_save": {
+    "message": ""
+  },
+  "error_saving_note": {
+    "message": ""
+  },
+  "quota_bytes_per_item": {
+    "message": ""
+  },
+  "quota_bytes": {
+    "message": ""
+  },
+  "max_items": {
+    "message": ""
+  },
+  "max_write_operations_per_hour": {
+    "message": ""
+  },
+  "max_write_operations_per_minute": {
+    "message": ""
+  },
+  "security": {
+    "message": ""
+  },
+  "visual_options": {
+    "message": ""
+  },
+  "compression_level": {
+    "message": ""
+  },
+  "auto_locking_strategy": {
+    "message": ""
+  },
+  "auto_lock_inactive_for": {
+    "message": ""
+  },
+  "dense_notes_list": {
+    "message": ""
+  },
+  "import_replace_all": {
+    "message": ""
+  },
+  "export_encrypted": {
+    "message": ""
+  },
+  "minutes": {
+    "message": ""
+  },
+  "label_font_size": {
+    "message": "Lettergrootte"
+  },
+  "sidebar_size": {
+    "message": ""
+  },
+  "popup_window_width": {
+    "message": ""
+  },
+  "popup_window_height": {
+    "message": ""
+  },
+  "always_open_in_new_tab": {
+    "message": ""
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store pagina"
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons pagina"
+  },
+  "import_finished": {
+    "message": "Importeren is afgerond!"
+  },
+  "import_error": {
+    "message": "Foutmelding"
+  },
+  "import_backup_file": {
+    "message": "Importeer back-upbestand $1"
+  },
+  "search_search": {
+    "message": "Zoeken"
+  },
+  "title_import": {
+    "message": "Importeren"
+  },
+  "title_export": {
+    "message": "Exporteren"
+  },
+  "title_backups": {
+    "message": ""
+  },
+  "homepage": {
+    "message": "Startpagina"
+  },
+  "addon_page": {
+    "message": "Addon-pagina"
+  },
+  "settings": {
+    "message": ""
+  },
+  "options": {
+    "message": ""
+  },
+  "label_backups": {
+    "message": ""
+  },
+  "label_rename": {
+    "message": ""
+  },
+  "label_download": {
+    "message": ""
+  },
+  "label_delete": {
+    "message": ""
+  },
+  "label_next": {
+    "message": "Volgende"
+  },
+  "label_note": {
+    "message": "Opmerking:"
+  },
+  "label_remove": {
+    "message": "Verwijder"
+  },
+  "label_warning": {
+    "message": "WAARSCHUWING:"
+  },
+  "label_default": {
+    "message": "Standaard:"
+  },
+  "label_done": {
+    "message": "Klaar!"
+  },
+  "label_copied": {
+    "message": "Gekopieerd!"
+  },
+  "label_close": {
+    "message": "Sluiten"
+  },
+  "label_open_page": {
+    "message": "Open pagina"
+  },
+  "label_agree": {
+    "message": "Mee eens"
+  },
+  "label_cancel": {
+    "message": "Annuleren"
+  },
+  "op_support_me": {
+    "message": "Help dit project"
+  },
+  "support_developer": {
+    "message": "Ondersteuning onafhankelijke ontwikkelaar!"
+  },
+  "hello_there": {
+    "message": "Hallo daar!"
+  },
+  "about_me": {
+    "message": "Ik ben sinds 2016 Addon-ontwikkelaar. Mijn doel is om krachtige extensies voor uw webbrowser te bouwen om u productiever te maken."
+  },
+  "about_good_job": {
+    "message": "Als je denkt dat ik goed werk doe, doneer alsjeblieft :)"
+  },
+  "about_income": {
+    "message": "Uw donatie is mijn enige inkomen!"
+  },
+  "about_thanks": {
+    "message": "Bedankt voor het ondersteunen van mijn werk!"
+  },
+  "o_tab_context_menu": {
+    "message": "Context menu"
+  },
+  "o_tab_about": {
+    "message": "Over"
+  },
+  "o_pixels": {
+    "message": "pixels"
+  },
+  "o_seconds": {
+    "message": "seconden"
+  },
+  "label_or": {
+    "message": "of"
+  },
+  "o_about_hello": {
+    "message": "Hallo :)"
+  },
+  "o_about_intro": {
+    "message": "Mijn naam is $1$ en ik ben de auteur van $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Als de add-on je bevalt, beoordeel hem dan hier:"
+  },
+  "o_about_thanks": {
+    "message": "Bedankt!"
+  },
+  "o_about_contact": {
+    "message": "Contact:"
+  },
+  "o_about_issues": {
+    "message": "Rapporteer problemen:"
+  },
+  "o_about_social_media": {
+    "message": "Sociale media:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankoverschrijving met behulp van IBAN:"
+  },
+  "used_space": {
+    "message": "Gebruikte Ruimte: $1 / $2"
+  },
+  "ps_no_results": {
+    "message": "Geen overeenkomende resultaten"
+  },
+  "label_no_data": {
+    "message": "Geen data"
+  },
+  "dark_mode": {
+    "message": "Donkere modus"
+  },
+  "dark_mode_system": {
+    "message": "Gecontroleerd door het systeem"
+  },
+  "open_in_new_tab": {
+    "message": "Openen in nieuw tabblad"
+  },
+  "_description_features": {
+    "message": ""
+  },
+  "_description_privacy_policy": {
+    "message": "Privacybeleid"
+  },
+  "_description_recent_features": {
+    "message": "Recent toegevoegde functies:"
+  },
+  "_description_common_tags": {
+    "message": "Tags:"
+  }
+}

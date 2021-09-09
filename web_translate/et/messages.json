@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Tõlgi Valitud tekst (kontekstimenüüst)"
+  },
+  "_description_feature_2": {
+    "message": "Terve lehel tõlge"
+  },
+  "_description_feature_3": {
+    "message": "Tume režiim!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, Dark, E-post, Google, Lang, keel, Microsoft, Lehekülg, Preklad, Prekladač, S3, valik, Tekst, TraducterEur, Translate, Translator, Übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ on lihtne kasutada tõlkijat oma veebibrauser / Thunderbird!"
+  },
+  "o_tab_translate": {
+    "message": "Tõlkima"
+  },
+  "_description_supported_translators": {
+    "message": "Toetatud tõlketeenuse pakkujad:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Modaalne aken"
+  },
+  "open_in_1": {
+    "message": "Hüpikaken"
+  },
+  "open_in_2": {
+    "message": "Uuel kaardil"
+  },
+  "open_in_3": {
+    "message": "Uus aken"
+  },
+  "open_in_4": {
+    "message": "Uus sakk (ilma konteinerita)"
+  },
+  "modal_window": {
+    "message": "Modaalne aken"
+  },
+  "toolbar_icon_action": {
+    "message": "Tööriistariba ikooni tegevus"
+  },
+  "toolbar_icon_text": {
+    "message": "Tööriistariba ikooni tekst"
+  },
+  "sidebar_size": {
+    "message": "Külgriba suurus"
+  },
+  "translation_provider": {
+    "message": "Tõlketeenuse pakkuja"
+  },
+  "translate_to": {
+    "message": "Tõlgi:"
+  },
+  "no_overlay": {
+    "message": "Ei ole ülekatte (pimedas ala)"
+  },
+  "no_overlay_hint": {
+    "message": "Modaalne aken jääb avatuks ka siis, kui klõpsate väljastpoolt."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Open tõlge:"
+  },
+  "fallback_1": {
+    "message": "Beingback meetod"
+  },
+  "fallback_2": {
+    "message": "Beingback meetod"
+  },
+  "fallback_title": {
+    "message": "Mõnel juhul ei saa kasutada modaalset akent ja hüpikakna."
+  },
+  "open_in_tab": {
+    "message": "Ava uues vahekaardil"
+  },
+  "translate_this_page": {
+    "message": "Tõlgi see leht"
+  },
+  "selection_translate": {
+    "message": "Tõlgi \"$1\""
+  },
+  "page_translate": {
+    "message": "Tõlgi leht"
+  },
+  "selected_text": {
+    "message": "valitud tekst"
+  },
+  "disable_context_menu": {
+    "message": "Keela kontekstimenüü: $1"
+  },
+  "import_finished": {
+    "message": "Import lõpetas!"
+  },
+  "import_error": {
+    "message": "Viga"
+  },
+  "import_backup_file": {
+    "message": "Import varukoopia faili $1"
+  },
+  "search_search": {
+    "message": "Otsing"
+  },
+  "homepage": {
+    "message": "Koduleht"
+  },
+  "addon_page": {
+    "message": "Addon leht"
+  },
+  "safari_store": {
+    "message": "Mac App Store"
+  },
+  "chrome_store": {
+    "message": "Chrome'i veebipood"
+  },
+  "firefox_store": {
+    "message": "Firefoxi lisandmoodulid"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird lisandmoodulid"
+  },
+  "label_font_size": {
+    "message": "Fondi suurus"
+  },
+  "label_next": {
+    "message": "Järgmine"
+  },
+  "label_note": {
+    "message": "Märge:"
+  },
+  "label_remove": {
+    "message": "Eemaldama"
+  },
+  "label_warning": {
+    "message": "HOIATUS:"
+  },
+  "label_default": {
+    "message": "Vaikimisi:"
+  },
+  "label_done": {
+    "message": "Tee!"
+  },
+  "label_copied": {
+    "message": "Kopeeritud!"
+  },
+  "label_close": {
+    "message": "Sulge"
+  },
+  "label_open_page": {
+    "message": "Avaleht"
+  },
+  "label_agree": {
+    "message": "Nõustuma"
+  },
+  "label_cancel": {
+    "message": "Tühistama"
+  },
+  "op_support_me": {
+    "message": "Aita seda projekti"
+  },
+  "support_developer": {
+    "message": "Tugi sõltumatu arendaja!"
+  },
+  "hello_there": {
+    "message": "Tere!"
+  },
+  "about_me": {
+    "message": "Ma olen Addoni arendaja alates 2016. aastast. Minu eesmärk on ehitada teie veebibrauseri võimsaid laiendusi, et sind produktiivsemaks muuta."
+  },
+  "about_good_job": {
+    "message": "Kui te arvate, et ma teen head tööd, annetage palun :)"
+  },
+  "about_income": {
+    "message": "Teie annetus on minu ainus sissetulek!"
+  },
+  "about_thanks": {
+    "message": "Täname, et toetasite oma tööd!"
+  },
+  "o_tab_context_menu": {
+    "message": "Kontekstimenüü"
+  },
+  "o_tab_about": {
+    "message": "Umbes"
+  },
+  "o_tab_settings": {
+    "message": "Seaded"
+  },
+  "o_pixels": {
+    "message": "pikslit"
+  },
+  "o_seconds": {
+    "message": "second"
+  },
+  "label_or": {
+    "message": "või"
+  },
+  "o_about_hello": {
+    "message": "Tere :)"
+  },
+  "o_about_intro": {
+    "message": "Minu nimi on $1$ ja ma olen $app_name$ autor."
+  },
+  "o_about_like_it": {
+    "message": "Kui sulle meeldib see, hinnake seda siin:"
+  },
+  "o_about_thanks": {
+    "message": "Aitäh!"
+  },
+  "o_about_contact": {
+    "message": "Kontakt:"
+  },
+  "o_about_issues": {
+    "message": "Aruande küsimused:"
+  },
+  "o_about_social_media": {
+    "message": "Sotsiaalmeedia:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Pangaülekanne IBAN-i abil:"
+  },
+  "ps_no_results": {
+    "message": "Sobivaid tulemusi pole"
+  },
+  "label_no_data": {
+    "message": "Andmed puuduvad"
+  },
+  "dark_mode": {
+    "message": "Tume režiim"
+  },
+  "dark_mode_system": {
+    "message": "Süsteemi kontrolli all"
+  },
+  "_description_features": {
+    "message": "Funktsioonid:"
+  },
+  "_description_why": {
+    "message": "Miks?"
+  },
+  "_description_privacy_policy": {
+    "message": "Privaatsuspoliitika"
+  },
+  "_description_recent_features": {
+    "message": "Hiljuti lisatud funktsioonid:"
+  },
+  "_description_common_tags": {
+    "message": "Sildid:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Saadaval ka teie Firefoxi jaoks:"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Saadaval ka teie Thunderbirdi jaoks:"
+  }
+}

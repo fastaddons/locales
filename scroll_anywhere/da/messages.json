@@ -1,0 +1,551 @@
+{
+  "_description_tags_sa": {
+    "message": "anywhere, Button, Cursor, Træk, Grib, Grib trække, Grib og træk, Uendelig, Venstre, Mellem, Momentum, Mus, Flyt, Side, Højre, Rul, Scrollside, Scrollbar, Scrolling, Kast"
+  },
+  "app_name": {
+    "message": "ScrollAnywhere"
+  },
+  "app_desc": {
+    "message": "Træk scrollbar med din mellemmusiknap, hvor som helst på siden. Understøtter også \"Grib and Træk\" stil."
+  },
+  "field_int_default_value": {
+    "message": "Standardværdi: $1, min: $2, max: $3"
+  },
+  "field_set_default": {
+    "message": "Nulstil til standard: $1"
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-ons"
+  },
+  "firefox_store": {
+    "message": "Firefox add-ons"
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store."
+  },
+  "safari_store": {
+    "message": "Mac App Store."
+  },
+  "win_disable": {
+    "message": "Deaktiver på $1"
+  },
+  "win_horizontal_scrolling_disable": {
+    "message": "Deaktiver vandret rulning på $1"
+  },
+  "op_visit_home": {
+    "message": "Besøg hjemmeside."
+  },
+  "op_support_me": {
+    "message": "Hjælp dette projekt"
+  },
+  "o_title": {
+    "message": "Valg - $1."
+  },
+  "o_tab_general": {
+    "message": "Generel"
+  },
+  "o_tab_momentum": {
+    "message": "Momentum."
+  },
+  "o_tab_cursor": {
+    "message": "Cursoren"
+  },
+  "o_axis_locking": {
+    "message": "Akse låsning."
+  },
+  "o_tab_performance": {
+    "message": "Ydeevne"
+  },
+  "o_tab_disabled_on": {
+    "message": "Deaktiveret på"
+  },
+  "o_tab_advanced": {
+    "message": "Fremskreden"
+  },
+  "o_tab_scrollbars": {
+    "message": "Scrollbars."
+  },
+  "o_tab_backup": {
+    "message": "Import / Backup."
+  },
+  "o_tab_about": {
+    "message": ""
+  },
+  "o_axis_lock_helper": {
+    "message": "Når du ruller en boks, der rulles i en akse, men forældreboks, rulles i anden akse, skal du låse rulle til en akse ved hjælp af:"
+  },
+  "o_axis_lock_0": {
+    "message": "Smart Lock - Temporal Lock ved hjælp af Momentum"
+  },
+  "o_axis_lock_1": {
+    "message": "Strict Lock - Instant Direction Lock"
+  },
+  "o_axis_lock_2": {
+    "message": "Ingen låsefri rulning i begge akse"
+  },
+  "o_trend_momentum_window": {
+    "message": "Smart Lock Stack Størrelse"
+  },
+  "o_trend_momentum_window_helper": {
+    "message": "Større værdi vil kræve mere scrolling i modsat akse for at ændre rullende akse."
+  },
+  "o_addon_disabled_warning": {
+    "message": "Addon er deaktiveret! Klik her for at aktivere."
+  },
+  "o_cursor_change_default": {
+    "message": "ingen ændring - bedste ydeevne"
+  },
+  "o_scroll_button": {
+    "message": "Scroll-knap:"
+  },
+  "o_direction_speed": {
+    "message": "Rulle Style / Retning / Hastighed:"
+  },
+  "o_multiplier": {
+    "message": "Multiplikator."
+  },
+  "o_times_speed": {
+    "message": "gange rullehastighed"
+  },
+  "o_maximum_speed": {
+    "message": "Maksimal rullehastighed (0 - Deaktiveret):"
+  },
+  "o_ratio_unit": {
+    "message": "forhold (sidelængde / vinduesstørrelse)"
+  },
+  "o_scroll_type_0": {
+    "message": "Emate Scrollbar."
+  },
+  "o_scroll_type_1": {
+    "message": "Grib og træk - som på en smartphone"
+  },
+  "o_scroll_type_2": {
+    "message": "Dynamisk hastighed (eksperimentel)"
+  },
+  "o_scroll_type_title_0": {
+    "message": "Det er som at trække en rullebjælke"
+  },
+  "o_scroll_type_title_1": {
+    "message": "Det er som at trække en side med din finger på en telefonskærm"
+  },
+  "o_scroll_type_title_2": {
+    "message": "Dynamisk hastighed gør scrollhastigheden langsommere, når siden er længere"
+  },
+  "o_disable_key": {
+    "message": "Deaktiver / Aktiver Scrolling, når tasten er nede:"
+  },
+  "o_momentum_category": {
+    "message": "Momentum:"
+  },
+  "o_momentum_formula": {
+    "message": "Momentum Formel:"
+  },
+  "o_momentum_formula_type_0": {
+    "message": "Ensartet decelereret bevægelse"
+  },
+  "o_momentum_formula_type_title_0": {
+    "message": "Siderulle vil blive ensartet sænket, indtil den stopper"
+  },
+  "o_momentum_formula_type_1": {
+    "message": "Eksponentielt decelereret bevægelse"
+  },
+  "o_momentum_formula_type_title_1": {
+    "message": "Side Scroll vil hurtigt (eksponentielt) sænke ned"
+  },
+  "o_momentum_formula_type_2": {
+    "message": "Uendelig bevægelse ∞"
+  },
+  "o_momentum_formula_type_title_2": {
+    "message": "Scrolling vil aldrig stoppe"
+  },
+  "o_momentum_max_speed": {
+    "message": "Maksimal hastighed (0 - Deaktiveret):"
+  },
+  "o_page_weight": {
+    "message": "Sidevægt:"
+  },
+  "o_grams": {
+    "message": "gram :)"
+  },
+  "o_additional_speed": {
+    "message": "Yderligere hastighed:"
+  },
+  "o_pixels_second": {
+    "message": "pixels per sekund"
+  },
+  "o_additional_duration": {
+    "message": "Yderligere varighed:"
+  },
+  "o_advanced_momentum": {
+    "message": "Avanceret momentum setup (kun for eksperter!):"
+  },
+  "o_advanced_momentum_title": {
+    "message": "Ændring af disse værdier kan bryde dit momentum!"
+  },
+  "o_compute_from_last": {
+    "message": "Beregne fra sidst:"
+  },
+  "o_mouse_stop_detection": {
+    "message": "Mus Stop Detection:"
+  },
+  "o_tracking_speed": {
+    "message": "Sporingshastighed:"
+  },
+  "o_reset_values": {
+    "message": "Nulstil værdier"
+  },
+  "o_cursor_scrolling": {
+    "message": "Markør anvendt ved rulning:"
+  },
+  "o_performance": {
+    "message": "Ydeevne:"
+  },
+  "o_prevent_big_jumps": {
+    "message": "Forhindre store spring"
+  },
+  "o_prevent_big_jumps_helper": {
+    "message": "Hvis du bruger værktøj, der kan teleportere markøren på tværs af skærmen (når du når en kant), skal du aktivere denne indstilling for at tillade kontinuerlig (uendelig) scrolling."
+  },
+  "o_advanced": {
+    "message": "Fremskreden:"
+  },
+  "o_movement_detection": {
+    "message": "Mus bevægelsesdetekteringstærskel:"
+  },
+  "o_helper_text_move_detection": {
+    "message": "Hvor mange pixels skal musen flytte til at blokere link. Nogle gange, når du trykker på Scroll-knappen, flytter du musen lidt, men du vil ikke have linket deaktiveret på grund af det."
+  },
+  "o_context_menu_block": {
+    "message": "Kontekstmenublok:"
+  },
+  "o_context_menu_unblock_delay": {
+    "message": "Fjern blokering af kontekstmenuforsinkelse"
+  },
+  "o_context_menu_unblock_delay_helper": {
+    "message": "Hvis du ser kontekstmenu efter at have rullet med højre museknap, skal du øge denne værdi"
+  },
+  "o_disabled_horizontal_scrolling_domains": {
+    "message": "Deaktiver vandret rulning på domæner:"
+  },
+  "o_is_disabled_domains": {
+    "message": "Deaktiveret på domæner:"
+  },
+  "o_is_disabled_url": {
+    "message": "Deaktiveret på sider / undersider:"
+  },
+  "o_is_disabled_url_help": {
+    "message": "Du kan bruge stjerne symbol (*) for at definere en webadresse, for eksempel: \"google.com/maps*\""
+  },
+  "o_is_disabled_domain_help": {
+    "message": "Indtast et domæne pr. Linje."
+  },
+  "o_is_disabled": {
+    "message": "Deaktiver add-on"
+  },
+  "o_toolbar_button_main_switch": {
+    "message": "Brug værktøjslinjeikonet som hovedbryderen"
+  },
+  "o_scroll_button_middle": {
+    "message": "Middle Button"
+  },
+  "o_scroll_button_right": {
+    "message": "Højre knap"
+  },
+  "o_scroll_button_right_linux_note": {
+    "message": "Linux / Mac-brugere - Du bliver bedt om ny tilladelse \"Læs og ændre browserindstilling\" - Dette er påkrævet for at undertrykke kontekstmenuen, der vises, før du ruller!"
+  },
+  "o_scroll_button_right_linux_chrome_note": {
+    "message": "Linux / Mac-brugere - Din kontekstmenu bliver blokeret! For at åbne kontekstmenu Hold \"Shift\" -tasten eller triple-klik på højre knap."
+  },
+  "o_scroll_button_left": {
+    "message": "Venstre knap (eksperimentel)"
+  },
+  "o_scroll_on_links": {
+    "message": "Rul på links."
+  },
+  "o_scroll_on_links_title": {
+    "message": "Når du er aktiveret, vil du ikke kunne trække og slippe links (kun ved hjælp af 'Deaktiver' -tasten)"
+  },
+  "o_scroll_on_text": {
+    "message": "Rul på tekst."
+  },
+  "o_scroll_on_text_title": {
+    "message": "Emulerer Telefon Scrolling / Redigering - Du skal klikke på Tekst for at skifte til \"Redigeringstilstand\". Ved at klikke uden for tekst kan du rulle igen."
+  },
+  "o_scroll_on_textarea": {
+    "message": "Rul på Textarea"
+  },
+  "o_scroll_on_textarea_title": {
+    "message": "Textarea er en tekstblok, som normalt kan genoprettes. For eksempel på \"Deaktiveret på fanen kan du se Textarea."
+  },
+  "o_scroll_on_editable_html": {
+    "message": "Rul på redigerbar HTML"
+  },
+  "o_scroll_on_editable_html_title": {
+    "message": "For eksempel E-mail-krop i Gmail er redigerbar HTML."
+  },
+  "o_scroll_on_text_edit_with": {
+    "message": "på tekst vil aktivere valg / redigering af tekst."
+  },
+  "o_scroll_on_text_edit_with_title": {
+    "message": "Klik på Tekst vil aktivere \"Rediger tilstand\". Klik på udenfor tekst for at aktivere \"Scroll Mode\"."
+  },
+  "o_scroll_on_text_edit_with_0": {
+    "message": "Enkelt klik"
+  },
+  "o_scroll_on_text_edit_with_1": {
+    "message": "Dobbeltklik"
+  },
+  "o_scrollbars_width": {
+    "message": "Scrollbars look."
+  },
+  "o_scrollbars_width_0": {
+    "message": "Normal (ingen ændring)"
+  },
+  "o_scrollbars_width_1": {
+    "message": "Tynd"
+  },
+  "o_scrollbars_width_2": {
+    "message": "Skjult"
+  },
+  "o_scrollbars_color": {
+    "message": "Scrollbar Slider Farve:"
+  },
+  "o_scrollbars_background": {
+    "message": "Scrollbar Baggrundsfarve:"
+  },
+  "o_reverse": {
+    "message": "Omvendt scrollretning"
+  },
+  "o_disable_alt": {
+    "message": "Alt."
+  },
+  "o_disable_shift": {
+    "message": "Flytte"
+  },
+  "o_disable_ctrl": {
+    "message": "Ctrl."
+  },
+  "o_disable_type_0": {
+    "message": "Deaktiver, når nøglen er nede:"
+  },
+  "o_disable_type_1": {
+    "message": "Aktivér, når tasten er nede:"
+  },
+  "o_momentum": {
+    "message": "aktivér Momentum - du kan \"kaste\" siden (som på telefon)"
+  },
+  "o_no_css_edit": {
+    "message": "Lås ikke iframes og ikke ændre markøren, når du ruller"
+  },
+  "o_no_prevent_default": {
+    "message": "Bloker ikke standardknappen handling"
+  },
+  "o_auto_link_lock": {
+    "message": "Links blokering:"
+  },
+  "o_no_link_block": {
+    "message": "Bloker ikke museklik på link efter bevægelse"
+  },
+  "o_helper_text_middle_link_click": {
+    "message": "Når du begynder at rulle på et link, og så afslutter du scrolling på samme link, åbner browser linket. Dette er normalt ikke ønsket adfærd, så som standard er blokeret."
+  },
+  "o_page_weight_title": {
+    "message": "Dette styrer, hvordan 'Heavy' siden er. Tyngre sider har længere momentum."
+  },
+  "o_additional_speed_title": {
+    "message": "Du kan accelerere momentum med angivelse af hastighed."
+  },
+  "o_additional_duration_title": {
+    "message": "Yderligere tid for hver momentum."
+  },
+  "o_compute_from_last_title": {
+    "message": "Momentum initial hastighed bestemmes af hastigheden af at rulle højre, inden du frigiver scroll-knappen."
+  },
+  "o_mouse_stop_detection_title": {
+    "message": "Hvor meget tid skal musen forblive stadig - før du frigiver scroll-knappen - for ikke at aktivere momentum."
+  },
+  "o_tracking_speed_title": {
+    "message": "Interval for måling af nuværende rullehastighed."
+  },
+  "o_scrolling_area": {
+    "message": "Rulningsområde:"
+  },
+  "o_outside_area_width": {
+    "message": "Rulningsområde (0 - Deaktiveret):"
+  },
+  "o_outside_area_width_helper": {
+    "message": "Flytning af markøren uden for rullende område vil vende tilbage til rullende position. Samme adfærd kan ses, når du trækker en rullebjælke."
+  },
+  "o_scroll_button_left_title": {
+    "message": "ADVARSEL - Venstre knap Support bruger afkortet Firefox API, der kunne fjernes i fremtidige versioner af Firefox."
+  },
+  "o_prevent_text_selection": {
+    "message": "Forhindre tekstvalg, når du ruller med venstre knap"
+  },
+  "o_helper_text_prevent_text_selection": {
+    "message": "På nogle enheder vælger rulle med venstre museknap også tekst på siden."
+  },
+  "o_disable_context_menu_on_move": {
+    "message": "Bloker ikke kontekstmenu, når du forsøger at rulle ikke-rulle-siden"
+  },
+  "o_backup_restore": {
+    "message": "Backup / Gendan indstillinger til fil:"
+  },
+  "o_export_settings": {
+    "message": "Eksporter indstillinger til en fil"
+  },
+  "import_settings_button": {
+    "message": "Importer indstillinger fra #$1 fil ..."
+  },
+  "import_finished": {
+    "message": "Import færdig!"
+  },
+  "test_page_title": {
+    "message": "Test dine rullende indstillinger her"
+  },
+  "menu_options": {
+    "message": "Muligheder"
+  },
+  "menu_visit_title": {
+    "message": "Besøg hjemmeside."
+  },
+  "not_working": {
+    "message": "Deaktiveret af din webbrowser"
+  },
+  "disabled_by_user": {
+    "message": "Deaktiveret på dette domæne"
+  },
+  "not_working_title": {
+    "message": "Din browser vil blokere Scrollanywhere på denne type sider:"
+  },
+  "not_working_body": {
+    "message": "For at aktivere Scrollanywhere på \"Mozilla.org\" sider, se denne YouTube Tutorial"
+  },
+  "show_scrollbars": {
+    "message": "Vis scrollbars."
+  },
+  "show_scrollbars_title": {
+    "message": "Midlertidigt vise scrollbars."
+  },
+  "switch_on_off": {
+    "message": "Switch add-on off / on"
+  },
+  "o_helper_text_performance_iframe": {
+    "message": "Hvis du oplever mærkbar forsinkelse mellem at trykke på Scroll-knappen og starte rulning, skal du prøve at aktivere denne indstilling. Men du vil ikke kunne rulle over \"IFRAMES\" som nogle gamle indlejrede videoer eller nogle annoncer."
+  },
+  "o_helper_text_performance_cursor": {
+    "message": "Dette vil også deaktivere mulighed for at ændre markøren under rulning."
+  },
+  "o_helper_text_default_action": {
+    "message": "Nyttigt i Linux for at aktivere pasta med mellemknap."
+  },
+  "o_about_hello": {
+    "message": "Hej :)"
+  },
+  "o_about_intro": {
+    "message": "Mit navn er $1$ og jeg er forfatteren af $app_name$."
+  },
+  "o_about_like_it": {
+    "message": "Hvis du kan lide det, bedes du bedømme det her:"
+  },
+  "o_about_dislike_it": {
+    "message": "Hvis du ikke kan lide det, så lad mig vide, hvorfor til min e-mail. Jeg implementerer de fleste af de funktion-anmodninger, jeg modtager."
+  },
+  "o_disabled": {
+    "message": "handicappet",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "aktiveret.",
+    "common": true
+  },
+  "o_times": {
+    "message": "gange",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels.",
+    "common": true
+  },
+  "o_items": {
+    "message": "varer",
+    "common": true
+  },
+  "o_milliseconds": {
+    "message": "millisekunder",
+    "common": true
+  },
+  "label_working": {
+    "message": "arbejder...",
+    "common": true
+  },
+  "label_close": {
+    "message": "Tæt",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Overvej venligst at støtte mit arbejde af",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donation (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "bliver min protektor",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Tak skal du have!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "hjem:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Rapportér spørgsmål:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Jeg kan kun svare på engelsk / slovakisk",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sociale medier:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Gem ændringer og luk",
+    "common": true
+  },
+  "o_saved": {
+    "message": "gemt!",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Kommer snart",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Gem ændringer",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Fortrolighedspolitik",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Nyligt tilføjede funktioner:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

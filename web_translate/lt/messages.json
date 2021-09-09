@@ -1,0 +1,281 @@
+{
+  "_description_feature_1": {
+    "message": "Versti pasirinktą tekstą (iš kontekstinio meniu)"
+  },
+  "_description_feature_2": {
+    "message": "Visas puslapio vertimas"
+  },
+  "_description_feature_3": {
+    "message": "Tamsus režimas!"
+  },
+  "_description_tags_wt": {
+    "message": "baidu, Bing, Dark, El. Paštas, \"Google\", \"Lang\", kalba, \"Microsoft\", \"Microsoft\", \"Preklad\", \"Prekladač\", S3, atranka, tekstas, tradusicur, Versti, Vertėjas, Übersetzer, 翻译"
+  },
+  "app_name": {
+    "message": "Web Translate"
+  },
+  "app_desc": {
+    "message": "$app_name$ yra paprasta naudoti vertėjas jūsų interneto naršyklėje / \"Thunderbird\"!"
+  },
+  "o_tab_translate": {
+    "message": "Versti"
+  },
+  "_description_supported_translators": {
+    "message": "Palaikomi vertimo paslaugų teikėjai:"
+  },
+  "translator_GOOGLE": {
+    "message": "Google Translate"
+  },
+  "translator_GOOGLE_CN": {
+    "message": "Google 翻译"
+  },
+  "translator_BING": {
+    "message": "Microsoft Translator"
+  },
+  "translator_DEEPL": {
+    "message": "DeepL Translator"
+  },
+  "translator_YANDEX": {
+    "message": "Yandex Translate"
+  },
+  "translator_YANDEX_RU": {
+    "message": "Яндекс Переводчик"
+  },
+  "translator_BAIDU": {
+    "message": "百度翻译 (Baidu Translator)"
+  },
+  "open_in_0": {
+    "message": "Modalinis langas"
+  },
+  "open_in_1": {
+    "message": "Popup langas"
+  },
+  "open_in_2": {
+    "message": "Naujas skirtukas"
+  },
+  "open_in_3": {
+    "message": "Naujas langas"
+  },
+  "open_in_4": {
+    "message": "Naujas skirtukas (be konteinerio)"
+  },
+  "modal_window": {
+    "message": "Modalinis langas"
+  },
+  "toolbar_icon_action": {
+    "message": "Įrankių juostos piktogramos veiksmas"
+  },
+  "toolbar_icon_text": {
+    "message": "Įrankių juostos piktogramos tekstas"
+  },
+  "sidebar_size": {
+    "message": "Sidebar dydis"
+  },
+  "translation_provider": {
+    "message": "Vertimo teikėjas"
+  },
+  "translate_to": {
+    "message": "Versti į:"
+  },
+  "no_overlay": {
+    "message": "Nėra perdangos (tamsiai plotas)"
+  },
+  "no_overlay_hint": {
+    "message": "Modinis langas bus atidarytas, net jei spustelėsite lauką."
+  },
+  "open_translator_in": {
+    "message": ""
+  },
+  "open_translation_in": {
+    "message": "Atidaryti vertimą:"
+  },
+  "fallback_1": {
+    "message": "Metodas. \\ T"
+  },
+  "fallback_2": {
+    "message": "Metodas. \\ T"
+  },
+  "fallback_title": {
+    "message": "Modinis langas ir iššokantis langas negali būti naudojamas kai kuriais atvejais."
+  },
+  "open_in_tab": {
+    "message": "Atidarykite naujame skirtuke"
+  },
+  "translate_this_page": {
+    "message": "Versti šį puslapį"
+  },
+  "selection_translate": {
+    "message": "Versti \"$1\""
+  },
+  "page_translate": {
+    "message": "Versti puslapį"
+  },
+  "selected_text": {
+    "message": "pasirinktas tekstas"
+  },
+  "disable_context_menu": {
+    "message": "Išjungti konteksto meniu: $1"
+  },
+  "import_finished": {
+    "message": "Importas baigtas!"
+  },
+  "import_error": {
+    "message": "Klaida"
+  },
+  "import_backup_file": {
+    "message": "Importuoti atsarginę failą $1"
+  },
+  "search_search": {
+    "message": "Paieška"
+  },
+  "homepage": {
+    "message": "Pagrindinis puslapis. \\ T"
+  },
+  "addon_page": {
+    "message": "Addon Page."
+  },
+  "safari_store": {
+    "message": "\"Mac App Store\""
+  },
+  "chrome_store": {
+    "message": "\"Chrome\" internetinė parduotuvė"
+  },
+  "firefox_store": {
+    "message": "\"Firefox\" priedai"
+  },
+  "thunderbird_store": {
+    "message": "\"Thunderbird\" priedai"
+  },
+  "label_font_size": {
+    "message": "Šrifto dydis"
+  },
+  "label_next": {
+    "message": "Kitas"
+  },
+  "label_note": {
+    "message": "Pastaba:"
+  },
+  "label_remove": {
+    "message": "Pašalinti"
+  },
+  "label_warning": {
+    "message": "ĮSPĖJIMAS:"
+  },
+  "label_default": {
+    "message": "Numatytas:"
+  },
+  "label_done": {
+    "message": "Padaryta!"
+  },
+  "label_copied": {
+    "message": "Nukopijuoti!"
+  },
+  "label_close": {
+    "message": "Uždaryti"
+  },
+  "label_open_page": {
+    "message": "Atidarykite puslapį"
+  },
+  "label_agree": {
+    "message": "Sutinku"
+  },
+  "label_cancel": {
+    "message": "Atšaukti"
+  },
+  "op_support_me": {
+    "message": "Padėti šiam projektui"
+  },
+  "support_developer": {
+    "message": "Palaikykite nepriklausomą kūrėją!"
+  },
+  "hello_there": {
+    "message": "Sveiki!"
+  },
+  "about_me": {
+    "message": "Aš esu \"Addon\" kūrėjas nuo 2016 m. Mano tikslas yra sukurti galingus jūsų žiniatinklio naršyklės plėtinius, kad padarytumėte našesnį."
+  },
+  "about_good_job": {
+    "message": "Jei manote, kad darau gerą darbą, prašome paaukoti :)"
+  },
+  "about_income": {
+    "message": "Jūsų donorystė yra vienintelė pajamos!"
+  },
+  "about_thanks": {
+    "message": "Dėkojame, kad palaikėte mano darbą!"
+  },
+  "o_tab_context_menu": {
+    "message": "Kontekstinis meniu"
+  },
+  "o_tab_about": {
+    "message": "Apie tai"
+  },
+  "o_tab_settings": {
+    "message": "Nustatymai. \\ T"
+  },
+  "o_pixels": {
+    "message": "pikseliai"
+  },
+  "o_seconds": {
+    "message": "sekundės"
+  },
+  "label_or": {
+    "message": "arba. \\ T"
+  },
+  "o_about_hello": {
+    "message": "Sveiki :)"
+  },
+  "o_about_intro": {
+    "message": "Mano vardas yra $1$ ir aš esu $app_name$ autorius."
+  },
+  "o_about_like_it": {
+    "message": "Jei jums tai patinka, vertinkite jį čia:"
+  },
+  "o_about_thanks": {
+    "message": "Ačiū!"
+  },
+  "o_about_contact": {
+    "message": "Kontaktas:"
+  },
+  "o_about_issues": {
+    "message": "Ataskaitos problemos:"
+  },
+  "o_about_social_media": {
+    "message": "Socialinė žiniasklaida:"
+  },
+  "o_about_support_by_iban": {
+    "message": "Banko pervedimas naudojant IBAN:"
+  },
+  "ps_no_results": {
+    "message": "Nėra atitinkamų rezultatų"
+  },
+  "label_no_data": {
+    "message": "Nėra duomenų"
+  },
+  "dark_mode": {
+    "message": "Tamsus režimas"
+  },
+  "dark_mode_system": {
+    "message": "Kontroliuojamas pagal sistemą"
+  },
+  "_description_features": {
+    "message": "Funkcijos:"
+  },
+  "_description_why": {
+    "message": "Kodėl?"
+  },
+  "_description_privacy_policy": {
+    "message": "Privatumo politika"
+  },
+  "_description_recent_features": {
+    "message": "Paskutinės patalpos:"
+  },
+  "_description_common_tags": {
+    "message": "Žymos:"
+  },
+  "_description_also_for_firefox": {
+    "message": "Galima įsigyti \"Firefox\":"
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Taip pat yra jūsų \"Thunderbird\":"
+  }
+}
