@@ -6,49 +6,62 @@
     "message": "Gemeinsame Anwendungsfälle:"
   },
   "_description_ah_use_cases_1": {
-    "message": "Markieren Sie Metadaten wie:"
+    "message": "Metadaten hervorheben wie:",
+    "u": 1631548042553
   },
   "_description_ah_use_cases_2": {
-    "message": "Highlight \"Kostenloser Versand\" :)"
+    "message": "\"Kostenloser Versand\" hervorheben :-)",
+    "u": 1631547993040
   },
   "_description_ah_use_cases_3": {
-    "message": "Suchen Sie nach etwas, das im Web spezifisch ist? Verwenden Sie \"zeitliches Highlight\", um es Ihnen bei allen Seiten zu finden. Temporale Highlights werden automatisch gelöscht, wenn Sie Ihren Browser schließen."
+    "message": "Suchen Sie etwas Bestimmtes im Web? Verwenden Sie \"Zeitlich Hervorheben\", damit Sie es auf allen Seiten finden. Zeitliche Hervorhebungen werden automatisch gelöscht, wenn Sie Ihren Browser schließen.",
+    "u": 1631547967784
   },
   "_description_ah_use_cases_4": {
-    "message": "Sie können sogar Wörter ausblenden, indem Sie die Schriftgröße auf Null setzen oder sie transparent machen."
+    "message": "Sie können Wörter sogar ausblenden, indem Sie die Schriftgröße auf Null setzen oder sie transparent machen.",
+    "u": 1631547792916
   },
   "_description_tags_ah": {
-    "message": "markieren, Markieren, Metadaten, Film, Automatik, Text, Synchronisation, Auswahl, Suche"
+    "message": "Markieren, Markieren, Metadaten, Film, Automatik, Text, Synchronisation, Auswahl, Suche",
+    "u": 1631547748374
   },
   "app_name": {
-    "message": "Auto Highlight"
+    "message": "Autom. hervorheben",
+    "u": 1631547740410
   },
   "app_desc": {
-    "message": "$app_name$ hebt automatisch definierte Wörter auf definierten Seiten hervor."
+    "message": "$app_name$ hebt autom. definierte Wörter auf definierten Seiten.",
+    "u": 1631547709748
   },
   "match_type": {
-    "message": "Spieltyp:"
+    "message": "Passender Typ:",
+    "u": 1631547619304
   },
   "match_type_0": {
-    "message": "Domäne ist"
+    "message": "Domain ist",
+    "u": 1631547557687
   },
   "match_type_1": {
     "message": "URL ist"
   },
   "match_type_2": {
-    "message": "URL enthält."
+    "message": "URL enthält",
+    "u": 1631547547252
   },
   "match_type_3": {
-    "message": ""
+    "message": "URL stimmt mit RegEx überein",
+    "u": 1631548081426
   },
   "match_type_4": {
     "message": "Jede Seite"
   },
   "selection_highlight": {
-    "message": "Highlight $1"
+    "message": "$1 hervorheben",
+    "u": 1631547540785
   },
   "selection_temp": {
-    "message": "Markieren Sie das $1 vorübergehend hervor"
+    "message": "$1 vorübergehend hervorheben",
+    "u": 1631547529513
   },
   "selection_temp_everywhere": {
     "message": "Highlight temporär überall $1"
@@ -57,7 +70,8 @@
     "message": "$app_name$ auf dieser Seite"
   },
   "toolbar_click_new_tab": {
-    "message": "Öffnen Sie immer in neuer Registerkarte - Wenn Sie auf Symbolleistensymbol klicken"
+    "message": "Immer in neuem Tab öffnen - wenn Sie auf das Symbol in der Symbolleiste klicken",
+    "u": 1631547432377
   },
   "disable_rule": {
     "message": "Deaktiviert"
@@ -90,7 +104,8 @@
     "message": "Auf Seiten:"
   },
   "disabled_rule": {
-    "message": "Behinderte Regel"
+    "message": "Deaktivierte Regel",
+    "u": 1631547360673
   },
   "incomplete_rule": {
     "message": "Unvollständige Regel."
@@ -99,25 +114,30 @@
     "message": "Aktiv auf der aktuellen Seite"
   },
   "temporal_rule_helper": {
-    "message": "Temporale Regel - wird nach dem Neustart des Browsers gelöscht"
+    "message": "Temporale Regel - wird nach dem Browserneustart gelöscht",
+    "u": 1631547294877
   },
   "active_on_pages": {
     "message": "Aktiv auf Seiten:"
   },
   "highlight_each_word_separately": {
-    "message": "Markieren Sie jedes Wort separat"
+    "message": "Jedes Wort separat hervorheben",
+    "u": 1631547270945
   },
   "case_sensitive": {
-    "message": "Gehäuseempfindlichkeit."
+    "message": "Groß-/Kleinschreibung",
+    "u": 1631547134233
   },
   "ignore_diacritics": {
-    "message": "Diakritiker ignorieren."
+    "message": "Diakritische Zeichen ignorieren",
+    "u": 1631547115209
   },
   "reg_exp": {
     "message": "RegExp"
   },
   "regular_expression": {
-    "message": "Regulären Ausdruck"
+    "message": "Regulärer Ausdruck",
+    "u": 1631547034533
   },
   "across_elements": {
     "message": "Über Elemente"
@@ -132,19 +152,23 @@
     "message": "Vorschau:"
   },
   "empty_rule": {
-    "message": "leere Herrschaft"
+    "message": "leere Regel",
+    "u": 1631547029095
   },
   "create_new_rule": {
     "message": "Neue Regel erstellen"
   },
   "import_export": {
-    "message": "Import Export"
+    "message": "Importieren/Exportieren",
+    "u": 1631546984678
   },
   "help_this_project": {
-    "message": "Hilfe dieses Projekts"
+    "message": "Hilfe fü dieses Projekt",
+    "u": 1631546948920
   },
   "about_faq": {
-    "message": ""
+    "message": "Über/FAQ",
+    "u": 1631548061473
   },
   "faq": {
     "message": "FAQ:"
@@ -156,28 +180,36 @@
     "message": "Safari unterstützt derzeit keine automatische Datensynchronisation."
   },
   "storage_safari_2": {
-    "message": "Um Ihre Highlight-Regeln zu übertragen (oder sichern), verwenden Sie die Funktion \"Import / Export\"."
+    "message": "Um Ihre Hervorhebungsregeln zu übertragen (oder zu sichern), verwenden Sie die \"Import/Export\"-Funktion.",
+    "u": 1631546854175
   },
   "storage_info_1": {
-    "message": "Ihre Regeln werden mit einem sicheren $1-Sync gespeichert, der Ihre Regeln zwischen all Ihren Geräten synchronisiert (wenn Sie bei demselben Konto angemeldet sind)."
+    "message": "Ihre Regeln werden mit sicherem $1 Sync gespeichert, das Ihre Regeln zwischen all Ihren Geräten synchronisiert (wenn Sie bei demselben Konto angemeldet sind)",
+    "u": 1631546818083
   },
   "storage_info_2": {
-    "message": "Dieser Cloud-Speicher kann 100 kb Daten und bis zu 500 Höhepunkte aufbewahren."
+    "message": "Dieser Cloudspeicher kann 100 KB Daten und bis zu 500 Hervorhebungsregeln speichern.",
+    "u": 1631546727287
   },
   "storage_info_3": {
-    "message": "Sie können Ihre Regeln auch mit der Funktion \"Importieren / Exportieren\" mit der Funktion \"Importieren / Exportieren\" exportieren und dann auf andere Geräte importieren."
+    "message": "Sie können Ihre Regeln auch mit der Funktion \"Import/Export\" in eine Datei exportieren (sichern) und dann auf andere Geräte importieren.",
+    "u": 1631546573896
   },
   "replace_existing_highlight_rules": {
-    "message": "Ersetzen Sie die vorhandenen Highlight-Regeln"
+    "message": "Ersetzen Sie die vorhandenen Hervorhebungs-Regeln",
+    "u": 1631546505242
   },
   "add_page_to_highlight_on": {
-    "message": "Seite hinzufügen, um aufzuheben"
+    "message": "Seite zum Hervorheben hinzufügen",
+    "u": 1631546481949
   },
   "remove_highlight_from_page": {
-    "message": "Highlight von der Seite entfernen"
+    "message": "Hervorhebung von der Seite entfernen",
+    "u": 1631546458063
   },
   "bold": {
-    "message": ""
+    "message": "Fett",
+    "u": 1631548049571
   },
   "italic": {
     "message": "Kursiv"
@@ -210,55 +242,67 @@
     "message": "Text hervorheben:"
   },
   "highlight_on_pages": {
-    "message": "Highlight auf Seiten"
+    "message": "Auf Seiten hervorheben",
+    "u": 1631546424443
   },
   "empty_name_helper": {
-    "message": "Leeren Sie leer, um \"hervorgehobene Text\" als Namen verwenden"
+    "message": "Leer lassen, um \"Hervorgehobenen Text\" als Namen zu verwenden",
+    "u": 1631546341181
   },
   "faq_1": {
     "message": "Wie kann man das Wort auf der aktuellen Seite schnell markieren?"
   },
   "faq_1a": {
-    "message": "Verwenden Sie das Kontextmenü - Text / Rechtsklick auswählen / \"Auto Highlight\". Wenn Sie mit der rechten Maustaste auf eine Seite klicken (ohne Text auswählen) können Sie vorhandene Regeln auf aktuelle Seite anwenden."
+    "message": "Kontextmenü verwenden - Text wählen / Rechtsklick / \"Auto hervorheben\". Wenn Sie mit der rechten Maustaste auf eine Seite klicken (ohne Text auszuwählen), können Sie vorhandene Regeln auf die aktuelle Seite anwenden.",
+    "u": 1631546379477
   },
   "faq_2": {
-    "message": "Ich möchte mehrere Wörter hervorheben, muss ich für jedes Wort für jedes Wort eine neue Regel erstellen?"
+    "message": "Ich möchte mehrere Wörter hervorheben, muss ich für jedes Wort eine neue Regel erstellen?",
+    "u": 1631546204029
   },
   "faq_2a": {
-    "message": "Nein, überprüfen Sie einfach das Kontrollkästchen \"Jedes Wort\". Dann wird jedes Wort separat hervorgehoben."
+    "message": "Nein, aktivieren Sie einfach das Kästchen \"Jedes Wort\". Dann wird jedes Wort separat hervorgehoben.",
+    "u": 1631546190921
   },
   "faq_3": {
     "message": "Was ist das \"RegExp\"?"
   },
   "faq_3a": {
-    "message": "Auch als regulärer Ausdruck bekannt, ist es eine Folge von Zeichen, die ein Suchmuster definieren. Es ist ein kompliziertes Konstrukt, das eine komplexe Hervorhebung von Elementen mit einem ähnlichen Muster ermöglicht. Zum Beispiel Preise, Termine, Telefonnummern usw."
+    "message": "Auch als regulärer Ausdruck bekannt, ist eine Folge von Zeichen, die ein Suchmuster definieren. Es ist ein kompliziertes Konstrukt, das ein komplexes Hervorheben von Elementen mit einem ähnlichen Muster ermöglicht. Zum Beispiel Preise, Termine, Telefonnummern, etc...",
+    "u": 1631546103371
   },
   "faq_4": {
     "message": "Können Sie mir einige RegExp-Beispiele zeigen?"
   },
   "faq_4a": {
-    "message": "Markieren Sie alle Preise wie $1"
+    "message": "Markieren Sie alle Preise wie $1",
+    "u": 1631546027220
   },
   "faq_5": {
-    "message": "Könntest du das erklären?"
+    "message": "Könnten Sie die erklären?",
+    "u": 1631545956187
   },
   "faq_5a": {
     "message": "\"$1$\" hebt Dollarzeichen hervor. Das Backslash ist hier erforderlich, weil der Dollar eine besondere Bedeutung in RegExp hat."
   },
   "faq_5b": {
-    "message": "\"$1$\" hebt eine einzige Stelle hervor"
+    "message": "\"$1$\" hebt eine einstellige Zahl hervor",
+    "u": 1631545927953
   },
   "faq_5c": {
     "message": "\"$1$\" bedeutet ein oder mehrmals wiederholen. Wenn Sie nach dem Ziffernschalter $2$ platziert sind, bedeutet dies eine oder mehrere Ziffern."
   },
   "faq_5d": {
-    "message": "\"$1$\" hebt Punkte hervor. Das Backslash ist wieder erforderlich, da das Punktsymbol allein jedes einzelne Zeichen in RegExp bedeutet."
+    "message": "\"$1$\" hebt Punkte hervor. Der Backslasch wird wieder benötigt, da das Punktsymbol allein jedes einzelne Zeichen in RegEx bedeutet.",
+    "u": 1631545837522
   },
   "faq_5e": {
-    "message": "\"$1$\" bedeutet Null oder einmal. Wenn sich $2$ nach der Klammer platziert, bedeutet dies, was sich in diesen Klammern befindet, was optional ist (kann da sein oder nicht). Wir verwenden es für den dezimalen Teil der Zahl, die optional ist."
+    "message": "\"$1$\" bedeutet null oder einmalig. Wenn es nach den Klammern $2$ platziert wird, bedeutet es, dass alles, was sich in diesen Klammern befindet, optional ist (kann dort sein oder nicht). Wir verwenden es für den Dezimalteil der Zahl, der optional ist.",
+    "u": 1631545753351
   },
   "faq_5f": {
-    "message": "weitere Informationen zur RegExp-Regeln"
+    "message": "weitere Infos zur RegExp-Regeln",
+    "u": 1631545663531
   },
   "import_finished": {
     "message": "Import beendet!",
@@ -269,8 +313,9 @@
     "common": true
   },
   "import_backup_file": {
-    "message": "Importieren Sie die Sicherungsdatei $1",
-    "common": true
+    "message": "Die Sicherungsdatei $1 importieren",
+    "common": true,
+    "u": 1631545613571
   },
   "homepage": {
     "message": "Startseite",
@@ -293,20 +338,23 @@
     "common": true
   },
   "thunderbird_store": {
-    "message": "Thunderbird Add-Ons",
-    "common": true
+    "message": "Thunderbird Addons",
+    "common": true,
+    "u": 1631545585955
   },
   "menu_options": {
-    "message": "Einstellungen",
-    "common": true
+    "message": "Optionen",
+    "common": true,
+    "u": 1631545566972
   },
   "label_font_size": {
     "message": "Schriftgröße",
     "common": true
   },
   "label_sidebar_size": {
-    "message": "Sidebar-Größe.",
-    "common": true
+    "message": "Seitenleistengröße.",
+    "common": true,
+    "u": 1631545554999
   },
   "label_next": {
     "message": "Weiter",
@@ -373,8 +421,9 @@
     "common": true
   },
   "label_sending": {
-    "message": "senden ...",
-    "common": true
+    "message": "wird gesendet...",
+    "common": true,
+    "u": 1631545521478
   },
   "label_scale": {
     "message": "Skala:",
@@ -413,20 +462,24 @@
     "common": true
   },
   "support_developer": {
-    "message": "Unterstützt unabhängiger Entwickler!",
-    "common": true
+    "message": "Unabhängige Entwickler unterstützen!",
+    "common": true,
+    "u": 1631545455311
   },
   "hello_there": {
-    "message": "Hallo!",
-    "common": true
+    "message": "Hallo zusammen!",
+    "common": true,
+    "u": 1631545418676
   },
   "about_me": {
-    "message": "Ich bin seit 2016 Addon Developer. Mein Ziel ist es, leistungsstarke Erweiterungen für Ihren Webbrowser zu erstellen, um Sie produktiver zu machen.",
-    "common": true
+    "message": "Ich bin seit 2016 Addon Developer. Mein Ziel ist es, leistungsstarke Erweiterungen für Ihren Browser zu erstellen, um Sie produktiver zu machen.",
+    "common": true,
+    "u": 1631545408508
   },
   "about_good_job": {
-    "message": "Wenn Sie denken, ich mache einen guten Job, bitte spenden Sie :)",
-    "common": true
+    "message": "Wenn Sie denken, ich mache einen guten Job, bitte spenden Sie :-)",
+    "common": true,
+    "u": 1631545399603
   },
   "about_income": {
     "message": "Ihre Spende ist mein einziges Einkommen!",
@@ -457,12 +510,14 @@
     "common": true
   },
   "safari_download_in_tab": {
-    "message": "Um Ihre Daten in eine Datei zu exportieren, öffnen Sie dieses Fenster in einer neuen Registerkarte erneut.",
-    "common": true
+    "message": "Um Ihre Daten in eine Datei zu exportieren, öffnen Sie dieses Fenster in einem neuen Tab erneut.",
+    "common": true,
+    "u": 1631545387009
   },
   "safari_context_menu_download": {
-    "message": "Klicken Sie mit der rechten Maustaste / \"Linked-Datei herunterladen\"",
-    "common": true
+    "message": "Rechtsklick/\"Verknüpfte Datei herunterladen\"",
+    "common": true,
+    "u": 1631545341489
   },
   "o_tab_general": {
     "message": "Allgemein",
@@ -477,24 +532,28 @@
     "common": true
   },
   "o_tab_thumbnails": {
-    "message": "Miniaturbilder",
-    "common": true
+    "message": "Thumbnails",
+    "common": true,
+    "u": 1631545297523
   },
   "o_tab_shot_keys": {
-    "message": "Kurztasten",
-    "common": true
+    "message": "Verknüpfungen",
+    "common": true,
+    "u": 1631545287658
   },
   "o_tab_backup": {
-    "message": "Import / Backup.",
-    "common": true
+    "message": "Sicherung importieren",
+    "common": true,
+    "u": 1631545272224
   },
   "o_tab_about": {
     "message": "Über",
     "common": true
   },
   "o_tab_settings": {
-    "message": "Die Einstellungen",
-    "common": true
+    "message": "Einstellungen",
+    "common": true,
+    "u": 1631545215503
   },
   "o_theme": {
     "message": "Thema:",
@@ -529,8 +588,9 @@
     "common": true
   },
   "o_backup_restore": {
-    "message": "Sicherungs- / Wiederherstellungseinstellungen in Datei:",
-    "common": true
+    "message": "Sicherungs-/Wiederherstelleinstellungen in Datei:",
+    "common": true,
+    "u": 1631545197103
   },
   "o_import_btn": {
     "message": "Importieren",
@@ -541,12 +601,14 @@
     "common": true
   },
   "title_export": {
-    "message": "Export",
-    "common": true
+    "message": "Exportieren",
+    "common": true,
+    "u": 1631545174482
   },
   "btn_export_backup": {
-    "message": "Backup exportieren.",
-    "common": true
+    "message": "Sicherung exportieren.",
+    "common": true,
+    "u": 1631545156522
   },
   "label_or": {
     "message": "oder",
@@ -561,12 +623,14 @@
     "common": true
   },
   "o_about_like_it": {
-    "message": "Wenn Ihnen GroupSpeedDial gefällt, bewerten Sie es bitte hier:",
-    "common": true
+    "message": "Wenn es Ihnen gefällt, bewerten Sie es bitte hier:",
+    "common": true,
+    "u": 1631545143040
   },
   "o_about_dislike_it": {
-    "message": "Wenn es Ihnen nicht gefällt, schreiben Sie mir eine E-Mail, wieso nicht, oder mit Vorschlägen. Ich implementiere die meisten Feature-Anfragen die mir gesendet werden, das ist eine Menge an Arbeit.",
-    "common": true
+    "message": "Wenn es Ihnen nicht gefällt, teilen Sie mir dies bitte per E-Mail mit. Ich implementiere die meisten der Funktionsanfragen, die ich erhalte.",
+    "common": true,
+    "u": 1631545105173
   },
   "o_about_support_by": {
     "message": "Bitte ehren Sie meine Arbeit, indem Sie",
@@ -609,8 +673,9 @@
     "common": true
   },
   "o_save_close": {
-    "message": "speichern & schließen",
-    "common": true
+    "message": "Änderungen speichern & schließen",
+    "common": true,
+    "u": 1631544905028
   },
   "o_saved": {
     "message": "gespeichert!",
@@ -633,16 +698,19 @@
     "common": true
   },
   "used_space": {
-    "message": "Gebrauchtraum: $1 / $2",
-    "common": true
+    "message": "Verwendeter Speicher: $1/$2",
+    "common": true,
+    "u": 1631544789069
   },
   "open_in_new_tab": {
-    "message": "Öffnen Sie in neuer Registerkarte",
-    "common": true
+    "message": "In neuem Tab öffnen",
+    "common": true,
+    "u": 1631538593044
   },
   "switch_addon_on_off": {
-    "message": "Senden Sie Addon ein / aus",
-    "common": true
+    "message": "Addon ein-/ausschalten",
+    "common": true,
+    "u": 1631538561840
   },
   "addon_is_off": {
     "message": "Addon ist deaktiviert",
@@ -653,15 +721,17 @@
     "common": true
   },
   "_description_privacy_policy": {
-    "message": "Datenschutz-Bestimmungen",
-    "common": true
+    "message": "Datenschutzerklärung",
+    "common": true,
+    "u": 1631538529661
   },
   "_description_recent_features": {
     "message": "Kürzlich hinzugefügte Funktionen:",
     "common": true
   },
   "_description_common_tags": {
-    "message": "Stichworte:",
-    "common": true
+    "message": "Tags:",
+    "common": true,
+    "u": 1631538508725
   }
 }

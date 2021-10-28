@@ -9,7 +9,8 @@
     "message": "Добро пожаловать в дополнение $app_name$"
   },
   "welcome_setup": {
-    "message": ""
+    "message": "Базовая настройка",
+    "u": 1631687765317
   },
   "welcome_watch_video": {
     "message": "Краткое ознакомительное видео (1:50) с ключевыми особенностями."
@@ -84,10 +85,12 @@
     "message": "Дубликаты диалов - клик для обновления миниатюры"
   },
   "create_multi_page_dial": {
-    "message": ""
+    "message": "Создать мульти-страничный диал",
+    "u": 1631687799131
   },
   "replace_multi_page_dial": {
-    "message": ""
+    "message": "Заменить мульти-страничный диал",
+    "u": 1631687805609
   },
   "msg_pro_cloud_upload": {
     "message": "Загрузка миниатюр в облако - позволяет увидеть их на"
@@ -255,10 +258,12 @@
     "message": "Остаться здесь"
   },
   "close_added_pages": {
-    "message": ""
+    "message": "Закрыть добавленные страницы",
+    "u": 1631687827659
   },
   "close_this_tab": {
-    "message": ""
+    "message": "Закрыть эту вкладку",
+    "u": 1631687841436
   },
   "group_first_created": {
     "message": "Первая созданная группа"
@@ -339,7 +344,8 @@
     "message": "публичная миниатюра загружена - $1"
   },
   "save_productivity_selection_changed": {
-    "message": ""
+    "message": "режим продуктивности - выбранные диалы изменены",
+    "u": 1634533303269
   },
   "err_db_err_title": {
     "message": "Ошибка :("
@@ -429,10 +435,12 @@
     "message": "Вставить (заменить) диал"
   },
   "convert_to_multi": {
-    "message": ""
+    "message": "Конвертировать в Мульти-страничный диал",
+    "u": 1631696181501
   },
   "add_to_multi": {
-    "message": ""
+    "message": "Добавить в Мульти-страничный диал",
+    "u": 1631696191636
   },
   "cm_insert_up": {
     "message": "Вставить выше"
@@ -816,10 +824,12 @@
     "message": "Текст:"
   },
   "ed_search_dial": {
-    "message": "Поиск диала:"
+    "message": "Поисковый диал:",
+    "u": 1631694867249
   },
   "ed_multi_dial": {
-    "message": ""
+    "message": "Мульти-страничный диал:",
+    "u": 1631696200551
   },
   "ed_live_dial": {
     "message": "Живой диал:"
@@ -831,7 +841,8 @@
     "message": "Не каждую страницу сайта можно загрузить как живую, но многие - можно."
   },
   "page_name": {
-    "message": ""
+    "message": "Имя",
+    "u": 1631696204144
   },
   "search_provider_name": {
     "message": "Имя"
@@ -861,34 +872,44 @@
     "message": "Нажмите \"Enter\" для поиска здесь или \"Ctrl + Enter\" для открытия поиска в Новой вкладке"
   },
   "multi_dial_import": {
-    "message": ""
+    "message": "Импорт ссылки из текста",
+    "u": 1631696214187
   },
   "multi_dial_import_help_0": {
-    "message": ""
+    "message": "Введите по одной ссылке на строку.",
+    "u": 1631696238730
   },
   "multi_dial_import_help_1": {
-    "message": ""
+    "message": "Если хотите назвать ссылку, поместите имя на строку над ссылкой и добавьте символ префикса \"$1\".",
+    "u": 1631696373166
   },
   "multi_dial_import_current": {
-    "message": ""
+    "message": "Импорт $1 ссылок",
+    "u": 1631696390114
   },
   "multi_dial_title_action": {
-    "message": ""
+    "message": "Клик на заголовке",
+    "u": 1631694932980
   },
   "multi_dial_link_action": {
-    "message": ""
+    "message": "Клик на ссылке",
+    "u": 1631694987782
   },
   "multi_dial_title_action_0": {
-    "message": ""
+    "message": "Открыть все ссылки",
+    "u": 1631694949369
   },
   "multi_dial_title_action_1": {
-    "message": ""
+    "message": "Нет",
+    "u": 1631694993902
   },
   "multi_dial_link_action_0": {
-    "message": ""
+    "message": "Открыть ссылку",
+    "u": 1631695002354
   },
   "multi_dial_link_action_1": {
-    "message": ""
+    "message": "Открыть все ссылки",
+    "u": 1631695024815
   },
   "live_dial_opt_no_interaction": {
     "message": "Запретить взаимодействие со страницей"
@@ -1272,7 +1293,8 @@
     "message": "Автоскрытие диалов для просмотра фона"
   },
   "o_no_dial_reflection": {
-    "message": ""
+    "message": "Без отражения",
+    "u": 1631695121581
   },
   "o_background_url_placeholder": {
     "message": "например: https://www.google.com/logo.jpg"
@@ -1899,40 +1921,52 @@
     "message": "Архивированные группы не видны в списке групп. Получить доступ к ним можно через Главное меню / Архивирование."
   },
   "productivity_mode": {
-    "message": ""
+    "message": "Режим продуктивности",
+    "u": 1631695130646
   },
   "productivity_mode_title": {
-    "message": ""
+    "message": "Автоматически скрывать отвлекающие диалы в рабочие часы чтобы помочь сосредоточиться.",
+    "u": 1631695191534
   },
   "auto_productivity_mode": {
-    "message": ""
+    "message": "Запланировать автовключение режима продуктивности",
+    "u": 1631695241109
   },
   "active_days": {
-    "message": ""
+    "message": "Дни активности",
+    "u": 1631695251595
   },
   "start_time": {
-    "message": ""
+    "message": "Время начала",
+    "u": 1631695265204
   },
   "end_time": {
-    "message": ""
+    "message": "Время окончания",
+    "u": 1631695272776
   },
   "elapsed_time": {
-    "message": ""
+    "message": "Пройденное время",
+    "u": 1631695318763
   },
   "remaining_time": {
-    "message": ""
+    "message": "Оставшееся время",
+    "u": 1631695324839
   },
   "start_productivity": {
-    "message": ""
+    "message": "Активировать сейчас",
+    "u": 1631695331376
   },
   "end_productivity": {
-    "message": ""
+    "message": "Завершить сейчас",
+    "u": 1631695364455
   },
   "choose_distracting_dials": {
-    "message": ""
+    "message": "Выбрать отвлекающие диалы",
+    "u": 1631695624680
   },
   "selected_dials_groups": {
-    "message": ""
+    "message": "Выбрано: $1 диалов / $2 групп",
+    "u": 1631695650720
   },
   "s_cp": {
     "message": "Другой поисковый провайдер"
@@ -1981,8 +2015,9 @@
     "common": true
   },
   "color_no_color": {
-    "message": "",
-    "common": true
+    "message": "Без цвета",
+    "common": true,
+    "u": 1631695674126
   },
   "field_int_default_value": {
     "message": "По умолчанию: $1, мин: $2, макс: $3",
@@ -2033,12 +2068,14 @@
     "common": true
   },
   "theme_light": {
-    "message": "",
-    "common": true
+    "message": "Светлая",
+    "common": true,
+    "u": 1631695712887
   },
   "theme_dark": {
-    "message": "",
-    "common": true
+    "message": "Тёмная",
+    "common": true,
+    "u": 1631695721755
   },
   "title_introduction": {
     "message": "Знакомство",
@@ -2117,12 +2154,14 @@
     "common": true
   },
   "label_previous": {
-    "message": "",
-    "common": true
+    "message": "Предыдущее",
+    "common": true,
+    "u": 1631695739904
   },
   "label_back": {
-    "message": "",
-    "common": true
+    "message": "Назад",
+    "common": true,
+    "u": 1631695763984
   },
   "label_next": {
     "message": "Далее",
@@ -2133,8 +2172,9 @@
     "common": true
   },
   "label_not_supported_by_browser": {
-    "message": "",
-    "common": true
+    "message": "Не поддерживается данным браузером.",
+    "common": true,
+    "u": 1631695810740
   },
   "label_remove": {
     "message": "Удалить",
@@ -2157,8 +2197,9 @@
     "common": true
   },
   "label_copy": {
-    "message": "",
-    "common": true
+    "message": "Копировать",
+    "common": true,
+    "u": 1631695820778
   },
   "label_copied": {
     "message": "Скопировано!",
@@ -2177,8 +2218,9 @@
     "common": true
   },
   "label_minimize": {
-    "message": "",
-    "common": true
+    "message": "Свернуть",
+    "common": true,
+    "u": 1631695828304
   },
   "label_installed": {
     "message": "Установлено",
@@ -2197,36 +2239,44 @@
     "common": true
   },
   "label_active": {
-    "message": "",
-    "common": true
+    "message": "Активно",
+    "common": true,
+    "u": 1631695833589
   },
   "label_inactive": {
-    "message": "",
-    "common": true
+    "message": "Неактивно",
+    "common": true,
+    "u": 1631695861226
   },
   "label_paused": {
-    "message": "",
-    "common": true
+    "message": "В паузе",
+    "common": true,
+    "u": 1631695867667
   },
   "label_pause": {
-    "message": "",
-    "common": true
+    "message": "Пауза",
+    "common": true,
+    "u": 1631695875384
   },
   "label_resume": {
-    "message": "",
-    "common": true
+    "message": "Возобновить",
+    "common": true,
+    "u": 1631695891348
   },
   "label_select_all": {
-    "message": "",
-    "common": true
+    "message": "Выбрать всё",
+    "common": true,
+    "u": 1631695897792
   },
   "label_select_none": {
-    "message": "",
-    "common": true
+    "message": "Отменить выбор",
+    "common": true,
+    "u": 1631695913558
   },
   "label_minutes": {
-    "message": "",
-    "common": true
+    "message": "$1 мин.",
+    "common": true,
+    "u": 1631695919376
   },
   "label_scale": {
     "message": "масштаб:",
@@ -2241,8 +2291,9 @@
     "common": true
   },
   "label_example": {
-    "message": "",
-    "common": true
+    "message": "Пример:",
+    "common": true,
+    "u": 1631695925748
   },
   "menu_button_title": {
     "message": "Меню",
@@ -2257,12 +2308,14 @@
     "common": true
   },
   "online_help": {
-    "message": "",
-    "common": true
+    "message": "Онлайн документация",
+    "common": true,
+    "u": 1631695940063
   },
   "online_help_info": {
-    "message": "",
-    "common": true
+    "message": "Здесь вы найдёте пособия, советы, обсуждения и многое другое!",
+    "common": true,
+    "u": 1631696114227
   },
   "op_support_me": {
     "message": "Помочь проекту",

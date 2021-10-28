@@ -174,5 +174,113 @@
   "label_close": {
     "message": "Zavrieť",
     "u": 1631199351824
+  },
+  "note_delete": {
+    "message": "Zmazať",
+    "u": 1631199504230
+  },
+  "note_unread": {
+    "message": "Onačiť ako neprečítané",
+    "u": 1631199516717
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "u": 1631199741163
+  },
+  "o_about_home": {
+    "message": "domov:",
+    "u": 1631199742661
+  },
+  "o_about_thanks": {
+    "message": "Ďakujem!",
+    "u": 1631199744356
+  },
+  "label_working": {
+    "message": "pracujem...",
+    "u": 1631199752212
+  },
+  "_description_feature_1": {
+    "message": "Posielaj si textové správy medzi Tvojimi zariadeniami (podobne ako funkcia vo Firefox-e  \"Odoslať kartu do zariadenia\")",
+    "u": 1631215670586
+  },
+  "_description_feature_2": {
+    "message": "Netreba si vytvárať nový účet, stačí byť prihlásený vo Firefox účte",
+    "u": 1631215400336
+  },
+  "_description_feature_3": {
+    "message": "K dispozícii je aj zonam Prijaté / Odoslané správy",
+    "u": 1631215398860
+  },
+  "app_name": {
+    "message": "Poslať Správu do Zariadenia",
+    "u": 1631215563292
+  },
+  "app_desc": {
+    "message": "Poslať Správu do Zariadenia ti umožní posielať správy medzi Tvojimi zariadeniami.",
+    "u": 1631215667673
+  },
+  "inbox_messages": {
+    "message": "Prijaté správy",
+    "u": 1631215685007
+  },
+  "outbox_messages": {
+    "message": "Odoslané správy",
+    "u": 1631215689138
+  },
+  "note_sent": {
+    "message": "Správa odoslaná",
+    "u": 1631260027667
+  },
+  "discard_note": {
+    "message": "Zrušiť",
+    "u": 1631260046481
+  },
+  "open_inbox": {
+    "message": "Prijaté",
+    "u": 1631260052106
+  },
+  "open_outbox": {
+    "message": "Odoslané",
+    "u": 1631260055419
+  },
+  "cm_shortcut_title": {
+    "message": "Skratka: $1",
+    "u": 1631260065549
+  },
+  "note_forward": {
+    "message": "Preposlať...",
+    "u": 1631260325235
+  },
+  "outbox_messages_title": {
+    "message": "Odoslané správy",
+    "u": 1631260344084
+  },
+  "label_target_device": {
+    "message": "Cieľové zariadenie",
+    "u": 1631260351510
+  },
+  "label_source_device": {
+    "message": "",
+    "u": 1631260374739
+  },
+  "placeholder_new_note": {
+    "message": "Napíš správu, ktorú chceš odoslať na iné zariadenie.",
+    "u": 1631260710360
+  },
+  "placeholder_new_note_url": {
+    "message": "",
+    "u": 1631260734154
+  },
+  "no_target_device": {
+    "message": "Nebolo nájdené žiadne zariadenie!",
+    "u": 1631260755575
+  },
+  "no_target_device_body": {
+    "message": "Aby si mohol posielať správy na svoje zariadenia, musíš tam najskôr nainštalovať tento doplnok.",
+    "u": 1631260815991
+  },
+  "send_note": {
+    "message": "Odošli správu!",
+    "u": 1631260829592
   }
 }

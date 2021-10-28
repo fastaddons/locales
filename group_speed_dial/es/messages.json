@@ -1809,7 +1809,8 @@
     "message": "Guardar también las miniaturas (aumentará considerablemente el tamaño de la copia de seguridad)"
   },
   "o_import_other_addons": {
-    "message": "Restaurar de otros complementos:"
+    "message": "Restaurar desde otros complementos:",
+    "u": 1632169677465
   },
   "o_import_josep": {
     "message": "Restaurar diapositivas del complemento \"Speed Dial de Josep del Rio\":"
@@ -2157,8 +2158,9 @@
     "common": true
   },
   "label_copy": {
-    "message": "",
-    "common": true
+    "message": "Copiar",
+    "common": true,
+    "u": 1632169043478
   },
   "label_copied": {
     "message": "¡Copiado!",
@@ -2441,84 +2443,104 @@
     "common": true
   },
   "s_baidu": {
-    "message": "",
-    "common": true
+    "message": "Baidu",
+    "common": true,
+    "u": 1632170393148
   },
   "s_google": {
-    "message": "",
-    "common": true
+    "message": "Google",
+    "common": true,
+    "u": 1632170388358
   },
   "s_bing": {
-    "message": "",
-    "common": true
+    "message": "Bing",
+    "common": true,
+    "u": 1632170385657
   },
   "s_yahoo": {
-    "message": "",
-    "common": true
+    "message": "Yahoo",
+    "common": true,
+    "u": 1632170382587
   },
   "s_brave": {
-    "message": "",
-    "common": true
+    "message": "Brave",
+    "common": true,
+    "u": 1632170379348
   },
   "s_yandex": {
-    "message": "",
-    "common": true
+    "message": "Yandex",
+    "common": true,
+    "u": 1632170374625
   },
   "s_duck_duck_go": {
-    "message": "",
-    "common": true
+    "message": "DuckDuckGo",
+    "common": true,
+    "u": 1632170371675
   },
   "s_qwant": {
-    "message": "",
-    "common": true
+    "message": "Qwant",
+    "common": true,
+    "u": 1632170368673
   },
   "s_ecosia": {
-    "message": "",
-    "common": true
+    "message": "Ecosia",
+    "common": true,
+    "u": 1632170365150
   },
   "s_seznam": {
-    "message": "",
-    "common": true
+    "message": "Seznam",
+    "common": true,
+    "u": 1632170361190
   },
   "s_translate_en": {
-    "message": "",
-    "common": true
+    "message": "Google Translate",
+    "common": true,
+    "u": 1632170357356
   },
   "s_translate_microsoft_en": {
-    "message": "",
-    "common": true
+    "message": "Microsoft Translator",
+    "common": true,
+    "u": 1632170353186
   },
   "s_translate_deepl_en": {
-    "message": "",
-    "common": true
+    "message": "DeepL Translator",
+    "common": true,
+    "u": 1632170347813
   },
   "s_translate_yandex_en": {
-    "message": "",
-    "common": true
+    "message": "Yandex Translator",
+    "common": true,
+    "u": 1632170342284
   },
   "s_translate_baidu_en": {
-    "message": "",
-    "common": true
+    "message": "Baidu Translator",
+    "common": true,
+    "u": 1632170337371
   },
   "s_wikipedia": {
-    "message": "",
-    "common": true
+    "message": "Wikipedia",
+    "common": true,
+    "u": 1632170332560
   },
   "s_youtube": {
-    "message": "",
-    "common": true
+    "message": "YouTube",
+    "common": true,
+    "u": 1632170329253
   },
   "s_google_maps": {
-    "message": "",
-    "common": true
+    "message": "Google Maps",
+    "common": true,
+    "u": 1632170324345
   },
   "s_twitter": {
-    "message": "",
-    "common": true
+    "message": "Twitter",
+    "common": true,
+    "u": 1632170319723
   },
   "s_facebook": {
-    "message": "",
-    "common": true
+    "message": "Facebook",
+    "common": true,
+    "u": 1632170315609
   },
   "s_imdb": {
     "message": "IMDb",

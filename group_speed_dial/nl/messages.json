@@ -9,7 +9,8 @@
     "message": "Welkom in add-on $app_name$"
   },
   "welcome_setup": {
-    "message": ""
+    "message": "Basis setup",
+    "u": 1631701875576
   },
   "welcome_watch_video": {
     "message": "Bekijk een korte introductievideo (1:50) met de belangrijkste functies."
@@ -84,10 +85,12 @@
     "message": "Dupliceer dial - klik om de miniatuur te updaten"
   },
   "create_multi_page_dial": {
-    "message": ""
+    "message": "Maak multi-page dial aan",
+    "u": 1631702035207
   },
   "replace_multi_page_dial": {
-    "message": ""
+    "message": "Zet multi-page dial terug",
+    "u": 1631702189586
   },
   "msg_pro_cloud_upload": {
     "message": "Uploaden van thumbnails naar de cloud - hiermee kun je ze zien in de"
@@ -111,7 +114,8 @@
     "message": "Als alternatief kunt je je lokale dials vervangen."
   },
   "url_search": {
-    "message": ""
+    "message": "URL / Zoeken",
+    "u": 1631702221233
   },
   "msg_search_by": {
     "message": "Zoeken op:"
@@ -135,7 +139,8 @@
     "message": "Niet meer tonen"
   },
   "msg_add_dials_here": {
-    "message": ""
+    "message": "Voeg toe aan lege dials",
+    "u": 1631702265352
   },
   "add_target_dial": {
     "message": "Lege dial selecteren voor pagina:"
@@ -144,13 +149,15 @@
     "message": "Maak nieuwe lege groep of kies $1 dials"
   },
   "add_image": {
-    "message": ""
+    "message": "Voeg afbeelding toe",
+    "u": 1631702300918
   },
   "bc_first_group": {
     "message": "Eerste groep aangemaakt"
   },
   "show_all_groups": {
-    "message": ""
+    "message": "Toon alle groepen",
+    "u": 1631702314451
   },
   "fr_home_group": {
     "message": "Start groep"
@@ -258,7 +265,8 @@
     "message": ""
   },
   "close_this_tab": {
-    "message": ""
+    "message": "Sluit deze tab",
+    "u": 1631702327632
   },
   "group_first_created": {
     "message": "Eerste groep aangemaakt"
@@ -312,7 +320,8 @@
     "message": "dial bewerkt - $1"
   },
   "save_dials_added_to_group": {
-    "message": ""
+    "message": "meerdere dials toegevoegd aan groep - $1",
+    "u": 1631702385045
   },
   "save_dial_moved": {
     "message": "dial verplaatst - $1"
@@ -690,7 +699,8 @@
     "message": "Annuleren"
   },
   "history_revert_dials": {
-    "message": ""
+    "message": "Als je je dials wil terugzetten, gebruik je de $1 functie",
+    "u": 1631702670634
   },
   "save_history_restored": {
     "message": "gegevens hersteld uit geschiedenis"

@@ -2157,8 +2157,9 @@
     "common": true
   },
   "label_copy": {
-    "message": "",
-    "common": true
+    "message": "Kopieren",
+    "common": true,
+    "u": 1631532102369
   },
   "label_copied": {
     "message": "Kopiert!",

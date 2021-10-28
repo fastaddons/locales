@@ -1,165 +1,218 @@
 {
   "_description_feature_1": {
-    "message": ""
+    "message": "Ihre Hinweise können über ein Firefox-/Chrome-Konto mit anderen Geräten synchronisiert werden.",
+    "u": 1631538430363
   },
   "_description_feature_2": {
-    "message": ""
+    "message": "Ideal zum Speichern sensibelster Infos wie Wiederherstellungscodes, Wi-Fi-Passwörter, Serverkonfigurationen usw...",
+    "u": 1631538383495
   },
   "_description_tags_pn": {
-    "message": ""
+    "message": "Privat, Privatsphäre, Notiz, Nachricht, sicher, Text, Synchronisierung, Synchronisierung, e2e, Verschlüsselung, sensibel, Firefox Sync, Gerät, Zip, Komprimierung, Editor, Tresor, Pass, Passwort, Krypto, Safe",
+    "u": 1631538333347
   },
   "app_name": {
-    "message": "Private Notes"
+    "message": "Private Hinweise",
+    "u": 1631536211344
   },
   "app_desc": {
-    "message": ""
+    "message": "$app_name$ bietet Ihnen einen sicheren und vollständig verschlüsselten Ort für Ihre Top-Secret-Hinweise!",
+    "u": 1631538301587
   },
   "compression_level_0": {
-    "message": ""
+    "message": "Langsam",
+    "u": 1631538249281
   },
   "compression_level_1": {
-    "message": ""
+    "message": "Normal",
+    "u": 1631538238092
   },
   "compression_level_2": {
-    "message": ""
+    "message": "Bestes",
+    "u": 1631538227961
   },
   "compression_level_info_0": {
-    "message": ""
+    "message": "Schnellste Komprimierung für langsame Endgeräte.",
+    "u": 1631538222190
   },
   "compression_level_info_1": {
-    "message": ""
+    "message": "Gute Komprimierung mit schneller Verschlüsselung.",
+    "u": 1631538150047
   },
   "compression_level_info_2": {
-    "message": ""
+    "message": "Beste Komprimierung - kann bei großen Hinweisen sehr langsam sein.",
+    "u": 1631538108113
   },
   "title_notes": {
-    "message": ""
+    "message": "Hinweise",
+    "u": 1631538056726
   },
   "restore_backup": {
-    "message": ""
+    "message": "Sicherung wiederherstellen",
+    "u": 1631538050150
   },
   "create_new_note": {
-    "message": ""
+    "message": "Neuen Hinweis erstellen",
+    "u": 1631538029822
   },
   "auto_locking_strategy_0": {
-    "message": ""
+    "message": "Bei laufendem Browser entsperrt bleiben",
+    "u": 1631538006731
   },
   "auto_locking_strategy_1": {
-    "message": ""
+    "message": "Sperren, wenn Popup/Tab geschlossen ist",
+    "u": 1631537984407
   },
   "restore_note": {
-    "message": ""
+    "message": "Hinweis wiederherstellen",
+    "u": 1631537964370
   },
   "locked": {
-    "message": ""
+    "message": "Gesperrt",
+    "u": 1631537906162
   },
   "change_master_password": {
-    "message": ""
+    "message": "Masterpasswort ändern",
+    "u": 1631537885930
   },
   "import_export": {
-    "message": ""
+    "message": "Importieren/Exportieren",
+    "u": 1631537863744
   },
   "about_faq": {
-    "message": ""
+    "message": "Über/FAQ",
+    "u": 1631537827731
   },
   "notes_auto_saved_placeholder": {
-    "message": ""
+    "message": "Ihre Hinweise werden automatisch gespeichert",
+    "u": 1631537815657
   },
   "setup_new_pwd": {
-    "message": ""
+    "message": "Neues Passwort einrichten",
+    "u": 1631537766860
   },
   "change_pwd": {
-    "message": ""
+    "message": "Passwort ändern",
+    "u": 1631537740777
   },
   "pwd_to_change": {
-    "message": ""
+    "message": "Passwort zum ändern",
+    "u": 1631537730198
   },
   "current_pwd": {
-    "message": ""
+    "message": "Aktuelles Passwort",
+    "u": 1631537669567
   },
   "new_pwd_advice": {
-    "message": ""
+    "message": "Neues Passwort - lieber lang und einfach als kurz und komplex verwenden",
+    "u": 1631537652262
   },
   "repeat_pwd": {
-    "message": ""
+    "message": "Passwort wiederholen",
+    "u": 1631537625758
   },
   "hint_pwd": {
-    "message": ""
+    "message": "Hinweis für Ihr neues Passwort",
+    "u": 1631537584300
   },
   "pwd_warning": {
-    "message": ""
+    "message": "Vergessen Sie Ihr Passwort nicht! Es gibt KEINE Wiederherstellung, wenn Sie es vergessen!",
+    "u": 1631537563193
   },
   "remember_pwd_0": {
-    "message": ""
+    "message": "Hilf mir, mich an mein Passwort zu erinnern",
+    "u": 1631537540764
   },
   "remember_pwd_1": {
-    "message": ""
+    "message": "In den ersten Stunden ist es leicht, ein neues Passwort zu vergessen.",
+    "u": 1631537519257
   },
   "remember_pwd_2": {
-    "message": ""
+    "message": "Ich werde Ihnen helfen, sich an Ihr Passwort zu erinnern, indem ich Sie auffordere, es nach 3h, 6h, 12h, 24h, 48h, 4 Tagen, 8 Tagen, 16 Tagen und dann einmal im Monat einzugeben.",
+    "u": 1631537497978
   },
   "pwd_save": {
-    "message": ""
+    "message": "Neues Passwort speichern",
+    "u": 1631537465681
   },
   "error_saving_note": {
-    "message": ""
+    "message": "Fehler beim Speichern des Hinweises \"$1\"!",
+    "u": 1631537445912
   },
   "quota_bytes_per_item": {
-    "message": ""
+    "message": "Maximale Hinweisgröße überschritten! Verwenden Sie in Hinweisen keine Bilder oder andere Multimedia-Inhalte. Hinweis darf nur etwa 8.000 Zeichen lang sein.",
+    "u": 1631537393928
   },
   "quota_bytes": {
-    "message": ""
+    "message": "Speicher ist voll! Entfernen Sie einige Hinweise, um Speicherplatz freizugeben.",
+    "u": 1631537332488
   },
   "max_items": {
-    "message": ""
+    "message": "Speicher ist voll! Es dürfen nur etwa 500 Hinweise im Speicher sein.",
+    "u": 1631537224347
   },
   "max_write_operations_per_hour": {
-    "message": ""
+    "message": "Zu viele Speicherversuche pro Stunde.",
+    "u": 1631537139797
   },
   "max_write_operations_per_minute": {
-    "message": ""
+    "message": "Zu viele Speicherversuche pro Minute.",
+    "u": 1631537119981
   },
   "security": {
-    "message": ""
+    "message": "Sicherheit",
+    "u": 1631537092364
   },
   "visual_options": {
-    "message": ""
+    "message": "Visuelle Optionen",
+    "u": 1631537081328
   },
   "compression_level": {
-    "message": ""
+    "message": "Kompressionsstufe",
+    "u": 1631537065079
   },
   "auto_locking_strategy": {
-    "message": ""
+    "message": "Autom. Sperrstrategie",
+    "u": 1631537047275
   },
   "auto_lock_inactive_for": {
-    "message": ""
+    "message": "Automatische Sperre bei Inaktivität für:",
+    "u": 1631536960128
   },
   "dense_notes_list": {
-    "message": ""
+    "message": "Verrückte Liste von Hinweisen",
+    "u": 1631536940591
   },
   "import_replace_all": {
-    "message": ""
+    "message": "Alle vorhandenen Hinweise und Passwörter ersetzen",
+    "u": 1631536857301
   },
   "export_encrypted": {
-    "message": ""
+    "message": "Verschlüsselte Sicherung exportieren",
+    "u": 1631536669038
   },
   "minutes": {
-    "message": ""
+    "message": "Minuten",
+    "u": 1631536650377
   },
   "label_font_size": {
     "message": "Schriftgröße"
   },
   "sidebar_size": {
-    "message": ""
+    "message": "Seitenleistengröße",
+    "u": 1631536640982
   },
   "popup_window_width": {
-    "message": ""
+    "message": "Breite des Popup-Fensters:",
+    "u": 1631536622668
   },
   "popup_window_height": {
-    "message": ""
+    "message": "Höhe des Popup-Fensters:",
+    "u": 1631536611814
   },
   "always_open_in_new_tab": {
-    "message": ""
+    "message": "Immer in neuem Tab öffnen - wenn Sie auf das Symbol in der Symbolleiste klicken",
+    "u": 1631536330903
   },
   "safari_store": {
     "message": "Mac App Store"
@@ -177,7 +230,8 @@
     "message": "Fehler"
   },
   "import_backup_file": {
-    "message": "Importieren Sie die Sicherungsdatei $1"
+    "message": "Die Sicherungsdatei $1 importieren",
+    "u": 1631536188502
   },
   "search_search": {
     "message": "Suche"
@@ -186,10 +240,12 @@
     "message": "Importieren"
   },
   "title_export": {
-    "message": "Export"
+    "message": "Exportieren",
+    "u": 1631536154265
   },
   "title_backups": {
-    "message": ""
+    "message": "Sicherungen",
+    "u": 1631536308469
   },
   "homepage": {
     "message": "Startseite"
@@ -198,22 +254,28 @@
     "message": "Addon-Seite"
   },
   "settings": {
-    "message": ""
+    "message": "Einstellungen",
+    "u": 1631536301217
   },
   "options": {
-    "message": ""
+    "message": "Optionen",
+    "u": 1631536289531
   },
   "label_backups": {
-    "message": ""
+    "message": "Sicherungen",
+    "u": 1631536280739
   },
   "label_rename": {
-    "message": ""
+    "message": "Umbenennen",
+    "u": 1631536271802
   },
   "label_download": {
-    "message": ""
+    "message": "Download",
+    "u": 1631536260264
   },
   "label_delete": {
-    "message": ""
+    "message": "Löschen",
+    "u": 1631536249615
   },
   "label_next": {
     "message": "Weiter"
@@ -252,16 +314,19 @@
     "message": "Diesem Projekt helfen"
   },
   "support_developer": {
-    "message": "Unterstützt unabhängiger Entwickler!"
+    "message": "Unabhängige Entwickler unterstützen!",
+    "u": 1631536104550
   },
   "hello_there": {
-    "message": "Hallo!"
+    "message": "Hallo zusammen!",
+    "u": 1631536069520
   },
   "about_me": {
     "message": "Ich bin seit 2016 Addon Developer. Mein Ziel ist es, leistungsstarke Erweiterungen für Ihren Webbrowser zu erstellen, um Sie produktiver zu machen."
   },
   "about_good_job": {
-    "message": "Wenn Sie denken, ich mache einen guten Job, bitte spenden Sie :)"
+    "message": "Wenn Sie denken, ich mache einen guten Job, spenden Sie bitte :-)",
+    "u": 1631536057854
   },
   "about_income": {
     "message": "Ihre Spende ist mein einziges Einkommen!"
@@ -291,7 +356,8 @@
     "message": "Mein Name ist $1$ und ich bin der Autor von $app_name$."
   },
   "o_about_like_it": {
-    "message": "Wenn Ihnen GroupSpeedDial gefällt, bewerten Sie es bitte hier:"
+    "message": "Wenn es Ihnen gefällt, bewerten Sie es bitte hier:",
+    "u": 1631536029353
   },
   "o_about_thanks": {
     "message": "Vielen Dank!"
@@ -309,7 +375,8 @@
     "message": "Banküberweisung mit IBAN:"
   },
   "used_space": {
-    "message": "Gebrauchtraum: $1 / $2"
+    "message": "Verwendeter Speicherplatz: $1/$2",
+    "u": 1631535976579
   },
   "ps_no_results": {
     "message": "Keine passenden Ergebnisse"
@@ -324,18 +391,22 @@
     "message": "Vom System gesteuert"
   },
   "open_in_new_tab": {
-    "message": "Öffnen Sie in neuer Registerkarte"
+    "message": "In neuem Tab öffnen",
+    "u": 1631535932472
   },
   "_description_features": {
-    "message": ""
+    "message": "Eigenschaften:",
+    "u": 1631536232847
   },
   "_description_privacy_policy": {
-    "message": "Datenschutz-Bestimmungen"
+    "message": "Datenschutzerklärung",
+    "u": 1631535889918
   },
   "_description_recent_features": {
     "message": "Kürzlich hinzugefügte Funktionen:"
   },
   "_description_common_tags": {
-    "message": "Stichworte:"
+    "message": "Tags:",
+    "u": 1631535857135
   }
 }

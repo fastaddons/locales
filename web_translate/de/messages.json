@@ -1,21 +1,27 @@
 {
   "_description_feature_1": {
-    "message": "Übersetzen Sie den ausgewählten Text (aus Kontextmenü)"
+    "message": "Gewählten Text übersetzen (aus dem Kontextmenü)",
+    "u": 1631548908331
   },
   "_description_feature_2": {
-    "message": "Ganze Seite Übersetzung"
+    "message": "Übersetzung ganzer Seiten",
+    "u": 1631548873006
   },
   "_description_feature_3": {
-    "message": "Dark-Modus!"
+    "message": "Dunkler Modus!",
+    "u": 1631548808245
   },
   "_description_tags_wt": {
-    "message": "baidu, Bing, Dunkel, E-Mail, Google, Lang, Sprache, Microsoft, Seite, Preklad, Prekladač, S3, Selektion, Text, Tradeur, Übersetzen, Übersetzer, Übersetzer, 翻译"
+    "message": "Baidu, Bing, Dunkel, E-Mail, Google, Lang, Sprache, Microsoft, Seite, Preklad, Prekladač, S3, Selektion, Text, Tradeur, Übersetzen, Übersetzer, Übersetzer, Übersetzung",
+    "u": 1631548843550
   },
   "app_name": {
-    "message": "Web Translate"
+    "message": "Web-Übersetzer",
+    "u": 1631548795138
   },
   "app_desc": {
-    "message": "$app_name$ ist ein einfach zu bedienender Übersetzer für Ihren Webbrowser / Thunderbird!"
+    "message": "$app_name$ ist ein einfach zu bedienender Übersetzer für Ihren Browser/Thunderbird!",
+    "u": 1631548788463
   },
   "o_tab_translate": {
     "message": "Übersetzen"
@@ -24,34 +30,43 @@
     "message": "Unterstützte Übersetzungsanbieter:"
   },
   "translator_GOOGLE": {
-    "message": "Google Translate"
+    "message": "Google-Übersetzer",
+    "u": 1631548775001
   },
   "translator_GOOGLE_CN": {
-    "message": "Google 翻译"
+    "message": "Google-Übersetzer",
+    "u": 1631548756631
   },
   "translator_BING": {
-    "message": "Microsoft Translator"
+    "message": "Microsoft-Übersetzer",
+    "u": 1631548748506
   },
   "translator_DEEPL": {
-    "message": "DeepL Translator"
+    "message": "DeepL-Übersetzer",
+    "u": 1631548742971
   },
   "translator_YANDEX": {
-    "message": "Yandex Translate"
+    "message": "Yandex-Übersetzer",
+    "u": 1631548737922
   },
   "translator_YANDEX_RU": {
-    "message": "Яндекс Переводчик"
+    "message": "Yandex-Übersetzer",
+    "u": 1631548732295
   },
   "translator_BAIDU": {
-    "message": "百度翻译 (Baidu Translator)"
+    "message": "Baidu-Übersetzer",
+    "u": 1631548684626
   },
   "open_in_0": {
     "message": "Modales Fenster"
   },
   "open_in_1": {
-    "message": "Pop-up-Fenster"
+    "message": "Popup-Fenster",
+    "u": 1631548618528
   },
   "open_in_2": {
-    "message": "Neue Registerkarte"
+    "message": "Neuer Tab",
+    "u": 1631548612340
   },
   "open_in_3": {
     "message": "Neues Fenster"
@@ -63,10 +78,12 @@
     "message": "Modales Fenster"
   },
   "toolbar_icon_action": {
-    "message": "Funktionsleistensymbolaktion"
+    "message": "Funktionsleisten Symbolaktion",
+    "u": 1631548603021
   },
   "toolbar_icon_text": {
-    "message": "Symbolleistensymboltext."
+    "message": "Symbolleisten Symboltext.",
+    "u": 1631548589157
   },
   "sidebar_size": {
     "message": "Seitenleistengröße"
@@ -75,19 +92,23 @@
     "message": "Übersetzungsanbieter"
   },
   "translate_to": {
-    "message": "Übersetzen ins:"
+    "message": "Übersetzen nach:",
+    "u": 1631548576847
   },
   "no_overlay": {
     "message": "Keine Überlagerung (der umliegende dunkle Bereich)"
   },
   "no_overlay_hint": {
-    "message": "Das modale Fenster bleibt geöffnet, auch wenn Sie nach draußen klicken."
+    "message": "Das modale Fenster bleibt geöffnet, auch wenn Sie außerhalb klicken.",
+    "u": 1631548557443
   },
   "open_translator_in": {
-    "message": ""
+    "message": "Übersetzer öffnen in:",
+    "u": 1631548924933
   },
   "open_translation_in": {
-    "message": "Offene Übersetzung in:"
+    "message": "Übersetzung öffnen in:",
+    "u": 1631548492412
   },
   "fallback_1": {
     "message": "Fallback-Methode"
@@ -102,16 +123,19 @@
     "message": "In neuem Tab öffnen"
   },
   "translate_this_page": {
-    "message": "Übersetze diese Seite"
+    "message": "Diese Seite übersetzen",
+    "u": 1631548462246
   },
   "selection_translate": {
-    "message": "Übersetzen Sie \"$1\""
+    "message": "\"$1\" übersetzen",
+    "u": 1631548417572
   },
   "page_translate": {
     "message": "Seite übersetzen"
   },
   "selected_text": {
-    "message": "ausgewählter text"
+    "message": "gewählter Text",
+    "u": 1631548402951
   },
   "disable_context_menu": {
     "message": "Kontextmenü deaktivieren: \"$1\""
@@ -123,13 +147,15 @@
     "message": "Fehler"
   },
   "import_backup_file": {
-    "message": "Importieren Sie die Sicherungsdatei $1"
+    "message": "Die Sicherungsdatei $1 importieren",
+    "u": 1631548388067
   },
   "search_search": {
     "message": "Suche"
   },
   "homepage": {
-    "message": "Startseite"
+    "message": "Homepage",
+    "u": 1631548352999
   },
   "addon_page": {
     "message": "Addon-Seite"
@@ -141,10 +167,12 @@
     "message": "Chrome WebStore-Seite"
   },
   "firefox_store": {
-    "message": "Firefox AddOn-Seite"
+    "message": "Firefox Addon-Seite",
+    "u": 1631548346265
   },
   "thunderbird_store": {
-    "message": "Thunderbird Add-Ons"
+    "message": "Thunderbird Addons",
+    "u": 1631548331916
   },
   "label_font_size": {
     "message": "Schriftgröße"
@@ -186,16 +214,20 @@
     "message": "Diesem Projekt helfen"
   },
   "support_developer": {
-    "message": "Unterstützen Sie unabhängige Entwickler!"
+    "message": "Unabhängige Entwickler unterstützen!",
+    "u": 1631548325178
   },
   "hello_there": {
-    "message": "Hallo!"
+    "message": "Hallo zusammen!",
+    "u": 1631548293389
   },
   "about_me": {
-    "message": "Ich bin seit 2016 Addon-Entwickler und mein Ziel ist es, großartige Erweiterungen für Ihren Webbrowser zu erstellen, um Sie produktiver zu machen."
+    "message": "Ich bin seit 2016 Addon-Entwickler und mein Ziel ist es, großartige Erweiterungen für Ihren Browser zu erstellen, um Sie produktiver zu machen.",
+    "u": 1631548282406
   },
   "about_good_job": {
-    "message": "Wenn Sie denken, ich mache einen guten Job, spende bitte :)"
+    "message": "Wenn Sie denken, ich mache einen guten Job, spenden Sie bitte etwas :-)",
+    "u": 1631548274665
   },
   "about_income": {
     "message": "Ihre Spende ist mein einziges Einkommen!"
@@ -264,18 +296,22 @@
     "message": "Warum?"
   },
   "_description_privacy_policy": {
-    "message": "Datenschutz-Bestimmungen"
+    "message": "Datenschutzerklärung",
+    "u": 1631548241050
   },
   "_description_recent_features": {
     "message": "Kürzlich hinzugefügte Funktionen:"
   },
   "_description_common_tags": {
-    "message": "Stichworte:"
+    "message": "Tags:",
+    "u": 1631548161481
   },
   "_description_also_for_firefox": {
-    "message": "Auch für Ihr Firefox erhältlich:"
+    "message": "Auch für Firefox erhältlich:",
+    "u": 1631548136128
   },
   "_description_also_for_thunderbird": {
-    "message": "Erhältlich auch für Ihren Thunderbird:"
+    "message": "Auch für Thunderbird erhältlich:",
+    "u": 1631548129114
   }
 }

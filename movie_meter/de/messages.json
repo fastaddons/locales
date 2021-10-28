@@ -1,9 +1,11 @@
 {
   "_description_tags_mm": {
-    "message": "datum, IMDB, Beschreibung, Episode, Messgerät, Grafik, IMDB, Info, Zähler, Film, Film, Filme, Netflix, IMDB, Bewertung, Serie, Shows, TV, TV-Show, Video, Visuelles, Stimmen, Saison"
+    "message": "Datum, IMDB, Beschreibung, Episode, Messgerät, Grafik, IMDB, Info, Zähler, Film, Film, Filme, Netflix, IMDB, Bewertung, Serie, Shows, TV, TV-Show, Video, Visuelles, Stimmen, Saison",
+    "u": 1631535810451
   },
   "_description_known_issue_mm_1": {
-    "message": "film nicht gefunden / Falscher Film gefunden - Da es keine \"offizielle\" Integration mit Zielseiten gibt, kann ich nicht 100% korrekte Ergebnisse garantieren (aber in der Mehrheit der Fälle funktioniert es perfekt)"
+    "message": "Film nicht gefunden/falschen Film gefunden - Da es keine \"offizielle\" Integration mit Zielseiten gibt, kann ich nicht 100% korrekte Ergebnisse garantieren (aber in der Mehrheit der Fälle funktioniert es perfekt)",
+    "u": 1631535803136
   },
   "_description_mm_not_working": {
     "message": "Funktioniert nicht auf Ihrer bevorzugten Filmseite?"
@@ -12,28 +14,35 @@
     "message": "Kontaktieren Sie mich und ich füge es hinzu - wenn möglich (Seite muss den Filmnamen in Englisch oder $visit_imdb$-Link enthalten)."
   },
   "_description_mm_feature_1": {
-    "message": "filmbewertung und Beliebtheit von $visit_imdb$"
+    "message": "Filmbewertung und Beliebtheit von $visit_imdb$",
+    "u": 1631535772043
   },
   "_description_mm_feature_2": {
-    "message": "next / Previous Episode Datum von $visit_tvmaze$"
+    "message": "Datum der nächsten/vorherigen Folge von $visit_tvmaze$",
+    "u": 1631535744354
   },
   "_description_mm_feature_3": {
-    "message": "zusätzliche Informationen zum Film- / TV-Serie"
+    "message": "zusätzliche Infos zum Film/TV-Serie",
+    "u": 1631535685988
   },
   "_description_mm_feature_4": {
-    "message": "benachrichtigung über neue Episode"
+    "message": "Benachrichtigung über neue Folge",
+    "u": 1631535669345
   },
   "_description_mm_feature_5": {
-    "message": "markieren Sie die TV-Serie als Favorit und Sie erhalten Benachrichtigung, wenn neue Episode verfügbar ist"
+    "message": "markieren Sie die TV-Serie als Favorit und Sie erhalten Benachrichtigungen, wenn neue Folgen verfügbar sind",
+    "u": 1631535655860
   },
   "_description_mm_feature_7": {
-    "message": "automatisch ausblenden, wenn die Videogrepose erkannt wurde"
+    "message": "automatisch ausblenden, wenn die Videowiedergabe erkannt wird",
+    "u": 1631535606385
   },
   "app_name": {
     "message": "Movie Meter"
   },
   "app_desc": {
-    "message": "$app_name$ zeigt Ihnen die Bewertung und Beliebtheit eines Films (oder TV-Serie)"
+    "message": "$app_name$ zeigt Ihnen die Bewertung und Beliebtheit eines Films (oder TV-Serie) an",
+    "u": 1631535585929
   },
   "name": {
     "message": "Name"
@@ -42,13 +51,15 @@
     "message": "Jahr"
   },
   "video_type": {
-    "message": "Art"
+    "message": "Typ",
+    "u": 1631535569862
   },
   "video_type_0": {
     "message": "Film"
   },
   "video_type_1": {
-    "message": "Serie"
+    "message": "Serien",
+    "u": 1631535556703
   },
   "video_type_2": {
     "message": "Folge"
@@ -63,7 +74,8 @@
     "message": "Premiere in."
   },
   "premiere_days_ago": {
-    "message": "Premiered $1 days ago."
+    "message": "Vor $1 Tag uraufgeführt.",
+    "u": 1631535547097
   },
   "country": {
     "message": "Land"
@@ -78,10 +90,12 @@
     "message": "Direktorin"
   },
   "totalseasons": {
-    "message": "Total Jahreszeiten."
+    "message": "Alle Jahreszeiten.",
+    "u": 1631535487082
   },
   "writer": {
-    "message": "Schriftstellerin"
+    "message": "Autor",
+    "u": 1631535345499
   },
   "language": {
     "message": "Sprache"
@@ -108,16 +122,19 @@
     "message": "Besuchen Sie $visit_imdb$ Seite"
   },
   "visit_tvmaze": {
-    "message": "TV Maze"
+    "message": "TV-Gewirr",
+    "u": 1631535293757
   },
   "visit_tvmaze_title": {
     "message": "Besuchen Sie $visit_tvmaze$ Seite für diese Show"
   },
   "make_favorite": {
-    "message": "Favoritin"
+    "message": "Favoriten",
+    "u": 1631535259287
   },
   "make_favorite_title": {
-    "message": "Fügen Sie TV-Serie zu Favoriten hinzu. Auf diese Weise können Sie eine Benachrichtigung über neue Episoden erhalten."
+    "message": "TV-Serien zu Favoriten hinzufügen. Auf diese Weise können Sie Benachrichtigungen über neue Episoden erhalten.",
+    "u": 1631535248897
   },
   "last_episode": {
     "message": "Letzte"
@@ -126,7 +143,8 @@
     "message": "Nächster"
   },
   "last_episode_title": {
-    "message": "Letzte Episode"
+    "message": "Letzte Folge",
+    "u": 1631535138861
   },
   "next_episode_title": {
     "message": "Nächste Folge"
@@ -141,10 +159,12 @@
     "message": "Status"
   },
   "episodes_count": {
-    "message": "Episoden"
+    "message": "Folgen",
+    "u": 1631535079097
   },
   "episodes_count_title": {
-    "message": "Aktuelle Saison $1 HAT $2 Episoden"
+    "message": "Die aktuelle Staffel $1 hat $2 Folgen",
+    "u": 1631535054362
   },
   "days_short": {
     "message": "d"
@@ -153,16 +173,19 @@
     "message": "h"
   },
   "days": {
-    "message": "tage"
+    "message": "Tage",
+    "u": 1631534979842
   },
   "hours": {
-    "message": "std"
+    "message": "Std.",
+    "u": 1631535000566
   },
   "na": {
     "message": "Nicht verfügbar"
   },
   "user_rating": {
-    "message": "Benutzerwertung: $1"
+    "message": "Benutzerbewertung: $1",
+    "u": 1631534964975
   },
   "user_popularity": {
     "message": "Popularität: $1 Stimmen"
@@ -177,13 +200,15 @@
     "message": "weniger..."
   },
   "save_position": {
-    "message": "Sichere Lage"
+    "message": "Position speichern",
+    "u": 1631534937241
   },
   "revert_position": {
     "message": "Position zurücklehnen"
   },
   "win_disable": {
-    "message": "Deaktivieren auf $1"
+    "message": "In $1 deaktivieren",
+    "u": 1631534906670
   },
   "cm_advanced": {
     "message": "Fortgeschritten"
@@ -198,7 +223,8 @@
     "message": "Fenster ausblenden"
   },
   "show": {
-    "message": "Schaufenster"
+    "message": "Fenster anzeigen",
+    "u": 1631534876451
   },
   "reset_position": {
     "message": "Position zurücksetzen."
@@ -210,10 +236,12 @@
     "message": "Suchoptionen konfigurieren."
   },
   "selection_search": {
-    "message": "Suche $1."
+    "message": "$1 suchen",
+    "u": 1631534841821
   },
   "menu_options": {
-    "message": "Einstellungen"
+    "message": "Optionen",
+    "u": 1631534810158
   },
   "menu_quick_options": {
     "message": "Schnelloptionen"
@@ -243,7 +271,8 @@
     "message": "Film nicht erkannt"
   },
   "movie_not_detected_title": {
-    "message": "Auf dieser Seite wurde keine Movie / TV-Serie erkannt."
+    "message": "Auf dieser Seite wurde kein Movie/TV-Serie erkannt.",
+    "u": 1631534792835
   },
   "movie_not_found": {
     "message": "Film nicht gefunden"
@@ -258,7 +287,8 @@
     "message": "Endete"
   },
   "status_type_2": {
-    "message": "To Be Determined"
+    "message": "Bestimmt werden",
+    "u": 1631534762055
   },
   "status_type_title_0": {
     "message": "Show wird fortgesetzt"
@@ -267,13 +297,15 @@
     "message": "Show ist beendet - es gibt keine Jahreszeiten mehr geplant"
   },
   "status_type_title_2": {
-    "message": "Zeigt die Zukunft ist unklar"
+    "message": "Zeigt, dass die Zukunft unklar ist",
+    "u": 1631534698270
   },
   "notify_movie_not_found": {
     "message": "Film nicht gefunden: $1"
   },
   "notify_movie_not_found_body": {
-    "message": "Verwenden Sie den englischen Filmnamen nur!"
+    "message": "Verwenden Sie nur den englischen Filmnamen!",
+    "u": 1631534637954
   },
   "notify_movie_not_found_body2": {
     "message": "Suche ist nicht perfekt ..."

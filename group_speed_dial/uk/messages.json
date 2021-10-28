@@ -2157,8 +2157,9 @@
     "common": true
   },
   "label_copy": {
-    "message": "",
-    "common": true
+    "message": "Копіювати",
+    "common": true,
+    "u": 1631279710331
   },
   "label_copied": {
     "message": "Скопійовано!",
