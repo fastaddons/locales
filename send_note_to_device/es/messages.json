@@ -1,1 +1,182 @@
-{}
+{
+  "o_about_intro": {
+    "message": "Me llamo $1$ y soy el creador de $app_name$.",
+    "u": 1636126422582
+  },
+  "o_about_like_it": {
+    "message": "Si te gusta, por favor valóralo aquí:",
+    "u": 1636126428286
+  },
+  "o_about_dislike_it": {
+    "message": "Si no te gusta, por favor hazme saber el porqué a mi correo. Estoy implementando la mayoría de peticiones que recibo.",
+    "u": 1636126437523
+  },
+  "o_about_support_by": {
+    "message": "Por favor, considera apoyar mi trabajo a través de:",
+    "u": 1636126443546
+  },
+  "o_about_support_by_donation": {
+    "message": "una donación (PayPal)",
+    "u": 1636126444611
+  },
+  "o_about_support_by_patron": {
+    "message": "contratarme (Patreon)",
+    "u": 1636126454784
+  },
+  "o_about_support_by_update": {
+    "message": "actualizar a la versión profesional",
+    "u": 1636126457707
+  },
+  "o_about_thanks": {
+    "message": "¡Muchas gracias!",
+    "u": 1636126461562
+  },
+  "o_about_home": {
+    "message": "Página oficial:",
+    "u": 1636126462562
+  },
+  "o_about_contact": {
+    "message": "Contacto:",
+    "u": 1636126471229
+  },
+  "o_about_support_reply": {
+    "message": "Sólo puedo responder en Inglés y Eslovaco",
+    "u": 1636126473811
+  },
+  "o_about_social_media": {
+    "message": "Redes sociales:",
+    "u": 1636126479028
+  },
+  "op_support_me": {
+    "message": "Apoya este proyecto",
+    "u": 1636126480913
+  },
+  "op_help": {
+    "message": "Ayuda",
+    "u": 1636126484242
+  },
+  "o_save_close": {
+    "message": "Salvar cambios y cerrar",
+    "u": 1636126487251
+  },
+  "o_saved": {
+    "message": "¡Salvado!",
+    "u": 1636126488648
+  },
+  "import_error": {
+    "message": "Error",
+    "u": 1636126491521
+  },
+  "search_search": {
+    "message": "Buscar",
+    "u": 1636126501650
+  },
+  "label_font_size": {
+    "message": "Tamaño de fuente",
+    "u": 1636126502642
+  },
+  "label_next": {
+    "message": "Siguiente",
+    "u": 1636126504857
+  },
+  "label_note": {
+    "message": "Nota:",
+    "u": 1636126505754
+  },
+  "label_warning": {
+    "message": "ATENCIÓN:",
+    "u": 1636126508882
+  },
+  "label_default": {
+    "message": "Por defecto:",
+    "u": 1636126510383
+  },
+  "label_done": {
+    "message": "¡Hecho!",
+    "u": 1636126514046
+  },
+  "label_copied": {
+    "message": "¡Copiado!",
+    "u": 1636126515002
+  },
+  "label_close": {
+    "message": "Cerrar",
+    "u": 1636126516008
+  },
+  "label_open_page": {
+    "message": "Abrir página",
+    "u": 1636126517688
+  },
+  "label_agree": {
+    "message": "Acepto",
+    "u": 1636126518479
+  },
+  "label_cancel": {
+    "message": "Cancelar",
+    "u": 1636126523530
+  },
+  "o_seconds": {
+    "message": "segundos",
+    "u": 1636126524514
+  },
+  "o_pixels": {
+    "message": "píxeles",
+    "u": 1636126526809
+  },
+  "o_about_issues": {
+    "message": "Informa de un problema:",
+    "u": 1636126537488
+  },
+  "ps_no_results": {
+    "message": "No hay resultados coincidentes",
+    "u": 1636126539161
+  },
+  "label_no_data": {
+    "message": "Sin datos",
+    "u": 1636126540305
+  },
+  "dark_mode": {
+    "message": "Modo oscuro",
+    "u": 1636126541784
+  },
+  "dark_mode_system": {
+    "message": "Controlado por el sistema",
+    "u": 1636126551440
+  },
+  "import_finished": {
+    "message": "¡Restauración finalizada!",
+    "u": 1636126554504
+  },
+  "o_tab_general": {
+    "message": "General",
+    "u": 1636126556519
+  },
+  "o_title": {
+    "message": "Opciones - $1",
+    "u": 1636126561052
+  },
+  "op_visit_home": {
+    "message": "Visitar página principal",
+    "u": 1636126566414
+  },
+  "menu_visit_title": {
+    "message": "Visitar página principal",
+    "u": 1636126569292
+  },
+  "menu_quick_options": {
+    "message": "Opciones rápidas:",
+    "u": 1636126570503
+  },
+  "menu_options": {
+    "message": "Opciones",
+    "u": 1636126574940
+  },
+  "firefox_store": {
+    "message": "Página de complementos de Firefox",
+    "u": 1636126579110
+  },
+  "chrome_store": {
+    "message": "Página Chrome Web Store",
+    "u": 1636126582985
+  }
+}
