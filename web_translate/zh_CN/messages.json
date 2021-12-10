@@ -1,66 +1,87 @@
 {
   "_description_feature_1": {
-    "message": "翻译所选文本（从上下文菜单中）"
+    "message": "翻译所选文本（通过上下文菜单）",
+    "u": 1638011005723
   },
   "_description_feature_2": {
-    "message": "全页翻译"
+    "message": "整页翻译",
+    "u": 1638011159878
   },
   "_description_feature_3": {
-    "message": "黑暗模式！"
+    "message": "深色模式！",
+    "u": 1638010323257
   },
   "_description_tags_wt": {
-    "message": "百度，冰，黑暗，电子邮件，谷歌，郎，语言，微软，页面，前克拉德，前克拉德奇，S3，选择，文本，Traducteur，翻译，翻译，Übersetzer，翻译"
+    "message": "百度, 必应, 深色, 电子邮件, google, lang, language, microsoft, page, preklad, prekladač, s3, selection, text, traducteur, translate, translator, übersetzer, 翻译",
+    "u": 1638014428822
   },
   "app_name": {
-    "message": "Web Translate"
+    "message": "Web Translate",
+    "u": 1638012475997
   },
   "app_desc": {
-    "message": "$app_name$很容易使用Web浏览器/ Thunderbird的翻译！"
+    "message": "$app_name$ 是一款简单易用的翻译工具，适用于您的网页浏览器/Thunderbird！",
+    "u": 1638012079947
   },
   "o_tab_translate": {
-    "message": "翻译"
+    "message": "翻译",
+    "u": 1638012108689
   },
   "_description_supported_translators": {
-    "message": "支持的翻译提供商："
+    "message": "支持的翻译服务提供商：",
+    "u": 1638012241855
   },
   "translator_GOOGLE": {
-    "message": "Google Translate"
+    "message": "谷歌翻译",
+    "u": 1638012345516
   },
   "translator_GOOGLE_CN": {
-    "message": "Google 翻译"
+    "message": "谷歌翻译",
+    "u": 1638012352976
   },
   "translator_BING": {
-    "message": "Microsoft Translator"
+    "message": "微软翻译",
+    "u": 1638012329627
   },
   "translator_DEEPL": {
-    "message": "DeepL Translator"
+    "message": "DeepL 翻译",
+    "u": 1638012426345
   },
   "translator_YANDEX": {
-    "message": "Yandex Translate"
+    "message": "Yandex 翻译",
+    "u": 1638012423258
   },
   "translator_YANDEX_RU": {
-    "message": "Яндекс Переводчик"
+    "message": "Яндекс Переводчик",
+    "u": 1638012484383
   },
   "translator_BAIDU": {
-    "message": "百度翻译 (Baidu Translator)"
+    "message": "百度翻译 (Baidu Translator)",
+    "u": 1638012464822
   },
   "open_in_0": {
-    "message": "模态窗"
+    "message": "模态窗口",
+    "u": 1638012947938
   },
   "open_in_1": {
-    "message": "弹出窗口"
+    "message": "弹窗",
+    "u": 1638012710988
   },
   "open_in_2": {
-    "message": "新标签"
+    "message": "新标签页",
+    "u": 1638012728807
   },
   "open_in_3": {
-    "message": "新窗户"
+    "message": "新窗口",
+    "u": 1638012735005
   },
   "open_in_4": {
-    "message": "新标签（没有容器）"
+    "message": "新标签页（翻译服务网页版）",
+    "u": 1638014503177
   },
   "modal_window": {
-    "message": "模态窗"
+    "message": "模态窗口",
+    "u": 1638012998466
   },
   "toolbar_icon_action": {
     "message": "工具栏图标动作"
@@ -69,25 +90,31 @@
     "message": "工具栏图标文本"
   },
   "sidebar_size": {
-    "message": "边栏尺寸"
+    "message": "侧边栏尺寸",
+    "u": 1638014595653
   },
   "translation_provider": {
-    "message": "翻译提供者"
+    "message": "翻译提供商",
+    "u": 1638014632898
   },
   "translate_to": {
-    "message": "翻译成："
+    "message": "目标语言：",
+    "u": 1638014661576
   },
   "no_overlay": {
     "message": "无覆盖层（周围的黑暗区域）"
   },
   "no_overlay_hint": {
-    "message": "即使您在外部单击，模态窗口也将保持打开状态。"
+    "message": "即使您点击模态窗口外部，其也将保持打开状态。",
+    "u": 1638014999366
   },
   "open_translator_in": {
-    "message": ""
+    "message": "翻译器打开方式：",
+    "u": 1638010740364
   },
   "open_translation_in": {
-    "message": "在以下位置打开翻译："
+    "message": "翻译器打开方式：",
+    "u": 1638015088787
   },
   "fallback_1": {
     "message": "后备方法"
@@ -96,7 +123,8 @@
     "message": "后备方法"
   },
   "fallback_title": {
-    "message": "在某些情况下，无法使用模式窗口和弹出窗口。"
+    "message": "在某些情况下，无法使用模态窗口和弹出窗口。",
+    "u": 1638015339886
   },
   "open_in_tab": {
     "message": "在新标签页中打开"
@@ -132,19 +160,23 @@
     "message": "主页"
   },
   "addon_page": {
-    "message": "附加页面"
+    "message": "插件页面",
+    "u": 1638015449432
   },
   "safari_store": {
     "message": "Mac App Store"
   },
   "chrome_store": {
-    "message": "Chrome 网上应用店页面"
+    "message": "Chrome 网上应用商店",
+    "u": 1638015490807
   },
   "firefox_store": {
-    "message": "Firefox 附加组件页面"
+    "message": "Firefox 附加组件",
+    "u": 1638015550542
   },
   "thunderbird_store": {
-    "message": "Thunderbird附加组件"
+    "message": "Thunderbird 附加组件",
+    "u": 1638015548402
   },
   "label_font_size": {
     "message": "字体大小"
@@ -189,16 +221,20 @@
     "message": "支持独立开发者！"
   },
   "hello_there": {
-    "message": "你好！"
+    "message": "你好呀！",
+    "u": 1638015641502
   },
   "about_me": {
-    "message": "自2016年以来，我一直是插件开发人员，我的目标是为您的Web浏览器构建强大的扩展，以使您的工作效率更高。"
+    "message": "自 2016 年以来，我一直是一名独立插件开发人员。我的目标是为您的网络浏览器构建一套强大的扩展程序，以提高您的工作效率。",
+    "u": 1638016080023
   },
   "about_good_job": {
-    "message": "如果您认为我做得很好，请捐款:)"
+    "message": "如果您认为我做得很好，请予以捐赠 :)",
+    "u": 1638016267183
   },
   "about_income": {
-    "message": "您的捐款是我唯一的收入！"
+    "message": "您的捐款是我唯一的收入来源！",
+    "u": 1638016310302
   },
   "about_thanks": {
     "message": "感谢您支持我的工作！"
@@ -210,31 +246,37 @@
     "message": "关于"
   },
   "o_tab_settings": {
-    "message": "设定值"
+    "message": "设置",
+    "u": 1638016329798
   },
   "o_pixels": {
-    "message": "px"
+    "message": "像素",
+    "u": 1638016347501
   },
   "o_seconds": {
     "message": "秒"
   },
   "label_or": {
-    "message": "要么"
+    "message": "或者",
+    "u": 1638016372933
   },
   "o_about_hello": {
     "message": "您好 :)"
   },
   "o_about_intro": {
-    "message": "我的名字是$1$，我是$app_name$的作者。"
+    "message": "我的名字叫 $1$，我是 $app_name$ 的作者。",
+    "u": 1638016465704
   },
   "o_about_like_it": {
-    "message": "若您喜欢它，请在此评分："
+    "message": "如果您喜欢它，请在此评分：",
+    "u": 1638016516977
   },
   "o_about_thanks": {
     "message": "谢谢！"
   },
   "o_about_contact": {
-    "message": "联系："
+    "message": "联系方式：",
+    "u": 1638016558809
   },
   "o_about_issues": {
     "message": "报告问题："
@@ -243,7 +285,8 @@
     "message": "社交媒体："
   },
   "o_about_support_by_iban": {
-    "message": "使用IBAN转帐："
+    "message": "使用 IBAN 进行银行转账：",
+    "u": 1638016667214
   },
   "ps_no_results": {
     "message": "无匹配结果"
@@ -252,10 +295,12 @@
     "message": "无数据"
   },
   "dark_mode": {
-    "message": "暗模式"
+    "message": "深色模式",
+    "u": 1638016700027
   },
   "dark_mode_system": {
-    "message": "由系统控制"
+    "message": "跟随系统",
+    "u": 1638016714117
   },
   "_description_features": {
     "message": "特征："
@@ -273,9 +318,11 @@
     "message": "标签："
   },
   "_description_also_for_firefox": {
-    "message": "也可以为您的Firefox提供："
+    "message": "也支持 Firefox：",
+    "u": 1638017461885
   },
   "_description_also_for_thunderbird": {
-    "message": "也可以为您的雷鸟提供："
+    "message": "也支持 Thunderbird：",
+    "u": 1638017473490
   }
 }

@@ -513,7 +513,7 @@
     "message": "Remove empty dials"
   },
   "resize_dial": {
-    "message": "Resize"
+    "message": "Split dial"
   },
   "resize_dial_normal": {
     "message": "Normal"
@@ -2543,6 +2543,39 @@
   },
   "dark_mode_system": {
     "message": "Controlled by system",
+    "common": true
+  },
+  "file_load_drop_help": {
+    "message": "You can drag and drop image file directly on the dial."
+  },
+  "resize_dial_v_third": {
+    "message": "Vertical thirds"
+  },
+  "resize_dial_h_third": {
+    "message": "Horizontal thirds"
+  },
+  "resize_dial_v_fourth": {
+    "message": "Vertical quarters"
+  },
+  "resize_dial_h_fourth": {
+    "message": "Horizontal quarters"
+  },
+  "label_tip": {
+    "message": "Tip:"
+  },
+  "o_on_hover_show_url": {
+    "message": "On hover show dial URL"
+  },
+  "label_layout": {
+    "message": "Layout",
+    "common": true
+  },
+  "label_style": {
+    "message": "Style",
+    "common": true
+  },
+  "label_actions": {
+    "message": "Actions",
     "common": true
   }
 }

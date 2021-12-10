@@ -1,72 +1,93 @@
 {
   "_description_ah_why_1": {
-    "message": "有时页面刚刚设计得很好，您正在寻找的信息不够可见。"
+    "message": "有时网页设计得并不是很好，导致您要查找的信息显得不够明显。",
+    "u": 1638100726636
   },
   "_description_ah_use_cases_0": {
     "message": "常见用例："
   },
   "_description_ah_use_cases_1": {
-    "message": "突出显示元数据，如："
+    "message": "高亮显示元数据诸如：",
+    "u": 1638100800747
   },
   "_description_ah_use_cases_2": {
-    "message": "突出显示“免费送货”:)"
+    "message": "高亮显示“免邮” :)",
+    "u": 1638100855730
   },
   "_description_ah_use_cases_3": {
-    "message": "你在寻找网上特定的东西吗？ 使用“时间突出显示”来帮助您在所有页面上找到它。 关闭浏览器时，会自动删除时间亮点。"
+    "message": "您是否在网络上搜索某些特定内容？请使用“临时高亮显示”来帮助您在所有页面上进行查找。关闭浏览器时，临时高亮显示会自动删除。",
+    "u": 1638101789704
   },
   "_description_ah_use_cases_4": {
-    "message": "您甚至可以通过将字体大小设置为零或使它们透明隐藏单词。"
+    "message": "您甚至可以通过将字体大小设置为零或透明来隐藏某些词",
+    "u": 1638266823838
   },
   "_description_tags_ah": {
-    "message": "突出显示，标记，元数据，电影，自动，文本，同步，选择，搜索"
+    "message": "高亮显示、标记、元数据、电影、自动化、文本、云同步、选择、搜索",
+    "u": 1638102186852
   },
   "app_name": {
-    "message": "Auto Highlight"
+    "message": "Auto Highlight",
+    "u": 1638102288117
   },
   "app_desc": {
-    "message": "$app_name$将自动突出显示定义页面上的定义单词。"
+    "message": "$app_name$ 将自动突出显示指定页面上的指定字词",
+    "u": 1638266812224
   },
   "match_type": {
-    "message": "比赛类型："
+    "message": "匹配对象：",
+    "u": 1638102379055
   },
   "match_type_0": {
-    "message": "域名是"
+    "message": "域名为",
+    "u": 1638102497494
   },
   "match_type_1": {
-    "message": "URL是"
+    "message": "链接为",
+    "u": 1638102465455
   },
   "match_type_2": {
-    "message": "URL包含"
+    "message": "链接包含...",
+    "u": 1638102509230
   },
   "match_type_3": {
-    "message": ""
+    "message": "匹配正则表达式的链接",
+    "u": 1638100347233
   },
   "match_type_4": {
-    "message": "每页"
+    "message": "每个页面",
+    "u": 1638102521910
   },
   "selection_highlight": {
-    "message": "突出显示$1."
+    "message": "高亮显示“$1”",
+    "u": 1638266768396
   },
   "selection_temp": {
-    "message": "暂时突出显示$1."
+    "message": "临时高亮显示“$1”",
+    "u": 1638266763125
   },
   "selection_temp_everywhere": {
-    "message": "临时突出显示到处$1"
+    "message": "临时高亮显示每一处“$1”",
+    "u": 1638266759398
   },
   "page_highlight": {
-    "message": "此页面上的$app_name$"
+    "message": "此页面上的 $app_name$",
+    "u": 1638102699260
   },
   "toolbar_click_new_tab": {
-    "message": "始终在新标签中打开 - 单击工具栏图标时"
+    "message": "始终在新标签页中打开 - 单击工具栏图标时",
+    "u": 1638102725055
   },
   "disable_rule": {
     "message": "禁用"
   },
   "temporal_rule": {
-    "message": "颞"
+    "message": "临时",
+    "u": 1638102780230
   },
   "each_word": {
-    "message": "每个字"
+    "message": "每个词",
+    "u": 1638267692017
   },
   "rules": {
     "message": "规则"
@@ -75,37 +96,46 @@
     "message": "删除"
   },
   "rename": {
-    "message": "改名"
+    "message": "重命名",
+    "u": 1638100435108
   },
   "duplicate": {
-    "message": "复制"
+    "message": "重复",
+    "u": 1638100419945
   },
   "delete_rule": {
     "message": "删除规则"
   },
   "delete_rule_title": {
-    "message": "删除规则“$1”？"
+    "message": "要删除规则“$1”吗？",
+    "u": 1638100456480
   },
   "on_pages": {
     "message": "在页面上："
   },
   "disabled_rule": {
-    "message": "禁用规则"
+    "message": "已禁用规则",
+    "u": 1638267035776
   },
   "incomplete_rule": {
-    "message": "规则不完整"
+    "message": "未完成规则",
+    "u": 1638267104105
   },
   "active_on_current_page": {
-    "message": "在当前页面上活动"
+    "message": "激活于当前页面",
+    "u": 1638103203205
   },
   "temporal_rule_helper": {
-    "message": "重新启动浏览器后将删除时间规则"
+    "message": "临时规则 - 将在浏览器重新启动后删除",
+    "u": 1638103252212
   },
   "active_on_pages": {
-    "message": "主动页面："
+    "message": "激活于页面：",
+    "u": 1638103320325
   },
   "highlight_each_word_separately": {
-    "message": "分开突出显示每个单词"
+    "message": "分别高亮显示每个词",
+    "u": 1638267699073
   },
   "case_sensitive": {
     "message": "区分大小写"
@@ -120,70 +150,87 @@
     "message": "正则表达式"
   },
   "across_elements": {
-    "message": "横跨元素"
+    "message": "跨元素",
+    "u": 1638103925039
   },
   "across_elements_help": {
-    "message": "在邻居HTML元素中搜索文本"
+    "message": "在邻居 HTML 元素中搜索文本",
+    "u": 1638103922423
   },
   "style": {
     "message": "风格"
   },
   "preview": {
-    "message": "预习："
+    "message": "预览：",
+    "u": 1638103783995
   },
   "empty_rule": {
-    "message": "空的规则"
+    "message": "空规则",
+    "u": 1638103954758
   },
   "create_new_rule": {
     "message": "创建新规则"
   },
   "import_export": {
-    "message": "进出口"
+    "message": "导入/导出",
+    "u": 1638103965893
   },
   "help_this_project": {
-    "message": "帮助这个项目"
+    "message": "助力此项目",
+    "u": 1638104037461
   },
   "about_faq": {
-    "message": ""
+    "message": "关于/FAQ",
+    "u": 1638100278365
   },
   "faq": {
-    "message": "常问问题："
+    "message": "常见问题解答：",
+    "u": 1638103985953
   },
   "storage_info": {
     "message": "存储信息："
   },
   "storage_safari_1": {
-    "message": "Safari目前不支持自动数据同步。"
+    "message": "Safari 目前不支持自动数据同步",
+    "u": 1638200915553
   },
   "storage_safari_2": {
-    "message": "要传输（或备份）突出显示规则，请使用“导入/导出”功能。"
+    "message": "要转移（或备份）高亮显示规则，请使用“导入/导出”功能",
+    "u": 1638200993078
   },
   "storage_info_1": {
-    "message": "您的规则使用安全的$1同步存储，它将在所有设备之间同步您的规则（如果您登录到同一帐户）。"
+    "message": "您的规则使用安全的 $1 同步来存储，能在您的所有设备之间进行同步（前提是使用同一账户登录）",
+    "u": 1638201988761
   },
   "storage_info_2": {
-    "message": "此云存储可以存储100 kB的数据和最多500个突出显示规则。"
+    "message": "此云存储可以存储 100 KB 的数据和最多 500 个高亮显示规则",
+    "u": 1638201373603
   },
   "storage_info_3": {
     "message": "您还可以使用“导入/导出”功能将（备份）规则导出到文件，然后将其导入其他设备。"
   },
   "replace_existing_highlight_rules": {
-    "message": "替换现有突出显示规则"
+    "message": "替换现有高亮显示规则",
+    "u": 1638266877444
   },
   "add_page_to_highlight_on": {
-    "message": "添加页面突出显示"
+    "message": "添加高亮显示的页面",
+    "u": 1638266891607
   },
   "remove_highlight_from_page": {
-    "message": "从页面中删除突出显示"
+    "message": "从页面中移除高亮显示",
+    "u": 1638267121349
   },
   "bold": {
-    "message": ""
+    "message": "加粗",
+    "u": 1638100263286
   },
   "italic": {
     "message": "斜体"
   },
   "underline": {
-    "message": "强调"
+    "message": "下划线",
+    "u": 1638267139563
   },
   "background_color": {
     "message": "背景颜色"
@@ -192,7 +239,8 @@
     "message": "背景"
   },
   "text_color": {
-    "message": "文字颜色"
+    "message": "文本颜色",
+    "u": 1638267163991
   },
   "color": {
     "message": "颜色"
@@ -201,80 +249,104 @@
     "message": "字体大小"
   },
   "rule_name": {
-    "message": "规则名称"
+    "message": "规则名称",
+    "u": 1638267173973
   },
   "highlight_regular_expression": {
-    "message": "突出显示正则表达式："
+    "message": "高亮显示正则表达式：",
+    "u": 1638267183249
   },
   "highlight_text": {
-    "message": "突出显示文字："
+    "message": "高亮显示文本：",
+    "u": 1638267196006
   },
   "highlight_on_pages": {
-    "message": "突出显示页面"
+    "message": "高亮显示页面",
+    "u": 1638267202479
   },
   "empty_name_helper": {
-    "message": "留空以使用“突出显示的文本”作为名称"
+    "message": "留空则以“高亮文本”作为名称",
+    "u": 1638267287726
   },
   "faq_1": {
-    "message": "如何快速突出显示当前页面上的单词？"
+    "message": "如何快速高亮显示当前页面上的单词？",
+    "u": 1638267302158
   },
   "faq_1a": {
-    "message": "使用上下文菜单 - 选择文本/右键单击/“自动突出显示”。 如果右键单击页面（无需选择文本），则可以将现有规则应用于当前页面。"
+    "message": "使用上下文菜单 - 选择文本/单击右键/\"Auto Highlight\"。如果直接右键页面（未选择文本），则可以将现有配置规则应用于当前页面。",
+    "u": 1638267478481
   },
   "faq_2": {
-    "message": "我想突出多个单词，我需要单独为每个单词创建新规则吗？"
+    "message": "我想要高亮显示多个词，我需要单独为每个词都分别创建新的规则吗？",
+    "u": 1638267583155
   },
   "faq_2a": {
-    "message": "不，只需检查“每个单词”复选框。 然后每个单词都将单独突出显示。"
+    "message": "当然不必，您只需要勾选“每个词”复选框即可。",
+    "u": 1638267721347
   },
   "faq_3": {
-    "message": "什么是“RegExp”？"
+    "message": "什么是“RegExp”？",
+    "u": 1638267740329
   },
   "faq_3a": {
-    "message": "也称为正则表达式，它是定义搜索模式的一系列字符。 这是一个复杂的构造，允许复杂突出显示具有一些类似模式的元素。 例如，价格，日期，电话号码等......"
+    "message": "也称为正则表达式，它是定义搜索模式的一系列字符。结构复杂并能实现高难度高亮显示一些具有相似模式的元素。例如价格、日期、电话号码等......",
+    "u": 1638269784826
   },
   "faq_4": {
-    "message": "你能告诉我一些RegExp的例子吗？"
+    "message": "能展示一些 RegExp 的例子吗？",
+    "u": 1638269955524
   },
   "faq_4a": {
-    "message": "突出显示像$1这样的所有价格"
+    "message": "高亮显示所有诸如 $1 的价格",
+    "u": 1638269920381
   },
   "faq_5": {
-    "message": "你能解释一下吗？"
+    "message": "能解释一下上面的例子吗？",
+    "u": 1638269968901
   },
   "faq_5a": {
-    "message": "“$1$”突出显示美元符号。 在这里需要反斜杠，因为美元在RegExp中具有特殊含义。"
+    "message": "\"$1$\" 用来高亮显示美元符号。这里必须要有反斜杠，因为 $ 在正则表达式中具有特殊含义。",
+    "u": 1638270330835
   },
   "faq_5b": {
-    "message": "“$1$”突出显示单位数"
+    "message": "\"$1$\" 用来高亮显示单个数字",
+    "u": 1638270398978
   },
   "faq_5c": {
-    "message": "“$1$”表示重复一次或多次。 在数字选择器$2$之后放置时，它表示一个或多个数字。"
+    "message": "\"$1$\" 表示重复一次或多次。当放在数字选择器 $2$ 之后时，它表示一个或多个数字。",
+    "u": 1638270850271
   },
   "faq_5d": {
-    "message": "“$1$”突出显示点。 再次需要反斜杠，因为单独的点符号表示RegExp中的任何单个字符。"
+    "message": "\"$1$\" 高亮显示小数点（英文句点）。同样反斜杠也是必须的，因为如果是单独的句点符号，其在正则表达式中是表示单个任何字符。",
+    "u": 1638270854375
   },
   "faq_5e": {
-    "message": "“$1$”表示零或一次。 当放置在括号$2$之后，它意味着在这些括号内部的内容是可选的（可以在那里）。 我们将它用于数字的十进制部分是可选的。"
+    "message": "\"$1$\" 表示零或一次。当放置在括号 $2$ 之后，它表示在这些括号内部的内容是可选的（可有可无）。我们将它用于数字的小数部分即可选的。",
+    "u": 1638271062588
   },
   "faq_5f": {
-    "message": "关于RegExp规则的更多信息"
+    "message": "更多关于 RegExp 规则的信息",
+    "u": 1638271120663
   },
   "import_finished": {
-    "message": "导入已完成！",
-    "common": true
+    "message": "导入完成！",
+    "common": true,
+    "u": 1638271130272
   },
   "import_error": {
-    "message": "出错",
-    "common": true
+    "message": "错误",
+    "common": true,
+    "u": 1638267331438
   },
   "import_backup_file": {
-    "message": "导入备份文件$1",
-    "common": true
+    "message": "导入备份文件“$1”",
+    "common": true,
+    "u": 1638271153786
   },
   "homepage": {
     "message": "主页",
-    "common": true
+    "common": true,
+    "u": 1638271170481
   },
   "addon_page": {
     "message": "插入页面",
@@ -369,12 +441,14 @@
     "common": true
   },
   "label_required": {
-    "message": "必需的",
-    "common": true
+    "message": "必需",
+    "common": true,
+    "u": 1638357584240
   },
   "label_sending": {
-    "message": "发送......",
-    "common": true
+    "message": "发送中......",
+    "common": true,
+    "u": 1638357596405
   },
   "label_scale": {
     "message": "尺寸：",
@@ -405,8 +479,9 @@
     "common": true
   },
   "op_visit_home": {
-    "message": "访问首页",
-    "common": true
+    "message": "访问主页",
+    "common": true,
+    "u": 1638357715910
   },
   "op_support_me": {
     "message": "助力此项目",
@@ -421,8 +496,9 @@
     "common": true
   },
   "about_me": {
-    "message": "自2016年以来我是Addon开发人员。我的目标是为您的网络浏览器构建强大的扩展，以使您更富有成效。",
-    "common": true
+    "message": "自 2016 年以来，我一直是一名独立插件开发人员。我的目标是为您的网络浏览器构建一套强大的扩展程序，以提高您的工作效率。",
+    "common": true,
+    "u": 1638357806388
   },
   "about_good_job": {
     "message": "如果你认为我做得很好，请捐赠:)",
@@ -454,7 +530,8 @@
   },
   "save_settings": {
     "message": "保存设置",
-    "common": true
+    "common": true,
+    "u": 1638357823796
   },
   "safari_download_in_tab": {
     "message": "要将数据导出到文件，请在新选项卡中重新打开此窗口。",
@@ -513,8 +590,9 @@
     "common": true
   },
   "o_pixels": {
-    "message": "px",
-    "common": true
+    "message": "像素",
+    "common": true,
+    "u": 1638357953995
   },
   "o_seconds": {
     "message": "秒",
@@ -525,8 +603,9 @@
     "common": true
   },
   "disable_context_menu": {
-    "message": "禁用上下文菜单：$1",
-    "common": true
+    "message": "禁用右键菜单：$1",
+    "common": true,
+    "u": 1638358050269
   },
   "o_backup_restore": {
     "message": "备份/还原设置到文件：",
@@ -537,12 +616,14 @@
     "common": true
   },
   "title_import": {
-    "message": "进口",
-    "common": true
+    "message": "导入",
+    "common": true,
+    "u": 1638358085868
   },
   "title_export": {
-    "message": "出口",
-    "common": true
+    "message": "导出",
+    "common": true,
+    "u": 1638358089952
   },
   "btn_export_backup": {
     "message": "导出备份",
@@ -561,8 +642,9 @@
     "common": true
   },
   "o_about_like_it": {
-    "message": "若您喜欢它，请在此评分：",
-    "common": true
+    "message": "如果您喜欢它，请在此评分：",
+    "common": true,
+    "u": 1638441452437
   },
   "o_about_dislike_it": {
     "message": "如果您不喜欢它，请发邮件让我知道原因。我会实现更多我收到的功能请求。",
@@ -573,8 +655,9 @@
     "common": true
   },
   "o_about_support_by_iban": {
-    "message": "使用IBAN转帐：",
-    "common": true
+    "message": "使用 IBAN 进行银行转账：",
+    "common": true,
+    "u": 1638441504600
   },
   "o_about_support_by_donation": {
     "message": "捐款 (PayPal)",
@@ -593,8 +676,9 @@
     "common": true
   },
   "o_about_contact": {
-    "message": "联系：",
-    "common": true
+    "message": "联系方式：",
+    "common": true,
+    "u": 1638441426458
   },
   "o_about_issues": {
     "message": "报告问题：",
@@ -625,28 +709,33 @@
     "common": true
   },
   "dark_mode": {
-    "message": "黑暗模式",
-    "common": true
+    "message": "深色模式",
+    "common": true,
+    "u": 1638441483995
   },
   "dark_mode_system": {
-    "message": "由系统控制",
-    "common": true
+    "message": "跟随系统",
+    "common": true,
+    "u": 1638441521521
   },
   "used_space": {
-    "message": "二手空间：$1 / $2",
-    "common": true
+    "message": "已用空间：$1 / $2",
+    "common": true,
+    "u": 1638441534951
   },
   "open_in_new_tab": {
-    "message": "在新标签中打开",
-    "common": true
+    "message": "在新标签页中打开",
+    "common": true,
+    "u": 1638441541258
   },
   "switch_addon_on_off": {
     "message": "切换插件开/关",
     "common": true
   },
   "addon_is_off": {
-    "message": "Addon被禁用",
-    "common": true
+    "message": "插件已禁用",
+    "common": true,
+    "u": 1638441575112
   },
   "_description_why": {
     "message": "为什么？",

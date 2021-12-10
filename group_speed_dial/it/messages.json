@@ -1,1 +1,238 @@
-{}
+{
+  "app_name": {
+    "message": "Group Speed Dial",
+    "u": 1637768043592
+  },
+  "app_desc": {
+    "message": "Il più avanzato sistema di seelezione rapida del mondo per i tuoi segnalibri! Migliorerà la tua produttività!",
+    "u": 1637791428636
+  },
+  "welcome_header": {
+    "message": "Benvenuto nell'add-on di $app_name$",
+    "u": 1637791496018
+  },
+  "welcome_setup": {
+    "message": "Configurazione di base",
+    "u": 1637791519210
+  },
+  "welcome_watch_video": {
+    "message": "Guarda un breve video introduttivo (1:50) per vedere le caratteristiche principali.",
+    "u": 1637791563989
+  },
+  "welcome_watch_android_video": {
+    "message": "Guarda il video di configurazione di Android.",
+    "u": 1637791595961
+  },
+  "welcome_home_group": {
+    "message": "L'attuale \"Gruppo home\" ha 4 x 3 riquadri, si può cambiare qui:",
+    "u": 1637792000442
+  },
+  "welcome_import_josep_del_rio": {
+    "message": "c'è una funzione di importazione da \"Speed Dial by Josep del Rio\" e altri nelle opzioni:",
+    "u": 1637791754259
+  },
+  "welcome_options_page": {
+    "message": "Pagina opzioni",
+    "u": 1637791785098
+  },
+  "welcome_pick_color": {
+    "message": "Scegli il colore del tema che vuoi usare:",
+    "u": 1637791865331
+  },
+  "welcome_visuals": {
+    "message": "Per altre opzioni visita la pagina Opzioni",
+    "u": 1637791913017
+  },
+  "import_settings_button": {
+    "message": "Importare impostazioni e riquadri...",
+    "u": 1637792242637
+  },
+  "import_josep_button": {
+    "message": "Importare il file \"CurrentSettings.speeddial\"...",
+    "u": 1637792028527
+  },
+  "import_firefox_button": {
+    "message": "Importare il file \"bookmarks-2017-XX-XX.json\"...",
+    "u": 1637792220403
+  },
+  "import_fast_dial_button": {
+    "message": "Importare il file \"fastdial.json\"...",
+    "u": 1637792117279
+  },
+  "import_super_start_button": {
+    "message": "Importare il file \"sites.v1.json\"...",
+    "u": 1637792142562
+  },
+  "import_done_text": {
+    "message": "Riquadri esterni importati",
+    "u": 1637792342050
+  },
+  "import_speed_dial_2_button": {
+    "message": "Importare il file \"any_name\"...",
+    "u": 1637792205572
+  },
+  "import_skip": {
+    "message": "Non importare nulla",
+    "u": 1637792359575
+  },
+  "import_pages_stats": {
+    "message": "Importare $1 pagine in $2 gruppi",
+    "u": 1637792459030
+  },
+  "import_data_from": {
+    "message": "Importare dati da:",
+    "u": 1637792562935
+  },
+  "load_bookmarks": {
+    "message": "Carica i segnalibri",
+    "u": 1637792569932
+  },
+  "load_top_pages": {
+    "message": "Carica le pagine più usate",
+    "u": 1637793195957
+  },
+  "group_generated_name": {
+    "message": "Gruppo $1",
+    "u": 1637793207587
+  },
+  "default_home_group_name": {
+    "message": "Gruppo Home",
+    "u": 1637793232815
+  },
+  "drag_group_hover_open": {
+    "message": "Apri gruppo",
+    "u": 1637793245006
+  },
+  "replace_dial": {
+    "message": "Sostituisci riquadro",
+    "u": 1637793268408
+  },
+  "replace_duplicate_dial": {
+    "message": "Riquadro duplicato - clicca per aggiornare la miniatura",
+    "u": 1638982831933
+  },
+  "create_multi_page_dial": {
+    "message": "Creare un riquadro a più pagine",
+    "u": 1638982862293
+  },
+  "replace_multi_page_dial": {
+    "message": "Sostituire il riquadro a più pagine",
+    "u": 1638982901068
+  },
+  "msg_pro_cloud_upload": {
+    "message": "Caricare le miniature sul cloud - questo ti permette di vederle nel",
+    "u": 1638982938668
+  },
+  "msg_pro_cloud_web": {
+    "message": "Pagina web di Cloud-dials",
+    "u": 1638982959551
+  },
+  "msg_pro_cloud_web_desc": {
+    "message": "La versione cloud non è attualmente modificabile ma funziona in ogni browser - anche nel tuo telefono!",
+    "u": 1638982987484
+  },
+  "msg_pro_thumbnails_download": {
+    "message": "Ora puoi avere le stesse miniature su ogni dispositivo!",
+    "u": 1638983009246
+  },
+  "msg_correct_account": {
+    "message": "Visita il server cloud e assicurati di aver effettuato l'accesso con un account corretto:",
+    "u": 1638983026077
+  },
+  "msg_replace_text": {
+    "message": "In alternativa potete sostituire i vostri riquadri locali.",
+    "u": 1638983051188
+  },
+  "url_search": {
+    "message": "Indirizzo / Ricerca",
+    "u": 1638983134604
+  },
+  "msg_search_by": {
+    "message": "Ricerca per:",
+    "u": 1638983076181
+  },
+  "msg_search_tip": {
+    "message": "Suggerimento: aggiungere note ai riquadri per una migliore ricerca",
+    "u": 1638983096535
+  },
+  "msg_search_url": {
+    "message": "Indirizzo",
+    "u": 1638983150764
+  },
+  "msg_search_name": {
+    "message": "Nomee",
+    "u": 1638983155909
+  },
+  "msg_search_note": {
+    "message": "Note",
+    "u": 1638983159661
+  },
+  "msg_add_dial_text": {
+    "message": "È anche possibile navigare tra i gruppi, spostare o rimuovere i riquadri esistenti.",
+    "u": 1638983202519
+  },
+  "msg_add_dial_no_show": {
+    "message": "Non mostrare di nuovo",
+    "u": 1638983220565
+  },
+  "msg_add_dials_here": {
+    "message": "Inserire in riquadri vuoti",
+    "u": 1638983241834
+  },
+  "add_target_dial": {
+    "message": "Seleziona il riquadro vuoto di destinazione per la pagina:",
+    "u": 1638983271323
+  },
+  "add_target_dials": {
+    "message": "Creare un nuovo gruppo vuoto o selezionare $1 riquadro",
+    "u": 1638983294870
+  },
+  "add_image": {
+    "message": "Inserire l'immagine",
+    "u": 1638983309357
+  },
+  "bc_first_group": {
+    "message": "Primo gruppo creato",
+    "u": 1638983320033
+  },
+  "show_all_groups": {
+    "message": "Mostra tutti i gruppi",
+    "u": 1638983329080
+  },
+  "fr_home_group": {
+    "message": "Gruppo Home",
+    "u": 1638983349524
+  },
+  "err_db_settings_loading": {
+    "message": "Eccezione durante il caricamento delle impostazioni e del database",
+    "u": 1638983408634
+  },
+  "err_db_creation": {
+    "message": "Errore durante la creazione del database",
+    "u": 1638983418111
+  },
+  "err_db_loading": {
+    "message": "Errore nel caricamento del database",
+    "u": 1638983428672
+  },
+  "err_db_images": {
+    "message": "Errore nell'ottenere immagini dal database",
+    "u": 1638983447589
+  },
+  "sync_synced_ok": {
+    "message": "sincronizzato con il server",
+    "u": 1638983457776
+  },
+  "sync_working": {
+    "message": "elaborazione...",
+    "u": 1638983501027
+  },
+  "sync_syncing": {
+    "message": "Sincronizzazione in corso...",
+    "u": 1638983512061
+  },
+  "sync_synced": {
+    "message": "sincronizzato",
+    "u": 1638983523720
+  }
+}

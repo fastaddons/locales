@@ -1,165 +1,217 @@
 {
   "_description_feature_1": {
-    "message": ""
+    "message": "您的笔记可以通过 Firefox/Chrome 账户与其他设备同步",
+    "u": 1638534701417
   },
   "_description_feature_2": {
-    "message": ""
+    "message": "非常适合存储很敏感的信息，比如恢复码、Wi-Fi 密码、服务器配置等...",
+    "u": 1638535485041
   },
   "_description_tags_pn": {
-    "message": ""
+    "message": "私人、隐私、笔记、消息、安全、文本、同步、账户同步、端到端、加密、敏感信息、Firefox 同步、跨设备、zip、压缩、编辑器、保险库、传递、密码、秘密、安全",
+    "u": 1638535948533
   },
   "app_name": {
     "message": "Private Notes"
   },
   "app_desc": {
-    "message": ""
+    "message": "$app_name$ 为您的绝密笔记提供安全且完全加密的空间！",
+    "u": 1638536148762
   },
   "compression_level_0": {
-    "message": ""
+    "message": "低",
+    "u": 1638442464152
   },
   "compression_level_1": {
-    "message": ""
+    "message": "正常",
+    "u": 1638442475623
   },
   "compression_level_2": {
-    "message": ""
+    "message": "最佳",
+    "u": 1638442480678
   },
   "compression_level_info_0": {
-    "message": ""
+    "message": "适合低配设备的最快速压缩",
+    "u": 1638442555503
   },
   "compression_level_info_1": {
-    "message": ""
+    "message": "编码快、压缩良好",
+    "u": 1638442636634
   },
   "compression_level_info_2": {
-    "message": ""
+    "message": "最佳压缩 - 大量笔记的话可能会很慢",
+    "u": 1638442720137
   },
   "title_notes": {
-    "message": ""
+    "message": "笔记",
+    "u": 1638442316050
   },
   "restore_backup": {
-    "message": ""
+    "message": "恢复备份",
+    "u": 1638441705803
   },
   "create_new_note": {
-    "message": ""
+    "message": "新建笔记",
+    "u": 1638442309999
   },
   "auto_locking_strategy_0": {
-    "message": ""
+    "message": "浏览器运行时保持解锁状态",
+    "u": 1638536164256
   },
   "auto_locking_strategy_1": {
-    "message": ""
+    "message": "当弹窗/标签页关闭时锁定",
+    "u": 1638615604700
   },
   "restore_note": {
-    "message": ""
+    "message": "恢复笔记",
+    "u": 1638442805901
   },
   "locked": {
-    "message": ""
+    "message": "已锁定",
+    "u": 1638442870307
   },
   "change_master_password": {
-    "message": ""
+    "message": "更改主密码",
+    "u": 1638442829325
   },
   "import_export": {
-    "message": ""
+    "message": "导入/导出",
+    "u": 1638441714092
   },
   "about_faq": {
-    "message": ""
+    "message": "关于/FAQ",
+    "u": 1638702252089
   },
   "notes_auto_saved_placeholder": {
-    "message": ""
+    "message": "您的笔记会自动进行保存",
+    "u": 1638615659155
   },
   "setup_new_pwd": {
-    "message": ""
+    "message": "设置新密码",
+    "u": 1638441720670
   },
   "change_pwd": {
-    "message": ""
+    "message": "更改密码",
+    "u": 1638441733047
   },
   "pwd_to_change": {
-    "message": ""
+    "message": "要更改的密码",
+    "u": 1638442918977
   },
   "current_pwd": {
-    "message": ""
+    "message": "当前密码",
+    "u": 1638441751936
   },
   "new_pwd_advice": {
-    "message": ""
+    "message": "新密码 - 最好是使用长而简单而非短而复杂的密码",
+    "u": 1638441859207
   },
   "repeat_pwd": {
-    "message": ""
+    "message": "请再次输入新密码",
+    "u": 1638441881753
   },
   "hint_pwd": {
-    "message": ""
+    "message": "新密码提示",
+    "u": 1638441894188
   },
   "pwd_warning": {
-    "message": ""
+    "message": "请务必保存并记好您的密码！一旦忘记就将无法恢复！",
+    "u": 1638441994448
   },
   "remember_pwd_0": {
-    "message": ""
+    "message": "帮我记住密码",
+    "u": 1638441923109
   },
   "remember_pwd_1": {
-    "message": ""
+    "message": "通常在最初的几个小时内很容易忘记新密码",
+    "u": 1638442122073
   },
   "remember_pwd_2": {
-    "message": ""
+    "message": "我会要求您在未来 3 小时、6 小时、12 小时、24 小时、48 小时、4 天、8 天、16 天后再次输入密码，然后每月输入一次，以帮助您记住密码。",
+    "u": 1638442248748
   },
   "pwd_save": {
-    "message": ""
+    "message": "保存新密码",
+    "u": 1638442031038
   },
   "error_saving_note": {
-    "message": ""
+    "message": "保存笔记“$1”时出错",
+    "u": 1638442974866
   },
   "quota_bytes_per_item": {
-    "message": ""
+    "message": "已超出笔记大小上限！请不要使用图片或其它媒体文件，笔记只能包含大约 8,000 个字符。",
+    "u": 1638616269596
   },
   "quota_bytes": {
-    "message": ""
+    "message": "存储空间已满！请删除部分笔记以腾出空间",
+    "u": 1638616326167
   },
   "max_items": {
-    "message": ""
+    "message": "存储空间已满！只能有大约 500 个笔记",
+    "u": 1638702339162
   },
   "max_write_operations_per_hour": {
-    "message": ""
+    "message": "每小时尝试保存次数过于频繁",
+    "u": 1638702388790
   },
   "max_write_operations_per_minute": {
-    "message": ""
+    "message": "每分钟尝试保存次数过于频繁",
+    "u": 1638702407273
   },
   "security": {
-    "message": ""
+    "message": "安全",
+    "u": 1638442984803
   },
   "visual_options": {
-    "message": ""
+    "message": "视图选项",
+    "u": 1638443033817
   },
   "compression_level": {
-    "message": ""
+    "message": "压缩等级",
+    "u": 1638443039562
   },
   "auto_locking_strategy": {
-    "message": ""
+    "message": "自动锁定方式",
+    "u": 1638443090942
   },
   "auto_lock_inactive_for": {
-    "message": ""
+    "message": "触发自动锁定的非活动时长：",
+    "u": 1638443208159
   },
   "dense_notes_list": {
-    "message": ""
+    "message": "紧凑笔记列表",
+    "u": 1638702478986
   },
   "import_replace_all": {
-    "message": ""
+    "message": "替换所有现有的笔记和密码",
+    "u": 1638702500413
   },
   "export_encrypted": {
-    "message": ""
+    "message": "导出加密备份",
+    "u": 1638702514414
   },
   "minutes": {
-    "message": ""
+    "message": "分钟",
+    "u": 1638443221958
   },
   "label_font_size": {
     "message": "字体大小"
   },
   "sidebar_size": {
-    "message": ""
+    "message": "侧边栏大小",
+    "u": 1638787264522
   },
   "popup_window_width": {
-    "message": ""
+    "message": "弹窗宽度：",
+    "u": 1638702152335
   },
   "popup_window_height": {
-    "message": ""
+    "message": "弹窗高度：",
+    "u": 1638702156471
   },
   "always_open_in_new_tab": {
-    "message": ""
+    "message": "始终在新标签页中打开 - 点击工具栏图标时",
+    "u": 1638702205817
   },
   "safari_store": {
     "message": "Mac App Store"
@@ -183,43 +235,54 @@
     "message": "搜索"
   },
   "title_import": {
-    "message": "进口"
+    "message": "导入",
+    "u": 1638787290263
   },
   "title_export": {
-    "message": "出口"
+    "message": "导出",
+    "u": 1638787293586
   },
   "title_backups": {
-    "message": ""
+    "message": "备份",
+    "u": 1638443229699
   },
   "homepage": {
     "message": "主页"
   },
   "addon_page": {
-    "message": "插入页面"
+    "message": "插件页面",
+    "u": 1638787301021
   },
   "settings": {
-    "message": ""
+    "message": "设置",
+    "u": 1638443232190
   },
   "options": {
-    "message": ""
+    "message": "选项",
+    "u": 1638443234874
   },
   "label_backups": {
-    "message": ""
+    "message": "备份",
+    "u": 1638443239587
   },
   "label_rename": {
-    "message": ""
+    "message": "重命名",
+    "u": 1638443243606
   },
   "label_download": {
-    "message": ""
+    "message": "下载",
+    "u": 1638443246261
   },
   "label_delete": {
-    "message": ""
+    "message": "删除",
+    "u": 1638443248775
   },
   "label_next": {
     "message": "下一步"
   },
   "label_note": {
-    "message": "注释："
+    "message": "笔记：",
+    "u": 1638787306169
   },
   "label_remove": {
     "message": "移除"
@@ -276,7 +339,8 @@
     "message": "关于"
   },
   "o_pixels": {
-    "message": "px"
+    "message": "像素",
+    "u": 1638787344012
   },
   "o_seconds": {
     "message": "秒"
@@ -297,7 +361,8 @@
     "message": "谢谢！"
   },
   "o_about_contact": {
-    "message": "联系："
+    "message": "联系方式：",
+    "u": 1638787373014
   },
   "o_about_issues": {
     "message": "报告问题："
@@ -327,7 +392,8 @@
     "message": "在新标签中打开"
   },
   "_description_features": {
-    "message": ""
+    "message": "特征：",
+    "u": 1638443280890
   },
   "_description_privacy_policy": {
     "message": "隐私政策"
