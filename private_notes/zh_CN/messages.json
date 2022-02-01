@@ -226,7 +226,8 @@
     "message": "导入已完成！"
   },
   "import_error": {
-    "message": "出错"
+    "message": "错误",
+    "u": 1640172867552
   },
   "import_backup_file": {
     "message": "导入备份文件$1"
@@ -321,16 +322,20 @@
     "message": "你好呀！"
   },
   "about_me": {
-    "message": "自2016年以来我是Addon开发人员。我的目标是为您的网络浏览器构建强大的扩展，以使您更富有成效。"
+    "message": "自 2016 年以来，我一直是一名独立插件开发人员。我的目标是为您的网络浏览器构建一套强大的扩展程序，以提高您的工作效率。",
+    "u": 1640156173804
   },
   "about_good_job": {
-    "message": "如果你认为我做得很好，请捐赠:)"
+    "message": "如果您认为我做得很好，请予以捐赠 :)",
+    "u": 1640156193540
   },
   "about_income": {
-    "message": "你的捐款是我唯一的收入！"
+    "message": "您的捐款是我唯一的收入来源！",
+    "u": 1640156206710
   },
   "about_thanks": {
-    "message": "谢谢你支持我的工作！"
+    "message": "感谢您支持我的工作！",
+    "u": 1640156222541
   },
   "o_tab_context_menu": {
     "message": "右键菜单"
@@ -352,10 +357,12 @@
     "message": "您好 :)"
   },
   "o_about_intro": {
-    "message": "我的名字是$1$，我是$app_name$的作者。"
+    "message": "我的名字叫 $1$，我是 $app_name$ 的作者。",
+    "u": 1640172553211
   },
   "o_about_like_it": {
-    "message": "若您喜欢它，请在此评分："
+    "message": "如果您喜欢它，请在此评分：",
+    "u": 1640172563378
   },
   "o_about_thanks": {
     "message": "谢谢！"
@@ -371,10 +378,12 @@
     "message": "社交媒体："
   },
   "o_about_support_by_iban": {
-    "message": "使用IBAN转帐："
+    "message": "使用 IBAN 进行银行转账：",
+    "u": 1640172594884
   },
   "used_space": {
-    "message": "二手空间：$1 / $2"
+    "message": "已用空间：$1 / $2",
+    "u": 1640172612586
   },
   "ps_no_results": {
     "message": "无匹配结果"
@@ -383,13 +392,16 @@
     "message": "无数据"
   },
   "dark_mode": {
-    "message": "黑暗模式"
+    "message": "深色模式",
+    "u": 1640172626968
   },
   "dark_mode_system": {
-    "message": "由系统控制"
+    "message": "跟随系统",
+    "u": 1640172643670
   },
   "open_in_new_tab": {
-    "message": "在新标签中打开"
+    "message": "在新标签页中打开",
+    "u": 1640172656078
   },
   "_description_features": {
     "message": "特征：",

@@ -2603,5 +2603,37 @@
   "label_actions": {
     "message": "Acciones",
     "u": 1638217542689
+  },
+  "pixels_short": {
+    "message": "px",
+    "u": 1639418925028
+  },
+  "group_layout_dynamic": {
+    "message": "dinámico",
+    "u": 1639418948035
+  },
+  "group_layout_fill": {
+    "message": "rellenar hueco",
+    "u": 1639419136451
+  },
+  "group_layout": {
+    "message": "Diseño de grupo",
+    "u": 1639419179587
+  },
+  "group_layout_center": {
+    "message": "centrar diapositivas",
+    "u": 1639419190294
+  },
+  "group_layout_scroll": {
+    "message": "diapositivas de desplazamiento",
+    "u": 1639419240556
+  },
+  "eg_dial_aspect_ratio": {
+    "message": "Relación de aspecto de la diapositiva",
+    "u": 1639419272742
+  },
+  "eg_dial_size": {
+    "message": "Tamaño de la diapositiva",
+    "u": 1639920352353
   }
 }

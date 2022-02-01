@@ -482,5 +482,9 @@
   "_description_feature_1": {
     "message": "Senden Sie eine Nachricht an Ihre Geräte (ähnlich der Funktion \"Tab an Gerät senden\" in Firefox)",
     "u": 1631534584118
+  },
+  "about_me": {
+    "message": "Ich bin seit 2016 Addon-Entwickler und mein Ziel ist es, leistungsstarke Erweiterungen für Ihren Webbrowser zu entwickeln, um Sie produktiver zu machen.",
+    "u": 1641254450376
   }
 }

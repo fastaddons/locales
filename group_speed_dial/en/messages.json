@@ -1196,18 +1196,6 @@
   "eg_rows": {
     "message": "Rows:"
   },
-  "eg_dials_ratio": {
-    "message": "Dials ratio:"
-  },
-  "eg_flexible": {
-    "message": "flexible"
-  },
-  "eg_fixed": {
-    "message": "fixed"
-  },
-  "group_eg_scrollable": {
-    "message": "Make group scrollable"
-  },
   "eg_background_color": {
     "message": "Background color:"
   },
@@ -1419,7 +1407,7 @@
     "message": "Set dials page Title as name of currently selected group"
   },
   "o_prevent_new_tab_container": {
-    "message": "Prevent opening dias page in Firefox container"
+    "message": "Prevent opening dials page in Firefox container"
   },
   "o_prevent_new_tab_container_title": {
     "message": "Dials page will be opened without container"
@@ -1573,9 +1561,6 @@
   },
   "o_dials": {
     "message": "Dials:"
-  },
-  "o_dials_visual": {
-    "message": "Dials - visual:"
   },
   "o_android_min_size": {
     "message": "Android dial size"
@@ -2577,5 +2562,30 @@
   "label_actions": {
     "message": "Actions",
     "common": true
+  },
+  "group_layout": {
+    "message": "Group layout"
+  },
+  "group_layout_fill": {
+    "message": "fill space"
+  },
+  "group_layout_center": {
+    "message": "center dials"
+  },
+  "group_layout_scroll": {
+    "message": "scroll dials"
+  },
+  "group_layout_dynamic": {
+    "message": "dynamic"
+  },
+  "pixels_short": {
+    "message": "px",
+    "common": true
+  },
+  "eg_dial_aspect_ratio": {
+    "message": "Dial aspect ratio"
+  },
+  "eg_dial_size": {
+    "message": "Dial size"
   }
 }

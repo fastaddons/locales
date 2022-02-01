@@ -35,8 +35,8 @@
     "u": 1638266812224
   },
   "match_type": {
-    "message": "匹配对象：",
-    "u": 1638102379055
+    "message": "匹配类型：",
+    "u": 1641367585044
   },
   "match_type_0": {
     "message": "域名为",
@@ -261,8 +261,8 @@
     "u": 1638267196006
   },
   "highlight_on_pages": {
-    "message": "高亮显示页面",
-    "u": 1638267202479
+    "message": "页面高亮显示内容",
+    "u": 1642243125589
   },
   "empty_name_helper": {
     "message": "留空则以“高亮文本”作为名称",
@@ -273,16 +273,16 @@
     "u": 1638267302158
   },
   "faq_1a": {
-    "message": "使用上下文菜单 - 选择文本/单击右键/\"Auto Highlight\"。如果直接右键页面（未选择文本），则可以将现有配置规则应用于当前页面。",
-    "u": 1638267478481
+    "message": "使用右键菜单 - 选择文本/单击右键/\"Auto Highlight\"。如果直接右键页面（未选择文本），则可以将现有配置规则应用于当前页面。",
+    "u": 1640172912156
   },
   "faq_2": {
     "message": "我想要高亮显示多个词，我需要单独为每个词都分别创建新的规则吗？",
     "u": 1638267583155
   },
   "faq_2a": {
-    "message": "当然不必，您只需要勾选“每个词”复选框即可。",
-    "u": 1638267721347
+    "message": "当然不必，您只需要勾选“每个词”复选框即可",
+    "u": 1640427569542
   },
   "faq_3": {
     "message": "什么是“RegExp”？",
@@ -321,8 +321,8 @@
     "u": 1638270854375
   },
   "faq_5e": {
-    "message": "\"$1$\" 表示零或一次。当放置在括号 $2$ 之后，它表示在这些括号内部的内容是可选的（可有可无）。我们将它用于数字的小数部分即可选的。",
-    "u": 1638271062588
+    "message": "\"$1$\" 表示零或一次。当放置在括号之后即 $2$，它表示在这些括号内部的内容是可选的（可有可无）。我们将它用于数字的小数部分即可选的。",
+    "u": 1640427383752
   },
   "faq_5f": {
     "message": "更多关于 RegExp 规则的信息",
@@ -471,8 +471,9 @@
     "common": true
   },
   "label_discard_changes": {
-    "message": "放弃更改",
-    "common": true
+    "message": "舍弃更改",
+    "common": true,
+    "u": 1641702648636
   },
   "menu_button_title": {
     "message": "菜单",
@@ -501,16 +502,19 @@
     "u": 1638357806388
   },
   "about_good_job": {
-    "message": "如果你认为我做得很好，请捐赠:)",
-    "common": true
+    "message": "如果您认为我做得很好，请予以捐赠 :)",
+    "common": true,
+    "u": 1640173284534
   },
   "about_income": {
-    "message": "你的捐款是我唯一的收入！",
-    "common": true
+    "message": "您的捐款是我唯一的收入来源！",
+    "common": true,
+    "u": 1640173267962
   },
   "about_thanks": {
-    "message": "谢谢你支持我的工作！",
-    "common": true
+    "message": "谢谢您支持我的工作！",
+    "common": true,
+    "u": 1640173253652
   },
   "op_help": {
     "message": "帮助",
@@ -534,8 +538,9 @@
     "u": 1638357823796
   },
   "safari_download_in_tab": {
-    "message": "要将数据导出到文件，请在新选项卡中重新打开此窗口。",
-    "common": true
+    "message": "要将数据导出到文件，请在新标签页中重新打开此窗口",
+    "common": true,
+    "u": 1640173224430
   },
   "safari_context_menu_download": {
     "message": "右键单击/“下载链接文件”",
@@ -638,8 +643,9 @@
     "common": true
   },
   "o_about_intro": {
-    "message": "我的名字是$1$，我是$app_name$的作者。",
-    "common": true
+    "message": "我的名字叫 $1$，我是 $app_name$ 的作者。",
+    "common": true,
+    "u": 1640172928883
   },
   "o_about_like_it": {
     "message": "如果您喜欢它，请在此评分：",
@@ -647,12 +653,14 @@
     "u": 1638441452437
   },
   "o_about_dislike_it": {
-    "message": "如果您不喜欢它，请发邮件让我知道原因。我会实现更多我收到的功能请求。",
-    "common": true
+    "message": "如果您不喜欢它，请发邮件让我知道原因。我一直在努力实现我收到的大部分功能请求。",
+    "common": true,
+    "u": 1640173032195
   },
   "o_about_support_by": {
-    "message": "请考虑支持我的作品，通过：",
-    "common": true
+    "message": "请考虑通过以下方式支持我的工作：",
+    "common": true,
+    "u": 1640173060888
   },
   "o_about_support_by_iban": {
     "message": "使用 IBAN 进行银行转账：",
@@ -664,16 +672,18 @@
     "common": true
   },
   "o_about_support_by_patron": {
-    "message": "成为我的 Patron",
-    "common": true
+    "message": "成为 Patron 会员",
+    "common": true,
+    "u": 1640173086628
   },
   "o_about_thanks": {
     "message": "谢谢！",
     "common": true
   },
   "o_about_home": {
-    "message": "首页：",
-    "common": true
+    "message": "主页：",
+    "common": true,
+    "u": 1640173122978
   },
   "o_about_contact": {
     "message": "联系方式：",
@@ -685,8 +695,9 @@
     "common": true
   },
   "o_about_support_reply": {
-    "message": "我只会以英语/斯洛伐克语回复",
-    "common": true
+    "message": "我只会通过英语/斯洛伐克语进行回复",
+    "common": true,
+    "u": 1640173140916
   },
   "o_about_social_media": {
     "message": "社交媒体：",

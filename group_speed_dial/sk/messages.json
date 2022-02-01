@@ -2539,5 +2539,9 @@
   "dark_mode_system": {
     "message": "Ovládané systémom",
     "common": true
+  },
+  "pixels_short": {
+    "message": "px",
+    "u": 1642156906457
   }
 }

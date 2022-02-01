@@ -23,8 +23,8 @@
     "u": 1638789715069
   },
   "_description_mm_feature_3": {
-    "message": "额外的电影/电视剧信息",
-    "u": 1638789761916
+    "message": "更多电影/电视剧信息",
+    "u": 1639488273755
   },
   "_description_mm_feature_4": {
     "message": "新剧集通知",
@@ -160,7 +160,8 @@
     "message": "下一集"
   },
   "episode_airtime": {
-    "message": "通话时间"
+    "message": "播出时间",
+    "u": 1642775880393
   },
   "episode_name": {
     "message": "名称"
@@ -187,7 +188,8 @@
     "message": "小时"
   },
   "na": {
-    "message": "无法使用"
+    "message": "不可用",
+    "u": 1639974338603
   },
   "user_rating": {
     "message": "用户评分：$1"
@@ -215,13 +217,16 @@
     "u": 1639048453380
   },
   "win_disable": {
-    "message": "禁用$1"
+    "message": "在 $1 中禁用",
+    "u": 1639974378581
   },
   "cm_advanced": {
-    "message": "先进的"
+    "message": "高级",
+    "u": 1639488298323
   },
   "op_visit_home": {
-    "message": "访问首页"
+    "message": "访问主页",
+    "u": 1639488304047
   },
   "op_support_me": {
     "message": "助力此项目"
@@ -346,7 +351,8 @@
     "message": "支持的页面："
   },
   "supported_grows": {
-    "message": "（这个名单变得更大，更大）"
+    "message": "（该名单将会逐步壮大）",
+    "u": 1639488367307
   },
   "credits_imdb_tvmaze": {
     "message": "评分和人气信息来自于 $1$，剧集信息来自于 $2$",
@@ -359,7 +365,8 @@
     "message": "隐私政策"
   },
   "_description_recent_features": {
-    "message": "最近添加的功能："
+    "message": "最近添加的功能：",
+    "u": 1639397252020
   },
   "_description_known_issues": {
     "message": "已知的问题："
@@ -371,24 +378,31 @@
     "message": "特征："
   },
   "about_me": {
-    "message": "自2016年以来我是Addon开发人员。我的目标是为您的网络浏览器构建强大的扩展，以使您更富有成效。"
+    "message": "自 2016 年以来，我一直是一名独立插件开发人员。我的目标是为您的网络浏览器构建一套强大的扩展程序，以提高您的工作效率。",
+    "u": 1639397314147
   },
   "about_good_job": {
-    "message": "如果你认为我做得很好，请捐赠:)"
+    "message": "如果您认为我做得很好，请予以捐赠 :)",
+    "u": 1639488391297
   },
   "about_income": {
-    "message": "你的捐款是我唯一的收入！"
+    "message": "您的捐款是我唯一的收入来源！",
+    "u": 1639315725491
   },
   "about_thanks": {
-    "message": "谢谢你支持我的工作！"
+    "message": "感谢您支持我的工作！",
+    "u": 1639397279605
   },
   "o_about_support_by_iban": {
-    "message": "使用IBAN转帐："
+    "message": "使用 IBAN 进行银行转账：",
+    "u": 1639315712022
   },
   "_description_credits": {
-    "message": "Credits:"
+    "message": "鸣谢:",
+    "u": 1639220925856
   },
   "support_developer": {
-    "message": "支持独立开发人员！"
+    "message": "支持独立开发者！",
+    "u": 1639397290097
   }
 }

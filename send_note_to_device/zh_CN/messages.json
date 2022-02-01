@@ -1,1 +1,490 @@
-{}
+{
+  "label_remove": {
+    "message": "移除",
+    "u": 1639566767147
+  },
+  "no_target_device": {
+    "message": "未发现设备！",
+    "u": 1639566790916
+  },
+  "_description_feature_1": {
+    "message": "发送消息到您的设备（类似于 Firefox 的“发送标签页到设备”功能）",
+    "u": 1639567034209
+  },
+  "_description_feature_2": {
+    "message": "无需另创账户 - 浏览器内置同步能完成一切",
+    "u": 1639566971810
+  },
+  "_description_feature_3": {
+    "message": "收件箱/发件箱 - 接收/发送笔记的历史记录",
+    "u": 1639567002546
+  },
+  "_description_tags_sntd": {
+    "message": "笔记、消息、发送标签页到设备、标签页、页面、链接、转发、传输、e2e、加密、安全、Firefox 同步、发送、设备、同步、收件箱、发件箱、电子邮件",
+    "u": 1639567070075
+  },
+  "app_name": {
+    "message": "发送笔记到设备",
+    "u": 1639567077151
+  },
+  "app_desc": {
+    "message": "“发送笔记到设备”可让您将带有笔记（消息）的当前链接发送到不同的设备",
+    "u": 1639567164520
+  },
+  "inbox_messages": {
+    "message": "收件箱笔记",
+    "u": 1639567173016
+  },
+  "note_forward": {
+    "message": "转发...",
+    "u": 1639567180313
+  },
+  "note_delete": {
+    "message": "删除",
+    "u": 1639567186706
+  },
+  "note_unread": {
+    "message": "设为未读",
+    "u": 1639567204551
+  },
+  "outbox_messages": {
+    "message": "发件箱笔记",
+    "u": 1639567208493
+  },
+  "outbox_messages_title": {
+    "message": "发送笔记",
+    "u": 1639567213841
+  },
+  "label_target_device": {
+    "message": "目标设备",
+    "u": 1639567218571
+  },
+  "label_source_device": {
+    "message": "发送自",
+    "u": 1639567228933
+  },
+  "placeholder_new_note": {
+    "message": "请输入待发送到其他设备的文本内容",
+    "u": 1639567282189
+  },
+  "placeholder_new_note_url": {
+    "message": "链接随笔记一同发送",
+    "u": 1639567304717
+  },
+  "no_target_device_body": {
+    "message": "请在其他设备上安装此插件，以便相互发送笔记",
+    "u": 1639567400062
+  },
+  "no_target_device_sync_firefox": {
+    "message": "此外，相应设备都需要启用“Firefox 同步”，并在“同步设置”中启用“附加组件”同步",
+    "u": 1639567534058
+  },
+  "no_target_device_sync_chrome": {
+    "message": "此外，相应设备都需要启用“Chrome 同步”",
+    "u": 1639567567550
+  },
+  "send_note": {
+    "message": "发送笔记！",
+    "u": 1639567573167
+  },
+  "note_sent": {
+    "message": "笔记已发送",
+    "u": 1639567578261
+  },
+  "discard_note": {
+    "message": "关闭",
+    "u": 1639567581983
+  },
+  "open_inbox": {
+    "message": "收件箱",
+    "u": 1639567588429
+  },
+  "open_outbox": {
+    "message": "发件箱",
+    "u": 1639567594484
+  },
+  "firefox_store": {
+    "message": "Firefox 附加组件页面",
+    "u": 1639567603546
+  },
+  "chrome_store": {
+    "message": "Chrome 网上应用店页面",
+    "u": 1639567606012
+  },
+  "menu_options": {
+    "message": "选项",
+    "u": 1639567609675
+  },
+  "menu_quick_options": {
+    "message": "快速选项",
+    "u": 1639567614217
+  },
+  "menu_visit_title": {
+    "message": "访问主页",
+    "u": 1639567618208
+  },
+  "op_visit_home": {
+    "message": "访问主页",
+    "u": 1639567624529
+  },
+  "cm_shortcut_title": {
+    "message": "快捷方式：\"$1\"",
+    "u": 1639567664566
+  },
+  "create_note_text": {
+    "message": "发送文本到设备",
+    "u": 1639567750535
+  },
+  "create_note_page": {
+    "message": "发送页面笔记到设备",
+    "u": 1639567794392
+  },
+  "create_note_tab": {
+    "message": "发送标签页笔记到设备",
+    "u": 1639567803021
+  },
+  "create_note_link": {
+    "message": "发送链接笔记到设备",
+    "u": 1639567808653
+  },
+  "o_title": {
+    "message": "选项 - $1",
+    "u": 1639567818955
+  },
+  "o_tab_general": {
+    "message": "常规",
+    "u": 1639567821769
+  },
+  "o_tab_devices": {
+    "message": "设备",
+    "u": 1639567824238
+  },
+  "o_inbox": {
+    "message": "收件箱",
+    "u": 1639567831116
+  },
+  "o_tab_context_menu": {
+    "message": "右键菜单",
+    "u": 1639567837312
+  },
+  "o_tab_import": {
+    "message": "导入/备份",
+    "u": 1639567841758
+  },
+  "o_name": {
+    "message": "设备名称",
+    "u": 1639567846888
+  },
+  "o_favorite": {
+    "message": "设为收藏",
+    "u": 1639567861686
+  },
+  "this_device": {
+    "message": "此设备：",
+    "u": 1639567870023
+  },
+  "o_favorite_title": {
+    "message": "收藏设备将位于设备列表顶部",
+    "u": 1639567908178
+  },
+  "list_of_devices": {
+    "message": "已连接设备列表：",
+    "u": 1639572874968
+  },
+  "title_device_last_used": {
+    "message": "上次使用设备的时间（收到笔记）",
+    "u": 1639573297197
+  },
+  "o_open_inbox_in": {
+    "message": "收到新笔记时，收件箱打开方式：",
+    "u": 1639573362900
+  },
+  "o_open_inbox_in_0": {
+    "message": "新标签页",
+    "u": 1639573339409
+  },
+  "o_open_inbox_in_1": {
+    "message": "新窗口",
+    "u": 1639573344634
+  },
+  "o_open_inbox_in_2": {
+    "message": "不打开收件箱",
+    "u": 1639573373367
+  },
+  "o_disable_cm_page_selection_note": {
+    "message": "禁用文本选择的上下文菜单",
+    "u": 1639666641911
+  },
+  "o_disable_cm_page_note": {
+    "message": "禁用页面的上下文菜单",
+    "u": 1639666678052
+  },
+  "o_disable_cm_link_note": {
+    "message": "禁用链接的上下文菜单",
+    "u": 1639666707541
+  },
+  "o_disable_cm_tab_note": {
+    "message": "禁用标签页的上下文菜单",
+    "u": 1639666734673
+  },
+  "o_backup_restore": {
+    "message": "备份/恢复设置：",
+    "u": 1639666756636
+  },
+  "o_export_settings": {
+    "message": "将设置导出到文件",
+    "u": 1639666787897
+  },
+  "import_settings_button": {
+    "message": "从 $1 文件导入设置",
+    "u": 1639666820850
+  },
+  "import_finished": {
+    "message": "导入已完成！",
+    "u": 1639666825147
+  },
+  "label_working": {
+    "message": "进行中...",
+    "u": 1639666838548
+  },
+  "o_tab_about": {
+    "message": "关于",
+    "u": 1639666839931
+  },
+  "o_about_hello": {
+    "message": "您好 :)",
+    "u": 1639666844393
+  },
+  "o_about_intro": {
+    "message": "我的名字叫 $1$，我是 $app_name$ 的作者。",
+    "u": 1639743352190
+  },
+  "o_about_like_it": {
+    "message": "如果您喜欢它，请在此评分：",
+    "u": 1639743372529
+  },
+  "o_about_dislike_it": {
+    "message": "如果您不喜欢它，请发邮件让我知道原因。我一直在努力实现我收到的大部分功能请求。",
+    "u": 1639743497118
+  },
+  "o_about_support_by": {
+    "message": "请考虑通过以下方式支持我的工作：",
+    "u": 1639743546628
+  },
+  "o_about_support_by_donation": {
+    "message": "捐款 (PayPal)",
+    "u": 1639743554300
+  },
+  "o_about_support_by_patron": {
+    "message": "成为 Patron 会员",
+    "u": 1639743622033
+  },
+  "o_about_support_by_update": {
+    "message": "升级到专业版",
+    "u": 1639743628315
+  },
+  "o_about_thanks": {
+    "message": "谢谢！",
+    "u": 1639743645825
+  },
+  "o_about_home": {
+    "message": "主页：",
+    "u": 1639743656470
+  },
+  "o_about_contact": {
+    "message": "联系方式：",
+    "u": 1639743675017
+  },
+  "o_about_support_reply": {
+    "message": "我只会通过英语/斯洛伐克语进行回复",
+    "u": 1639744011062
+  },
+  "o_about_social_media": {
+    "message": "社交媒体：",
+    "u": 1639744014776
+  },
+  "op_support_me": {
+    "message": "助力此项目",
+    "u": 1639744026874
+  },
+  "op_help": {
+    "message": "帮助",
+    "u": 1639744029033
+  },
+  "o_save_close": {
+    "message": "保存更改并关闭",
+    "u": 1639744050116
+  },
+  "label_save_changes": {
+    "message": "保存更改",
+    "u": 1639744070281
+  },
+  "label_discard_changes": {
+    "message": "舍弃更改",
+    "u": 1639744078576
+  },
+  "o_saved": {
+    "message": "已保存！",
+    "u": 1639744084354
+  },
+  "import_error": {
+    "message": "错误",
+    "u": 1639744087093
+  },
+  "import_backup_file": {
+    "message": "导入备份文件 $1",
+    "u": 1639744101017
+  },
+  "search_search": {
+    "message": "搜索",
+    "u": 1639744104406
+  },
+  "homepage": {
+    "message": "主页",
+    "u": 1639744108540
+  },
+  "addon_page": {
+    "message": "插件页面",
+    "u": 1639744125576
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "u": 1639744137623
+  },
+  "label_font_size": {
+    "message": "字体大小",
+    "u": 1639744142057
+  },
+  "label_next": {
+    "message": "下一步",
+    "u": 1639744146040
+  },
+  "label_note": {
+    "message": "笔记：",
+    "u": 1639744152264
+  },
+  "label_warning": {
+    "message": "警告：",
+    "u": 1639744154982
+  },
+  "label_default": {
+    "message": "默认：",
+    "u": 1639744156887
+  },
+  "label_done": {
+    "message": "完成！",
+    "u": 1639744159002
+  },
+  "label_copied": {
+    "message": "已复制！",
+    "u": 1639744159990
+  },
+  "label_close": {
+    "message": "关闭",
+    "u": 1639744161562
+  },
+  "label_open_page": {
+    "message": "打开页面",
+    "u": 1639744163309
+  },
+  "label_agree": {
+    "message": "同意",
+    "u": 1639744164620
+  },
+  "label_cancel": {
+    "message": "取消",
+    "u": 1639744165975
+  },
+  "support_developer": {
+    "message": "支持独立开发者！",
+    "u": 1639744178300
+  },
+  "hello_there": {
+    "message": "你好呀！",
+    "u": 1639744195656
+  },
+  "about_me": {
+    "message": "自 2016 年以来，我一直是一名独立插件开发人员。我的目标是为您的网络浏览器构建一套强大的扩展程序，以提高您的工作效率。",
+    "u": 1639744212113
+  },
+  "about_good_job": {
+    "message": "如果您认为我做得很好，请予以捐赠 :)",
+    "u": 1639744226159
+  },
+  "about_income": {
+    "message": "您的捐款是我唯一的收入来源！",
+    "u": 1639744240648
+  },
+  "about_thanks": {
+    "message": "感谢您支持我的工作！",
+    "u": 1639744331334
+  },
+  "o_tab_settings": {
+    "message": "设置",
+    "u": 1639744343372
+  },
+  "o_pixels": {
+    "message": "像素",
+    "u": 1639744348732
+  },
+  "o_seconds": {
+    "message": "秒",
+    "u": 1639744360615
+  },
+  "label_or": {
+    "message": "或者",
+    "u": 1639744400933
+  },
+  "o_about_issues": {
+    "message": "报告问题：",
+    "u": 1639744415083
+  },
+  "o_about_support_by_iban": {
+    "message": "使用 IBAN 进行银行转账：",
+    "u": 1639744428522
+  },
+  "ps_no_results": {
+    "message": "无匹配结果",
+    "u": 1639744433775
+  },
+  "label_no_data": {
+    "message": "无数据",
+    "u": 1639744445841
+  },
+  "dark_mode": {
+    "message": "深色模式",
+    "u": 1639744458173
+  },
+  "dark_mode_system": {
+    "message": "跟随系统",
+    "u": 1639744468697
+  },
+  "_description_features": {
+    "message": "特征：",
+    "u": 1639744491518
+  },
+  "_description_why": {
+    "message": "为什么？",
+    "u": 1639744496789
+  },
+  "_description_privacy_policy": {
+    "message": "隐私政策",
+    "u": 1639744509372
+  },
+  "_description_common_tags": {
+    "message": "标签：",
+    "u": 1639744517570
+  },
+  "_description_recent_features": {
+    "message": "最近添加的功能：",
+    "u": 1639838234352
+  },
+  "_description_also_for_firefox": {
+    "message": "也支持 Firefox：",
+    "u": 1639838249920
+  },
+  "_description_also_for_thunderbird": {
+    "message": "也支持 Thunderbird：",
+    "u": 1639838256765
+  }
+}
