@@ -66,7 +66,8 @@
     "message": "Bookmarks laden"
   },
   "load_top_pages": {
-    "message": "Die am häufigsten verwendeten Seiten laden"
+    "message": "Am häufigsten verwendete Seiten laden",
+    "u": 1647403365408
   },
   "group_generated_name": {
     "message": "Gruppe $1"
@@ -891,7 +892,8 @@
     "message": "Alle Links öffnen"
   },
   "live_dial_opt_no_interaction": {
-    "message": "Die Interaktion mit der Seite deaktivieren"
+    "message": "Seiteninteraktion deaktivieren",
+    "u": 1647403349141
   },
   "live_dial_opt_hide_scrollbars": {
     "message": "Scrollbars ausblenden"
@@ -1110,7 +1112,8 @@
     "message": "Alles zurücksetzen"
   },
   "label_coming_soon": {
-    "message": "Kommt dämnächst!"
+    "message": "Kommt bald!",
+    "u": 1647403064746
   },
   "label_save_changes": {
     "message": "speichern"
@@ -1137,7 +1140,8 @@
     "message": "Hülle"
   },
   "ed_thumbnail_position_3": {
-    "message": "Füllen (strecken)"
+    "message": "Ausfüllen (strecken)",
+    "u": 1647403003522
   },
   "ds_fetch_new_name": {
     "message": "Den Dialtitel während des Neuladens aktualisieren (benötigt JavaScript)"
@@ -1146,7 +1150,8 @@
     "message": "Während des Neuladens (oder autom. Neuladens) wird der Dialtitel in den aktuellen Seitentitel geändert. Damit dies funktioniert, muss JavaScript aktiviert sein."
   },
   "ds_no_script": {
-    "message": "Deaktivieren Sie JavaScript beim erneuten Laden"
+    "message": "JavaScript beim erneuten Laden deaktivieren",
+    "u": 1647402986919
   },
   "ds_no_script_title": {
     "message": "Die Deaktivierung von JavaScript kann bei der Erstellung von Thumbnails für einige Seiten hilfreich sein."
@@ -1305,7 +1310,8 @@
     "message": "Synchronisations-Einstellungen"
   },
   "o_disable_dials_sync": {
-    "message": "Synchronisation auf diesem Gerät deaktivieren"
+    "message": "Synchronisation auf dem Gerät deaktivieren",
+    "u": 1647402957497
   },
   "o_disable_dials_sync_title": {
     "message": "Ihre Dials werden NICHT in der Cloud gesichert. Stellen Sie sicher, dass Sie regelmäßig lokale Sicherungen erstellen, um Datenverlust zu vermeiden!"
@@ -1389,7 +1395,8 @@
     "message": "Anmeldung ausblenden"
   },
   "o_hide_login_part_title": {
-    "message": "Die \"Anmelden / Konto erstellen\" Labels, oder Ihren Cloudnamen verstecken, wenn Sie eingeloggt sind."
+    "message": "Die \"Anmelden/Konto erstellen\" Labels, oder Ihren Cloudnamen verstecken, wenn eingeloggt.",
+    "u": 1647402915969
   },
   "o_hide_top_bar": {
     "message": "Gruppen ausblenden und sich anmelden"
@@ -1398,7 +1405,8 @@
     "message": "Standard: deaktiviert - Wenn das eingestellt ist, wird die Gruppenliste und Login ausgeblendet."
   },
   "o_hide_add_group": {
-    "message": "Den \"+\" Button am Ende der Gruppenliste ausblenden"
+    "message": "\"+\" Button am Ende der Gruppenliste ausblenden",
+    "u": 1647402854393
   },
   "o_hide_add_group_title": {
     "message": "+ Button versteckten"
@@ -1446,7 +1454,8 @@
     "message": "Bearbeitung mit Linksklick deaktivieren"
   },
   "o_disable_quick_edit_title": {
-    "message": "Bei Linksklick auf einen leeren Dial, wird das Bearbeitungsfeld nicht mehr angezeigt."
+    "message": "Bei Linksklick auf leeren Dial, wird das Bearbeitungsfeld nicht mehr angezeigt.",
+    "u": 1647402845698
   },
   "o_open_always_new_window": {
     "message": "Immer in neuem Fenster öffnen"
@@ -1458,7 +1467,8 @@
     "message": "Immer in neuem Tab öffnen"
   },
   "o_open_always_new_tab_title": {
-    "message": "Bei Klick auf einen Dial wird die URL in einem neuen Tab geöffnet"
+    "message": "Bei Klick auf einen Dial wird die URL im neuen Tab geöffnet",
+    "u": 1647402792124
   },
   "o_open_always_include_group_dials": {
     "message": "Inklusive Gruppendials"
@@ -1521,10 +1531,12 @@
     "message": "Hohe Auflösung verwenden"
   },
   "o_visit_jpeg_high_resolution_title": {
-    "message": "Thumbnail hat die doppelte Auflösung, um die Qualität zu verbessern."
+    "message": "Thumbnail hat doppelte Auflösung, zur Qualitätsverbesserung.",
+    "u": 1647402746108
   },
   "o_current_dial_dimensions": {
-    "message": "Die aktuellen Dialeinstellungen verwenden (nicht empfohlen)"
+    "message": "Aktuelle Dialeinstellungen verwenden (nicht empfohlen)",
+    "u": 1647402685223
   },
   "o_current_dial_dimensions_title": {
     "message": "Wenn diese Option aktiviert ist, wird die aktuelle Dialgröße für die Zielauflösung verwendet. Wenn diese Option deaktiviert ist, wird die Auflösung der Zielwahl basierend auf der Monitorauflösung und den Gruppenzeilen/Spalten berechnet."
@@ -1644,7 +1656,8 @@
     "message": "z.B.: https://www.google.de/"
   },
   "o_redirect_url_title": {
-    "message": "WARNUNG: Sie können nur Links für Webseiten verwenden. Interne Seiten wie \"about:newtab\" laufen nicht! Eine Ausnahme ist \"about:blank\"."
+    "message": "WARNUNG: Sie können nur Webseitenlinks verwenden. Interne Seiten wie \"about:newtab\" laufen nicht! Eine Ausnahme ist \"about:blank\".",
+    "u": 1647402665220
   },
   "o_groups": {
     "message": "Gruppen:"
@@ -1800,13 +1813,15 @@
     "message": "Kontextmenü auf der Dialseite:"
   },
   "o_backup_restore": {
-    "message": "Sichern oder Wiederherstellen der Datei-Einstellungen:"
+    "message": "Sichern/Wiederherstellen der Dateieinstellungen:",
+    "u": 1647402565119
   },
   "o_export_dials": {
     "message": "Einstellungen und Dials exportieren"
   },
   "o_export_thumbnails": {
-    "message": "exportieren Sie auch Thumbnails - dadurch wird die Exportdatei erheblich größer"
+    "message": "auch Thumbnails exportieren - dadurch wird die Exportdatei erheblich größer",
+    "u": 1647402481959
   },
   "o_import_other_addons": {
     "message": "Import von anderen Addons:"
@@ -2566,8 +2581,8 @@
     "u": 1641253860175
   },
   "o_on_hover_show_url": {
-    "message": "Bei Mauszeiger Dial-URL anzeigen",
-    "u": 1641253909010
+    "message": "Bei Mausüber Dial-URL anzeigen",
+    "u": 1647403944508
   },
   "label_layout": {
     "message": "Layout",
@@ -2594,8 +2609,8 @@
     "u": 1641254106404
   },
   "group_layout_scroll": {
-    "message": "Scroll Dials",
-    "u": 1641254183180
+    "message": "Dials blättern",
+    "u": 1647404017844
   },
   "group_layout_dynamic": {
     "message": "Dynamisch",
@@ -2612,5 +2627,25 @@
   "eg_dial_size": {
     "message": "Dialgröße",
     "u": 1641254324624
+  },
+  "o_open_always_stop_opener_id_title": {
+    "message": "Wenn der Tab in Bezug zum aktuellen Tab geöffnet wird, wird er in der Nähe des aktuellen platziert, und nach dem Schließen, der öffnende (übergeordnete) neu fokussiert.",
+    "u": 1647404231338
+  },
+  "o_open_always_stop_opener_id": {
+    "message": "Öffnen ohne Bezug/Position zum aktuellen Tab",
+    "u": 1647404288306
+  },
+  "label_option_conflict_with": {
+    "message": "Konflikt mit der \"$1\" Option.",
+    "u": 1647404370688
+  },
+  "make_group_default_title": {
+    "message": "Die Gruppe beim Start öffnen",
+    "u": 1647404424630
+  },
+  "make_group_default": {
+    "message": "Standard",
+    "u": 1647404434307
   }
 }

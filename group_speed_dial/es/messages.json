@@ -1292,7 +1292,8 @@
     "message": "Volver a la pestaña anterior"
   },
   "o_add_current_after_action_2": {
-    "message": "Quedarse en panel de diapositivas"
+    "message": "Quedarse en el panel de diapositivas",
+    "u": 1644337539247
   },
   "o_theme_title": {
     "message": "Por defecto: negro - ¡para dormir mejor por la noche!"
@@ -2635,5 +2636,25 @@
   "eg_dial_size": {
     "message": "Tamaño de la diapositiva",
     "u": 1639920352353
+  },
+  "make_group_default_title": {
+    "message": "Abrir este grupo al inicio",
+    "u": 1644251465589
+  },
+  "label_option_conflict_with": {
+    "message": "Conflicto con la opción \"$1\"",
+    "u": 1644251649981
+  },
+  "make_group_default": {
+    "message": "Defecto",
+    "u": 1644251536912
+  },
+  "o_open_always_stop_opener_id_title": {
+    "message": "Si la pestaña se abre con relación a la pestaña actual, se coloca cerca de la pestaña actual, y después de cerrarla, se vuelve a enfocar la pestaña (principal) abierta.",
+    "u": 1644252219085
+  },
+  "o_open_always_stop_opener_id": {
+    "message": "Abrir sin relación / posición con la pestaña actual",
+    "u": 1644252315856
   }
 }

@@ -512,9 +512,9 @@
     "u": 1640173267962
   },
   "about_thanks": {
-    "message": "谢谢您支持我的工作！",
+    "message": "感谢您对我工作的支持！",
     "common": true,
-    "u": 1640173253652
+    "u": 1646737759174
   },
   "op_help": {
     "message": "帮助",
@@ -763,5 +763,65 @@
   "_description_common_tags": {
     "message": "标签：",
     "common": true
+  },
+  "empty": {
+    "message": "空的",
+    "u": 1646737753995
+  },
+  "save_before_remove": {
+    "message": "规则已删除，名称：“$1”，高亮显示：“$2”",
+    "u": 1646737858869
+  },
+  "show_matches_list": {
+    "message": "在屏幕侧边显示所有匹配项",
+    "u": 1646737888158
+  },
+  "history_of_changes": {
+    "message": "更新历史",
+    "u": 1646737910362
+  },
+  "restore_backup": {
+    "message": "恢复备份",
+    "u": 1646737919909
+  },
+  "restore_rule": {
+    "message": "恢复规则",
+    "u": 1646737928643
+  },
+  "default_style": {
+    "message": "默认样式",
+    "u": 1646737934528
+  },
+  "list_style": {
+    "message": "所有匹配列表",
+    "u": 1646737948426
+  },
+  "list_position": {
+    "message": "列表位置",
+    "u": 1646737957437
+  },
+  "list_width": {
+    "message": "列表宽度",
+    "u": 1646737961265
+  },
+  "list_item_height": {
+    "message": "列表项高度",
+    "u": 1646737972381
+  },
+  "label_left": {
+    "message": "左",
+    "u": 1646737980431
+  },
+  "label_right": {
+    "message": "右",
+    "u": 1646737984231
+  },
+  "use_list_for_new": {
+    "message": "自动用于新规则",
+    "u": 1646737994145
+  },
+  "add_note_to_rule": {
+    "message": "添加注释",
+    "u": 1646738020477
   }
 }

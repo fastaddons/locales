@@ -1619,9 +1619,6 @@
   "o_safari_dials_page_hotkeys": {
     "message": "Keyboard Shortcuts to open dials page:"
   },
-  "o_how_to_homepage": {
-    "message": "to set $app_name$ as Homepage - click on \"Copy homepage link\" button and then paste it in Browser / Options / Home page"
-  },
   "o_redirect_url": {
     "message": "Override \"New tab\" page with URL:"
   },
@@ -1704,7 +1701,7 @@
     "message": "Dialed dials will be opened always in new tabs."
   },
   "o_key_next_to_current": {
-    "message": "next to current tab"
+    "message": "Next to current tab"
   },
   "o_key_next_to_current_title": {
     "message": "Dialed dials will be opened next to current tab."
@@ -1796,23 +1793,8 @@
   "o_import_other_addons": {
     "message": "Import from other add-ons:"
   },
-  "o_import_josep": {
-    "message": "Import dials from \"Speed Dial by Josep del Rio\" add-on:"
-  },
-  "o_import_fvd": {
-    "message": "Import dials from \"Speed Dial [FVD] by Nimbus Web\" add-on:"
-  },
   "o_import_firefox_bookmarks": {
     "message": "Import dials from Firefox bookmarks \".json\" file:"
-  },
-  "o_import_fast_dial": {
-    "message": "Import dials from \"Fast Dial by telega\" add-on:"
-  },
-  "o_import_super_start_bookmarks": {
-    "message": "Import dials from \"Super Start by cyberscorpio\" add-on:"
-  },
-  "o_import_speed_dial_2": {
-    "message": "Import dials from \"Speed Dial 2 by speeddial2.com\" add-on:"
   },
   "o_replace_existing": {
     "message": "Replace existing dials"
@@ -2587,5 +2569,21 @@
   },
   "eg_dial_size": {
     "message": "Dial size"
+  },
+  "make_group_default": {
+    "message": "Default"
+  },
+  "make_group_default_title": {
+    "message": "Open this group on start"
+  },
+  "label_option_conflict_with": {
+    "message": "Conflict with \"$1\" option",
+    "common": true
+  },
+  "o_open_always_stop_opener_id": {
+    "message": "Open without relation / position to current tab"
+  },
+  "o_open_always_stop_opener_id_title": {
+    "message": "If tab is opened with relation to current tab, it's placed close to current tab, and after it's closed, opening (parent) tab is re-focused."
   }
 }

@@ -302,8 +302,8 @@
     "u": 1639048720010
   },
   "status_type_1": {
-    "message": "已结束",
-    "u": 1639048741911
+    "message": "已完结",
+    "u": 1644409520478
   },
   "status_type_2": {
     "message": "待定",
@@ -314,8 +314,8 @@
     "u": 1639048899460
   },
   "status_type_title_1": {
-    "message": "已完结 - 没有推出新季的计划",
-    "u": 1639048857958
+    "message": "已完结 - 无后续更新计划",
+    "u": 1645371533916
   },
   "status_type_title_2": {
     "message": "该剧未来是否出新尚不清楚",
@@ -390,16 +390,16 @@
     "u": 1639315725491
   },
   "about_thanks": {
-    "message": "感谢您支持我的工作！",
-    "u": 1639397279605
+    "message": "感谢您对我工作的支持！",
+    "u": 1646737705196
   },
   "o_about_support_by_iban": {
     "message": "使用 IBAN 进行银行转账：",
     "u": 1639315712022
   },
   "_description_credits": {
-    "message": "鸣谢:",
-    "u": 1639220925856
+    "message": "鸣谢：",
+    "u": 1645371469593
   },
   "support_developer": {
     "message": "支持独立开发者！",

@@ -2543,5 +2543,93 @@
   "pixels_short": {
     "message": "px",
     "u": 1642156906457
+  },
+  "file_load_drop_help": {
+    "message": "Obrázok z PC môžeš potiahnuť a pustiť priamo na dlaždicu.",
+    "u": 1643724791709
+  },
+  "resize_dial_v_third": {
+    "message": "Vertikálne tri",
+    "u": 1643724826174
+  },
+  "resize_dial_h_third": {
+    "message": "Horizontálne tri",
+    "u": 1643724831665
+  },
+  "resize_dial_v_fourth": {
+    "message": "Vertikálne štyri",
+    "u": 1643724837936
+  },
+  "resize_dial_h_fourth": {
+    "message": "Horizontálne štyri",
+    "u": 1643724848646
+  },
+  "label_tip": {
+    "message": "Tip:",
+    "u": 1643727296184
+  },
+  "o_on_hover_show_url": {
+    "message": "Zobraz URL (link) pri presunutí kurzoru nad dlaždicu",
+    "u": 1643727459466
+  },
+  "label_layout": {
+    "message": "Rozloženie",
+    "u": 1643727559416
+  },
+  "label_style": {
+    "message": "Štýl",
+    "u": 1643727562082
+  },
+  "label_actions": {
+    "message": "Akcie",
+    "u": 1643727564472
+  },
+  "group_layout": {
+    "message": "Rozloženie skupiny",
+    "u": 1643727570862
+  },
+  "group_layout_fill": {
+    "message": "vyplniť miesto",
+    "u": 1643727742777
+  },
+  "group_layout_center": {
+    "message": "dlaždice v strede",
+    "u": 1643727596989
+  },
+  "group_layout_scroll": {
+    "message": "skrolovacie dlaždice",
+    "u": 1643727735868
+  },
+  "group_layout_dynamic": {
+    "message": "dynamické",
+    "u": 1643727752460
+  },
+  "eg_dial_aspect_ratio": {
+    "message": "Pomer strán dlaždice",
+    "u": 1643727780592
+  },
+  "eg_dial_size": {
+    "message": "Veľkosť dlaždice",
+    "u": 1643727786113
+  },
+  "make_group_default": {
+    "message": "Predvolená",
+    "u": 1643727796112
+  },
+  "make_group_default_title": {
+    "message": "Otvoriť túto skupinu pri štarte",
+    "u": 1643727816620
+  },
+  "label_option_conflict_with": {
+    "message": "Konflikt s nastavením \" $1\"",
+    "u": 1643727865101
+  },
+  "o_open_always_stop_opener_id": {
+    "message": "Otvoriť bez naviazania na aktuálnu kartu",
+    "u": 1643727910205
+  },
+  "o_open_always_stop_opener_id_title": {
+    "message": "Ak je karta otvorená s naviazaním na aktuálnu kartu, bude otvorená blízko aktuálnej karty a po jej zavretí sa rodičovská karta opäť aktivuje.",
+    "u": 1643727997742
   }
 }

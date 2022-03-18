@@ -699,5 +699,67 @@
   "_description_common_tags": {
     "message": "Tags:",
     "common": true
+  },
+  "empty": {
+    "message": "empty"
+  },
+  "save_before_remove": {
+    "message": "Rule deleted, name: \"$1\", highlighting: \"$2\""
+  },
+  "show_matches_list": {
+    "message": "Show all matches on the side of the screen"
+  },
+  "history_of_changes": {
+    "message": "History of changes"
+  },
+  "restore_backup": {
+    "message": "Restore backup"
+  },
+  "restore_rule": {
+    "message": "Restore rule"
+  },
+  "default_style": {
+    "message": "Default style"
+  },
+  "list_style": {
+    "message": "All matches list"
+  },
+  "list_position": {
+    "message": "List position"
+  },
+  "list_width": {
+    "message": "List width"
+  },
+  "list_item_height": {
+    "message": "List item height"
+  },
+  "use_list_for_new": {
+    "message": "Automatically use for new rules"
+  },
+  "label_left": {
+    "message": "Left",
+    "common": true
+  },
+  "label_right": {
+    "message": "Right",
+    "common": true
+  },
+  "add_note_to_rule": {
+    "message": "Add note"
+  },
+  "storage": {
+    "message": "Storage"
+  },
+  "storage_area_sync": {
+    "message": "Synchronized"
+  },
+  "storage_area_local": {
+    "message": "Local"
+  },
+  "storage_area_help": {
+    "message": "Using synchronized store will backup your rules in the cloud (up to 500 rules) and synchronize them with all your devices."
+  },
+  "perf_delayed_highlight": {
+    "message": "Delay initial highlight on page load to improve performance"
   }
 }
