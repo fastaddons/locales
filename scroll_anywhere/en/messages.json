@@ -417,10 +417,10 @@
     "message": "Disabled on this domain"
   },
   "not_working_title": {
-    "message": "Your browser will block ScrollAnywhere on these type of pages:"
+    "message": "Your browser will block $app_name$ on these type of pages:"
   },
   "not_working_body": {
-    "message": "To enable ScrollAnywhere on \"mozilla.org\" pages, see this YouTube tutorial"
+    "message": "To enable $app_name$ on \"mozilla.org\" pages, see this YouTube tutorial"
   },
   "show_scrollbars": {
     "message": "Show scrollbars"
@@ -444,7 +444,7 @@
     "message": "Hello :)"
   },
   "o_about_intro": {
-    "message": "My name is $1 and I'm the author of $app_name$.",
+    "message": "My name is $1$ and I'm the author of $app_name$.",
     "placeholders": {
       "1": {
         "content": "Juraj Mäsiar"
@@ -552,5 +552,26 @@
   "_description_common_tags": {
     "message": "Tags:",
     "common": true
+  },
+  "o_axis_lock_3": {
+    "message": "Vertical only scrolling"
+  },
+  "o_axis_lock_4": {
+    "message": "Horizontal only scrolling"
+  },
+  "o_paste_with_middle": {
+    "message": "Use middle click to \"paste\" content of the clipboard"
+  },
+  "o_allow_other_mouse_down_handlers": {
+    "message": "Allow other \"mousedown\" event handlers while scrolling"
+  },
+  "o_cursor_vertical": {
+    "message": "Vertical scrolling"
+  },
+  "o_cursor_horizontal": {
+    "message": "Horizontal scrolling"
+  },
+  "o_cursor_both": {
+    "message": "Both direction scrolling"
   }
 }

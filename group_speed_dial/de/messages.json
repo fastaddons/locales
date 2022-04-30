@@ -2647,5 +2647,13 @@
   "make_group_default": {
     "message": "Standard",
     "u": 1647404434307
+  },
+  "o_activate_group_hover": {
+    "message": "Gruppe bei Mouseover öffnen",
+    "u": 1650194171869
+  },
+  "label_deprecated": {
+    "message": "Das funktioniert möglicherweise in zukünftigen Browserversionen nicht mehr",
+    "u": 1650194259652
   }
 }

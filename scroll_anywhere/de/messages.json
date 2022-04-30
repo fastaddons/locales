@@ -656,5 +656,33 @@
     "message": "Tags:",
     "common": true,
     "u": 1631548954690
+  },
+  "o_cursor_both": {
+    "message": "In beide Richtungen scrollen",
+    "u": 1650193789376
+  },
+  "o_cursor_horizontal": {
+    "message": "Horizontales Scrollen",
+    "u": 1650193814862
+  },
+  "o_cursor_vertical": {
+    "message": "Vertikales Scrollen",
+    "u": 1650193831905
+  },
+  "o_allow_other_mouse_down_handlers": {
+    "message": "Andere \"Maus runter\" Eventhandler beim Scrollen zulassen",
+    "u": 1650193947646
+  },
+  "o_paste_with_middle": {
+    "message": "Mittlere Maustaste verwenden, um den Zwischenablageninhalt einzufügen",
+    "u": 1650194070342
+  },
+  "o_axis_lock_4": {
+    "message": "Nur horizontales Scrollen",
+    "u": 1650194092057
+  },
+  "o_axis_lock_3": {
+    "message": "Nur vertikales Scrollen",
+    "u": 1650194118637
   }
 }

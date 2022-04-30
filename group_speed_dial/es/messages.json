@@ -2656,5 +2656,13 @@
   "o_open_always_stop_opener_id": {
     "message": "Abrir sin relación / posición con la pestaña actual",
     "u": 1644252315856
+  },
+  "label_deprecated": {
+    "message": "Esta función puede dejar de funcionar en futuras versiones de su navegador",
+    "u": 1649017599661
+  },
+  "o_activate_group_hover": {
+    "message": "Abrir grupo al pasar el ratón por encima",
+    "u": 1649017630652
   }
 }

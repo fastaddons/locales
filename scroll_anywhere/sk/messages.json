@@ -547,5 +547,33 @@
   "_description_common_tags": {
     "message": "Tagy:",
     "common": true
+  },
+  "o_axis_lock_3": {
+    "message": "Iba vertikálne skrolovanie",
+    "u": 1649762837026
+  },
+  "o_axis_lock_4": {
+    "message": "Iba horizontálne skrolovanie",
+    "u": 1649762851299
+  },
+  "o_paste_with_middle": {
+    "message": "Použi kliknutie stredným tlačidlom na \"vloženie\" skopírovaného textu",
+    "u": 1649762991226
+  },
+  "o_allow_other_mouse_down_handlers": {
+    "message": "",
+    "u": 1649763072440
+  },
+  "o_cursor_vertical": {
+    "message": "Vertikálne skrolovanie",
+    "u": 1649763085145
+  },
+  "o_cursor_horizontal": {
+    "message": "Horizontálne skrolovanie",
+    "u": 1649763144271
+  },
+  "o_cursor_both": {
+    "message": "Skrolovanie v oboch smeroch",
+    "u": 1649764198696
   }
 }

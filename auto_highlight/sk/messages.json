@@ -663,5 +663,89 @@
   "_description_common_tags": {
     "message": "Tagy:",
     "common": true
+  },
+  "empty": {
+    "message": "prázdny",
+    "u": 1649849551059
+  },
+  "save_before_remove": {
+    "message": "Pravidlo vymazané, \" $1\", zvýrazňuje: \" $2\"",
+    "u": 1649849587939
+  },
+  "show_matches_list": {
+    "message": "Zobraziť prehľad výskytov na kraji obrazovky",
+    "u": 1649849668253
+  },
+  "history_of_changes": {
+    "message": "História zmien",
+    "u": 1649849674530
+  },
+  "restore_backup": {
+    "message": "Obnoviť zálohu",
+    "u": 1649849679044
+  },
+  "restore_rule": {
+    "message": "Obnoviť pravidlo",
+    "u": 1649849687016
+  },
+  "default_style": {
+    "message": "Predvolený štýl",
+    "u": 1649849697415
+  },
+  "list_style": {
+    "message": "Prehľad výskytov",
+    "u": 1649849720272
+  },
+  "list_position": {
+    "message": "Pozícia zoznamu",
+    "u": 1649849736019
+  },
+  "list_width": {
+    "message": "Šírka zoznamu",
+    "u": 1649849746267
+  },
+  "list_item_height": {
+    "message": "Výška jedného výskytu",
+    "u": 1649849802365
+  },
+  "use_list_for_new": {
+    "message": "Automaticky použiť pre nové pravidlá",
+    "u": 1649849820045
+  },
+  "label_left": {
+    "message": "Ľavo",
+    "u": 1649849824746
+  },
+  "label_right": {
+    "message": "Pravo",
+    "u": 1649849826370
+  },
+  "add_note_to_rule": {
+    "message": "Pridať poznámku",
+    "u": 1649849841852
+  },
+  "storage": {
+    "message": "Úložisko",
+    "u": 1649849859997
+  },
+  "storage_area_sync": {
+    "message": "Synchronizované",
+    "u": 1649849865852
+  },
+  "storage_area_local": {
+    "message": "Lokálne",
+    "u": 1649849870526
+  },
+  "storage_area_help": {
+    "message": "Synchronizované úložisko je automaticky zálohované a synchronizuje pravidlá medzi Vašimi zariadeniami (až okolo 500 pravidiel).",
+    "u": 1649850019246
+  },
+  "firefox_import_in_tab": {
+    "message": "Pre import zálohy, otvorte toto okno na novej karte.",
+    "u": 1649850047877
+  },
+  "experimental": {
+    "message": "Experimentálne",
+    "u": 1649850054221
   }
 }

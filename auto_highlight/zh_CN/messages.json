@@ -823,5 +823,29 @@
   "add_note_to_rule": {
     "message": "添加注释",
     "u": 1646738020477
+  },
+  "storage": {
+    "message": "储存空间",
+    "u": 1648218345269
+  },
+  "storage_area_sync": {
+    "message": "已同步",
+    "u": 1648218361764
+  },
+  "storage_area_local": {
+    "message": "本地",
+    "u": 1648218367468
+  },
+  "experimental": {
+    "message": "实验性",
+    "u": 1648218377502
+  },
+  "storage_area_help": {
+    "message": "使用同步存储将在云端备份您的规则（最多 500 条），从而实现跨设备同步",
+    "u": 1648218484551
+  },
+  "firefox_import_in_tab": {
+    "message": "要导入备份，请在新标签页中重新打开此窗口",
+    "u": 1648218536625
   }
 }

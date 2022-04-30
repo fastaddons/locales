@@ -759,7 +759,17 @@
   "storage_area_help": {
     "message": "Using synchronized store will backup your rules in the cloud (up to 500 rules) and synchronize them with all your devices."
   },
-  "perf_delayed_highlight": {
-    "message": "Delay initial highlight on page load to improve performance"
+  "firefox_import_in_tab": {
+    "message": "To import your backup, reopen this window in a new tab.",
+    "common": true
+  },
+  "experimental": {
+    "message": "Experimental"
+  },
+  "matches_count": {
+    "message": "Matches count"
+  },
+  "add_to_rule": {
+    "message": "Add $1 to existing rule"
   }
 }

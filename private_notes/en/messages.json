@@ -96,7 +96,7 @@
     "message": "It's easy to forget new password in the first few hours."
   },
   "remember_pwd_2": {
-    "message": "I will help you remember your password by asking you to enter it after 3h, 6h, 12h, 24h, 48h, 4 days, 8 days, 16 days and then once a month."
+    "message": "I will help you to remember your password by asking you to enter it after 3h, 6h, 12h, 24h, 48h, 4 days, 8 days, 16 days and then once a month."
   },
   "pwd_save": {
     "message": "Save new password"
@@ -342,5 +342,11 @@
   },
   "_description_common_tags": {
     "message": "Tags:"
+  },
+  "open_in_sidebar": {
+    "message": "Open in Sidebar"
+  },
+  "open_in_modal_window": {
+    "message": "Open in modal window"
   }
 }

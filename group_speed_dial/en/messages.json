@@ -146,17 +146,11 @@
   "add_image": {
     "message": "Insert image"
   },
-  "bc_first_group": {
-    "message": "First group created"
-  },
   "show_all_groups": {
     "message": "Show all groups"
   },
   "fr_home_group": {
     "message": "Home group"
-  },
-  "err_db_settings_loading": {
-    "message": "Exception while loading settings and database"
   },
   "err_db_creation": {
     "message": "Error while creating database"
@@ -319,9 +313,6 @@
   },
   "save_dial_resized": {
     "message": "dial resized - $1"
-  },
-  "save_group_rc_color": {
-    "message": "group row/column color changed"
   },
   "save_group_moved": {
     "message": "group moved - $1"
@@ -1836,7 +1827,7 @@
     "message": "Watch a tutorial on YouTube"
   },
   "o_cloud_backup_instead": {
-    "message": "However you can just create a free account in cloud and your dials will be automatically backed up in the cloud. All data are transferred over encrypted HTTPS connection."
+    "message": "You can also create a free Cloud account and your dials will be automatically backed up in the cloud. All data are transferred over encrypted HTTPS connection."
   },
   "reload_heading": {
     "message": "$app_name$ - thumbnails reloading tab"
@@ -2585,5 +2576,12 @@
   },
   "o_open_always_stop_opener_id_title": {
     "message": "If tab is opened with relation to current tab, it's placed close to current tab, and after it's closed, opening (parent) tab is re-focused."
+  },
+  "label_deprecated": {
+    "message": "This feature may stop working in the future versions of your browser",
+    "common": true
+  },
+  "o_activate_group_hover": {
+    "message": "Open group on mouse-over"
   }
 }

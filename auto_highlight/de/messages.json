@@ -733,5 +733,93 @@
     "message": "Tags:",
     "common": true,
     "u": 1631538508725
+  },
+  "matches_count": {
+    "message": "Passendee zählen",
+    "u": 1650192887542
+  },
+  "experimental": {
+    "message": "Experimentell",
+    "u": 1650192924308
+  },
+  "firefox_import_in_tab": {
+    "message": "Zum Backup importieren, öffnen Sie dieses Fenster im neuen Tab.",
+    "u": 1650193000634
+  },
+  "storage_area_help": {
+    "message": "Die Verwendung des synchronisierten Speichers sichert Ihre Regeln in der Cloud (bis zu 500 Regeln) und synchronisiert sie mit all Ihren Geräten.",
+    "u": 1650193049768
+  },
+  "storage_area_local": {
+    "message": "Lokal",
+    "u": 1650193070834
+  },
+  "storage_area_sync": {
+    "message": "Synchronisiert",
+    "u": 1650193092033
+  },
+  "storage": {
+    "message": "Speicher",
+    "u": 1650193114479
+  },
+  "add_note_to_rule": {
+    "message": "Notiz hinzufügen",
+    "u": 1650193131635
+  },
+  "label_right": {
+    "message": "Rechts",
+    "u": 1650193138363
+  },
+  "label_left": {
+    "message": "Links",
+    "u": 1650193147268
+  },
+  "use_list_for_new": {
+    "message": "Automatisch für neue Regeln verwenden",
+    "u": 1650193169269
+  },
+  "list_item_height": {
+    "message": "Listenelementhöhe",
+    "u": 1650193193185
+  },
+  "list_width": {
+    "message": "Listenbreite",
+    "u": 1650193224446
+  },
+  "list_position": {
+    "message": "Listenposition",
+    "u": 1650193272184
+  },
+  "list_style": {
+    "message": "Liste aller Passenden",
+    "u": 1650193326602
+  },
+  "default_style": {
+    "message": "Standardstil",
+    "u": 1650193354053
+  },
+  "restore_rule": {
+    "message": "Regel wiederherstellen",
+    "u": 1650193376182
+  },
+  "restore_backup": {
+    "message": "Backup wiederherstellen",
+    "u": 1650193477752
+  },
+  "history_of_changes": {
+    "message": "Änderungsverlauf",
+    "u": 1650193528578
+  },
+  "show_matches_list": {
+    "message": "Alle Passenden an der Bildschirmseite anzeigen",
+    "u": 1650193648847
+  },
+  "empty": {
+    "message": "leer",
+    "u": 1650193665249
+  },
+  "save_before_remove": {
+    "message": "Regel gelöscht, Name: \"$1\", Hervorhebung: \"$2\"",
+    "u": 1650193705575
   }
 }

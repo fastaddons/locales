@@ -415,5 +415,13 @@
   },
   "_description_common_tags": {
     "message": "标签："
+  },
+  "open_in_sidebar": {
+    "message": "在侧边栏打开",
+    "u": 1649641584109
+  },
+  "open_in_modal_window": {
+    "message": "在模态窗口打开",
+    "u": 1649641603440
   }
 }

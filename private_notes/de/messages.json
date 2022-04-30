@@ -408,5 +408,13 @@
   "_description_common_tags": {
     "message": "Tags:",
     "u": 1631535857135
+  },
+  "open_in_sidebar": {
+    "message": "In Seitenleiste öffnen",
+    "u": 1650192780046
+  },
+  "open_in_modal_window": {
+    "message": "In modalem Fenster öffnen",
+    "u": 1650192817707
   }
 }
