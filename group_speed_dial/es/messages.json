@@ -2664,5 +2664,69 @@
   "o_activate_group_hover": {
     "message": "Abrir grupo al pasar el ratón por encima",
     "u": 1649017630652
+  },
+  "select_dials": {
+    "message": "Seleccionar diapositivas",
+    "u": 1659209092773
+  },
+  "op_cut": {
+    "message": "Cortar",
+    "u": 1653075741508
+  },
+  "op_copy": {
+    "message": "Copiar",
+    "u": 1653075746252
+  },
+  "op_paste": {
+    "message": "Pegar",
+    "u": 1653075752506
+  },
+  "set_reloading_monitor": {
+    "message": "Usar ESTE monitor para crear las miniaturas",
+    "u": 1657354803170
+  },
+  "label_limit": {
+    "message": "Límite",
+    "u": 1659208132361
+  },
+  "top_sites_help_2": {
+    "message": "Para configurarlo, visita la página:",
+    "u": 1659208163761
+  },
+  "o_export_to_html": {
+    "message": "Exportar a HTML",
+    "u": 1659208172519
+  },
+  "o_export_links_to_html": {
+    "message": "Solo exportar enlaces a un fichero HTML, compatible con los marcadores de Firefox (¡Esto no es una copia de seguridad completa!)",
+    "u": 1659209236945
+  },
+  "group_layout_list": {
+    "message": "lista",
+    "u": 1659208335143
+  },
+  "label_min_size": {
+    "message": "Tamaño mínimo:",
+    "u": 1659208979893
+  },
+  "ed_tab_top_sites": {
+    "message": "Mejores sitios",
+    "u": 1659208425949
+  },
+  "top_sites_enable": {
+    "message": "Mostrar \"Mejores sitios\" en este grupo",
+    "u": 1659208436449
+  },
+  "top_sites_help_1": {
+    "message": "Tu navegador web gestiona esta lista. Se actualizará automáticamente basado en tu actividad.",
+    "u": 1659208852197
+  },
+  "top_sites_about": {
+    "message": "Los mejores sitios es una lista de las páginas más visitadas de tu navegador",
+    "u": 1659208813202
+  },
+  "o_dial_title_center": {
+    "message": "Nombres de diapositivas centradas",
+    "u": 1659640224881
   }
 }

@@ -821,5 +821,13 @@
   "save_before_remove": {
     "message": "Regel gelöscht, Name: \"$1\", Hervorhebung: \"$2\"",
     "u": 1650193705575
+  },
+  "add_to_rule": {
+    "message": "Vorhandener Regel $1 hinzufügen",
+    "u": 1653765618615
+  },
+  "edge_store": {
+    "message": "Edge Addons",
+    "u": 1655640264745
   }
 }

@@ -2655,5 +2655,69 @@
   "label_deprecated": {
     "message": "Das funktioniert möglicherweise in zukünftigen Browserversionen nicht mehr",
     "u": 1650194259652
+  },
+  "op_paste": {
+    "message": "Einfügen",
+    "u": 1653765706584
+  },
+  "op_copy": {
+    "message": "Kopieren",
+    "u": 1653765715265
+  },
+  "op_cut": {
+    "message": "Ausschneiden",
+    "u": 1653765724975
+  },
+  "select_dials": {
+    "message": "Deals wählen",
+    "u": 1653765768556
+  },
+  "set_reloading_monitor": {
+    "message": "DIESEN Monitor zum Miniaturansichten erstellen, verwenden",
+    "u": 1656769400805
+  },
+  "group_layout_list": {
+    "message": "auflisten",
+    "u": 1659706087624
+  },
+  "o_dial_title_center": {
+    "message": "Dialnamen zentrieren",
+    "u": 1659706138941
+  },
+  "o_export_links_to_html": {
+    "message": "Links nur in HTML-Datei exportieren, kompatibel mit Firefox-Lesezeichen (dies ist keine vollständige Sicherung!)",
+    "u": 1659706199032
+  },
+  "o_export_to_html": {
+    "message": "In HTML exportieren",
+    "u": 1659706239456
+  },
+  "top_sites_help_2": {
+    "message": "Zum konfigurieren, besuchen Sie:",
+    "u": 1659706290922
+  },
+  "label_limit": {
+    "message": "Limit:",
+    "u": 1659706316437
+  },
+  "top_sites_about": {
+    "message": "Top Sites ist eine Liste der am häufigsten besuchten Browserseiten",
+    "u": 1659706379153
+  },
+  "top_sites_help_1": {
+    "message": "Ihr Browser verwaltet diese Liste. Sie wird basierend auf Ihrer Aktivität automatisch aktualisiert.",
+    "u": 1659706450727
+  },
+  "top_sites_enable": {
+    "message": "\"Top Sites\" in dieser Gruppe anzeigen",
+    "u": 1659706481749
+  },
+  "ed_tab_top_sites": {
+    "message": "Top Sites",
+    "u": 1659706490888
+  },
+  "label_min_size": {
+    "message": "Min. Größe:",
+    "u": 1659706540989
   }
 }

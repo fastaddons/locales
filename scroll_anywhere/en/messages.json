@@ -573,5 +573,8 @@
   },
   "o_cursor_both": {
     "message": "Both direction scrolling"
+  },
+  "edge_store": {
+    "message": "Edge Add-ons page"
   }
 }

@@ -140,9 +140,6 @@
   "import_export": {
     "message": "Import / Export"
   },
-  "help_this_project": {
-    "message": "Help this project"
-  },
   "about_faq": {
     "message": "About / FAQ"
   },
@@ -771,5 +768,9 @@
   },
   "add_to_rule": {
     "message": "Add $1 to existing rule"
+  },
+  "edge_store": {
+    "message": "Edge Add-ons",
+    "common": true
   }
 }

@@ -2027,7 +2027,7 @@
     "common": true
   },
   "send_runtime_errors": {
-    "message": "Click the link below to send me an e-mail with the information you can see below:",
+    "message": "Click the link below to send me an e-mail with the information displayed below:",
     "common": true
   },
   "firefox_store": {
@@ -2048,10 +2048,6 @@
   },
   "menu_quick_options": {
     "message": "Quick options",
-    "common": true
-  },
-  "menu_visit_homepage": {
-    "message": "Visit homepage",
     "common": true
   },
   "key_name_ctrl": {
@@ -2204,10 +2200,6 @@
   },
   "menu_button_title": {
     "message": "Menu",
-    "common": true
-  },
-  "menu_visit_title": {
-    "message": "Visit homepage",
     "common": true
   },
   "op_visit_home": {
@@ -2583,5 +2575,58 @@
   },
   "o_activate_group_hover": {
     "message": "Open group on mouse-over"
+  },
+  "select_dials": {
+    "message": "Select dials"
+  },
+  "op_cut": {
+    "message": "Cut",
+    "common": true
+  },
+  "op_copy": {
+    "message": "Copy",
+    "common": true
+  },
+  "op_paste": {
+    "message": "Paste",
+    "common": true
+  },
+  "set_reloading_monitor": {
+    "message": "Use THIS monitor to create thumbnails"
+  },
+  "group_layout_list": {
+    "message": "list"
+  },
+  "label_min_size": {
+    "message": "Min. size:",
+    "common": true
+  },
+  "ed_tab_top_sites": {
+    "message": "Top Sites"
+  },
+  "top_sites_enable": {
+    "message": "Show \"Top Sites\" in this group"
+  },
+  "top_sites_help_1": {
+    "message": "Your web-browser is managing this list. It will be automatically updated based on your activity."
+  },
+  "top_sites_about": {
+    "message": "Top Sites is a list of your browser most visited pages"
+  },
+  "label_limit": {
+    "message": "Limit:",
+    "common": true
+  },
+  "top_sites_help_2": {
+    "message": "To configure it, visit page:"
+  },
+  "o_export_to_html": {
+    "message": "Export to HTML"
+  },
+  "o_export_links_to_html": {
+    "message": "Export links only to HTML file, compatible with Firefox Bookmarks (this is not a complete backup!)"
+  },
+  "o_dial_title_center": {
+    "message": "Centered dial names"
   }
 }

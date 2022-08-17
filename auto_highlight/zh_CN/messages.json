@@ -847,5 +847,17 @@
   "firefox_import_in_tab": {
     "message": "要导入备份，请在新标签页中重新打开此窗口",
     "u": 1648218536625
+  },
+  "matches_count": {
+    "message": "匹配个数",
+    "u": 1652187347705
+  },
+  "add_to_rule": {
+    "message": "将 $1 添加到现有规则",
+    "u": 1652187460974
+  },
+  "edge_store": {
+    "message": "Edge 附加组件",
+    "u": 1654612669204
   }
 }

@@ -684,5 +684,9 @@
   "o_axis_lock_3": {
     "message": "Nur vertikales Scrollen",
     "u": 1650194118637
+  },
+  "edge_store": {
+    "message": "Edge Addonseite",
+    "u": 1655640313911
   }
 }

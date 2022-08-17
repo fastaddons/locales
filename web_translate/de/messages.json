@@ -313,5 +313,9 @@
   "_description_also_for_thunderbird": {
     "message": "Auch für Thunderbird erhältlich:",
     "u": 1631548129114
+  },
+  "open_in_modal_window": {
+    "message": "In modalem Fenster öffnen",
+    "u": 1655640299525
   }
 }

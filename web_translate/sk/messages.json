@@ -277,5 +277,9 @@
   },
   "_description_also_for_thunderbird": {
     "message": "K dispozícii aj pre váš Thunderbird:"
+  },
+  "open_in_modal_window": {
+    "message": "Otvoriť v modálnom okne",
+    "u": 1660741985600
   }
 }

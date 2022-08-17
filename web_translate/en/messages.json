@@ -282,5 +282,8 @@
   },
   "_description_also_for_thunderbird": {
     "message": "Available also for your Thunderbird:"
+  },
+  "open_in_modal_window": {
+    "message": "Open in modal window"
   }
 }
