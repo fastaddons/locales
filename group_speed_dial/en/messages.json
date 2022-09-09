@@ -89,20 +89,8 @@
   "replace_multi_page_dial": {
     "message": "Replace multi-page dial"
   },
-  "msg_pro_cloud_upload": {
-    "message": "Uploading thumbnails to the cloud - this allows you to see them in the"
-  },
   "msg_pro_cloud_web": {
     "message": "Cloud-dials web page"
-  },
-  "msg_pro_cloud_web_desc": {
-    "message": "Cloud version is currently not editable but it works in every browser - even in your phone!"
-  },
-  "msg_pro_same_thumbnails": {
-    "message": "Now you can have same thumbnails on every device!"
-  },
-  "msg_pro_thumbnails_download": {
-    "message": "This will download all your uploaded thumbnails from the cloud and replace your current local."
   },
   "msg_correct_account": {
     "message": "Please visit the cloud server and make sure you are logged in a correct account:"
@@ -607,12 +595,6 @@
   },
   "sync_down_thumbnails_title": {
     "message": "Downloading thumbnails"
-  },
-  "sync_download_cloud_question": {
-    "message": "Are you sure you want to download your thumbnails from cloud?"
-  },
-  "sync_download_cloud_question_2": {
-    "message": "This will replace your current local thumbnails."
   },
   "sync_download_yes": {
     "message": "Yes, download"
@@ -1274,9 +1256,6 @@
   "o_theme_title": {
     "message": "default: black - for better sleep at night!"
   },
-  "o_padding_title": {
-    "message": "Space around each dial, between two dials the value is doubled."
-  },
   "o_sync_dials": {
     "message": "Dials data synchronization"
   },
@@ -1291,9 +1270,6 @@
   },
   "o_auto_options_sync": {
     "message": "Automatically backup and synchronize your options with all devices"
-  },
-  "o_group_padding_title": {
-    "message": "Space around each group name, between two groups the value is doubled."
   },
   "o_group_font_size_title": {
     "message": "Size of text in the upper bar."
@@ -1319,14 +1295,8 @@
   "o_no_title": {
     "message": "No title on dials (thumbnails only)"
   },
-  "o_no_title_title": {
-    "message": "When enabled, all dial names will be hidden."
-  },
   "o_squared_edges": {
     "message": "No round corners"
-  },
-  "o_squared_edges_title": {
-    "message": "When enabled, dials will have sharp corners."
   },
   "o_dial_font_size": {
     "message": "Dial names Font size"
@@ -1334,23 +1304,14 @@
   "o_dial_title_down": {
     "message": "Dial names on bottom"
   },
-  "o_dial_title_down_title": {
-    "message": "When enabled, dial name will be on the bottom."
-  },
   "o_scrollable_thumbnails": {
     "message": "Allow scrolling thumbnail inside dial"
   },
   "o_no_shadow": {
     "message": "No shadow around dials"
   },
-  "o_no_shadow_title": {
-    "message": "When enabled, default shadow around dials will be hidden."
-  },
   "o_hide_empty_dials": {
     "message": "Hide empty dials"
-  },
-  "o_hide_empty_dials_title": {
-    "message": "When enabled, all empty dials will be hidden."
   },
   "o_hide_hover_shadow": {
     "message": "Hide on-hover shadow"
@@ -1361,20 +1322,11 @@
   "o_dial_numbers": {
     "message": "Show dial numbers"
   },
-  "o_hide_hover_shadow_title": {
-    "message": "When enabled, on-hover shadow will be disabled."
-  },
   "o_hide_login_part": {
     "message": "Hide login part"
   },
-  "o_hide_login_part_title": {
-    "message": "Hides \"Login / Create account\" label or your cloud name if you are logged in."
-  },
   "o_hide_top_bar": {
     "message": "Hide groups and login part"
-  },
-  "o_hide_top_bar_title": {
-    "message": "When enabled, groups list and login part will be hidden."
   },
   "o_hide_add_group": {
     "message": "Hide \"+\" button at the end of groups list"
@@ -1413,7 +1365,7 @@
     "message": "open in new tab"
   },
   "o_instant_popup_new_tab_title": {
-    "message": "New tab will be always opened next to current tab."
+    "message": "New tab will be opened next to current tab."
   },
   "o_user_consent_google_favicon": {
     "message": "Enable usage of Google service to get Favicons for dials (used only when favicon cannot be downloaded directly) - recommended"
@@ -1441,9 +1393,6 @@
   },
   "o_open_always_include_group_dials": {
     "message": "Including group-dials"
-  },
-  "o_open_always_include_group_dials_title": {
-    "message": "Also group-dials will be opened in new tab"
   },
   "o_open_always_focused": {
     "message": "Auto-switch to new tab"
@@ -1475,38 +1424,17 @@
   "o_scroll_groups_reverse": {
     "message": "Reverse scroll direction"
   },
-  "o_scroll_groups_reverse_title": {
-    "message": "Scrolling UP will scroll to next group."
-  },
   "o_scroll_groups_circle": {
     "message": "Circle through beginning/end"
   },
   "o_scroll_groups_circle_title": {
     "message": "When end is reached, further scrolling will jump to the beginning (and vice-versa)."
   },
-  "o_frame_jpeg": {
-    "message": "Use JPEG instead of PNG"
-  },
-  "o_frame_jpeg_title": {
-    "message": "JPEG format consumes less memory and takes less time to draw."
-  },
-  "o_visit_jpeg": {
-    "message": "Use JPEG instead of PNG"
-  },
-  "o_visit_jpeg_title": {
-    "message": "JPEG format consumes less memory and takes less time to draw."
-  },
   "o_visit_jpeg_high_resolution": {
     "message": "Use high resolution"
   },
   "o_visit_jpeg_high_resolution_title": {
     "message": "Thumbnail will have double resolution to improve quality."
-  },
-  "o_current_dial_dimensions": {
-    "message": "Use current dial dimensions (not recommended)"
-  },
-  "o_current_dial_dimensions_title": {
-    "message": "When enabled, current dial size will be used for target resolution. When disabled, the resolution of target dial is computed based on the monitor resolution and the group rows / columns."
   },
   "o_context_menu_show_groups": {
     "message": "Show list of groups in context menu for fast insert"
@@ -1673,9 +1601,6 @@
   "o_key_disable_f4": {
     "message": "Disable \"F4\" short-key to open New tab"
   },
-  "o_key_disable_f4_title": {
-    "message": "Pressing key \"F4\" will not open New tab."
-  },
   "o_key_f4_active_here": {
     "message": "Open dials page in active tab"
   },
@@ -1683,19 +1608,16 @@
     "message": "Disable \"Ctrl + 0\" short-key to open 10th dial"
   },
   "o_key_disable_zero_title": {
-    "message": "Pressing key \"Ctrl + 0\" (used for \"Reset zoom\") will no longer open dial number 10."
+    "message": "Pressing key \"Ctrl + 0\" (used also for \"Reset zoom\") will no longer open dial number 10."
   },
   "o_key_new_tab": {
     "message": "Open in New tab"
   },
   "o_key_new_tab_title": {
-    "message": "Dialed dials will be opened always in new tabs."
+    "message": "Dialed dials will be opened in new tabs."
   },
   "o_key_next_to_current": {
     "message": "Next to current tab"
-  },
-  "o_key_next_to_current_title": {
-    "message": "Dialed dials will be opened next to current tab."
   },
   "o_keys_delay": {
     "message": "Delay for multiple-digits numbers:"
@@ -1715,12 +1637,6 @@
   "o_ar_keep_pinned_tab_title": {
     "message": "The tab used for creating thumbnails will stay opened after the reload."
   },
-  "o_ar_concurrent_count": {
-    "message": "Maximum concurrently loading pages"
-  },
-  "o_ar_concurrent_count_title": {
-    "message": "Limit the number of pages loaded at the same time during creation of thumbnails. Lower value can save CPU and memory."
-  },
   "o_ar_screen_resolution": {
     "message": "Auto-reload target screen resolution"
   },
@@ -1738,9 +1654,6 @@
   },
   "o_vr_default_width": {
     "message": "Default virtual page width"
-  },
-  "o_vr_default_width_title": {
-    "message": "Width of the page used when generating thumbnail."
   },
   "o_thumb_timings": {
     "message": "Thumbnail generation timings and delays:"
@@ -2628,5 +2541,217 @@
   },
   "o_dial_title_center": {
     "message": "Centered dial names"
+  },
+  "o_dial_no_favicon": {
+    "message": "Hide favicons (icon next to dial name)"
+  },
+  "edge_store": {
+    "message": "Edge Add-ons page",
+    "common": true
+  },
+  "hide_dial_title": {
+    "message": "Hide dial title"
+  },
+  "lock_group": {
+    "message": "Lock this group"
+  },
+  "lock_group_help": {
+    "message": "You will be able to open this group only after entering your Master password."
+  },
+  "master_password": {
+    "message": "Master password",
+    "common": true
+  },
+  "lock_group_help_2": {
+    "message": "Data in the locked group are NOT encrypted. A skilled programmer with direct access to your computer would be eventually able to overcome the lock without your password."
+  },
+  "save_new_master_password": {
+    "message": "New master password created"
+  },
+  "setup_new_pwd": {
+    "message": "Setup new password",
+    "common": true
+  },
+  "change_pwd": {
+    "message": "Change password",
+    "common": true
+  },
+  "remember_pwd_0": {
+    "message": "Help me remember my password",
+    "common": true
+  },
+  "remember_pwd_1": {
+    "message": "It's easy to forget new password in the first few hours.",
+    "common": true
+  },
+  "remember_pwd_2": {
+    "message": "I will help you to remember your password by asking you to enter it after 3h, 6h, 12h, 24h, 48h, 4 days, 8 days, 16 days and then once a month.",
+    "common": true
+  },
+  "pwd_save": {
+    "message": "Save new password",
+    "common": true
+  },
+  "pwd_to_change": {
+    "message": "Password to change",
+    "common": true
+  },
+  "current_pwd": {
+    "message": "Current password",
+    "common": true
+  },
+  "new_pwd_advice": {
+    "message": "New password - it's better to use long and easy than short and complex",
+    "common": true
+  },
+  "repeat_pwd": {
+    "message": "Repeat new password",
+    "common": true
+  },
+  "hint_pwd": {
+    "message": "Hint for your new password",
+    "common": true
+  },
+  "incorrect_password": {
+    "message": "Incorrect password",
+    "common": true
+  },
+  "err_pwd_not_matching": {
+    "message": "Password doesn't match",
+    "common": true
+  },
+  "o_hover_zoom": {
+    "message": "Magnify dial"
+  },
+  "o_hover_bold": {
+    "message": "Make dial title bold"
+  },
+  "o_transparent_head": {
+    "message": "Transparent dial name background (puts focus on thumbnail)"
+  },
+  "mouse_over_effects": {
+    "message": "Mouse over effects:"
+  },
+  "background_type_0": {
+    "message": "Solid color"
+  },
+  "background_type_1": {
+    "message": "Gradient colors"
+  },
+  "background_type_2": {
+    "message": "Image from file"
+  },
+  "background_type_3": {
+    "message": "Image from URL"
+  },
+  "background_type_4": {
+    "message": "None"
+  },
+  "gradient_direction": {
+    "message": "Gradient direction",
+    "common": true
+  },
+  "gradient_type_0": {
+    "message": "Linear",
+    "common": true
+  },
+  "gradient_type_1": {
+    "message": "Radial - ellipse",
+    "common": true
+  },
+  "gradient_type_2": {
+    "message": "Radial - circle",
+    "common": true
+  },
+  "unlock_group": {
+    "message": "Unlock group"
+  },
+  "remember_pwd_skip": {
+    "message": "Skip (I remember it)",
+    "common": true
+  },
+  "pwd_forgot": {
+    "message": "Forgot password?",
+    "common": true
+  },
+  "password": {
+    "message": "Password",
+    "common": true
+  },
+  "pwd_unlock": {
+    "message": "Unlock",
+    "common": true
+  },
+  "pwd_hint": {
+    "message": "Hint:",
+    "common": true
+  },
+  "pwd_reset": {
+    "message": "Reset password",
+    "common": true
+  },
+  "pwd_reset_data_warn": {
+    "message": "Reset button is locked for 1 minute. Are you sure you want to remove password and all locked data?",
+    "common": true
+  },
+  "pwd_forgotten_remove_data": {
+    "message": "Alternatively, you can remove your password - this will however remove also all locked data!",
+    "common": true
+  },
+  "pwd_lock": {
+    "message": "Lock now",
+    "common": true
+  },
+  "lock_group_hidden": {
+    "message": "Hide group when locked"
+  },
+  "lock_group_hidden_help": {
+    "message": "To unlock hidden groups, use the main menu"
+  },
+  "recovery_code": {
+    "message": "Recovery code",
+    "common": true
+  },
+  "recovery_code_help_1": {
+    "message": "This code can be used to reset your password if you ever forget it.",
+    "common": true
+  },
+  "recovery_code_help_2": {
+    "message": "Print it now or take a photo of it with your phone.",
+    "common": true
+  },
+  "incorrect_recovery": {
+    "message": "Incorrect recovery code",
+    "common": true
+  },
+  "save_removed_master_password": {
+    "message": "Master password removed (and all locked data)"
+  },
+  "pwd_forgotten_recovery_code": {
+    "message": "Enter recovery code",
+    "common": true
+  },
+  "pwd_forgotten_recovery": {
+    "message": "Use your \"Recovery code\" to reset your password.",
+    "common": true
+  },
+  "pwd_remove": {
+    "message": "Remove password",
+    "common": true
+  },
+  "label_print": {
+    "message": "Print",
+    "common": true
+  },
+  "label_limit_reached": {
+    "message": "Limit reached",
+    "common": true
+  },
+  "pwd_forget_warning": {
+    "message": "Don't forget your password!",
+    "common": true
+  },
+  "save_locked_group_change": {
+    "message": "Change in a locked group"
   }
 }

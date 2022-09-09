@@ -99,7 +99,8 @@
     "message": "雲端版本目前無法邊輯，但它在每個瀏覽器都能正常運作，甚至是在您的手機上也可以！"
   },
   "msg_pro_same_thumbnails": {
-    "message": "現在您在每個裝置上都有相同的縮圖了！"
+    "message": "現在您在每個裝置上都有相同的縮圖了！",
+    "u": 1661868205214
   },
   "msg_pro_thumbnails_download": {
     "message": "這將會從雲端下載您上傳的所有縮圖並取代您目前本機上的縮圖。"
@@ -747,7 +748,8 @@
     "message": "將 $1 分頁新增到快速撥號中"
   },
   "menu_cloud_dials": {
-    "message": "雲端快速撥號"
+    "message": "雲端快速撥號",
+    "u": 1662727817329
   },
   "menu_dials_page": {
     "message": "快速撥號選單"

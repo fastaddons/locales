@@ -627,7 +627,8 @@
     "message": "Ano, stáhnout"
   },
   "sync_download_no": {
-    "message": "Ne"
+    "message": "Ne",
+    "u": 1660818421767
   },
   "sync_conflict": {
     "message": "Synchronizační konflikt"

@@ -2631,5 +2631,181 @@
   "o_open_always_stop_opener_id_title": {
     "message": "Ak je karta otvorená s naviazaním na aktuálnu kartu, bude otvorená blízko aktuálnej karty a po jej zavretí sa rodičovská karta opäť aktivuje.",
     "u": 1643727997742
+  },
+  "label_deprecated": {
+    "message": "Táto funkcionalita môže prestať fungovať v budúcich verziách prehliadača",
+    "u": 1660831284874
+  },
+  "o_activate_group_hover": {
+    "message": "Otvoriť skupinu keď je kurzor nad menom skupiny",
+    "u": 1660831411761
+  },
+  "select_dials": {
+    "message": "Označiť dlaždice",
+    "u": 1660831418380
+  },
+  "op_cut": {
+    "message": "Vystrihnúť",
+    "u": 1660831423776
+  },
+  "op_copy": {
+    "message": "Kopírovať",
+    "u": 1660831429505
+  },
+  "op_paste": {
+    "message": "Prilepiť",
+    "u": 1660831432154
+  },
+  "set_reloading_monitor": {
+    "message": "Použi TENTO monitor na vytváranie náhľadov",
+    "u": 1660831881715
+  },
+  "group_layout_list": {
+    "message": "zoznam",
+    "u": 1660831449537
+  },
+  "label_min_size": {
+    "message": "Min. veľkosť:",
+    "u": 1660831460768
+  },
+  "ed_tab_top_sites": {
+    "message": "Top Stránky",
+    "u": 1660831497746
+  },
+  "top_sites_enable": {
+    "message": "Zobraziť \"Top Stránky\" v tejto skupine",
+    "u": 1660831510835
+  },
+  "top_sites_help_1": {
+    "message": "Váš webový prehliadač automaticky spravuje tento zoznam podľa Vašej návštevnosti.",
+    "u": 1660831587997
+  },
+  "top_sites_about": {
+    "message": "Top Stránky - zoznam najnavštevovanejších stránok tohto prehliadača",
+    "u": 1660831653827
+  },
+  "label_limit": {
+    "message": "Limit:",
+    "u": 1660831680744
+  },
+  "top_sites_help_2": {
+    "message": "Konfigurácia možná iba cez túto stránku:",
+    "u": 1660831748930
+  },
+  "o_export_to_html": {
+    "message": "Exportovať do HTML",
+    "u": 1660831758354
+  },
+  "o_export_links_to_html": {
+    "message": "Exportuje iba linky do HTML súboru, kompatibilného s Firefox Záložkami (toto však nie je kompletná záloha!)",
+    "u": 1660831812164
+  },
+  "o_dial_title_center": {
+    "message": "Mená dlaždíc zarovnané do stredu",
+    "u": 1660831870905
+  },
+  "edge_store": {
+    "message": "Edge doplnky",
+    "u": 1660897667198
+  },
+  "hide_dial_title": {
+    "message": "Nezobrazovať názvy dlaždíc",
+    "u": 1660899016273
+  },
+  "o_dial_no_favicon": {
+    "message": "Nezobrazovať ikonky (vedľa názvu dlaždice)",
+    "u": 1660899043840
+  },
+  "lock_group": {
+    "message": "Zamknúť túto skupinu",
+    "u": 1660899056842
+  },
+  "lock_group_help": {
+    "message": "Túto skupinu bude možné otvoriť iba po zadaní tvojho hlavného hesla.",
+    "u": 1660899104586
+  },
+  "master_password": {
+    "message": "Hlavné heslo",
+    "u": 1660899119142
+  },
+  "lock_group_help_2": {
+    "message": "Dáta v zamknutej skupine nie sú zašifrované. Skúsený programátor s priamym prístupom k tomuto PC by v konečnom dôsledku bol schopný prekonať zámok bez zadania hesla.",
+    "u": 1660899208032
+  },
+  "save_new_master_password": {
+    "message": "Nové hlavné heslo bolo vytvorené",
+    "u": 1660899258318
+  },
+  "setup_new_pwd": {
+    "message": "Nastavenie nového hesla",
+    "u": 1660899297252
+  },
+  "change_pwd": {
+    "message": "Zmena hesla",
+    "u": 1660899303377
+  },
+  "remember_pwd_0": {
+    "message": "Pomôž mi zapamätať si moje heslo",
+    "u": 1660899319598
+  },
+  "remember_pwd_1": {
+    "message": "Je jednoduché zabudnúť nové heslo už pár hodín po jeho vymyslení.",
+    "u": 1660899358063
+  },
+  "remember_pwd_2": {
+    "message": "Pomôžem ti zapamätať si tvoje heslo tým, že sa ťa naň opýtam po 3h, 6h, 12h, 24h, 48h, 4 dňoch, 8 dňoch, 16 dňoch a potom raz za mesiac.",
+    "u": 1660899472756
+  },
+  "pwd_save": {
+    "message": "Uložiť nové heslo",
+    "u": 1660899482905
+  },
+  "pwd_to_change": {
+    "message": "Heslo, ktoré chcete zmeniť",
+    "u": 1660899652905
+  },
+  "current_pwd": {
+    "message": "Aktuálne heslo",
+    "u": 1660899657405
+  },
+  "new_pwd_advice": {
+    "message": "Nové heslo - je lepšie použiť dlhé a jednoduché ako krátke a komplikované",
+    "u": 1660899680839
+  },
+  "repeat_pwd": {
+    "message": "Zopakovať nové heslo",
+    "u": 1660899699016
+  },
+  "hint_pwd": {
+    "message": "Pomôcka pre nové heslo",
+    "u": 1660899726221
+  },
+  "pwd_warning": {
+    "message": "Nezabudni svoje heslo! Neexistuje možnosť obnovy ak ho zabudneš!",
+    "u": 1660900188113
+  },
+  "incorrect_password": {
+    "message": "Nesprávne heslo",
+    "u": 1660900193147
+  },
+  "err_pwd_not_matching": {
+    "message": "Heslo nesedí s predchádzajúcim",
+    "u": 1660900212029
+  },
+  "o_hover_zoom": {
+    "message": "Zväčšenie dlaždice",
+    "u": 1660900229188
+  },
+  "o_hover_bold": {
+    "message": "Tučné meno dlaždice",
+    "u": 1660900361639
+  },
+  "o_transparent_head": {
+    "message": "Priehľadné meno dlaždice (kladie dôraz na náhľad)",
+    "u": 1660900417927
+  },
+  "mouse_over_effects": {
+    "message": "Efekty pri prechode myšou:",
+    "u": 1660900474899
   }
 }

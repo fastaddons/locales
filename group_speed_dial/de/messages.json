@@ -2719,5 +2719,109 @@
   "label_min_size": {
     "message": "Min. Größe:",
     "u": 1659706540989
+  },
+  "mouse_over_effects": {
+    "message": "Mouseover-Effekte:",
+    "u": 1661717636103
+  },
+  "o_transparent_head": {
+    "message": "Transparenter Hintergrund des Dialnamens (mit Fokus auf Thumbnails)",
+    "u": 1661717741539
+  },
+  "o_hover_bold": {
+    "message": "Dialtitel fett darstellen",
+    "u": 1661717783673
+  },
+  "o_hover_zoom": {
+    "message": "Dial vergrößern",
+    "u": 1661717833096
+  },
+  "err_pwd_not_matching": {
+    "message": "Passwort stimmt nicht überein",
+    "u": 1661717856183
+  },
+  "incorrect_password": {
+    "message": "Falsches Passwort",
+    "u": 1661717870905
+  },
+  "pwd_warning": {
+    "message": "Passwort nicht vergessen! Es kann nicht wiederhergestellt werden!",
+    "u": 1661717971676
+  },
+  "hint_pwd": {
+    "message": "Hinweis für Ihr neues Passwort",
+    "u": 1661717996471
+  },
+  "repeat_pwd": {
+    "message": "Passwort wiederholen",
+    "u": 1661718050249
+  },
+  "new_pwd_advice": {
+    "message": "Neues Passwort – lieber lang und einfach als kurz und komplex",
+    "u": 1661718084188
+  },
+  "current_pwd": {
+    "message": "Aktuelles Passwort",
+    "u": 1661718107663
+  },
+  "pwd_to_change": {
+    "message": "Passwort zum ändern",
+    "u": 1661718138234
+  },
+  "pwd_save": {
+    "message": "Neues Passwort speichern",
+    "u": 1661718163833
+  },
+  "remember_pwd_2": {
+    "message": "Ich helfe Ihnen, sich Ihr Passwort zu merken, indem ich Sie auffordere, es nach 3 Std., 6 Std., 12 Std., 24 Std., 48 Std., 4 Tagen, 8 Tagen, 16 Tagen und dann einmal im Monat einzugeben.",
+    "u": 1661718247389
+  },
+  "remember_pwd_1": {
+    "message": "Es ist leicht, ein neues Passwort in den ersten Stunden zu vergessen.",
+    "u": 1661718272631
+  },
+  "remember_pwd_0": {
+    "message": "Helfen Sie mir, mich an mein Passwort zu erinnern",
+    "u": 1661718292409
+  },
+  "change_pwd": {
+    "message": "Passwort ändern",
+    "u": 1661718336325
+  },
+  "setup_new_pwd": {
+    "message": "Neues Passwort einrichten",
+    "u": 1661718358440
+  },
+  "save_new_master_password": {
+    "message": "Neues Masterpasswort einrichten",
+    "u": 1661718369385
+  },
+  "lock_group_help_2": {
+    "message": "Daten in der gesperrten Gruppe werden NICHT verschlüsselt. Ein erfahrener Programmierer mit direktem Zugriff auf Ihren PC wäre schließlich in der Lage, die Sperre ohne Ihr Passwort zu überwinden.",
+    "u": 1661718437842
+  },
+  "master_password": {
+    "message": "Masterpasswort",
+    "u": 1661718446737
+  },
+  "lock_group_help": {
+    "message": "Sie können diese Gruppe erst öffnen, nachdem Sie Ihr Masterpasswort eingegeben haben.",
+    "u": 1661718475874
+  },
+  "lock_group": {
+    "message": "Diese Gruppe sperren",
+    "u": 1661718499435
+  },
+  "hide_dial_title": {
+    "message": "Dialtitel ausblenden",
+    "u": 1661718538018
+  },
+  "edge_store": {
+    "message": "Edge Addonseite",
+    "u": 1661718560800
+  },
+  "o_dial_no_favicon": {
+    "message": "Favicons ausblenden (Symbol neben Wahlname)",
+    "u": 1661718584045
   }
 }

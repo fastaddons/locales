@@ -612,7 +612,8 @@
     "message": "Ulepsz do wersji Pro"
   },
   "pro_upgrade_now_label": {
-    "message": "Ulepsz teraz do wersji Pro"
+    "message": "Ulepsz teraz do wersji Pro",
+    "u": 1661868343018
   },
   "sync_down_thumbnails_title": {
     "message": "Pobieranie miniaturek"

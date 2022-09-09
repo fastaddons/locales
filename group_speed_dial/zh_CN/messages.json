@@ -543,7 +543,8 @@
     "message": ""
   },
   "cm_refresh_dials": {
-    "message": "刷新快速拨号"
+    "message": "刷新快速拨号",
+    "u": 1661868231250
   },
   "cm_change_thumbnail": {
     "message": "变更缩略图"
@@ -2530,7 +2531,8 @@
   },
   "label_no_data": {
     "message": "无数据",
-    "common": true
+    "common": true,
+    "u": 1662727808948
   },
   "dark_mode": {
     "message": "黑暗模式",

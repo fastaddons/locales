@@ -1344,7 +1344,8 @@
     "message": "Par défaut: désactivé - quand activité, tous les noms des dials sont masqués"
   },
   "o_squared_edges": {
-    "message": "sans coin arrondis"
+    "message": "sans coin arrondis",
+    "u": 1660818439259
   },
   "o_squared_edges_title": {
     "message": "Par défaut : désactivé - Quand activité, les dials auront des bords droits."

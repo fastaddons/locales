@@ -579,7 +579,8 @@
     "message": "Αναβάθμιση σε Pro"
   },
   "cm_pro_only": {
-    "message": "Μόνο σε Pro"
+    "message": "Μόνο σε Pro",
+    "u": 1661868457615
   },
   "save_group_created": {
     "message": "Δημιουργήθηκε νέα ομάδα"

@@ -2728,5 +2728,109 @@
   "o_dial_title_center": {
     "message": "Nombres de diapositivas centradas",
     "u": 1659640224881
+  },
+  "o_dial_no_favicon": {
+    "message": "Ocultar favicons (icono junto al nombre de la diapositiva)",
+    "u": 1661027319395
+  },
+  "edge_store": {
+    "message": "Página de complementos de Edge",
+    "u": 1661027342910
+  },
+  "hide_dial_title": {
+    "message": "Ocultar título de la diapositiva",
+    "u": 1661027359981
+  },
+  "lock_group": {
+    "message": "Bloquear este grupo",
+    "u": 1661027374409
+  },
+  "lock_group_help": {
+    "message": "Solo podrás abrir este grupo al intruducir la contraseña maestra.",
+    "u": 1661027439487
+  },
+  "master_password": {
+    "message": "Contraseña maestra",
+    "u": 1661027459649
+  },
+  "lock_group_help_2": {
+    "message": "Los datos del grupo bloqueado NO están encriptados. Un programador hábil con acceso directo a tu ordenador podría llegar a superar el bloqueo sin tu contraseña.",
+    "u": 1661028793668
+  },
+  "save_new_master_password": {
+    "message": "Nueva contraseña maestra creada",
+    "u": 1661027761670
+  },
+  "setup_new_pwd": {
+    "message": "Configurar nueva contraseña",
+    "u": 1661027815912
+  },
+  "change_pwd": {
+    "message": "Cambiar contraseña",
+    "u": 1661027834404
+  },
+  "remember_pwd_0": {
+    "message": "Ayúdame a recordar mi contraseña",
+    "u": 1661027852854
+  },
+  "remember_pwd_1": {
+    "message": "Es fácil olvidar una nueva contraseña en las primeras horas.",
+    "u": 1661027892533
+  },
+  "remember_pwd_2": {
+    "message": "Te ayudaré a recordar tu contraseña pidiéndote que la escribas después de 3h, 6h, 12h, 24h, 48h, 4 días, 8 días, 16 días y después una vez al mes.",
+    "u": 1661028113963
+  },
+  "pwd_save": {
+    "message": "Guardar nueva contraseña",
+    "u": 1661028158361
+  },
+  "pwd_to_change": {
+    "message": "Contraseña a cambiar",
+    "u": 1661028174467
+  },
+  "current_pwd": {
+    "message": "Contraseña actual",
+    "u": 1661028180381
+  },
+  "new_pwd_advice": {
+    "message": "Nueva contraseña - es mejor usar una larga y fácil que una corta y compleja",
+    "u": 1661028215485
+  },
+  "repeat_pwd": {
+    "message": "Repite la nueva contraseña",
+    "u": 1661028227051
+  },
+  "hint_pwd": {
+    "message": "Sugerencia para tu nueva contraseña",
+    "u": 1661028263757
+  },
+  "pwd_warning": {
+    "message": "¡No olvides tu contraseña! ¡No hay forma de recuperarla si la olvidas!",
+    "u": 1661028313329
+  },
+  "incorrect_password": {
+    "message": "Contraseña incorrecta",
+    "u": 1661028320175
+  },
+  "err_pwd_not_matching": {
+    "message": "La contraseña no coincide",
+    "u": 1661028330093
+  },
+  "o_hover_zoom": {
+    "message": "Diapositiva aumentada",
+    "u": 1661028360989
+  },
+  "o_hover_bold": {
+    "message": "Poner en negrita el título de la diapositiva",
+    "u": 1661028413796
+  },
+  "mouse_over_effects": {
+    "message": "Efectos del ratón:",
+    "u": 1661028558650
+  },
+  "o_transparent_head": {
+    "message": "Fondo transparente del nombre de la diapositiva (poner el foco sobre la miniatura)",
+    "u": 1661028637830
   }
 }
