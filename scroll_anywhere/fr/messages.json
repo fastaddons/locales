@@ -417,10 +417,12 @@
     "message": "Désactivé sur ce domaine"
   },
   "not_working_title": {
-    "message": "Votre navigateur bloquera Scrollywhere sur ces types de pages:"
+    "message": "Votre navigateur bloquera  $app_name$ sur ces types de pages:",
+    "u": 1663597524676
   },
   "not_working_body": {
-    "message": "Pour activer Scrollywhere sur les pages \"Mozilla.org\", voir ce tutoriel YouTube"
+    "message": "Pour activer  $app_name$ sur les pages \"Mozilla.org\", voir ce tutoriel YouTube",
+    "u": 1663597535456
   },
   "show_scrollbars": {
     "message": "Montrer des barres de défilement"
@@ -444,7 +446,8 @@
     "message": "Bonjour :)"
   },
   "o_about_intro": {
-    "message": "Mon nom est Juraj Mäsiar et je suis l'auteur de ScrollAnywhere."
+    "message": "Mon nom est  $1$ et je suis l'auteur de  $app_name$.",
+    "u": 1663597561092
   },
   "o_about_like_it": {
     "message": "Si l'add-on vous plaît, notez-le ici:"
@@ -547,5 +550,37 @@
   "_description_common_tags": {
     "message": "Mots clés:",
     "common": true
+  },
+  "o_axis_lock_3": {
+    "message": "Défilement vertical seul",
+    "u": 1663597256860
+  },
+  "o_axis_lock_4": {
+    "message": "Défilement horizontal seul",
+    "u": 1663597277017
+  },
+  "o_paste_with_middle": {
+    "message": "Utilisez le click du milieu pour \"coller\" le contenu du presse-papiers",
+    "u": 1663597305711
+  },
+  "o_allow_other_mouse_down_handlers": {
+    "message": "Autoriser les autres gestionnaires d'événements \"mousedown\" lors du défilement",
+    "u": 1663597341694
+  },
+  "o_cursor_vertical": {
+    "message": "Défilement vertical",
+    "u": 1663597430951
+  },
+  "o_cursor_horizontal": {
+    "message": "Défilement horizontal",
+    "u": 1663597435844
+  },
+  "o_cursor_both": {
+    "message": "Défilement dans les deux directions",
+    "u": 1663597447799
+  },
+  "edge_store": {
+    "message": "Page d'extensions Edge",
+    "u": 1663597490230
   }
 }

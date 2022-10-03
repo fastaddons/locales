@@ -2823,5 +2823,165 @@
   "o_dial_no_favicon": {
     "message": "Favicons ausblenden (Symbol neben Wahlname)",
     "u": 1661718584045
+  },
+  "save_locked_group_change": {
+    "message": "Änderung in einer gesperrten Gruppe",
+    "u": 1662755168372
+  },
+  "pwd_forget_warning": {
+    "message": "Vergessen Sie Ihr Passwort nicht!",
+    "u": 1662755187840
+  },
+  "label_limit_reached": {
+    "message": "Limit erreicht",
+    "u": 1662755206192
+  },
+  "label_print": {
+    "message": "Drucken",
+    "u": 1662755221337
+  },
+  "pwd_remove": {
+    "message": "Passwort entfernen",
+    "u": 1662755291089
+  },
+  "pwd_forgotten_recovery": {
+    "message": "\"Wiederherstellcode\", zum Passwort zurückzusetzen, verwenden.",
+    "u": 1662755403781
+  },
+  "pwd_forgotten_recovery_code": {
+    "message": "Wiederherstellcode eingeben",
+    "u": 1662755454786
+  },
+  "save_removed_master_password": {
+    "message": "Masterpasswort entfernt (und alle gesperrten Daten)",
+    "u": 1662755502559
+  },
+  "incorrect_recovery": {
+    "message": "Falscher Wiederherstellcode",
+    "u": 1662755535543
+  },
+  "recovery_code_help_2": {
+    "message": "Jetzt ausdrucken, oder abfotografieren.",
+    "u": 1662755612005
+  },
+  "recovery_code_help_1": {
+    "message": "Dieser Code wird verwendet, um Ihr Passwort zurückzusetzen, wenn Sie es vergessen.",
+    "u": 1662755686026
+  },
+  "recovery_code": {
+    "message": "Wiederherstellcode",
+    "u": 1662755705828
+  },
+  "lock_group_hidden_help": {
+    "message": "Ausgeblendete Gruppen im Hauptmenü entsperren",
+    "u": 1662755838487
+  },
+  "lock_group_hidden": {
+    "message": "Gruppe ausblenden, wenn gesperrt",
+    "u": 1662755863298
+  },
+  "pwd_lock": {
+    "message": "Jetzt sperren",
+    "u": 1662755887459
+  },
+  "pwd_forgotten_remove_data": {
+    "message": "Alternativ können Sie Ihr Passwort entfernen - dabei werden auch alle gesperrten Daten entfernt!",
+    "u": 1662755922383
+  },
+  "pwd_reset_data_warn": {
+    "message": "Der Zurücksetzen-Button ist für 1 Min. gesperrt.  Wollen Sie das Passwort und alle gesperrten Daten wirklich entfernen?",
+    "u": 1662756049038
+  },
+  "pwd_reset": {
+    "message": "Passwort zurücksetzen",
+    "u": 1662756068650
+  },
+  "pwd_hint": {
+    "message": "Hinweis:",
+    "u": 1662756085230
+  },
+  "pwd_unlock": {
+    "message": "Entsperren",
+    "u": 1662756104223
+  },
+  "password": {
+    "message": "Passwort",
+    "u": 1662756111140
+  },
+  "pwd_forgot": {
+    "message": "Passwort vergessen?",
+    "u": 1662756137812
+  },
+  "remember_pwd_skip": {
+    "message": "Überspringen (ich erinnere mich daran)",
+    "u": 1662756169042
+  },
+  "unlock_group": {
+    "message": "Gruppe entsperren",
+    "u": 1662756191288
+  },
+  "gradient_type_1": {
+    "message": "Radial - Ellipse",
+    "u": 1662756251420
+  },
+  "gradient_type_2": {
+    "message": "Radial - Kreis",
+    "u": 1662756231648
+  },
+  "gradient_type_0": {
+    "message": "Linear",
+    "u": 1662756266458
+  },
+  "background_type_4": {
+    "message": "Keine",
+    "u": 1662756274106
+  },
+  "gradient_direction": {
+    "message": "Farbverlaufeinrichtung",
+    "u": 1662756363512
+  },
+  "background_type_3": {
+    "message": "Bild von URL",
+    "u": 1662756380415
+  },
+  "background_type_2": {
+    "message": "Bild aus Datei",
+    "u": 1662756401026
+  },
+  "background_type_1": {
+    "message": "Verlaufsfarben",
+    "u": 1662756421172
+  },
+  "background_type_0": {
+    "message": "Einfarbig",
+    "u": 1662756431415
+  },
+  "pwd_verify": {
+    "message": "Prüfen",
+    "u": 1663719801978
+  },
+  "thumbnail_padding": {
+    "message": "Thumbnail Füllbereich",
+    "u": 1663719987722
+  },
+  "recently_closed_window": {
+    "message": "Fenster:",
+    "u": 1664236379402
+  },
+  "ed_top_sites_dial": {
+    "message": "Top-Seiten Dial:",
+    "u": 1664236460843
+  },
+  "recently_closed_dial": {
+    "message": "Kürzlich geschlossen",
+    "u": 1664236481320
+  },
+  "ed_recently_closed_dial": {
+    "message": "Kürzlich geschlossene Dialtabs wählen:",
+    "u": 1664236538093
+  },
+  "ed_recently_closed_dial_help": {
+    "message": "Zeigt eine Liste der kürzlich geschlossenen Tabs und Fenster an und ermöglicht Ihnen, sie wiederherzustellen.",
+    "u": 1664236609190
   }
 }

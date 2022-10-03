@@ -1,1 +1,490 @@
-{}
+{
+  "_description_feature_1": {
+    "message": "Envoyer la note à vos appareils (similaire à la fonctionnalité \"Envoyer l'onglet à l'appareil\" dans Firefox)",
+    "u": 1663923220066
+  },
+  "_description_feature_2": {
+    "message": "Pas besoin de créer un compte supplémentaire - la synchronisation intégrée au navigateur gèrera cela",
+    "u": 1663922931506
+  },
+  "_description_feature_3": {
+    "message": "Boîte de réception / Boîte d'envoi - historique des notes reçues et envoyées",
+    "u": 1663922957345
+  },
+  "_description_tags_sntd": {
+    "message": "note, message, envoyer l'onglet à l'appareil, onglet, page, lien, transférer, transfer, e2e, cryptage, sécuriser, Firefox Sync, envoyer, appareil, synchroniser, synchronisation, boîte de réception, boîte d'envoi, e-mail",
+    "u": 1663923193633
+  },
+  "app_name": {
+    "message": "Envoyer une note à l'appareil",
+    "u": 1663923238647
+  },
+  "app_desc": {
+    "message": "Envoyer une note à l'appareil vous permet d'envoyer l'URL actuelle avec une note (message) à différents appareils.",
+    "u": 1663923280918
+  },
+  "label_remove": {
+    "message": "Supprimer",
+    "u": 1663923284387
+  },
+  "inbox_messages": {
+    "message": "Notes de la boîte de réception",
+    "u": 1663923309899
+  },
+  "note_forward": {
+    "message": "Transférer...",
+    "u": 1663923415535
+  },
+  "note_delete": {
+    "message": "Effacer",
+    "u": 1663923423562
+  },
+  "note_unread": {
+    "message": "Marquer non-lu",
+    "u": 1663923464705
+  },
+  "outbox_messages": {
+    "message": "Notes de la boîte d'envoi",
+    "u": 1663923511032
+  },
+  "outbox_messages_title": {
+    "message": "Notes envoyées",
+    "u": 1663923555054
+  },
+  "label_target_device": {
+    "message": "Appareil cible",
+    "u": 1663923634652
+  },
+  "label_source_device": {
+    "message": "Envoyer depuis",
+    "u": 1663923676330
+  },
+  "placeholder_new_note": {
+    "message": "Rédigez le texte que vous souhaitez envoyer à un autre appareil.",
+    "u": 1663924387353
+  },
+  "placeholder_new_note_url": {
+    "message": "URL envoyée avec votre note.",
+    "u": 1663925560729
+  },
+  "no_target_device": {
+    "message": "Aucun appareil trouvé!",
+    "u": 1663925585499
+  },
+  "no_target_device_body": {
+    "message": "Installez cet addon sur tous vos appareils afin de leur envoyer des notes.",
+    "u": 1663925613576
+  },
+  "no_target_device_sync_firefox": {
+    "message": "Chaque appareil doit également avoir \"Firefox Sync\" activé et \"Add-ons\" activée dans les \"Préférences de Synchronisation\".",
+    "u": 1663925779297
+  },
+  "no_target_device_sync_chrome": {
+    "message": "chaque appareil doit également avoir la \"Synchronisation Chrome\" activée.",
+    "u": 1663925831351
+  },
+  "send_note": {
+    "message": "Envoyer note!",
+    "u": 1663925943647
+  },
+  "note_sent": {
+    "message": "Note envoyée",
+    "u": 1663925960414
+  },
+  "discard_note": {
+    "message": "Fermer",
+    "u": 1663925965518
+  },
+  "open_inbox": {
+    "message": "Boite de réception",
+    "u": 1663925974535
+  },
+  "open_outbox": {
+    "message": "Boite d'envoi",
+    "u": 1663925985101
+  },
+  "firefox_store": {
+    "message": "Firefox Add-Ons",
+    "u": 1663925988772
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store",
+    "u": 1663925998233
+  },
+  "menu_options": {
+    "message": "Options",
+    "u": 1663925999384
+  },
+  "menu_quick_options": {
+    "message": "Options rapide",
+    "u": 1663926001016
+  },
+  "menu_visit_title": {
+    "message": "Acceuil",
+    "u": 1663926002537
+  },
+  "op_visit_home": {
+    "message": "Accueil",
+    "u": 1663926005063
+  },
+  "cm_shortcut_title": {
+    "message": "Raccourci: \"$1\"",
+    "u": 1663926026421
+  },
+  "create_note_page": {
+    "message": "Envoyer la Note-page à l'appareil",
+    "u": 1663926088642
+  },
+  "create_note_text": {
+    "message": "Envoyer le Texte à l'appareil",
+    "u": 1663926112284
+  },
+  "create_note_tab": {
+    "message": "Envoyer la Note-onglet à l'appareil",
+    "u": 1663926132930
+  },
+  "create_note_link": {
+    "message": "Envoyer la Note-lien à l'appareil",
+    "u": 1663926142491
+  },
+  "o_title": {
+    "message": "Options - $1",
+    "u": 1663926146140
+  },
+  "o_tab_general": {
+    "message": "Général",
+    "u": 1663926148680
+  },
+  "o_tab_devices": {
+    "message": "Appareils",
+    "u": 1663926158369
+  },
+  "o_inbox": {
+    "message": "Boite de réception",
+    "u": 1663926165160
+  },
+  "o_tab_context_menu": {
+    "message": "Menu contextuel",
+    "u": 1663926166738
+  },
+  "o_tab_import": {
+    "message": "Importer / Sauvegarder",
+    "u": 1663926168866
+  },
+  "o_name": {
+    "message": "Nom de l'appareil",
+    "u": 1663926224652
+  },
+  "o_favorite": {
+    "message": "Marquer en tant que Favori",
+    "u": 1663926347830
+  },
+  "o_favorite_title": {
+    "message": "Les appareils favoris seront en haut de la liste des appareils.",
+    "u": 1663926437304
+  },
+  "this_device": {
+    "message": "Cette appareil:",
+    "u": 1663926446463
+  },
+  "list_of_devices": {
+    "message": "Liste des appareils connectés:",
+    "u": 1663926477697
+  },
+  "title_device_last_used": {
+    "message": "L'appareil a été utilisé pour la dernière fois (a reçu une note).",
+    "u": 1663926613568
+  },
+  "o_open_inbox_in": {
+    "message": "Lorsqu'une nouvelle note est reçue, ouvrez la boîte de réception dans :",
+    "u": 1663926635395
+  },
+  "o_open_inbox_in_0": {
+    "message": "Nouvel onglet",
+    "u": 1663926641167
+  },
+  "o_open_inbox_in_1": {
+    "message": "Nouvelle Fenetre",
+    "u": 1663926662865
+  },
+  "o_open_inbox_in_2": {
+    "message": "Ne pas ouvrir la boîte de réception",
+    "u": 1663926674572
+  },
+  "o_disable_cm_page_selection_note": {
+    "message": "Désactiver le menu contextuel durant la sélection de texte",
+    "u": 1663926722783
+  },
+  "o_disable_cm_page_note": {
+    "message": "Désactiver le menu contextuel sur la Page",
+    "u": 1663926732839
+  },
+  "o_disable_cm_link_note": {
+    "message": "Désactiver le menu contextuel sur les liens",
+    "u": 1663926747904
+  },
+  "o_disable_cm_tab_note": {
+    "message": "Désactiver le menu contextuel sur les onglets",
+    "u": 1663926756909
+  },
+  "o_backup_restore": {
+    "message": "Paramètres de Sauvegarde/Restauration :",
+    "u": 1663926784380
+  },
+  "o_export_settings": {
+    "message": "Exporter les paramètres vers un fichier",
+    "u": 1663926803927
+  },
+  "import_settings_button": {
+    "message": "Importer les paramètres du fichier $1...",
+    "u": 1663926819597
+  },
+  "import_finished": {
+    "message": "Import terminé!",
+    "u": 1663926822351
+  },
+  "label_working": {
+    "message": "en cours...",
+    "u": 1663926848790
+  },
+  "o_tab_about": {
+    "message": "À propos",
+    "u": 1663926850402
+  },
+  "o_about_hello": {
+    "message": "Bonjour :)",
+    "u": 1663926854743
+  },
+  "o_about_intro": {
+    "message": "Mon nom est $1$ et je suis l'auteur de $app_name$.",
+    "u": 1663926858030
+  },
+  "o_about_like_it": {
+    "message": "Si l'add-on vous plaît, notez-le ici:",
+    "u": 1663926860129
+  },
+  "o_about_dislike_it": {
+    "message": "Si quelque-chose ne vous plaît pas, faites le moi savoir par email, j'implémente la plupart des requêtes d'ajouts d'options que je recois.",
+    "u": 1663926862042
+  },
+  "o_about_support_by": {
+    "message": "Je vous prie d'envisager de supporter mon travail via",
+    "u": 1663926864541
+  },
+  "o_about_support_by_donation": {
+    "message": "donations (PayPal)",
+    "u": 1663926866563
+  },
+  "o_about_support_by_patron": {
+    "message": "en devenant un de mes Patreons",
+    "u": 1663926869425
+  },
+  "o_about_support_by_update": {
+    "message": "en passant à la version professionnel",
+    "u": 1663926870855
+  },
+  "o_about_thanks": {
+    "message": "Merci!",
+    "u": 1663926871937
+  },
+  "o_about_home": {
+    "message": "acceuil",
+    "u": 1663926874321
+  },
+  "o_about_contact": {
+    "message": "Contact:",
+    "u": 1663926876691
+  },
+  "o_about_support_reply": {
+    "message": "Je ne peux répondre qu'en Anglais ou Slovaque",
+    "u": 1663926879278
+  },
+  "o_about_social_media": {
+    "message": "Réseaux sociaux:",
+    "u": 1663926880904
+  },
+  "op_support_me": {
+    "message": "Aider ce projet",
+    "u": 1663926883231
+  },
+  "op_help": {
+    "message": "Aider",
+    "u": 1663926885661
+  },
+  "o_save_close": {
+    "message": "Sauver les changements et fermer",
+    "u": 1663926887771
+  },
+  "label_save_changes": {
+    "message": "Sauvegarder les changements",
+    "u": 1663926902197
+  },
+  "label_discard_changes": {
+    "message": "Annuler les modifications",
+    "u": 1663927273203
+  },
+  "o_saved": {
+    "message": "Sauvegarde réussie!",
+    "u": 1663927273916
+  },
+  "import_error": {
+    "message": "Erreur",
+    "u": 1663927275477
+  },
+  "import_backup_file": {
+    "message": "importer le fichier de sauvegarde",
+    "u": 1663927295494
+  },
+  "search_search": {
+    "message": "Recherche",
+    "u": 1663927298793
+  },
+  "homepage": {
+    "message": "Page d'accueil",
+    "u": 1663927311782
+  },
+  "addon_page": {
+    "message": "Page d'Addon",
+    "u": 1663927334123
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "u": 1663927335949
+  },
+  "label_font_size": {
+    "message": "Taille de police",
+    "u": 1663927337390
+  },
+  "label_next": {
+    "message": "Suivant",
+    "u": 1663927340817
+  },
+  "label_note": {
+    "message": "Note:",
+    "u": 1663927341978
+  },
+  "label_warning": {
+    "message": "ATTENTION:",
+    "u": 1663927343755
+  },
+  "label_default": {
+    "message": "Défaut:",
+    "u": 1663927345370
+  },
+  "label_done": {
+    "message": "Complété!",
+    "u": 1663927364048
+  },
+  "label_copied": {
+    "message": "Copié!",
+    "u": 1663927349487
+  },
+  "label_close": {
+    "message": "Fermer",
+    "u": 1663927364956
+  },
+  "label_open_page": {
+    "message": "Page ouverte",
+    "u": 1663927366140
+  },
+  "label_agree": {
+    "message": "Accepter",
+    "u": 1663927367507
+  },
+  "label_cancel": {
+    "message": "Annuler",
+    "u": 1663927368871
+  },
+  "support_developer": {
+    "message": "Soutenez un développeur indépendant !",
+    "u": 1663927404340
+  },
+  "hello_there": {
+    "message": "Salut !",
+    "u": 1663927432036
+  },
+  "about_me": {
+    "message": "Je suis développeur d'addon depuis 2016 et mon objectif est de créer des extensions puissantes pour votre navigateur Web afin de vous rendre plus productif.",
+    "u": 1663927470156
+  },
+  "about_good_job": {
+    "message": "Si vous pensez que je fais du bon travail, merci de faire un don :)",
+    "u": 1663927487777
+  },
+  "about_income": {
+    "message": "Vos dons son mon seul revenu !",
+    "u": 1663927509102
+  },
+  "about_thanks": {
+    "message": "Merci de soutenir mon travail !",
+    "u": 1663927522044
+  },
+  "o_tab_settings": {
+    "message": "Préférences",
+    "u": 1663927527808
+  },
+  "o_pixels": {
+    "message": "pixels",
+    "u": 1663927529449
+  },
+  "o_seconds": {
+    "message": "secondes",
+    "u": 1663927530417
+  },
+  "label_or": {
+    "message": "ou",
+    "u": 1663927534527
+  },
+  "o_about_issues": {
+    "message": "Signaler des problèmes:",
+    "u": 1663927542281
+  },
+  "o_about_support_by_iban": {
+    "message": "Virement bancaire avec IBAN :",
+    "u": 1663927562340
+  },
+  "ps_no_results": {
+    "message": "Aucun résultat correspondant",
+    "u": 1663927563639
+  },
+  "label_no_data": {
+    "message": "Pas de données",
+    "u": 1663927565517
+  },
+  "dark_mode": {
+    "message": "Mode sombre",
+    "u": 1663927567292
+  },
+  "dark_mode_system": {
+    "message": "Contrôlé par le système",
+    "u": 1663927568658
+  },
+  "_description_features": {
+    "message": "Fonctionnalités:",
+    "u": 1663927592515
+  },
+  "_description_why": {
+    "message": "Pourquoi?",
+    "u": 1663927604369
+  },
+  "_description_privacy_policy": {
+    "message": "Politique de confidentialité",
+    "u": 1663927625090
+  },
+  "_description_recent_features": {
+    "message": "Fonctionnalités ajouté récemment",
+    "u": 1663927642249
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "u": 1663927661026
+  },
+  "_description_also_for_firefox": {
+    "message": "Disponible aussi pour votre Firefox :",
+    "u": 1663927671524
+  },
+  "_description_also_for_thunderbird": {
+    "message": "Disponible aussi pour votre Thunderbird :",
+    "u": 1663927692420
+  }
+}

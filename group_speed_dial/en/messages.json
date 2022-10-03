@@ -2753,5 +2753,27 @@
   },
   "save_locked_group_change": {
     "message": "Change in a locked group"
+  },
+  "thumbnail_padding": {
+    "message": "Thumbnail padding"
+  },
+  "pwd_verify": {
+    "message": "Verify",
+    "common": true
+  },
+  "recently_closed_dial": {
+    "message": "Recently closed"
+  },
+  "ed_recently_closed_dial": {
+    "message": "Recently-closed-tabs dial:"
+  },
+  "ed_recently_closed_dial_help": {
+    "message": "Shows list of recently closed tabs and windows and allows you to restore them."
+  },
+  "ed_top_sites_dial": {
+    "message": "Top-sites dial:"
+  },
+  "recently_closed_window": {
+    "message": "Window:"
   }
 }

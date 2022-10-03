@@ -3,19 +3,22 @@
     "message": "Group Speed Dial"
   },
   "app_desc": {
-    "message": "Le Speed Dial le plus avancé au monde pour vos signets!"
+    "message": "Le Speed Dial le plus avancé au monde pour vos dials!",
+    "u": 1663146929745
   },
   "welcome_header": {
     "message": "Bienvenue sur l'add-on $app_name$"
   },
   "welcome_setup": {
-    "message": ""
+    "message": "Configuration de base",
+    "u": 1662974113749
   },
   "welcome_watch_video": {
     "message": "Pour découvrir les fonctions principales, regardez cette courte vidéo d'introduction (1:50min)"
   },
   "welcome_watch_android_video": {
-    "message": ""
+    "message": "Voir la configuration Android en video",
+    "u": 1662974161375
   },
   "welcome_home_group": {
     "message": "Votre \"groupe principal\" contient 4x3 emplacements, vous pouvez le modifier ici:"
@@ -30,7 +33,8 @@
     "message": "Choisissez l'apparence:"
   },
   "welcome_visuals": {
-    "message": ""
+    "message": "Pour plus d'options, visitez la page Préférences",
+    "u": 1662974299310
   },
   "import_settings_button": {
     "message": "Importer les options et les marques-pages (Dials)..."
@@ -42,31 +46,40 @@
     "message": "Importer le fichier \"bookmarks-2017-XX-XX.json\"..."
   },
   "import_fast_dial_button": {
-    "message": ""
+    "message": "Importé le fichier \"fastdial.json\"...",
+    "u": 1662974351886
   },
   "import_super_start_button": {
-    "message": ""
+    "message": "Importé le fichier \"sites.v1.json...",
+    "u": 1662974415523
   },
   "import_speed_dial_2_button": {
-    "message": ""
+    "message": "Importé le fichier \"nom_quelconque\"...",
+    "u": 1663597202238
   },
   "import_done_text": {
-    "message": ""
+    "message": "Marque-pages externes importés",
+    "u": 1662975751558
   },
   "import_skip": {
-    "message": ""
+    "message": "Ne rien importer",
+    "u": 1662975061183
   },
   "import_pages_stats": {
-    "message": ""
+    "message": "Importer $1 pages dans $2 groupes",
+    "u": 1662975211254
   },
   "import_data_from": {
-    "message": ""
+    "message": "importer les données depuis:",
+    "u": 1662975257831
   },
   "load_bookmarks": {
-    "message": ""
+    "message": "Charger les marque-pages",
+    "u": 1662975398953
   },
   "load_top_pages": {
-    "message": ""
+    "message": "Charger les pages les plus visitées",
+    "u": 1662975484743
   },
   "group_generated_name": {
     "message": "Groupe $1"
@@ -75,19 +88,24 @@
     "message": "Groupe principal"
   },
   "drag_group_hover_open": {
-    "message": ""
+    "message": "Ouvrir le groupe",
+    "u": 1662975505912
   },
   "replace_dial": {
-    "message": ""
+    "message": "Remplacer la dial",
+    "u": 1663147117512
   },
   "replace_duplicate_dial": {
-    "message": ""
+    "message": "Dupliquer la dial",
+    "u": 1663147108855
   },
   "create_multi_page_dial": {
-    "message": ""
+    "message": "Créer une dial multi-pages",
+    "u": 1663147098880
   },
   "replace_multi_page_dial": {
-    "message": ""
+    "message": "Remplacer la dial multi-page",
+    "u": 1663147104212
   },
   "msg_pro_cloud_upload": {
     "message": "Sauvegarder vos vignettes dans le Cloud et retrouvez-les dans"
@@ -111,7 +129,8 @@
     "message": "Alternativement, vous pouvez remplacer vos marques-pages locaux."
   },
   "url_search": {
-    "message": ""
+    "message": "URL / Recherche",
+    "u": 1662975921207
   },
   "msg_search_by": {
     "message": "Rechercher par:"
@@ -135,22 +154,26 @@
     "message": "Ne plus montrer ce message"
   },
   "msg_add_dials_here": {
-    "message": ""
+    "message": "Ajouter dans les dials vides",
+    "u": 1663147083844
   },
   "add_target_dial": {
     "message": "Sélectionner une dial vide à utiliser"
   },
   "add_target_dials": {
-    "message": ""
+    "message": "Créer un nouveau groupe vide ou sélectionner $1 les dials",
+    "u": 1663147080802
   },
   "add_image": {
-    "message": ""
+    "message": "Ajouter une image",
+    "u": 1662976360534
   },
   "bc_first_group": {
     "message": "Premier groupe créé"
   },
   "show_all_groups": {
-    "message": ""
+    "message": "Voir tous les groupes",
+    "u": 1662976372495
   },
   "fr_home_group": {
     "message": "Groupe principal"
@@ -231,7 +254,8 @@
     "message": "upload des vignettes en cours..."
   },
   "sync_thumbnails_progress": {
-    "message": ""
+    "message": "Synchronization des vignettes $1 / $2",
+    "u": 1662976423788
   },
   "add_page": {
     "message": "Ajouter cette page à vos dials"
@@ -240,40 +264,51 @@
     "message": "Ajouter cette onglet à vos dials"
   },
   "add_link": {
-    "message": ""
+    "message": "Ajouté le lien au dial",
+    "u": 1663147072756
   },
   "use_image_as_thumbnail": {
-    "message": ""
+    "message": "Utiliser cette image pour la vignette du dial",
+    "u": 1663147075957
   },
   "cm_choose_dial": {
-    "message": ""
+    "message": "Choisissez la dial cible",
+    "u": 1663147070096
   },
   "return_to_tab": {
-    "message": ""
+    "message": "Retour à l'onglet",
+    "u": 1662976646417
   },
   "stay_here": {
-    "message": ""
+    "message": "Restez ici",
+    "u": 1662976654908
   },
   "close_added_pages": {
-    "message": ""
+    "message": "Fermer les pages ajoutées",
+    "u": 1662976677378
   },
   "close_this_tab": {
-    "message": ""
+    "message": "Fermer cette onglet",
+    "u": 1662976694303
   },
   "group_first_created": {
     "message": "Premier groupe créé"
   },
   "privacy_info_head": {
-    "message": ""
+    "message": "Cette Extension permet la sauvegarde et la synchronisation de vos dials grâce à un serveur Cloud à $1",
+    "u": 1663147061603
   },
   "privacy_info_body_1": {
-    "message": ""
+    "message": "En créant un compte Cloud, vos dials seront synchronisées sur le serveur. Les données ne contiennent que les informations basiques (que vous avez entrées) concernant vos dials - les noms, URL, etc... Il n'y a aucun suivi des données et pas même d'usage statistique!",
+    "u": 1663147127507
   },
   "privacy_info_body_2": {
-    "message": ""
+    "message": "Sans compte Cloud, cette extension ne fera aucune requêtes à aucun serveur. Si vous activez le téléchargement des Favicons depuis le Service Google (dans les Préférences); une requête sera effectuée au serveur Google pour le téléchargement des Favicons. L'usage des options Cloud facutatives (par exemple l'usage des vignettes de la banque d'image publique) produira aussi des requêtes au serveur Cloud. Ces requêtes ne contiendrons PAS  d'informations personnelles.",
+    "u": 1662982001185
   },
   "field_size_range": {
-    "message": ""
+    "message": "La valeur doit être entre $1 et $2",
+    "u": 1662982080943
   },
   "field_zoom_range": {
     "message": "Le zoom doit être compris entre $1 et $2"
@@ -312,34 +347,41 @@
     "message": "dial éditée - $1"
   },
   "save_dials_added_to_group": {
-    "message": ""
+    "message": "Plusieurs dial ont été ajoutés au groupe - $1",
+    "u": 1663147048346
   },
   "save_dial_moved": {
     "message": "dial déplacé - $1"
   },
   "save_dial_resized": {
-    "message": ""
+    "message": "dial redimensionné - $1",
+    "u": 1663147043958
   },
   "save_group_rc_color": {
     "message": ""
   },
   "save_group_moved": {
-    "message": ""
+    "message": "Groupe deplacé - $1",
+    "u": 1662982278219
   },
   "save_dial_names_saved": {
     "message": "nom de la dial éditée - $1"
   },
   "save_dials_sorted": {
-    "message": ""
+    "message": "dials triés dans le groupe: $1",
+    "u": 1663147040457
   },
   "save_thumbnail_uploaded": {
-    "message": ""
+    "message": "vignette téléchargé - $1",
+    "u": 1662982320675
   },
   "save_public_thumbnail_uploaded": {
-    "message": ""
+    "message": "vignette publique téléchargée - $1",
+    "u": 1662982404417
   },
   "save_productivity_selection_changed": {
-    "message": ""
+    "message": "mode productivité - les dials selectionnées ont été changées",
+    "u": 1663146913831
   },
   "err_db_err_title": {
     "message": "Erreur :("
@@ -384,10 +426,12 @@
     "message": "Ouvrir dans un nouvel onglet"
   },
   "cm_new_tab_in_container": {
-    "message": ""
+    "message": "Ouvrir dans le Container",
+    "u": 1662982518446
   },
   "firefox_containers_about": {
-    "message": ""
+    "message": "A propos des Containers Firefox",
+    "u": 1662982567053
   },
   "cm_open_all_new": {
     "message": "Ouvrir toutes les Dials dans de nouveaux onglets"
@@ -402,58 +446,75 @@
     "message": "Éditer la dial"
   },
   "cm_create_dial": {
-    "message": ""
+    "message": "Créer un nouveau dial",
+    "u": 1663147035675
   },
   "cm_copy_link": {
     "message": "Copier la location du lien"
   },
   "cm_move_dial": {
-    "message": ""
+    "message": "Deplacer le dial",
+    "u": 1663147031318
   },
   "cm_move_dial_to": {
-    "message": ""
+    "message": "Déplacer vers le groupe",
+    "u": 1662982618470
   },
   "cm_cut_dial": {
-    "message": ""
+    "message": "Couper dial",
+    "u": 1663147024263
   },
   "cm_copy_dial": {
-    "message": ""
+    "message": "Copier dial",
+    "u": 1663147019584
   },
   "cm_paste_dial": {
-    "message": ""
+    "message": "Coller dial",
+    "u": 1663147014751
   },
   "cm_paste_swap_dial": {
-    "message": ""
+    "message": "Coller (échanger) le dial",
+    "u": 1663147011325
   },
   "cm_paste_replace_dial": {
-    "message": ""
+    "message": "Coller (remplacer)",
+    "u": 1662982816554
   },
   "convert_to_multi": {
-    "message": ""
+    "message": "Convertir en dial Multi-page",
+    "u": 1663147008895
   },
   "add_to_multi": {
-    "message": ""
+    "message": "Ajouter à un dial Multi-page",
+    "u": 1663147004402
   },
   "cm_insert_up": {
-    "message": ""
+    "message": "Ajouter au-dessus",
+    "u": 1662983396984
   },
   "cm_insert_left": {
-    "message": ""
+    "message": "Ajouter à gauche",
+    "u": 1662983392622
   },
   "cm_insert_right": {
-    "message": ""
+    "message": "Ajouter à droite",
+    "u": 1662983410683
   },
   "cm_insert_down": {
-    "message": ""
+    "message": "Ajouter en-dessous",
+    "u": 1662983421465
   },
   "cm_drop_replace": {
-    "message": ""
+    "message": "Remplacer le dial",
+    "u": 1663147001195
   },
   "cm_drop_copy_replace": {
-    "message": ""
+    "message": "Copier et remplacer le dial",
+    "u": 1663146998558
   },
   "cm_drop_swap": {
-    "message": ""
+    "message": "Echanger le signer (paramètre par défaut)",
+    "u": 1663000440649
   },
   "cm_clear_dial": {
     "message": "Effacer le contenu de la dial"
@@ -462,7 +523,8 @@
     "message": "Rafraîchir la dial"
   },
   "cm_refresh_image_here": {
-    "message": ""
+    "message": "Rafraichir cette image",
+    "u": 1663000476574
   },
   "cm_plus_delay": {
     "message": "+$1s"
@@ -495,79 +557,103 @@
     "message": "Créer un nouveau groupe"
   },
   "cm_sort_by": {
-    "message": ""
+    "message": "Trier par",
+    "u": 1663000495113
   },
   "sort_by_name": {
-    "message": ""
+    "message": "Nom",
+    "u": 1663000499895
   },
   "sort_by_note": {
-    "message": ""
+    "message": "Note",
+    "u": 1663000508995
   },
   "sort_by_url": {
-    "message": ""
+    "message": "URL",
+    "u": 1663000519088
   },
   "sort_by_date": {
-    "message": ""
+    "message": "Date de création",
+    "u": 1663000533328
   },
   "sort_by_remove_empty_dials": {
-    "message": ""
+    "message": "Enlever les dials vide",
+    "u": 1663146993729
   },
   "resize_dial": {
-    "message": ""
+    "message": "Diviser le dial",
+    "u": 1663146990405
   },
   "resize_dial_normal": {
-    "message": ""
+    "message": "Normal",
+    "u": 1663000901368
   },
   "resize_dial_v_half": {
-    "message": ""
+    "message": "Moitié vertical",
+    "u": 1663000930038
   },
   "resize_dial_h_half": {
-    "message": ""
+    "message": "Moitié horizontal",
+    "u": 1663001032268
   },
   "resize_dial_small": {
-    "message": ""
+    "message": "Petit",
+    "u": 1663001078722
   },
   "resize_dial_tiny": {
-    "message": ""
+    "message": "Mini",
+    "u": 1663001087737
   },
   "resize_dial_micro": {
-    "message": ""
+    "message": "Micro",
+    "u": 1663001700303
   },
   "rc_color": {
-    "message": ""
+    "message": "Colonne / Ligne",
+    "u": 1663054787794
   },
   "row_color": {
-    "message": ""
+    "message": "Couleur de la ligne",
+    "u": 1663054805488
   },
   "col_color": {
-    "message": ""
+    "message": "Couleur de la colonne",
+    "u": 1663054815185
   },
   "cm_refresh_dials": {
     "message": "Rafraîchir les Dials"
   },
   "cm_change_thumbnail": {
-    "message": ""
+    "message": "Changer l'image",
+    "u": 1663054839844
   },
   "cm_refresh_dial_background": {
-    "message": ""
+    "message": "Rafraichir l'image d'arrière-plan",
+    "u": 1663055075121
   },
   "cm_advanced": {
-    "message": ""
+    "message": "Expert",
+    "u": 1663055498911
   },
   "cm_legacy_features": {
-    "message": ""
+    "message": "Ancienne fonctionalités (ne pas utiliser)",
+    "u": 1663055578848
   },
   "cm_restore_previous_thumbnail": {
-    "message": ""
+    "message": "Restaurer la vignette précédente",
+    "u": 1663056408287
   },
   "cm_public_upload": {
-    "message": ""
+    "message": "Uploader la vignette dans la banque d'image publique",
+    "u": 1663058958718
   },
   "cm_synchronize_thumbnails": {
-    "message": ""
+    "message": "Synchroniser la vignette avec le compte Cloud",
+    "u": 1663056573786
   },
   "cm_user_consent_google_favicon": {
-    "message": ""
+    "message": "Télécharger les icônes via le service Google",
+    "u": 1663056702312
   },
   "cm_remove_group": {
     "message": "Supprimer le groupe"
@@ -588,13 +674,16 @@
     "message": "Rafraîchir toutes les vignettes:"
   },
   "refresh_ok": {
-    "message": ""
+    "message": "Rafraichir les vignettes",
+    "u": 1663056714628
   },
   "refresh_all": {
-    "message": ""
+    "message": "Toutes les vignettes",
+    "u": 1663056724940
   },
   "refresh_method": {
-    "message": ""
+    "message": "Méthode de Rafraichissement:",
+    "u": 1663056761140
   },
   "refresh_this_group": {
     "message": "Vignettes de ce groupe"
@@ -606,7 +695,8 @@
     "message": "Vignettes de type \"groupe\""
   },
   "refresh_auto_reload": {
-    "message": ""
+    "message": "Auto-Rafraichissement pour les dials activés",
+    "u": 1663146987605
   },
   "pro_upgrade_label": {
     "message": "Obtenir la version Pro"
@@ -669,10 +759,12 @@
     "message": "Réessayer"
   },
   "sync_changed_account": {
-    "message": ""
+    "message": "Un différent compte est actif",
+    "u": 1663056914750
   },
   "sync_changed_account_body": {
-    "message": ""
+    "message": "Vous êtes maintenant connecté à un différent compte",
+    "u": 1663056997979
   },
   "login_login_create": {
     "message": "Se connecter / Créer un compte"
@@ -684,13 +776,15 @@
     "message": "Restorer la sélection"
   },
   "history_loading": {
-    "message": ""
+    "message": "Chargement de l'historique",
+    "u": 1663057026476
   },
   "history_cancel": {
     "message": "Annuler"
   },
   "history_revert_dials": {
-    "message": ""
+    "message": "Pour rétablir vos dials précédentes, utilisez la fonction $1 .",
+    "u": 1663146907422
   },
   "save_history_restored": {
     "message": "data restoré à partir de l'historique"
@@ -702,7 +796,8 @@
     "message": "Erreur indéfinie"
   },
   "unexpected_solution": {
-    "message": ""
+    "message": "Cliquer ici pour rafraichir l'extension (Si cela ne fonctionne pas, essayez de redémarrer votre navigateur ou PC)",
+    "u": 1663057353639
   },
   "unexpected_body": {
     "message": "Envoyer nous, s'il vous plaît le message d'erreur ci-après à l'émail de support"
@@ -744,7 +839,8 @@
     "message": "Ajouter cette page au dials"
   },
   "menu_pages_to_dial": {
-    "message": ""
+    "message": "Ajouter $1 les onglets au dials",
+    "u": 1663146983065
   },
   "menu_cloud_dials": {
     "message": "Cloud-dials"
@@ -765,13 +861,16 @@
     "message": "Auto-rafraichir"
   },
   "ed_crop_scale": {
-    "message": ""
+    "message": "Recadrer / Redimensionner",
+    "u": 1663057546854
   },
   "screen_width": {
-    "message": ""
+    "message": "Largeur",
+    "u": 1663057554924
   },
   "screen_height": {
-    "message": ""
+    "message": "Hauteur",
+    "u": 1663057564822
   },
   "ed_tab_thumbnail": {
     "message": "Vignette"
@@ -807,100 +906,132 @@
     "message": "Lien d'un groupe existant"
   },
   "ed_page_dial": {
-    "message": ""
+    "message": "Dial Page Web",
+    "u": 1663146978034
   },
   "ed_group_dial": {
-    "message": ""
+    "message": "Dial Groupé",
+    "u": 1663146973960
   },
   "ed_text_dial": {
-    "message": ""
+    "message": "Dial de Texte",
+    "u": 1663146970551
   },
   "ed_search_dial": {
-    "message": ""
+    "message": "Dial de Recherche",
+    "u": 1663146966772
   },
   "ed_multi_dial": {
-    "message": ""
+    "message": "Dial Multi-page",
+    "u": 1663146964067
   },
   "ed_live_dial": {
-    "message": ""
+    "message": "Dial \"Live\"",
+    "u": 1663146960475
   },
   "ed_live_dial_title_1": {
-    "message": ""
+    "message": "Les Dials \"Live\" sont des pages web rafraichit en direct dans la dial",
+    "u": 1663146951750
   },
   "ed_live_dial_title_2": {
-    "message": ""
+    "message": "Toutes les pages web ne sont pas adaptées au dial \"Live\", mais la plupart fonctionneront.",
+    "u": 1663146937021
   },
   "page_name": {
-    "message": ""
+    "message": "Nom",
+    "u": 1663058102049
   },
   "search_provider_name": {
-    "message": ""
+    "message": "Nom",
+    "u": 1663058105930
   },
   "search_provider_url": {
-    "message": ""
+    "message": "URL",
+    "u": 1663058109037
   },
   "search_provider_icon": {
-    "message": ""
+    "message": "Icône",
+    "u": 1663058114485
   },
   "search_provider_name_placeholder": {
-    "message": ""
+    "message": "Entrer le nom du moteur de recherche",
+    "u": 1663058141562
   },
   "search_provider_url_placeholder": {
-    "message": ""
+    "message": "Entrer l'URL de recherche $1",
+    "u": 1663058286548
   },
   "search_provider_url_info": {
-    "message": ""
+    "message": "Voir la video tutoriel au sujet de la création d'URL de recherche",
+    "u": 1663058275157
   },
   "search_add_more": {
-    "message": ""
+    "message": "Ajouter plus de moteur de recherche",
+    "u": 1663058314536
   },
   "search_add_more_title": {
-    "message": ""
+    "message": "Vous pouvez avoir plusieurs entrées de recherche dans un dial",
+    "u": 1663146932578
   },
   "search_provider_tip": {
-    "message": ""
+    "message": "Appuyer \"Entrée\" pour lancer la recherche ou \"Ctrl+Entrée\" pour ouvrir la recherche dans un nouvelle onglet",
+    "u": 1663059130872
   },
   "multi_dial_import": {
-    "message": ""
+    "message": "importer les liens depuis le texte",
+    "u": 1663059158089
   },
   "multi_dial_import_help_0": {
-    "message": ""
+    "message": "Entrée un lien par ligne.",
+    "u": 1663059183003
   },
   "multi_dial_import_help_1": {
-    "message": ""
+    "message": "Si vous voulez Nommer un lien, plqcer le nom dans la ligne au-dessus du lien et prefixez le avec \"$1\" caractère.",
+    "u": 1663059368910
   },
   "multi_dial_import_current": {
-    "message": ""
+    "message": "Importer $1 liens",
+    "u": 1663059387115
   },
   "multi_dial_title_action": {
-    "message": ""
+    "message": "Clic action du Titre",
+    "u": 1663059429643
   },
   "multi_dial_link_action": {
-    "message": ""
+    "message": "Clic action du Lien",
+    "u": 1663059443414
   },
   "multi_dial_title_action_0": {
-    "message": ""
+    "message": "Ouvrir tout les liens",
+    "u": 1663059454761
   },
   "multi_dial_title_action_1": {
-    "message": ""
+    "message": "Aucune",
+    "u": 1663059485001
   },
   "multi_dial_link_action_0": {
-    "message": ""
+    "message": "Ouvrir le lien",
+    "u": 1663059494130
   },
   "multi_dial_link_action_1": {
-    "message": ""
+    "message": "Ouvrir tout les liens",
+    "u": 1663070729558
   },
   "live_dial_opt_no_interaction": {
-    "message": ""
+    "message": "Désactiver les interactions avec la page",
+    "u": 1663070760351
   },
   "live_dial_opt_hide_scrollbars": {
-    "message": ""
+    "message": "Caché les barres de défilement",
+    "u": 1663070836174
   },
   "dial_text_placeholder": {
-    "message": ""
+    "message": "Entrez le texte ici",
+    "u": 1663070857322
   },
   "dial_click_to_clipboard": {
-    "message": ""
+    "message": "Copier le texte dans le presse-papiers",
+    "u": 1663070898401
   },
   "ed_ar_title": {
     "message": "Auto-rafraichir les vignettes"
@@ -909,64 +1040,84 @@
     "message": "Inactif"
   },
   "ed_ar_enabled_radio": {
-    "message": ""
+    "message": "Activité",
+    "u": 1663070904280
   },
   "ed_au_type_0": {
-    "message": ""
+    "message": "Rafraîchir chaque",
+    "u": 1663071038708
   },
   "ed_au_type_1": {
-    "message": ""
+    "message": "Journalier",
+    "u": 1663071089577
   },
   "ed_au_type_2": {
-    "message": ""
+    "message": "Mensuel",
+    "u": 1663071077284
   },
   "ed_au_type_3": {
-    "message": ""
+    "message": "Jours de la semaine",
+    "u": 1663071206013
   },
   "ed_au_type_4": {
-    "message": ""
+    "message": "Weekends",
+    "u": 1663071140565
   },
   "ed_au_type_5": {
-    "message": ""
+    "message": "Lundi",
+    "u": 1663071198455
   },
   "ed_au_type_6": {
-    "message": ""
+    "message": "Mardi",
+    "u": 1663071150630
   },
   "ed_au_type_7": {
-    "message": ""
+    "message": "Mercredi",
+    "u": 1663071193824
   },
   "ed_au_type_8": {
-    "message": ""
+    "message": "Jeudi",
+    "u": 1663071180331
   },
   "ed_au_type_9": {
-    "message": ""
+    "message": "Vendredi",
+    "u": 1663071188543
   },
   "ed_au_type_10": {
-    "message": ""
+    "message": "Samedi",
+    "u": 1663071286165
   },
   "ed_au_type_11": {
-    "message": ""
+    "message": "Dimanche",
+    "u": 1663071292502
   },
   "ed_crop_off_radio": {
-    "message": ""
+    "message": "Automatique",
+    "u": 1663071303736
   },
   "ed_crop_on_radio": {
-    "message": ""
+    "message": "Personnalisé",
+    "u": 1663071345803
   },
   "ar_at": {
-    "message": ""
+    "message": "à :",
+    "u": 1663071364752
   },
   "ar_hours": {
-    "message": ""
+    "message": "Heures",
+    "u": 1663071381596
   },
   "ar_minutes": {
-    "message": ""
+    "message": "Minutes",
+    "u": 1663071391841
   },
   "ar_dial_delay": {
-    "message": ""
+    "message": "Délai avant la copie d'écran:",
+    "u": 1663146741900
   },
   "ar_dial_delay_title": {
-    "message": ""
+    "message": "Après que la page soit chargé, nous attendrons avant de créer la vignette. Celà peut aider si la page charge son contenu en plusieurs fois ou si elle contient des graphiques complexes.",
+    "u": 1663071774348
   },
   "ed_more_advanced": {
     "message": "Plus d'options seront disponible dans les futures versions"
@@ -975,13 +1126,16 @@
     "message": "Vignette auto-générée"
   },
   "ed_blank_radio": {
-    "message": ""
+    "message": "Vide / vignette en couleur simple - en utilisant la couleur du fond ďécran",
+    "u": 1663071931652
   },
   "ed_make_text_radio": {
-    "message": ""
+    "message": "Créer votre propre Vignette texte en utilisant la page web $1:",
+    "u": 1663147221743
   },
   "use_for_dial": {
-    "message": ""
+    "message": "Utiliser pour le dial",
+    "u": 1663146891328
   },
   "ed_custom_th_file": {
     "message": "Vignette depuis un fichier"
@@ -990,91 +1144,118 @@
     "message": "Vignette depuis un lien"
   },
   "ed_public_thumbnail_radio": {
-    "message": ""
+    "message": "Vignette de la banque d'image public",
+    "u": 1663074727768
   },
   "load_images": {
-    "message": ""
+    "message": "Charger les images",
+    "u": 1663074741493
   },
   "load_images_empty": {
-    "message": ""
+    "message": "Pas d'images trouver pour ce domaine",
+    "u": 1663074788992
   },
   "downloads": {
-    "message": ""
+    "message": "Téléchargement",
+    "u": 1663074809383
   },
   "image_info": {
-    "message": ""
+    "message": "Info de l'image:",
+    "u": 1663074864027
   },
   "image_extension": {
-    "message": ""
+    "message": "Type de l'image:",
+    "u": 1663074859406
   },
   "create_date": {
-    "message": ""
+    "message": "Date de création :",
+    "u": 1663074856333
   },
   "image_file_size": {
-    "message": ""
+    "message": "Taille de l'image:",
+    "u": 1663074886134
   },
   "resolution_too_low": {
-    "message": ""
+    "message": "La résolution est trop basse",
+    "u": 1663074917126
   },
   "report_image": {
-    "message": ""
+    "message": "Signaler l'image",
+    "u": 1663074937375
   },
   "category_vector_images": {
-    "message": ""
+    "message": "Images vectorielles",
+    "u": 1663074948727
   },
   "category_high_dpi": {
-    "message": ""
+    "message": "Haute résolution",
+    "u": 1663074956679
   },
   "category_medium_dpi": {
-    "message": ""
+    "message": "Moyenne Résolution",
+    "u": 1663074971997
   },
   "category_low_dpi": {
-    "message": ""
+    "message": "Basse résolution",
+    "u": 1663074982234
   },
   "public_upload_consent": {
-    "message": ""
+    "message": "En uploadant cette image dans la banque d'image publique, vous êtes en accord avec:",
+    "u": 1663075137850
   },
   "public_upload_body_1": {
-    "message": ""
+    "message": "Les vignettes uploadé à la banque d'image publique seront disponible pour tout les utilisateurs !",
+    "u": 1663075274565
   },
   "public_upload_body_2": {
-    "message": ""
+    "message": "Les données uploadées contiennent - l'image vignette, la position de la vignette, le nom du dial. Les autres utilisateurs ne verront  pas qui à uploader la vignette.",
+    "u": 1663146886220
   },
   "label_sending": {
     "message": "envoi en cours..."
   },
   "report_send": {
-    "message": ""
+    "message": "Signaler!",
+    "u": 1663075472320
   },
   "report_details_placeholder": {
-    "message": ""
+    "message": "Informations additionnelles",
+    "u": 1663075479389
   },
   "report_type": {
-    "message": ""
+    "message": "Type de violation",
+    "u": 1663075487963
   },
   "report_type_spam": {
-    "message": ""
+    "message": "Spam",
+    "u": 1663075491696
   },
   "report_type_copyright": {
-    "message": ""
+    "message": "Copyright",
+    "u": 1663075520987
   },
   "report_type_violent": {
-    "message": ""
+    "message": "Violent",
+    "u": 1663075530069
   },
   "report_type_unethical": {
-    "message": ""
+    "message": "Immoral",
+    "u": 1663075604564
   },
   "report_type_other": {
-    "message": ""
+    "message": "Autre",
+    "u": 1663075608353
   },
   "ed_save_on_disk": {
     "message": "Sauver localement"
   },
   "ed_vr_resolution": {
-    "message": ""
+    "message": "Résolution:",
+    "u": 1663075630015
   },
   "ed_vr_resolution_title": {
-    "message": ""
+    "message": "Résolution de la page durant la création de la vignette.",
+    "u": 1663075667896
   },
   "ed_no_zoom": {
     "message": "Sans zoom"
@@ -1101,13 +1282,15 @@
     "message": "Réinitialiser le zoom"
   },
   "ed_reset_size": {
-    "message": ""
+    "message": "Réinitialiser la taille",
+    "u": 1663075688131
   },
   "ed_reset_scale": {
     "message": "Réinitialiser échelle"
   },
   "label_reset_all": {
-    "message": ""
+    "message": "Tout réinitialise",
+    "u": 1663075704354
   },
   "label_coming_soon": {
     "message": "En développement"
@@ -1119,67 +1302,87 @@
     "message": "Annuler les changements"
   },
   "label_create_all_thumbnails": {
-    "message": ""
+    "message": "Créer toutes les vignettes",
+    "u": 1663075723227
   },
   "label_create_thumbnail": {
-    "message": ""
+    "message": "Créer la vignette",
+    "u": 1663075734071
   },
   "ed_position": {
     "message": "Position:"
   },
   "ed_thumbnail_position_0": {
-    "message": ""
+    "message": "Centrer (Conteneur)",
+    "u": 1663075754693
   },
   "ed_thumbnail_position_1": {
-    "message": ""
+    "message": "Pleine largeur",
+    "u": 1663075781622
   },
   "ed_thumbnail_position_2": {
-    "message": ""
+    "message": "Couverture",
+    "u": 1663075810576
   },
   "ed_thumbnail_position_3": {
-    "message": ""
+    "message": "Remplir (étirer)",
+    "u": 1663075847842
   },
   "ds_fetch_new_name": {
-    "message": ""
+    "message": "Ajustée le titre du dial lors du rafraîchissement (Utilise JavaScript)",
+    "u": 1663146881350
   },
   "ds_fetch_new_name_title": {
-    "message": ""
+    "message": "Pendant le chargement (ou rafraîchissement), le titre des dials sera changé pour le titre actuel de la page. Pour que cela fonctionne, JavaScript doit être activé.",
+    "u": 1663146877894
   },
   "ds_no_script": {
-    "message": ""
+    "message": "Désactiver JavaScript durant le rafraîchissement",
+    "u": 1663076953055
   },
   "ds_no_script_title": {
-    "message": ""
+    "message": "Désactiver JavaScript peut améliorer la création de vignette pour certaines pages.",
+    "u": 1663077088426
   },
   "ds_open_dial_in": {
-    "message": ""
+    "message": "Ouvrir le dial dans:",
+    "u": 1663146873266
   },
   "ds_open_dial_in_0": {
-    "message": ""
+    "message": "Onglet actuel",
+    "u": 1663077120593
   },
   "ds_open_dial_in_1": {
-    "message": ""
+    "message": "Nouvel onglet (en focus)",
+    "u": 1663077172705
   },
   "ds_open_dial_in_2": {
-    "message": ""
+    "message": "Nouvel onglet",
+    "u": 1663077178907
   },
   "ds_open_dial_in_3": {
-    "message": ""
+    "message": "Nouvelle fenêtre",
+    "u": 1663077193190
   },
   "ds_open_dial_in_4": {
-    "message": ""
+    "message": "Nouvelle fenêtre privée",
+    "u": 1663077210202
   },
   "open_in_chrome_incognito": {
-    "message": ""
+    "message": "Fenêtre Incognito",
+    "u": 1663077222449
   },
   "open_in_firefox_private": {
-    "message": ""
+    "message": "Fenêtre privée",
+    "u": 1663077235948
   },
   "firefox_containers": {
-    "message": ""
+    "message": "Conteneurs",
+    "u": 1663077262080
   },
   "no_container": {
-    "message": ""
+    "message": "Sans conteneur",
+    "u": 1663077274892
   },
   "eg_title": {
     "message": "Éditer le groupe"
@@ -1209,16 +1412,19 @@
     "message": ""
   },
   "eg_background_color": {
-    "message": ""
+    "message": "Couleur d'arrière plan",
+    "u": 1663077341848
   },
   "eg_text_color": {
-    "message": ""
+    "message": "Couleur du texte:",
+    "u": 1663077354950
   },
   "menu_search_title": {
     "message": "Rechercher une dial(Ctrl + Shift + F) - en utilisant URL / Nom / Commentaire"
   },
   "dial_number_title": {
-    "message": ""
+    "message": "Numéro de dial - celà peut être utilisé avec le raccourci clavier ”Ctrl + Numéro du groupe\" pour ouvrir le dial.",
+    "u": 1663146868651
   },
   "dial_name_placeholder": {
     "message": "auto-générée si vide"
@@ -1230,7 +1436,8 @@
     "message": "prefixe http://    n'est pas nécessaire (exemple: google.com)"
   },
   "duplicate_dial_found": {
-    "message": ""
+    "message": "Dial en double trouvé dans le groupe $1",
+    "u": 1663579265347
   },
   "op_search": {
     "message": "Recherche d'une dial"
@@ -1242,7 +1449,8 @@
     "message": "Historique / Sauvegarde"
   },
   "menu_archive_title": {
-    "message": ""
+    "message": "Les Archives contiennent vos groupes marqués archivés",
+    "u": 1663081461950
   },
   "op_upload_thumbnails": {
     "message": "Uploader les vignettes"
@@ -1254,25 +1462,32 @@
     "message": "(exclusif Pro)"
   },
   "op_bing_image": {
-    "message": ""
+    "message": "Arrière-plan Bing",
+    "u": 1663081485395
   },
   "op_bing_next": {
-    "message": ""
+    "message": "Image suivante",
+    "u": 1663081491255
   },
   "op_bing_previous": {
-    "message": ""
+    "message": "Image précédente",
+    "u": 1663081497061
   },
   "op_bing_fullscreen": {
-    "message": ""
+    "message": "Voir l'image complète",
+    "u": 1663081518828
   },
   "op_bing_quiz": {
-    "message": ""
+    "message": "Quiz image Bing",
+    "u": 1663081531770
   },
   "o_bing_hide_dials": {
-    "message": ""
+    "message": "Cacher les dials automatiquement pour voir l'arrière-plan",
+    "u": 1663146852415
   },
   "o_no_dial_reflection": {
-    "message": ""
+    "message": "Pas de réflection",
+    "u": 1663081605042
   },
   "o_background_url_placeholder": {
     "message": "exemple: https://www.some_page.com/nature.jpg"
@@ -1281,16 +1496,20 @@
     "message": "coller le texte exporté ici"
   },
   "o_add_current_after_action": {
-    "message": ""
+    "message": "Après avoir ajouté une page au dials:",
+    "u": 1663146847723
   },
   "o_add_current_after_action_0": {
-    "message": ""
+    "message": "Demander à Retourner / Rester",
+    "u": 1663081708988
   },
   "o_add_current_after_action_1": {
-    "message": ""
+    "message": "Retourner à l'onglet précédent",
+    "u": 1663081727228
   },
   "o_add_current_after_action_2": {
-    "message": ""
+    "message": "Rester sur la page des dials",
+    "u": 1663146843367
   },
   "o_theme_title": {
     "message": "Par défauts : noir - pour passer de meilleures nuits"
@@ -1299,19 +1518,24 @@
     "message": "Espace autour de chaque dial, la valeur est doublé entre deux dials"
   },
   "o_sync_dials": {
-    "message": ""
+    "message": "Synchronisation des données Dials",
+    "u": 1663146838796
   },
   "o_sync_settings": {
-    "message": ""
+    "message": "Synchronisation des données Préférences",
+    "u": 1663081819285
   },
   "o_disable_dials_sync": {
-    "message": ""
+    "message": "Désactiver la synchronisation des dials sur cette appareil",
+    "u": 1663146833829
   },
   "o_disable_dials_sync_title": {
-    "message": ""
+    "message": "Vos dials ne seront PAS sauvegardés sur le Cloud. N'oubliez pas de créer une sauvegarde locale régulièrement pour éviter une perte de données !",
+    "u": 1663146828758
   },
   "o_auto_options_sync": {
-    "message": ""
+    "message": "Sauvegarder automatiquement et synchroniser vos préférences avec tout vos appareils",
+    "u": 1663082782676
   },
   "o_group_padding_title": {
     "message": "Espace autour de chaque nom de groupe, la valeur est doublé entre deux groupes"
@@ -1351,7 +1575,8 @@
     "message": "Par défaut : désactivé - Quand activité, les dials auront des bords droits."
   },
   "o_dial_font_size": {
-    "message": ""
+    "message": "Taille du Nom des dials",
+    "u": 1663146823533
   },
   "o_dial_title_down": {
     "message": "nom des dials en dessous"
@@ -1360,7 +1585,8 @@
     "message": "Par défaut : désactivé - Si activer déplace le nom de la dial au bas de la dial."
   },
   "o_scrollable_thumbnails": {
-    "message": ""
+    "message": "Autoriser la barre de défilement à l'intérieur des dials",
+    "u": 1663146817665
   },
   "o_no_shadow": {
     "message": "Sans ombre autour des dials"
@@ -1378,16 +1604,19 @@
     "message": "Cacher l'ombre de sélection"
   },
   "o_dial_numbers_title": {
-    "message": ""
+    "message": "Montrer le numéro de la dials à côté du nom. Les numéros de dial sont utile si vous utiliser le raccourci \"CTRL + Numéro Group Speed Dial\" pour ouvrir les dials.",
+    "u": 1663147122686
   },
   "o_dial_numbers": {
-    "message": ""
+    "message": "Montrer les numéros de dials",
+    "u": 1663146788655
   },
   "o_hide_hover_shadow_title": {
     "message": "Par défaut: désactivé - quand activité, l'ombre de sélection n'apparaît plus lorsque l'on passe la souris au dessus des dials."
   },
   "o_hide_login_part": {
-    "message": ""
+    "message": "Caché la partie utilisé pour s'identifier",
+    "u": 1663083183945
   },
   "o_hide_login_part_title": {
     "message": ""
@@ -1405,25 +1634,31 @@
     "message": "-"
   },
   "o_root_groups_only": {
-    "message": ""
+    "message": "Caché les sous-groupes dand la liste des groupes (barre du dessus)",
+    "u": 1663083258885
   },
   "o_root_groups_only_title": {
-    "message": ""
+    "message": "Seul les groupes source seront montré. Les groupes qui sont à l'intérieur d'autre groupe seront cachés.",
+    "u": 1663083370627
   },
   "o_firefox_homepage_override": {
-    "message": ""
+    "message": "Lors du démarrage de Firefox, ouvre la page des dials",
+    "u": 1663146783840
   },
   "o_pro_thumbnail_sync": {
-    "message": ""
+    "message": "Permet la synchronisation automatique des vignettes avec le serveur cloud",
+    "u": 1663083458258
   },
   "o_group_name_as_title": {
     "message": "Utilise le nom du groupe actuellement sélectionné  pour definir le Titre de la page des dials"
   },
   "o_prevent_new_tab_container": {
-    "message": ""
+    "message": "Empêche d'ouvrir la pages des dials dans Firefox container",
+    "u": 1663146779088
   },
   "o_prevent_new_tab_container_title": {
-    "message": ""
+    "message": "Les pages dials seront ouvert sans container",
+    "u": 1663146775426
   },
   "o_group_name_as_title_title": {
     "message": "Le nom du groupe sera aussi celui de la page Titre - cela est ensuite visible en tant que nom d'onglet ou nom dans la barre de tâche."
@@ -1432,13 +1667,15 @@
     "message": "Ouvrir GroupSpeeDial avec l'icône de l'addon"
   },
   "o_instant_popup_new_tab": {
-    "message": ""
+    "message": "Ouvre un nouvel onglet",
+    "u": 1663083585214
   },
   "o_instant_popup_new_tab_title": {
     "message": "-"
   },
   "o_user_consent_google_favicon": {
-    "message": ""
+    "message": "Permet l'usage du service Google pour récupérer les Façon des dials (utilisé seulement si le téléchargement ne peut se faire directement) - recommandé",
+    "u": 1663146769635
   },
   "o_instant_popup_redirect_title": {
     "message": "Ouvre la page des dials en cliquant sur l'icône de l'add-on dans la barre de tâche"
@@ -1450,10 +1687,12 @@
     "message": "Click gauche sur une dial ne montrera plus la fenêtre permettant de la modifié."
   },
   "o_open_always_new_window": {
-    "message": ""
+    "message": "Toujours ouvrir dans une nouvelle page",
+    "u": 1663083749632
   },
   "o_open_always_new_window_title": {
-    "message": ""
+    "message": "Cliquer une dial ouvrira son URL dans une nouvelle fenêtre",
+    "u": 1663146761900
   },
   "o_open_always_new_tab": {
     "message": "Toujours ouvrir dans un nouvel onglet"
@@ -1474,13 +1713,16 @@
     "message": "Navigue sur un nouvel onglet ouvert"
   },
   "o_remember_group": {
-    "message": ""
+    "message": "Se souvenir du dernier groupe ouvert",
+    "u": 1663083806067
   },
   "o_remember_group_title": {
-    "message": ""
+    "message": "Quand cette fonction est activé, la prochaine fois que vous ouvrez un nouvel onglet, vous serez redirigé vers le dernier groupe utilisé.",
+    "u": 1663083923823
   },
   "o_remember_group_runtime": {
-    "message": ""
+    "message": "Se souvenir seulement jusqu'au redémarrage du navigateur",
+    "u": 1663083981079
   },
   "o_disable_auto_show_groups": {
     "message": "Désactiver auto-show quand Drag and drop est utilisé"
@@ -1531,19 +1773,24 @@
     "message": ""
   },
   "o_context_menu_show_groups": {
-    "message": ""
+    "message": "Montrer les listes de groupes dans le menu contextuel, pour un ajout rapide",
+    "u": 1663084030675
   },
   "o_context_menu_internal": {
-    "message": ""
+    "message": "Menu contextuel des pages Dials",
+    "u": 1663084261578
   },
   "o_dials_context_menu": {
-    "message": ""
+    "message": "Dials et groupe-dials:",
+    "u": 1663084286061
   },
   "o_groups_context_menu": {
-    "message": ""
+    "message": "Groupes",
+    "u": 1663084293443
   },
   "o_options_context_menu": {
-    "message": ""
+    "message": "Menu d'options",
+    "u": 1663084305910
   },
   "o_tab_visual_dials": {
     "message": "Dials"
@@ -1564,10 +1811,12 @@
     "message": "Couleur du thème"
   },
   "o_custom_css": {
-    "message": ""
+    "message": "Personnalisation des styles CSS",
+    "u": 1663084333231
   },
   "o_custom_css_placeholder": {
-    "message": ""
+    "message": "ATTENTION: Pour les utilisateurs expérimentés seulement ! Des Styles incorrectes peuvent détruire l'expérience visuel",
+    "u": 1663084448281
   },
   "o_reload_group_dials": {
     "message": "Rafraîchir Group Dials après changement de l'arrière-plan"
@@ -1579,10 +1828,12 @@
     "message": ""
   },
   "o_android_min_size": {
-    "message": ""
+    "message": "Taille des Dials Android",
+    "u": 1663084482107
   },
   "o_android_min_dial_size": {
-    "message": ""
+    "message": "Taille minimale des Dial sur Android (0 - Désactivé):",
+    "u": 1663084582559
   },
   "o_space_around_dials": {
     "message": "Espace autour des dials"
@@ -1633,7 +1884,8 @@
     "message": "Copier le lien d'accueil"
   },
   "o_safari_dials_page_hotkeys": {
-    "message": ""
+    "message": "Raccourci clavier pour ouvrir les pages Dials:",
+    "u": 1663084611768
   },
   "o_how_to_homepage": {
     "message": "pour que $app_name$ devienne votre page d'accueil - cliquer sur \"copier le lien d'accueil\" et coller le dans Navigateur / Options / page d'accueil\""
@@ -1654,94 +1906,120 @@
     "message": "Activer le délai lors de l'usage du Drag and Drop"
   },
   "o_short_keys": {
-    "message": ""
+    "message": "Raccourcis - une autre extension est nécessaire:",
+    "u": 1663084672770
   },
   "o_key_extended_mode": {
-    "message": ""
+    "message": "Permettre l'accès à plus de 9 dials",
+    "u": 1663084705922
   },
   "o_key_extended_mode_title": {
     "message": "-"
   },
   "o_dial_only_current_group": {
-    "message": ""
+    "message": "Speed Dial seulement le groupe ouvert actuellement",
+    "u": 1663084816388
   },
   "o_dial_only_current_group_title": {
-    "message": ""
+    "message": "Exemple: Taper \"1\" ouvrira la première Dial du groupe ouvert présentement.",
+    "u": 1663084908811
   },
   "o_key_force_page_focus": {
-    "message": ""
+    "message": "Forcer le focus sur la page (expérimental - peut arrêter de fonctionner)",
+    "u": 1663084998956
   },
   "o_key_force_page_focus_title": {
-    "message": ""
+    "message": "Si la barre d'adresse est en focus, nous essaierons de remettre le focus sur la page.",
+    "u": 1663085071392
   },
   "o_key_to_group_dial": {
-    "message": ""
+    "message": "Permettre l'accès au groupes pendant qu'une touche est garder appuyé",
+    "u": 1663085117105
   },
   "o_key_to_group_dial_title": {
-    "message": ""
+    "message": "Pendant que cette touche est appuyé - vous pourrez composer avec le clavier pour les groupes au lieu des dials.sur les",
+    "u": 1663085269190
   },
   "o_key_disable_alt": {
-    "message": ""
+    "message": "Désactiver les raccourcis \"ALT / \"CMD\"",
+    "u": 1663085308663
   },
   "o_key_disable_alt_title": {
-    "message": ""
+    "message": "Désactive les raccourcis utilisant la touche \"Alt\" du clavier sur Windows et \"CMD\" sur Mac OS.",
+    "u": 1663085415722
   },
   "o_key_disable_ctrl": {
-    "message": ""
+    "message": "Désactiver les raccourcis \"CTRL\"",
+    "u": 1663085771271
   },
   "o_key_disable_ctrl_title": {
-    "message": ""
+    "message": "Désactive les raccourcis utilisant la touche \"CTRL\" du clavier.",
+    "u": 1663085761700
   },
   "o_key_disable_shift": {
-    "message": ""
+    "message": "Désactiver les raccourcis \"Shift\"",
+    "u": 1663085744669
   },
   "o_key_disable_shift_title": {
-    "message": ""
+    "message": "Désactive les raccourcis utilisant la touche \"Shift\" du clavier.",
+    "u": 1663085814653
   },
   "o_key_disable_f4": {
-    "message": ""
+    "message": "Désactiver le raccourci \"F4\" pour ouvrir un nouvel onglet",
+    "u": 1663085859409
   },
   "o_key_disable_f4_title": {
     "message": ""
   },
   "o_key_f4_active_here": {
-    "message": ""
+    "message": "Ouvrir les pages Dials dans l'onglet actif",
+    "u": 1663085906429
   },
   "o_key_disable_zero": {
-    "message": ""
+    "message": "Désactiver \"CTRL+0\" short-key pour ouvrir la 10ème dial",
+    "u": 1663085972303
   },
   "o_key_disable_zero_title": {
-    "message": ""
+    "message": "Appuyer la touche \"CTRL+0\" (utilisé également pour \"réinitialiser le zoom\") n'ouvrira plus la dial numéro 10",
+    "u": 1663086073449
   },
   "o_key_new_tab": {
-    "message": ""
+    "message": "Ouvrir dans un nouvel onglet",
+    "u": 1663086084328
   },
   "o_key_new_tab_title": {
     "message": "-"
   },
   "o_key_next_to_current": {
-    "message": ""
+    "message": "A côté de l'onglet actif",
+    "u": 1663086102195
   },
   "o_key_next_to_current_title": {
     "message": "-"
   },
   "o_keys_delay": {
-    "message": ""
+    "message": "Délai pour les numéros a chiffre multiple:",
+    "u": 1663086178000
   },
   "o_ar_settings": {
-    "message": ""
+    "message": "Auto-rafraichir les préférences",
+    "u": 1663086210760
   },
   "o_ar_disable_this_device": {
-    "message": ""
+    "message": "Désactiver sur cette appareil",
+    "u": 1663086222555
   },
   "o_ar_disable_this_device_title": {
-    "message": ""
+    "message": "L'Auto-rafraichissement sera désactivé sur ce navigateur",
+    "u": 1663086283985
   },
   "o_ar_keep_pinned_tab": {
-    "message": ""
+    "message": "Continuer de rafraîchir l'onglet ouvert après un rafraîchissement",
+    "u": 1663086345260
   },
   "o_ar_keep_pinned_tab_title": {
-    "message": ""
+    "message": "L'onglet utilisé pour créer les vignettes restera ouvert après un rafraîchissement.",
+    "u": 1663086450941
   },
   "o_ar_concurrent_count": {
     "message": ""
@@ -1750,22 +2028,28 @@
     "message": ""
   },
   "o_ar_screen_resolution": {
-    "message": ""
+    "message": "Auto-rafraichir la résolution d'écran cible",
+    "u": 1663086720676
   },
   "o_ar_auto_radio": {
-    "message": ""
+    "message": "Automatique - basé sur la résolution de votre moniteur actuel (recommandé)",
+    "u": 1663086615249
   },
   "o_ar_custom_radio": {
-    "message": ""
+    "message": "Manuel",
+    "u": 1663086621012
   },
   "o_ar_screen_resolution_help": {
-    "message": ""
+    "message": "Résolution des vignettes est calculer avec la taille de votre écran et la taille du groupe cible",
+    "u": 1663086702510
   },
   "o_vr_screen_resolution": {
-    "message": ""
+    "message": "Résolution de la page virtuelle  utilisé pour générer les vignettes",
+    "u": 1663086811913
   },
   "o_vr_default_width": {
-    "message": ""
+    "message": "Largeur par défaut de la page virtuelle",
+    "u": 1663086829696
   },
   "o_vr_default_width_title": {
     "message": ""
@@ -1798,7 +2082,8 @@
     "message": "Qualité d'image - Rafraîchissement par visite:"
   },
   "o_context_menu_dials_page": {
-    "message": ""
+    "message": "Menu contextuel sur les pages Dials:",
+    "u": 1663086863007
   },
   "o_backup_restore": {
     "message": "Sauvegarde / restorer les options"
@@ -1807,10 +2092,12 @@
     "message": "Exporter les options et les dials"
   },
   "o_export_thumbnails": {
-    "message": ""
+    "message": "Exporter aussi les vignettes - cela agrandira significativement la taille du fichier exporté",
+    "u": 1663086922371
   },
   "o_import_other_addons": {
-    "message": ""
+    "message": "Importé depuis d'autres extensions",
+    "u": 1663086953483
   },
   "o_import_josep": {
     "message": "Importer les Dials depuis l'add-on \"Speed Dial by Josep del Rio\""
@@ -1846,16 +2133,20 @@
     "message": "image par URL:"
   },
   "o_picture_is_web_page": {
-    "message": ""
+    "message": "Page web pour l'arrière-plan",
+    "u": 1663086999415
   },
   "o_picture_bing_of_the_day": {
-    "message": ""
+    "message": "Image du jour Bing",
+    "u": 1663087013291
   },
   "o_picture_bing_of_the_day_note": {
-    "message": ""
+    "message": "Nouvelle image chaque jour à partir de $1",
+    "u": 1663147244316
   },
   "o_picture_bing_of_the_day_help": {
-    "message": ""
+    "message": "Vous pouvez controler les images Bing depuis le menu principale, dans la page Dials",
+    "u": 1663134283382
   },
   "o_picture_from_pc": {
     "message": "image par PC"
@@ -1873,101 +2164,133 @@
     "message": "Cependant un compte gratuit peut être créé dans le cloud et vos vignettes seront automatiquement sauvegardé dans le cloud. Toutes les informations sont transférées par une xonnection encrypté HTTPS."
   },
   "reload_heading": {
-    "message": ""
+    "message": "$app_name$ - onglet de rafraichissement des vignettes",
+    "u": 1663134320989
   },
   "reload_subheading": {
-    "message": ""
+    "message": "Cet onglet est utilisé par la fonction Auto-rafraichissement et pour créer les vignettes en fond de tâches.",
+    "u": 1663134764152
   },
   "archive": {
-    "message": ""
+    "message": "Archiver",
+    "u": 1663134788135
   },
   "archived": {
-    "message": ""
+    "message": "archivé",
+    "u": 1663134801769
   },
   "archive_empty": {
-    "message": ""
+    "message": "L'archive est vide",
+    "u": 1663134831095
   },
   "archive_empty_body": {
-    "message": ""
+    "message": "Il vous faut premièrement avoir archivé des groupes",
+    "u": 1663135411248
   },
   "archive_close_title": {
-    "message": ""
+    "message": "Cliquer pour fermé l'archive",
+    "u": 1663135484528
   },
   "group_archive_group": {
-    "message": ""
+    "message": "Déplacer vers les archives",
+    "u": 1663135500236
   },
   "group_archive_group_title": {
-    "message": ""
+    "message": "Les groupes archivés ne sont plus visible dans la liste de groupe. Vous pouvez accéder vos groupes archivés à partir du Menu principale / Archive",
+    "u": 1663135985112
   },
   "productivity_mode": {
-    "message": ""
+    "message": "Mode productivité",
+    "u": 1663135996671
   },
   "productivity_mode_title": {
-    "message": ""
+    "message": "Caché automatiquement les dials distrayantes pendant vos heures de travail pour aider votre focus.",
+    "u": 1663136226913
   },
   "auto_productivity_mode": {
-    "message": ""
+    "message": "Planifier le mode productif automatique",
+    "u": 1663136905814
   },
   "active_days": {
-    "message": ""
+    "message": "Days actif",
+    "u": 1663136921792
   },
   "start_time": {
-    "message": ""
+    "message": "Heure de départ",
+    "u": 1663136937562
   },
   "end_time": {
-    "message": ""
+    "message": "Heure de fin",
+    "u": 1663136987991
   },
   "elapsed_time": {
-    "message": ""
+    "message": "Temps écoulé",
+    "u": 1663137097864
   },
   "remaining_time": {
-    "message": ""
+    "message": "Temps restant",
+    "u": 1663137124652
   },
   "start_productivity": {
-    "message": ""
+    "message": "Activer maintenant",
+    "u": 1663137194280
   },
   "end_productivity": {
-    "message": ""
+    "message": "Terminer maintenant",
+    "u": 1663137316587
   },
   "choose_distracting_dials": {
-    "message": ""
+    "message": "Sélectionner les dials distrayantes",
+    "u": 1663137486314
   },
   "selected_dials_groups": {
-    "message": ""
+    "message": "Sélectionné: $1 dials / $2 groups",
+    "u": 1663137665992
   },
   "s_cp": {
-    "message": ""
+    "message": "Moteur de Recherche Personnalisé",
+    "u": 1663137820854
   },
   "sc_0": {
-    "message": ""
+    "message": "Personnalisé",
+    "u": 1663137853685
   },
   "sc_1": {
-    "message": ""
+    "message": "Recherche web",
+    "u": 1663137912945
   },
   "sc_2": {
-    "message": ""
+    "message": "Traduire",
+    "u": 1663137934999
   },
   "sc_3": {
-    "message": ""
+    "message": "Vidéo",
+    "u": 1663137978179
   },
   "sc_4": {
-    "message": ""
+    "message": "Réseau sociaux",
+    "u": 1663138115966
   },
   "sc_5": {
-    "message": ""
+    "message": "Maps",
+    "u": 1663138252820
   },
   "sc_6": {
-    "message": ""
+    "message": "Musique",
+    "u": 1663138291544
   },
   "sc_7": {
-    "message": ""
+    "message": "Vidéo",
+    "u": 1663138299143
   },
   "sc_8": {
-    "message": ""
+    "message": "Autres",
+    "u": 1663138310715
   },
   "search_engine": {
-    "message": "",
-    "common": true
+    "message": "Moteur de Recherche",
+    "common": true,
+    "u": 1663138328748
   },
   "color_remove_color": {
     "message": "effacer la couleur",
@@ -1978,20 +2301,23 @@
     "common": true
   },
   "color_rgb": {
-    "message": "",
-    "common": true
+    "message": "RGB (RVB)",
+    "common": true,
+    "u": 1663138423142
   },
   "color_no_color": {
-    "message": "",
-    "common": true
+    "message": "Sans couleur",
+    "common": true,
+    "u": 1663138508861
   },
   "field_int_default_value": {
     "message": "Valeur par défaut: $1, min: $2, max: $3",
     "common": true
   },
   "field_set_default": {
-    "message": "",
-    "common": true
+    "message": "Réinitialiser au valeurs par défaut: $1",
+    "common": true,
+    "u": 1663453141245
   },
   "import_finished": {
     "message": "Import terminé!",
@@ -2022,8 +2348,9 @@
     "common": true
   },
   "statistics": {
-    "message": "",
-    "common": true
+    "message": "Statistiques",
+    "common": true,
+    "u": 1663138909272
   },
   "color_black": {
     "message": "Noir",
@@ -2034,12 +2361,14 @@
     "common": true
   },
   "theme_light": {
-    "message": "",
-    "common": true
+    "message": "Clair",
+    "common": true,
+    "u": 1663139045607
   },
   "theme_dark": {
-    "message": "",
-    "common": true
+    "message": "Sombre",
+    "common": true,
+    "u": 1663139060440
   },
   "title_introduction": {
     "message": "Introduction",
@@ -2050,8 +2379,9 @@
     "common": true
   },
   "privacy_info": {
-    "message": "",
-    "common": true
+    "message": "Information privée",
+    "common": true,
+    "u": 1663139083093
   },
   "search_search": {
     "message": "Recherche",
@@ -2066,12 +2396,14 @@
     "common": true
   },
   "send_runtime_error_log": {
-    "message": "",
-    "common": true
+    "message": "Envoyer le rapport d'érreur...",
+    "common": true,
+    "u": 1663139329165
   },
   "send_runtime_errors": {
-    "message": "",
-    "common": true
+    "message": "Cliquer le lien ci-dessous pour m'envoyer un e-mail avec les informations mentionnées ci-dessous:",
+    "common": true,
+    "u": 1663140651821
   },
   "firefox_store": {
     "message": "Firefox Add-Ons",
@@ -2090,40 +2422,47 @@
     "common": true
   },
   "menu_quick_options": {
-    "message": "",
-    "common": true
+    "message": "Options rapide",
+    "common": true,
+    "u": 1663140678262
   },
   "menu_visit_homepage": {
     "message": "Visiter la page d'acceuil",
     "common": true
   },
   "key_name_ctrl": {
-    "message": "",
-    "common": true
+    "message": "Ctrl",
+    "common": true,
+    "u": 1663140683210
   },
   "key_name_alt": {
-    "message": "",
-    "common": true
+    "message": "Alt",
+    "common": true,
+    "u": 1663140703323
   },
   "key_name_shift": {
-    "message": "",
-    "common": true
+    "message": "Shift",
+    "common": true,
+    "u": 1663140706574
   },
   "label_font_size": {
     "message": "Taille de police",
     "common": true
   },
   "label_font_size_preview": {
-    "message": "",
-    "common": true
+    "message": "Aperçu de la taille de la police",
+    "common": true,
+    "u": 1663140793981
   },
   "label_previous": {
-    "message": "",
-    "common": true
+    "message": "Précédent",
+    "common": true,
+    "u": 1663140821540
   },
   "label_back": {
-    "message": "",
-    "common": true
+    "message": "Retour",
+    "common": true,
+    "u": 1663140828074
   },
   "label_next": {
     "message": "Suivante",
@@ -2134,8 +2473,9 @@
     "common": true
   },
   "label_not_supported_by_browser": {
-    "message": "",
-    "common": true
+    "message": "Non supporté par ce navigateur",
+    "common": true,
+    "u": 1663140907160
   },
   "label_remove": {
     "message": "Supprimer",
@@ -2158,8 +2498,9 @@
     "common": true
   },
   "label_copy": {
-    "message": "",
-    "common": true
+    "message": "Copier",
+    "common": true,
+    "u": 1663140913707
   },
   "label_copied": {
     "message": "Copié!",
@@ -2174,12 +2515,14 @@
     "common": true
   },
   "label_maximize": {
-    "message": "",
-    "common": true
+    "message": "Maximiser",
+    "common": true,
+    "u": 1663140924526
   },
   "label_minimize": {
-    "message": "",
-    "common": true
+    "message": "Minimiser",
+    "common": true,
+    "u": 1663140941102
   },
   "label_installed": {
     "message": "Installée",
@@ -2198,36 +2541,44 @@
     "common": true
   },
   "label_active": {
-    "message": "",
-    "common": true
+    "message": "Actif",
+    "common": true,
+    "u": 1663140949745
   },
   "label_inactive": {
-    "message": "",
-    "common": true
+    "message": "Inactif",
+    "common": true,
+    "u": 1663140955612
   },
   "label_paused": {
-    "message": "",
-    "common": true
+    "message": "En pause",
+    "common": true,
+    "u": 1663141003328
   },
   "label_pause": {
-    "message": "",
-    "common": true
+    "message": "Pauser",
+    "common": true,
+    "u": 1663141013820
   },
   "label_resume": {
-    "message": "",
-    "common": true
+    "message": "Resumer",
+    "common": true,
+    "u": 1663141057144
   },
   "label_select_all": {
-    "message": "",
-    "common": true
+    "message": "Selectionner tous",
+    "common": true,
+    "u": 1663141073328
   },
   "label_select_none": {
-    "message": "",
-    "common": true
+    "message": "Ne rien sélectionner",
+    "common": true,
+    "u": 1663141313541
   },
   "label_minutes": {
-    "message": "",
-    "common": true
+    "message": "$1 min.",
+    "common": true,
+    "u": 1663141329706
   },
   "label_scale": {
     "message": "Echelle",
@@ -2242,8 +2593,9 @@
     "common": true
   },
   "label_example": {
-    "message": "",
-    "common": true
+    "message": "Exemple:",
+    "common": true,
+    "u": 1663141353404
   },
   "menu_button_title": {
     "message": "Menu",
@@ -2258,12 +2610,14 @@
     "common": true
   },
   "online_help": {
-    "message": "",
-    "common": true
+    "message": "Documentation en ligne",
+    "common": true,
+    "u": 1663141417690
   },
   "online_help_info": {
-    "message": "",
-    "common": true
+    "message": "Vous trouverez ici des tutoriels, tips et tricks, discussions et bien plus!",
+    "common": true,
+    "u": 1663141486902
   },
   "op_support_me": {
     "message": "Aider ce projet",
@@ -2274,28 +2628,33 @@
     "common": true
   },
   "op_help_introduction": {
-    "message": "",
-    "common": true
+    "message": "Vidéo d'introduction",
+    "common": true,
+    "u": 1663141498911
   },
   "op_help_safari_setup": {
-    "message": "",
-    "common": true
+    "message": "Configuration Safari",
+    "common": true,
+    "u": 1663141614555
   },
   "op_help_android_setup": {
-    "message": "",
-    "common": true
+    "message": "Configuration Android vidéo",
+    "common": true,
+    "u": 1663141650958
   },
   "o_title": {
     "message": "Options - $10",
     "common": true
   },
   "o_manual_options_sync": {
-    "message": "",
-    "common": true
+    "message": "Sauvegarde manuelle",
+    "common": true,
+    "u": 1663141675396
   },
   "automatic_backup": {
-    "message": "",
-    "common": true
+    "message": "Sauvegarde automatique",
+    "common": true,
+    "u": 1663141698287
   },
   "backup": {
     "message": "sauvegarde",
@@ -2310,16 +2669,18 @@
     "common": true
   },
   "load_settings": {
-    "message": "",
-    "common": true
+    "message": "Chargé les options",
+    "common": true,
+    "u": 1663141708198
   },
   "o_tab_general": {
     "message": "Général",
     "common": true
   },
   "o_tab_sync": {
-    "message": "",
-    "common": true
+    "message": "Synchronisation",
+    "common": true,
+    "u": 1663141743659
   },
   "o_tab_background": {
     "message": "Arrière-plan",
@@ -2442,84 +2803,104 @@
     "common": true
   },
   "s_baidu": {
-    "message": "",
-    "common": true
+    "message": "Baidu",
+    "common": true,
+    "u": 1663141751950
   },
   "s_google": {
-    "message": "",
-    "common": true
+    "message": "Google",
+    "common": true,
+    "u": 1663141755039
   },
   "s_bing": {
-    "message": "",
-    "common": true
+    "message": "Bing",
+    "common": true,
+    "u": 1663141757550
   },
   "s_yahoo": {
-    "message": "",
-    "common": true
+    "message": "Yahoo",
+    "common": true,
+    "u": 1663141762978
   },
   "s_brave": {
-    "message": "",
-    "common": true
+    "message": "Brave",
+    "common": true,
+    "u": 1663141767597
   },
   "s_yandex": {
-    "message": "",
-    "common": true
+    "message": "Yandex",
+    "common": true,
+    "u": 1663141777736
   },
   "s_duck_duck_go": {
-    "message": "",
-    "common": true
+    "message": "DuckDuckGo",
+    "common": true,
+    "u": 1663141783853
   },
   "s_qwant": {
-    "message": "",
-    "common": true
+    "message": "Qwant",
+    "common": true,
+    "u": 1663141793746
   },
   "s_ecosia": {
-    "message": "",
-    "common": true
+    "message": "Ecosia",
+    "common": true,
+    "u": 1663141798412
   },
   "s_seznam": {
-    "message": "",
-    "common": true
+    "message": "Seznam",
+    "common": true,
+    "u": 1663141805639
   },
   "s_translate_en": {
-    "message": "",
-    "common": true
+    "message": "Google Traduction",
+    "common": true,
+    "u": 1663141939000
   },
   "s_translate_microsoft_en": {
-    "message": "",
-    "common": true
+    "message": "Microsoft Translator",
+    "common": true,
+    "u": 1663141982328
   },
   "s_translate_deepl_en": {
-    "message": "",
-    "common": true
+    "message": "DeepL Translator",
+    "common": true,
+    "u": 1663141992886
   },
   "s_translate_yandex_en": {
-    "message": "",
-    "common": true
+    "message": "Yandex Translator",
+    "common": true,
+    "u": 1663142006950
   },
   "s_translate_baidu_en": {
-    "message": "",
-    "common": true
+    "message": "Baidu Translator",
+    "common": true,
+    "u": 1663142016921
   },
   "s_wikipedia": {
-    "message": "",
-    "common": true
+    "message": "Wikipedia",
+    "common": true,
+    "u": 1663142033083
   },
   "s_youtube": {
-    "message": "",
-    "common": true
+    "message": "Youtube",
+    "common": true,
+    "u": 1663142040490
   },
   "s_google_maps": {
-    "message": "",
-    "common": true
+    "message": "Google Maps",
+    "common": true,
+    "u": 1663142046838
   },
   "s_twitter": {
-    "message": "",
-    "common": true
+    "message": "Twitter",
+    "common": true,
+    "u": 1663142055024
   },
   "s_facebook": {
-    "message": "",
-    "common": true
+    "message": "Facebook",
+    "common": true,
+    "u": 1663142062481
   },
   "s_imdb": {
     "message": "IMDb",
@@ -2540,5 +2921,401 @@
   "dark_mode_system": {
     "message": "Contrôlé par le système",
     "common": true
+  },
+  "file_load_drop_help": {
+    "message": "Vous pouvez \"Glisser - Déposer\" le fichier image directement sur la dial.",
+    "u": 1663142194738
+  },
+  "resize_dial_v_third": {
+    "message": "Tiers Vertical",
+    "u": 1663142245893
+  },
+  "resize_dial_h_third": {
+    "message": "Tier Horizontal",
+    "u": 1663142241852
+  },
+  "resize_dial_v_fourth": {
+    "message": "Quart Vertical",
+    "u": 1663142238343
+  },
+  "resize_dial_h_fourth": {
+    "message": "Quart Horizontal",
+    "u": 1663142264335
+  },
+  "label_tip": {
+    "message": "Tip:",
+    "u": 1663142275056
+  },
+  "o_on_hover_show_url": {
+    "message": "Pendant survol de la souris, afficher l'URL de la dial",
+    "u": 1663142418910
+  },
+  "label_layout": {
+    "message": "Disposition",
+    "u": 1663142434421
+  },
+  "label_style": {
+    "message": "Style",
+    "u": 1663142438515
+  },
+  "label_actions": {
+    "message": "Actions",
+    "u": 1663142448709
+  },
+  "group_layout": {
+    "message": "Disposition du groupe",
+    "u": 1663142456846
+  },
+  "group_layout_fill": {
+    "message": "Remplir l'espace",
+    "u": 1663142471091
+  },
+  "group_layout_center": {
+    "message": "Centrer les dials",
+    "u": 1663142482598
+  },
+  "group_layout_scroll": {
+    "message": "défilement des dials",
+    "u": 1663142508370
+  },
+  "group_layout_dynamic": {
+    "message": "Dynamic",
+    "u": 1663142523101
+  },
+  "pixels_short": {
+    "message": "px",
+    "u": 1663142527857
+  },
+  "eg_dial_aspect_ratio": {
+    "message": "Ratio Hauteur/Largeur des dials",
+    "u": 1663142572462
+  },
+  "eg_dial_size": {
+    "message": "Taille de la dial",
+    "u": 1663142657788
+  },
+  "make_group_default": {
+    "message": "Défaut",
+    "u": 1663142664097
+  },
+  "make_group_default_title": {
+    "message": "Ouvrir ce groupe au démarrage",
+    "u": 1663142685097
+  },
+  "label_option_conflict_with": {
+    "message": "Conflit avec l'option \"$1\"",
+    "u": 1663142720160
+  },
+  "o_open_always_stop_opener_id": {
+    "message": "Ouvrir sans relation / position avec l'onglet actif",
+    "u": 1663142865695
+  },
+  "o_open_always_stop_opener_id_title": {
+    "message": "Si l'onglet est ouvert en relation avec l'onglet actif, il est placé près de l'onglet actif, et après sa fermeture, l'onglet parent ouvert est mis en focus.",
+    "u": 1663143105027
+  },
+  "label_deprecated": {
+    "message": "Cette feature peut arrêter de fonctionner dans les versions future de votre navigateur",
+    "u": 1663143229805
+  },
+  "o_activate_group_hover": {
+    "message": "Ouvrir le groupe en le survolant avec la souris",
+    "u": 1663143253547
+  },
+  "select_dials": {
+    "message": "Selectionner dials",
+    "u": 1663143264198
+  },
+  "op_cut": {
+    "message": "Couper",
+    "u": 1663143267897
+  },
+  "op_copy": {
+    "message": "Copier",
+    "u": 1663143273140
+  },
+  "op_paste": {
+    "message": "Coller",
+    "u": 1663143278238
+  },
+  "set_reloading_monitor": {
+    "message": "Utiliser CE moniteur pour créer les vignettes",
+    "u": 1663143304264
+  },
+  "group_layout_list": {
+    "message": "Liste",
+    "u": 1663143309431
+  },
+  "label_min_size": {
+    "message": "Taille min.",
+    "u": 1663143322834
+  },
+  "ed_tab_top_sites": {
+    "message": "Top Sites",
+    "u": 1663143329165
+  },
+  "top_sites_enable": {
+    "message": "Voir les \"Top Sites\" dans ce groupe",
+    "u": 1663143370135
+  },
+  "top_sites_help_1": {
+    "message": "Votre navigateur-web gère cette liste. Cela sera automatiquement mis-à-jour suivant votre activité.",
+    "u": 1663143534052
+  },
+  "top_sites_about": {
+    "message": "Top Sites est une liste de vos pages web les plus visitées",
+    "u": 1663143572480
+  },
+  "label_limit": {
+    "message": "Limite:",
+    "u": 1663143585434
+  },
+  "top_sites_help_2": {
+    "message": "Pour le configurer, visite page:",
+    "u": 1663143689825
+  },
+  "o_export_to_html": {
+    "message": "Exporter en HTML",
+    "u": 1663143709888
+  },
+  "o_export_links_to_html": {
+    "message": "Exporter les liens seulement en fichier HTML, compatible avec Firefox Bookmarks (ce n'est pas une sauvegarde complete!)",
+    "u": 1663143840704
+  },
+  "o_dial_title_center": {
+    "message": "Centrer les noms des dials",
+    "u": 1663143851320
+  },
+  "o_dial_no_favicon": {
+    "message": "Caché les favicons (l'icône près du nom de la dial)",
+    "u": 1663143892493
+  },
+  "edge_store": {
+    "message": "Page d'extensions du navigateur Edge",
+    "u": 1663143921463
+  },
+  "hide_dial_title": {
+    "message": "Cacher le titre de la dial",
+    "u": 1663143941086
+  },
+  "lock_group": {
+    "message": "Verrouiller ce groupe",
+    "u": 1663143978376
+  },
+  "lock_group_help": {
+    "message": "Vous serez capable d'ouvrir ce groupe seulement après avoir entré votre Master mot-de-passe",
+    "u": 1663144073776
+  },
+  "master_password": {
+    "message": "Master mot-de-passe",
+    "u": 1663144096267
+  },
+  "lock_group_help_2": {
+    "message": "Les données dans le groupe verouillé ne sont PAS crypté. Un programmeur talentueux ayant accès à votre ordinateur pourrais eventuellement trouver un moyen de dévérouiller sans votre mot-de-passe.",
+    "u": 1663144373257
+  },
+  "save_new_master_password": {
+    "message": "Nouveau Master mot-de-passe créé",
+    "u": 1663144470529
+  },
+  "setup_new_pwd": {
+    "message": "Configuration du nouveau mot-de-passe",
+    "u": 1663144498012
+  },
+  "change_pwd": {
+    "message": "Changer le mot-de-passe",
+    "u": 1663144512159
+  },
+  "remember_pwd_0": {
+    "message": "Aider moi à me rappeler de mon mot de passe",
+    "u": 1663144717089
+  },
+  "remember_pwd_1": {
+    "message": "il est simple d'oublier votre mot de passe dans les premières heures.",
+    "u": 1663144590592
+  },
+  "remember_pwd_2": {
+    "message": "Je vais vous aider à memoriser votre mot-de-passe en vous demandant  de l'entrer après  6h, 12h, 24h, 48h, 4 jours, 8 jours, 16 jours et ensuite une fois par mois.",
+    "u": 1663144790716
+  },
+  "pwd_save": {
+    "message": "Sauver le nouveau mot-de-passe",
+    "u": 1663144807189
+  },
+  "pwd_to_change": {
+    "message": "Mot-de-passe à changer",
+    "u": 1663144888202
+  },
+  "current_pwd": {
+    "message": "Mot-de-passe actuel",
+    "u": 1663144911855
+  },
+  "new_pwd_advice": {
+    "message": "Nouveau mot-de-passe - le mieux est un long mot-de-passe facile à retenir; plutôt qu'un court et complexe",
+    "u": 1663145246586
+  },
+  "repeat_pwd": {
+    "message": "Répéter le nouveau mot-de-passe",
+    "u": 1663145300132
+  },
+  "hint_pwd": {
+    "message": "Indice pour votre nouveau mot de passe",
+    "u": 1663145356413
+  },
+  "incorrect_password": {
+    "message": "Mot-de-passe incorrect",
+    "u": 1663145407480
+  },
+  "err_pwd_not_matching": {
+    "message": "Le mot-de-passe ne correspond pas",
+    "u": 1663145446207
+  },
+  "o_hover_zoom": {
+    "message": "Agrandir la dial",
+    "u": 1663145486630
+  },
+  "o_hover_bold": {
+    "message": "Mettre le titre de la dial en gras",
+    "u": 1663145533470
+  },
+  "o_transparent_head": {
+    "message": "Arrière-plan pour le nom de la dial transparent (met l'accent sur la vignette)",
+    "u": 1663145623243
+  },
+  "mouse_over_effects": {
+    "message": "Effets de survol de la souris:",
+    "u": 1663145657856
+  },
+  "background_type_0": {
+    "message": "Couleur solide",
+    "u": 1663145666731
+  },
+  "background_type_1": {
+    "message": "Couleurs dégradées",
+    "u": 1663145681691
+  },
+  "background_type_2": {
+    "message": "Image à partir du fichier",
+    "u": 1663145729668
+  },
+  "background_type_3": {
+    "message": "Image à partir de l'URL",
+    "u": 1663145722349
+  },
+  "background_type_4": {
+    "message": "Aucun",
+    "u": 1663145738309
+  },
+  "gradient_direction": {
+    "message": "Sens du dégradé",
+    "u": 1663145746953
+  },
+  "gradient_type_0": {
+    "message": "Linéare",
+    "u": 1663145772304
+  },
+  "gradient_type_1": {
+    "message": "Radiale - ellipse",
+    "u": 1663145786490
+  },
+  "gradient_type_2": {
+    "message": "Radiale - cercle",
+    "u": 1663145791676
+  },
+  "unlock_group": {
+    "message": "Dévérouiller le groupe",
+    "u": 1663145807087
+  },
+  "remember_pwd_skip": {
+    "message": "Ignorer (je m'en souviens)",
+    "u": 1663145884007
+  },
+  "pwd_forgot": {
+    "message": "Mot-de-passe oublié?",
+    "u": 1663145912648
+  },
+  "password": {
+    "message": "Mot-de-passe",
+    "u": 1663145921171
+  },
+  "pwd_unlock": {
+    "message": "Dévérouiller",
+    "u": 1663145930596
+  },
+  "pwd_hint": {
+    "message": "Indice:",
+    "u": 1663145944057
+  },
+  "pwd_reset": {
+    "message": "Réinitialiser le mot de passe",
+    "u": 1663145981729
+  },
+  "pwd_reset_data_warn": {
+    "message": "Bouton de réinitialisation est vérouillé pour 1 minute. Êtes-vous sur de vouloir retiré le mot-de-passe et effacer toutes les données?",
+    "u": 1663146287876
+  },
+  "pwd_forgotten_remove_data": {
+    "message": "Alternativement, vous pouvez retirer votre mot-de-passe - cela EFFACERA toutes les données vérouillées!",
+    "u": 1663146368057
+  },
+  "pwd_lock": {
+    "message": "Vérouiller maintenant",
+    "u": 1663146382539
+  },
+  "lock_group_hidden": {
+    "message": "Cacher le groupe quand il est vérouillé",
+    "u": 1663146409148
+  },
+  "lock_group_hidden_help": {
+    "message": "Pour dévérouiller un groupe caché, utilisé le menu principale",
+    "u": 1663146438759
+  },
+  "recovery_code": {
+    "message": "Code de récupération",
+    "u": 1663146454870
+  },
+  "recovery_code_help_1": {
+    "message": "Ce code peut être utilisé pour réinitialiser votre mot de passe si jamais vous l'oubliez.",
+    "u": 1663146468663
+  },
+  "recovery_code_help_2": {
+    "message": "Imprimez-le maintenant ou prenez-le en photo avec votre téléphone.",
+    "u": 1663146481954
+  },
+  "incorrect_recovery": {
+    "message": "Code de récupération incorrect",
+    "u": 1663146493326
+  },
+  "save_removed_master_password": {
+    "message": "Master mot-de-passe supprimé (ainsi que toutes les données verrouillées)",
+    "u": 1663146606541
+  },
+  "pwd_forgotten_recovery_code": {
+    "message": "Entrez le code de récupération",
+    "u": 1663146617520
+  },
+  "pwd_forgotten_recovery": {
+    "message": "Utilisez votre \"code de récupération\" pour réinitialiser votre mot de passe.",
+    "u": 1663146629831
+  },
+  "pwd_remove": {
+    "message": "Supprimer le mot de passe",
+    "u": 1663146643280
+  },
+  "label_print": {
+    "message": "imprimer",
+    "u": 1663146655858
+  },
+  "label_limit_reached": {
+    "message": "Limit reached",
+    "u": 1663146667920
+  },
+  "pwd_forget_warning": {
+    "message": "N'oubliez pas votre mot de passe !",
+    "u": 1663146677393
+  },
+  "save_locked_group_change": {
+    "message": "Changement dans un groupe verrouillé",
+    "u": 1663146690456
   }
 }

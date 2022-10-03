@@ -84,7 +84,8 @@
     "message": "La fenêtre modale restera ouverte même si vous cliquez à l'extérieur."
   },
   "open_translator_in": {
-    "message": ""
+    "message": "Ouvrir le traducteur dans:",
+    "u": 1663597589494
   },
   "open_translation_in": {
     "message": "Ouvrir la traduction en:"
@@ -277,5 +278,9 @@
   },
   "_description_also_for_thunderbird": {
     "message": "Disponible également pour votre Thunderbird:"
+  },
+  "open_in_modal_window": {
+    "message": "Ouvrir dans une fenêtre modale",
+    "u": 1663597620767
   }
 }

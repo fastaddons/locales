@@ -1,165 +1,215 @@
 {
   "_description_feature_1": {
-    "message": ""
+    "message": "Vos notes peuvent être synchronisées avec d'autres appareils à l'aide d'un compte Firefox/Chrome.",
+    "u": 1663927766589
   },
   "_description_feature_2": {
-    "message": ""
+    "message": "Idéal pour stocker les informations les plus sensibles, comme les codes de récupération, les mots de passe Wi-Fi, les configurations de serveur, etc...",
+    "u": 1663927797403
   },
   "_description_tags_pn": {
-    "message": ""
+    "message": "privé, confidentialité, note, message, sécuriser, texte, sync, synchronisation, e2e, cryptage, sensible, Firefox Sync, appareil, zip, compression, éditeur, coffre-fort, pass, mot de passe, crypto, sûreté",
+    "u": 1663928570016
   },
   "app_name": {
     "message": "Private Notes"
   },
   "app_desc": {
-    "message": ""
+    "message": "$app_name$ vous offre un endroit sûr et entièrement crypté pour vos notes Top Secrètes !",
+    "u": 1663938290974
   },
   "compression_level_0": {
-    "message": ""
+    "message": "Basse",
+    "u": 1663938375989
   },
   "compression_level_1": {
-    "message": ""
+    "message": "Normal",
+    "u": 1663938379842
   },
   "compression_level_2": {
-    "message": ""
+    "message": "La meilleure",
+    "u": 1663938392862
   },
   "compression_level_info_0": {
-    "message": ""
+    "message": "Compression la plus rapide pour les appareils lent.",
+    "u": 1663938433822
   },
   "compression_level_info_1": {
-    "message": ""
+    "message": "Bonne compression avec encodage rapide.",
+    "u": 1663938448288
   },
   "compression_level_info_2": {
-    "message": ""
+    "message": "Meilleure compression - peut être très lente avec pour les notes très larges.",
+    "u": 1663938483726
   },
   "title_notes": {
-    "message": ""
+    "message": "Notes",
+    "u": 1663938490643
   },
   "restore_backup": {
-    "message": ""
+    "message": "Restaurer la sauvegarde",
+    "u": 1663938502092
   },
   "create_new_note": {
-    "message": ""
+    "message": "Créer une nouvelle note",
+    "u": 1663938510808
   },
   "auto_locking_strategy_0": {
-    "message": ""
+    "message": "Garder en mode déverrouillé pendant que le navigateur est en marche",
+    "u": 1663938710397
   },
   "auto_locking_strategy_1": {
-    "message": ""
+    "message": "Verrouiller lorsque la fenêtre popup/l'onglet est fermé",
+    "u": 1663938735689
   },
   "restore_note": {
-    "message": ""
+    "message": "Restaurer la note",
+    "u": 1663938743552
   },
   "locked": {
-    "message": ""
+    "message": "Verrouiller",
+    "u": 1663938755700
   },
   "change_master_password": {
-    "message": ""
+    "message": "Modifier le Master mot de passe",
+    "u": 1663938981978
   },
   "import_export": {
-    "message": ""
+    "message": "Importer / Exporter",
+    "u": 1663938991261
   },
   "about_faq": {
-    "message": ""
+    "message": "À propos / FAQ",
+    "u": 1663939001182
   },
   "notes_auto_saved_placeholder": {
-    "message": ""
+    "message": "Vos notes sont enregistrées automatiquement",
+    "u": 1663939022228
   },
   "setup_new_pwd": {
-    "message": ""
+    "message": "Configurer un nouveau mot de passe",
+    "u": 1663939029912
   },
   "change_pwd": {
-    "message": ""
+    "message": "Changer le mot de passe",
+    "u": 1663939037395
   },
   "pwd_to_change": {
-    "message": ""
+    "message": "Mot de passe à changer",
+    "u": 1663939045193
   },
   "current_pwd": {
-    "message": ""
+    "message": "Current password",
+    "u": 1663939053626
   },
   "new_pwd_advice": {
-    "message": ""
+    "message": "Nouveau mot de passe - il vaut mieux en utiliser un long et facile à retenir, que court et complexe",
+    "u": 1663939103909
   },
   "repeat_pwd": {
-    "message": ""
+    "message": "Répété le nouveau mot de passe",
+    "u": 1663939115023
   },
   "hint_pwd": {
-    "message": ""
+    "message": "Indice pour votre nouveau mot de passe",
+    "u": 1663939126555
   },
   "pwd_warning": {
-    "message": ""
+    "message": "N'oubliez pas votre mot de passe ! Il n'y a AUCUNE récupération possible si vous l'oubliez !",
+    "u": 1663939153944
   },
   "remember_pwd_0": {
-    "message": ""
+    "message": "Aidez-moi à me souvenir de mon mot de passe",
+    "u": 1663939778320
   },
   "remember_pwd_1": {
-    "message": ""
+    "message": "il est simple d'oublier votre mot de passe dans les premières heures.",
+    "u": 1663948816996
   },
   "remember_pwd_2": {
-    "message": ""
+    "message": "Je vais vous aider à memoriser votre mot-de-passe en vous demandant  de l'entrer après  6h, 12h, 24h, 48h, 4 jours, 8 jours, 16 jours et ensuite une fois par mois.",
+    "u": 1663948845391
   },
   "pwd_save": {
-    "message": ""
+    "message": "Sauver le nouveau mot-de-passe",
+    "u": 1663948861884
   },
   "error_saving_note": {
-    "message": ""
+    "message": "Erreur de sauvegarde de la note",
+    "u": 1663948875983
   },
   "quota_bytes_per_item": {
-    "message": ""
+    "message": "Taille max de la note dépassé! N'utilisez pas d'images ou d'autres éléments multimédias dans les notes. La note ne peut contenir qu'environ 8 000 caractères.",
+    "u": 1663948936274
   },
   "quota_bytes": {
     "message": ""
   },
   "max_items": {
-    "message": ""
+    "message": "L'espace de stockage est plein ! Supprimez quelques notes pour libérer de l'espace.",
+    "u": 1663948963047
   },
   "max_write_operations_per_hour": {
-    "message": ""
+    "message": "Trop de tentatives d'enregistrement par heure.",
+    "u": 1663948981794
   },
   "max_write_operations_per_minute": {
-    "message": ""
+    "message": "Trop de tentatives d'enregistrement par minute.",
+    "u": 1663948995697
   },
   "security": {
     "message": ""
   },
   "visual_options": {
-    "message": ""
+    "message": "Options visuelles",
+    "u": 1663949013191
   },
   "compression_level": {
-    "message": ""
+    "message": "Niveau de compression",
+    "u": 1663949020192
   },
   "auto_locking_strategy": {
-    "message": ""
+    "message": "Stratégie de verrouillage automatique",
+    "u": 1663949033751
   },
   "auto_lock_inactive_for": {
-    "message": ""
+    "message": "Verouillqge automatique en cas d'inactivité pendant :",
+    "u": 1663949083110
   },
   "dense_notes_list": {
-    "message": ""
+    "message": "Liste de notes dense",
+    "u": 1663949132205
   },
   "import_replace_all": {
-    "message": ""
+    "message": "Remplacer toutes les notes et mots de passe existants",
+    "u": 1663949141397
   },
   "export_encrypted": {
-    "message": ""
+    "message": "Exporter la sauvegarde cryptée",
+    "u": 1663949150512
   },
   "minutes": {
-    "message": ""
+    "message": "minutes",
+    "u": 1663949158550
   },
   "label_font_size": {
     "message": "Taille de police"
   },
   "sidebar_size": {
-    "message": ""
+    "message": "Taille de la barre latérale",
+    "u": 1663949167845
   },
   "popup_window_width": {
-    "message": ""
+    "message": "Largeur de la fenêtre popup:",
+    "u": 1663949190715
   },
   "popup_window_height": {
-    "message": ""
+    "message": "Hauteur de la fenêtre popup:",
+    "u": 1663949201539
   },
   "always_open_in_new_tab": {
-    "message": ""
+    "message": "Toujours ouvrir dans Nouvel onglet - lorsque vous cliquez sur l'icône de la barre d'outils",
+    "u": 1663949213991
   },
   "safari_store": {
     "message": "Mac App Store"
@@ -189,7 +239,8 @@
     "message": "Exportation"
   },
   "title_backups": {
-    "message": ""
+    "message": "Sauvegardes",
+    "u": 1663949232794
   },
   "homepage": {
     "message": "Page d'accueil"
@@ -198,22 +249,28 @@
     "message": "Page addon"
   },
   "settings": {
-    "message": ""
+    "message": "Préférences",
+    "u": 1663949238610
   },
   "options": {
-    "message": ""
+    "message": "Options",
+    "u": 1663949244479
   },
   "label_backups": {
-    "message": ""
+    "message": "Sauvegardes",
+    "u": 1663949254706
   },
   "label_rename": {
-    "message": ""
+    "message": "Renommer",
+    "u": 1663949260928
   },
   "label_download": {
-    "message": ""
+    "message": "Télécharger",
+    "u": 1663949268614
   },
   "label_delete": {
-    "message": ""
+    "message": "Supprimer",
+    "u": 1663949274051
   },
   "label_next": {
     "message": "Suivante"
@@ -327,7 +384,8 @@
     "message": "Ouvrir dans un nouvel onglet"
   },
   "_description_features": {
-    "message": ""
+    "message": "Fonctionnalités",
+    "u": 1663949282604
   },
   "_description_privacy_policy": {
     "message": "Politique de confidentialité"
@@ -337,5 +395,13 @@
   },
   "_description_common_tags": {
     "message": "Mots clés:"
+  },
+  "open_in_sidebar": {
+    "message": "Ouvrir dans la barre latérale",
+    "u": 1663949294493
+  },
+  "open_in_modal_window": {
+    "message": "Ouvrir dans la fenêtre modale",
+    "u": 1663949307283
   }
 }

@@ -2746,8 +2746,8 @@
     "u": 1661027374409
   },
   "lock_group_help": {
-    "message": "Solo podrás abrir este grupo al intruducir la contraseña maestra.",
-    "u": 1661027439487
+    "message": "Solo podrás abrir este grupo al introducir la contraseña maestra.",
+    "u": 1663184845141
   },
   "master_password": {
     "message": "Contraseña maestra",
@@ -2832,5 +2832,165 @@
   "o_transparent_head": {
     "message": "Fondo transparente del nombre de la diapositiva (poner el foco sobre la miniatura)",
     "u": 1661028637830
+  },
+  "background_type_2": {
+    "message": "Imagen desde archivo",
+    "u": 1663184276609
+  },
+  "background_type_3": {
+    "message": "Imagen desde URL",
+    "u": 1663184282780
+  },
+  "background_type_4": {
+    "message": "Ninguno",
+    "u": 1663184294504
+  },
+  "unlock_group": {
+    "message": "Desbloquear grupo",
+    "u": 1663184484921
+  },
+  "password": {
+    "message": "Contraseña",
+    "u": 1663184319255
+  },
+  "pwd_unlock": {
+    "message": "Desbloqueado",
+    "u": 1663184326688
+  },
+  "pwd_hint": {
+    "message": "Intento:",
+    "u": 1663184331699
+  },
+  "pwd_reset": {
+    "message": "Reiniciar contraseña",
+    "u": 1663184349149
+  },
+  "pwd_forgotten_remove_data": {
+    "message": "Alternativamente, puedes eliminar tu contraseña - ¡sin embargo, esto eliminará también todos los datos bloqueados!",
+    "u": 1663184397048
+  },
+  "pwd_reset_data_warn": {
+    "message": "El botón de reinicio está bloqueado durante 1 minuto. ¿Estás seguro de que quieres eliminar la contraseña y todos los datos bloqueados?",
+    "u": 1663184443919
+  },
+  "pwd_forgot": {
+    "message": "¿Olvidaste la contraseña?",
+    "u": 1663184454835
+  },
+  "remember_pwd_skip": {
+    "message": "Saltar (ya la recuerdo)",
+    "u": 1663184467594
+  },
+  "gradient_type_2": {
+    "message": "Radial - círculo",
+    "u": 1663184505295
+  },
+  "gradient_type_1": {
+    "message": "Radial - elipse",
+    "u": 1663184515451
+  },
+  "gradient_type_0": {
+    "message": "Lineal",
+    "u": 1663184532298
+  },
+  "gradient_direction": {
+    "message": "Dirección del gradiente",
+    "u": 1663184554103
+  },
+  "background_type_1": {
+    "message": "Colores degradados",
+    "u": 1663184577429
+  },
+  "background_type_0": {
+    "message": "Color sólido",
+    "u": 1663184597974
+  },
+  "pwd_lock": {
+    "message": "Bloquear ahora",
+    "u": 1663508950393
+  },
+  "lock_group_hidden": {
+    "message": "Ocultar el grupo cuando está bloqueado",
+    "u": 1663508977092
+  },
+  "lock_group_hidden_help": {
+    "message": "Para desbloquear grupos ocultos, usa el menú principal",
+    "u": 1663509007475
+  },
+  "recovery_code": {
+    "message": "Código de recuperación",
+    "u": 1663509023327
+  },
+  "recovery_code_help_1": {
+    "message": "Este código puede ser usado para reiniciar tu contraseña si alguna vez la olvidas.",
+    "u": 1663509075551
+  },
+  "recovery_code_help_2": {
+    "message": "Imprímelo ahora o hazle una foto con tu teléfono",
+    "u": 1663509109393
+  },
+  "incorrect_recovery": {
+    "message": "Código incorrecto de recuperación",
+    "u": 1663509126449
+  },
+  "save_removed_master_password": {
+    "message": "Contraseña maestra eliminada (y todos los datos protegidos)",
+    "u": 1663509184964
+  },
+  "pwd_forgotten_recovery_code": {
+    "message": "Introducir código de recuperación",
+    "u": 1663509197862
+  },
+  "pwd_forgotten_recovery": {
+    "message": "Usa tu \"Código de recuperación\" para reiniciar tu contraseña",
+    "u": 1663509215545
+  },
+  "pwd_remove": {
+    "message": "Eliminar contraseña",
+    "u": 1663509220945
+  },
+  "label_print": {
+    "message": "Imprimir",
+    "u": 1663509226433
+  },
+  "label_limit_reached": {
+    "message": "Límite alcanzado",
+    "u": 1663509234365
+  },
+  "pwd_forget_warning": {
+    "message": "¡No olvídes tu contraseña!",
+    "u": 1663509252129
+  },
+  "save_locked_group_change": {
+    "message": "Cambiar en un grupo bloqueado",
+    "u": 1663509291287
+  },
+  "thumbnail_padding": {
+    "message": "Rellenar miniaturas",
+    "u": 1663509364452
+  },
+  "pwd_verify": {
+    "message": "Comprobar",
+    "u": 1663509315657
+  },
+  "recently_closed_window": {
+    "message": "Ventana:",
+    "u": 1663967046330
+  },
+  "recently_closed_dial": {
+    "message": "Cerrado recientemente",
+    "u": 1663967108308
+  },
+  "ed_recently_closed_dial": {
+    "message": "Diapositiva de pestañas cerradas recientemente:",
+    "u": 1663967409004
+  },
+  "ed_top_sites_dial": {
+    "message": "Diapositiva Mejores sitios:",
+    "u": 1663967182068
+  },
+  "ed_recently_closed_dial_help": {
+    "message": "Muestra la lista de pestañas y ventanas cerradas recientemente y permite restaurarlas.",
+    "u": 1663967304849
   }
 }

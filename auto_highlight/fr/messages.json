@@ -39,7 +39,8 @@
     "message": "L'URL contient"
   },
   "match_type_3": {
-    "message": ""
+    "message": "l'URL corresponds au RegEx",
+    "u": 1663597657067
   },
   "match_type_4": {
     "message": "Chaque page"
@@ -144,7 +145,8 @@
     "message": "Aider ce projet"
   },
   "about_faq": {
-    "message": ""
+    "message": "À propos / FAQ",
+    "u": 1663597691073
   },
   "faq": {
     "message": "FAQ:"
@@ -177,7 +179,8 @@
     "message": "Supprimer la surbrillance de la page"
   },
   "bold": {
-    "message": ""
+    "message": "Gras",
+    "u": 1663597703386
   },
   "italic": {
     "message": "Italique"
@@ -663,5 +666,101 @@
   "_description_common_tags": {
     "message": "Mots clés:",
     "common": true
+  },
+  "empty": {
+    "message": "vide",
+    "u": 1663597707652
+  },
+  "save_before_remove": {
+    "message": "Règle supprimée; nom: \"$1\", Mise en Highlight: \"$2\"",
+    "u": 1663597873748
+  },
+  "show_matches_list": {
+    "message": "Afficher toutes les correspondances sur le côté de l'écran",
+    "u": 1663597959095
+  },
+  "history_of_changes": {
+    "message": "Historique des changements",
+    "u": 1663597970688
+  },
+  "restore_backup": {
+    "message": "Restaurer la sauvegarde",
+    "u": 1663597983848
+  },
+  "restore_rule": {
+    "message": "Restaurer la règle",
+    "u": 1663598048427
+  },
+  "default_style": {
+    "message": "Style par défaut",
+    "u": 1663598059602
+  },
+  "list_style": {
+    "message": "Listes de toutes les correspondances",
+    "u": 1663598076305
+  },
+  "list_position": {
+    "message": "Position de la liste",
+    "u": 1663598091455
+  },
+  "list_width": {
+    "message": "Largeur de la liste",
+    "u": 1663598100943
+  },
+  "list_item_height": {
+    "message": "Hauteur de l'élément de la liste",
+    "u": 1663598145293
+  },
+  "use_list_for_new": {
+    "message": "Utiliser automatiquement pour les nouvelles règles",
+    "u": 1663598179712
+  },
+  "label_left": {
+    "message": "Gauche",
+    "u": 1663598185379
+  },
+  "label_right": {
+    "message": "Droit",
+    "u": 1663598192049
+  },
+  "add_note_to_rule": {
+    "message": "Ajouter une note",
+    "u": 1663598200842
+  },
+  "storage": {
+    "message": "Stockage",
+    "u": 1663598244275
+  },
+  "storage_area_sync": {
+    "message": "Synchronisé",
+    "u": 1663598260989
+  },
+  "storage_area_local": {
+    "message": "Locale",
+    "u": 1663598266455
+  },
+  "storage_area_help": {
+    "message": "L'utilisation de la synchronisation pour le stockqge, sauvegardera vos règles dans le cloud (jusqu'à 500 règles) et les synchronisera avec tous vos appareils.",
+    "u": 1663598323810
+  },
+  "firefox_import_in_tab": {
+    "message": "Pour importé vos sauvegarde, ré-ouvrez cette fenêtre dans un nouvel onglet",
+    "u": 1663598375398
+  },
+  "experimental": {
+    "message": "Expérimental",
+    "u": 1663598385515
+  },
+  "matches_count": {
+    "message": "Nombre de correspondances",
+    "u": 1663598404943
+  },
+  "add_to_rule": {
+    "message": "Ajouter $1 au règles existantes",
+    "u": 1663598423138
+  },
+  "edge_store": {
+    "message": "Extensions Edge",
+    "u": 1663598435109
   }
 }

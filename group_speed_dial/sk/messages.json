@@ -2807,5 +2807,145 @@
   "mouse_over_effects": {
     "message": "Efekty pri prechode myšou:",
     "u": 1660900474899
+  },
+  "background_type_0": {
+    "message": "Jednofarebné",
+    "u": 1663079338178
+  },
+  "background_type_1": {
+    "message": "Gradient farieb",
+    "u": 1663079375194
+  },
+  "background_type_2": {
+    "message": "Obrázok zo súboru",
+    "u": 1663079380562
+  },
+  "background_type_3": {
+    "message": "Obrázok z URL",
+    "u": 1663079388300
+  },
+  "background_type_4": {
+    "message": "Žiadne",
+    "u": 1663079394703
+  },
+  "gradient_direction": {
+    "message": "Smer gradientu",
+    "u": 1663079407541
+  },
+  "gradient_type_0": {
+    "message": "Lineárny",
+    "u": 1663079412518
+  },
+  "gradient_type_1": {
+    "message": "Vyžarujúci - elipsa",
+    "u": 1663079496960
+  },
+  "gradient_type_2": {
+    "message": "Vyžarujúci - kruh",
+    "u": 1663079490005
+  },
+  "unlock_group": {
+    "message": "Odomknúť skupinu",
+    "u": 1663079503912
+  },
+  "remember_pwd_skip": {
+    "message": "Preskočiť (pamätám si ho)",
+    "u": 1663079522774
+  },
+  "pwd_forgot": {
+    "message": "Zabudnuté heslo?",
+    "u": 1663079535811
+  },
+  "password": {
+    "message": "Heslo",
+    "u": 1663079543126
+  },
+  "pwd_unlock": {
+    "message": "Odomknúť",
+    "u": 1663079549339
+  },
+  "pwd_hint": {
+    "message": "Pomôcka:",
+    "u": 1663079553290
+  },
+  "pwd_reset": {
+    "message": "Resetovať heslo",
+    "u": 1663079616286
+  },
+  "pwd_reset_data_warn": {
+    "message": "Resetovacie tlačidlo je zamknuté na jednu minútu. Si si istý, že chceš odstrániť heslo a všetky zamknuté dáta?",
+    "u": 1663079669986
+  },
+  "pwd_forgotten_remove_data": {
+    "message": "Môžeš aj odstrániť heslo - toto však vymaže všetky zamknuté dáta!",
+    "u": 1663079713287
+  },
+  "pwd_lock": {
+    "message": "Zamknúť",
+    "u": 1663079727166
+  },
+  "lock_group_hidden": {
+    "message": "Skryť skupinu keď je zamknutá",
+    "u": 1663079744066
+  },
+  "lock_group_hidden_help": {
+    "message": "Pre odomknutie skrytých skupín, použi hlavné menu.",
+    "u": 1663079781172
+  },
+  "recovery_code": {
+    "message": "Kód pre obnovu",
+    "u": 1663079806646
+  },
+  "recovery_code_help_1": {
+    "message": "Tento kód sa dá použiť pre zresetovanie hesla, v prípade ak ho zabudneš.",
+    "u": 1663079884664
+  },
+  "recovery_code_help_2": {
+    "message": "Vytlač si ho teraz alebo si ho odfoť s telefónom.",
+    "u": 1663079944842
+  },
+  "incorrect_recovery": {
+    "message": "Nesprávny kód obnovy",
+    "u": 1663079972701
+  },
+  "save_removed_master_password": {
+    "message": "Hlavné heslo vymazané (a aj všetky zamknuté dáta)",
+    "u": 1663079995286
+  },
+  "pwd_forgotten_recovery_code": {
+    "message": "Zadaj obnovovací kód",
+    "u": 1663080017193
+  },
+  "pwd_forgotten_recovery": {
+    "message": "Použi \"Kód pre obnovu\" pre vytvorenie nového hesla.",
+    "u": 1663080067710
+  },
+  "pwd_remove": {
+    "message": "Vymazať heslo",
+    "u": 1663080071247
+  },
+  "label_print": {
+    "message": "Vytlačiť",
+    "u": 1663080073662
+  },
+  "label_limit_reached": {
+    "message": "Limit dosiahnutý",
+    "u": 1663080088172
+  },
+  "pwd_forget_warning": {
+    "message": "Nezabudni svoje heslo!",
+    "u": 1663080103960
+  },
+  "save_locked_group_change": {
+    "message": "Zmena v uzamknutej skupine",
+    "u": 1663080120602
+  },
+  "pwd_verify": {
+    "message": "Overiť",
+    "u": 1663452113542
+  },
+  "thumbnail_padding": {
+    "message": "Okraj okolo obrázka",
+    "u": 1663452651042
   }
 }
