@@ -1,569 +1,551 @@
 {
-  "_description_tags_sa": {
-    "message": "где угодно, кнопка, курсор, перетащите, захватить, захватить, захватить и перетащить, бесконечный, левый, средний, импульс, мышь, перемещение, страница, правая, прокрутка, страница прокрутки, прокрутка, прокрутка, прокрутка, бросок"
-  },
-  "app_name": {
-    "message": "ScrollAnywhere"
-  },
-  "app_desc": {
-    "message": "Прокручивайте страницу, перетаскивая ее мышью. Поддерживает различные настройки, включая инерцию прокрутки!"
-  },
-  "field_int_default_value": {
-    "message": "По умолчанию: $1, мин: $2, макс: $3"
-  },
-  "field_set_default": {
-    "message": "Сброс по умолчанию: $1"
-  },
-  "thunderbird_store": {
-    "message": "Страница дополнений Thunderbird"
-  },
-  "firefox_store": {
-    "message": "Страница дополнений Firefox"
-  },
-  "chrome_store": {
-    "message": "Страница магазина Chrome"
-  },
-  "safari_store": {
-    "message": "Страница Mac App Store."
-  },
-  "win_disable": {
-    "message": "Отключить на $1"
-  },
-  "win_horizontal_scrolling_disable": {
-    "message": "Отключить горизонтальную прокрутку на $1"
-  },
-  "op_visit_home": {
-    "message": "Домашняя страница"
-  },
-  "op_support_me": {
-    "message": "Помочь проекту"
-  },
-  "o_title": {
-    "message": "Настройки - $1"
-  },
-  "o_tab_general": {
-    "message": "Общие"
-  },
-  "o_tab_momentum": {
-    "message": "Инерция"
-  },
-  "o_tab_cursor": {
-    "message": "Курсор"
-  },
-  "o_axis_locking": {
-    "message": "Блокировка оси"
-  },
-  "o_tab_performance": {
-    "message": "Производительность"
-  },
-  "o_tab_disabled_on": {
-    "message": "Отключено на"
-  },
-  "o_tab_advanced": {
-    "message": "Дополнительно"
-  },
-  "o_tab_scrollbars": {
-    "message": "Полосы прокрутки"
-  },
-  "o_tab_backup": {
-    "message": "Бэкап"
-  },
-  "o_tab_about": {
-    "message": "О дополнении"
-  },
-  "o_axis_lock_helper": {
-    "message": "При прокрутке дочернего блока (прокручиваемого по оси отличной от оси прокрутки родительской страницы), заблокировать ось, используя:"
-  },
-  "o_axis_lock_0": {
-    "message": "Умная блокировка - временная блокировка с использованием инерции"
-  },
-  "o_axis_lock_1": {
-    "message": "Строгая блокировка - мгновенная блокировка оси"
-  },
-  "o_axis_lock_2": {
-    "message": "Без блокировки - свободная прокрутка по обеим осям"
-  },
-  "o_trend_momentum_window": {
-    "message": "Размер стека для умной блокировки"
-  },
-  "o_trend_momentum_window_helper": {
-    "message": "Большее значение потребует большего прокручивания по другой оси для изменения оси прокрутки."
-  },
-  "o_addon_disabled_warning": {
-    "message": "Аддон отключен! Нажмите здесь, чтобы включить."
-  },
-  "o_cursor_change_default": {
-    "message": "без изменений - лучшая производительность"
-  },
-  "o_scroll_button": {
-    "message": "Кнопка прокрутки:"
-  },
-  "o_direction_speed": {
-    "message": "Стиль прокрутки / направление / скорость:"
-  },
-  "o_multiplier": {
-    "message": "Множитель:"
-  },
-  "o_times_speed": {
-    "message": "скорости прокрутки"
-  },
-  "o_maximum_speed": {
-    "message": "Максимальная скорость прокрутки (0 - отключено):"
-  },
-  "o_ratio_unit": {
-    "message": "соотношение (длина страницы / размер окна)"
-  },
-  "o_scroll_type_0": {
-    "message": "Эмулировать скролбар"
-  },
-  "o_scroll_type_1": {
-    "message": "Захват и перетаскивание"
-  },
-  "o_scroll_type_2": {
-    "message": "Динамическая скорость (экспериментально)"
-  },
-  "o_scroll_type_title_0": {
-    "message": "Это похоже на перетаскивание полосы прокрутки"
-  },
-  "o_scroll_type_title_1": {
-    "message": "Это похоже на перетаскивание страницы в смартфоне"
-  },
-  "o_scroll_type_title_2": {
-    "message": "Динамическая скорость замедляет скорость прокрутки, когда страница длиннее"
-  },
-  "o_disable_key": {
-    "message": "Отключить или включить прокрутку при нажатии клавиши:"
-  },
-  "o_momentum_category": {
-    "message": "Инерция:"
-  },
-  "o_momentum_formula": {
-    "message": "Алгоритм:"
-  },
-  "o_momentum_formula_type_0": {
-    "message": "Равномерное замедление прокрутки"
-  },
-  "o_momentum_formula_type_title_0": {
-    "message": "Прокрутка страницы будет равномерно замедляться до остановки"
-  },
-  "o_momentum_formula_type_1": {
-    "message": "Экспоненциальное замедление прокрутки"
-  },
-  "o_momentum_formula_type_title_1": {
-    "message": "Прокрутка страницы будет замедляться по экспоненте"
-  },
-  "o_momentum_formula_type_2": {
-    "message": "Прокрутка без замедления ∞"
-  },
-  "o_momentum_formula_type_title_2": {
-    "message": "Прокрутка страницы не будет замедляться"
-  },
-  "o_momentum_max_speed": {
-    "message": "Максимальная скорость (0 - отключено):"
-  },
-  "o_page_weight": {
-    "message": "Вес страницы:"
-  },
-  "o_grams": {
-    "message": "граммы :)"
-  },
-  "o_additional_speed": {
-    "message": "Дополнительная скорость:"
-  },
-  "o_pixels_second": {
-    "message": "пикселей в секунду"
-  },
-  "o_additional_duration": {
-    "message": "Дополнительная продолжительность:"
-  },
-  "o_advanced_momentum": {
-    "message": "Расширенная настройка алгоритма (только для экспертов!):"
-  },
-  "o_advanced_momentum_title": {
-    "message": "Изменение этих значений может сломать поведение!"
-  },
-  "o_compute_from_last": {
-    "message": "Вычислить из последнего:"
-  },
-  "o_mouse_stop_detection": {
-    "message": "Обнаружение остановки мыши:"
-  },
-  "o_tracking_speed": {
-    "message": "Скорость отслеживания:"
-  },
-  "o_reset_values": {
-    "message": "Сброс значений"
-  },
-  "o_cursor_scrolling": {
-    "message": "Курсор, используемый при прокрутке:"
-  },
-  "o_performance": {
-    "message": "Производительность:"
-  },
-  "o_prevent_big_jumps": {
-    "message": "Предотвращать большие прыжки"
-  },
-  "o_prevent_big_jumps_helper": {
-    "message": "Если вы используете инструмент, который может телепортировать курсор (например, при достижении края экрана), то включите этот параметр, чтобы обеспечить прокрутку без замедления."
-  },
-  "o_advanced": {
-    "message": "Дополнительно:"
-  },
-  "o_movement_detection": {
-    "message": "Порог обнаружения движения мыши:"
-  },
-  "o_helper_text_move_detection": {
-    "message": "На сколько пикселей нужно переместить мышь, чтобы заблокировать ссылку. Иногда при нажатии кнопки прокрутки мышь слегка перемещается, но вы же не хотите, чтобы из-за этого ссылка была отключена."
-  },
-  "o_context_menu_block": {
-    "message": "Блокировка контекстного меню:"
-  },
-  "o_context_menu_unblock_delay": {
-    "message": "Задержка разблокировки контекстного меню"
-  },
-  "o_context_menu_unblock_delay_helper": {
-    "message": "Если вы увидите контекстное меню после прокрутки правой кнопкой мыши, увеличьте это значение"
-  },
-  "o_disabled_horizontal_scrolling_domains": {
-    "message": "Отключить горизонтальную прокрутку на доменах:"
-  },
-  "o_is_disabled_domains": {
-    "message": "Отключено на доменах:"
-  },
-  "o_is_disabled_url": {
-    "message": "Отключено на страницах / подстраницах:"
-  },
-  "o_is_disabled_url_help": {
-    "message": "Вы можете использовать символ (*) для определения части URL, например: \"google.com/maps*\""
-  },
-  "o_is_disabled_domain_help": {
-    "message": "Введите один домен за строку."
-  },
-  "o_is_disabled": {
-    "message": "Отключить расширение"
-  },
-  "o_toolbar_button_main_switch": {
-    "message": "Использовать значок панели инструментов как основной переключатель"
-  },
-  "o_scroll_button_middle": {
-    "message": "Средняя кнопка (СКМ)"
-  },
-  "o_scroll_button_right": {
-    "message": "Правая кнопка (ПКМ)"
-  },
-  "o_scroll_button_right_linux_note": {
-    "message": "Пользователи Linux / Mac - вам будет предложено новое разрешение \"Чтение и изменение настроек браузера\" - это необходимо для подавления отображения контекстного меню перед прокруткой!"
-  },
-  "o_scroll_button_right_linux_chrome_note": {
-    "message": "Пользователи Linux / Mac - ваше контекстное меню будет заблокировано! Чтобы открыть контекстное меню, удерживайте клавишу \"Shift\" или трижды нажмите правую кнопку."
-  },
-  "o_scroll_button_left": {
-    "message": "Левая кнопка (ЛКМ) (экспериментально)"
-  },
-  "o_scroll_on_links": {
-    "message": "Прокрутка над ссылками"
-  },
-  "o_scroll_on_links_title": {
-    "message": "Если этот параметр включен, вы не сможете перетаскивать ссылки."
-  },
-  "o_scroll_on_text": {
-    "message": "Прокрутка над текстом"
-  },
-  "o_scroll_on_text_title": {
-    "message": "Эмулирует прокрутку/редактирование на смартфоне - нужно нажать на текст, чтобы перейти в \"режим редактирования\". Щелчок за пределами текста снова включает прокрутку."
-  },
-  "o_scroll_on_textarea": {
-    "message": "Прокрутка над полем ввода (textarea)"
-  },
-  "o_scroll_on_textarea_title": {
-    "message": "Textarea - это поле для ввода многострочного текста."
-  },
-  "o_scroll_on_editable_html": {
-    "message": "Прокрутка над редактируемым html"
-  },
-  "o_scroll_on_editable_html_title": {
-    "message": "Например, тело электронного письма в Gmail является редактируемым HTML."
-  },
-  "o_scroll_on_text_edit_with": {
-    "message": "на тексте позволит выделить/редактировать текст."
-  },
-  "o_scroll_on_text_edit_with_title": {
-    "message": "Щелчок по тексту включит \"Режим редактирования\". Щелкните вне текста, чтобы включить \"Режим прокрутки\"."
-  },
-  "o_scroll_on_text_edit_with_0": {
-    "message": "Одинарный щелчок"
-  },
-  "o_scroll_on_text_edit_with_1": {
-    "message": "Двойной щелчок"
-  },
-  "o_scrollbars_width": {
-    "message": "Вид скролбара"
-  },
-  "o_scrollbars_width_0": {
-    "message": "Нормальный (без изменений)"
-  },
-  "o_scrollbars_width_1": {
-    "message": "Тонкий"
-  },
-  "o_scrollbars_width_2": {
-    "message": "Скрытый"
-  },
-  "o_scrollbars_color": {
-    "message": "Цвет слайдера скролбара:"
-  },
-  "o_scrollbars_background": {
-    "message": "Цвет фона скролбара:"
-  },
-  "o_reverse": {
-    "message": "Реверс прокрутки"
-  },
-  "o_disable_alt": {
-    "message": "Alt"
-  },
-  "o_disable_shift": {
-    "message": "Shift"
-  },
-  "o_disable_ctrl": {
-    "message": "Ctrl"
-  },
-  "o_disable_type_0": {
-    "message": "Отключить при удержании клавиши"
-  },
-  "o_disable_type_1": {
-    "message": "Включить при удержании клавиши"
-  },
-  "o_momentum": {
-    "message": "Включить инерцию - вы сможете \"откидывать\" страницу (как на смартфоне)"
-  },
-  "o_no_css_edit": {
-    "message": "Не блокировать iframes и не менять курсор при прокрутке"
-  },
-  "o_no_prevent_default": {
-    "message": "Не блокировать действие кнопки по умолчанию"
-  },
-  "o_auto_link_lock": {
-    "message": "Блокировка ссылок:"
-  },
-  "o_no_link_block": {
-    "message": "Не блокировать щелчок мышью по ссылке после движения"
-  },
-  "o_helper_text_middle_link_click": {
-    "message": "Когда вы начинаете и заканчиваете прокрутку над ссылкой, браузер откроет ссылку. Обычно это нежелательное поведение, поэтому по умолчанию оно заблокировано."
-  },
-  "o_page_weight_title": {
-    "message": "Это определяет, насколько 'тяжелая' страница. Более тяжелые страницы имеют большую инерцию."
-  },
-  "o_additional_speed_title": {
-    "message": "Вы можете ускорить инерцию, указав скорость."
-  },
-  "o_additional_duration_title": {
-    "message": "Дополнительное время для каждой инерции."
-  },
-  "o_compute_from_last_title": {
-    "message": "Начальная скорость инерции определяется скоростью прокрутки перед отпусканием кнопки прокрутки."
-  },
-  "o_mouse_stop_detection_title": {
-    "message": "Сколько времени мышь должна быть неподвижной, перед отпусканием кнопки прокрутки - чтобы НЕ активировать инерцию."
-  },
-  "o_tracking_speed_title": {
-    "message": "Интервал для измерения текущей скорости прокрутки."
-  },
-  "o_scrolling_area": {
-    "message": "Зона прокрутки:"
-  },
-  "o_outside_area_width": {
-    "message": "Зона прокрутки (0 - отключено):"
-  },
-  "o_outside_area_width_helper": {
-    "message": "Перемещение курсора вне зоны прокрутки вернет положение прокрутки. Такое же поведение можно увидеть при перетаскивании полосы прокрутки."
-  },
-  "o_scroll_button_left_title": {
-    "message": "Предупреждение - поддержка ЛКМ использует устаревший API Firefox, который может быть удален в будущих версиях Firefox."
-  },
-  "o_prevent_text_selection": {
-    "message": "Предотвращать выделение текста при прокрутке левой кнопкой"
-  },
-  "o_helper_text_prevent_text_selection": {
-    "message": "На некоторых устройствах, прокрутка ЛКМ также выделяет текст на странице."
-  },
-  "o_disable_context_menu_on_move": {
-    "message": "Не блокировать контекстное меню при попытке прокрутить непрокручиваемую страницу"
-  },
-  "o_backup_restore": {
-    "message": "Настройки бэкапа / восстановления:"
-  },
-  "o_export_settings": {
-    "message": "Экспорт настроек в файл"
-  },
-  "import_settings_button": {
-    "message": "Импорт настроек из файла $1 ..."
-  },
-  "import_finished": {
-    "message": "Импорт завершен!"
-  },
-  "test_page_title": {
-    "message": "Протестируйте здесь свои настройки прокрутки"
-  },
-  "menu_options": {
-    "message": "Настройки"
-  },
-  "menu_visit_title": {
-    "message": "Домашняя страница"
-  },
-  "not_working": {
-    "message": "Отключен браузером"
-  },
-  "disabled_by_user": {
-    "message": "Отключен на этом домене"
-  },
-  "not_working_title": {
-    "message": "Ваш браузер будет блокировать $app_name$ на страницах типа:",
-    "placeholders": {
-      "app_name": {
-        "content": "ScrollAnywhere"
-      }
+    "_description_tags_sa": {
+        "message": "в любом месте, кнопка, курсор, перетаскивание, прокрутка страницы, другие полосы прокрутки и т.п."
+    },
+    "app_name": {
+        "message": "ScrollAnywhere"
+    },
+    "app_desc": {
+        "message": "Прокручивайте страницу, перетаскивая ее мышью. Поддерживает различные настройки, включая инерцию прокрутки!"
+    },
+    "field_int_default_value": {
+        "message": "По умолчанию: $1, мин: $2, макс: $3"
+    },
+    "field_set_default": {
+        "message": "Сброс по умолчанию: $1"
+    },
+    "thunderbird_store": {
+        "message": "Страница дополнений Thunderbird"
+    },
+    "firefox_store": {
+        "message": "Страница дополнений Firefox"
+    },
+    "chrome_store": {
+        "message": "Страница магазина Chrome"
+    },
+    "safari_store": {
+        "message": "Страница Mac App Store."
+    },
+    "win_disable": {
+        "message": "Отключить на $1"
+    },
+    "win_horizontal_scrolling_disable": {
+        "message": "Отключить горизонтальную прокрутку на $1"
+    },
+    "op_visit_home": {
+        "message": "Домашняя страница"
+    },
+    "op_support_me": {
+        "message": "Помочь проекту"
+    },
+    "o_title": {
+        "message": "Настройки - $1"
+    },
+    "o_tab_general": {
+        "message": "Общие"
+    },
+    "o_tab_momentum": {
+        "message": "Инерция"
+    },
+    "o_tab_cursor": {
+        "message": "Курсор"
+    },
+    "o_axis_locking": {
+        "message": "Блокировка оси"
+    },
+    "o_tab_performance": {
+        "message": "Производительность"
+    },
+    "o_tab_disabled_on": {
+        "message": "Отключено на"
+    },
+    "o_tab_advanced": {
+        "message": "Дополнительно"
+    },
+    "o_tab_scrollbars": {
+        "message": "Полосы прокрутки"
+    },
+    "o_tab_backup": {
+        "message": "Бэкап"
+    },
+    "o_tab_about": {
+        "message": "О дополнении"
+    },
+    "o_axis_lock_helper": {
+        "message": "При прокрутке дочернего блока (прокручиваемого по оси отличной от оси прокрутки родительской страницы), заблокировать ось, используя:"
+    },
+    "o_axis_lock_0": {
+        "message": "Умная блокировка - временная блокировка с использованием инерции"
+    },
+    "o_axis_lock_1": {
+        "message": "Строгая блокировка - мгновенная блокировка оси"
+    },
+    "o_axis_lock_2": {
+        "message": "Без блокировки - свободная прокрутка по обеим осям"
+    },
+    "o_trend_momentum_window": {
+        "message": "Размер стека для умной блокировки"
+    },
+    "o_trend_momentum_window_helper": {
+        "message": "Большее значение потребует большего прокручивания по другой оси для изменения оси прокрутки."
+    },
+    "o_addon_disabled_warning": {
+        "message": "Аддон отключен! Нажмите здесь, чтобы включить."
+    },
+    "o_cursor_change_default": {
+        "message": "без изменений - лучшая производительность"
+    },
+    "o_scroll_button": {
+        "message": "Кнопка прокрутки:"
+    },
+    "o_direction_speed": {
+        "message": "Стиль прокрутки / направление / скорость:"
+    },
+    "o_multiplier": {
+        "message": "Множитель:"
+    },
+    "o_times_speed": {
+        "message": "скорости прокрутки"
+    },
+    "o_maximum_speed": {
+        "message": "Максимальная скорость прокрутки (0 - отключено):"
+    },
+    "o_ratio_unit": {
+        "message": "соотношение (длина страницы / размер окна)"
+    },
+    "o_scroll_type_0": {
+        "message": "Эмулировать скролбар"
+    },
+    "o_scroll_type_1": {
+        "message": "Захват и перетаскивание"
+    },
+    "o_scroll_type_2": {
+        "message": "Динамическая скорость (экспериментально)"
+    },
+    "o_scroll_type_title_0": {
+        "message": "Это похоже на перетаскивание полосы прокрутки"
+    },
+    "o_scroll_type_title_1": {
+        "message": "Это похоже на перетаскивание страницы в смартфоне"
+    },
+    "o_scroll_type_title_2": {
+        "message": "Динамическая скорость замедляет скорость прокрутки, когда страница длиннее"
+    },
+    "o_disable_key": {
+        "message": "Отключить или включить прокрутку при нажатии клавиши:"
+    },
+    "o_momentum_category": {
+        "message": "Инерция:"
+    },
+    "o_momentum_formula": {
+        "message": "Алгоритм:"
+    },
+    "o_momentum_formula_type_0": {
+        "message": "Равномерное замедление прокрутки"
+    },
+    "o_momentum_formula_type_title_0": {
+        "message": "Прокрутка страницы будет равномерно замедляться до остановки"
+    },
+    "o_momentum_formula_type_1": {
+        "message": "Экспоненциальное замедление прокрутки"
+    },
+    "o_momentum_formula_type_title_1": {
+        "message": "Прокрутка страницы будет замедляться по экспоненте"
+    },
+    "o_momentum_formula_type_2": {
+        "message": "Прокрутка без замедления ∞"
+    },
+    "o_momentum_formula_type_title_2": {
+        "message": "Прокрутка страницы не будет замедляться"
+    },
+    "o_momentum_max_speed": {
+        "message": "Максимальная скорость (0 - отключено):"
+    },
+    "o_page_weight": {
+        "message": "Вес страницы:"
+    },
+    "o_grams": {
+        "message": "граммы :)"
+    },
+    "o_additional_speed": {
+        "message": "Дополнительная скорость:"
+    },
+    "o_pixels_second": {
+        "message": "пикселей в секунду"
+    },
+    "o_additional_duration": {
+        "message": "Дополнительная продолжительность:"
+    },
+    "o_advanced_momentum": {
+        "message": "Расширенная настройка алгоритма (только для экспертов!):"
+    },
+    "o_advanced_momentum_title": {
+        "message": "Изменение этих значений может сломать поведение!"
+    },
+    "o_compute_from_last": {
+        "message": "Вычислить из последнего:"
+    },
+    "o_mouse_stop_detection": {
+        "message": "Обнаружение остановки мыши:"
+    },
+    "o_tracking_speed": {
+        "message": "Скорость отслеживания:"
+    },
+    "o_reset_values": {
+        "message": "Сброс значений"
+    },
+    "o_cursor_scrolling": {
+        "message": "Курсор, используемый при прокрутке:"
+    },
+    "o_performance": {
+        "message": "Производительность:"
+    },
+    "o_prevent_big_jumps": {
+        "message": "Предотвращать большие прыжки"
+    },
+    "o_prevent_big_jumps_helper": {
+        "message": "Если вы используете инструмент, который может телепортировать курсор (например, при достижении края экрана), то включите этот параметр, чтобы обеспечить прокрутку без замедления."
+    },
+    "o_advanced": {
+        "message": "Дополнительно:"
+    },
+    "o_movement_detection": {
+        "message": "Порог обнаружения движения мыши:"
+    },
+    "o_helper_text_move_detection": {
+        "message": "На сколько пикселей нужно переместить мышь, чтобы заблокировать ссылку. Иногда при нажатии кнопки прокрутки мышь слегка перемещается, но вы же не хотите, чтобы из-за этого ссылка была отключена."
+    },
+    "o_context_menu_block": {
+        "message": "Блокировка контекстного меню:"
+    },
+    "o_context_menu_unblock_delay": {
+        "message": "Задержка разблокировки контекстного меню"
+    },
+    "o_context_menu_unblock_delay_helper": {
+        "message": "Если вы увидите контекстное меню после прокрутки правой кнопкой мыши, увеличьте это значение"
+    },
+    "o_disabled_horizontal_scrolling_domains": {
+        "message": "Отключить горизонтальную прокрутку на доменах:"
+    },
+    "o_is_disabled_domains": {
+        "message": "Отключено на доменах:"
+    },
+    "o_is_disabled_url": {
+        "message": "Отключено на страницах / подстраницах:"
+    },
+    "o_is_disabled_url_help": {
+        "message": "Вы можете использовать символ (*) для определения части URL, например: \"google.com/maps*\""
+    },
+    "o_is_disabled_domain_help": {
+        "message": "Введите один домен за строку."
+    },
+    "o_is_disabled": {
+        "message": "Отключить расширение"
+    },
+    "o_toolbar_button_main_switch": {
+        "message": "Использовать значок панели инструментов как основной переключатель"
+    },
+    "o_scroll_button_middle": {
+        "message": "Средняя кнопка (СКМ)"
+    },
+    "o_scroll_button_right": {
+        "message": "Правая кнопка (ПКМ)"
+    },
+    "o_scroll_button_right_linux_note": {
+        "message": "Пользователи Linux / Mac - вам будет предложено новое разрешение \"Чтение и изменение настроек браузера\" - это необходимо для подавления отображения контекстного меню перед прокруткой!"
+    },
+    "o_scroll_button_right_linux_chrome_note": {
+        "message": "Пользователи Linux / Mac - ваше контекстное меню будет заблокировано! Чтобы открыть контекстное меню, удерживайте клавишу \"Shift\" или трижды нажмите правую кнопку."
+    },
+    "o_scroll_button_left": {
+        "message": "Левая кнопка (ЛКМ) (экспериментально)"
+    },
+    "o_scroll_on_links": {
+        "message": "Прокрутка над ссылками"
+    },
+    "o_scroll_on_links_title": {
+        "message": "Если этот параметр включен, вы не сможете перетаскивать ссылки."
+    },
+    "o_scroll_on_text": {
+        "message": "Прокрутка над текстом"
+    },
+    "o_scroll_on_text_title": {
+        "message": "Эмулирует прокрутку/редактирование на смартфоне - нужно нажать на текст, чтобы перейти в \"режим редактирования\". Щелчок за пределами текста снова включает прокрутку."
+    },
+    "o_scroll_on_textarea": {
+        "message": "Прокрутка над полем ввода (textarea)"
+    },
+    "o_scroll_on_textarea_title": {
+        "message": "Textarea - это поле для ввода многострочного текста."
+    },
+    "o_scroll_on_editable_html": {
+        "message": "Прокрутка над редактируемым html"
+    },
+    "o_scroll_on_editable_html_title": {
+        "message": "Например, тело электронного письма в Gmail является редактируемым HTML."
+    },
+    "o_scroll_on_text_edit_with": {
+        "message": "на тексте позволит выделить/редактировать текст."
+    },
+    "o_scroll_on_text_edit_with_title": {
+        "message": "Щелчок по тексту включит \"Режим редактирования\". Щелкните вне текста, чтобы включить \"Режим прокрутки\"."
+    },
+    "o_scroll_on_text_edit_with_0": {
+        "message": "Одинарный щелчок"
+    },
+    "o_scroll_on_text_edit_with_1": {
+        "message": "Двойной щелчок"
+    },
+    "o_scrollbars_width": {
+        "message": "Вид скролбара"
+    },
+    "o_scrollbars_width_0": {
+        "message": "Нормальный (без изменений)"
+    },
+    "o_scrollbars_width_1": {
+        "message": "Тонкий"
+    },
+    "o_scrollbars_width_2": {
+        "message": "Скрытый"
+    },
+    "o_scrollbars_color": {
+        "message": "Цвет слайдера скролбара:"
+    },
+    "o_scrollbars_background": {
+        "message": "Цвет фона скролбара:"
+    },
+    "o_reverse": {
+        "message": "Реверс прокрутки"
+    },
+    "o_disable_alt": {
+        "message": "Alt"
+    },
+    "o_disable_shift": {
+        "message": "Shift"
+    },
+    "o_disable_ctrl": {
+        "message": "Ctrl"
+    },
+    "o_disable_type_0": {
+        "message": "Отключить при удержании клавиши"
+    },
+    "o_disable_type_1": {
+        "message": "Включить при удержании клавиши"
+    },
+    "o_momentum": {
+        "message": "Включить инерцию - вы сможете \"откидывать\" страницу (как на смартфоне)"
+    },
+    "o_no_css_edit": {
+        "message": "Не блокировать iframes и не менять курсор при прокрутке"
+    },
+    "o_no_prevent_default": {
+        "message": "Не блокировать действие кнопки по умолчанию"
+    },
+    "o_auto_link_lock": {
+        "message": "Блокировка ссылок:"
+    },
+    "o_no_link_block": {
+        "message": "Не блокировать щелчок мышью по ссылке после движения"
+    },
+    "o_helper_text_middle_link_click": {
+        "message": "Когда вы начинаете и заканчиваете прокрутку над ссылкой, браузер откроет ссылку. Обычно это нежелательное поведение, поэтому по умолчанию оно заблокировано."
+    },
+    "o_page_weight_title": {
+        "message": "Это определяет, насколько 'тяжелая' страница. Более тяжелые страницы имеют большую инерцию."
+    },
+    "o_additional_speed_title": {
+        "message": "Вы можете ускорить инерцию, указав скорость."
+    },
+    "o_additional_duration_title": {
+        "message": "Дополнительное время для каждой инерции."
+    },
+    "o_compute_from_last_title": {
+        "message": "Начальная скорость инерции определяется скоростью прокрутки перед отпусканием кнопки прокрутки."
+    },
+    "o_mouse_stop_detection_title": {
+        "message": "Сколько времени мышь должна быть неподвижной, перед отпусканием кнопки прокрутки - чтобы НЕ активировать инерцию."
+    },
+    "o_tracking_speed_title": {
+        "message": "Интервал для измерения текущей скорости прокрутки."
+    },
+    "o_scrolling_area": {
+        "message": "Зона прокрутки:"
+    },
+    "o_outside_area_width": {
+        "message": "Зона прокрутки (0 - отключено):"
+    },
+    "o_outside_area_width_helper": {
+        "message": "Перемещение курсора вне зоны прокрутки вернет положение прокрутки. Такое же поведение можно увидеть при перетаскивании полосы прокрутки."
+    },
+    "o_scroll_button_left_title": {
+        "message": "Предупреждение - поддержка ЛКМ использует устаревший API Firefox, который может быть удален в будущих версиях Firefox."
+    },
+    "o_prevent_text_selection": {
+        "message": "Предотвращать выделение текста при прокрутке левой кнопкой"
+    },
+    "o_helper_text_prevent_text_selection": {
+        "message": "На некоторых устройствах, прокрутка ЛКМ также выделяет текст на странице."
+    },
+    "o_disable_context_menu_on_move": {
+        "message": "Не блокировать контекстное меню при попытке прокрутить непрокручиваемую страницу"
+    },
+    "o_backup_restore": {
+        "message": "Настройки бэкапа / восстановления:"
+    },
+    "o_export_settings": {
+        "message": "Экспорт настроек в файл"
+    },
+    "import_settings_button": {
+        "message": "Импорт настроек из файла $1 ..."
+    },
+    "import_finished": {
+        "message": "Импорт завершен!"
+    },
+    "test_page_title": {
+        "message": "Протестируйте здесь свои настройки прокрутки"
+    },
+    "menu_options": {
+        "message": "Настройки"
+    },
+    "menu_visit_title": {
+        "message": "Домашняя страница"
+    },
+    "not_working": {
+        "message": "Отключен браузером"
+    },
+    "disabled_by_user": {
+        "message": "Отключен на этом домене"
+    },
+    "not_working_title": {
+        "message": "Ваш браузер будет блокировать $app_name$ на страницах типа:"
+    },
+    "not_working_body": {
+        "message": "Чтобы включить $app_name$ на страницах \"mozilla.org\", см. это видео на YouTube"
+    },
+    "show_scrollbars": {
+        "message": "Показать скролбары"
+    },
+    "show_scrollbars_title": {
+        "message": "Временно показать скролбары"
+    },
+    "switch_on_off": {
+        "message": "Преключить расширение"
+    },
+    "o_helper_text_performance_iframe": {
+        "message": "При заметной задержке между нажатием кнопки прокрутки и началом прокрутки, попробуйте включить этот параметр. Однако вы не сможете прокручивать \"iframes\" (старые встроенные: видео, реклама и т.п.)."
+    },
+    "o_helper_text_performance_cursor": {
+        "message": "Это также отключит возможность смены курсора при прокрутке."
+    },
+    "o_helper_text_default_action": {
+        "message": "Полезно в Linux, чтобы включить вставку по СКМ."
+    },
+    "o_about_hello": {
+        "message": "Привет :)"
+    },
+    "o_about_intro": {
+        "message": "Меня зовут $1$, и я автор $app_name$."
+    },
+    "o_about_like_it": {
+        "message": "Если вам нравится это расширение, пожалуйста, оцените его здесь:"
+    },
+    "o_about_dislike_it": {
+        "message": "Если вам НЕ нравится это расширение, пожалуйста, сообщите на мой e-mail, почему именно. Я реализовываю большинство \"хотелок\" из числа тех, что получаю."
+    },
+    "o_disabled": {
+        "message": "отключено"
+    },
+    "o_enabled": {
+        "message": "включено"
+    },
+    "o_times": {
+        "message": "раз"
+    },
+    "o_pixels": {
+        "message": "пикселей"
+    },
+    "o_items": {
+        "message": "элементов"
+    },
+    "o_milliseconds": {
+        "message": "миллисекунд"
+    },
+    "label_working": {
+        "message": "работаю..."
+    },
+    "label_close": {
+        "message": "Закрыть"
+    },
+    "o_about_support_by": {
+        "message": "Пожалуйста, поддержите этот проект"
+    },
+    "o_about_support_by_donation": {
+        "message": "пожертвованием (PayPal)"
+    },
+    "o_about_support_by_patron": {
+        "message": "на Patreon"
+    },
+    "o_about_thanks": {
+        "message": "Спасибо Вам!"
+    },
+    "o_about_home": {
+        "message": "сайт:"
+    },
+    "o_about_contact": {
+        "message": "Контакты:"
+    },
+    "o_about_issues": {
+        "message": "Сообщить о проблеме:"
+    },
+    "o_about_support_reply": {
+        "message": "Я могу отвечать только на Английском и Словацком"
+    },
+    "o_about_social_media": {
+        "message": "В соцсетях:"
+    },
+    "o_save_close": {
+        "message": "Сохранить изменения и закрыть"
+    },
+    "o_saved": {
+        "message": "сохранено!"
+    },
+    "label_coming_soon": {
+        "message": "В скором времени"
+    },
+    "label_save_changes": {
+        "message": "Сохранить изменения"
+    },
+    "_description_privacy_policy": {
+        "message": "Политика конфиденциальности"
+    },
+    "_description_recent_features": {
+        "message": "Недавно добавленные функции:"
+    },
+    "_description_common_tags": {
+        "message": "Теги:"
+    },
+    "o_axis_lock_3": {
+        "message": "Только вертикальная прокрутка"
+    },
+    "o_axis_lock_4": {
+        "message": "Только горизонтальная прокрутка"
+    },
+    "o_paste_with_middle": {
+        "message": "Используйте щелчок СКМ для \"вставки\" содержимого буфера обмена"
+    },
+    "o_allow_other_mouse_down_handlers": {
+        "message": "Разрешить другие обработчики событий \"наведения\" во время прокрутки"
+    },
+    "o_cursor_vertical": {
+        "message": "Вертикальная прокрутка"
+    },
+    "o_cursor_horizontal": {
+        "message": "Горизонтальная прокрутка"
+    },
+    "o_cursor_both": {
+        "message": "Оба направления прокрутки"
+    },
+    "edge_store": {
+        "message": "Страница дополнения для Edge"
     }
-  },
-  "not_working_body": {
-    "message": "Чтобы включить $app_name$ на страницах \"mozilla.org\", см. это видео на YouTube",
-    "placeholders": {
-      "app_name": {
-        "content": "ScrollAnywhere"
-      }
-    }
-  },
-  "show_scrollbars": {
-    "message": "Показать скролбары"
-  },
-  "show_scrollbars_title": {
-    "message": "Временно показать скролбары"
-  },
-  "switch_on_off": {
-    "message": "Преключить расширение"
-  },
-  "o_helper_text_performance_iframe": {
-    "message": "При заметной задержке между нажатием кнопки прокрутки и началом прокрутки, попробуйте включить этот параметр. Однако вы не сможете прокручивать \"iframes\" (старые встроенные: видео, реклама и т.п.)."
-  },
-  "o_helper_text_performance_cursor": {
-    "message": "Это также отключит возможность смены курсора при прокрутке."
-  },
-  "o_helper_text_default_action": {
-    "message": "Полезно в Linux, чтобы включить вставку по ПКМ."
-  },
-  "o_about_hello": {
-    "message": "Привет :)"
-  },
-  "o_about_intro": {
-    "message": "Меня зовут $1$, и я являюсь автором приложения $app_name$.",
-    "placeholders": {
-      "1": {
-        "content": "Juraj Mäsiar"
-      },
-      "app_name": {
-        "content": "ScrollAnywhere"
-      }
-    }
-  },
-  "o_about_like_it": {
-    "message": "Если вам нравится это расширение, оцените его здесь:"
-  },
-  "o_about_dislike_it": {
-    "message": "Если вам НЕ нравится это расширение, пожалуйста, сообщите на мой e-mail, почему именно . Я реализовываю большинство \"хотелок\" из числа тех, что получаю."
-  },
-  "o_disabled": {
-    "message": "отключено",
-    "common": true
-  },
-  "o_enabled": {
-    "message": "включено",
-    "common": true
-  },
-  "o_times": {
-    "message": "раз",
-    "common": true
-  },
-  "o_pixels": {
-    "message": "пикселей",
-    "common": true
-  },
-  "o_items": {
-    "message": "элементов",
-    "common": true
-  },
-  "o_milliseconds": {
-    "message": "миллисекунд",
-    "common": true
-  },
-  "label_working": {
-    "message": "работаю...",
-    "common": true
-  },
-  "label_close": {
-    "message": "Закрыть",
-    "common": true
-  },
-  "o_about_support_by": {
-    "message": "Пожалуйста, поддержите этот проект",
-    "common": true
-  },
-  "o_about_support_by_donation": {
-    "message": "пожертвованием (PayPal)",
-    "common": true
-  },
-  "o_about_support_by_patron": {
-    "message": "на Patreon",
-    "common": true
-  },
-  "o_about_thanks": {
-    "message": "Спасибо Вам!",
-    "common": true
-  },
-  "o_about_home": {
-    "message": "сайт:",
-    "common": true
-  },
-  "o_about_contact": {
-    "message": "Контакты:",
-    "common": true
-  },
-  "o_about_issues": {
-    "message": "Сообщить о проблеме:",
-    "common": true
-  },
-  "o_about_support_reply": {
-    "message": "Я могу отвечать только на Английском / Словацком",
-    "common": true
-  },
-  "o_about_social_media": {
-    "message": "В соцсетях:",
-    "common": true
-  },
-  "o_save_close": {
-    "message": "Сохранить изменения и закрыть",
-    "common": true
-  },
-  "o_saved": {
-    "message": "сохранено!",
-    "common": true
-  },
-  "label_coming_soon": {
-    "message": "В скором времени",
-    "common": true
-  },
-  "label_save_changes": {
-    "message": "Сохранить изменения",
-    "common": true
-  },
-  "_description_privacy_policy": {
-    "message": "Политика конфиденциальности",
-    "common": true
-  },
-  "_description_recent_features": {
-    "message": "Недавно добавленные функции:",
-    "common": true
-  },
-  "_description_common_tags": {
-    "message": "Теги:",
-    "common": true
-  }
 }
