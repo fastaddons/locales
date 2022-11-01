@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "Import kész!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Hiba",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Importálás Backup File $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Honlap",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon oldal",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox kiegészítők",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird kiegészítők",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Opciók",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Betűméret",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Oldalsáv mérete",
+    "common": true
+  },
+  "label_next": {
+    "message": "Következő",
+    "common": true
+  },
+  "label_note": {
+    "message": "Jegyzet:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Eltávolít",
+    "common": true
+  },
+  "label_warning": {
+    "message": "FIGYELEM:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Opciók:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Alapértelmezett:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Kész!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Másolt!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Egyedi:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Bezárás",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Telepítve van",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Nyílt oldal",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Egyetért",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Megszünteti",
+    "common": true
+  },
+  "label_save": {
+    "message": "Mentés",
+    "common": true
+  },
+  "label_required": {
+    "message": "Kívánt",
+    "common": true
+  },
+  "label_sending": {
+    "message": "küldés ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Skála:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoomolás:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Méret:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Hamarosan",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Változtatások mentése",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Módosítások elvetése",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menü",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Látogasson el a honlapra",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Segítsen ezt a projektet",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Támogatja a független fejlesztőt!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Szia!",
+    "common": true
+  },
+  "about_me": {
+    "message": "2016 óta addon fejlesztő vagyok. Célom, hogy erőteljes kiterjesztéseket építsen az internetes böngésző számára, hogy bővebbé váljon.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Ha úgy gondolja, hogy jó munkát végezek, kérlek adjunk :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Az Ön adománya az egyetlen jövedelem!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Köszönjük, hogy támogatta a munkámat!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Segítség",
+    "common": true
+  },
+  "o_title": {
+    "message": "Opciók - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "biztonsági mentés",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Új mentés létrehozása",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Beállítások mentése",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Adatainak fájlba történő exportálásához nyissa meg újra ezt az ablakot egy új lapon.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Jobb egérgombbal kattintson a / \"Letölthető fájl letöltése\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Tábornok",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Háttér",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Kontextus menü",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Miniatűrök",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Gyorsbillentyűk",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Import / biztonsági mentés",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Beállítások",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Téma:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Tábornok:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "tiltva",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "engedélyezett",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "képpontok",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "másodperc",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Kontextus menü:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "A kontextus menü letiltása: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "A fájlok biztonsági mentése / visszaállítása:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Importálás",
+    "common": true
+  },
+  "title_import": {
+    "message": "Importálás",
+    "common": true
+  },
+  "title_export": {
+    "message": "Export",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Exportment mentés",
+    "common": true
+  },
+  "label_or": {
+    "message": "vagy",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Helló :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "A nevem $1$, és én vagyok az $app_name$ szerzője.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Ha tetszik, kérjük, értékelje itt:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Ha nem tetszik, kérjük, tudassa velem, miért az e-mailemre. A legtöbbet kapok, amit kapok.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Kérjük, fontolja meg a munkám támogatását",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Banki átutalás az iban használatával:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "adomány (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "a védőszentje",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Köszönöm!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "itthon:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kapcsolatba lépni:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Jelentés kérdések:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Csak angolul / szlovákban tudok válaszolni",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Közösségi média:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Mentse a módosításokat és zárja be",
+    "common": true
+  },
+  "o_saved": {
+    "message": "mentett!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Nincs megfelelő eredmény",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Nincs adat",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Sötét mód",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Rendszeresen ellenőrzött",
+    "common": true
+  },
+  "used_space": {
+    "message": "Használt tér: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Nyissa meg az új fülön",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Kapcsoló addon be / ki",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon le van tiltva",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Miért?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Adatvédelmi irányelvek",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Nemrégiben hozzáadott funkciók:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Címkék:",
+    "common": true
+  }
+}

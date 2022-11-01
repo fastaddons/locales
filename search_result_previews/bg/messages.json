@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "Внос завърши!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Грешка",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Импортиране на архивен файл $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Начална страница",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon страница",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Хром уеб магазин",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Добавки от Firefox",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Добавки от гръмотевици",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Настроики",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Размер на шрифта",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Размер на страничната лента",
+    "common": true
+  },
+  "label_next": {
+    "message": "Следващия",
+    "common": true
+  },
+  "label_note": {
+    "message": "Забележка:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Премахване",
+    "common": true
+  },
+  "label_warning": {
+    "message": "ВНИМАНИЕ:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Настроики:",
+    "common": true
+  },
+  "label_default": {
+    "message": "По подразбиране:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Свършен!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Копиран!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Персонализиран:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Близо",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Инсталиран",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Отворете страницата",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Съгласен",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Отказ",
+    "common": true
+  },
+  "label_save": {
+    "message": "Save.",
+    "common": true
+  },
+  "label_required": {
+    "message": "Изисква се",
+    "common": true
+  },
+  "label_sending": {
+    "message": "изпращане...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Скала:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Размер:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Очаквайте скоро",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Запазите промените",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Отхвърлите промените",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Меню",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Посетете началната страница",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Помогнете на този проект",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Поддръжка на независим разработчик!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Здравей!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Аз съм предприемач на Addon от 2016 г. Целта ми е да изградя мощни разширения за вашия уеб браузър, за да ви направи по-продуктивни.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Ако мислите, че правя добра работа, моля да даря :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Вашето дарение е единственият ми доход!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Благодарим ви, че подкрепяхте работата ми!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Помогне",
+    "common": true
+  },
+  "o_title": {
+    "message": "Опции - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "гръб",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Създайте нов архив",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Запазване на настройките",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "За да експортирате данните си в даден файл, отворете отново този прозорец в нов раздел.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Кликнете с десния бутон / \"Изтегляне на файла\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Общ",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Заден план",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Контекстно меню",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Миниатюри",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Преки пътища",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Импортиране / архивиране",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Настройки",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Тема:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Общ:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "хора с увреждания",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "активиран",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "пиксели",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "секунди",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Контекстно меню:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Деактивиране на контекстното меню: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Настройки за архивиране / възстановяване към файл:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Внос",
+    "common": true
+  },
+  "title_import": {
+    "message": "Внос",
+    "common": true
+  },
+  "title_export": {
+    "message": "Износ",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Износ Backup.",
+    "common": true
+  },
+  "label_or": {
+    "message": "или",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Здравейте :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Моето име е $1$ и аз съм автор на $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Ако ви харесва, моля, оценете го тук:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Ако не ви харесва, моля да ме уведомите защо на моя имейл. Аз изпълнявам повечето от исканията за функции, които получавам.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Моля, помислете за подкрепата ми",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Банков превод, използващ IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "дарение (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "ставайки моя покровител",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Благодаря ти!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "у дома:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Контакт:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Доклад Въпроси:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Мога да отговоря само на английски / словашки",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Социална медия:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Запазете промените и затворете",
+    "common": true
+  },
+  "o_saved": {
+    "message": "запазени!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Няма съвпадение",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Няма данни",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Тъмен режим",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Контролирано от системата",
+    "common": true
+  },
+  "used_space": {
+    "message": "Използвано пространство: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Отворете в нов раздел",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Превключване на addon включване / изключване",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon е инвалид",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Защо?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Декларация за поверителност",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Наскоро добавени функции:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Тагове:",
+    "common": true
+  }
+}

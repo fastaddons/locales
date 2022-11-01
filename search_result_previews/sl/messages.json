@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "Uvoz je končal!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Error.",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Uvozi datoteko za varnostno kopiranje $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Domača stran",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Stran ADDON",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Spletna trgovina Chrome.",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox dodatki",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbirdni dodatki",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Opcije",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Velikost pisave",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Stranska vrstica",
+    "common": true
+  },
+  "label_next": {
+    "message": "Naslednji",
+    "common": true
+  },
+  "label_note": {
+    "message": "Opomba:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Odstrani",
+    "common": true
+  },
+  "label_warning": {
+    "message": "OPOZORILO:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Opcije:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Privzeto:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Končano!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Kopira!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Po meri:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Zapri",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Nameščen",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Odpri stran.",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Strinjam se",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Prekliči",
+    "common": true
+  },
+  "label_save": {
+    "message": "Shrani",
+    "common": true
+  },
+  "label_required": {
+    "message": "Potrebno",
+    "common": true
+  },
+  "label_sending": {
+    "message": "pošiljanje ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Lestvica:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "ZOOM:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Velikost:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Prihaja kmalu",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Shrani spremembe",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Zavreči spremembe",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Meni",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Obiščite domačo stran",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Pomagajte ta projekt",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Podpora neodvisnemu razvijalcu!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Pozdravljeni!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Jaz sem addon razvijalec od leta 2016. Moj cilj je graditi močne razširitve za vaš spletni brskalnik, da bi vas bolj produktivno.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Če misliš, da delam dobro delo, prosim donirajte :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Vaša donacija je moj edini dohodek!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Hvala, ker ste podprli moje delo!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Pomoč",
+    "common": true
+  },
+  "o_title": {
+    "message": "Možnosti - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "rezerva",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Ustvarite novo varnostno kopijo",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Shrani nastavitve",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Če želite izvoziti podatke v datoteko, ponovno odprete to okno v novem zavihku.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Desni klik / \"prenesi povezano datoteko\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "General.",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Ozadje",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Kontekstni meni",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Thumbnails.",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Bližnjice",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Uvoz / varnostno kopiranje",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Nastavitve",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Tema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Splošno:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "onemogočeno",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "omogočeno",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels.",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "sekund",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Kontekstni meni:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Onemogoči kontekstni meni: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Nastavitve za varnostno kopiranje / obnovitev v datoteko:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Uvozi",
+    "common": true
+  },
+  "title_import": {
+    "message": "Uvozi",
+    "common": true
+  },
+  "title_export": {
+    "message": "Izvozi",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Izvozi varnostno kopiranje",
+    "common": true
+  },
+  "label_or": {
+    "message": "ali",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Zdravo :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Moje ime je $1$ in jaz sem avtor $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Če vam je všeč, ga ocenite tukaj:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Če vam ni všeč, povejte mi, zakaj moj e-pošta. Izvajam večino zahtev, ki jih prejmem.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Prosimo, razmislite o podpori mojega dela",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Bančni prenos z uporabo IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donacija (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "postati moj pokrovitelj",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Hvala vam!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "domov:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Vprašanja poročila:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Lahko odgovorim samo v angleščini / slovaščini",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Socialni mediji:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Shranite spremembe in zaprite",
+    "common": true
+  },
+  "o_saved": {
+    "message": "shranjeno!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Brez ustreznih rezultatov",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Ni podatkov",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Dark način",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Nadzoruje sistem",
+    "common": true
+  },
+  "used_space": {
+    "message": "Rabljen prostor: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Odprite v novem zavihku",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Vklop / izklop ADDON",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon je onemogočen",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Zakaj?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Pravilnik o zasebnosti",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Nedavno dodane funkcije:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Oznake:",
+    "common": true
+  }
+}

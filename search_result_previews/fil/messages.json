@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "Nagtapos ang pag-import!",
+    "common": true
+  },
+  "import_error": {
+    "message": "ERROR.",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Mag-import ng backup na file $1.",
+    "common": true
+  },
+  "homepage": {
+    "message": "Homepage ng Homepage",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon Page.",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store.",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox add-ons.",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird add-ons.",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Mga Opsyon",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Laki ng font.",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "SIZE SIZE.",
+    "common": true
+  },
+  "label_next": {
+    "message": "Susunod",
+    "common": true
+  },
+  "label_note": {
+    "message": "Tandaan:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Alisin",
+    "common": true
+  },
+  "label_warning": {
+    "message": "Babala:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Mga Pagpipilian:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Default:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Tapos na!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Kinopya!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Pasadyang:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Malapit",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Na-install",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Buksan ang pahina",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Sumang-ayon",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Kanselahin",
+    "common": true
+  },
+  "label_save": {
+    "message": "Iligtas",
+    "common": true
+  },
+  "label_required": {
+    "message": "Kailangan",
+    "common": true
+  },
+  "label_sending": {
+    "message": "nagpapadala ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Scale:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Mag-zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Sukat:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Malapit na",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "I-save ang mga pagbabago",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Itapon ang mga pagbabago",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menu",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Bisitahin ang Homepage",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Tulungan ang proyektong ito",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Suportahan ang independiyenteng developer!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Hello there!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Ako ay addon developer mula noong 2016. Ang aking layunin ay upang bumuo ng mga malakas na extension para sa iyong web-browser upang gawing mas produktibo ka.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Kung sa tingin mo ginagawa ko ang isang mahusay na trabaho, mangyaring mag-abuloy :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Ang iyong donasyon ay ang tanging kita!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Salamat sa pagsuporta sa aking trabaho!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Tulong",
+    "common": true
+  },
+  "o_title": {
+    "message": "Mga pagpipilian - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "backup",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Lumikha ng bagong backup",
+    "common": true
+  },
+  "save_settings": {
+    "message": "I-save ang mga setting",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Upang i-export ang iyong data sa isang file, muling buksan ang window na ito sa isang bagong tab.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "I-right click / \"I-download ang naka-link na file\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Pangkalahatan",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Background.",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Menu ng konteksto",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Thumbnails.",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Mga Shortcut",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Mag-import / backup",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Mga setting",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Tema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Pangkalahatan:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "hindi pinagana",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "pinagana",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels.",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "segundo",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Menu ng konteksto:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Huwag paganahin ang menu ng konteksto: $1.",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "I-backup / Ibalik ang mga setting upang mag-file:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Angkat",
+    "common": true
+  },
+  "title_import": {
+    "message": "Angkat",
+    "common": true
+  },
+  "title_export": {
+    "message": "Pag-export",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "I-export ang backup",
+    "common": true
+  },
+  "label_or": {
+    "message": "o.",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Kamusta :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Ang pangalan ko ay $1$ at ako ang may-akda ng $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Kung gusto mo ito, mangyaring i-rate ito dito:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Kung hindi mo gusto ito, mangyaring ipaalam sa akin kung bakit sa aking e-mail. Ipinatutupad ko ang karamihan sa mga tampok na tinatanggap ko.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Mangyaring isaalang-alang ang pagsuporta sa aking trabaho sa pamamagitan ng.",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Bank transfer gamit ang Iban:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donasyon (paypal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "pagiging aking patron",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Salamat!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "tahanan:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Makipag-ugnay sa:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Iulat ang mga isyu:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Maaari akong tumugon lamang sa Ingles / Slovak",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Social Media:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "I-save ang mga pagbabago at isara",
+    "common": true
+  },
+  "o_saved": {
+    "message": "nai-save!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Walang mga pagtutugma ng mga resulta",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Walang data",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Madilim na mode",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Kinokontrol ng system.",
+    "common": true
+  },
+  "used_space": {
+    "message": "Ginamit na espasyo: $1 / $2.",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Buksan sa bagong tab",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Lumipat addon sa / off",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Ang addon ay hindi pinagana",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Bakit?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Patakaran sa Pagkapribado",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Kamakailang idinagdag na mga tampok:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

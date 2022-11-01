@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "輸入完成！",
+    "common": true
+  },
+  "import_error": {
+    "message": "エラー",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "バックアップファイルの$1をインポートします",
+    "common": true
+  },
+  "homepage": {
+    "message": "ホームページ",
+    "common": true
+  },
+  "addon_page": {
+    "message": "アドオンページ",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefoxアドオン",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbirdアドオン",
+    "common": true
+  },
+  "menu_options": {
+    "message": "オプション",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "フォントサイズ",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "サイドバーサイズ",
+    "common": true
+  },
+  "label_next": {
+    "message": "次",
+    "common": true
+  },
+  "label_note": {
+    "message": "注意：",
+    "common": true
+  },
+  "label_remove": {
+    "message": "削除する",
+    "common": true
+  },
+  "label_warning": {
+    "message": "警告：",
+    "common": true
+  },
+  "label_options": {
+    "message": "オプション：",
+    "common": true
+  },
+  "label_default": {
+    "message": "デフォルト：",
+    "common": true
+  },
+  "label_done": {
+    "message": "Done！",
+    "common": true
+  },
+  "label_copied": {
+    "message": "コピーしました！",
+    "common": true
+  },
+  "label_custom": {
+    "message": "カスタム：",
+    "common": true
+  },
+  "label_close": {
+    "message": "閉じる",
+    "common": true
+  },
+  "label_installed": {
+    "message": "インストール",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "ページを開く",
+    "common": true
+  },
+  "label_agree": {
+    "message": "賛成",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "キャンセル",
+    "common": true
+  },
+  "label_save": {
+    "message": "セーブ",
+    "common": true
+  },
+  "label_required": {
+    "message": "必須",
+    "common": true
+  },
+  "label_sending": {
+    "message": "送信...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "規模：",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "ズーム：",
+    "common": true
+  },
+  "label_size": {
+    "message": "サイズ：",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "近日公開",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "変更内容を保存",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "変更を破棄",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "メニュー",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "ホームページを訪問してください",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "このプロジェクトを支援します",
+    "common": true
+  },
+  "support_developer": {
+    "message": "独立開発者をサポート！",
+    "common": true
+  },
+  "hello_there": {
+    "message": "こんにちは！",
+    "common": true
+  },
+  "about_me": {
+    "message": "私は2016年からアドオン開発者です。私の目標はあなたのWebブラウザのための強力な拡張を構築してあなたをより生産的にすることです。",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "あなたが私が良い仕事をしていると思うならば、寄付してください:)",
+    "common": true
+  },
+  "about_income": {
+    "message": "あなたの寄付は私の唯一の収入です！",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "私の仕事を支えてくれてありがとう！",
+    "common": true
+  },
+  "op_help": {
+    "message": "助けて",
+    "common": true
+  },
+  "o_title": {
+    "message": "オプション -  $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "バックアップ",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "新しいバックアップを作成します",
+    "common": true
+  },
+  "save_settings": {
+    "message": "設定を保存する",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "データをファイルにエクスポートするには、このウィンドウを新しいタブで再度開きます。",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "右クリック/「リンクされたファイルをダウンロード」",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "一般",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "バックグラウンド",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "コンテキストメニュー",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "サムネイル",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "ショートカット",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "インポート/バックアップ",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "設定",
+    "common": true
+  },
+  "o_theme": {
+    "message": "テーマ：",
+    "common": true
+  },
+  "o_general": {
+    "message": "一般：",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "無効",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "有効",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "ピクセル",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "秒数",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "コンテキストメニュー：",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "コンテキストメニューを無効にする：$1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "ファイルへのバックアップ/復元設定：",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "インポート",
+    "common": true
+  },
+  "title_import": {
+    "message": "インポート",
+    "common": true
+  },
+  "title_export": {
+    "message": "書き出す",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "エクスポートバックアップ",
+    "common": true
+  },
+  "label_or": {
+    "message": "または",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "こんにちは ：）",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "私の名前は$1$であり、私は$app_name$の作者です。",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "あなたがそれが好きなら、ここでそれを評価してください：",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "あなたがそれを好きではないならば、私に電子メールになぜ私に知らせてください。 私は私が受け取ることのほとんどの機能要求を実装しています。",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "私の仕事を支援することを検討してください",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "IBANを使用した銀行振込：",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "寄付（Paypal）",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "私の父親になる",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "ありがとうございました！",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "ホーム：",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "連絡先：",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "問題の報告：",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "私は英語/スロバックでのみ返信できます",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "ソーシャルメディア：",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "変更を保存して閉じる",
+    "common": true
+  },
+  "o_saved": {
+    "message": "節約！",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "マッチング結果はありません",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "データなし",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "暗いモード",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "システムによって制御されます",
+    "common": true
+  },
+  "used_space": {
+    "message": "中古スペース：$1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "新しいタブで開きます",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "アドオンをオン/オフに切り替えます",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "アドオンは無効です",
+    "common": true
+  },
+  "_description_why": {
+    "message": "どうして？",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "個人情報保護方針",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "最近追加された機能：",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "タグ：",
+    "common": true
+  }
+}

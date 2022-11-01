@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "আমদানি শেষ!",
+    "common": true
+  },
+  "import_error": {
+    "message": "ত্রুটি",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "ব্যাকআপ ফাইল $1 আমদানি করুন",
+    "common": true
+  },
+  "homepage": {
+    "message": "হোমপেজে",
+    "common": true
+  },
+  "addon_page": {
+    "message": "অ্যাডঅন পৃষ্ঠা",
+    "common": true
+  },
+  "safari_store": {
+    "message": "ম্যাক অ্যাপ স্টোর",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "ক্রোম ওয়েব দোকান",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "ফায়ারফক্স অ্যাড-অন",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "থান্ডারবার্ড অ্যাড-অন",
+    "common": true
+  },
+  "menu_options": {
+    "message": "অপশন",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "অক্ষরের আকার",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "সাইডবারের আকার",
+    "common": true
+  },
+  "label_next": {
+    "message": "পরবর্তী",
+    "common": true
+  },
+  "label_note": {
+    "message": "বিঃদ্রঃ:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "অপসারণ",
+    "common": true
+  },
+  "label_warning": {
+    "message": "সতর্কতা:",
+    "common": true
+  },
+  "label_options": {
+    "message": "বিকল্প:",
+    "common": true
+  },
+  "label_default": {
+    "message": "ডিফল্ট:",
+    "common": true
+  },
+  "label_done": {
+    "message": "সম্পন্ন!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "কপি!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "কাস্টম:",
+    "common": true
+  },
+  "label_close": {
+    "message": "বন্ধ",
+    "common": true
+  },
+  "label_installed": {
+    "message": "ইনস্টল",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "খোলা পৃষ্ঠা",
+    "common": true
+  },
+  "label_agree": {
+    "message": "একমত",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "বাতিল করুন",
+    "common": true
+  },
+  "label_save": {
+    "message": "সংরক্ষণ",
+    "common": true
+  },
+  "label_required": {
+    "message": "প্রয়োজন",
+    "common": true
+  },
+  "label_sending": {
+    "message": "পাঠানো হচ্ছে ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "স্কেল:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "জুম:",
+    "common": true
+  },
+  "label_size": {
+    "message": "আকার:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "শীঘ্রই আসছে",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "পরিবর্তনগুলোর সংরক্ষন",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "পরিবর্তন বাতিল",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "তালিকা",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "হোমপেজে যান",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "এই প্রকল্পের সাহায্য করুন",
+    "common": true
+  },
+  "support_developer": {
+    "message": "স্বাধীন বিকাশকারী সমর্থন!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "হ্যালো!",
+    "common": true
+  },
+  "about_me": {
+    "message": "আমি ২016 সাল থেকে অ্যাডন ডেভেলপার। আমার লক্ষ্যটি আপনার ওয়েব ব্রাউজারের জন্য আরও বেশি উত্পাদনশীল করার জন্য শক্তিশালী এক্সটেনশান তৈরি করা।",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "যদি আপনি মনে করেন আমি একটি ভাল কাজ করছি, দয়া করে দান করুন :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "আপনার দান আমার একমাত্র আয়!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "আমার কাজ সমর্থন করার জন্য আপনাকে ধন্যবাদ!",
+    "common": true
+  },
+  "op_help": {
+    "message": "সাহায্য করুন",
+    "common": true
+  },
+  "o_title": {
+    "message": "বিকল্প - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "ব্যাকআপ",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "নতুন ব্যাকআপ তৈরি করুন",
+    "common": true
+  },
+  "save_settings": {
+    "message": "সেটিংস সংরক্ষণ করুন",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "একটি ফাইল আপনার ডেটা রপ্তানি করতে, এই উইন্ডোটি একটি নতুন ট্যাবে পুনরায় খুলুন।",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "ডান ক্লিক করুন / \"লিঙ্কযুক্ত ফাইল ডাউনলোড করুন\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "সাধারণ",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "পটভূমি",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "কনটেক্সট মেনু",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "থাম্বনেল",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "শর্টকাটস",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "আমদানি / ব্যাকআপ",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "সেটিংস",
+    "common": true
+  },
+  "o_theme": {
+    "message": "থিম:",
+    "common": true
+  },
+  "o_general": {
+    "message": "সাধারণ:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "নিষ্ক্রিয়",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "সক্ষম",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "পিক্সেল",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "সেকেন্ড",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "কনটেক্সট মেনু:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "প্রসঙ্গ মেনু নিষ্ক্রিয় করুন: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "ব্যাকআপ / ফাইল থেকে সেটিংস পুনরুদ্ধার করুন:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "আমদানি",
+    "common": true
+  },
+  "title_import": {
+    "message": "আমদানি",
+    "common": true
+  },
+  "title_export": {
+    "message": "এক্সপোর্ট",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "এক্সপোর্ট ব্যাকআপ",
+    "common": true
+  },
+  "label_or": {
+    "message": "অথবা",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "হ্যালো :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "আমার নাম $1$ এবং আমি $app_name$ এর লেখক।",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "যদি আপনি এটি পছন্দ করেন তবে দয়া করে এখানে এটি রেট করুন:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "যদি আপনি এটি পছন্দ করেন না, দয়া করে আমাকে জানান কেন আমার ই-মেইল। আমি প্রাপ্ত বৈশিষ্ট্যগুলির বেশিরভাগই বাস্তবায়ন করছি।",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "আমার কাজ সমর্থন করে বিবেচনা করুন",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "আইবান ব্যবহার করে ব্যাংক স্থানান্তর:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "দান (পেপ্যাল)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "আমার পৃষ্ঠপোষক হয়ে উঠছে",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "ধন্যবাদ!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "বাড়ি:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "যোগাযোগ:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "সমস্যা রিপোর্ট করুন:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "আমি শুধুমাত্র ইংরেজি / স্লোভাক উত্তর দিতে পারেন",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "সামাজিক মাধ্যম:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "পরিবর্তন এবং বন্ধ সংরক্ষণ করুন",
+    "common": true
+  },
+  "o_saved": {
+    "message": "সংরক্ষিত!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "কোন মিলে ফলাফল",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "কোন তথ্য নেই",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "অন্ধকার মোড",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "সিস্টেম দ্বারা নিয়ন্ত্রিত",
+    "common": true
+  },
+  "used_space": {
+    "message": "ব্যবহৃত স্থান: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "নতুন ট্যাবে খুলুন",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Addon চালু / বন্ধ",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon নিষ্ক্রিয় করা হয়",
+    "common": true
+  },
+  "_description_why": {
+    "message": "কেন?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "গোপনীয়তা নীতি",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "সম্প্রতি যোগ বৈশিষ্ট্য:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "ট্যাগ:",
+    "common": true
+  }
+}

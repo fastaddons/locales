@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "ማስመጣት ተጠናቅቋል!",
+    "common": true
+  },
+  "import_error": {
+    "message": "ስህተት",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "የመጠባበቂያ ቅጂ ፋይል $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "መነሻ ገጽ",
+    "common": true
+  },
+  "addon_page": {
+    "message": "አዶን ገጽ",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac መተግበሪያ መደብር",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome ድር ማከማቻ",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "ፋየርፎክስ ተጨማሪዎች",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "ተንደርበርድ ተጨማሪዎች",
+    "common": true
+  },
+  "menu_options": {
+    "message": "አማራጮች",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "የቅርጸ-ቁምፊ መጠን",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "የጎን አሞሌ መጠን",
+    "common": true
+  },
+  "label_next": {
+    "message": "ቀጥሎም",
+    "common": true
+  },
+  "label_note": {
+    "message": "ማስታወሻ:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "ያስወግዱ",
+    "common": true
+  },
+  "label_warning": {
+    "message": "ማስጠንቀቂያ",
+    "common": true
+  },
+  "label_options": {
+    "message": "አማራጮች",
+    "common": true
+  },
+  "label_default": {
+    "message": "ነባሪ",
+    "common": true
+  },
+  "label_done": {
+    "message": "ተከናውኗል!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "የተቀዳ!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "ልማድ",
+    "common": true
+  },
+  "label_close": {
+    "message": "ገጠመ",
+    "common": true
+  },
+  "label_installed": {
+    "message": "ተጭኗል",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "ክፍት ገጽ",
+    "common": true
+  },
+  "label_agree": {
+    "message": "እስማማለሁ",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "ይቅር",
+    "common": true
+  },
+  "label_save": {
+    "message": "አስቀምጥ",
+    "common": true
+  },
+  "label_required": {
+    "message": "ያስፈልጋል",
+    "common": true
+  },
+  "label_sending": {
+    "message": "መላክ ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "ሚዛን",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "አጉላ",
+    "common": true
+  },
+  "label_size": {
+    "message": "መጠን:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "በቅርብ ቀን",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "ለውጦችን አስቀምጥ",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "ለውጦችን ይጥሉ",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "ምናሌ",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "የመነሻ ገጽን ይጎብኙ",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "ይህንን ፕሮጀክት ይረዱ",
+    "common": true
+  },
+  "support_developer": {
+    "message": "ገለልተኛ ገንቢ ድጋፍ!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "ሰላም!",
+    "common": true
+  },
+  "about_me": {
+    "message": "እ.ኤ.አ. ከ 2016 ጀምሮ እሳቤ ረዳት ነኝ. ግቤ ለበለጠ አሳሽዎ የበለጠ ውጤታማ እንዲሆኑ ለማድረግ ኃይለኛ ቅጥያዎችን መገንባት ነው.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "ጥሩ ሥራ እየሠራሁ እንደሆነ ካሰቡ እባክዎን ይለግሱ :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "ልገሳዎ የእኔ ብቸኛ ገቢዬ ነው!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "ሥራዬን በመደገፍ እናመሰግናለን!",
+    "common": true
+  },
+  "op_help": {
+    "message": "እገዛ",
+    "common": true
+  },
+  "o_title": {
+    "message": "አማራጮች - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "ምትኬ",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "አዲስ የመጠባበቂያ ቅጂ ይፍጠሩ",
+    "common": true
+  },
+  "save_settings": {
+    "message": "ቅንብሮችን ያስቀምጡ",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "ውሂብዎን ወደ ፋይል ወደ ፋይል ለመላክ, ይህንን መስኮት በአዲስ ትር ውስጥ እንደገና ያካሂዱ.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "በቀኝ ጠቅ ያድርጉ / \"የተገናኘ ፋይል\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "አጠቃላይ",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "ዳራ",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "አውድ ምናሌ",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "ድንክዬዎች",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "አቋራጮች",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "ማስመጣት / ምትኬ",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "ቅንብሮች",
+    "common": true
+  },
+  "o_theme": {
+    "message": "ጭብጥ",
+    "common": true
+  },
+  "o_general": {
+    "message": "አጠቃላይ:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "ተሰናክሏል",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "ነቅቷል",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "ፒክሰሎች",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "ሰከንዶች",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "አውድ ምናሌ",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "የአውድ ምናሌን አሰናክል: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "የመጠባበቂያ / ወደ ፋይል ቅንብሮች መመለስ:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "ማስመጣት",
+    "common": true
+  },
+  "title_import": {
+    "message": "ማስመጣት",
+    "common": true
+  },
+  "title_export": {
+    "message": "ወደ ውጭ ይላኩ",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "ወደ ውጭ የመላክ ምትክ",
+    "common": true
+  },
+  "label_or": {
+    "message": "ወይም",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "እው ሰላም ነው :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "ስሜ $1$ ነው እና የ $app_name$ ደራሲ ነኝ.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "ከወደዱት እባክዎን እዚህ ይስጡ-",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "እርስዎ ካልወደዱ እባክዎን በኢ-ሜይል ለምን እንደሆነ ያሳውቁኝ. እኔ የሚቀበሉትን አብዛኛዎቹ የባህሪ መጠየቂያ ጥያቄዎችን እየተተገበርኩ ነው.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "እባክዎን የእኔን ሥራ በመደገፍ ያስቡበት",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN ን በመጠቀም የባንክ ማስተላለፍ",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "ልገሳ (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "የእኔ ረዳት ነኝ",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "አመሰግናለሁ!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "ቤት",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "አድራሻ",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "ጉዳዮች ሪፖርት ያድርጉ",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "እኔ በእንግሊዝኛ / ስሎቫክ ብቻ መልስ መስጠት እችላለሁ",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "ማህበራዊ ሚዲያ:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "ለውጦችን ያስቀምጡ እና ይዘጋሉ",
+    "common": true
+  },
+  "o_saved": {
+    "message": "አድኗል!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "ምንም ተዛማጅ ውጤቶች የሉም",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "ምንም ውሂብ የለም",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "ጨለማ ሁነታን",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "በስርዓት ቁጥጥር ተደርጓል",
+    "common": true
+  },
+  "used_space": {
+    "message": "ያገለገለ ቦታ $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "በአዲስ ትር ውስጥ ይክፈቱ",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "አዶን ያብሩ / አጥፋ",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "አዶን ተሰናክሏል",
+    "common": true
+  },
+  "_description_why": {
+    "message": "ለምን?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "የ ግል የሆነ",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "በቅርቡ የታከሉ ባህሪዎች",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "መለያዎች:",
+    "common": true
+  }
+}

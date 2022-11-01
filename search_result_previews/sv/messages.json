@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "Importen färdig!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Fel",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Importera backup-fil $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Hemsida",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon Page",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome webbutik",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-ons",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Alternativ",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Textstorlek",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Sidofältstorlek",
+    "common": true
+  },
+  "label_next": {
+    "message": "Nästa",
+    "common": true
+  },
+  "label_note": {
+    "message": "Notera:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Avlägsna",
+    "common": true
+  },
+  "label_warning": {
+    "message": "VARNING:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Alternativ:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Standard:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Gjort!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Kopieras!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Beställnings:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Stänga",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Installerad",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Öppna sidan",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Hålla med",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Avbryt",
+    "common": true
+  },
+  "label_save": {
+    "message": "Spara",
+    "common": true
+  },
+  "label_required": {
+    "message": "Nödvändig",
+    "common": true
+  },
+  "label_sending": {
+    "message": "sändning...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Skala:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Storlek:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Kommer snart",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Spara ändringar",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Ignorera ändringar",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Meny",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Besök hemsida",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Hjälp detta projekt",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Stöd oberoende utvecklare!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Hej där!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Jag är Addon Developer sedan 2016. Mitt mål är att bygga kraftfulla tillägg för din webbläsare för att göra dig mer produktiv.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Om du tror att jag gör ett bra jobb, snälla donera :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Din donation är min enda inkomst!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Tack för att du har stött på mitt arbete!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Hjälp",
+    "common": true
+  },
+  "o_title": {
+    "message": "Alternativ - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "säkerhetskopiering",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Skapa ny säkerhetskopia",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Spara inställningar",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "För att exportera dina data till en fil, öppna det här fönstret på en ny flik.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Högerklicka / \"Hämta länkad fil\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Allmän",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Bakgrund",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Innehållsmeny",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Miniatyrer",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Genvägar",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Import / Backup",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Inställningar",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Tema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Allmän:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "inaktiverad",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "aktiverad",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixlar",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "sekunder",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Innehållsmeny:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Inaktivera snabbmeny: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Säkerhetskopiera / återställ inställningar till fil:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Importera",
+    "common": true
+  },
+  "title_import": {
+    "message": "Importera",
+    "common": true
+  },
+  "title_export": {
+    "message": "Exportera",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Exportera säkerhetskopiering",
+    "common": true
+  },
+  "label_or": {
+    "message": "eller",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Hej :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Jag heter $1$ och jag är författaren till $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Om du gillar det, snälla betygsätta det här:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Om du inte gillar det, var snäll och låt mig veta varför till mitt e-postmeddelande. Jag implementerar de flesta av de funktioner som jag får.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Tänk på att stödja mitt arbete med",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Banköverföring med IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donation (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "blir min beskyddare",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Tack!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "hem:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Rapportera problem:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Jag kan bara svara på engelska / slovakiska",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sociala media:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Spara ändringar och stäng",
+    "common": true
+  },
+  "o_saved": {
+    "message": "sparade!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Inga matchande resultat",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Inga data",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Mörkt läge",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Kontrolleras av systemet",
+    "common": true
+  },
+  "used_space": {
+    "message": "Användsutrymme: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Öppna i ny flik",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Byt tillägg på / av",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon är inaktiverat",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Varför?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Integritetspolicy",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Nyligen tillagda funktioner:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Taggar:",
+    "common": true
+  }
+}

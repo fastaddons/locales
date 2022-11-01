@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "Import færdig!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Fejl",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Import backup fil $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "HomePage.",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon side",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store.",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox add-ons",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-ons",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Muligheder",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Skriftstørrelse",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Sidebjælke størrelse",
+    "common": true
+  },
+  "label_next": {
+    "message": "Næste",
+    "common": true
+  },
+  "label_note": {
+    "message": "Bemærk:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Fjerne",
+    "common": true
+  },
+  "label_warning": {
+    "message": "ADVARSEL:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Muligheder:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Standard:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Færdig!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Kopieret!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Brugerdefinerede:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Tæt",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Installeret",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Åbn side",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Enig",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Afbestille",
+    "common": true
+  },
+  "label_save": {
+    "message": "Gemme",
+    "common": true
+  },
+  "label_required": {
+    "message": "Påkrævet",
+    "common": true
+  },
+  "label_sending": {
+    "message": "sende ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Vægt:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "ZOOM:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Størrelse:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Kommer snart",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Gem ændringer",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Kassere ændringer",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menu",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Besøg hjemmeside.",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Hjælp dette projekt",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Støtte uafhængig udvikler!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Hej med dig!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Jeg er addon udvikler siden 2016. Mit mål er at opbygge kraftfulde udvidelser til din webbrowser for at gøre dig mere produktiv.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Hvis du tror jeg laver et godt stykke arbejde, skal du donere :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Din donation er min eneste indkomst!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Tak for at støtte mit arbejde!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Hjælp",
+    "common": true
+  },
+  "o_title": {
+    "message": "Valg - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "backup.",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Opret ny sikkerhedskopiering",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Gem indstillinger",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "For at eksportere dine data til en fil, skal du genåbne dette vindue på en ny fane.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Højreklik / \"Download Linked File\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Generel",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Baggrund",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Kontekstmenu.",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Thumbnails.",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Genvejstaster.",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Import / Backup.",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Indstillinger.",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Tema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Generel:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "handicappet",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "aktiveret.",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels.",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "sekunder",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Kontekstmenu:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Deaktiver kontekstmenu: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Backup / Gendan indstillinger til fil:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Importere",
+    "common": true
+  },
+  "title_import": {
+    "message": "Importere",
+    "common": true
+  },
+  "title_export": {
+    "message": "Eksport",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Eksporter sikkerhedskopiering",
+    "common": true
+  },
+  "label_or": {
+    "message": "eller",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Hej :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Mit navn er $1$ og jeg er forfatteren af $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Hvis du kan lide det, bedes du bedømme det her:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Hvis du ikke kan lide det, så lad mig vide, hvorfor til min e-mail. Jeg implementerer de fleste af de funktion-anmodninger, jeg modtager.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Overvej venligst at støtte mit arbejde af",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankoverførsel ved hjælp af IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donation (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "bliver min protektor",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Tak skal du have!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "hjem:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Rapportér spørgsmål:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Jeg kan kun svare på engelsk / slovakisk",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sociale medier:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Gem ændringer og luk",
+    "common": true
+  },
+  "o_saved": {
+    "message": "gemt!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Ingen matchende resultater.",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Ingen data",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Mørk tilstand",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Kontrolleret af system",
+    "common": true
+  },
+  "used_space": {
+    "message": "Brugt plads: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Åbn i ny fane",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Switch Addon On / Off",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon er deaktiveret",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Hvorfor?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Fortrolighedspolitik",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Nyligt tilføjede funktioner:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

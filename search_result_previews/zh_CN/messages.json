@@ -1,0 +1,454 @@
+{
+  "import_finished": {
+    "message": "导入完成！",
+    "common": true,
+    "u": 1638271130272
+  },
+  "import_error": {
+    "message": "错误",
+    "common": true,
+    "u": 1638267331438
+  },
+  "import_backup_file": {
+    "message": "导入备份文件“$1”",
+    "common": true,
+    "u": 1638271153786
+  },
+  "homepage": {
+    "message": "主页",
+    "common": true,
+    "u": 1638271170481
+  },
+  "addon_page": {
+    "message": "插入页面",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome 网上应用店页面",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox 附加组件页面",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird附加组件",
+    "common": true
+  },
+  "menu_options": {
+    "message": "选项",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "字体大小",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "侧边栏大小",
+    "common": true
+  },
+  "label_next": {
+    "message": "下一步",
+    "common": true
+  },
+  "label_note": {
+    "message": "注释：",
+    "common": true
+  },
+  "label_remove": {
+    "message": "移除",
+    "common": true
+  },
+  "label_warning": {
+    "message": "警告：",
+    "common": true
+  },
+  "label_options": {
+    "message": "选项：",
+    "common": true
+  },
+  "label_default": {
+    "message": "默认：",
+    "common": true
+  },
+  "label_done": {
+    "message": "完成！",
+    "common": true
+  },
+  "label_copied": {
+    "message": "已复制！",
+    "common": true
+  },
+  "label_custom": {
+    "message": "自定义：",
+    "common": true
+  },
+  "label_close": {
+    "message": "关闭",
+    "common": true
+  },
+  "label_installed": {
+    "message": "已安装",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "打开页面",
+    "common": true
+  },
+  "label_agree": {
+    "message": "同意",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "取消",
+    "common": true
+  },
+  "label_save": {
+    "message": "保存",
+    "common": true
+  },
+  "label_required": {
+    "message": "必需",
+    "common": true,
+    "u": 1638357584240
+  },
+  "label_sending": {
+    "message": "发送中......",
+    "common": true,
+    "u": 1638357596405
+  },
+  "label_scale": {
+    "message": "尺寸：",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "缩放：",
+    "common": true
+  },
+  "label_size": {
+    "message": "大小：",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "即将推出",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "保存更改",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "舍弃更改",
+    "common": true,
+    "u": 1641702648636
+  },
+  "menu_button_title": {
+    "message": "菜单",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "访问主页",
+    "common": true,
+    "u": 1638357715910
+  },
+  "op_support_me": {
+    "message": "助力此项目",
+    "common": true
+  },
+  "support_developer": {
+    "message": "支持独立开发人员！",
+    "common": true
+  },
+  "hello_there": {
+    "message": "你好呀！",
+    "common": true
+  },
+  "about_me": {
+    "message": "自 2016 年以来，我一直是一名独立插件开发人员。我的目标是为您的网络浏览器构建一套强大的扩展程序，以提高您的工作效率。",
+    "common": true,
+    "u": 1638357806388
+  },
+  "about_good_job": {
+    "message": "如果您认为我做得很好，请予以捐赠 :)",
+    "common": true,
+    "u": 1640173284534
+  },
+  "about_income": {
+    "message": "您的捐款是我唯一的收入来源！",
+    "common": true,
+    "u": 1640173267962
+  },
+  "about_thanks": {
+    "message": "感谢您对我工作的支持！",
+    "common": true,
+    "u": 1646737759174
+  },
+  "op_help": {
+    "message": "帮助",
+    "common": true
+  },
+  "o_title": {
+    "message": "选项 - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "备份",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "新建备份",
+    "common": true
+  },
+  "save_settings": {
+    "message": "保存设置",
+    "common": true,
+    "u": 1638357823796
+  },
+  "safari_download_in_tab": {
+    "message": "要将数据导出到文件，请在新标签页中重新打开此窗口",
+    "common": true,
+    "u": 1640173224430
+  },
+  "safari_context_menu_download": {
+    "message": "右键单击/“下载链接文件”",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "常规",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "背景",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "右键菜单",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "缩略图",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "快捷键",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "导入/备份",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "关于",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "设置",
+    "common": true
+  },
+  "o_theme": {
+    "message": "主题：",
+    "common": true
+  },
+  "o_general": {
+    "message": "常规：",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "已禁用",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "已启用",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "像素",
+    "common": true,
+    "u": 1638357953995
+  },
+  "o_seconds": {
+    "message": "秒",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "右键菜单：",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "禁用右键菜单：$1",
+    "common": true,
+    "u": 1638358050269
+  },
+  "o_backup_restore": {
+    "message": "备份/还原设置到文件：",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "导入",
+    "common": true
+  },
+  "title_import": {
+    "message": "导入",
+    "common": true,
+    "u": 1638358085868
+  },
+  "title_export": {
+    "message": "导出",
+    "common": true,
+    "u": 1638358089952
+  },
+  "btn_export_backup": {
+    "message": "导出备份",
+    "common": true
+  },
+  "label_or": {
+    "message": "或者",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "您好 :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "我的名字叫 $1$，我是 $app_name$ 的作者。",
+    "common": true,
+    "u": 1640172928883
+  },
+  "o_about_like_it": {
+    "message": "如果您喜欢它，请在此评分：",
+    "common": true,
+    "u": 1638441452437
+  },
+  "o_about_dislike_it": {
+    "message": "如果您不喜欢它，请发邮件让我知道原因。我一直在努力实现我收到的大部分功能请求。",
+    "common": true,
+    "u": 1640173032195
+  },
+  "o_about_support_by": {
+    "message": "请考虑通过以下方式支持我的工作：",
+    "common": true,
+    "u": 1640173060888
+  },
+  "o_about_support_by_iban": {
+    "message": "使用 IBAN 进行银行转账：",
+    "common": true,
+    "u": 1638441504600
+  },
+  "o_about_support_by_donation": {
+    "message": "捐款 (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "成为 Patron 会员",
+    "common": true,
+    "u": 1640173086628
+  },
+  "o_about_thanks": {
+    "message": "谢谢！",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "主页：",
+    "common": true,
+    "u": 1640173122978
+  },
+  "o_about_contact": {
+    "message": "联系方式：",
+    "common": true,
+    "u": 1638441426458
+  },
+  "o_about_issues": {
+    "message": "报告问题：",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "我只会通过英语/斯洛伐克语进行回复",
+    "common": true,
+    "u": 1640173140916
+  },
+  "o_about_social_media": {
+    "message": "社交媒体：",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "保存变更并关闭",
+    "common": true
+  },
+  "o_saved": {
+    "message": "已保存！",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "无匹配结果",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "无数据",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "深色模式",
+    "common": true,
+    "u": 1638441483995
+  },
+  "dark_mode_system": {
+    "message": "跟随系统",
+    "common": true,
+    "u": 1638441521521
+  },
+  "used_space": {
+    "message": "已用空间：$1 / $2",
+    "common": true,
+    "u": 1638441534951
+  },
+  "open_in_new_tab": {
+    "message": "在新标签页中打开",
+    "common": true,
+    "u": 1638441541258
+  },
+  "switch_addon_on_off": {
+    "message": "切换插件开/关",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "插件已禁用",
+    "common": true,
+    "u": 1638441575112
+  },
+  "_description_why": {
+    "message": "为什么？",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "隐私政策",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "最近添加的功能：",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "标签：",
+    "common": true
+  },
+  "label_left": {
+    "message": "左",
+    "u": 1646737980431
+  },
+  "label_right": {
+    "message": "右",
+    "u": 1646737984231
+  },
+  "firefox_import_in_tab": {
+    "message": "要导入备份，请在新标签页中重新打开此窗口",
+    "u": 1648218536625
+  },
+  "edge_store": {
+    "message": "Edge 附加组件",
+    "u": 1654612669204
+  }
+}

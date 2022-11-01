@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "匯入已結束！",
+    "common": true
+  },
+  "import_error": {
+    "message": "錯誤",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "導入備份文件$1",
+    "common": true
+  },
+  "homepage": {
+    "message": "主頁",
+    "common": true
+  },
+  "addon_page": {
+    "message": "插入頁面",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome 線上應用程式商店頁面",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox 附加元件頁面",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird附加組件",
+    "common": true
+  },
+  "menu_options": {
+    "message": "選項",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "字型大小",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "側邊欄大小",
+    "common": true
+  },
+  "label_next": {
+    "message": "下一步",
+    "common": true
+  },
+  "label_note": {
+    "message": "註記：",
+    "common": true
+  },
+  "label_remove": {
+    "message": "移除",
+    "common": true
+  },
+  "label_warning": {
+    "message": "警告：",
+    "common": true
+  },
+  "label_options": {
+    "message": "選項：",
+    "common": true
+  },
+  "label_default": {
+    "message": "預設：",
+    "common": true
+  },
+  "label_done": {
+    "message": "完成！",
+    "common": true
+  },
+  "label_copied": {
+    "message": "已複製！",
+    "common": true
+  },
+  "label_custom": {
+    "message": "自訂：",
+    "common": true
+  },
+  "label_close": {
+    "message": "關閉",
+    "common": true
+  },
+  "label_installed": {
+    "message": "已安裝",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "開啟頁面",
+    "common": true
+  },
+  "label_agree": {
+    "message": "同意",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "取消",
+    "common": true
+  },
+  "label_save": {
+    "message": "保存",
+    "common": true
+  },
+  "label_required": {
+    "message": "必需的",
+    "common": true
+  },
+  "label_sending": {
+    "message": "發送......",
+    "common": true
+  },
+  "label_scale": {
+    "message": "尺寸：",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "縮放：",
+    "common": true
+  },
+  "label_size": {
+    "message": "大小：",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "即將推出",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "保存更改",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "放棄更改",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "選單",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "造訪首頁",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "協助此專案",
+    "common": true
+  },
+  "support_developer": {
+    "message": "支持獨立開發人員！",
+    "common": true
+  },
+  "hello_there": {
+    "message": "你好呀！",
+    "common": true
+  },
+  "about_me": {
+    "message": "自2016年以來我是Addon開發人員。我的目標是為您的網絡瀏覽器構建強大的擴展，以使您更富有成效。",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "如果你認為我做得很好，請捐贈:)",
+    "common": true
+  },
+  "about_income": {
+    "message": "你的捐款是我唯一的收入！",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "謝謝你支持我的工作！",
+    "common": true
+  },
+  "op_help": {
+    "message": "說明",
+    "common": true
+  },
+  "o_title": {
+    "message": "選項 - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "備份",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "建立新備份",
+    "common": true
+  },
+  "save_settings": {
+    "message": "儲存設定",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "要將數據導出到文件，請在新選項卡中重新打開此窗口。",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "右鍵單擊/“下載鏈接文件”",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "一般",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "背景",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "右鍵選單",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "縮略圖",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "短按鍵",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "導入/備份",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "關於",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "設置",
+    "common": true
+  },
+  "o_theme": {
+    "message": "主題：",
+    "common": true
+  },
+  "o_general": {
+    "message": "一般：",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "已停用",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "已啟用",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "像素",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "秒",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "右鍵選單：",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "禁用上下文菜單：$1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "備份/還原設置到文件：",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "匯入",
+    "common": true
+  },
+  "title_import": {
+    "message": "進口",
+    "common": true
+  },
+  "title_export": {
+    "message": "出口",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "導出備份",
+    "common": true
+  },
+  "label_or": {
+    "message": "或者",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "您好 :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "我的名字是$1$，我是$app_name$的作者。",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "若您喜歡它，請在此評分：",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "如果您不喜歡它，請寄信到我的電子郵件信箱讓我知道為什麼。我會實作更多我收到的功能請求。",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "請考慮支援我的作品，透過：",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "使用IBAN轉帳：",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "捐款 (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "成為我的 Patron",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "謝謝！",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "家：",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "聯絡：",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "回報問題：",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "我只會以英文／斯洛伐克文回覆",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "社群媒體：",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "儲存變更並關閉",
+    "common": true
+  },
+  "o_saved": {
+    "message": "已儲存！",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "沒有符合的結果",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "沒有資料",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "深色模式",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "由系統控制",
+    "common": true
+  },
+  "used_space": {
+    "message": "二手空間：$1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "在新標籤中打開",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "切換插件開/關",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon被禁用",
+    "common": true
+  },
+  "_description_why": {
+    "message": "為什麼？",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "隱私政策",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "最近添加的功能：",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "標籤：",
+    "common": true
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "Importa finita!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Errore",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Importa file di backup $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Homepage",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Pagina addon.",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Il negozio online di Chrome",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Componenti aggiuntivi di firefox",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Add-on Thunderbird",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Opzioni",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Dimensione del font",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Dimensione della barra laterale",
+    "common": true
+  },
+  "label_next": {
+    "message": "Il prossimo",
+    "common": true
+  },
+  "label_note": {
+    "message": "Nota:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Rimuovere",
+    "common": true
+  },
+  "label_warning": {
+    "message": "AVVERTIMENTO:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Opzioni:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Predefinita:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Fatto!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Copiato!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Personalizzata:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Vicina",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Installato",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Pagina aperta",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Essere d'accordo",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Annulla",
+    "common": true
+  },
+  "label_save": {
+    "message": "Salva",
+    "common": true
+  },
+  "label_required": {
+    "message": "Necessaria",
+    "common": true
+  },
+  "label_sending": {
+    "message": "invio ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Scala:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Ingrandisci:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Dimensione:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Prossimamente",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Salvare le modifiche",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Non salvare le modifiche",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menù",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Visita la homepage",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Aiuta questo progetto",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Supporta sviluppatore indipendente!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Ciao!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Sono Addon Developer dal 2016. Il mio obiettivo è costruire potenti estensioni per il tuo browser web per renderti più produttivo.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Se pensi che sto facendo un buon lavoro, per favore dona :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "La tua donazione è la mia unica entrata!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Grazie per aver sostenuto il mio lavoro!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Aiuto",
+    "common": true
+  },
+  "o_title": {
+    "message": "Opzioni - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "backup.",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Crea nuovo backup.",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Salva le impostazioni",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Per esportare i tuoi dati in un file, riaprire questa finestra in una nuova scheda.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Fare clic con il tasto destro / \"Download file collegato\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Generale",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Sfondo",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Menù contestuale",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Thumbnails.",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Scorciatoie",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Importazione / backup.",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Impostazioni",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Tema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Generale:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "disabilitata",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "abilitata",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels.",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "secondi",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Menù contestuale:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Disabilita il menu contestuale: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Impostazioni di backup / ripristino per il file:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Importare",
+    "common": true
+  },
+  "title_import": {
+    "message": "Importare",
+    "common": true
+  },
+  "title_export": {
+    "message": "Esportare",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Export Backup.",
+    "common": true
+  },
+  "label_or": {
+    "message": "o",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Ciao :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Mi chiamo $1$ e sono l'autore di $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Se ti piace, per favore votandolo qui:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Se non ti piace, per favore fammi sapere perché la mia e-mail. Sto implementando la maggior parte delle richieste di funzionalità che ricevo.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Si prega di considerare il supporto del mio lavoro",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Bonifico bancario con IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donazione (Paypal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "diventando il mio patrono",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Grazie!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "casa:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contatto:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Segnala problemi:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Posso rispondere solo in inglese / slovacco",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Media sociali:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Salva le modifiche e chiudi",
+    "common": true
+  },
+  "o_saved": {
+    "message": "salvato!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Nessun risultato corrispondente",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Nessun dato",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Modalità scura",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Controllato dal sistema",
+    "common": true
+  },
+  "used_space": {
+    "message": "Spazio usato: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Apri in una nuova scheda",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Interruttore Addon On / Off",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "ADDON è disabilitato",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Perché?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Politica sulla riservatezza",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Caratteristiche aggiunte di recente:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tag:",
+    "common": true
+  }
+}

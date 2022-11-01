@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "Tuo valmis!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Virhe",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Tuo varmuuskopiotiedosto $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Kotisivu",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon-sivu",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Storesta",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefoxin lisäosat",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird lisäosat",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Vaihtoehdot",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Fonttikoko",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Sivupalkin koko",
+    "common": true
+  },
+  "label_next": {
+    "message": "Seuraava",
+    "common": true
+  },
+  "label_note": {
+    "message": "Merkintä:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Poista",
+    "common": true
+  },
+  "label_warning": {
+    "message": "VAROITUS:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Vaihtoehdot:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Oletusarvo:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Tehty!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Kopioni!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Mukautettu:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Kiinni",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Asennettu",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Avaa sivu",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Olla samaa mieltä",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Peruuttaa",
+    "common": true
+  },
+  "label_save": {
+    "message": "Tallentaa",
+    "common": true
+  },
+  "label_required": {
+    "message": "Edellytetään",
+    "common": true
+  },
+  "label_sending": {
+    "message": "lähettäminen ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Scale:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoomaus:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Koko:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Tulossa pian",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Tallenna muutokset",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Hylkää muutokset",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Valikko",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Käy kotisivulla",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Auta tätä hanketta",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Tuki riippumaton kehittäjä!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Hei siellä!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Olen ADDON Kehittäjä vuodesta 2016. Tavoitteenani on rakentaa voimakkaita laajennuksia web-selaimellesi, jotta sinusta tulee tuottavampi.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Jos luulet, että teen hyvää työtä, lahjoita :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Lahjoituksesi on ainoa tuloni!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Kiitos, että tukenut työni!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Auta",
+    "common": true
+  },
+  "o_title": {
+    "message": "Asetukset - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "varmuuskopioida",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Luo uusi varmuuskopio",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Tallenna asetukset",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Voit viedä tiedot tiedostoon uudelleen, avaa tämä ikkuna uudessa välilehdessä.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Napsauta hiiren kakkospainikkeella / \"Lataa linkitetty tiedosto\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Yleinen",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Tausta",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Kontekstivalikko",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Pikkukuvat",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Pikavalinnat",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Tuo / varmuuskopiointi",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Asetukset",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Teema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Yleiset:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "liikuntarajoitteinen",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "käytössä",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pikselit",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "sekuntia",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Kontekstivalikko:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Poista kontekstivalikko käytöstä: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Varmuuskopiointi / palautusasetukset tiedostoon:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Tuonti",
+    "common": true
+  },
+  "title_import": {
+    "message": "Tuonti",
+    "common": true
+  },
+  "title_export": {
+    "message": "Viedä",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Viennin varmuuskopiointi",
+    "common": true
+  },
+  "label_or": {
+    "message": "tai",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Hei :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Nimeni on $1$ ja olen kirjoittaja $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Jos pidät siitä, tarkista se täältä:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Jos et pidä siitä, kerro minulle miksi sähköpostini. Olen toteuttanut suurimman osan ominaisuuspyynnöistä.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Harkitse työn tukemista",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Pankkisiirto IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "lahjoitus (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "tulossa minun suojelija",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Kiitos!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "koti:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Ottaa yhteyttä:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Ilmoita:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Voin vastata vain englanniksi / slovakiksi",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sosiaalinen media:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Tallenna muutokset ja sulje",
+    "common": true
+  },
+  "o_saved": {
+    "message": "tallennettu!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Ei vastaavia tuloksia",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Ei dataa",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Tumma tila",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Järjestelmällä",
+    "common": true
+  },
+  "used_space": {
+    "message": "Käytetyt tila: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Avaa uudessa välilehdessä",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Vaihda ADDON ON / OFF",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "ADDON on poistettu käytöstä",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Miksi?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Tietosuojakäytäntö",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Äskettäin lisätyt ominaisuudet:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tunnisteet:",
+    "common": true
+  }
+}

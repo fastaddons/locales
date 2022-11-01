@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "Importas baigtas!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Klaida",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Importuoti atsarginę failą $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Pagrindinis puslapis. \\ T",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon Page.",
+    "common": true
+  },
+  "safari_store": {
+    "message": "\"Mac App Store\"",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "\"Chrome\" internetinė parduotuvė",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "\"Firefox\" priedai",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "\"Thunderbird\" priedai",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Galimybės",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Šrifto dydis",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Sidebar dydis",
+    "common": true
+  },
+  "label_next": {
+    "message": "Kitas",
+    "common": true
+  },
+  "label_note": {
+    "message": "Pastaba:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Pašalinti",
+    "common": true
+  },
+  "label_warning": {
+    "message": "ĮSPĖJIMAS:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Galimybės:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Numatytas:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Padaryta!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Nukopijuoti!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Pasirinktinis:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Uždaryti",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Įdiegta",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Atidarykite puslapį",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Sutinku",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Atšaukti",
+    "common": true
+  },
+  "label_save": {
+    "message": "Sutaupyti",
+    "common": true
+  },
+  "label_required": {
+    "message": "Reikalinga",
+    "common": true
+  },
+  "label_sending": {
+    "message": "siuntimas ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Skalė:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Padidinti:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Dydis:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Netrukus",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Išsaugoti pakeitimus",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Atsisakyti pakeitimų",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Meniu",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Apsilankykite pagrindiniame puslapyje",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Padėti šiam projektui",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Palaikykite nepriklausomą kūrėją!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Sveiki!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Aš esu \"Addon\" kūrėjas nuo 2016 m. Mano tikslas yra sukurti galingus jūsų žiniatinklio naršyklės plėtinius, kad padarytumėte našesnį.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Jei manote, kad darau gerą darbą, prašome paaukoti :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Jūsų donorystė yra vienintelė pajamos!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Dėkojame, kad palaikėte mano darbą!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Pagalba",
+    "common": true
+  },
+  "o_title": {
+    "message": "Parinktys - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "atsarginė kopija",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Sukurkite naują atsarginę kopiją",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Išsaugoti nustatymus",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Norėdami eksportuoti duomenis į failą, atidarykite šį langą naujame skirtuke.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Dešiniuoju pelės mygtuku spustelėkite / \"Atsisiųsti susietą failą\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Apskritai. \\ T",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Fonas",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Kontekstinis meniu",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Miniatiūros",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Nuorodos",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Import / Backup.",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Nustatymai. \\ T",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Tema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Bendra:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "neįgalūs",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "įjungtas",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pikseliai",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "sekundės",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Kontekstinis meniu:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Išjungti konteksto meniu: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Atsarginės / atkūrimo nustatymai į failą:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Importas. \\ T",
+    "common": true
+  },
+  "title_import": {
+    "message": "Importas. \\ T",
+    "common": true
+  },
+  "title_export": {
+    "message": "Eksportas. \\ T",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Eksporto atsarginė kopija",
+    "common": true
+  },
+  "label_or": {
+    "message": "arba. \\ T",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Sveiki :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Mano vardas yra $1$ ir aš esu $app_name$ autorius.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Jei jums tai patinka, vertinkite jį čia:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Jei jums nepatinka, praneškite man, kodėl mano el. Aš įgyvendinu daugumą jų gaunamų funkcijų prašymų.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Prašome apsvarstyti galimybę remti savo darbą",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Banko pervedimas naudojant IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donorystė (paypal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "tapti mano globėju",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Ačiū!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "namai:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontaktas:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Ataskaitos problemos:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Galiu atsakyti tik anglų / slovakų kalba",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Socialinė žiniasklaida:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Išsaugokite pakeitimus ir uždarykite",
+    "common": true
+  },
+  "o_saved": {
+    "message": "išgelbėti!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Nėra atitinkamų rezultatų",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Nėra duomenų",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Tamsus režimas",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Kontroliuojamas pagal sistemą",
+    "common": true
+  },
+  "used_space": {
+    "message": "Naudota erdvė: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Atidarykite naujame skirtuke",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Perjunkite \"Addon On / Off\"",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon yra išjungtas",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Kodėl?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Privatumo politika",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Paskutinės patalpos:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Žymos:",
+    "common": true
+  }
+}

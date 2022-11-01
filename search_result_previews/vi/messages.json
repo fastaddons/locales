@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "Nhập xong!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Lỗi",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Nhập tệp sao lưu $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Trang chủ",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Trang Addon",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Cửa hàng ứng dụng Mac",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Cửa hàng Chrome trực tuyến",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Tiện ích Firefox",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Tiện ích Thunderbird",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Tùy chọn",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Cỡ chữ",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Sidebar size.",
+    "common": true
+  },
+  "label_next": {
+    "message": "Kế tiếp",
+    "common": true
+  },
+  "label_note": {
+    "message": "Ghi chú:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Tẩy",
+    "common": true
+  },
+  "label_warning": {
+    "message": "CẢNH BÁO:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Tùy chọn:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Mặc định:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Làm xong!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Sao chép!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Tập quán:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Đóng",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Cài đặt",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Mở trang",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Đồng ý",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Hủy bỏ",
+    "common": true
+  },
+  "label_save": {
+    "message": "Tiết kiệm",
+    "common": true
+  },
+  "label_required": {
+    "message": "Cần thiết",
+    "common": true
+  },
+  "label_sending": {
+    "message": "gửi...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Tỉ lệ:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Thu phóng:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Kích thước:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Sắp có",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Lưu thay đổi",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Loại bỏ những thay đổi",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Thực đơn",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Truy cập trang chủ",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Giúp dự án này",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Hỗ trợ nhà phát triển độc lập!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Xin chào!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Tôi là Addon Developer kể từ năm 2016. Mục tiêu của tôi là xây dựng các tiện ích mở rộng mạnh mẽ cho trình duyệt web của bạn để khiến bạn hiệu ích hơn.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Nếu bạn nghĩ rằng tôi đang làm một công việc tốt, xin vui lòng tặng :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Đóng góp của bạn là thu nhập duy nhất của tôi!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Cảm ơn bạn đã hỗ trợ công việc của tôi!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Cứu giúp",
+    "common": true
+  },
+  "o_title": {
+    "message": "Tùy chọn - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "sao lưu",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Tạo bản sao lưu mới",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Lưu các thiết lập",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Để xuất dữ liệu của bạn vào một tệp, hãy mở lại cửa sổ này trong một tab mới.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Nhấp chuột phải / \"Tải xuống tệp được liên kết\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Chung",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Lý lịch",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Danh mục",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Hình thu nhỏ",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Phím tắt",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Nhập / sao lưu.",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Cài đặt",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Chủ đề:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Chung:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "tàn tật",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "đã bật",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "điểm ảnh",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "giây",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Danh mục:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Vô hiệu hóa menu ngữ cảnh: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Cài đặt sao lưu / khôi phục vào tệp:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Nhập khẩu",
+    "common": true
+  },
+  "title_import": {
+    "message": "Nhập khẩu",
+    "common": true
+  },
+  "title_export": {
+    "message": "Xuất khẩu",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Sao lưu xuất khẩu.",
+    "common": true
+  },
+  "label_or": {
+    "message": "hoặc là",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Xin chào :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Tên tôi là $1$ và tôi là tác giả của $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Nếu bạn thích nó, xin vui lòng đánh giá nó ở đây:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Nếu bạn không thích nó, xin vui lòng cho tôi biết tại sao e-mail của tôi. Tôi đang thực hiện hầu hết các yêu cầu tính năng tôi nhận được.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Hãy xem xét hỗ trợ công việc của tôi bởi",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Chuyển khoản ngân hàng bằng IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "đóng góp (Paypal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "trở thành người bảo trợ của tôi",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Cảm ơn bạn!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "trang Chủ:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Tiếp xúc:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Các vấn đề báo cáo:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Tôi chỉ có thể trả lời bằng tiếng Anh / Slovak",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Truyền thông xã hội:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Lưu các thay đổi và đóng",
+    "common": true
+  },
+  "o_saved": {
+    "message": "tiết kiệm!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Không có kết quả phù hợp",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Không có dữ liệu",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Chế độ tối",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Kiểm soát bởi hệ thống",
+    "common": true
+  },
+  "used_space": {
+    "message": "Không gian đã sử dụng: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Mở ra trong trang mới",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Bật / tắt addon",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon bị vô hiệu hóa",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Tại sao?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Chính sách bảo mật",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Các tính năng được thêm gần đây:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

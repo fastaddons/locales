@@ -1,0 +1,475 @@
+{
+  "import_finished": {
+    "message": "Import finished!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Error",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Import backup file $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Homepage",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon page",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-ons",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Options",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Font size",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Sidebar size",
+    "common": true
+  },
+  "label_next": {
+    "message": "Next",
+    "common": true
+  },
+  "label_note": {
+    "message": "Note:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Remove",
+    "common": true
+  },
+  "label_warning": {
+    "message": "WARNING:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Options:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Default:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Done!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Copied!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Custom:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Close",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Installed",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Open page",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Agree",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Cancel",
+    "common": true
+  },
+  "label_save": {
+    "message": "Save",
+    "common": true
+  },
+  "label_required": {
+    "message": "Required",
+    "common": true
+  },
+  "label_sending": {
+    "message": "sending...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Scale:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Size:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Coming soon",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Save changes",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Discard changes",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menu",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Visit homepage",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Help this project",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Support independent developer!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Hello there!",
+    "common": true
+  },
+  "about_me": {
+    "message": "I'm addon developer since 2016. My goal is to build powerful extensions for your web-browser to make you more productive.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "If you think I'm doing a good job, please donate :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Your donation is my only income!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Thank you for supporting my work!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Help",
+    "common": true
+  },
+  "o_title": {
+    "message": "Options - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "backup",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Create new backup",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Save settings",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "To export your data to a file, reopen this window in a new tab.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Right click / \"Download Linked File\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "General",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Background",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Context menu",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Thumbnails",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Shortcuts",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Import / backup",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "About",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Settings",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Theme:",
+    "common": true
+  },
+  "o_general": {
+    "message": "General:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "disabled",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "enabled",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "seconds",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Context menu:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Disable context menu: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Backup / restore settings to file:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Import",
+    "common": true
+  },
+  "title_import": {
+    "message": "Import",
+    "common": true
+  },
+  "title_export": {
+    "message": "Export",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Export backup",
+    "common": true
+  },
+  "label_or": {
+    "message": "or",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Hello :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "My name is $1$ and I'm the author of $app_name$.",
+    "common": true,
+    "placeholders": {
+      "1": {
+        "content": "Juraj Mäsiar"
+      }
+    }
+  },
+  "o_about_like_it": {
+    "message": "If you like it, please rate it here:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "If you don't like it, please let me know why to my e-mail. I'm implementing most of the feature-requests I receive.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Please consider supporting my work by",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Bank transfer using IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donation (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "becoming my Patron",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Thank you!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "home:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contact:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Report issues:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "I can reply only in English / Slovak",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Social media:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Save changes and close",
+    "common": true
+  },
+  "o_saved": {
+    "message": "saved!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "No matching results",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "No data",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Dark mode",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Controlled by system",
+    "common": true
+  },
+  "used_space": {
+    "message": "Used space: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Open in new tab",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Switch addon ON / OFF",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon is disabled",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Why?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Privacy Policy",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Recently added features:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  },
+  "label_left": {
+    "message": "Left",
+    "common": true
+  },
+  "label_right": {
+    "message": "Right",
+    "common": true
+  },
+  "firefox_import_in_tab": {
+    "message": "To import your backup, reopen this window in a new tab.",
+    "common": true
+  },
+  "edge_store": {
+    "message": "Edge Add-ons",
+    "common": true
+  },
+  "enabled_on_pages": {
+    "message": "Enabled on pages"
+  },
+  "all_pages": {
+    "message": "All pages"
+  },
+  "filter": {
+    "message": "Filter"
+  },
+  "enable_on_page": {
+    "message": "Enable on \"$1\""
+  },
+  "favicon_provider": {
+    "message": "Favicons source"
+  },
+  "favicon_provider_0": {
+    "message": "Google"
+  },
+  "favicon_provider_1": {
+    "message": "DuckDuckGo"
+  },
+  "app_name": {
+    "message": "Search Result Previews"
+  },
+  "app_desc": {
+    "message": "Shows you page preview + favicon next to each search result!"
+  },
+  "favicon_placement": {
+    "message": "Favicon placement"
+  },
+  "favicon_placement_0": {
+    "message": "No favicons"
+  },
+  "favicon_placement_1": {
+    "message": "Next to title"
+  },
+  "favicons": {
+    "message": "Favicons"
+  },
+  "favicon_placement_2": {
+    "message": "Next to URL"
+  },
+  "hide_previews": {
+    "message": "Hide search previews (favicon-only mode)"
+  },
+  "broken_favicons": {
+    "message": "If your Google favicons doesn't show, you need to enable their alternative domain:"
+  }
+}

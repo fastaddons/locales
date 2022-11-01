@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "आयात आयात!",
+    "common": true
+  },
+  "import_error": {
+    "message": "त्रुटी",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "आयात बॅकअप फाइल $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "मुख्यपृष्ठ",
+    "common": true
+  },
+  "addon_page": {
+    "message": "अॅडॉन पृष्ठ",
+    "common": true
+  },
+  "safari_store": {
+    "message": "मॅक अॅप स्टोअर",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome वेब स्टोअर",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "फायरफॉक्स ऍड-ऑन्स",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "थंडरबर्ड अॅड-ऑन",
+    "common": true
+  },
+  "menu_options": {
+    "message": "पर्याय",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "अक्षराचा आकार",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "साइडबार आकार",
+    "common": true
+  },
+  "label_next": {
+    "message": "पुढे",
+    "common": true
+  },
+  "label_note": {
+    "message": "टीपः",
+    "common": true
+  },
+  "label_remove": {
+    "message": "काढा",
+    "common": true
+  },
+  "label_warning": {
+    "message": "चेतावणीः",
+    "common": true
+  },
+  "label_options": {
+    "message": "पर्यायः",
+    "common": true
+  },
+  "label_default": {
+    "message": "डीफॉल्ट:",
+    "common": true
+  },
+  "label_done": {
+    "message": "केले!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "कॉपी केले!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "सानुकूल:",
+    "common": true
+  },
+  "label_close": {
+    "message": "बंद",
+    "common": true
+  },
+  "label_installed": {
+    "message": "स्थापित",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "ओपन पेज",
+    "common": true
+  },
+  "label_agree": {
+    "message": "सहमत",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "रद्द करा",
+    "common": true
+  },
+  "label_save": {
+    "message": "जतन करा",
+    "common": true
+  },
+  "label_required": {
+    "message": "आवश्यक",
+    "common": true
+  },
+  "label_sending": {
+    "message": "पाठवून...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "स्केल:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "झूमः",
+    "common": true
+  },
+  "label_size": {
+    "message": "आकार:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "लवकरच येत आहे",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "बदल जतन करा",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "बदल रद्द करा",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "मेनू",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "मुख्यपृष्ठ भेट द्या",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "या प्रकल्पास मदत करा",
+    "common": true
+  },
+  "support_developer": {
+    "message": "स्वतंत्र विकासक समर्थन!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "नमस्कार!",
+    "common": true
+  },
+  "about_me": {
+    "message": "2016 पासून मी अॅडॉन विकसक आहे. माझे लक्ष्य आपल्या वेब-ब्राउझरसाठी अधिक उत्पादनक्षम बनविण्यासाठी शक्तिशाली विस्तार तयार करणे आहे.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "जर तुम्हाला वाटत असेल की मी चांगली नोकरी करत आहे, कृपया दान करा :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "आपले दान माझा एकमात्र उत्पन्न आहे!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "माझ्या कामाचे समर्थन केल्याबद्दल धन्यवाद!",
+    "common": true
+  },
+  "op_help": {
+    "message": "मदत",
+    "common": true
+  },
+  "o_title": {
+    "message": "पर्याय - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "बॅकअप",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "नवीन बॅकअप तयार करा",
+    "common": true
+  },
+  "save_settings": {
+    "message": "सेटिंग्ज जतन",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "आपला डेटा फाइलवर निर्यात करण्यासाठी, या विंडोला एका नवीन टॅबमध्ये पुन्हा उघडा.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "उजवे क्लिक / \"लिंक्ड फाइल डाउनलोड करा\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "सामान्य",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "पार्श्वभूमी",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "संदर्भ मेनू",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "लघुप्रतिमा",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "शॉर्टकट",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "आयात / बॅकअप",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "सेटिंग्ज",
+    "common": true
+  },
+  "o_theme": {
+    "message": "थीमः",
+    "common": true
+  },
+  "o_general": {
+    "message": "सामान्य:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "अक्षम",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "सक्षम",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "पिक्सेल",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "सेकंद",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "संदर्भ मेनू:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "संदर्भ मेनू अक्षम करा: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Placup / पुनर्संचयित सेटिंग्ज फाइल करण्यासाठी:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "आयात",
+    "common": true
+  },
+  "title_import": {
+    "message": "आयात",
+    "common": true
+  },
+  "title_export": {
+    "message": "निर्यात",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "निर्यात बॅकअप",
+    "common": true
+  },
+  "label_or": {
+    "message": "किंवा",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "नमस्कार :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "माझे नाव $1$ आहे आणि मी $app_name$ चे लेखक आहे.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "आपल्याला ते आवडत असल्यास, कृपया येथे रेट करा:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "आपल्याला ते आवडत नसल्यास, कृपया मला कळवा की माझ्या ई-मेल का आहे. मी प्राप्त केलेल्या बर्याच वैशिष्ट्यांना राबवित आहे.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "कृपया माझ्या कामाचे समर्थन करण्याचा विचार करा",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "इबान वापरुन बँक हस्तांतरण:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "देणगी (पेपैल)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "माझे संरक्षक बनणे",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "धन्यवाद!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "मुख्यपृष्ठ:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "संपर्कः",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "समस्या अहवालः",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "मी केवळ इंग्रजी / स्लोवकमध्ये उत्तर देऊ शकतो",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "सामाजिक माध्यमे:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "बदल जतन करा आणि बंद करा",
+    "common": true
+  },
+  "o_saved": {
+    "message": "जतन!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "कोणतेही जुळणारे परिणाम नाहीत",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "माहिती उपलब्ध नाही",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "गडद मोड",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "प्रणालीद्वारे नियंत्रित",
+    "common": true
+  },
+  "used_space": {
+    "message": "वापरलेले स्पेस: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "नवीन टॅब मध्ये उघडा",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "अॅडॉन चालू / बंद स्विच",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "अॅडॉन अक्षम आहे",
+    "common": true
+  },
+  "_description_why": {
+    "message": "का?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "गोपनीयता धोरण",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "अलीकडे जोडलेले वैशिष्ट्ये:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "टॅग्ज:",
+    "common": true
+  }
+}

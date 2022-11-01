@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "Import lõpetas!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Viga",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Import varukoopia faili $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Koduleht",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon leht",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome'i veebipood",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefoxi lisandmoodulid",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird lisandmoodulid",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Valikuvõimalused",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Fondi suurus",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Külgriba suurus",
+    "common": true
+  },
+  "label_next": {
+    "message": "Järgmine",
+    "common": true
+  },
+  "label_note": {
+    "message": "Märge:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Eemaldama",
+    "common": true
+  },
+  "label_warning": {
+    "message": "HOIATUS:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Valikud:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Vaikimisi:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Tee!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Kopeeritud!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Kohandatud:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Sulge",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Installitud",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Avaleht",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Nõustuma",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Tühistama",
+    "common": true
+  },
+  "label_save": {
+    "message": "Säästa",
+    "common": true
+  },
+  "label_required": {
+    "message": "Nõutud",
+    "common": true
+  },
+  "label_sending": {
+    "message": "saadan ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Kaal:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Suumi:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Suurus:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Tulekul",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Salvesta muudatused",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Ära visata",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menüü",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Külasta kodulehekülge",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Aita seda projekti",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Tugi sõltumatu arendaja!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Tere!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Ma olen Addoni arendaja alates 2016. aastast. Minu eesmärk on ehitada teie veebibrauseri võimsaid laiendusi, et sind produktiivsemaks muuta.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Kui te arvate, et ma teen head tööd, annetage palun :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Teie annetus on minu ainus sissetulek!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Täname, et toetasite oma tööd!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Aitama",
+    "common": true
+  },
+  "o_title": {
+    "message": "Valikud - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "varukoopia",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Loo uus varukoopia",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Salvesta sätted",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Andmete eksportimiseks failile taasavake see aken uuesti uue vahekaardiga.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Paremklõps / allalaadimine Linked File \"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Üldine",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Taust",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Kontekstimenüü",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Pisipiltide",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Otseteed",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Import / backup",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Seaded",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Teema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Üldine:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "puudega",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "lubatud",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pikslit",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "second",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Kontekstimenüü:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Keela kontekstimenüü: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Varundus / taastamise seaded faili:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Import",
+    "common": true
+  },
+  "title_import": {
+    "message": "Import",
+    "common": true
+  },
+  "title_export": {
+    "message": "Eksport",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Ekspordi varukoopia",
+    "common": true
+  },
+  "label_or": {
+    "message": "või",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Tere :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Minu nimi on $1$ ja ma olen $app_name$ autor.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Kui sulle meeldib see, hinnake seda siin:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Kui sulle ei meeldi, siis palun andke mulle teada, miks minu e-posti teel. Ma rakendan enamikku funktsioonide taotlusi.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Palun kaaluge oma töö toetamist",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Pangaülekanne IBAN-i abil:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "annetus (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "minu patroon muutub",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Aitäh!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "kodu:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Aruande küsimused:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Võin vastata ainult inglise / slovaki keeles",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sotsiaalmeedia:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Salvesta muudatused ja sulgege",
+    "common": true
+  },
+  "o_saved": {
+    "message": "salvestatud!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Sobivaid tulemusi pole",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Andmed puuduvad",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Tume režiim",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Süsteemi kontrolli all",
+    "common": true
+  },
+  "used_space": {
+    "message": "Kasutatud ruum: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Ava uues vahekaardil",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Lülitage addon sisse / välja",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon on keelatud",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Miks?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Privaatsuspoliitika",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Hiljuti lisatud funktsioonid:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Sildid:",
+    "common": true
+  }
+}

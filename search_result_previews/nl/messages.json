@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "Importeren is afgerond!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Foutmelding",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Importeer back-upbestand $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Startpagina",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon-pagina",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store pagina",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons pagina",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-Ons",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Opties",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Lettergrootte",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Zijbalkgrootte",
+    "common": true
+  },
+  "label_next": {
+    "message": "Volgende",
+    "common": true
+  },
+  "label_note": {
+    "message": "Opmerking:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Verwijder",
+    "common": true
+  },
+  "label_warning": {
+    "message": "WAARSCHUWING:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Opties:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Standaard:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Klaar!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Gekopieerd!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Aangepast:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Sluiten",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Geïnstalleerd",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Open pagina",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Mee eens",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Annuleren",
+    "common": true
+  },
+  "label_save": {
+    "message": "Sparen",
+    "common": true
+  },
+  "label_required": {
+    "message": "Verplicht",
+    "common": true
+  },
+  "label_sending": {
+    "message": "bezig met verzenden...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Schaal:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Grootte:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Binnenkort beschikbaar",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Wijzigingen opslaan",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Veranderingen ongedaan maken",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menu",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Ga naar de startpagina",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Help dit project",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Ondersteuning onafhankelijke ontwikkelaar!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Hallo daar!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Ik ben sinds 2016 Addon-ontwikkelaar. Mijn doel is om krachtige extensies voor uw webbrowser te bouwen om u productiever te maken.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Als je denkt dat ik goed werk doe, doneer alsjeblieft :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Uw donatie is mijn enige inkomen!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Bedankt voor het ondersteunen van mijn werk!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Help",
+    "common": true
+  },
+  "o_title": {
+    "message": "Opties - $1 Opties",
+    "common": true
+  },
+  "backup": {
+    "message": "back-up",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Maak nieuwe back-up",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Instellingen opslaan",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Om uw gegevens naar een bestand te exporteren, heropen dit venster op een nieuw tabblad.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Klik met de rechtermuisknop / \"Linked bestand downloaden\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Algemeen",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Achtergrond",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Context menu",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Miniaturen",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Sneltoetsen",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Importeren / back-up",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "Over",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Instellingen",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Thema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Algemeen:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "uitgeschakeld",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "ingeschakeld",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "seconden",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Context menu:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Schakel contextmenu uit: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Back-up / herstelinstellingen naar bestand:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Import",
+    "common": true
+  },
+  "title_import": {
+    "message": "Importeren",
+    "common": true
+  },
+  "title_export": {
+    "message": "Exporteren",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Back-up exporteren",
+    "common": true
+  },
+  "label_or": {
+    "message": "of",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Hallo :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Mijn naam is $1$ en ik ben de auteur van $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Als de add-on je bevalt, beoordeel hem dan hier:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Als hij je niet bevalt, laat me dan in een e-mail weten waarom niet. Ik implementeer de meeste functieverzoeken die ik ontvang.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Overweeg alsjeblieft om mijn werk te ondersteunen door",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankoverschrijving met behulp van IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donatie (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "mijn Beschermheer worden",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Bedankt!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "start:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contact:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Rapporteer problemen:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Ik kan alleen antwoorden in het Engels / Slowaaks",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sociale media:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Wijzigingen opslaan en sluiten",
+    "common": true
+  },
+  "o_saved": {
+    "message": "opgeslagen!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Geen overeenkomende resultaten",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Geen data",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Donkere modus",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Gecontroleerd door het systeem",
+    "common": true
+  },
+  "used_space": {
+    "message": "Gebruikte Ruimte: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Openen in nieuw tabblad",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Schakel Addon aan / uit",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon is uitgeschakeld",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Waarom?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Privacybeleid",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Recent toegevoegde functies:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

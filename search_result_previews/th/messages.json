@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "นำเข้าเสร็จแล้ว!",
+    "common": true
+  },
+  "import_error": {
+    "message": "ข้อผิดพลาด",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "นำเข้าไฟล์สำรอง $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "โฮมเพจ",
+    "common": true
+  },
+  "addon_page": {
+    "message": "หน้า Addon",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox Add-ons",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-ons",
+    "common": true
+  },
+  "menu_options": {
+    "message": "ตัวเลือก",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "ขนาดตัวอักษร",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "ขนาดแถบด้านข้าง",
+    "common": true
+  },
+  "label_next": {
+    "message": "ต่อไป",
+    "common": true
+  },
+  "label_note": {
+    "message": "บันทึก:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "ลบ",
+    "common": true
+  },
+  "label_warning": {
+    "message": "คำเตือน:",
+    "common": true
+  },
+  "label_options": {
+    "message": "ตัวเลือก:",
+    "common": true
+  },
+  "label_default": {
+    "message": "ค่าเริ่มต้น:",
+    "common": true
+  },
+  "label_done": {
+    "message": "เสร็จแล้ว!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "คัดลอก!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "กำหนดเอง:",
+    "common": true
+  },
+  "label_close": {
+    "message": "ปิด",
+    "common": true
+  },
+  "label_installed": {
+    "message": "ติดตั้ง",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "หน้าเปิด",
+    "common": true
+  },
+  "label_agree": {
+    "message": "ตกลง",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "ยกเลิก",
+    "common": true
+  },
+  "label_save": {
+    "message": "บันทึก",
+    "common": true
+  },
+  "label_required": {
+    "message": "ที่จำเป็น",
+    "common": true
+  },
+  "label_sending": {
+    "message": "การส่ง...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "ขนาด:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "ซูม:",
+    "common": true
+  },
+  "label_size": {
+    "message": "ขนาด:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "เร็ว ๆ นี้",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "บันทึกการเปลี่ยนแปลง",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "ยกเลิกการเปลี่ยนแปลง",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "เมนู",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "เยี่ยมชมโฮมเพจ",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "ช่วยโครงการนี้",
+    "common": true
+  },
+  "support_developer": {
+    "message": "สนับสนุนนักพัฒนาอิสระ!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "สวัสดี!",
+    "common": true
+  },
+  "about_me": {
+    "message": "ฉันพัฒนา Addon ตั้งแต่ปี 2559 เป้าหมายของฉันคือการสร้างส่วนขยายที่ทรงพลังสำหรับเว็บเบราว์เซอร์ของคุณเพื่อให้คุณมีประสิทธิผลมากขึ้น",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "ถ้าคุณคิดว่าฉันทำงานได้ดีโปรดบริจาค :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "การบริจาคของคุณเป็นรายได้เดียวของฉัน!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "ขอบคุณสำหรับการสนับสนุนงานของฉัน!",
+    "common": true
+  },
+  "op_help": {
+    "message": "ช่วยด้วย",
+    "common": true
+  },
+  "o_title": {
+    "message": "ตัวเลือก - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "การสำรอง",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "สร้างการสำรองข้อมูลใหม่",
+    "common": true
+  },
+  "save_settings": {
+    "message": "บันทึกการตั้งค่า",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "หากต้องการส่งออกข้อมูลของคุณไปยังไฟล์ให้เปิดหน้าต่างนี้อีกครั้งในแท็บใหม่",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "คลิกขวา / \"ดาวน์โหลดไฟล์ที่เชื่อมโยง\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "ทั่วไป",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "พื้นหลัง",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "เมนูบริบท",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "ภาพขนาดย่อ",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "ทางลัด",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "นำเข้า / สำรองข้อมูล",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "การตั้งค่า",
+    "common": true
+  },
+  "o_theme": {
+    "message": "ธีม:",
+    "common": true
+  },
+  "o_general": {
+    "message": "ทั่วไป:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "ปิดการใช้งาน",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "เปิดใช้งาน",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "พิกเซล",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "วินาที",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "เมนูบริบท:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "ปิดใช้งานเมนูบริบท: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "การสำรองข้อมูล / คืนค่าการสำรองข้อมูลเป็นไฟล์:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "นำเข้า",
+    "common": true
+  },
+  "title_import": {
+    "message": "นำเข้า",
+    "common": true
+  },
+  "title_export": {
+    "message": "ส่งออก",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "การสำรองส่งออก",
+    "common": true
+  },
+  "label_or": {
+    "message": "หรือ",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "สวัสดี :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "ชื่อของฉันคือ $1$ และฉันเป็นผู้แต่ง $app_name$",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "ถ้าคุณชอบโปรดให้คะแนนที่นี่:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "หากคุณไม่ชอบโปรดแจ้งให้เราทราบว่าทำไมถึงอีเมลของฉัน ฉันใช้คำขอคุณสมบัติส่วนใหญ่ที่ฉันได้รับ",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "โปรดพิจารณาสนับสนุนงานของฉันด้วย",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "โอนเงินผ่านธนาคารโดยใช้ IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "บริจาค (Paypal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "เป็นผู้อุปถัมภ์ของฉัน",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "ขอขอบคุณ!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "บ้าน:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "ติดต่อ:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "ปัญหารายงาน:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "ฉันสามารถตอบกลับในภาษาอังกฤษ / สโลวักได้เท่านั้น",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "สื่อสังคม:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "บันทึกการเปลี่ยนแปลงและปิด",
+    "common": true
+  },
+  "o_saved": {
+    "message": "บันทึก!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "ไม่มีผลลัพธ์ที่ตรงกัน",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "ไม่มีข้อมูล",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "โหมดมืด",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "ควบคุมโดยระบบ",
+    "common": true
+  },
+  "used_space": {
+    "message": "พื้นที่ใช้สเดอร์: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "เปิดในแท็บใหม่",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "สวิตช์เปิด / ปิดเปิด / ปิด",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon ถูกปิดใช้งาน",
+    "common": true
+  },
+  "_description_why": {
+    "message": "ทำไม?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "นโยบายความเป็นส่วนตัว",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "คุณสมบัติที่เพิ่มล่าสุด:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}

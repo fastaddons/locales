@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "Імпорт завершено!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Помилка",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Імпорт файлу резервної копії $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Домашня сторінка",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Сторінка доповнення",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Сторінка магазину Chrome",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Сторінка доповнень Firefox",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Доповнення для Thunderbird",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Налаштування",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Розмір шрифта",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Розмір бокової панелі",
+    "common": true
+  },
+  "label_next": {
+    "message": "Далі",
+    "common": true
+  },
+  "label_note": {
+    "message": "Примітка:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Видалити",
+    "common": true
+  },
+  "label_warning": {
+    "message": "УВАГА:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Налаштування:",
+    "common": true
+  },
+  "label_default": {
+    "message": "За замовчуванням:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Готово!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Скопійовано!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Особое:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Закрити",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Встановлено",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Відкрити сторінку",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Згода",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Скасувати",
+    "common": true
+  },
+  "label_save": {
+    "message": "Зберегти",
+    "common": true
+  },
+  "label_required": {
+    "message": "Обов'язково",
+    "common": true
+  },
+  "label_sending": {
+    "message": "відправка...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "масштаб:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Збільшення:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Розмір:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Скоро буде",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Зберегти зміни",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Скасувати зміни",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Меню",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Домашня сторінка",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Допомогти проекту",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Підтримайте незалежного розробника!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Привіт!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Я розробник доповнень з 2016 року. Моя мета - створити якісні доповнення для браузерів, які зроблять Вашу робот",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Якщо ви думаєте, що я роблю добру справу, будь ласка, підтримайте :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Ваша пожертва - це мій єдиний прибуток!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Дякую за підтримку моєї роботи!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Допомога",
+    "common": true
+  },
+  "o_title": {
+    "message": "Налаштування - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "резервна копія",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Створити нову резервну копію",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Зберегти налаштування",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Щоб експортувати свої дані до файлу, відкрийте це вікно на новій вкладці.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Клацніть правою кнопкою миші / \"Завантажити посилання\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Загальні",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Тло",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Контекстне меню",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Мініатюри",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Комбинації клавіш",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Імпорт / резервне копіювання",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "Про доповнення",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Налаштування",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Тема:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Загальні",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "заборонене",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "дозволене",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "пікселів",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "секунд",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Контекстне меню:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Вимкнути пункт: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Налаштування резервного копіювання / відновлення з файлу:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Імпорт",
+    "common": true
+  },
+  "title_import": {
+    "message": "Імпортувати",
+    "common": true
+  },
+  "title_export": {
+    "message": "Експорт",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Експорт / Резервна копія",
+    "common": true
+  },
+  "label_or": {
+    "message": "або ж",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Привіт :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Мене звуть $1$, і я автор $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Якщо Вам подобається додаток, будь ласка, оцініть його тут:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Якщо Вам щось не подобається, повідомте мене через електронну пошту. Я впроваджую більшість функцій,",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Будь ласка, підтримайте мою роботу шляхом",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Банківський переказ за допомогою IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "пожертви (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "Patreon",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Щиро дякую!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "сайт:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Контакти:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Повідомити про проблему:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Я можу відповідати лише англійською або словацькою",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "В соцмережах:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Зберегти зміни та закрити",
+    "common": true
+  },
+  "o_saved": {
+    "message": "збережено!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Немає результатів",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Немає даних",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Темний режим",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Контролюється системою",
+    "common": true
+  },
+  "used_space": {
+    "message": "Використано сховища: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Відкрити в новій вкладці",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Перемикач Addon On / Off",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon вимкнено",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Чому?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Політика конфіденційності",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Нещодавно додані функції:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Теги:",
+    "common": true
+  }
+}

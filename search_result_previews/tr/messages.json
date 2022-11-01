@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "İthalat tamamlandı!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Hata",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Yedekleme dosyasını alma $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Ana sayfa",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Eklenti sayfası",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Mağazası",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox eklentileri",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Eklentileri",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Seçenekleri",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Yazı Boyutu",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Kenar çubuğu boyutu",
+    "common": true
+  },
+  "label_next": {
+    "message": "Sonraki",
+    "common": true
+  },
+  "label_note": {
+    "message": "Not:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Kaldırmak",
+    "common": true
+  },
+  "label_warning": {
+    "message": "UYARI:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Seçenekler:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Varsayılan:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Bırak!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Kopyalandı!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Özel:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Kapat",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Kurulmuş",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Sayfa açmak",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Katılıyorum",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "İptal etmek",
+    "common": true
+  },
+  "label_save": {
+    "message": "Kayıt etmek",
+    "common": true
+  },
+  "label_required": {
+    "message": "Gereklidir",
+    "common": true
+  },
+  "label_sending": {
+    "message": "gönderme ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Ölçek:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Boyut:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Çok yakında",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Değişiklikleri Kaydet",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Değişiklikleri gözardı et",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menü",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Ana Sayfa Ziyaret Edin",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Bu projeye yardım et",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Bağımsız geliştiriciyi destekleyin!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Merhaba!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Ben 2016 yılından beri Addon Geliştiriciyim. Amacım, web tarayıcınızın sizi daha üretken hale getirmesi için güçlü uzantılar oluşturmaktır.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Eğer iyi bir iş yaptığımı düşünüyorsanız, lütfen bağış yapın :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Bağışın benim tek gelirim!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "İşimi desteklediğin için teşekkür ederim!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Yardım",
+    "common": true
+  },
+  "o_title": {
+    "message": "Seçenekler - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "destek olmak",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Yeni Yedekleme Oluştur",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Ayarları kaydet",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Verilerinizi bir dosyaya vermek için, bu pencereyi yeni bir sekmede yeniden açın.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Sağ tıklayın / \"Bağlantılı Dosyayı İndir\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Genel",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Arka fon",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Bağlam menüsü",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Küçük resim",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Kısayollar",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "İthalat / Yedekleme",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Ayarlar",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Tema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Genel:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "engelli",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "etkin",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "piksel",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "saniye",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Bağlam Menüsü:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Bağlam menüsünü devre dışı bırakma: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Ayarları dosyaya yedekleme / geri yükleme:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "İthalat",
+    "common": true
+  },
+  "title_import": {
+    "message": "İthalat",
+    "common": true
+  },
+  "title_export": {
+    "message": "İhracat",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Yedekleme İhracat",
+    "common": true
+  },
+  "label_or": {
+    "message": "veya",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Merhaba :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Benim adım $1$ ve ben $app_name$'in yazarıyım.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Eğer beğenirseniz, lütfen buradan değerlendirin:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Eğer beğenmediysen, neden e-postamın nedenini bildirin. Aldığım özellik taleplerinin çoğunu uyguluyorum.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Lütfen işimi desteklemeyi düşünün",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "IBAN kullanarak banka havalesi:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "bağış (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "benim patronum olmak",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Teşekkür ederim!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "ev:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "İletişim:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Sorunları bildir:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Sadece İngilizce / Slovak'ta cevap verebilirim",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sosyal medya:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Değişiklikleri kaydet ve kapat",
+    "common": true
+  },
+  "o_saved": {
+    "message": "kazandı!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Eşleşen sonuç yok",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Veri yok",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Karanlık mod",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Sistem tarafından kontrol edilir",
+    "common": true
+  },
+  "used_space": {
+    "message": "Kullanılmış alan: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Yeni sekmede aç",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Addon anahtarı açma / kapama",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon devre dışı",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Neden?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Gizlilik Politikası",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Son Eklenen Özellikler:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Etiketler:",
+    "common": true
+  }
+}

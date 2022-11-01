@@ -1,0 +1,422 @@
+{
+  "import_finished": {
+    "message": "Import terminé!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Erreur",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Importer le fichier de sauvegarde $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Page d'accueil",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Page addon",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome Web Store",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox Add-Ons",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird Add-Ons",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Options",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Taille de police",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Taille de la barre latérale",
+    "common": true
+  },
+  "label_next": {
+    "message": "Suivante",
+    "common": true
+  },
+  "label_note": {
+    "message": "Note:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Supprimer",
+    "common": true
+  },
+  "label_warning": {
+    "message": "ATTENTION:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Options:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Défaut:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Fait!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Copié!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Personnalisé:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Fermer",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Installée",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Page ouverte",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Accepter",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Annuler",
+    "common": true
+  },
+  "label_save": {
+    "message": "Sauvegarder",
+    "common": true
+  },
+  "label_required": {
+    "message": "Obligatoire",
+    "common": true
+  },
+  "label_sending": {
+    "message": "envoi en cours...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Echelle",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Zoom:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Taille:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Bientôt disponible",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Sauvegarder les modifications",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Annuler les modifications",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menu",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Accueil",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Aider ce projet",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Soutenir le développeur indépendant!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Bonjour!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Je suis Développeur Addon depuis 2016. Mon objectif est de créer des extensions puissantes pour votre navigateur Web pour vous rendre plus productif.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Si vous pensez que je fais du bon travail, merci de faire un don :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Votre don est mon seul revenu!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Merci d'avoir soutenu mon travail!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Aider",
+    "common": true
+  },
+  "o_title": {
+    "message": "Options - $10",
+    "common": true
+  },
+  "backup": {
+    "message": "sauvegarde",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Créer une nouvelle sauvegarde",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Enregistrer les paramètres",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Pour exporter vos données dans un fichier, rouvrez cette fenêtre dans un nouvel onglet.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Clic droit / \"Télécharger le fichier lié\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Général",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Arrière-plan",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Menu contextuel",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Vignettes",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Raccourcis",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Import / Sauvegarde",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "À propos",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Paramètres",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Thème:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Général:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "inactif",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "actif",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixels",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "secondes",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Menu context:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Désactiver le menu contextuel: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Sauvegarde / Restaurer les paramètres pour fichier:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Import",
+    "common": true
+  },
+  "title_import": {
+    "message": "Importer",
+    "common": true
+  },
+  "title_export": {
+    "message": "Exportation",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Sauvegarde d'exportation",
+    "common": true
+  },
+  "label_or": {
+    "message": "ou alors",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Bonjour :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Mon nom est $1$ et je suis l'auteur de $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Si l'add-on vous plaît, notez-le ici:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Si quelque-chose ne vous plaît pas, faites le moi savoir par email, j'implémente la plupart des requêtes d'ajouts d'options que je recois.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Je vous prie d'envisager de supporter mon travail via",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Transfert bancaire à l'aide d'IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donations (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "en devenant un de mes Patreons",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Merci!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "acceuil",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Contact:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Signaler les problèmes:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Je ne peux répondre qu'en Anglais ou Slovaque",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Réseaux sociaux:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Sauver les changements et fermer",
+    "common": true
+  },
+  "o_saved": {
+    "message": "Sauvegarde réussie!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Aucun résultat correspondant",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Pas de données",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Mode sombre",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Contrôlé par le système",
+    "common": true
+  },
+  "used_space": {
+    "message": "Espace d'occasion: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Ouvrir dans un nouvel onglet",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Switch Addon On / Off",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon est désactivé",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Pourquoi?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Politique de confidentialité",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Fonctionnalités récemment ajoutées:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Mots clés:",
+    "common": true
+  },
+  "label_left": {
+    "message": "Gauche",
+    "u": 1663598185379
+  },
+  "label_right": {
+    "message": "Droit",
+    "u": 1663598192049
+  },
+  "firefox_import_in_tab": {
+    "message": "Pour importé vos sauvegarde, ré-ouvrez cette fenêtre dans un nouvel onglet",
+    "u": 1663598375398
+  },
+  "edge_store": {
+    "message": "Extensions Edge",
+    "u": 1663598435109
+  }
+}

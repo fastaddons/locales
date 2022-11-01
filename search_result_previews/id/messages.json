@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "Impor selesai!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Kesalahan",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Impor file cadangan $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Homepage.",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon Halaman",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Toko web Chrome",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Add-on Firefox",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Add-on Thunderbird",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Pilihan",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Ukuran huruf",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Ukuran bilah sisi",
+    "common": true
+  },
+  "label_next": {
+    "message": "Lanjut",
+    "common": true
+  },
+  "label_note": {
+    "message": "Catatan:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Menghapus",
+    "common": true
+  },
+  "label_warning": {
+    "message": "PERINGATAN:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Pilihan:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Default:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Benar-benar!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Disalin!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Adat:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Menutup",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Diinstal",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Buka Halaman",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Setuju",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Membatalkan",
+    "common": true
+  },
+  "label_save": {
+    "message": "Menyimpan",
+    "common": true
+  },
+  "label_required": {
+    "message": "Yg dibutuhkan",
+    "common": true
+  },
+  "label_sending": {
+    "message": "mengirim ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Skala:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Perbesar:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Ukuran:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Segera akan datang",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Simpan perubahan",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Membuang perubahan",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Tidak bisa",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Kunjungi Homepage.",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Bantu proyek ini",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Mendukung pengembang independen!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Halo yang disana!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Saya Addon Developer sejak 2016. Tujuan saya adalah membangun ekstensi yang kuat untuk browser web Anda untuk membuat Anda lebih produktif.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Jika Anda pikir saya melakukan pekerjaan dengan baik, silakan donasi :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Donasi Anda adalah satu-satunya penghasilan saya!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Terima kasih telah mendukung pekerjaan saya!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Tolong",
+    "common": true
+  },
+  "o_title": {
+    "message": "Opsi - $1.",
+    "common": true
+  },
+  "backup": {
+    "message": "cadangan",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Buat cadangan baru",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Simpan Pengaturan",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Untuk mengekspor data Anda ke file, buka kembali jendela ini di tab baru.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Klik kanan / \"Unduh file yang ditautkan\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Umum",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Latar Belakang",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Menu Konteks",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Thumbnail.",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Pintasan",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Impor / cadangan",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Pengaturan",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Tema:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Umum:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "dengan disabilitas",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "diaktifkan",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "piksel.",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "detik",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Menu konteks:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Menonaktifkan menu konteks: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Backup / Restore Settings ke File:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Impor",
+    "common": true
+  },
+  "title_import": {
+    "message": "Impor",
+    "common": true
+  },
+  "title_export": {
+    "message": "Ekspor",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Ekspor cadangan",
+    "common": true
+  },
+  "label_or": {
+    "message": "atau",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Halo :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Nama saya $1$ dan saya penulis $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Jika Anda menyukainya, silakan beri peringkat di sini:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Jika Anda tidak menyukainya, beri tahu saya mengapa ke email saya. Saya menerapkan sebagian besar permintaan fitur yang saya terima.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Harap pertimbangkan untuk mendukung pekerjaan saya oleh",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Transfer bank menggunakan IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "donasi (Paypal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "menjadi pelindung saya",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Terima kasih!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "rumah:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontak:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Masalah laporan:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Saya hanya dapat membalas dalam bahasa Inggris / Slovakia",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Media sosial:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Simpan perubahan dan tutup",
+    "common": true
+  },
+  "o_saved": {
+    "message": "diselamatkan!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Tidak ada hasil yang cocok",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Tidak ada data",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Mode gelap",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Dikendalikan oleh sistem.",
+    "common": true
+  },
+  "used_space": {
+    "message": "Ruang bekas: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Buka di tab Baru",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Beralih addon on / off",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon dinonaktifkan",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Mengapa?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Kebijakan pribadi",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Fitur yang baru ditambahkan:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tag:",
+    "common": true
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "Import dokončený!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Chyba",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Import záložního souboru $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Domovská stránka",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon stránka",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome obchod",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Stránka doplňků pro Firefox",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Doplňky Thunderbird",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Možnosti",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Velikost písma",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Velikost postranního panelu",
+    "common": true
+  },
+  "label_next": {
+    "message": "Další",
+    "common": true
+  },
+  "label_note": {
+    "message": "Poznámka:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Odstranit",
+    "common": true
+  },
+  "label_warning": {
+    "message": "POZOR:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Nastavení:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Výchozí:",
+    "common": true
+  },
+  "label_done": {
+    "message": "Hotovo!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Zkopírováno!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Vlastní:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Zavřít",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Nainstalovaný",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Otevřít stránku",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Souhlasím",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Zrušit",
+    "common": true
+  },
+  "label_save": {
+    "message": "Uložit",
+    "common": true
+  },
+  "label_required": {
+    "message": "Požadované",
+    "common": true
+  },
+  "label_sending": {
+    "message": "Odesílání ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Měřítko:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Přiblížení:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Velikost:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Již brzy",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Uložit změny",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Zrušit změny",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Menu",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Navštívit domácí stránku",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Pomoc tomuto projektu",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Podpořte nezávislého vývojáře!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Ahoj!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Jsem vývojář addonů od roku 2016 a mým cílem je vytvořit skvělá rozšíření pro váš webový prohlížeč, abyste byli produktivnější.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Pokud si myslíte, že dělám dobrou práci, prosím darujte :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Váš dar je můj jediný příjem!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Děkuji za podporu mé práce!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Pomoc",
+    "common": true
+  },
+  "o_title": {
+    "message": "Možnosti - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "záloha",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Vytvořit novou zálohu",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Uložit nastavení",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Chcete-li exportovat data do souboru, znovu otevřete toto okno na novou kartu.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Klikněte pravým tlačítkem myši / \"Stáhnout propojený soubor\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Všeobecné",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Pozadí",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Kontextové menu",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Miniatury",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Klávesové zkratky",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Import / zálohování",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "O rozšíření",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Nastavení",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Téma:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Všeobecné:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "vypnuto",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "zapnuto",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pixelů",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "sekund",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Kontextové menu:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Zakázat kontextové menu: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Nastavení zálohování / obnovení do souboru:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Import",
+    "common": true
+  },
+  "title_import": {
+    "message": "Import",
+    "common": true
+  },
+  "title_export": {
+    "message": "Vývozní",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Export zálohování",
+    "common": true
+  },
+  "label_or": {
+    "message": "nebo",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Ahoj :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Jmenuji se $1$ a jsem autorem $app_name$.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Pokud se ti líbí, prosím napiš hodnocení zde:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Pokud se ti něco nelíbí, prosím napiš mi na můj e-mail. Naprogramuji většinu obdržených požadavků.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Prosím, zvaž podporu mojí práce",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankovní převod pomocí IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "peněžním darem (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "přes Patron",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Děkuji!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "domů:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontakt:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Hlášení problémů:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Můžu odpovědět pouze Anglicky / Slovensky",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sociální média:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Uložit změny a zavřít",
+    "common": true
+  },
+  "o_saved": {
+    "message": "uloženo!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Žádné odpovídající výsledky",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Žádná data",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Tmavý mód",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Ovládáno systémem",
+    "common": true
+  },
+  "used_space": {
+    "message": "Použitý prostor: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Otevřít v nové záložce",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Zapnutí / vypnutí addonu",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon je zakázán",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Proč?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Zásady ochrany osobních údajů",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Nedávno přidané funkce:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tagy:",
+    "common": true
+  }
+}

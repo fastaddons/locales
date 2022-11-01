@@ -1,0 +1,406 @@
+{
+  "import_finished": {
+    "message": "Imports pabeigts!",
+    "common": true
+  },
+  "import_error": {
+    "message": "Kļūda",
+    "common": true
+  },
+  "import_backup_file": {
+    "message": "Importēt dublējuma failu $1",
+    "common": true
+  },
+  "homepage": {
+    "message": "Mājaslapiete",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon lapa",
+    "common": true
+  },
+  "safari_store": {
+    "message": "Mac App Store",
+    "common": true
+  },
+  "chrome_store": {
+    "message": "Chrome interneta veikals",
+    "common": true
+  },
+  "firefox_store": {
+    "message": "Firefox pievienojumprogrammas",
+    "common": true
+  },
+  "thunderbird_store": {
+    "message": "Thunderbird add-ons",
+    "common": true
+  },
+  "menu_options": {
+    "message": "Opcijas",
+    "common": true
+  },
+  "label_font_size": {
+    "message": "Fonta izmērs",
+    "common": true
+  },
+  "label_sidebar_size": {
+    "message": "Sānjoslas lielums",
+    "common": true
+  },
+  "label_next": {
+    "message": "Nākamais",
+    "common": true
+  },
+  "label_note": {
+    "message": "Piezīme:",
+    "common": true
+  },
+  "label_remove": {
+    "message": "Noņemt",
+    "common": true
+  },
+  "label_warning": {
+    "message": "Brīdinājums:",
+    "common": true
+  },
+  "label_options": {
+    "message": "Iespējas:",
+    "common": true
+  },
+  "label_default": {
+    "message": "Noklusējums:",
+    "common": true
+  },
+  "label_done": {
+    "message": "!",
+    "common": true
+  },
+  "label_copied": {
+    "message": "Kopēts!",
+    "common": true
+  },
+  "label_custom": {
+    "message": "Pasūtījuma:",
+    "common": true
+  },
+  "label_close": {
+    "message": "Tuvoties",
+    "common": true
+  },
+  "label_installed": {
+    "message": "Uzstādīts",
+    "common": true
+  },
+  "label_open_page": {
+    "message": "Atvērt lapu",
+    "common": true
+  },
+  "label_agree": {
+    "message": "Piekrist",
+    "common": true
+  },
+  "label_cancel": {
+    "message": "Atcelt",
+    "common": true
+  },
+  "label_save": {
+    "message": "Ietaupīt",
+    "common": true
+  },
+  "label_required": {
+    "message": "Vajadzīgs",
+    "common": true
+  },
+  "label_sending": {
+    "message": "sūtīšana ...",
+    "common": true
+  },
+  "label_scale": {
+    "message": "Skala:",
+    "common": true
+  },
+  "label_zoom": {
+    "message": "Tālummaiņa:",
+    "common": true
+  },
+  "label_size": {
+    "message": "Izmērs:",
+    "common": true
+  },
+  "label_coming_soon": {
+    "message": "Drīzumā",
+    "common": true
+  },
+  "label_save_changes": {
+    "message": "Saglabāt izmaiņas",
+    "common": true
+  },
+  "label_discard_changes": {
+    "message": "Atmest izmaiņas",
+    "common": true
+  },
+  "menu_button_title": {
+    "message": "Izvēlne",
+    "common": true
+  },
+  "op_visit_home": {
+    "message": "Apmeklējiet mājas lapu",
+    "common": true
+  },
+  "op_support_me": {
+    "message": "Palīdzēt šim projektam",
+    "common": true
+  },
+  "support_developer": {
+    "message": "Atbalstiet neatkarīgu attīstītāju!",
+    "common": true
+  },
+  "hello_there": {
+    "message": "Sveiki!",
+    "common": true
+  },
+  "about_me": {
+    "message": "Es esmu Addon izstrādātājs kopš 2016. gada Mans mērķis ir veidot spēcīgus paplašinājumus jūsu tīmekļa pārlūkprogrammai, lai padarītu jūs produktīvāku.",
+    "common": true
+  },
+  "about_good_job": {
+    "message": "Ja jūs domājat, ka es daru labu darbu, lūdzu, ziedot :)",
+    "common": true
+  },
+  "about_income": {
+    "message": "Jūsu ziedojums ir mans vienīgais ienākums!",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Paldies, ka atbalstāt savu darbu!",
+    "common": true
+  },
+  "op_help": {
+    "message": "Palīdzēt",
+    "common": true
+  },
+  "o_title": {
+    "message": "Iespējas - $1",
+    "common": true
+  },
+  "backup": {
+    "message": "dublējums",
+    "common": true
+  },
+  "create_new_backup": {
+    "message": "Izveidojiet jaunu dublējumu",
+    "common": true
+  },
+  "save_settings": {
+    "message": "Saglabāt iestatījumus",
+    "common": true
+  },
+  "safari_download_in_tab": {
+    "message": "Lai eksportētu savus datus uz failu, atveriet šo logu jaunā cilnē.",
+    "common": true
+  },
+  "safari_context_menu_download": {
+    "message": "Ar peles labo pogu noklikšķiniet / \"Lejupielādēt saistīto failu\"",
+    "common": true
+  },
+  "o_tab_general": {
+    "message": "Vispārējs",
+    "common": true
+  },
+  "o_tab_background": {
+    "message": "Fons",
+    "common": true
+  },
+  "o_tab_context_menu": {
+    "message": "Konteksta izvēlne",
+    "common": true
+  },
+  "o_tab_thumbnails": {
+    "message": "Sīktēli",
+    "common": true
+  },
+  "o_tab_shot_keys": {
+    "message": "Īsceļi",
+    "common": true
+  },
+  "o_tab_backup": {
+    "message": "Importēt / dublēt",
+    "common": true
+  },
+  "o_tab_about": {
+    "message": "",
+    "common": true
+  },
+  "o_tab_settings": {
+    "message": "Iestatījumi",
+    "common": true
+  },
+  "o_theme": {
+    "message": "Tēma:",
+    "common": true
+  },
+  "o_general": {
+    "message": "Vispārīgi:",
+    "common": true
+  },
+  "o_disabled": {
+    "message": "invalīds",
+    "common": true
+  },
+  "o_enabled": {
+    "message": "iespējots",
+    "common": true
+  },
+  "o_pixels": {
+    "message": "pikseļi",
+    "common": true
+  },
+  "o_seconds": {
+    "message": "sekundes",
+    "common": true
+  },
+  "o_context_menu": {
+    "message": "Konteksta izvēlne:",
+    "common": true
+  },
+  "disable_context_menu": {
+    "message": "Atspējot konteksta izvēlni: $1",
+    "common": true
+  },
+  "o_backup_restore": {
+    "message": "Dublēšana / atjaunošanas iestatījumi failam:",
+    "common": true
+  },
+  "o_import_btn": {
+    "message": "Imports",
+    "common": true
+  },
+  "title_import": {
+    "message": "Imports",
+    "common": true
+  },
+  "title_export": {
+    "message": "Eksports",
+    "common": true
+  },
+  "btn_export_backup": {
+    "message": "Eksporta dublējums",
+    "common": true
+  },
+  "label_or": {
+    "message": "vai",
+    "common": true
+  },
+  "o_about_hello": {
+    "message": "Sveiki :)",
+    "common": true
+  },
+  "o_about_intro": {
+    "message": "Mans vārds ir $1$ un es esmu $app_name$ autors.",
+    "common": true
+  },
+  "o_about_like_it": {
+    "message": "Ja jums tas patīk, lūdzu, novērtējiet to šeit:",
+    "common": true
+  },
+  "o_about_dislike_it": {
+    "message": "Ja jums tas nepatīk, lūdzu, ļaujiet man zināt, kāpēc uz manu e-pastu. Es īstenoju lielāko daļu saņemto funkciju pieprasījumu.",
+    "common": true
+  },
+  "o_about_support_by": {
+    "message": "Lūdzu, apsveriet iespēju atbalstīt manu darbu",
+    "common": true
+  },
+  "o_about_support_by_iban": {
+    "message": "Bankas pārskaitījums, izmantojot IBAN:",
+    "common": true
+  },
+  "o_about_support_by_donation": {
+    "message": "ziedojums (PayPal)",
+    "common": true
+  },
+  "o_about_support_by_patron": {
+    "message": "kļūstot par manu patronu",
+    "common": true
+  },
+  "o_about_thanks": {
+    "message": "Paldies!",
+    "common": true
+  },
+  "o_about_home": {
+    "message": "mājas:",
+    "common": true
+  },
+  "o_about_contact": {
+    "message": "Kontaktpersona:",
+    "common": true
+  },
+  "o_about_issues": {
+    "message": "Ziņojuma jautājumi:",
+    "common": true
+  },
+  "o_about_support_reply": {
+    "message": "Es varu atbildēt tikai angļu / slovāku valodā",
+    "common": true
+  },
+  "o_about_social_media": {
+    "message": "Sociālie mēdiji:",
+    "common": true
+  },
+  "o_save_close": {
+    "message": "Saglabājiet izmaiņas un tuvu",
+    "common": true
+  },
+  "o_saved": {
+    "message": "saglabāts!",
+    "common": true
+  },
+  "ps_no_results": {
+    "message": "Nav saskaņošanas rezultātu",
+    "common": true
+  },
+  "label_no_data": {
+    "message": "Nav datu",
+    "common": true
+  },
+  "dark_mode": {
+    "message": "Tumšs režīms",
+    "common": true
+  },
+  "dark_mode_system": {
+    "message": "Kontrolē sistēma",
+    "common": true
+  },
+  "used_space": {
+    "message": "Telpa: $1 / $2",
+    "common": true
+  },
+  "open_in_new_tab": {
+    "message": "Atvērt jaunā cilnē",
+    "common": true
+  },
+  "switch_addon_on_off": {
+    "message": "Pārslēdziet Addon On / Off",
+    "common": true
+  },
+  "addon_is_off": {
+    "message": "Addon ir atspējots",
+    "common": true
+  },
+  "_description_why": {
+    "message": "Kāpēc?",
+    "common": true
+  },
+  "_description_privacy_policy": {
+    "message": "Privātuma politika",
+    "common": true
+  },
+  "_description_recent_features": {
+    "message": "Nesen pievienotās funkcijas:",
+    "common": true
+  },
+  "_description_common_tags": {
+    "message": "Tags:",
+    "common": true
+  }
+}
