@@ -1,0 +1,191 @@
+{
+    "auto_switch": {
+        "message": "Автоматический темный режим"
+    },
+    "controlled_by_system": {
+        "message": "Контролируется системой"
+    },
+    "controlled_by_system_issue": {
+        "message": "В связи с проблемой в Thunderbird, в настоящее время это работает только с темой по умолчанию. В Dark / Light, она всегда будет включена / выключена."
+    },
+    "disable_sender": {
+        "message": "Отключить Darko для этого отправителя"
+    },
+    "enable_time_schedule": {
+        "message": "Включать темный режим по времени:"
+    },
+    "start_time": {
+        "message": "Время начала"
+    },
+    "end_time": {
+        "message": "Время окончания"
+    },
+    "invert_images": {
+        "message": "Инвертировать цвет изображений"
+    },
+    "visuals": {
+        "message": "Визуализация"
+    },
+    "image_contrast": {
+        "message": "Контрастность изображения"
+    },
+    "toolbar_icon_action": {
+        "message": "Действие значка панели"
+    },
+    "toolbar_icon_text": {
+        "message": "Текст значка панели"
+    },
+    "disable_dbl_click_options": {
+        "message": "Запретить двойной щелчок для открытия настроек"
+    },
+    "sidebar_size": {
+        "message": "Размер боковой панели"
+    },
+    "app_name": {
+        "message": "Darko"
+    },
+    "app_desc": {
+        "message": "Простой темный режим для сообщений Thunderbird."
+    },
+    "import_finished": {
+        "message": "Импорт завершен!"
+    },
+    "import_error": {
+        "message": "Ошибка"
+    },
+    "import_backup_file": {
+        "message": "Импорт файла резервного копии $1"
+    },
+    "search_search": {
+        "message": "Поиск"
+    },
+    "homepage": {
+        "message": "Домашняя страница"
+    },
+    "addon_page": {
+        "message": "Страница дополнения"
+    },
+    "label_font_size": {
+        "message": "Размер шрифта"
+    },
+    "label_next": {
+        "message": "Далее"
+    },
+    "label_note": {
+        "message": "Примечание:"
+    },
+    "label_remove": {
+        "message": "Удалить"
+    },
+    "label_warning": {
+        "message": "Удалить:"
+    },
+    "label_default": {
+        "message": "По умолчанию:"
+    },
+    "label_done": {
+        "message": "Готово!"
+    },
+    "label_copied": {
+        "message": "Скопировано!"
+    },
+    "label_close": {
+        "message": "Закрыть"
+    },
+    "label_open_page": {
+        "message": "Открыть страницу"
+    },
+    "label_agree": {
+        "message": "Согласен"
+    },
+    "label_cancel": {
+        "message": "Отмена"
+    },
+    "op_support_me": {
+        "message": "Помогите этому проекту"
+    },
+    "support_developer": {
+        "message": "Поддержите независимого разработчика!"
+    },
+    "hello_there": {
+        "message": "Здравствуйте!"
+    },
+    "about_me": {
+        "message": "Я разработчик аддонов с 2016 года, и моя цель - создавать хорошие расширения для вас, чтобы сделать вас более продуктивным."
+    },
+    "about_good_job": {
+        "message": "Если вы считаете, что я делаю хорошую работу, пожалуйста, сделайте пожертвование :)"
+    },
+    "about_income": {
+        "message": "Ваше пожертвования - мой единственный доход!"
+    },
+    "about_thanks": {
+        "message": "Спасибо за поддержку моей работы!"
+    },
+    "o_tab_context_menu": {
+        "message": "Контекстное меню"
+    },
+    "o_tab_about": {
+        "message": "About"
+    },
+    "o_tab_settings": {
+        "message": "Настройки"
+    },
+    "o_pixels": {
+        "message": "пикс."
+    },
+    "o_seconds": {
+        "message": "сек."
+    },
+    "label_or": {
+        "message": "или"
+    },
+    "o_about_hello": {
+        "message": "Привет :)"
+    },
+    "o_about_intro": {
+        "message": "Меня зовут Юрай Мясиар, и я автор $1."
+    },
+    "o_about_like_it": {
+        "message": "Если вам нравится аддон, пожалуйста, оцените это здесь:"
+    },
+    "o_about_thanks": {
+        "message": "Спасибо!"
+    },
+    "o_about_contact": {
+        "message": "Контакт:"
+    },
+    "o_about_issues": {
+        "message": "Сообщить о проблеме:"
+    },
+    "o_about_social_media": {
+        "message": "Социальные сети:"
+    },
+    "ps_no_results": {
+        "message": "Нет совпадений"
+    },
+    "label_no_data": {
+        "message": "Нет данных"
+    },
+    "dark_mode": {
+        "message": "Темный режим"
+    },
+    "dark_mode_system": {
+        "message": "Контролируется системой"
+    },
+    "excluded_senders": {
+        "message": "Исключенные отправители"
+    },
+    "excluded_senders_help_1": {
+        "message": "Введите по одному письму на строку, для которых вы хотите отключить Darko."
+    },
+    "excluded_senders_help_2": {
+        "message": "Вы также можете исключить отправителя, используя контекстное меню в сообщении."
+    },
+    "thunderbird_store": {
+        "message": "Thunderbird Add-ons"
+    },
+    "disable_context_menu": {
+        "message": "Отключить пункт в контекстном меню: $1"
+    }
+}
