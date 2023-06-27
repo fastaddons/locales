@@ -12,13 +12,13 @@
     "message": "Markera \"Gratis frakt\" :)"
   },
   "_description_ah_use_cases_3": {
-    "message": "Letar du efter något specifikt på webben? Använd \"Temporal Highlight\" för att hjälpa dig att hitta den på alla sidor. Temporala höjdpunkter raderas automatiskt när du stänger webbläsaren."
+    "message": "Letar du efter något specifikt på webben? Använd \"Tidsmässiga höjdpunkter\" för att hjälpa dig att hitta den på alla sidor. Tidsmässiga höjdpunkter tas bort automatiskt när du stänger webbläsaren."
   },
   "_description_ah_use_cases_4": {
     "message": "Du kan även dölja ord genom att ställa in teckensnittstorlek till noll eller genom att göra dem transparenta."
   },
   "_description_tags_ah": {
-    "message": "markera, markera, metadata, film, automatisk, text, synkronisering, urval, sökning"
+    "message": "höjdpunkt, markera, metadata, film, automatisk, text, synkronisering, urval, sökning"
   },
   "app_name": {
     "message": "Auto Highlight"
@@ -33,13 +33,13 @@
     "message": "Domänen är"
   },
   "match_type_1": {
-    "message": "URL är"
+    "message": "Webbadressen är"
   },
   "match_type_2": {
-    "message": "URL innehåller"
+    "message": "Webbadressen innehåller"
   },
   "match_type_3": {
-    "message": ""
+    "message": "Webbadressen matchar reguljärt uttryck"
   },
   "match_type_4": {
     "message": "Varje sida"
@@ -57,7 +57,7 @@
     "message": "$app_name$ på den här sidan"
   },
   "toolbar_click_new_tab": {
-    "message": "Alltid öppna i ny flik - när du klickar på verktygsfältet"
+    "message": "Öppna alltid i ny flik - när du klickar på verktygsfältet"
   },
   "disable_rule": {
     "message": "Inaktiverad"
@@ -72,7 +72,7 @@
     "message": "Regler"
   },
   "delete": {
-    "message": "Radera"
+    "message": "Ta bort"
   },
   "rename": {
     "message": "Döp om"
@@ -81,10 +81,10 @@
     "message": "Duplicera"
   },
   "delete_rule": {
-    "message": "Radera regel"
+    "message": "Ta bort regel"
   },
   "delete_rule_title": {
-    "message": "Radera regel \"$1\"?"
+    "message": "Ta bort regel \"$1\"?"
   },
   "on_pages": {
     "message": "På sidor:"
@@ -99,7 +99,7 @@
     "message": "Aktiv på aktuell sida"
   },
   "temporal_rule_helper": {
-    "message": "Temporal Rule - kommer att raderas efter omstart av webbläsaren"
+    "message": "Temporal regel - kommer att tas bort efter omstart av webbläsaren"
   },
   "active_on_pages": {
     "message": "Aktiv på sidor:"
@@ -117,7 +117,7 @@
     "message": "RegExp"
   },
   "regular_expression": {
-    "message": "Vanligt uttryck"
+    "message": "Reguljära uttryck"
   },
   "across_elements": {
     "message": "Över element"
@@ -132,22 +132,19 @@
     "message": "Förhandsvisning:"
   },
   "empty_rule": {
-    "message": "tomt regel"
+    "message": "tom regel"
   },
   "create_new_rule": {
     "message": "Skapa ny regel"
   },
   "import_export": {
-    "message": "Import Export"
-  },
-  "help_this_project": {
-    "message": "Hjälp detta projekt"
+    "message": "Importera / Exportera"
   },
   "about_faq": {
-    "message": ""
+    "message": "Om / FAQ"
   },
   "faq": {
-    "message": "Vanliga frågor:"
+    "message": "FAQ:"
   },
   "storage_info": {
     "message": "Lagringsinfo:"
@@ -156,7 +153,7 @@
     "message": "Safari stöder för närvarande inte automatisk datasynkronisering."
   },
   "storage_safari_2": {
-    "message": "För att överföra (eller säkerhetskopiera) dina markeringsregler, använd funktionen \"Importera / export\"."
+    "message": "För att överföra (eller säkerhetskopiera) dina markeringsregler, använd funktionen \"Importera / Exportera\"."
   },
   "storage_info_1": {
     "message": "Dina regler lagras med Secure $1-synkronisering som synkroniserar dina regler mellan alla dina enheter (om du är inloggad på samma konto)."
@@ -165,7 +162,7 @@
     "message": "Denna molnlagring kan lagra 100 kb data och upp till 500 höjdpunktsregler."
   },
   "storage_info_3": {
-    "message": "Du kan också exportera (säkerhetskopiera) dina regler till en fil med funktionen \"Importera / export\" och sedan importera den på andra enheter."
+    "message": "Du kan också exportera (säkerhetskopiera) dina regler till en fil med funktionen \"Importera / Exportera\" och sedan importera den på andra enheter."
   },
   "replace_existing_highlight_rules": {
     "message": "Byt ut befintliga höjdregler"
@@ -177,7 +174,7 @@
     "message": "Ta bort markering från sidan"
   },
   "bold": {
-    "message": ""
+    "message": "Fetstil"
   },
   "italic": {
     "message": "Kursiv"
@@ -192,7 +189,7 @@
     "message": "Bakgrund"
   },
   "text_color": {
-    "message": "Text färg"
+    "message": "Textfärg"
   },
   "color": {
     "message": "Färg"
@@ -204,7 +201,7 @@
     "message": "Regelnamn"
   },
   "highlight_regular_expression": {
-    "message": "Markera regelbundet uttryck:"
+    "message": "Markera reguljära uttryck:"
   },
   "highlight_text": {
     "message": "Markera text:"
@@ -216,10 +213,10 @@
     "message": "Lämna tomt för att använda \"markerad text\" som namn"
   },
   "faq_1": {
-    "message": "Hur snabbt markerar Word på aktuell sida?"
+    "message": "Hur kan du snabbt markerar ord på aktuell sida?"
   },
   "faq_1a": {
-    "message": "Använd kontextmeny - Välj Text / Högerklicka / \"Auto Highlight\". Om du högerklickar på en sida (utan att välja text) kan du tillämpa befintliga regler för aktuell sida."
+    "message": "Använd innehållsmenyn - Välj Text / Högerklicka / \"Auto Highlight\". Om du högerklickar på en sida (utan att välja text) kan du tillämpa befintliga regler för aktuell sida."
   },
   "faq_2": {
     "message": "Jag vill markera flera ord, behöver jag skapa en ny regel för varje ord separat?"
@@ -231,7 +228,7 @@
     "message": "Vad är det \"RegExp\"?"
   },
   "faq_3a": {
-    "message": "Även känt som regelbundet uttryck är det en sekvens av tecken som definierar ett sökmönster. Det är en komplicerad konstruktion som möjliggör komplex belysning av element med något liknande mönster. Till exempel priser, datum, telefonnummer, etc ..."
+    "message": "Även känt som reguljära uttryck och det är en sekvens av tecken som definierar ett sökmönster. Det är en komplicerad konstruktion som möjliggör komplex belysning av element med något liknande mönster. Till exempel priser, datum, telefonnummer, etc ..."
   },
   "faq_4": {
     "message": "Kan du visa mig några RegExp-exempel?"
@@ -243,25 +240,25 @@
     "message": "Kan du förklara dem?"
   },
   "faq_5a": {
-    "message": "\"$1$\" belyser dollar tecken. Backslash behövs här eftersom dollar har en speciell betydelse i RegExp."
+    "message": "\"$1$\" markerar dollar-tecken. Omvänt snedstreck behövs här eftersom dollar-tecknet har en speciell betydelse i RegExp."
   },
   "faq_5b": {
-    "message": "\"$1$\" belyser enstaka siffra"
+    "message": "\"$1$\" markerar enstaka siffra"
   },
   "faq_5c": {
-    "message": "\"$1$\" betyder upprepa en eller flera gånger. När den placeras efter siffra väljare $2$ betyder det en eller flera siffror."
+    "message": "\"$1$\" mrkerar upprepa en eller flera gånger. När den placeras efter siffra väljare $2$ betyder det en eller flera siffror."
   },
   "faq_5d": {
-    "message": "\"$1$\" belyser DOT. Backslash behövs igen eftersom punktsymbolen ensam betyder någon enskild karaktär i RegExp."
+    "message": "\"$1$\" markerar punkt. Omvänt snedstreck behövs igen eftersom punkten ensam betyder någon enskild karaktär i RegExp."
   },
   "faq_5e": {
     "message": "\"$1$\" betyder noll eller en gång. När den placeras efter parentes $2$ betyder det vad som är inne i dessa fästen är valfritt (kan vara där eller inte). Vi använder det för den decimala delen av numret som är valfritt."
   },
   "faq_5f": {
-    "message": "mer information om RegExp regler"
+    "message": "mer information om RegExp-regler"
   },
   "import_finished": {
-    "message": "Importen färdig!",
+    "message": "Importerad!",
     "common": true
   },
   "import_error": {
@@ -269,7 +266,7 @@
     "common": true
   },
   "import_backup_file": {
-    "message": "Importera backup-fil $1",
+    "message": "Importera säkerhetskopia $1",
     "common": true
   },
   "homepage": {
@@ -277,7 +274,7 @@
     "common": true
   },
   "addon_page": {
-    "message": "Addon Page",
+    "message": "Tilläggssida",
     "common": true
   },
   "safari_store": {
@@ -289,11 +286,11 @@
     "common": true
   },
   "firefox_store": {
-    "message": "Firefox Add-ons",
+    "message": "Firefox-tillägg",
     "common": true
   },
   "thunderbird_store": {
-    "message": "Thunderbird Add-ons",
+    "message": "Thunderbird-tillägg",
     "common": true
   },
   "menu_options": {
@@ -333,15 +330,15 @@
     "common": true
   },
   "label_done": {
-    "message": "Gjort!",
+    "message": "Klar!",
     "common": true
   },
   "label_copied": {
-    "message": "Kopieras!",
+    "message": "Kopierad!",
     "common": true
   },
   "label_custom": {
-    "message": "Beställnings:",
+    "message": "Anpassad:",
     "common": true
   },
   "label_close": {
@@ -357,7 +354,7 @@
     "common": true
   },
   "label_agree": {
-    "message": "Hålla med",
+    "message": "Samtycka",
     "common": true
   },
   "label_cancel": {
@@ -369,11 +366,11 @@
     "common": true
   },
   "label_required": {
-    "message": "Nödvändig",
+    "message": "Krävs",
     "common": true
   },
   "label_sending": {
-    "message": "sändning...",
+    "message": "skickar...",
     "common": true
   },
   "label_scale": {
@@ -421,7 +418,7 @@
     "common": true
   },
   "about_me": {
-    "message": "Jag är Addon Developer sedan 2016. Mitt mål är att bygga kraftfulla tillägg för din webbläsare för att göra dig mer produktiv.",
+    "message": "Jag är tilläggautvecklare sedan 2016. Mitt mål är att bygga kraftfulla tillägg för din webbläsare för att göra dig mer produktiv.",
     "common": true
   },
   "about_good_job": {
@@ -433,7 +430,7 @@
     "common": true
   },
   "about_thanks": {
-    "message": "Tack för att du har stött på mitt arbete!",
+    "message": "Tack för att du stöttar mitt arbete!",
     "common": true
   },
   "op_help": {
@@ -457,15 +454,15 @@
     "common": true
   },
   "safari_download_in_tab": {
-    "message": "För att exportera dina data till en fil, öppna det här fönstret på en ny flik.",
+    "message": "För att exportera dina data till en fil, öppna det här fönstret igen i en ny flik.",
     "common": true
   },
   "safari_context_menu_download": {
-    "message": "Högerklicka / \"Hämta länkad fil\"",
+    "message": "Högerklicka / \"Ladda ner länkad fil\"",
     "common": true
   },
   "o_tab_general": {
-    "message": "Allmän",
+    "message": "Allmänt",
     "common": true
   },
   "o_tab_background": {
@@ -485,11 +482,11 @@
     "common": true
   },
   "o_tab_backup": {
-    "message": "Import / Backup",
+    "message": "Importera / Säkerhetskopia",
     "common": true
   },
   "o_tab_about": {
-    "message": "",
+    "message": "Om",
     "common": true
   },
   "o_tab_settings": {
@@ -501,7 +498,7 @@
     "common": true
   },
   "o_general": {
-    "message": "Allmän:",
+    "message": "Allmänt:",
     "common": true
   },
   "o_disabled": {
@@ -545,7 +542,7 @@
     "common": true
   },
   "btn_export_backup": {
-    "message": "Exportera säkerhetskopiering",
+    "message": "Exportera säkerhetskopia",
     "common": true
   },
   "label_or": {
@@ -557,7 +554,7 @@
     "common": true
   },
   "o_about_intro": {
-    "message": "Jag heter $1$ och jag är författaren till $app_name$.",
+    "message": "Jag heter $1$ och jag är utvecklaren av $app_name$.",
     "common": true
   },
   "o_about_like_it": {
@@ -565,11 +562,11 @@
     "common": true
   },
   "o_about_dislike_it": {
-    "message": "Om du inte gillar det, var snäll och låt mig veta varför till mitt e-postmeddelande. Jag implementerar de flesta av de funktioner som jag får.",
+    "message": "Om du inte gillar det, så skicka gärna ett e-postmeddelande. Jag implementerar de flesta funktionsförslag jag får.",
     "common": true
   },
   "o_about_support_by": {
-    "message": "Tänk på att stödja mitt arbete med",
+    "message": "Tänk på att stöda mitt arbete med",
     "common": true
   },
   "o_about_support_by_iban": {
@@ -581,7 +578,7 @@
     "common": true
   },
   "o_about_support_by_patron": {
-    "message": "blir min beskyddare",
+    "message": "blir min Patron",
     "common": true
   },
   "o_about_thanks": {
@@ -601,7 +598,7 @@
     "common": true
   },
   "o_about_support_reply": {
-    "message": "Jag kan bara svara på engelska / slovakiska",
+    "message": "Jag kan bara svara på Engelska / Slovakiska",
     "common": true
   },
   "o_about_social_media": {
@@ -641,11 +638,11 @@
     "common": true
   },
   "switch_addon_on_off": {
-    "message": "Byt tillägg på / av",
+    "message": "Aktivera / Inaktivera tillägget",
     "common": true
   },
   "addon_is_off": {
-    "message": "Addon är inaktiverat",
+    "message": "Tillägget är inaktiverat",
     "common": true
   },
   "_description_why": {
