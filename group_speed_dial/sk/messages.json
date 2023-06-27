@@ -2947,5 +2947,277 @@
   "thumbnail_padding": {
     "message": "Okraj okolo obrázka",
     "u": 1663452651042
+  },
+  "recently_closed_dial": {
+    "message": "Nedávno zatvorené",
+    "u": 1671026439438
+  },
+  "ed_recently_closed_dial": {
+    "message": "Naposledy zatvorené karty:",
+    "u": 1682194118687
+  },
+  "ed_recently_closed_dial_help": {
+    "message": "Zobrazí zoznam nedávno zatvorených kariet a okien a umožní ich obnovenie.",
+    "u": 1682194158606
+  },
+  "ed_top_sites_dial": {
+    "message": "Najnavštevovanejšie stránky:",
+    "u": 1682194205049
+  },
+  "recently_closed_window": {
+    "message": "Okno:",
+    "u": 1682194211116
+  },
+  "timer_dial": {
+    "message": "Časovač",
+    "u": 1682194220609
+  },
+  "ed_timer_dial": {
+    "message": "Časovač:",
+    "u": 1682194228501
+  },
+  "timer_type_0": {
+    "message": "Odpočítavanie",
+    "u": 1682194233474
+  },
+  "timer_type_1": {
+    "message": "Alarm",
+    "u": 1682194235590
+  },
+  "timer_type_2": {
+    "message": "Stopky",
+    "u": 1682194242131
+  },
+  "action_open_downloads_folder": {
+    "message": "Zobraziť v priečinku",
+    "u": 1682194257133
+  },
+  "remove_from_multi": {
+    "message": "Odstrániť odkaz",
+    "u": 1682194302257
+  },
+  "file_from_clipboard": {
+    "message": "Prilepiť obrázok zo schránky",
+    "u": 1682194313636
+  },
+  "o_import_chrome_bookmarks": {
+    "message": "Importovať dlaždice z Chrome záložiek uložených v \".html\" súbore:",
+    "u": 1682194409219
+  },
+  "op_delete": {
+    "message": "Odstrániť",
+    "u": 1682194432572
+  },
+  "o_disable_drag_and_drop": {
+    "message": "Zamknúť pozície dlaždíc (dočasne odomkni cez hlavné menu)",
+    "u": 1682194532930
+  },
+  "unlock_drag_drop": {
+    "message": "Odomknúť pohyb dlaždíc",
+    "u": 1682194554173
+  },
+  "unexpected_err_help_0": {
+    "message": "Problém môže zmiznúť po reštartovaní prehliadača alebo počítača.",
+    "u": 1682194571422
+  },
+  "unexpected_err_help_1": {
+    "message": "Ak reštartovanie nepomôže, ďalšie pokyny nájdete v tomto článku:",
+    "u": 1682194591361
+  },
+  "unexpected_err_share": {
+    "message": "Odošli protokol o chybe:",
+    "u": 1682194616582
+  },
+  "cm_open_new_window": {
+    "message": "Otvoriť v novom okne",
+    "u": 1682194636128
+  },
+  "o_active_page_detection": {
+    "message": "Detekcia už otvorenej stránky (viď \"modrá bodka\" v názve dlaždice)",
+    "u": 1682194659446
+  },
+  "o_active_page_detection_title": {
+    "message": "Ak je stránka už otvorená, kliknutím na dlaždicu ju aktivuje (namiesto opätovného otvorenia)",
+    "u": 1682194718802
+  },
+  "file_from_clipboard_help": {
+    "message": "Stlačením klávesovej skratky \"Ctrl + V\" môžeš obrázok vložiť už pri otvorení okna \"Editovať dlaždicu\"",
+    "u": 1682194830365
+  },
+  "ed_weather_dial": {
+    "message": "Počasie:",
+    "u": 1682194854765
+  },
+  "hide_dial_favicon": {
+    "message": "Ukryť ikonu dlaždice",
+    "u": 1682194873331
+  },
+  "city_name": {
+    "message": "Názov mesta",
+    "u": 1682194884543
+  },
+  "latitude": {
+    "message": "Zemepisná šírka",
+    "u": 1682194898954
+  },
+  "longitude": {
+    "message": "Zemepisná dĺžka",
+    "u": 1682194904975
+  },
+  "weather_units": {
+    "message": "Jednotky",
+    "u": 1682194930917
+  },
+  "weather_unit_0": {
+    "message": "Kelvin",
+    "u": 1682194936631
+  },
+  "weather_unit_1": {
+    "message": "Celzius",
+    "u": 1682194961399
+  },
+  "weather_unit_2": {
+    "message": "Fahrenheit",
+    "u": 1682194973531
+  },
+  "weather_current": {
+    "message": "Zobraziť aktuálne",
+    "u": 1682194992108
+  },
+  "weather_forecast": {
+    "message": "Predpoveď",
+    "u": 1682194999172
+  },
+  "weather_forecast_days": {
+    "message": "Predpoveď na dni",
+    "u": 1682195038975
+  },
+  "w_current_temp": {
+    "message": "Aktuálna teplota",
+    "u": 1682195043643
+  },
+  "w_max_temp": {
+    "message": "Max. teplota",
+    "u": 1682195049086
+  },
+  "w_min_temp": {
+    "message": "Min. teplota",
+    "u": 1682195052152
+  },
+  "w_wind_speed": {
+    "message": "Rýchlosť vetra",
+    "u": 1682195059436
+  },
+  "w_humidity": {
+    "message": "Vlhkosť",
+    "u": 1682195063721
+  },
+  "w_pressure": {
+    "message": "Tlak",
+    "u": 1682195066892
+  },
+  "w_clouds": {
+    "message": "Oblačnosť",
+    "u": 1682195076051
+  },
+  "w_sunrise": {
+    "message": "Východ slnka",
+    "u": 1682195083865
+  },
+  "w_sunset": {
+    "message": "Západ slnka",
+    "u": 1682195088791
+  },
+  "w_update_date": {
+    "message": "Aktualizované",
+    "u": 1682195096727
+  },
+  "btn_done": {
+    "message": "Hotovo",
+    "u": 1686859525503
+  },
+  "tag": {
+    "message": "Značka",
+    "u": 1686859565250
+  },
+  "tags_edit": {
+    "message": "Editovať značky...",
+    "u": 1686859569718
+  },
+  "op_undo": {
+    "message": "Vrátiť poslednú zmenu",
+    "u": 1686859616555
+  },
+  "save_history_undo": {
+    "message": "Vrátiť zmenu:",
+    "u": 1686859625746
+  },
+  "eg_group_icon": {
+    "message": "Ikonka skupiny",
+    "u": 1686859641089
+  },
+  "tag_icon": {
+    "message": "Ikona",
+    "u": 1686859663263
+  },
+  "tag_delete": {
+    "message": "Zmazať značku",
+    "u": 1686859691269
+  },
+  "tag_in_use": {
+    "message": "Značka je použitá na dlaždiciach:",
+    "u": 1686859720090
+  },
+  "tag_color": {
+    "message": "Farba",
+    "u": 1686859725777
+  },
+  "tag_name": {
+    "message": "Názov",
+    "u": 1686859735063
+  },
+  "tag_edit": {
+    "message": "Editovať značku",
+    "u": 1686859748131
+  },
+  "ed_tab_tags": {
+    "message": "Značky",
+    "u": 1686859880100
+  },
+  "tag_work": {
+    "message": "Práca",
+    "u": 1686859883684
+  },
+  "tag_play": {
+    "message": "Hry",
+    "u": 1686859912893
+  },
+  "tag_shopping": {
+    "message": "Nakupovanie",
+    "u": 1686859918641
+  },
+  "tag_none": {
+    "message": "Žiadna značka",
+    "u": 1686859930709
+  },
+  "ed_tag": {
+    "message": "Značka dlaždice",
+    "u": 1686859959060
+  },
+  "tag_add": {
+    "message": "Pridať značku",
+    "u": 1686860009494
+  },
+  "save_tags_updated": {
+    "message": "Značky aktualizované",
+    "u": 1686860039166
+  },
+  "eg_title_text_color": {
+    "message": "Farba textu názvu:",
+    "u": 1686905779711
+  },
+  "eg_title_background_color": {
+    "message": "Farba pozadia názvu:",
+    "u": 1686905789943
   }
 }

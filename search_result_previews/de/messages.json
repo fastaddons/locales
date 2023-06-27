@@ -444,5 +444,181 @@
   "edge_store": {
     "message": "Edge Addons",
     "u": 1655640264745
+  },
+  "favicon_provider_1": {
+    "message": "DuckDuckGo",
+    "u": 1667399598217
+  },
+  "favicon_provider_0": {
+    "message": "Google",
+    "u": 1667399600122
+  },
+  "enabled_on_pages": {
+    "message": "Auf Seiten aktiviert",
+    "u": 1667557502921
+  },
+  "app_name": {
+    "message": "Suchergebnissvorschau",
+    "u": 1667480434432
+  },
+  "enable_on_page": {
+    "message": "Auf \"$1\" aktiviert",
+    "u": 1667557497069
+  },
+  "all_pages": {
+    "message": "Alle Seiten",
+    "u": 1667478385378
+  },
+  "filter": {
+    "message": "Filter",
+    "u": 1667478414903
+  },
+  "hide_previews": {
+    "message": "Seitenvorschau verstecken (nur Seiten-Icons)",
+    "u": 1667479612477
+  },
+  "favicon_placement_1": {
+    "message": "Neben dem Titel",
+    "u": 1667478537911
+  },
+  "favicon_placement_0": {
+    "message": "Keine Seiten-Icons",
+    "u": 1667479553843
+  },
+  "favicon_placement": {
+    "message": "Seiten-Icon-Platzierung",
+    "u": 1667479564698
+  },
+  "app_desc": {
+    "message": "Zeigt Seitenvorschau und Icon neben jedem Suchergebnis.",
+    "u": 1667480188041
+  },
+  "favicon_provider": {
+    "message": "Icon-Anbieter",
+    "u": 1667480111678
+  },
+  "favicons": {
+    "message": "Seiten-Icons",
+    "u": 1667479577758
+  },
+  "favicon_placement_2": {
+    "message": "Neben der Webadresse",
+    "u": 1667479978437
+  },
+  "broken_favicons": {
+    "message": "Sollte das Google-Icon nicht angezeigt werden, muss deren alternative Domain aktiviert werden:",
+    "u": 1667479840391
+  },
+  "_description_srp_supported_engines": {
+    "message": "Unterstützte Suchmaschinen:",
+    "u": 1667479674007
+  },
+  "_description_credits": {
+    "message": "Credits:",
+    "u": 1668515677623
+  },
+  "pagerank_help": {
+    "message": "Das Seiten-Bewertungs-System soll dabei helfen, die \"Wichtigkeit und Qualität von Webseiten\" zu erkennen.",
+    "u": 1668514525067
+  },
+  "upgrade_premium": {
+    "message": "Upgrade zur Premium-Version",
+    "u": 1668514595108
+  },
+  "pagerank": {
+    "message": "Seiten-Bewertung",
+    "u": 1668514485196
+  },
+  "premium_active": {
+    "message": "Premium-Version aktiv",
+    "u": 1668515440600
+  },
+  "premium_about_1": {
+    "message": "Upgraden Sie zur Premium-Version, um Zugang zu besonderen Funktionen zu erhalten und die Entwicklung dieser Erweiterung zu unterstützen.",
+    "u": 1668514605496
+  },
+  "premium_about_2": {
+    "message": "Wenn Sie bereits ein Upgrade durchgeführt haben, melden Sie sich bei Ihrem Konto an:",
+    "u": 1668514630929
+  },
+  "pagerank_placement_0": {
+    "message": "Seiten-Bewertung verstecken",
+    "u": 1668514653460
+  },
+  "pagerank_placement_1": {
+    "message": "Über URL",
+    "u": 1668515167956
+  },
+  "pagerank_placement": {
+    "message": "Platzierung der Seiten-Bewertung",
+    "u": 1668514710568
+  },
+  "pagerank_theme": {
+    "message": "Farbpalette",
+    "u": 1668514724570
+  },
+  "pagerank_theme_0": {
+    "message": "Regenbogen",
+    "u": 1668514731677
+  },
+  "pagerank_theme_1": {
+    "message": "Graustufen",
+    "u": 1668514741869
+  },
+  "pagerank_theme_2": {
+    "message": "Einfärbig",
+    "u": 1668515530075
+  },
+  "pagerank_width": {
+    "message": "Breite",
+    "u": 1668514780282
+  },
+  "pagerank_height": {
+    "message": "Höhe",
+    "u": 1668514950292
+  },
+  "pagerank_scale": {
+    "message": "Skala",
+    "u": 1668514796805
+  },
+  "pagerank_opacity": {
+    "message": "Deckkraft",
+    "u": 1668514806833
+  },
+  "pagerank_color": {
+    "message": "Farbe",
+    "u": 1668514813200
+  },
+  "pagerank_background": {
+    "message": "Hintergrund",
+    "u": 1668514822849
+  },
+  "pagerank_border_color": {
+    "message": "Farbe der Umrandung",
+    "u": 1668515018712
+  },
+  "licensed_to": {
+    "message": "Lizensiert für:",
+    "u": 1668515047900
+  },
+  "license_type": {
+    "message": "Art der Lizenz:",
+    "u": 1668515104215
+  },
+  "login": {
+    "message": "Anmeldung",
+    "u": 1668515275377
+  },
+  "reverse": {
+    "message": "umkehren",
+    "u": 1669558722182
+  },
+  "request_reload": {
+    "message": "Updatevorschau anfordern",
+    "u": 1670627811853
+  },
+  "account_required": {
+    "message": "Konto erforderlich",
+    "u": 1681244892613
   }
 }

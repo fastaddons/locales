@@ -450,5 +450,65 @@
   "edge_store": {
     "message": "Edge 附加组件",
     "u": 1654612669204
+  },
+  "all_pages": {
+    "message": "所有页面",
+    "u": 1672043158187
+  },
+  "filter": {
+    "message": "过滤器",
+    "u": 1672043165061
+  },
+  "enabled_on_pages": {
+    "message": "已在页面上启用",
+    "u": 1672043201786
+  },
+  "enable_on_page": {
+    "message": "在 \"$1\" 上启用",
+    "u": 1672043233139
+  },
+  "favicon_provider": {
+    "message": "网站图标来源",
+    "u": 1672043246869
+  },
+  "favicon_provider_0": {
+    "message": "Google",
+    "u": 1672043250318
+  },
+  "favicon_provider_1": {
+    "message": "DuckDuckGo",
+    "u": 1672043276781
+  },
+  "app_name": {
+    "message": "搜索结果预览",
+    "u": 1672043284261
+  },
+  "app_desc": {
+    "message": "在每个搜索结果旁边显示页面缩略图 + 网站图标",
+    "u": 1672043321033
+  },
+  "favicon_placement": {
+    "message": "网站图标放置位置",
+    "u": 1672043347193
+  },
+  "favicon_placement_0": {
+    "message": "无网站图标",
+    "u": 1672043339924
+  },
+  "favicon_placement_1": {
+    "message": "标题旁",
+    "u": 1672043357800
+  },
+  "favicons": {
+    "message": "网站图标",
+    "u": 1672043360965
+  },
+  "favicon_placement_2": {
+    "message": "链接旁",
+    "u": 1672043373056
+  },
+  "hide_previews": {
+    "message": "隐藏搜索预览（仅网站图标模式）",
+    "u": 1672044614879
   }
 }

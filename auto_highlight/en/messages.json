@@ -772,5 +772,46 @@
   "edge_store": {
     "message": "Edge Add-ons",
     "common": true
+  },
+  "disable_badge": {
+    "message": "Disable icon badge (number of highlighted words)",
+    "common": true
+  },
+  "exact_match": {
+    "message": "Exact match"
+  },
+  "exact_match_title": {
+    "message": "Match only full words, not partial text inside a word"
+  },
+  "rate_extension": {
+    "message": "Rate My Extension",
+    "common": true
+  },
+  "rate_enjoy": {
+    "message": "If you enjoy using my extension, please take a moment to rate it.",
+    "common": true
+  },
+  "rate_support_instead": {
+    "message": "If something doesn't work or if you have a feature idea, please contact me instead:",
+    "common": true
+  },
+  "rate_no": {
+    "message": "No Thanks",
+    "common": true
+  },
+  "rate_yes": {
+    "message": "Rate Now",
+    "common": true
+  },
+  "enable_contenteditable": {
+    "message": "Enable highlighting inside \"editable content\""
+  },
+  "exclude_domain": {
+    "message": "Disable on \"$1\"",
+    "common": true
+  },
+  "excluded_domain": {
+    "message": "Disabled on \"$1\"",
+    "common": true
   }
 }

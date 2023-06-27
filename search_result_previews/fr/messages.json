@@ -418,5 +418,13 @@
   "edge_store": {
     "message": "Extensions Edge",
     "u": 1663598435109
+  },
+  "favicon_provider_0": {
+    "message": "Google",
+    "u": 1667464662521
+  },
+  "favicon_provider_1": {
+    "message": "DuckDuckGo",
+    "u": 1667464664338
   }
 }

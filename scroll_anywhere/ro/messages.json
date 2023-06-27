@@ -15,7 +15,8 @@
     "message": "Resetați la valoarea implicită: $1"
   },
   "thunderbird_store": {
-    "message": "Thunderbird Add-ons"
+    "message": "Thunderbird Add-ons",
+    "u": 1677512378334
   },
   "firefox_store": {
     "message": "Pagina complementelor Firefox"

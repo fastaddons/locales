@@ -3,7 +3,8 @@
     "message": "en cualquier lugar, botón, cursor, arrastrar, agarrar, agarrar arrastre, agarrar y arrastrar, infinito, izquierdo, medio, impulso, mouse, mover, página, derecha, desplazamiento, página de desplazamiento, barra de desplazamiento, desplazamiento, tiro"
   },
   "app_name": {
-    "message": "ScrollAnywhere"
+    "message": "ScrollAnywhere",
+    "u": 1677512395740
   },
   "app_desc": {
     "message": "Arrastre la barra de desplazamiento con el botón de ratón medio en cualquier lugar de la página. Admite también el estilo \"Agarra y arrastre\"."
@@ -417,7 +418,8 @@
     "message": "Deshabilitado en este dominio"
   },
   "not_working_title": {
-    "message": "Su navegador bloqueará desplazamiento en este tipo de páginas:"
+    "message": "Su navegador bloqueará $app_name$ en este tipo de páginas:",
+    "u": 1677511760269
   },
   "not_working_body": {
     "message": "Para habilitar ScrollAnywhere en las páginas \"Mozilla.org\", consulte este tutorial de YouTube"
@@ -444,7 +446,8 @@
     "message": "Hola :)"
   },
   "o_about_intro": {
-    "message": "Me llamo Juraj Mäsiar y soy el creador de ScrollAnywhere."
+    "message": "Me llamo $1$ y soy el creador de $app_name$.",
+    "u": 1677511720682
   },
   "o_about_like_it": {
     "message": "Si te gusta, por favor valóralo aquí:"

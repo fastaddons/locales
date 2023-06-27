@@ -490,5 +490,117 @@
   "broken_favicons": {
     "message": "Ak sa ikonky Google nezobrazujú, treba povoliť ich alternatívnu doménu:",
     "u": 1667223811982
+  },
+  "_description_credits": {
+    "message": "Zásluhy:",
+    "u": 1667469055339
+  },
+  "_description_srp_supported_engines": {
+    "message": "Podporované vyhľadávače:",
+    "u": 1667469072696
+  },
+  "upgrade_premium": {
+    "message": "Premium verzia",
+    "u": 1668441173280
+  },
+  "pagerank": {
+    "message": "Hodnotenie stránok",
+    "u": 1668441174322
+  },
+  "pagerank_help": {
+    "message": "Systém hodnotenia stránok vám umožní vidieť \"dôležitosť a kvalitu webových stránok\".",
+    "u": 1668441215891
+  },
+  "premium_active": {
+    "message": "Prémium verzia",
+    "u": 1668441336621
+  },
+  "premium_about_1": {
+    "message": "Prechodom na Premium získate prístup k špeciálnym funkciám a podporíte vývoj tohto rozšírenia.",
+    "u": 1668441440364
+  },
+  "premium_about_2": {
+    "message": "Ak už máte Premium, prihláste sa do svojho konta:",
+    "u": 1668441515905
+  },
+  "login": {
+    "message": "Prihlásenie",
+    "u": 1668441524918
+  },
+  "pagerank_placement_0": {
+    "message": "Skryť hodnotenie stránok",
+    "u": 1668441554202
+  },
+  "pagerank_placement_1": {
+    "message": "Nad URL",
+    "u": 1668441560389
+  },
+  "pagerank_placement": {
+    "message": "Umiestnenie Hodnotenia",
+    "u": 1668441571265
+  },
+  "pagerank_theme": {
+    "message": "Farebná téma",
+    "u": 1668441578359
+  },
+  "pagerank_theme_0": {
+    "message": "Dúhová",
+    "u": 1668441583737
+  },
+  "pagerank_theme_1": {
+    "message": "Odtiene šedej",
+    "u": 1668441591565
+  },
+  "pagerank_theme_2": {
+    "message": "Jednofarebná",
+    "u": 1668441608247
+  },
+  "pagerank_width": {
+    "message": "Šírka",
+    "u": 1668441614332
+  },
+  "pagerank_height": {
+    "message": "Výška",
+    "u": 1668441616506
+  },
+  "pagerank_scale": {
+    "message": "Stupnica",
+    "u": 1668441628438
+  },
+  "pagerank_opacity": {
+    "message": "Priehľadnosť",
+    "u": 1668441639363
+  },
+  "pagerank_color": {
+    "message": "Farba",
+    "u": 1668441642231
+  },
+  "pagerank_background": {
+    "message": "Pozadie",
+    "u": 1668441651747
+  },
+  "pagerank_border_color": {
+    "message": "Farba ohraničenia",
+    "u": 1668441658218
+  },
+  "licensed_to": {
+    "message": "Licencované na:",
+    "u": 1668441680856
+  },
+  "license_type": {
+    "message": "Typ licencie:",
+    "u": 1668441690098
+  },
+  "reverse": {
+    "message": "obrátiť",
+    "u": 1668592860640
+  },
+  "request_reload": {
+    "message": "Vyžiadať obnovu náhľadu",
+    "u": 1669648395018
+  },
+  "account_required": {
+    "message": "potrebný webový účet",
+    "u": 1686905894722
   }
 }

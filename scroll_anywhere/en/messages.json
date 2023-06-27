@@ -419,9 +419,6 @@
   "not_working_title": {
     "message": "Your browser will block $app_name$ on these type of pages:"
   },
-  "not_working_body": {
-    "message": "To enable $app_name$ on \"mozilla.org\" pages, see this YouTube tutorial"
-  },
   "show_scrollbars": {
     "message": "Show scrollbars"
   },

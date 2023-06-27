@@ -9,19 +9,23 @@
     "message": ""
   },
   "app_name": {
-    "message": "Private Notes"
+    "message": "Приватні нотатки (Private Notes)",
+    "u": 1670075754093
   },
   "app_desc": {
     "message": ""
   },
   "compression_level_0": {
-    "message": ""
+    "message": "Низький",
+    "u": 1681834621797
   },
   "compression_level_1": {
-    "message": ""
+    "message": "Нормальний",
+    "u": 1681834625736
   },
   "compression_level_2": {
-    "message": ""
+    "message": "Найкращий",
+    "u": 1681834662342
   },
   "compression_level_info_0": {
     "message": ""
@@ -33,13 +37,15 @@
     "message": ""
   },
   "title_notes": {
-    "message": ""
+    "message": "Нотатки",
+    "u": 1670075573747
   },
   "restore_backup": {
     "message": ""
   },
   "create_new_note": {
-    "message": ""
+    "message": "Створити нову нотатку",
+    "u": 1670075582728
   },
   "auto_locking_strategy_0": {
     "message": ""
@@ -48,16 +54,20 @@
     "message": ""
   },
   "restore_note": {
-    "message": ""
+    "message": "Відновити нотатку",
+    "u": 1670075591124
   },
   "locked": {
-    "message": ""
+    "message": "Заблоковано",
+    "u": 1670075617149
   },
   "change_master_password": {
-    "message": ""
+    "message": "Змінити головний пароль",
+    "u": 1670075610462
   },
   "import_export": {
-    "message": ""
+    "message": "Імпорт/експорт",
+    "u": 1670075601310
   },
   "about_faq": {
     "message": ""
@@ -69,13 +79,15 @@
     "message": ""
   },
   "change_pwd": {
-    "message": ""
+    "message": "Змінити пароль",
+    "u": 1670075624204
   },
   "pwd_to_change": {
     "message": ""
   },
   "current_pwd": {
-    "message": ""
+    "message": "Поточний пароль",
+    "u": 1670075633151
   },
   "new_pwd_advice": {
     "message": ""
@@ -99,7 +111,8 @@
     "message": ""
   },
   "pwd_save": {
-    "message": ""
+    "message": "Зберегти новий пароль",
+    "u": 1670075647560
   },
   "error_saving_note": {
     "message": ""
@@ -120,16 +133,19 @@
     "message": ""
   },
   "security": {
-    "message": ""
+    "message": "Безпека",
+    "u": 1670075651841
   },
   "visual_options": {
     "message": ""
   },
   "compression_level": {
-    "message": ""
+    "message": "Рівень стиснення",
+    "u": 1670075660385
   },
   "auto_locking_strategy": {
-    "message": ""
+    "message": "Політика автоблокування",
+    "u": 1670075676567
   },
   "auto_lock_inactive_for": {
     "message": ""
@@ -189,7 +205,8 @@
     "message": "Експорт"
   },
   "title_backups": {
-    "message": ""
+    "message": "Резервні копії",
+    "u": 1670075779658
   },
   "homepage": {
     "message": "Домашня сторінка"
@@ -198,22 +215,28 @@
     "message": "Сторінка доповнення"
   },
   "settings": {
-    "message": ""
+    "message": "Налаштування",
+    "u": 1670075681312
   },
   "options": {
-    "message": ""
+    "message": "Опції",
+    "u": 1670075686641
   },
   "label_backups": {
-    "message": ""
+    "message": "Резервні копії",
+    "u": 1670075692326
   },
   "label_rename": {
-    "message": ""
+    "message": "Перейменувати",
+    "u": 1670075697847
   },
   "label_download": {
-    "message": ""
+    "message": "Завантажити",
+    "u": 1670075702049
   },
   "label_delete": {
-    "message": ""
+    "message": "Видалити",
+    "u": 1670075736560
   },
   "label_next": {
     "message": "Далі"
@@ -327,7 +350,8 @@
     "message": "Відкрити в новій вкладці"
   },
   "_description_features": {
-    "message": ""
+    "message": "Функції:",
+    "u": 1670075770447
   },
   "_description_privacy_policy": {
     "message": "Політика конфіденційності"

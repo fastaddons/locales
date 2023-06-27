@@ -15,7 +15,8 @@
     "message": "Sehen Sie sich für die wichtigsten Funktionen ein Einführungsvideo (1:50) an."
   },
   "welcome_watch_android_video": {
-    "message": "Das Android-Setupvideo ansehen."
+    "message": "Android-Setupvideo ansehen.",
+    "u": 1679328424298
   },
   "welcome_home_group": {
     "message": "Die Gruppen haben 4 x 3 Dialplätze, die Sie hier ändern können:"
@@ -36,10 +37,12 @@
     "message": "Einstellungen wählen und importieren..."
   },
   "import_josep_button": {
-    "message": "Importieren Sie die \"CurrentSettings.speeddial\" Datei..."
+    "message": "Die \"CurrentSettings.speeddial\" Datei importieren...",
+    "u": 1679328419101
   },
   "import_firefox_button": {
-    "message": "Importieren Sie die bookmarks-2017-XX-XX.json Datei..."
+    "message": "Die bookmarks-2017-XX-XX.json Datei importieren...",
+    "u": 1679328363954
   },
   "import_fast_dial_button": {
     "message": "\"fastdial.json\"-Datei importieren..."
@@ -112,7 +115,8 @@
     "message": "Alternativ können Sie Ihre lokalen Dials ersetzen."
   },
   "url_search": {
-    "message": "URL / Suche"
+    "message": "URL/Suche",
+    "u": 1679328664486
   },
   "msg_search_by": {
     "message": "Suchen nach:"
@@ -133,7 +137,8 @@
     "message": "Sie können zwischen Gruppen navigieren, diese anzeigen, verschieben oder entfernen."
   },
   "msg_add_dial_no_show": {
-    "message": "Nicht mehr anzeigen"
+    "message": "Nicht mehr zeigen",
+    "u": 1679328265073
   },
   "msg_add_dials_here": {
     "message": "In leere Dials einfügen"
@@ -151,7 +156,8 @@
     "message": "Erste Gruppe erstellt"
   },
   "show_all_groups": {
-    "message": "Alle Gruppen anzeigen"
+    "message": "Alle Gruppen zeigen",
+    "u": 1679328240289
   },
   "fr_home_group": {
     "message": "ÜBERSICHT"
@@ -160,13 +166,16 @@
     "message": "Ausnahme beim Laden der Einstellungen oder Datenbank"
   },
   "err_db_creation": {
-    "message": "Fehler beim Erstellen der Datenbank"
+    "message": "Fehler beim Datenbank erstellen",
+    "u": 1679328236520
   },
   "err_db_loading": {
-    "message": "Fehler beim Laden der Datenbank"
+    "message": "Fehler beim Datenbank laden",
+    "u": 1679328216531
   },
   "err_db_images": {
-    "message": "Fehler beim Abrufen von Bildern von der Datenbank"
+    "message": "Fehler beim Bilderabruf von der Datenbank",
+    "u": 1679328193681
   },
   "sync_synced_ok": {
     "message": "mit Server synchronisiert"
@@ -214,7 +223,8 @@
     "message": "Thumbnails werden runtergeladen"
   },
   "sync_down_thumbnails_progress": {
-    "message": "$1 / $2 werden runtergeladen"
+    "message": "$1/$2 werden runtergeladen",
+    "u": 1679328670293
   },
   "sync_down_thumbnails_wait": {
     "message": "Thumbnails runterladen, bitte warten"
@@ -226,13 +236,15 @@
     "message": "Thumbnails synchronisieren... vorbereiten fürs hochladen"
   },
   "sync_up_progress": {
-    "message": "$1 / $2 werden hochgeladen"
+    "message": "$1/$2 werden hochgeladen",
+    "u": 1679328685080
   },
   "sync_up_wait": {
     "message": "Thumbnails hochladen, bitte warten"
   },
   "sync_thumbnails_progress": {
-    "message": "Thumbnails synchronisieren... $1 / $2"
+    "message": "Thumbnails synchronisieren... $1/$2",
+    "u": 1679328710148
   },
   "add_page": {
     "message": "Diese Seite zu Dials hinzufügen"
@@ -520,10 +532,12 @@
     "message": "Normal"
   },
   "resize_dial_v_half": {
-    "message": "Vertikale Hälfte"
+    "message": "Vertikal halbiert",
+    "u": 1679327950823
   },
   "resize_dial_h_half": {
-    "message": "Horizontale Hälfte"
+    "message": "Horizontal halbiert",
+    "u": 1679327959546
   },
   "resize_dial_small": {
     "message": "Klein"
@@ -679,10 +693,12 @@
     "message": "Anmelden oder Konto erstellen"
   },
   "history_title": {
-    "message": "Sicherungen & Verlauf"
+    "message": "Sicherungen & Verläufe",
+    "u": 1679327852108
   },
   "history_restore": {
-    "message": "Wiederherstellung gewählt"
+    "message": "Wiederherstellung wählen",
+    "u": 1679327837869
   },
   "history_loading": {
     "message": "Verlauf laden..."
@@ -739,7 +755,8 @@
     "message": "Nur Pro-Version - Lädt alle Thumbnails in die Cloud und macht sie auf der Clouddials-Webseite verfügbar (auch am Handy!)"
   },
   "menu_pro_download": {
-    "message": "Nur Pro-Version - Lädt alle Thumbnails aus der Cloud runter und ersetzt die Aktuellen."
+    "message": "Nur Pro-Version - Lädt alle Thumbnails aus der Cloud und ersetzt die Aktuellen.",
+    "u": 1679327829177
   },
   "menu_page_to_dial": {
     "message": "Seite zu Dials hinzufügen"
@@ -754,7 +771,8 @@
     "message": "Dials Seitenmenü"
   },
   "keys_ctrl_shift_f": {
-    "message": "Strg + Enter + F"
+    "message": "Strg + Shift + F",
+    "u": 1667856610465
   },
   "ed_edit_dial": {
     "message": "Dial bearbeiten:"
@@ -763,7 +781,8 @@
     "message": "Allgemein"
   },
   "ed_auto_reload": {
-    "message": "Automatisch neu laden"
+    "message": "Autom. neu laden",
+    "u": 1679327751569
   },
   "ed_crop_scale": {
     "message": "Zuschneiden/Skalieren"
@@ -790,10 +809,12 @@
     "message": "Hinweis:"
   },
   "ed_link_to_page": {
-    "message": "Link zur Website:"
+    "message": "Websitenlink:",
+    "u": 1679327680018
   },
   "ed_create_new_group": {
-    "message": "Neue Gruppe erstellen"
+    "message": "Link zur neuen Gruppe:",
+    "u": 1679327714081
   },
   "ed_group_name": {
     "message": "Name:"
@@ -808,7 +829,8 @@
     "message": "Links zu bestehenden Gruppen:"
   },
   "ed_page_dial": {
-    "message": "Webseiten Dial:"
+    "message": "Webseitendial:",
+    "u": 1679327643660
   },
   "ed_group_dial": {
     "message": "Gruppendial:"
@@ -826,10 +848,12 @@
     "message": "Live Dial:"
   },
   "ed_live_dial_title_1": {
-    "message": "Live-Dials sind Live-Webseiten, die direkt im Dial geladen werden."
+    "message": "Livedials sind Live-Webseiten, die direkt im Dial geladen werden.",
+    "u": 1679327619189
   },
   "ed_live_dial_title_2": {
-    "message": "Nicht jede Webseite kann im Live-Dial geladen werden, aber die meisten funktionieren."
+    "message": "Nicht jede Webseite kann im Livedial geladen werden, aber die meisten funktionieren.",
+    "u": 1679327603785
   },
   "page_name": {
     "message": "Name"
@@ -1163,7 +1187,8 @@
     "message": "Aktueller Tab"
   },
   "ds_open_dial_in_1": {
-    "message": "Neuer Tab (Fokussiert)"
+    "message": "Neuer Tab (fokussiert)",
+    "u": 1679327505863
   },
   "ds_open_dial_in_2": {
     "message": "Neuer Tab"
@@ -1244,7 +1269,8 @@
     "message": "Thumbnails aktualisieren"
   },
   "op_history": {
-    "message": "Verlauf & Sicherungen"
+    "message": "Verläufe & Sicherungen",
+    "u": 1679327465076
   },
   "menu_archive_title": {
     "message": "Archiv enthält Ihre als Archiviert markierten Gruppen."
@@ -1711,7 +1737,8 @@
     "message": "Deaktiviert Kurztasten mit der Umschalttaste, z.B.: \"Strg + Enter + 1\" oder \"Alt + Enter + 1\"."
   },
   "o_key_disable_f4": {
-    "message": "\"F4\" Taste deaktivieren, um den neuen Tab zu öffnen"
+    "message": "\"F4\" Taste deaktivieren, um neuen Tab zu öffnen",
+    "u": 1679327342061
   },
   "o_key_disable_f4_title": {
     "message": "Drücken der \"F4\" Taste, öffnet den Tab \"Neu\" nicht."
@@ -1887,7 +1914,8 @@
     "message": "Sie können auch ein kostenloses Cloudkonto (z.B.: Dropbox) erstellen und die Dials automatisch in der Cloud sichern. Die Daten werden über eine verschlüsselte SSL-Verbindung übertragen."
   },
   "reload_heading": {
-    "message": "$app_name$ - Thumbnail Neuladetab"
+    "message": "$app_name$ - Thumbnails neu laden",
+    "u": 1679327282896
   },
   "reload_subheading": {
     "message": "Dieser Tab wird von der automatischen Neuladefunktion verwendet, um Thumbnails im Hintergrund zu erstellen."
@@ -2561,20 +2589,20 @@
     "u": 1641254126960
   },
   "resize_dial_v_third": {
-    "message": "Vertikale Drittel",
-    "u": 1641253782419
+    "message": "Vertikales Drittel",
+    "u": 1679328448690
   },
   "resize_dial_h_third": {
-    "message": "Horizontale Drittel",
-    "u": 1641253805674
+    "message": "Horizontales Drittel",
+    "u": 1679328443670
   },
   "resize_dial_v_fourth": {
-    "message": "Vertikale Viertel",
-    "u": 1641253824828
+    "message": "Vertikales Viertel",
+    "u": 1679328452546
   },
   "resize_dial_h_fourth": {
-    "message": "Horizontale  Viertel",
-    "u": 1641253845252
+    "message": "Horizontales  Viertel",
+    "u": 1679328552466
   },
   "label_tip": {
     "message": "Tip:",
@@ -2821,8 +2849,8 @@
     "u": 1661718560800
   },
   "o_dial_no_favicon": {
-    "message": "Favicons ausblenden (Symbol neben Wahlname)",
-    "u": 1661718584045
+    "message": "Favicons ausblenden (Symbol neben Dialname)",
+    "u": 1679328562759
   },
   "save_locked_group_change": {
     "message": "Änderung in einer gesperrten Gruppe",
@@ -2981,7 +3009,259 @@
     "u": 1664236538093
   },
   "ed_recently_closed_dial_help": {
-    "message": "Zeigt eine Liste der kürzlich geschlossenen Tabs und Fenster an und ermöglicht Ihnen, sie wiederherzustellen.",
-    "u": 1664236609190
+    "message": "Zeigt eine Liste der kürzlich geschlossenen Tabs und Fenster und ermöglicht Ihnen, sie wiederherzustellen.",
+    "u": 1667686276494
+  },
+  "action_open_downloads_folder": {
+    "message": "Im Ordner zeigen",
+    "u": 1672170588014
+  },
+  "timer_type_2": {
+    "message": "Stoppuhr",
+    "u": 1672170606041
+  },
+  "timer_type_1": {
+    "message": "Alarm",
+    "u": 1672170615888
+  },
+  "timer_type_0": {
+    "message": "Countdown",
+    "u": 1672170638411
+  },
+  "ed_timer_dial": {
+    "message": "Timerdial:",
+    "u": 1674380695204
+  },
+  "timer_dial": {
+    "message": "Timer",
+    "u": 1672170722944
+  },
+  "unexpected_err_share": {
+    "message": "Fehlerprotokoll an Support senden:",
+    "u": 1675969642982
+  },
+  "unexpected_err_help_1": {
+    "message": "Wenn ein Neustart nicht hilft, finden Sie weitere Anweisungen in diesem Artikel:",
+    "u": 1675969672899
+  },
+  "unexpected_err_help_0": {
+    "message": "Das Problem verschwindet evtl. nach einem Neustart des Browsers oder PCs.",
+    "u": 1675969774638
+  },
+  "unlock_drag_drop": {
+    "message": "Dials zum verschieben, entsperren",
+    "u": 1675969871285
+  },
+  "o_disable_drag_and_drop": {
+    "message": "Dialposition sperren (zum Entsperren, Hauptmenü verwenden)",
+    "u": 1675970070205
+  },
+  "op_delete": {
+    "message": "Löschen",
+    "u": 1675970002984
+  },
+  "o_import_chrome_bookmarks": {
+    "message": "Dials aus der \".html\"-Datei den Chrome-Lesezeichen importieren:",
+    "u": 1675970170916
+  },
+  "file_from_clipboard": {
+    "message": "Bild aus der Zwischenablage einfügen",
+    "u": 1675970196137
+  },
+  "remove_from_multi": {
+    "message": "Link entfernen",
+    "u": 1675970226135
+  },
+  "cm_open_new_window": {
+    "message": "In neuem Fenster öffnen",
+    "u": 1676236695222
+  },
+  "o_active_page_detection": {
+    "message": "Erkennung bereits geöffneter Seiten (siehe \"blauen Punkt\" im Zifferblatttitel)",
+    "u": 1679326840644
+  },
+  "o_active_page_detection_title": {
+    "message": "Wenn die Seite bereits geöffnet ist, klicken Sie auf das Rad, zum fokussieren, anstatt sie erneut zu öffnen",
+    "u": 1679326899621
+  },
+  "file_from_clipboard_help": {
+    "message": "Sie können \"Strg + V\" drücken, um das Bild bereits einzufügen, wenn Sie das Fenster \"Dial bearbeiten\" öffnen",
+    "u": 1681244995078
+  },
+  "w_update_date": {
+    "message": "Aktualisiert",
+    "u": 1682201824740
+  },
+  "w_sunset": {
+    "message": "Sonnenuntergang",
+    "u": 1682201846168
+  },
+  "w_sunrise": {
+    "message": "Sonnenaufgang",
+    "u": 1682201861412
+  },
+  "w_clouds": {
+    "message": "Wolken",
+    "u": 1682201871947
+  },
+  "w_pressure": {
+    "message": "Luftdruck",
+    "u": 1682201903216
+  },
+  "w_humidity": {
+    "message": "Luftfeuchtigkeit",
+    "u": 1682201930051
+  },
+  "w_wind_speed": {
+    "message": "Windgeschw.",
+    "u": 1682202051203
+  },
+  "w_min_temp": {
+    "message": "Min. Temperatur",
+    "u": 1682202039961
+  },
+  "w_max_temp": {
+    "message": "Max. Temperatur",
+    "u": 1682202031561
+  },
+  "w_current_temp": {
+    "message": "Aktuelle Temperatur",
+    "u": 1682202027252
+  },
+  "weather_forecast_days": {
+    "message": "Prognosetage",
+    "u": 1682202081502
+  },
+  "weather_forecast": {
+    "message": "Prognose",
+    "u": 1682202087555
+  },
+  "weather_current": {
+    "message": "Aktuelle anzeigen",
+    "u": 1682202122650
+  },
+  "weather_unit_2": {
+    "message": "F",
+    "u": 1682202130126
+  },
+  "weather_unit_1": {
+    "message": "C°",
+    "u": 1682202164584
+  },
+  "weather_unit_0": {
+    "message": "K",
+    "u": 1682202188327
+  },
+  "weather_units": {
+    "message": "Einheiten",
+    "u": 1682202214347
+  },
+  "longitude": {
+    "message": "Längengrad",
+    "u": 1682202234753
+  },
+  "latitude": {
+    "message": "Breitengrad",
+    "u": 1682202248056
+  },
+  "city_name": {
+    "message": "Ort",
+    "u": 1682202254282
+  },
+  "hide_dial_favicon": {
+    "message": "Dialfavicon ausblenden",
+    "u": 1682202311263
+  },
+  "ed_weather_dial": {
+    "message": "Wetterdial:",
+    "u": 1682202329428
+  },
+  "save_history_undo": {
+    "message": "$1 rückgängig machen",
+    "u": 1685723526401
+  },
+  "op_undo": {
+    "message": "Letzte Änderung rückgängig machen",
+    "u": 1685723550780
+  },
+  "btn_done": {
+    "message": "Fertig",
+    "u": 1685723557786
+  },
+  "tag": {
+    "message": "Tag",
+    "u": 1685723567542
+  },
+  "tags_edit": {
+    "message": "Tags bearbeiten...",
+    "u": 1685723586522
+  },
+  "tag_in_use": {
+    "message": "Tag wird in Dials verwendet:",
+    "u": 1685723661454
+  },
+  "tag_delete": {
+    "message": "Tag löschen",
+    "u": 1685723675419
+  },
+  "tag_icon": {
+    "message": "Symbol",
+    "u": 1685723704630
+  },
+  "tag_color": {
+    "message": "Farbe",
+    "u": 1685723712825
+  },
+  "tag_name": {
+    "message": "Name",
+    "u": 1685723718767
+  },
+  "tag_edit": {
+    "message": "Tag bearbeiten",
+    "u": 1685723739664
+  },
+  "save_tags_updated": {
+    "message": "Tags aktualisieren",
+    "u": 1685723756999
+  },
+  "tag_add": {
+    "message": "Tag hinzufügen",
+    "u": 1685723778537
+  },
+  "ed_tag": {
+    "message": "Dealtag",
+    "u": 1685723793485
+  },
+  "tag_none": {
+    "message": "Kein Tag",
+    "u": 1685723804554
+  },
+  "tag_shopping": {
+    "message": "Einkaufen",
+    "u": 1685723843415
+  },
+  "tag_work": {
+    "message": "Arbeit",
+    "u": 1685723851571
+  },
+  "tag_play": {
+    "message": "Abspielen",
+    "u": 1685723862812
+  },
+  "ed_tab_tags": {
+    "message": "Tags",
+    "u": 1685723884475
+  },
+  "eg_title_background_color": {
+    "message": "Titel Hintergrundfarbe:",
+    "u": 1685723961081
+  },
+  "eg_title_text_color": {
+    "message": "Titel Textfarbe:",
+    "u": 1685723964951
+  },
+  "eg_group_icon": {
+    "message": "Gruppensymbol",
+    "u": 1686909114516
   }
 }

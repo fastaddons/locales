@@ -12,7 +12,8 @@
     "message": "Типове значення: $1, мін.: $2, макс.: $3"
   },
   "field_set_default": {
-    "message": "Скинути до типових: $1"
+    "message": "Скинути до типових: $1",
+    "u": 1677512330762
   },
   "thunderbird_store": {
     "message": "Доповнення для Thunderbird"

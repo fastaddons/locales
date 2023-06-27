@@ -449,7 +449,7 @@
     "message": "Search Result Previews"
   },
   "app_desc": {
-    "message": "Shows you page preview + favicon next to each search result!"
+    "message": "Shows you page thumbnail + favicon next to each search result."
   },
   "favicon_placement": {
     "message": "Favicon placement"
@@ -471,5 +471,90 @@
   },
   "broken_favicons": {
     "message": "If your Google favicons doesn't show, you need to enable their alternative domain:"
+  },
+  "_description_srp_supported_engines": {
+    "message": "Supported search engines:"
+  },
+  "_description_credits": {
+    "message": "Credits:",
+    "common": true
+  },
+  "upgrade_premium": {
+    "message": "Upgrade to Premium"
+  },
+  "pagerank": {
+    "message": "PageRank"
+  },
+  "pagerank_help": {
+    "message": "Page ranking system is designed to help you see the \"importance and quality of web pages\"."
+  },
+  "premium_active": {
+    "message": "Premium active"
+  },
+  "premium_about_1": {
+    "message": "Upgrade to Premium to get access to special features and to support development of this extension."
+  },
+  "premium_about_2": {
+    "message": "If you already upgraded, login to your account:"
+  },
+  "login": {
+    "message": "Login"
+  },
+  "pagerank_placement_0": {
+    "message": "Hide PageRank"
+  },
+  "pagerank_placement_1": {
+    "message": "Above URL"
+  },
+  "pagerank_placement": {
+    "message": "PageRank placement"
+  },
+  "pagerank_theme": {
+    "message": "Color theme"
+  },
+  "pagerank_theme_0": {
+    "message": "Rainbow"
+  },
+  "pagerank_theme_1": {
+    "message": "Grayscale"
+  },
+  "pagerank_theme_2": {
+    "message": "Solid color"
+  },
+  "pagerank_width": {
+    "message": "Width"
+  },
+  "pagerank_height": {
+    "message": "Height"
+  },
+  "pagerank_scale": {
+    "message": "Scale"
+  },
+  "pagerank_opacity": {
+    "message": "Opacity"
+  },
+  "pagerank_color": {
+    "message": "Color"
+  },
+  "pagerank_background": {
+    "message": "Background"
+  },
+  "pagerank_border_color": {
+    "message": "Border color"
+  },
+  "licensed_to": {
+    "message": "Licensed to:"
+  },
+  "license_type": {
+    "message": "License type:"
+  },
+  "reverse": {
+    "message": "reverse"
+  },
+  "request_reload": {
+    "message": "Request preview update"
+  },
+  "account_required": {
+    "message": "account required"
   }
 }

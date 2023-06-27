@@ -8,8 +8,8 @@
     "u": 1631559367315
   },
   "app_desc": {
-    "message": "Die Bildlaufleiste mit der mittleren Maustaste an eine beliebige Stelle auf der Seite ziehen. Unterstützt auch den \"greifen und ziehen\"-Stil.",
-    "u": 1631559349846
+    "message": "Die Bildlaufleiste mit der mittleren Maustaste an eine beliebige Stelle auf der Seite ziehen.",
+    "u": 1677511392323
   },
   "field_int_default_value": {
     "message": "Standardwert: $1, min: $2, max: $3",
@@ -508,8 +508,8 @@
     "message": "In dieser Domain deaktiviert"
   },
   "not_working_title": {
-    "message": "Ihr Browser blockiert überall scrollen auf diesen Seitentypen:",
-    "u": 1631554447049
+    "message": "Ihr Browser blockiert $app_name$ auf diesen Seitentypen:",
+    "u": 1677511651453
   },
   "not_working_body": {
     "message": "Um überall scrollen auf \"mozilla.org\"-Seiten zu aktivieren, sehen Sie sich das YouTube-Tutorial an",
@@ -542,8 +542,8 @@
     "message": "Hallo :-)"
   },
   "o_about_intro": {
-    "message": "Mein Name ist $1 und ich bin der Autor von $app_name$.",
-    "u": 1631554087723
+    "message": "Mein Name ist $1$ und ich bin der Autor von $app_name$.",
+    "u": 1677511504586
   },
   "o_about_like_it": {
     "message": "Wenn es Ihnen gefällt, bewerten Sie es bitte hier:",

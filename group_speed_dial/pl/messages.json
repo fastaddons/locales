@@ -9,7 +9,8 @@
     "message": "Witaj w dodatku $app_name$"
   },
   "welcome_setup": {
-    "message": ""
+    "message": "Podstawowe ustawienie",
+    "u": 1674554444436
   },
   "welcome_watch_video": {
     "message": "Obejrzyj krótki film instruktarzowy (1:50) aby zapoznać się z głównymi funkcjami."
@@ -54,19 +55,24 @@
     "message": "Zaimportowano zewnętrze skróty"
   },
   "import_skip": {
-    "message": ""
+    "message": "Nie importuj niczego",
+    "u": 1674554454452
   },
   "import_pages_stats": {
-    "message": ""
+    "message": "Importuj strony $1 z $2 grup",
+    "u": 1674554765859
   },
   "import_data_from": {
-    "message": ""
+    "message": "Imporuj dane z:",
+    "u": 1674554480502
   },
   "load_bookmarks": {
-    "message": ""
+    "message": "Załaduj ulubione",
+    "u": 1674554490264
   },
   "load_top_pages": {
-    "message": ""
+    "message": "Załaduj najczęściej używane strony",
+    "u": 1674554501125
   },
   "group_generated_name": {
     "message": "Grupa $1"
@@ -81,13 +87,16 @@
     "message": "Zamień skrót"
   },
   "replace_duplicate_dial": {
-    "message": ""
+    "message": "Zduplikowany skrót - kliknij aby zaktualizować miniaturę",
+    "u": 1674554523892
   },
   "create_multi_page_dial": {
-    "message": ""
+    "message": "Utwórz wielostronnicowy skrót",
+    "u": 1674554557136
   },
   "replace_multi_page_dial": {
-    "message": ""
+    "message": "Zamień wielostronnicowy skrót",
+    "u": 1674554560908
   },
   "msg_pro_cloud_upload": {
     "message": "Prześlij miniaturki do chmury - pozwoli to na zobaczenie ich w"
@@ -111,7 +120,8 @@
     "message": "Opcjonalnie możesz zamienić lokalne skróty."
   },
   "url_search": {
-    "message": ""
+    "message": "URL / Szukaj",
+    "u": 1674554567001
   },
   "msg_search_by": {
     "message": "Szukaj wg.:"
@@ -135,22 +145,26 @@
     "message": "Nie pokazuj więcej"
   },
   "msg_add_dials_here": {
-    "message": ""
+    "message": "Wstaw pomiędzy puste skróty",
+    "u": 1674554579222
   },
   "add_target_dial": {
     "message": "Znajdź docelowy skrót dla tej strony:"
   },
   "add_target_dials": {
-    "message": ""
+    "message": "Utwórz nową pustą grupę lub wybierz $1 skróty",
+    "u": 1674554792313
   },
   "add_image": {
-    "message": ""
+    "message": "Wstaw obrazek",
+    "u": 1674554621964
   },
   "bc_first_group": {
     "message": "Pierwsza grupa utworzona"
   },
   "show_all_groups": {
-    "message": ""
+    "message": "Pokaż wszystkie grupy",
+    "u": 1674554627612
   },
   "fr_home_group": {
     "message": "Grupa domowa"
@@ -240,25 +254,32 @@
     "message": "Dodaj tę zakładkę do skrótu"
   },
   "add_link": {
-    "message": ""
+    "message": "Dodaj odnośnik do skrótu",
+    "u": 1674554811260
   },
   "use_image_as_thumbnail": {
-    "message": ""
+    "message": "Użyj tego obrazka jako miniatury",
+    "u": 1674554821241
   },
   "cm_choose_dial": {
-    "message": ""
+    "message": "Wybierz docelowy skrót",
+    "u": 1674554829014
   },
   "return_to_tab": {
-    "message": ""
+    "message": "Powrót do zakładki",
+    "u": 1674554838269
   },
   "stay_here": {
-    "message": ""
+    "message": "Pozostań tu",
+    "u": 1674554845014
   },
   "close_added_pages": {
-    "message": ""
+    "message": "Zamknij dodane strony",
+    "u": 1674554850383
   },
   "close_this_tab": {
-    "message": ""
+    "message": "Zamknij zakładkę",
+    "u": 1674554857683
   },
   "group_first_created": {
     "message": "Pierwsza grupa stworzona"
@@ -312,7 +333,8 @@
     "message": "skrót edytowany - $1"
   },
   "save_dials_added_to_group": {
-    "message": ""
+    "message": "wiele skrótów dodanych do grupy - $1",
+    "u": 1674554888456
   },
   "save_dial_moved": {
     "message": "skrót przeniesiony - $1"

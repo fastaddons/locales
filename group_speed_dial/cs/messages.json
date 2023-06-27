@@ -2540,5 +2540,9 @@
   "dark_mode_system": {
     "message": "Ovládáno systémem",
     "common": true
+  },
+  "pwd_reset": {
+    "message": "Resetovat heslo",
+    "u": 1676221409887
   }
 }

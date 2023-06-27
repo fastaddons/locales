@@ -3,7 +3,8 @@
     "message": "kdekoli, tlačítko, kurzor, táhnout, chytit, chytit, uchopení, infinite, vlevo, střed, hybnost, myš, přesunout, strana, vpravo, svitek, posunutí stránky, posunutí, rolování, hodit"
   },
   "app_name": {
-    "message": "ScrollAnywhere"
+    "message": "ScrollAnywhere",
+    "u": 1677512407585
   },
   "app_desc": {
     "message": "Skroluj stránku ťahaním tlačidla na myške. Podporuje rôzne nastavenia vrátane zotrvačnosti skrolovania!"

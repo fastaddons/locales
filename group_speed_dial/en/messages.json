@@ -674,26 +674,11 @@
   "unexpected_title": {
     "message": "There was an unexpected error!"
   },
-  "unexpected_solution": {
-    "message": "Click here to reload add-on (if it won't help, try to restart your browser or PC)."
-  },
-  "unexpected_body": {
-    "message": "Please send me the following error log to my support e-mail:"
-  },
-  "unexpected_thanks": {
-    "message": "Thank you."
-  },
-  "unexpected_close": {
-    "message": "Close"
-  },
   "err_mutable_title": {
     "message": "Error loading database due to disabled History in your browser."
   },
   "err_mutable_body": {
     "message": "You need to set \"Remember history\" in Firefox / Options / Privacy & Security / History."
-  },
-  "err_is_firefox_bug": {
-    "message": "This is a Firefox bug."
   },
   "err_error_details": {
     "message": "Error details:"
@@ -706,12 +691,6 @@
   },
   "menu_history_title": {
     "message": "Opens window where you can manage your history/backups"
-  },
-  "menu_pro_upload": {
-    "message": "Pro versions only - Uploads all thumbnails to the cloud and makes them available in Cloud-dials web page (even in your phone!)"
-  },
-  "menu_pro_download": {
-    "message": "Pro versions only - Downloads all thumbnails from the cloud replacing current local."
   },
   "menu_page_to_dial": {
     "message": "Add this page to dial"
@@ -1235,9 +1214,6 @@
   "o_no_dial_reflection": {
     "message": "No image reflection"
   },
-  "o_background_url_placeholder": {
-    "message": "example: https://www.some_page.com/nature.jpg"
-  },
   "o_paste_import_placeholder": {
     "message": "paste exported text here"
   },
@@ -1285,12 +1261,6 @@
   },
   "o_big_picture_warning_title": {
     "message": "Using too big pictures may negatively affect performance (new tab loading time)."
-  },
-  "o_group_delayed_activation_title": {
-    "message": "This delay enables to choose a group even when it's surrounded by other groups (if you have like 3 lines of groups)"
-  },
-  "o_auto_upload_title": {
-    "message": "Professional version is required. - Auto-upload can be active only on one device."
   },
   "o_no_title": {
     "message": "No title on dials (thumbnails only)"
@@ -1550,9 +1520,6 @@
   "o_groups": {
     "message": "Groups:"
   },
-  "o_group_activation_delay": {
-    "message": "Activation delay when using Drag and Drop:"
-  },
   "o_short_keys": {
     "message": "Shortcuts - another add-on is required:"
   },
@@ -1708,9 +1675,6 @@
   },
   "o_about_cloud_dials": {
     "message": "Cloud-dials:"
-  },
-  "o_auto_upload_pro": {
-    "message": "Auto upload thumbnails (Pro only)"
   },
   "o_picture_from_url": {
     "message": "picture from URL:"
@@ -1925,10 +1889,6 @@
   },
   "search_search": {
     "message": "Search",
-    "common": true
-  },
-  "search_close": {
-    "message": "Close",
     "common": true
   },
   "email_send_me": {
@@ -2775,5 +2735,197 @@
   },
   "recently_closed_window": {
     "message": "Window:"
+  },
+  "timer_dial": {
+    "message": "Timer"
+  },
+  "ed_timer_dial": {
+    "message": "Timer dial:"
+  },
+  "timer_type_0": {
+    "message": "Countdown"
+  },
+  "timer_type_1": {
+    "message": "Alarm"
+  },
+  "timer_type_2": {
+    "message": "Stopwatch"
+  },
+  "action_open_downloads_folder": {
+    "message": "Show in Folder",
+    "common": true
+  },
+  "remove_from_multi": {
+    "message": "Remove link"
+  },
+  "file_from_clipboard": {
+    "message": "Paste image from clipboard"
+  },
+  "o_import_chrome_bookmarks": {
+    "message": "Import dials from Chrome bookmarks \".html\" file:"
+  },
+  "op_delete": {
+    "message": "Delete",
+    "common": true
+  },
+  "o_disable_drag_and_drop": {
+    "message": "Lock dials position (use main menu to unlock)"
+  },
+  "unlock_drag_drop": {
+    "message": "Unlock dials moving"
+  },
+  "unexpected_err_help_0": {
+    "message": "The problem may disappear after restarting browser or PC."
+  },
+  "unexpected_err_help_1": {
+    "message": "If restarting doesn't help, please see this article for further instructions:"
+  },
+  "unexpected_err_share": {
+    "message": "Send error log to support:"
+  },
+  "cm_open_new_window": {
+    "message": "Open in new window"
+  },
+  "o_active_page_detection": {
+    "message": "Already opened page detection (see a \"blue dot\" in dial title)"
+  },
+  "o_active_page_detection_title": {
+    "message": "If the page is already opened, click on the dial will focus it instead of opening it again"
+  },
+  "file_from_clipboard_help": {
+    "message": "You can press \"Ctrl + V\" to paste image already when you open \"Edit dial\" window"
+  },
+  "ed_weather_dial": {
+    "message": "Weather dial:"
+  },
+  "hide_dial_favicon": {
+    "message": "Hide dial favicon"
+  },
+  "city_name": {
+    "message": "City name"
+  },
+  "latitude": {
+    "message": "Latitude"
+  },
+  "longitude": {
+    "message": "Longitude"
+  },
+  "weather_units": {
+    "message": "Units"
+  },
+  "weather_unit_0": {
+    "message": "Kelvin"
+  },
+  "weather_unit_1": {
+    "message": "Celsius"
+  },
+  "weather_unit_2": {
+    "message": "Fahrenheit"
+  },
+  "weather_current": {
+    "message": "Show current"
+  },
+  "weather_forecast": {
+    "message": "Forecast"
+  },
+  "weather_forecast_days": {
+    "message": "Forecast days"
+  },
+  "w_current_temp": {
+    "message": "Current temperature"
+  },
+  "w_max_temp": {
+    "message": "Max. temperature"
+  },
+  "w_min_temp": {
+    "message": "Min. temperature"
+  },
+  "w_wind_speed": {
+    "message": "Wind speed"
+  },
+  "w_humidity": {
+    "message": "Humidity"
+  },
+  "w_pressure": {
+    "message": "Pressure"
+  },
+  "w_clouds": {
+    "message": "Clouds"
+  },
+  "w_sunrise": {
+    "message": "Sunrise"
+  },
+  "w_sunset": {
+    "message": "Sunset"
+  },
+  "w_update_date": {
+    "message": "Updated"
+  },
+  "eg_title_text_color": {
+    "message": "Title text color:"
+  },
+  "eg_title_background_color": {
+    "message": "Title background color:"
+  },
+  "ed_tab_tags": {
+    "message": "Tags"
+  },
+  "tag_work": {
+    "message": "Work"
+  },
+  "tag_play": {
+    "message": "Play"
+  },
+  "tag_shopping": {
+    "message": "Shopping"
+  },
+  "tag_none": {
+    "message": "No tag"
+  },
+  "ed_tag": {
+    "message": "Tag dial"
+  },
+  "tag_add": {
+    "message": "Add tag"
+  },
+  "save_tags_updated": {
+    "message": "Tags updated"
+  },
+  "tag_edit": {
+    "message": "Edit tag"
+  },
+  "tag_name": {
+    "message": "Name"
+  },
+  "tag_color": {
+    "message": "Color"
+  },
+  "tag_icon": {
+    "message": "Icon"
+  },
+  "tag_delete": {
+    "message": "Delete tag"
+  },
+  "tag_in_use": {
+    "message": "Tag is used by dials:"
+  },
+  "tags_edit": {
+    "message": "Edit tags..."
+  },
+  "tag": {
+    "message": "Tag"
+  },
+  "btn_done": {
+    "message": "Done",
+    "common": true
+  },
+  "op_undo": {
+    "message": "Undo last change"
+  },
+  "save_history_undo": {
+    "message": "Undo change: $1"
+  },
+  "eg_group_icon": {
+    "message": "Group icon"
   }
 }

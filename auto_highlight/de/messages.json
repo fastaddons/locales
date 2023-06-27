@@ -829,5 +829,49 @@
   "edge_store": {
     "message": "Edge Addons",
     "u": 1655640264745
+  },
+  "rate_support_instead": {
+    "message": "Wenn etwas nicht funktioniert oder Sie eine Featureidee haben, kontaktieren Sie mich bitte:",
+    "u": 1675969272861
+  },
+  "rate_enjoy": {
+    "message": "Wenn Sie meine Erweiterung mögen, nehmen Sie sich doch etwas Zeit, zum bewerten.",
+    "u": 1675969401732
+  },
+  "rate_extension": {
+    "message": "Meine Erweiterung bewerten",
+    "u": 1675969430811
+  },
+  "exact_match_title": {
+    "message": "Finde nur ganze Wörter, keinen Teiltext innerhalb eines Wortes",
+    "u": 1675969513194
+  },
+  "exact_match": {
+    "message": "Genaue Übereinstimmung",
+    "u": 1675969534165
+  },
+  "disable_badge": {
+    "message": "Symbol deaktivieren (Anzahl hervorgehobener Wörter)",
+    "u": 1675969594232
+  },
+  "rate_yes": {
+    "message": "Jetzt bewerten",
+    "u": 1676236613799
+  },
+  "rate_no": {
+    "message": "Nein Danke",
+    "u": 1676236627779
+  },
+  "exclude_domain": {
+    "message": "Bei \"$1\" deaktivieren",
+    "u": 1682201066703
+  },
+  "excluded_domain": {
+    "message": "Bei \"$1\" deaktiviert",
+    "u": 1682201078014
+  },
+  "enable_contenteditable": {
+    "message": "Die Hervorhebung bei \"bearbeitbaren Inhalten\" aktivieren.",
+    "u": 1682201203320
   }
 }

@@ -6,7 +6,8 @@
     "message": "ScrollAnywhere"
   },
   "app_desc": {
-    "message": "Faites glisser la barre de défilement avec le bouton de la souris du milieu n'importe où sur la page. Soutient également le style \"saisir et faire glisser\"."
+    "message": "Faites glisser la barre de défilement avec le bouton de la souris du milieu n'importe où sur la page.",
+    "u": 1677511343938
   },
   "field_int_default_value": {
     "message": "Valeur par défaut: $1, min: $2, max: $3"
@@ -447,7 +448,7 @@
   },
   "o_about_intro": {
     "message": "Mon nom est  $1$ et je suis l'auteur de  $app_name$.",
-    "u": 1663597561092
+    "u": 1677511774482
   },
   "o_about_like_it": {
     "message": "Si l'add-on vous plaît, notez-le ici:"

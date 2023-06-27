@@ -402,5 +402,61 @@
   "_description_common_tags": {
     "message": "Теги:",
     "common": true
+  },
+  "all_pages": {
+    "message": "Усі сторінки",
+    "u": 1681834247559
+  },
+  "pagerank_color": {
+    "message": "Колір",
+    "u": 1681834272191
+  },
+  "pagerank_background": {
+    "message": "Тло",
+    "u": 1681834281139
+  },
+  "filter": {
+    "message": "Фільтр",
+    "u": 1684662562564
+  },
+  "enable_on_page": {
+    "message": "Увімкнути на \"$1\"",
+    "u": 1684662585634
+  },
+  "favicons": {
+    "message": "Мініатюри",
+    "u": 1684662590605
+  },
+  "favicon_placement_0": {
+    "message": "Без мініатюр",
+    "u": 1684662598684
+  },
+  "favicon_provider": {
+    "message": "Джерело мініатюр",
+    "u": 1684662604279
+  },
+  "label_left": {
+    "message": "Ліворуч",
+    "u": 1684662611988
+  },
+  "label_right": {
+    "message": "Праворуч",
+    "u": 1684662615314
+  },
+  "_description_credits": {
+    "message": "Подяки:",
+    "u": 1684662636169
+  },
+  "pagerank_theme_0": {
+    "message": "Веселка",
+    "u": 1684662645743
+  },
+  "pagerank_width": {
+    "message": "Ширина",
+    "u": 1684662648910
+  },
+  "pagerank_height": {
+    "message": "Висота",
+    "u": 1684662654268
   }
 }

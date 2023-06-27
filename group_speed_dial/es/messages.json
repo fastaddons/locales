@@ -2646,8 +2646,8 @@
     "u": 1644251649981
   },
   "make_group_default": {
-    "message": "Defecto",
-    "u": 1644251536912
+    "message": "Predeterminado",
+    "u": 1687713374845
   },
   "o_open_always_stop_opener_id_title": {
     "message": "Si la pestaña se abre con relación a la pestaña actual, se coloca cerca de la pestaña actual, y después de cerrarla, se vuelve a enfocar la pestaña (principal) abierta.",
@@ -2992,5 +2992,257 @@
   "ed_recently_closed_dial_help": {
     "message": "Muestra la lista de pestañas y ventanas cerradas recientemente y permite restaurarlas.",
     "u": 1663967304849
+  },
+  "timer_dial": {
+    "message": "Temporizador",
+    "u": 1673721475959
+  },
+  "ed_timer_dial": {
+    "message": "Diapositiva con temporizador",
+    "u": 1673721662223
+  },
+  "timer_type_0": {
+    "message": "Cuenta atrás",
+    "u": 1673721688644
+  },
+  "timer_type_1": {
+    "message": "Alarma",
+    "u": 1673721692468
+  },
+  "timer_type_2": {
+    "message": "Cronómetro",
+    "u": 1673721917596
+  },
+  "action_open_downloads_folder": {
+    "message": "Mostrar en la carpeta",
+    "u": 1673721965757
+  },
+  "remove_from_multi": {
+    "message": "Eliminar enlace",
+    "u": 1675005784908
+  },
+  "file_from_clipboard": {
+    "message": "Pegar imagen del portapapeles",
+    "u": 1675005799665
+  },
+  "o_import_chrome_bookmarks": {
+    "message": "Importar diapositivas desde el archivo \".html\" de marcadores de Chrome:",
+    "u": 1675005862228
+  },
+  "op_delete": {
+    "message": "Borrar",
+    "u": 1675005889350
+  },
+  "o_disable_drag_and_drop": {
+    "message": "Bloquear posición de las diapositivas (usa el menú principal para desbloquearlas)",
+    "u": 1675005954254
+  },
+  "unlock_drag_drop": {
+    "message": "Desbloquear diapositivas en movimiento",
+    "u": 1675005982921
+  },
+  "unexpected_err_help_0": {
+    "message": "El problema puede desaparecer después de reiniciar el navegador o el PC.",
+    "u": 1675006031555
+  },
+  "unexpected_err_help_1": {
+    "message": "Si tras reiniciar no funciona, por favor mira este artículo para más información:",
+    "u": 1675006106378
+  },
+  "unexpected_err_share": {
+    "message": "Enviar registro de errores a soporte:",
+    "u": 1675006134952
+  },
+  "cm_open_new_window": {
+    "message": "Abrir en nueva ventana",
+    "u": 1677703905429
+  },
+  "o_active_page_detection_title": {
+    "message": "Si la página ya está abierta, al hacer clic en la diapositiva se centrará en ella en lugar de abrirla de nuevo",
+    "u": 1678656584091
+  },
+  "o_active_page_detection": {
+    "message": "Detección de páginas ya abiertas (ver \"punto azul\" en el título de la diapositiva)",
+    "u": 1678656684606
+  },
+  "file_from_clipboard_help": {
+    "message": "Presiona \"Ctrl + V\" para pegar la imagen cuando tengas abierta la ventana \"Editar diapositiva\"",
+    "u": 1680986665066
+  },
+  "btn_done": {
+    "message": "Hecho",
+    "u": 1685198930811
+  },
+  "tag": {
+    "message": "Etiqueta",
+    "u": 1685198935754
+  },
+  "tags_edit": {
+    "message": "Editar etiquetas...",
+    "u": 1685198942612
+  },
+  "tag_in_use": {
+    "message": "Etiqueta usada en diapositivas:",
+    "u": 1685199011726
+  },
+  "tag_delete": {
+    "message": "Eliminar etiqueta",
+    "u": 1685199028074
+  },
+  "tag_icon": {
+    "message": "Icono",
+    "u": 1685199033212
+  },
+  "tag_color": {
+    "message": "Color",
+    "u": 1685199038035
+  },
+  "tag_name": {
+    "message": "Nombre",
+    "u": 1685199041797
+  },
+  "tag_edit": {
+    "message": "Editar etiqueta",
+    "u": 1685199049533
+  },
+  "save_tags_updated": {
+    "message": "Etiquetas actualizadas",
+    "u": 1685199057762
+  },
+  "tag_add": {
+    "message": "Añadir etiqueta",
+    "u": 1685199063625
+  },
+  "ed_tag": {
+    "message": "Etiqueta diapositiva",
+    "u": 1685199076593
+  },
+  "tag_none": {
+    "message": "Sin etiqueta",
+    "u": 1685199085100
+  },
+  "tag_shopping": {
+    "message": "Compras",
+    "u": 1685199090832
+  },
+  "tag_play": {
+    "message": "Videos",
+    "u": 1685199631536
+  },
+  "tag_work": {
+    "message": "Trabajo",
+    "u": 1685199130422
+  },
+  "ed_tab_tags": {
+    "message": "Etiquetas",
+    "u": 1685199145238
+  },
+  "eg_title_background_color": {
+    "message": "Título color de fondo:",
+    "u": 1685199168303
+  },
+  "eg_title_text_color": {
+    "message": "Título color del texto:",
+    "u": 1685199197690
+  },
+  "w_update_date": {
+    "message": "Actualizado",
+    "u": 1685199204256
+  },
+  "w_sunset": {
+    "message": "Atardecer",
+    "u": 1685199213425
+  },
+  "w_sunrise": {
+    "message": "Amanecer",
+    "u": 1685199218899
+  },
+  "w_clouds": {
+    "message": "Nublado",
+    "u": 1685199228221
+  },
+  "w_pressure": {
+    "message": "Presión",
+    "u": 1685199237427
+  },
+  "w_humidity": {
+    "message": "Humedad",
+    "u": 1685199242198
+  },
+  "w_wind_speed": {
+    "message": "Velocidad del viento",
+    "u": 1685199248899
+  },
+  "w_min_temp": {
+    "message": "Temperatura min.",
+    "u": 1685199284779
+  },
+  "w_max_temp": {
+    "message": "Temperatura max.",
+    "u": 1685199299626
+  },
+  "w_current_temp": {
+    "message": "Temperatura actual",
+    "u": 1685199307550
+  },
+  "weather_forecast_days": {
+    "message": "Días de previsión",
+    "u": 1685199360812
+  },
+  "weather_forecast": {
+    "message": "Previsión",
+    "u": 1685199366719
+  },
+  "weather_current": {
+    "message": "Mostrar actual",
+    "u": 1685199375962
+  },
+  "weather_unit_2": {
+    "message": "Fahrenheit",
+    "u": 1685199380977
+  },
+  "weather_unit_1": {
+    "message": "Celsius",
+    "u": 1685199385409
+  },
+  "weather_unit_0": {
+    "message": "Kelvin",
+    "u": 1685199387500
+  },
+  "weather_units": {
+    "message": "Unidades",
+    "u": 1685199397621
+  },
+  "longitude": {
+    "message": "Longitud",
+    "u": 1685199401249
+  },
+  "latitude": {
+    "message": "Latitud",
+    "u": 1685199404980
+  },
+  "city_name": {
+    "message": "Nombre de la ciudad",
+    "u": 1685199413254
+  },
+  "ed_weather_dial": {
+    "message": "Diapositiva tiempo:",
+    "u": 1685199436314
+  },
+  "hide_dial_favicon": {
+    "message": "Ocultar favicon de la diapositiva",
+    "u": 1685199525405
+  },
+  "op_undo": {
+    "message": "Deshacer el último cambio",
+    "u": 1686238804479
+  },
+  "save_history_undo": {
+    "message": "Deshacer cambio: $1",
+    "u": 1686238902434
+  },
+  "eg_group_icon": {
+    "message": "Icono del grupo",
+    "u": 1687713291689
   }
 }

@@ -117,7 +117,8 @@
     "message": "Fallback-Methode"
   },
   "fallback_title": {
-    "message": "Das modale Fenster und das Popup-Fenster können in einigen Fällen nicht verwendet werden."
+    "message": "Modales Fenster und Popups können manchmal nicht verwendet werden.",
+    "u": 1682201602490
   },
   "open_in_tab": {
     "message": "In neuem Tab öffnen"
@@ -164,7 +165,8 @@
     "message": "Mac App Store"
   },
   "chrome_store": {
-    "message": "Chrome WebStore-Seite"
+    "message": "Chrome WebStore",
+    "u": 1682201441348
   },
   "firefox_store": {
     "message": "Firefox Addon-Seite",
@@ -184,7 +186,8 @@
     "message": "Hinweis:"
   },
   "label_remove": {
-    "message": "Entfernen"
+    "message": "Löschen",
+    "u": 1682201423830
   },
   "label_warning": {
     "message": "WARNUNG:"
@@ -257,10 +260,12 @@
     "message": "Hallo :-)"
   },
   "o_about_intro": {
-    "message": "Mein Name ist $1$ und ich bin der Autor von $app_name$."
+    "message": "Mein Name ist $1$ und ich bin der $app_name$ Autor.",
+    "u": 1682201328349
   },
   "o_about_like_it": {
-    "message": "Wenn es Ihnen gefällt, bewerten Sie es bitte hier:"
+    "message": "Wenn es Ihnen gefällt, bitte hier bewerten:",
+    "u": 1682201293876
   },
   "o_about_thanks": {
     "message": "Vielen Dank!"

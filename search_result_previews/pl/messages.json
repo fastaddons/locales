@@ -402,5 +402,13 @@
   "_description_common_tags": {
     "message": "Tagi:",
     "common": true
+  },
+  "label_left": {
+    "message": "Lewy",
+    "u": 1674554637854
+  },
+  "label_right": {
+    "message": "Prawy",
+    "u": 1674554643277
   }
 }

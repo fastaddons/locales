@@ -3,7 +3,8 @@
     "message": "var som helst, knapp, markör, dra, gripa, ta tag i, ta tag och dra, oändlig, vänster, mitt, momentum, mus, flytta, sida, höger, bläddra, bläddra sida, rullningsfält, rulla, kasta"
   },
   "app_name": {
-    "message": "ScrollAnywhere"
+    "message": "ScrollAnywhere",
+    "u": 1677512354219
   },
   "app_desc": {
     "message": "Dra rullningslisten med din mittmusknapp var som helst på sidan. Stöder även \"ta och dra\" och rörelsemängd."

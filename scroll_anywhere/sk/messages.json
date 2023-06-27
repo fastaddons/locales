@@ -417,10 +417,12 @@
     "message": "Vypnuté na tejto doméne"
   },
   "not_working_title": {
-    "message": "Váš prehliadač nepovolí ScrollAnywhere doplnok na týchto typoch stránok:"
+    "message": "Váš prehliadač nepovolí $app_name$ doplnok na týchto typoch stránok:",
+    "u": 1677511102544
   },
   "not_working_body": {
-    "message": "Ak chcete povoliť tento doplnok na stránkach \"mozilla.org\", pozrite si tento YouTube návod"
+    "message": "Ak chcete povoliť $app_name$ na stránkach \"mozilla.org\", pozrite si tento YouTube návod",
+    "u": 1677511111610
   },
   "show_scrollbars": {
     "message": "Zobraziť posuvníky"
@@ -444,7 +446,8 @@
     "message": "Ahoj :)"
   },
   "o_about_intro": {
-    "message": "Volám sa Juraj Mäsiar, som z Dolného Kubína a som autorom rozšírenia ScrollAnywhere."
+    "message": "Volám sa $1$, som z Dolného Kubína a som autorom rozšírenia $app_name$.",
+    "u": 1677511073519
   },
   "o_about_like_it": {
     "message": "Ak sa ti páči, neváhaj a napíš mi hodnotenie tu:"
@@ -575,5 +578,9 @@
   "o_cursor_both": {
     "message": "Skrolovanie v oboch smeroch",
     "u": 1649764198696
+  },
+  "edge_store": {
+    "message": "Edge doplnky",
+    "u": 1667295781397
   }
 }

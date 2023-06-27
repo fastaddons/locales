@@ -327,5 +327,9 @@
   "_description_also_for_thunderbird": {
     "message": "也支持 Thunderbird：",
     "u": 1638017473490
+  },
+  "open_in_modal_window": {
+    "message": "在模态窗口中打开",
+    "u": 1670431065836
   }
 }
