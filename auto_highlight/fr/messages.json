@@ -24,7 +24,8 @@
     "message": "Auto Highlight"
   },
   "app_desc": {
-    "message": "$app_name$ mettra automatiquement en surbrillance les mots définis sur les pages définies."
+    "message": "Auto Highlight mettra automatiquement en surbrillance les mots définis sur les pages définies.",
+    "u": 1693383152957
   },
   "match_type": {
     "message": "Type de match:"

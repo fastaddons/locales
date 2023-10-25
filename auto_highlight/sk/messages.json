@@ -24,7 +24,8 @@
     "message": "Auto Highlight"
   },
   "app_desc": {
-    "message": "$app_name$ automaticky zvýrazní definované slová na definovaných stránkach."
+    "message": "Auto highlight automaticky zvýrazní definované slová na definovaných stránkach.",
+    "u": 1693382884468
   },
   "match_type": {
     "message": "Typ zhody:"

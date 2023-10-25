@@ -24,7 +24,7 @@
     "message": "Auto Highlight"
   },
   "app_desc": {
-    "message": "$app_name$ will automatically highlight defined words on defined pages."
+    "message": "Auto Highlight is text highlighter with RegExp support"
   },
   "match_type": {
     "message": "Match type:"

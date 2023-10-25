@@ -9,7 +9,8 @@
     "message": "Markera metadata som:"
   },
   "_description_ah_use_cases_2": {
-    "message": "Markera \"Gratis frakt\" :)"
+    "message": "Markera \"Gratis frakt\" :)",
+    "u": 1687852216380
   },
   "_description_ah_use_cases_3": {
     "message": "Letar du efter något specifikt på webben? Använd \"Tidsmässiga höjdpunkter\" för att hjälpa dig att hitta den på alla sidor. Tidsmässiga höjdpunkter tas bort automatiskt när du stänger webbläsaren."
@@ -24,7 +25,8 @@
     "message": "Auto Highlight"
   },
   "app_desc": {
-    "message": "$app_name$ markerar automatiskt definierade ord på definierade sidor."
+    "message": "Auto Highlight markerar automatiskt definierade ord på definierade sidor.",
+    "u": 1693383126211
   },
   "match_type": {
     "message": "Matchstyp:"
@@ -660,5 +662,9 @@
   "_description_common_tags": {
     "message": "Taggar:",
     "common": true
+  },
+  "experimental": {
+    "message": "Experimentell",
+    "u": 1687852424400
   }
 }

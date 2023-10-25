@@ -322,5 +322,9 @@
   "open_in_modal_window": {
     "message": "In modalem Fenster öffnen",
     "u": 1655640299525
+  },
+  "email_translate": {
+    "message": "E-Mail übersetzen",
+    "u": 1689257552994
   }
 }

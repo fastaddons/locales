@@ -285,5 +285,8 @@
   },
   "open_in_modal_window": {
     "message": "Open in modal window"
+  },
+  "email_translate": {
+    "message": "Translate e-mail"
   }
 }
