@@ -3,7 +3,7 @@
     "message": "Group Speed Dial"
   },
   "app_desc": {
-    "message": "The most advanced Speed Dial in the world for your bookmarks! This will improve your productivity!"
+    "message": "The most advanced Speed Dial for your bookmarks! Speed-up your productivity with fast access to your favorite websites and tools."
   },
   "welcome_header": {
     "message": "Welcome in $app_name$ add-on"
@@ -19,9 +19,6 @@
   },
   "welcome_home_group": {
     "message": "Current \"Home group\" has 4 x 3 dials, you can change it here:"
-  },
-  "welcome_import_josep_del_rio": {
-    "message": "there is an import feature from \"Speed Dial by Josep del Rio\" and others in the options:"
   },
   "welcome_options_page": {
     "message": "Options page"
@@ -589,9 +586,6 @@
   },
   "pro_upgrade_label": {
     "message": "Upgrade to Pro"
-  },
-  "pro_upgrade_now_label": {
-    "message": "Upgrade now to Pro"
   },
   "sync_down_thumbnails_title": {
     "message": "Downloading thumbnails"
@@ -1229,9 +1223,6 @@
   "o_add_current_after_action_2": {
     "message": "Stay on dials page"
   },
-  "o_theme_title": {
-    "message": "default: black - for better sleep at night!"
-  },
   "o_sync_dials": {
     "message": "Dials data synchronization"
   },
@@ -1247,26 +1238,14 @@
   "o_auto_options_sync": {
     "message": "Automatically backup and synchronize your options with all devices"
   },
-  "o_group_font_size_title": {
-    "message": "Size of text in the upper bar."
-  },
   "o_recommended_for_performance_title": {
     "message": "Recommended for best performance."
-  },
-  "o_two_gradient_colors_title": {
-    "message": "Select at least 2 colors to use gradient. - Using complicated gradient background may slightly impact performance."
-  },
-  "o_background_preview_title": {
-    "message": "Background preview"
   },
   "o_big_picture_warning_title": {
     "message": "Using too big pictures may negatively affect performance (new tab loading time)."
   },
   "o_no_title": {
     "message": "No title on dials (thumbnails only)"
-  },
-  "o_squared_edges": {
-    "message": "No round corners"
   },
   "o_dial_font_size": {
     "message": "Dial names Font size"
@@ -1277,14 +1256,8 @@
   "o_scrollable_thumbnails": {
     "message": "Allow scrolling thumbnail inside dial"
   },
-  "o_no_shadow": {
-    "message": "No shadow around dials"
-  },
   "o_hide_empty_dials": {
     "message": "Hide empty dials"
-  },
-  "o_hide_hover_shadow": {
-    "message": "Hide on-hover shadow"
   },
   "o_dial_numbers_title": {
     "message": "Dial numbers will be shown next to dial name. Numbers for dials are useful when you want to use \"Ctrl + Number for Group Speed Dial\" add-on to open dials using keyboard shortcuts."
@@ -1300,9 +1273,6 @@
   },
   "o_hide_add_group": {
     "message": "Hide \"+\" button at the end of groups list"
-  },
-  "o_hide_add_group_title": {
-    "message": "Hides + button"
   },
   "o_root_groups_only": {
     "message": "Hide nested groups from group list (top bar)"
@@ -1322,26 +1292,14 @@
   "o_prevent_new_tab_container": {
     "message": "Prevent opening dials page in Firefox container"
   },
-  "o_prevent_new_tab_container_title": {
-    "message": "Dials page will be opened without container"
-  },
-  "o_group_name_as_title_title": {
-    "message": "Group name will be set as page Title - this can then be visible as a Tab name or name on the task-bar."
-  },
   "o_instant_popup_redirect": {
     "message": "Toolbar icon - instant redirect to dials page"
   },
   "o_instant_popup_new_tab": {
     "message": "open in new tab"
   },
-  "o_instant_popup_new_tab_title": {
-    "message": "New tab will be opened next to current tab."
-  },
   "o_user_consent_google_favicon": {
     "message": "Enable usage of Google service to get Favicons for dials (used only when favicon cannot be downloaded directly) - recommended"
-  },
-  "o_instant_popup_redirect_title": {
-    "message": "Click the toolbar icon to open dials page"
   },
   "o_disable_quick_edit": {
     "message": "Disable quick edit with left click"
@@ -1352,14 +1310,8 @@
   "o_open_always_new_window": {
     "message": "Always open in New window"
   },
-  "o_open_always_new_window_title": {
-    "message": "Clicking dial will open its URL in new window"
-  },
   "o_open_always_new_tab": {
     "message": "Always open in New tab"
-  },
-  "o_open_always_new_tab_title": {
-    "message": "Clicking dial will open its URL in new tab"
   },
   "o_open_always_include_group_dials": {
     "message": "Including group-dials"
@@ -1367,23 +1319,14 @@
   "o_open_always_focused": {
     "message": "Auto-switch to new tab"
   },
-  "o_open_always_focused_title": {
-    "message": "Newly opened tab will be also focused"
-  },
   "o_remember_group": {
     "message": "Remember last opened group"
-  },
-  "o_remember_group_title": {
-    "message": "When enabled, next time you open New tab page, you will be redirected to the last visited group."
   },
   "o_remember_group_runtime": {
     "message": "Remember only till browser restart"
   },
   "o_disable_auto_show_groups": {
     "message": "Disable auto-show groups list when using Drag and Drop"
-  },
-  "o_disable_auto_show_groups_title": {
-    "message": "By default when you Drag and drop dials - the whole group list is visible to enable moving between all groups."
   },
   "o_scroll_groups": {
     "message": "Scroll through groups"
@@ -1397,14 +1340,8 @@
   "o_scroll_groups_circle": {
     "message": "Circle through beginning/end"
   },
-  "o_scroll_groups_circle_title": {
-    "message": "When end is reached, further scrolling will jump to the beginning (and vice-versa)."
-  },
   "o_visit_jpeg_high_resolution": {
     "message": "Use high resolution"
-  },
-  "o_visit_jpeg_high_resolution_title": {
-    "message": "Thumbnail will have double resolution to improve quality."
   },
   "o_context_menu_show_groups": {
     "message": "Show list of groups in context menu for fast insert"
@@ -1538,9 +1475,6 @@
   "o_key_force_page_focus": {
     "message": "Force focus on the page (experimental - may stop working)"
   },
-  "o_key_force_page_focus_title": {
-    "message": "If address-bar is focused, we will try to focus the page instead. It will however disable \"Back\" button after navigation. This is experimental feature and it may stop working in new Firefox versions."
-  },
   "o_key_to_group_dial": {
     "message": "Enable access to groups while holding key:"
   },
@@ -1550,20 +1484,11 @@
   "o_key_disable_alt": {
     "message": "Disable \"Alt\" / \"CMD\" shortcuts"
   },
-  "o_key_disable_alt_title": {
-    "message": "Disables shortcuts using \"Alt\" key on Windows and \"CMD\" command key on Mac OS."
-  },
   "o_key_disable_ctrl": {
     "message": "Disable \"Ctrl\" shortcuts"
   },
-  "o_key_disable_ctrl_title": {
-    "message": "Disables shortcuts using \"Ctrl\" control key."
-  },
   "o_key_disable_shift": {
     "message": "Disable \"Shift\" shortcuts"
-  },
-  "o_key_disable_shift_title": {
-    "message": "Disables shortcuts using \"Shift\" key, for example \"Ctrl + Shift + 1\" or \"Alt + Shift + 1\"."
   },
   "o_key_disable_f4": {
     "message": "Disable \"F4\" short-key to open New tab"
@@ -1574,14 +1499,8 @@
   "o_key_disable_zero": {
     "message": "Disable \"Ctrl + 0\" short-key to open 10th dial"
   },
-  "o_key_disable_zero_title": {
-    "message": "Pressing key \"Ctrl + 0\" (used also for \"Reset zoom\") will no longer open dial number 10."
-  },
   "o_key_new_tab": {
     "message": "Open in New tab"
-  },
-  "o_key_new_tab_title": {
-    "message": "Dialed dials will be opened in new tabs."
   },
   "o_key_next_to_current": {
     "message": "Next to current tab"
@@ -1592,17 +1511,8 @@
   "o_ar_settings": {
     "message": "Auto-reload settings"
   },
-  "o_ar_disable_this_device": {
-    "message": "Disable on this device"
-  },
-  "o_ar_disable_this_device_title": {
-    "message": "Auto-reload will be disabled in this browser."
-  },
   "o_ar_keep_pinned_tab": {
     "message": "Keep reloading tab opened after reloading"
-  },
-  "o_ar_keep_pinned_tab_title": {
-    "message": "The tab used for creating thumbnails will stay opened after the reload."
   },
   "o_ar_screen_resolution": {
     "message": "Auto-reload target screen resolution"
@@ -1617,7 +1527,7 @@
     "message": "Thumbnail resolution is computed from the size of the screen and target group size."
   },
   "o_vr_screen_resolution": {
-    "message": "Virtual page resolution used when generating thumbnail."
+    "message": "Virtual page resolution used when generating thumbnail"
   },
   "o_vr_default_width": {
     "message": "Default virtual page width"
@@ -1659,7 +1569,7 @@
     "message": "Export settings and dials"
   },
   "o_export_thumbnails": {
-    "message": "export also thumbnails - this will greatly increase export file size"
+    "message": "Export also thumbnails - this will greatly increase export file size"
   },
   "o_import_other_addons": {
     "message": "Import from other add-ons:"
@@ -2097,10 +2007,6 @@
   },
   "op_help_introduction": {
     "message": "Introduction video",
-    "common": true
-  },
-  "op_help_safari_setup": {
-    "message": "Safari Setup",
     "common": true
   },
   "op_help_android_setup": {
@@ -2586,9 +2492,6 @@
   "o_hover_bold": {
     "message": "Make dial title bold"
   },
-  "o_transparent_head": {
-    "message": "Transparent dial name background (puts focus on thumbnail)"
-  },
   "mouse_over_effects": {
     "message": "Mouse over effects:"
   },
@@ -2927,5 +2830,368 @@
   },
   "eg_group_icon": {
     "message": "Group icon"
+  },
+  "group_layout_fixed": {
+    "message": "fixed layout"
+  },
+  "group_layout_fixed_help": {
+    "message": "Fixed layouts keep your dials in their place even when you add or remove dial."
+  },
+  "label_applies_to": {
+    "message": "Applies to:",
+    "common": true
+  },
+  "title_gestures": {
+    "message": "Gestures"
+  },
+  "group_gestures": {
+    "message": "Group gestures"
+  },
+  "gesture_action_0": {
+    "message": "No action"
+  },
+  "gesture_action_1": {
+    "message": "Open group"
+  },
+  "gesture_action_2": {
+    "message": "Next group"
+  },
+  "gesture_action_3": {
+    "message": "Previous group"
+  },
+  "o_no_group_gestures": {
+    "message": "Disable gestures"
+  },
+  "o_gesture_btn": {
+    "message": "Perform gestures using:"
+  },
+  "o_gesture_btn_middle": {
+    "message": "Middle mouse button"
+  },
+  "o_gesture_btn_right": {
+    "message": "Right mouse button"
+  },
+  "o_gesture_reverse": {
+    "message": "Reverse direction"
+  },
+  "gesture_action": {
+    "message": "Gesture action"
+  },
+  "gesture_action_4": {
+    "message": "Default group"
+  },
+  "share_dials": {
+    "message": "Share dials"
+  },
+  "share_privacy_open": {
+    "message": "Anyone with the link will be able to view / import shared dials."
+  },
+  "share_privacy_password": {
+    "message": "Protect with password"
+  },
+  "refresh_cloud": {
+    "message": "Create thumbnail in the cloud"
+  },
+  "refresh_cloud_title": {
+    "message": "Thumbnail will be created in the cloud server without interrupting your work."
+  },
+  "server_location": {
+    "message": "Server location"
+  },
+  "server_location_list": {
+    "message": "Available server locations:"
+  },
+  "share_as_list": {
+    "message": "Convert to list"
+  },
+  "label_restore": {
+    "message": "Restore",
+    "common": true
+  },
+  "share_link_create": {
+    "message": "Create shared link"
+  },
+  "share_encrypted": {
+    "message": "E2E encryption details"
+  },
+  "share_name": {
+    "message": "Name this selection"
+  },
+  "share_link": {
+    "message": "Link to shared dials"
+  },
+  "share_manage": {
+    "message": "manage shared links"
+  },
+  "op_bing_info": {
+    "message": "Bing image info"
+  },
+  "s_gmail": {
+    "message": "Google Mail",
+    "common": true
+  },
+  "label_decrypting": {
+    "message": "Decrypting...",
+    "common": true
+  },
+  "share_err_not_found": {
+    "message": "Shared dials not found (deleted or invalid link)"
+  },
+  "shared_groups": {
+    "message": "Shared groups"
+  },
+  "share_import_all": {
+    "message": "Import all groups"
+  },
+  "share_import_group": {
+    "message": "Import group \"$1\""
+  },
+  "share_addon_required": {
+    "message": "To import shared dials, you need to install $app_name$."
+  },
+  "share_group": {
+    "message": "Share group"
+  },
+  "share_unlock": {
+    "message": "Unlock shared dials"
+  },
+  "label_more_options": {
+    "message": "more options...",
+    "common": true
+  },
+  "group_layout_original": {
+    "message": "original"
+  },
+  "title_success": {
+    "message": "Success",
+    "common": true
+  },
+  "title_error": {
+    "message": "Error",
+    "common": true
+  },
+  "title_warning": {
+    "message": "Warning",
+    "common": true
+  },
+  "cm_cut_link": {
+    "message": "Cut link"
+  },
+  "cm_paste_link": {
+    "message": "Paste link"
+  },
+  "save_link_moved": {
+    "message": "link moved - $1"
+  },
+  "show_runtime_errors": {
+    "message": "Show error logs...",
+    "common": true
+  },
+  "homepage": {
+    "message": "Homepage",
+    "common": true
+  },
+  "addon_page": {
+    "message": "Addon page",
+    "common": true
+  },
+  "msg_search_groups": {
+    "message": "Groups"
+  },
+  "search_results": {
+    "message": "Search results:",
+    "common": true
+  },
+  "search_locate_dial": {
+    "message": "Locate dial",
+    "common": true
+  },
+  "pro_features_list": {
+    "message": "List of PRO features",
+    "common": true
+  },
+  "pro_activate": {
+    "message": "To activate your PRO features, login to your account:",
+    "common": true
+  },
+  "about_thanks": {
+    "message": "Thank you for supporting my work!",
+    "common": true
+  },
+  "cloud_account": {
+    "message": "Cloud account",
+    "common": true
+  },
+  "label_delay": {
+    "message": "Delay:",
+    "common": true
+  },
+  "o_rows": {
+    "message": "rows",
+    "common": true
+  },
+  "o_thumbnails_sync": {
+    "message": "Thumbnails synchronization"
+  },
+  "o_export_all": {
+    "message": "Export all"
+  },
+  "o_export_dials_help": {
+    "message": "Export without thumbnails"
+  },
+  "o_import_backup": {
+    "message": "Import backup file"
+  },
+  "label_tutorial": {
+    "message": "Tutorial",
+    "common": true
+  },
+  "import_chrome_button": {
+    "message": "Import \"bookmarks.html\" file..."
+  },
+  "firefox_import_in_tab": {
+    "message": "To import your backup, reopen this window in a new tab:",
+    "common": true
+  },
+  "o_dial_header_title": {
+    "message": "Dial title background"
+  },
+  "o_dial_header_0": {
+    "message": "Solid color"
+  },
+  "o_dial_header_1": {
+    "message": "Transparent"
+  },
+  "o_dial_header_9": {
+    "message": "Gradient"
+  },
+  "o_curved_edges": {
+    "message": "Curved edges"
+  },
+  "o_theme_style": {
+    "message": "Theme style:"
+  },
+  "theme_name_default": {
+    "message": "Default"
+  },
+  "theme_name_transparent": {
+    "message": "Transparent"
+  },
+  "theme_name_legacy": {
+    "message": "Legacy (old)"
+  },
+  "theme_name_sharp": {
+    "message": "Sharp"
+  },
+  "theme_name_thumbnails": {
+    "message": "Thumbnails"
+  },
+  "theme_name_blue": {
+    "message": "Blue"
+  },
+  "theme_name_backup": {
+    "message": "Backup"
+  },
+  "label_customize": {
+    "message": "Customize",
+    "common": true
+  },
+  "o_dial_header_font": {
+    "message": "Dial title font"
+  },
+  "o_dial_border_0": {
+    "message": "Solid color"
+  },
+  "o_dial_border_1": {
+    "message": "Shadow"
+  },
+  "o_dial_border_9": {
+    "message": "None"
+  },
+  "o_dial_border": {
+    "message": "Dial border type"
+  },
+  "o_dial_shadow_color": {
+    "message": "Dial shadow color"
+  },
+  "o_dial_shadow_blur": {
+    "message": "Blur:"
+  },
+  "o_milliseconds_short": {
+    "message": "ms",
+    "common": true
+  },
+  "o_seconds_short": {
+    "message": "s",
+    "common": true
+  },
+  "theme_name_green": {
+    "message": "Green"
+  },
+  "o_hover_none": {
+    "message": "No effect"
+  },
+  "theme_name_neon": {
+    "message": "Neon"
+  },
+  "o_ar_disable_in_browser": {
+    "message": "Disable in this browser"
+  },
+  "about_cloud_dials": {
+    "message": "About Cloud-dials"
+  },
+  "return_to_extension": {
+    "message": "Return to extension"
+  },
+  "install_extension": {
+    "message": "Install extension"
+  },
+  "search_provider_input_raw": {
+    "message": "Don't escape special characters"
+  },
+  "label_see_also": {
+    "message": "See also:",
+    "common": true
+  },
+  "cm_persist_storage": {
+    "message": "Allow persistent storage"
+  },
+  "o_split_dial_gap": {
+    "message": "Split dials gap:"
+  },
+  "o_percent": {
+    "message": "percent",
+    "common": true
+  },
+  "loading": {
+    "message": "Loading...",
+    "common": true
+  },
+  "cm_clone_group": {
+    "message": "Clone group"
+  },
+  "o_hide_dial_plus": {
+    "message": "Hide last \"+\" dial in dynamic layout"
+  },
+  "cm_hide_dial": {
+    "message": "Hide \"+\" dial"
+  },
+  "load_web_images": {
+    "message": "Search page for images"
+  },
+  "load_images_result": {
+    "message": "Images found:"
+  },
+  "report_image_done": {
+    "message": "Image reported"
+  },
+  "lock_auto_open_group": {
+    "message": "Auto-open group when unlocked"
+  },
+  "o_thumb_sync_auto_reload": {
+    "message": "Include dials with Auto-reload enabled"
+  },
+  "logos_lookup": {
+    "message": "Lookup logos"
   }
 }

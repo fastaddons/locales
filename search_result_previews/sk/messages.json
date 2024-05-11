@@ -602,5 +602,33 @@
   "account_required": {
     "message": "potrebný webový účet",
     "u": 1686905894722
+  },
+  "pagerank_subtitle": {
+    "message": "Hodnotenie stránok vo výsledkoch vyhľadávania",
+    "u": 1709648820794
+  },
+  "pagerank_enable_badge": {
+    "message": "Zobraziť Hodnotenie stránky pre aktuálnu kartu v panely nástrojov",
+    "u": 1709648900499
+  },
+  "pagerank_badge": {
+    "message": "Hodnotenie stránky v ikone",
+    "u": 1709648956815
+  },
+  "pagerank_enable_badge_hint": {
+    "message": "Vyžaduje nové oprávnenie \"Prístup ku kartám\"",
+    "u": 1709649013917
+  },
+  "manage_account": {
+    "message": "Spravovať účet",
+    "u": 1709649021103
+  },
+  "try_premium": {
+    "message": "Vyskúšajte Premium zadarmo (do reštartu)",
+    "u": 1709825542877
+  },
+  "trial_active": {
+    "message": "Skúšobná verzia aktívna",
+    "u": 1709825561253
   }
 }

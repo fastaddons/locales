@@ -1860,7 +1860,8 @@
     "message": "Dials von SpeedDial [FVD] \"by Nimbus Web\" importieren:"
   },
   "o_import_firefox_bookmarks": {
-    "message": "Importieren der Dialoge aus der Firefox-Bookmarks-\".json\"-Datei:"
+    "message": "Dialoge aus der Firefox-Bookmarks-\".json\" Datei importieren:",
+    "u": 1714932576481
   },
   "o_import_fast_dial": {
     "message": "Importieren Sie Dials vom \"Fast Dial von Telega\"-Addon:"
@@ -1884,7 +1885,8 @@
     "message": "Thumbnails für automatischen Upload"
   },
   "o_picture_from_url": {
-    "message": "Bild von URL:"
+    "message": "Bild-URL:",
+    "u": 1714932533980
   },
   "o_picture_is_web_page": {
     "message": "Webseite als Hintergrund:"
@@ -1908,7 +1910,8 @@
     "message": "nichts (am schnellsten)"
   },
   "o_watch_youtube_import": {
-    "message": "Sehen Sie sich Tutorials auf YouTube an!"
+    "message": "Eine Anleitung auf YouTube ansehen",
+    "u": 1714932506111
   },
   "o_cloud_backup_instead": {
     "message": "Sie können auch ein kostenloses Cloudkonto (z.B.: Dropbox) erstellen und die Dials automatisch in der Cloud sichern. Die Daten werden über eine verschlüsselte SSL-Verbindung übertragen."
@@ -1918,7 +1921,8 @@
     "u": 1679327282896
   },
   "reload_subheading": {
-    "message": "Dieser Tab wird von der automatischen Neuladefunktion verwendet, um Thumbnails im Hintergrund zu erstellen."
+    "message": "Dieser Tab wird von der AutoNeuladen-Funktion verwendet, um Thumbnails im Hintergrund zu erstellen.",
+    "u": 1714932446046
   },
   "archive": {
     "message": "Archiv"
@@ -1945,10 +1949,12 @@
     "message": "Produktivitätsmodus"
   },
   "productivity_mode_title": {
-    "message": "Während der Arbeitszeit ablenkende Dials automatisch ausblenden, damit Sie sich besser konzentrieren können."
+    "message": "Während der Arbeitszeit ablenkende Dials AutoAusblenden, damit Sie sich besser konzentrieren können.",
+    "u": 1714932408675
   },
   "auto_productivity_mode": {
-    "message": "Automatischen Produktivitätsmodus planen"
+    "message": "AutoProduktivitätsmodus planen",
+    "u": 1714932374757
   },
   "active_days": {
     "message": "Aktive Tage"
@@ -2002,7 +2008,8 @@
     "message": "Musik"
   },
   "sc_7": {
-    "message": "Filme"
+    "message": "Video",
+    "u": 1714932333679
   },
   "sc_8": {
     "message": "Andere"
@@ -2068,12 +2075,14 @@
     "common": true
   },
   "color_black": {
-    "message": "Dunkel",
-    "common": true
+    "message": "Schwarz",
+    "common": true,
+    "u": 1714932273823
   },
   "color_white": {
-    "message": "Hell",
-    "common": true
+    "message": "Weiss",
+    "common": true,
+    "u": 1714932258825
   },
   "theme_light": {
     "message": "Hell",
@@ -2176,8 +2185,9 @@
     "common": true
   },
   "label_not_supported_by_browser": {
-    "message": "Wird von diesem Browser nicht unterstützt.",
-    "common": true
+    "message": "Wird vom Browser nicht unterstützt.",
+    "common": true,
+    "u": 1714932202315
   },
   "label_remove": {
     "message": "Entfernen",
@@ -2309,8 +2319,9 @@
     "common": true
   },
   "op_support_me": {
-    "message": "Diesem Projekt helfen",
-    "common": true
+    "message": "Dem Projekt helfen",
+    "common": true,
+    "u": 1714932147987
   },
   "op_help": {
     "message": "Hilfe",
@@ -2373,12 +2384,14 @@
     "common": true
   },
   "o_tab_shot_keys": {
-    "message": "Kurztasten",
-    "common": true
+    "message": "Verknüpfungen",
+    "common": true,
+    "u": 1714932086091
   },
   "o_tab_import": {
-    "message": "Import & Sichern",
-    "common": true
+    "message": "Import/Backup",
+    "common": true,
+    "u": 1714932052412
   },
   "o_tab_about": {
     "message": "Über",
@@ -2425,12 +2438,14 @@
     "common": true
   },
   "o_about_like_it": {
-    "message": "Wenn Ihnen GroupSpeedDial gefällt, bewerten Sie es bitte hier:",
-    "common": true
+    "message": "Gefällt es Ihnen, bitte hier bewerten:",
+    "common": true,
+    "u": 1714932009905
   },
   "o_about_dislike_it": {
-    "message": "Wenn es Ihnen nicht gefällt, schreiben Sie mir eine E-Mail, wieso nicht, oder mit Vorschlägen. Ich implementiere die meisten Feature-Anfragen die mir gesendet werden, das ist eine Menge an Arbeit.",
-    "common": true
+    "message": "Wenn es Ihnen nicht gefällt, teilen Sie mir bitte per E-Mail mit, warum. Ich setze die meisten Funktionswünsche um, die ich erhalte.",
+    "common": true,
+    "u": 1714931914813
   },
   "o_about_support_by": {
     "message": "Bitte ehren Sie meine Arbeit, indem Sie",
@@ -2445,8 +2460,9 @@
     "common": true
   },
   "o_about_support_by_update": {
-    "message": "die Pro-Version kaufen",
-    "common": true
+    "message": "Pro-Version kaufen",
+    "common": true,
+    "u": 1714931861012
   },
   "o_about_thanks": {
     "message": "Vielen Dank!",
@@ -2465,8 +2481,9 @@
     "common": true
   },
   "o_about_support_reply": {
-    "message": "Ich kann nur auf Englisch oder Slowakisch antworten",
-    "common": true
+    "message": "Ich kann nur auf Englisch/Slowakisch antworten",
+    "common": true,
+    "u": 1714931847115
   },
   "o_about_social_media": {
     "message": "SocialMedia:",
@@ -3263,5 +3280,457 @@
   "eg_group_icon": {
     "message": "Gruppensymbol",
     "u": 1686909114516
+  },
+  "show_runtime_errors": {
+    "message": "Fehlerprotokolle zeigen...",
+    "u": 1699976785647
+  },
+  "save_link_moved": {
+    "message": "Link verschoben - $1",
+    "u": 1699976829446
+  },
+  "cm_paste_link": {
+    "message": "Link einfügen",
+    "u": 1699976874103
+  },
+  "cm_cut_link": {
+    "message": "Link ausschneiden",
+    "u": 1699976894037
+  },
+  "title_warning": {
+    "message": "Warnung",
+    "u": 1699976903042
+  },
+  "title_error": {
+    "message": "Fehler",
+    "u": 1699976910037
+  },
+  "group_layout_original": {
+    "message": "Original",
+    "u": 1699976923034
+  },
+  "title_success": {
+    "message": "Erfolg",
+    "u": 1699976944424
+  },
+  "label_more_options": {
+    "message": "mehr Optionen...",
+    "u": 1699976975112
+  },
+  "share_unlock": {
+    "message": "Freigegebene Dials entsperren",
+    "u": 1699977032970
+  },
+  "share_group": {
+    "message": "Gruppe teilen",
+    "u": 1699977045702
+  },
+  "share_addon_required": {
+    "message": "Um gemeinsame Dials zu importieren, müssen Sie $app_name$ installieren.",
+    "u": 1699977113647
+  },
+  "share_import_group": {
+    "message": "\"$1\" Gruppe importieren",
+    "u": 1699977156634
+  },
+  "share_import_all": {
+    "message": "Alle Gruppen importieren",
+    "u": 1699977183962
+  },
+  "shared_groups": {
+    "message": "Geteilte Gruppen",
+    "u": 1699977244326
+  },
+  "share_err_not_found": {
+    "message": "Geteilte Dials nicht gefunden (gelöschter o. ungültiger Link)",
+    "u": 1699977308701
+  },
+  "label_decrypting": {
+    "message": "Entschlüsselung...",
+    "u": 1699977349602
+  },
+  "s_gmail": {
+    "message": "Gmail",
+    "u": 1699977371376
+  },
+  "op_bing_info": {
+    "message": "Bing Bildinfo",
+    "u": 1699977389401
+  },
+  "share_manage": {
+    "message": "geteilte Links managen",
+    "u": 1699977425981
+  },
+  "share_link": {
+    "message": "Link zu geteilten Dials",
+    "u": 1699977460666
+  },
+  "share_name": {
+    "message": "Diese Auswahl benennen",
+    "u": 1699977529763
+  },
+  "share_encrypted": {
+    "message": "E2E-Verschlüsseldetails",
+    "u": 1699977584056
+  },
+  "share_link_create": {
+    "message": "Geteilten Link erstellen",
+    "u": 1699977608241
+  },
+  "label_restore": {
+    "message": "Wiederherstellen",
+    "u": 1699977623550
+  },
+  "share_as_list": {
+    "message": "In Liste konvertieren",
+    "u": 1699977644174
+  },
+  "server_location_list": {
+    "message": "Verfügbare Serverstandorte:",
+    "u": 1699977673238
+  },
+  "server_location": {
+    "message": "Serverstandorte",
+    "u": 1699977683632
+  },
+  "refresh_cloud_title": {
+    "message": "Thumbnails werden am Cloudserver erstellt, ohne Ihre Arbeit zu unterbrechen.",
+    "u": 1699977783676
+  },
+  "refresh_cloud": {
+    "message": "Thumbnails in der Cloud erstellen",
+    "u": 1699977824208
+  },
+  "share_privacy_password": {
+    "message": "Mit Passwort schützen",
+    "u": 1699977845978
+  },
+  "share_privacy_open": {
+    "message": "Jeder, der über den Link verfügt, kann geteilte Dials anzeigen/importieren.",
+    "u": 1699977955419
+  },
+  "share_dials": {
+    "message": "Dials teilen",
+    "u": 1699977932737
+  },
+  "gesture_action_4": {
+    "message": "Standardgruppe",
+    "u": 1699977969482
+  },
+  "gesture_action": {
+    "message": "Gestenaktion",
+    "u": 1699977990493
+  },
+  "o_gesture_reverse": {
+    "message": "Richtung umkehren",
+    "u": 1699978017064
+  },
+  "o_gesture_btn_right": {
+    "message": "Rechte Maustaste",
+    "u": 1699978035065
+  },
+  "o_gesture_btn_middle": {
+    "message": "Mittlere Maustaste",
+    "u": 1699978047381
+  },
+  "o_gesture_btn": {
+    "message": "Gesten ausführen mit:",
+    "u": 1699978075681
+  },
+  "o_no_group_gestures": {
+    "message": "Gesten deaktivieren",
+    "u": 1699978095670
+  },
+  "gesture_action_3": {
+    "message": "Vorherige Gruppe",
+    "u": 1699978111280
+  },
+  "gesture_action_2": {
+    "message": "Nächste Gruppe",
+    "u": 1699978126160
+  },
+  "gesture_action_1": {
+    "message": "Gruppe öffnen",
+    "u": 1699978160595
+  },
+  "gesture_action_0": {
+    "message": "Keine Aktion",
+    "u": 1699978176837
+  },
+  "group_gestures": {
+    "message": "Gruppengesten",
+    "u": 1699978201306
+  },
+  "title_gestures": {
+    "message": "Gesten",
+    "u": 1699978214727
+  },
+  "label_applies_to": {
+    "message": "Gilt für:",
+    "u": 1699979074139
+  },
+  "group_layout_fixed_help": {
+    "message": "Mit festen Layouts bleiben Dials am Platz, auch wenn Dials hinzugefügt oder entfernt werden.",
+    "u": 1699979266566
+  },
+  "group_layout_fixed": {
+    "message": "festes Layout",
+    "u": 1699979286418
+  },
+  "o_dial_header_font": {
+    "message": "Telschriftart wählen",
+    "u": 1702863366242
+  },
+  "label_customize": {
+    "message": "Individualisieren",
+    "u": 1702863394318
+  },
+  "theme_name_backup": {
+    "message": "Backup",
+    "u": 1702863404754
+  },
+  "theme_name_blue": {
+    "message": "Blau",
+    "u": 1702863416283
+  },
+  "theme_name_thumbnails": {
+    "message": "Thumbnails",
+    "u": 1702863426240
+  },
+  "theme_name_sharp": {
+    "message": "Scharf",
+    "u": 1702863446110
+  },
+  "theme_name_legacy": {
+    "message": "Legacy (alt)",
+    "u": 1702863484225
+  },
+  "theme_name_transparent": {
+    "message": "Transparent",
+    "u": 1702863493726
+  },
+  "theme_name_default": {
+    "message": "Standard",
+    "u": 1702863507287
+  },
+  "o_theme_style": {
+    "message": "Themestyle:",
+    "u": 1702863524709
+  },
+  "o_curved_edges": {
+    "message": "Runde Ecken",
+    "u": 1702863546693
+  },
+  "o_dial_header_9": {
+    "message": "Verlauf",
+    "u": 1702863577400
+  },
+  "o_dial_header_1": {
+    "message": "Transparent",
+    "u": 1702863586300
+  },
+  "o_dial_header_0": {
+    "message": "Einfarbig",
+    "u": 1702863606601
+  },
+  "o_dial_header_title": {
+    "message": "Titelhintergrund",
+    "u": 1702863631841
+  },
+  "o_show_dial_border": {
+    "message": "Rahmen anzeigen",
+    "u": 1702863657004
+  },
+  "label_tutorial": {
+    "message": "Tutorial",
+    "u": 1702863663856
+  },
+  "firefox_import_in_tab": {
+    "message": "Zum Backupimport öffnen Sie das Fenster erneut im neuen Tab:",
+    "u": 1702863764164
+  },
+  "import_chrome_button": {
+    "message": "\"bookmarks.html\"-Datei importieren...",
+    "u": 1702863836181
+  },
+  "o_import_backup": {
+    "message": "Backup importieren",
+    "u": 1702863865377
+  },
+  "o_export_dials_help": {
+    "message": "Mit Thumbnails importieren",
+    "u": 1702863900658
+  },
+  "o_export_all": {
+    "message": "Alle exportieren",
+    "u": 1704921242893
+  },
+  "o_thumbnails_sync": {
+    "message": "Thumbnails synchronisieren",
+    "u": 1702863964075
+  },
+  "o_rows": {
+    "message": "Zeilen",
+    "u": 1702863986006
+  },
+  "label_delay": {
+    "message": "Verzögerung:",
+    "u": 1702864015943
+  },
+  "cloud_account": {
+    "message": "Cloudkonto",
+    "u": 1702864037018
+  },
+  "about_thanks": {
+    "message": "Danke für die Unterstützung meiner Arbeit!",
+    "u": 1702864093247
+  },
+  "pro_activate": {
+    "message": "Zum PRO-Funktionen aktivieren, melden Sie sich in Ihrem Konto an:",
+    "u": 1702864167313
+  },
+  "pro_features_list": {
+    "message": "PRO-Funktionsliste",
+    "u": 1702864227363
+  },
+  "search_locate_dial": {
+    "message": "Lokaler Dial",
+    "u": 1702864243896
+  },
+  "search_results": {
+    "message": "Suchresultate:",
+    "u": 1702864272051
+  },
+  "msg_search_groups": {
+    "message": "Gruppen",
+    "u": 1702864285307
+  },
+  "homepage": {
+    "message": "Homepage",
+    "u": 1702864291350
+  },
+  "addon_page": {
+    "message": "Addonseite",
+    "u": 1702864318630
+  },
+  "o_ar_disable_in_browser": {
+    "message": "In dem Browser deaktivieren",
+    "u": 1706406814715
+  },
+  "theme_name_neon": {
+    "message": "Neon",
+    "u": 1706406824030
+  },
+  "o_hover_none": {
+    "message": "Kein Effekt",
+    "u": 1706406836843
+  },
+  "theme_name_green": {
+    "message": "Grün",
+    "u": 1706406850549
+  },
+  "o_seconds_short": {
+    "message": "s",
+    "u": 1706406858579
+  },
+  "o_milliseconds_short": {
+    "message": "ms",
+    "u": 1706406876634
+  },
+  "o_dial_shadow_blur": {
+    "message": "Unschärfe:",
+    "u": 1706406907626
+  },
+  "o_dial_shadow_color": {
+    "message": "Dial Schattenfarbe",
+    "u": 1706406940259
+  },
+  "o_dial_border": {
+    "message": "Dial Rahmentyp",
+    "u": 1706406969715
+  },
+  "o_dial_border_9": {
+    "message": "keiner",
+    "u": 1706406988657
+  },
+  "o_dial_border_1": {
+    "message": "Schatten",
+    "u": 1706407018050
+  },
+  "o_dial_border_0": {
+    "message": "Rahmenfarbe",
+    "u": 1706407035297
+  },
+  "label_see_also": {
+    "message": "Siehe auch:",
+    "u": 1709777477025
+  },
+  "search_provider_input_raw": {
+    "message": "Sonderzeichen nicht vermeiden",
+    "u": 1709777544597
+  },
+  "install_extension": {
+    "message": "Erweiterung installieren",
+    "u": 1709777572442
+  },
+  "return_to_extension": {
+    "message": "Zurück zur Erweiterung",
+    "u": 1709777609393
+  },
+  "about_cloud_dials": {
+    "message": "Über Clouddials",
+    "u": 1709777642907
+  },
+  "cm_clone_group": {
+    "message": "Gruppe klonen",
+    "u": 1713838081652
+  },
+  "loading": {
+    "message": "Wird geladen...",
+    "u": 1713838106355
+  },
+  "o_percent": {
+    "message": "Prozent",
+    "u": 1713838126404
+  },
+  "o_split_dial_gap": {
+    "message": "Abstand zwischen den Dials:",
+    "u": 1713838216414
+  },
+  "cm_persist_storage": {
+    "message": "Dauerhafte Speicherung zulassen",
+    "u": 1713838239994
+  },
+  "logos_lookup": {
+    "message": "Logos nachschlagen",
+    "u": 1714931208010
+  },
+  "o_thumb_sync_auto_reload": {
+    "message": "Dials mit aktiviertem AutoNeuladen einbeziehen",
+    "u": 1714931302861
+  },
+  "lock_auto_open_group": {
+    "message": "Gruppe AutoÖffnen, wenn sie entsperrt ist",
+    "u": 1714931453813
+  },
+  "report_image_done": {
+    "message": "Bild gemeldet",
+    "u": 1714931481548
+  },
+  "load_images_result": {
+    "message": "Gefundene Bilder:",
+    "u": 1714931509245
+  },
+  "load_web_images": {
+    "message": "Bilder Suchseite",
+    "u": 1714931587772
+  },
+  "cm_hide_dial": {
+    "message": "\"+\" Dial ausblenden",
+    "u": 1714931659824
+  },
+  "o_hide_dial_plus": {
+    "message": "Letzten \"+\" Dial im dynam. Layout ausblenden",
+    "u": 1714931772704
   }
 }

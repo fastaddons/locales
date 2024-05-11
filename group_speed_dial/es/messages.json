@@ -3123,15 +3123,15 @@
   },
   "tag_shopping": {
     "message": "Compras",
-    "u": 1685199090832
+    "u": 1701725316088
   },
   "tag_play": {
     "message": "Videos",
-    "u": 1685199631536
+    "u": 1701725352140
   },
   "tag_work": {
     "message": "Trabajo",
-    "u": 1685199130422
+    "u": 1701725319965
   },
   "ed_tab_tags": {
     "message": "Etiquetas",
@@ -3244,5 +3244,457 @@
   "eg_group_icon": {
     "message": "Icono del grupo",
     "u": 1687713291689
+  },
+  "gesture_action_1": {
+    "message": "Abrir grupo",
+    "u": 1698876937988
+  },
+  "gesture_action_2": {
+    "message": "Siguiente grupo",
+    "u": 1698876986395
+  },
+  "gesture_action_3": {
+    "message": "Anterior grupo",
+    "u": 1698876993777
+  },
+  "o_no_group_gestures": {
+    "message": "Deshabilitar gestos",
+    "u": 1698877003357
+  },
+  "o_gesture_btn_right": {
+    "message": "Botón derecho del ratón",
+    "u": 1698877030306
+  },
+  "o_gesture_reverse": {
+    "message": "Dirección inversa",
+    "u": 1698877046143
+  },
+  "gesture_action_4": {
+    "message": "Grupo por defecto",
+    "u": 1698877060643
+  },
+  "share_dials": {
+    "message": "Compartir diapositivas",
+    "u": 1698877066760
+  },
+  "share_privacy_open": {
+    "message": "Cualquier con el enlace prodrá ver / importar diapositivas compartidas.",
+    "u": 1698877123083
+  },
+  "share_privacy_password": {
+    "message": "Proteger con contraseña",
+    "u": 1698877148811
+  },
+  "refresh_cloud": {
+    "message": "Crear miniatura en la nube",
+    "u": 1698877161198
+  },
+  "refresh_cloud_title": {
+    "message": "La miniatura será creada en el servidor de la nube sin interrumpir tu trabajo.",
+    "u": 1698877228007
+  },
+  "server_location": {
+    "message": "Ubicación del servidor",
+    "u": 1698877241025
+  },
+  "share_as_list": {
+    "message": "Convertir a lista",
+    "u": 1698877265860
+  },
+  "label_restore": {
+    "message": "Restaurar",
+    "u": 1698877271603
+  },
+  "share_link_create": {
+    "message": "Crear enlace compartido",
+    "u": 1698877278835
+  },
+  "share_encrypted": {
+    "message": "detalles de encriptación E2E",
+    "u": 1698877300607
+  },
+  "share_manage": {
+    "message": "administrar enlaces compartidos",
+    "u": 1698877321205
+  },
+  "op_bing_info": {
+    "message": "información imagen de Bing",
+    "u": 1698877340106
+  },
+  "s_gmail": {
+    "message": "Correo de Google",
+    "u": 1698877351179
+  },
+  "label_decrypting": {
+    "message": "Desencriptando...",
+    "u": 1698877362257
+  },
+  "shared_groups": {
+    "message": "Grupos compartidos",
+    "u": 1698877378514
+  },
+  "share_import_all": {
+    "message": "Importar todos los grupos",
+    "u": 1698877388449
+  },
+  "share_import_group": {
+    "message": "Importar grupo \"$1\"",
+    "u": 1698878596342
+  },
+  "share_addon_required": {
+    "message": "Para importar las diapositivas compartidas, necesitas instalar $app_name$.",
+    "u": 1698877433381
+  },
+  "share_group": {
+    "message": "Compartir grupo",
+    "u": 1698877445930
+  },
+  "share_unlock": {
+    "message": "Desbloquear diapositivas compartidas",
+    "u": 1698877459022
+  },
+  "label_more_options": {
+    "message": "más opciones...",
+    "u": 1698877468180
+  },
+  "group_layout_original": {
+    "message": "original",
+    "u": 1698877472881
+  },
+  "title_success": {
+    "message": "Éxito",
+    "u": 1698877488713
+  },
+  "title_error": {
+    "message": "Error",
+    "u": 1698877495754
+  },
+  "title_warning": {
+    "message": "Atención",
+    "u": 1698877502388
+  },
+  "share_err_not_found": {
+    "message": "No se encontraron diapositivas compartidas (enlace eliminado o inválido)",
+    "u": 1698878109488
+  },
+  "share_link": {
+    "message": "Enlace a diapositivas compartidas",
+    "u": 1698878126789
+  },
+  "share_name": {
+    "message": "Titula esta selección",
+    "u": 1698878150616
+  },
+  "server_location_list": {
+    "message": "Ubicaciones de servidor disponibles:",
+    "u": 1698878218457
+  },
+  "gesture_action": {
+    "message": "Acción de gestos",
+    "u": 1698878245252
+  },
+  "o_gesture_btn_middle": {
+    "message": "Botón central del ratón",
+    "u": 1698878260603
+  },
+  "o_gesture_btn": {
+    "message": "Realiza gestos utilizando:",
+    "u": 1698878310596
+  },
+  "gesture_action_0": {
+    "message": "Sin acción",
+    "u": 1698878317079
+  },
+  "group_gestures": {
+    "message": "Grupo gestos",
+    "u": 1698878325535
+  },
+  "title_gestures": {
+    "message": "Gestos",
+    "u": 1698878329874
+  },
+  "label_applies_to": {
+    "message": "Aplica a:",
+    "u": 1698878336123
+  },
+  "group_layout_fixed_help": {
+    "message": "Las plantillas fijas mantienen las diapositivas en su sitio aunque añada o quite diapositivas.",
+    "u": 1698878512051
+  },
+  "group_layout_fixed": {
+    "message": "Plantilla fija",
+    "u": 1698878522911
+  },
+  "cm_cut_link": {
+    "message": "Cortar enlace",
+    "u": 1700061747676
+  },
+  "cm_paste_link": {
+    "message": "Pegar enlace",
+    "u": 1700061752608
+  },
+  "save_link_moved": {
+    "message": "enlace movido - $1",
+    "u": 1701102168014
+  },
+  "show_runtime_errors": {
+    "message": "Mostrar registro de errores...",
+    "u": 1700061800228
+  },
+  "about_thanks": {
+    "message": "¡Gracias por apoyar mi trabajo!",
+    "u": 1700838644286
+  },
+  "pro_activate": {
+    "message": "Para activar las características PRO, inicia sesión en tu cuenta:",
+    "u": 1700838711223
+  },
+  "pro_features_list": {
+    "message": "Lista de características PRO",
+    "u": 1700838723990
+  },
+  "search_locate_dial": {
+    "message": "Encontrar diapositiva",
+    "u": 1700838842450
+  },
+  "search_results": {
+    "message": "Buscar resultados:",
+    "u": 1700838861039
+  },
+  "msg_search_groups": {
+    "message": "Grupos",
+    "u": 1700838864675
+  },
+  "addon_page": {
+    "message": "Página de complementos",
+    "u": 1700838873673
+  },
+  "homepage": {
+    "message": "Página de inicio",
+    "u": 1700838883117
+  },
+  "cloud_account": {
+    "message": "Cuenta en la nube",
+    "u": 1700838900681
+  },
+  "label_delay": {
+    "message": "Retrasar:",
+    "u": 1701725126469
+  },
+  "o_rows": {
+    "message": "filas",
+    "u": 1703328083945
+  },
+  "o_thumbnails_sync": {
+    "message": "Sincronización de miniaturas",
+    "u": 1703328099698
+  },
+  "o_export_all": {
+    "message": "Salvar todo",
+    "u": 1703328365308
+  },
+  "o_export_dials_help": {
+    "message": "Guardar sin miniaturas",
+    "u": 1703328380689
+  },
+  "o_import_backup": {
+    "message": "Recuperar copia de seguridad desde un archivo",
+    "u": 1703328294134
+  },
+  "label_tutorial": {
+    "message": "Tutorial",
+    "u": 1703328411259
+  },
+  "import_chrome_button": {
+    "message": "Restaurar archivo \"bookmarks.html\"",
+    "u": 1703328449635
+  },
+  "firefox_import_in_tab": {
+    "message": "Para restaurar tu copia de seguridad, abre de nuevo esta ventana en una nueva pestaña:",
+    "u": 1703328485196
+  },
+  "o_show_dial_border": {
+    "message": "Mostrar borde de la diapositiva",
+    "u": 1703328622219
+  },
+  "o_dial_header_title": {
+    "message": "Título de fondo de la diapositiva",
+    "u": 1703328655862
+  },
+  "o_dial_header_0": {
+    "message": "Color",
+    "u": 1704376010193
+  },
+  "o_dial_header_1": {
+    "message": "Transparente",
+    "u": 1703328688079
+  },
+  "o_dial_header_9": {
+    "message": "Degradado",
+    "u": 1703328704948
+  },
+  "o_curved_edges": {
+    "message": "Borde curvo",
+    "u": 1703328716602
+  },
+  "o_theme_style": {
+    "message": "Estilo de tema:",
+    "u": 1703328725096
+  },
+  "theme_name_default": {
+    "message": "Por defecto",
+    "u": 1703328732289
+  },
+  "theme_name_transparent": {
+    "message": "Transparente",
+    "u": 1703328737593
+  },
+  "theme_name_legacy": {
+    "message": "Original (antiguo)",
+    "u": 1703328779844
+  },
+  "theme_name_sharp": {
+    "message": "Afilado",
+    "u": 1703328791702
+  },
+  "theme_name_thumbnails": {
+    "message": "Miniaturas",
+    "u": 1703328795448
+  },
+  "theme_name_blue": {
+    "message": "Azul",
+    "u": 1703328800586
+  },
+  "theme_name_backup": {
+    "message": "Copia de seguridad",
+    "u": 1703328806369
+  },
+  "label_customize": {
+    "message": "Personalizar",
+    "u": 1703328815636
+  },
+  "o_dial_header_font": {
+    "message": "Fuente del título de la diapositiva",
+    "u": 1703328836647
+  },
+  "o_dial_border_0": {
+    "message": "Color",
+    "u": 1704374696597
+  },
+  "o_dial_border_1": {
+    "message": "Sombra",
+    "u": 1704374700156
+  },
+  "o_dial_border_9": {
+    "message": "Ninguno",
+    "u": 1704374704468
+  },
+  "o_ar_disable_in_browser": {
+    "message": "Desactivar en este navegador",
+    "u": 1704374729204
+  },
+  "theme_name_neon": {
+    "message": "Neón",
+    "u": 1704374735242
+  },
+  "o_hover_none": {
+    "message": "Sin efecto",
+    "u": 1704374747212
+  },
+  "theme_name_green": {
+    "message": "Verde",
+    "u": 1704374751493
+  },
+  "o_seconds_short": {
+    "message": "s",
+    "u": 1704374754214
+  },
+  "o_milliseconds_short": {
+    "message": "ms",
+    "u": 1704374756294
+  },
+  "o_dial_shadow_blur": {
+    "message": "Difuminar:",
+    "u": 1704375400054
+  },
+  "o_dial_shadow_color": {
+    "message": "Color de sombra de la diapositiva",
+    "u": 1704375449899
+  },
+  "o_dial_border": {
+    "message": "Tipo de borde de la diapositiva",
+    "u": 1704375460808
+  },
+  "about_cloud_dials": {
+    "message": "Acerca de Cloud-dials",
+    "u": 1708119315369
+  },
+  "return_to_extension": {
+    "message": "Volver a la extensión",
+    "u": 1708119324333
+  },
+  "install_extension": {
+    "message": "Instalar extensión",
+    "u": 1708119333709
+  },
+  "label_see_also": {
+    "message": "Mira también:",
+    "u": 1708119353640
+  },
+  "search_provider_input_raw": {
+    "message": "No elimines los caracteres especiales",
+    "u": 1708120242640
+  },
+  "logos_lookup": {
+    "message": "Buscar logos",
+    "u": 1713639786976
+  },
+  "o_thumb_sync_auto_reload": {
+    "message": "Incluir diapositivas con Auto-recarga habilitada",
+    "u": 1713639908795
+  },
+  "lock_auto_open_group": {
+    "message": "Auto-abrir grupo cuando está desbloqueado",
+    "u": 1713639988141
+  },
+  "report_image_done": {
+    "message": "Imagen reportada",
+    "u": 1713640583567
+  },
+  "load_images_result": {
+    "message": "Imágenes encontradas:",
+    "u": 1713640085387
+  },
+  "cm_persist_storage": {
+    "message": "Permitir almacenamiento persistente",
+    "u": 1713640129883
+  },
+  "o_percent": {
+    "message": "por ciento",
+    "u": 1713640187923
+  },
+  "loading": {
+    "message": "Cargando...",
+    "u": 1713640195057
+  },
+  "cm_clone_group": {
+    "message": "Clonar grupo",
+    "u": 1713640208365
+  },
+  "cm_hide_dial": {
+    "message": "Ocultar diapositiva \"+\"",
+    "u": 1713640237007
+  },
+  "o_hide_dial_plus": {
+    "message": "Ocultar última diapositiva \"+\" en el diseño dinámico",
+    "u": 1713640441906
+  },
+  "o_split_dial_gap": {
+    "message": "Dividir hueco de diapositvas:",
+    "u": 1713640462607
+  },
+  "load_web_images": {
+    "message": "Página de búsqueda de imágenes",
+    "u": 1713640570804
   }
 }

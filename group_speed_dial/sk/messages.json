@@ -12,7 +12,8 @@
     "message": "Základné nastavenie"
   },
   "welcome_watch_video": {
-    "message": "Pozrite si krátke video (1:50) po anglicky kde ukazujem základnú functionalitu"
+    "message": "Pozrite si krátke video (1:50) po anglicky kde ukazujem základnú functionalitu.",
+    "u": 1704279130243
   },
   "welcome_watch_android_video": {
     "message": "Pozri si Video návod pre Android."
@@ -21,7 +22,8 @@
     "message": "Aktuálna skupina \"Domov\" má 4 x 3 dlaždíc. Tieto rozmery môžeš to zmeniť tu:"
   },
   "welcome_import_josep_del_rio": {
-    "message": "Je možné importovať nastavenia z iných rozšírení, pozri stránku Možnosti"
+    "message": "Je možné importovať nastavenia z iných rozšírení, pozri stránku Možnosti:",
+    "u": 1704279139592
   },
   "welcome_options_page": {
     "message": "Možnosti"
@@ -93,7 +95,8 @@
     "message": "Nahrávanie náhľadov do oblakov - potom ich budete môct vidieť aj vo webovej verzii"
   },
   "msg_pro_cloud_web": {
-    "message": "Cloud"
+    "message": "Webová stránka s dlaždicami",
+    "u": 1707385560197
   },
   "msg_pro_cloud_web_desc": {
     "message": "Webová verzia \"Cloud-dials\" nieje aktuálne editovateľná, zato funguje v každom webovom prehliadači - dokonca aj v Tvojom telefóne!"
@@ -114,7 +117,8 @@
     "message": "URL / vyhľadávanie"
   },
   "msg_search_by": {
-    "message": "Hľadať podľa"
+    "message": "Hľadať podľa:",
+    "u": 1700060336864
   },
   "msg_search_tip": {
     "message": "Tip: pridaj si poznámky k dlaždiciam"
@@ -174,7 +178,8 @@
     "message": "pracujem..."
   },
   "sync_syncing": {
-    "message": "Prebieha synchronizácia"
+    "message": "Prebieha synchronizácia...",
+    "u": 1704292739229
   },
   "sync_synced": {
     "message": "synch."
@@ -189,7 +194,8 @@
     "message": "konflikt"
   },
   "sync_err_server_newer": {
-    "message": "Server obsahuje novšiu verziu"
+    "message": "Server obsahuje novšiu verziu.",
+    "u": 1704279151832
   },
   "sync_err_user_mismatch_": {
     "message": "nesprávny užívatel"
@@ -201,7 +207,8 @@
     "message": "chyba - nieje prázdny"
   },
   "sync_err_server_not_empty": {
-    "message": "Server už obsahuje nejaké dáta"
+    "message": "Server už obsahuje nejaké dáta.",
+    "u": 1704279157294
   },
   "sync_err_forbidden": {
     "message": "Nemáš prístup k tomuto zdroju"
@@ -396,7 +403,8 @@
     "message": "Otvoriť všetky dlaždice - nahradiť karty"
   },
   "cm_replace_existing_title": {
-    "message": "Nahradí existujúce karty s dlaždicami z tejto skupiny"
+    "message": "Nahradí existujúce karty s dlaždicami z tejto skupiny.",
+    "u": 1704279163602
   },
   "cm_edit_dial": {
     "message": "Editovať dlaždicu"
@@ -585,7 +593,8 @@
     "message": "Nová skupina vytvorená"
   },
   "refresh_all_title": {
-    "message": "Obnoviť všetky náhľady"
+    "message": "Obnoviť všetky náhľady:",
+    "u": 1704279167061
   },
   "refresh_ok": {
     "message": "Obnoviť náhľady"
@@ -633,7 +642,8 @@
     "message": "Synchronizačný konflikt"
   },
   "sync_conflict_body": {
-    "message": "Na serveri sa nachádza novšia verzia ako tvoja"
+    "message": "Na serveri sa nachádza novšia verzia ako tvoja.",
+    "u": 1704279171705
   },
   "sync_conflict_body_2": {
     "message": "Chceš nahradiť tvoju lokálnu verziu?"
@@ -645,7 +655,8 @@
     "message": "Nahrať moju verziu na server"
   },
   "sync_err_account_title": {
-    "message": "Tvoja verzia dát je asociovaná s iným účtom."
+    "message": "Tvoja verzia dát je asociovaná s iným účtom",
+    "u": 1704279174502
   },
   "sync_err_account_replace_local": {
     "message": "Stiahnuť verziu zo servera"
@@ -732,7 +743,8 @@
     "message": "Obnoviť všetky v skupine / všetky chýbajúce (po synchronizácii) / všetky skupinové dlaždice"
   },
   "menu_history_title": {
-    "message": "Otvoriť okno s Históriou zmien."
+    "message": "Otvoriť okno s Históriou zmien",
+    "u": 1704279183672
   },
   "menu_pro_upload": {
     "message": "Iba v Pro verzii - Nahraním náhľadov na server umožní vidieť ich vo webovej Cloud-dials verzii aj na Tvojom telefóne!"
@@ -864,7 +876,8 @@
     "message": "Importovať odkazy z textu"
   },
   "multi_dial_import_help_0": {
-    "message": "Vlož každý odkaz na samostatný riadok"
+    "message": "Vlož každý odkaz na samostatný riadok.",
+    "u": 1704279187492
   },
   "multi_dial_import_help_1": {
     "message": "Ak chceš pomenovať odkazy, zadaj meno odkazu na riadok nad odkazom a napíš pred meno \"$1\" znak."
@@ -1110,7 +1123,8 @@
     "message": "Resetovať všetko"
   },
   "label_coming_soon": {
-    "message": "Príde čoskoro..."
+    "message": "Príde čoskoro...",
+    "u": 1704279202271
   },
   "label_save_changes": {
     "message": "Uložiť zmeny"
@@ -1209,10 +1223,12 @@
     "message": "Povoliť rolovanie skupiny"
   },
   "eg_background_color": {
-    "message": "Farba pozadia"
+    "message": "Farba pozadia:",
+    "u": 1704279209998
   },
   "eg_text_color": {
-    "message": "Farba textu"
+    "message": "Farba textu:",
+    "u": 1704279210768
   },
   "menu_search_title": {
     "message": "Hľadaj dlaždicu (Ctrl + Shift + F) - v URL / Názve / Poznámke"
@@ -1317,7 +1333,8 @@
     "message": "Priestor okolo názvu každej skupiny"
   },
   "o_group_font_size_title": {
-    "message": "Veľkosť textu v hornej lište"
+    "message": "Veľkosť textu v hornej lište.",
+    "u": 1704279221020
   },
   "o_recommended_for_performance_title": {
     "message": "Odporúčané pre najlepší výkon."
@@ -1329,7 +1346,8 @@
     "message": "Náhľad pozadia"
   },
   "o_big_picture_warning_title": {
-    "message": "Použitie príliš veľkých obrázkov môže negatívne ovplyvniť výkon (načítavanie okna s dlaždicami)"
+    "message": "Použitie príliš veľkých obrázkov môže negatívne ovplyvniť výkon (načítavanie okna s dlaždicami).",
+    "u": 1704292696221
   },
   "o_group_delayed_activation_title": {
     "message": "Oneskorenie umožní vybrať správnu skupinu pri presúvaní dlaždice medzi skupinami ak má človek veľa skupín (aspoň dva riadky)"
@@ -1491,7 +1509,8 @@
     "message": "Prepínanie skupín kolieskom"
   },
   "o_scroll_groups_title": {
-    "message": "Krútením kolieska na myške budeš môcť prepínať skupiny"
+    "message": "Krútením kolieska na myške budeš môcť prepínať skupiny.",
+    "u": 1704292684465
   },
   "o_scroll_groups_reverse": {
     "message": "Obrátiť smer prepínania"
@@ -1626,7 +1645,8 @@
     "message": "radiálny - kurh"
   },
   "o_choose_local_image": {
-    "message": "Vyber obrázok so súboru"
+    "message": "Vyber obrázok so súboru...",
+    "u": 1704292679921
   },
   "o_copy_link": {
     "message": "Kopírovať link domovskej stránky"
@@ -1659,7 +1679,8 @@
     "message": "Zapnúť podporu pre viac ako 9 dlaždíc"
   },
   "o_key_extended_mode_title": {
-    "message": "-"
+    "message": "Budete môcť otvárať aj viac-číslicové čísla (nad 9).",
+    "u": 1704292672104
   },
   "o_dial_only_current_group": {
     "message": "Aplikovať vytáčanie dlaždíc iba v aktuálne otvorenej skupine"
@@ -1725,7 +1746,8 @@
     "message": "-"
   },
   "o_keys_delay": {
-    "message": "Oneskorenie pre viac-číslicové vytáčanie dlaždíc"
+    "message": "Oneskorenie pre viac-číslicové vytáčanie dlaždíc:",
+    "u": 1704292559958
   },
   "o_ar_settings": {
     "message": "Automatická-obnova nastavenia"
@@ -1770,10 +1792,12 @@
     "message": "Šírka stránky použitej pri vytváraní náhľadu."
   },
   "o_thumb_timings": {
-    "message": "Náhľady a ich vytváranie"
+    "message": "Náhľady a ich vytváranie:",
+    "u": 1704292553205
   },
   "o_load_timeout": {
-    "message": "Maximálny čas pre načítanie náhľadu"
+    "message": "Maximálny čas pre načítanie náhľadu:",
+    "u": 1704292548921
   },
   "o_context_menu_plus_delay": {
     "message": "Kontext menu dodatočné oneskorenie:"
@@ -1833,7 +1857,8 @@
     "message": "Nahradiť existujúce dlaždice"
   },
   "o_import_from_text": {
-    "message": "Z textu"
+    "message": "Z textu:",
+    "u": 1704292547657
   },
   "o_about_cloud_dials": {
     "message": "Cloud-dials:"
@@ -1993,8 +2018,9 @@
     "common": true
   },
   "import_finished": {
-    "message": "Import dokočený",
-    "common": true
+    "message": "Import dokočený!",
+    "common": true,
+    "u": 1704292535672
   },
   "import_error": {
     "message": "Error",
@@ -2013,12 +2039,14 @@
     "common": true
   },
   "msg_pro_header": {
-    "message": "Táto funkcionalita je dostupná len v Professional verzii",
-    "common": true
+    "message": "Táto funkcionalita je dostupná len v PRO verzii.",
+    "common": true,
+    "u": 1704292523118
   },
   "msg_pro_support": {
-    "message": "Prosím, podporte vývoj môjho rozšírenia zakúpením Pro verzie",
-    "common": true
+    "message": "Podporte prosím vývoj môjho rozšírenia zakúpením PRO verzie (podporíte Juraja z Dolného Kubína!).",
+    "common": true,
+    "u": 1704292526351
   },
   "statistics": {
     "message": "Štatistika",
@@ -2133,8 +2161,9 @@
     "common": true
   },
   "label_not_supported_by_browser": {
-    "message": "Nepodporované v tomto prehliadači",
-    "common": true
+    "message": "Nepodporované v tomto prehliadači.",
+    "common": true,
+    "u": 1704292344000
   },
   "label_remove": {
     "message": "Odstrániť",
@@ -2889,8 +2918,8 @@
     "u": 1663079744066
   },
   "lock_group_hidden_help": {
-    "message": "Pre odomknutie skrytých skupín, použi hlavné menu.",
-    "u": 1663079781172
+    "message": "Pre odomknutie skrytých skupín, použi hlavné menu",
+    "u": 1704279118476
   },
   "recovery_code": {
     "message": "Kód pre obnovu",
@@ -3149,8 +3178,8 @@
     "u": 1686859616555
   },
   "save_history_undo": {
-    "message": "Vrátiť zmenu:",
-    "u": 1686859625746
+    "message": "Vrátiť zmenu: $1",
+    "u": 1698416719140
   },
   "eg_group_icon": {
     "message": "Ikonka skupiny",
@@ -3219,5 +3248,457 @@
   "eg_title_background_color": {
     "message": "Farba pozadia názvu:",
     "u": 1686905789943
+  },
+  "group_layout_fixed": {
+    "message": "fixné rozloženie",
+    "u": 1698238623161
+  },
+  "group_layout_fixed_help": {
+    "message": "Fixné rozloženie ponechá tvoje dlaždice na mieste aj keď jednu odoberieš / pridáš.",
+    "u": 1698238658875
+  },
+  "label_applies_to": {
+    "message": "Platí pre:",
+    "u": 1698238710242
+  },
+  "title_gestures": {
+    "message": "Gestá",
+    "u": 1698238729020
+  },
+  "group_gestures": {
+    "message": "Skupinové gestá",
+    "u": 1698238736750
+  },
+  "gesture_action_0": {
+    "message": "Žiadna akcia",
+    "u": 1698238746169
+  },
+  "gesture_action_1": {
+    "message": "Otvoriť skupinu",
+    "u": 1698238750167
+  },
+  "gesture_action_2": {
+    "message": "Ďalšia skupina",
+    "u": 1698238756343
+  },
+  "gesture_action_3": {
+    "message": "Predchádzajúca skupina",
+    "u": 1698238761170
+  },
+  "o_no_group_gestures": {
+    "message": "Vypnúť gestá",
+    "u": 1698238767375
+  },
+  "o_gesture_btn": {
+    "message": "Gestá vykonávajte pomocou:",
+    "u": 1698238897097
+  },
+  "o_gesture_btn_middle": {
+    "message": "Stredným tlačidlom myši",
+    "u": 1698238905980
+  },
+  "o_gesture_btn_right": {
+    "message": "Pravým tlačidlom myši",
+    "u": 1698238928730
+  },
+  "o_gesture_reverse": {
+    "message": "Obrátiť smer",
+    "u": 1698238961906
+  },
+  "gesture_action": {
+    "message": "Akcia gesta",
+    "u": 1698238994687
+  },
+  "gesture_action_4": {
+    "message": "Predvolená skupina",
+    "u": 1698239014317
+  },
+  "share_dials": {
+    "message": "Zdieľať dlaždice",
+    "u": 1698239046274
+  },
+  "share_privacy_open": {
+    "message": "Ktokoľvek s týmto odkazom bude môcť zobraziť / importovať zdieľané dlaždice.",
+    "u": 1698239591966
+  },
+  "share_privacy_password": {
+    "message": "Chrániť heslom",
+    "u": 1698239657370
+  },
+  "refresh_cloud": {
+    "message": "Vytvoriť náhľad na serveri",
+    "u": 1698239694472
+  },
+  "refresh_cloud_title": {
+    "message": "Náhľad bude vytvorený na vzdialenom serveri, bez prerušenia Vašej práce.",
+    "u": 1698240145971
+  },
+  "server_location": {
+    "message": "Umiestnenie servera",
+    "u": 1698240156823
+  },
+  "server_location_list": {
+    "message": "Dostupné umiestnenia serverov:",
+    "u": 1698240188161
+  },
+  "share_as_list": {
+    "message": "Konvertovať na zoznam",
+    "u": 1698240206335
+  },
+  "label_restore": {
+    "message": "Obnoviť",
+    "u": 1698240226399
+  },
+  "share_link_create": {
+    "message": "Vytvoriť odkaz na zdieľanie",
+    "u": 1698240272975
+  },
+  "share_encrypted": {
+    "message": "Podrobnosti šifrovania E2E",
+    "u": 1698240310955
+  },
+  "share_name": {
+    "message": "Názov tohto výberu",
+    "u": 1698240391437
+  },
+  "share_link": {
+    "message": "Odkaz na zdieľané dlaždice",
+    "u": 1698240411591
+  },
+  "share_manage": {
+    "message": "spravovať zdieľané odkazy",
+    "u": 1698240425860
+  },
+  "op_bing_info": {
+    "message": "Informácie o obrázku Bing",
+    "u": 1698240439471
+  },
+  "s_gmail": {
+    "message": "Google Mail",
+    "u": 1698240485455
+  },
+  "label_decrypting": {
+    "message": "Dešifrovanie...",
+    "u": 1698240497951
+  },
+  "share_err_not_found": {
+    "message": "Zdieľané dlaždice nenájdené (neplatný / zmazaný odkaz)",
+    "u": 1698240550322
+  },
+  "shared_groups": {
+    "message": "Zdieľané skupiny",
+    "u": 1698240555278
+  },
+  "share_import_all": {
+    "message": "Importovať všetky skupiny",
+    "u": 1698240570614
+  },
+  "share_import_group": {
+    "message": "Importovať skupinu \" $1\"",
+    "u": 1698240583335
+  },
+  "share_addon_required": {
+    "message": "Ak chcete importovať zdieľané odkazy, musíte si nainštalovať $app_name$.",
+    "u": 1704292746496
+  },
+  "share_group": {
+    "message": "Zdieľať skupinu",
+    "u": 1698240677207
+  },
+  "share_unlock": {
+    "message": "Odomknúť zdieľané dlaždice",
+    "u": 1698240692470
+  },
+  "label_more_options": {
+    "message": "ďalšie možnosti...",
+    "u": 1698240728991
+  },
+  "group_layout_original": {
+    "message": "originálne",
+    "u": 1698240816220
+  },
+  "title_success": {
+    "message": "Úspech",
+    "u": 1698240834657
+  },
+  "title_error": {
+    "message": "Chyba",
+    "u": 1698240842047
+  },
+  "title_warning": {
+    "message": "Upozornenie",
+    "u": 1698240905837
+  },
+  "cm_cut_link": {
+    "message": "Vystrihnúť odkaz",
+    "u": 1700835604419
+  },
+  "cm_paste_link": {
+    "message": "Prilepiť odkaz",
+    "u": 1700835609331
+  },
+  "save_link_moved": {
+    "message": "odkaz presunutý - $1",
+    "u": 1700835625635
+  },
+  "show_runtime_errors": {
+    "message": "Zobraziť protokol o chybách...",
+    "u": 1700835709851
+  },
+  "homepage": {
+    "message": "Domovská stránka",
+    "u": 1700835752489
+  },
+  "addon_page": {
+    "message": "Stránka doplnku",
+    "u": 1700835764336
+  },
+  "msg_search_groups": {
+    "message": "Skupiny",
+    "u": 1700835837607
+  },
+  "search_results": {
+    "message": "Výsledky vyhľadávania:",
+    "u": 1700835865576
+  },
+  "search_locate_dial": {
+    "message": "Lokalizovať dlaždicu",
+    "u": 1700835877285
+  },
+  "pro_features_list": {
+    "message": "Zoznam PRO funkcií",
+    "u": 1700835908742
+  },
+  "pro_activate": {
+    "message": "Ak chcete aktivovať PRO funkcie, prihláste sa do svojho účtu:",
+    "u": 1700835941342
+  },
+  "about_thanks": {
+    "message": "Ďakujem za podporu mojej práce!",
+    "u": 1700835954151
+  },
+  "cloud_account": {
+    "message": "Účet v oblakoch",
+    "u": 1700835967281
+  },
+  "label_delay": {
+    "message": "Oneskorenie:",
+    "u": 1702646312268
+  },
+  "o_rows": {
+    "message": "riadkov",
+    "u": 1702646325610
+  },
+  "o_thumbnails_sync": {
+    "message": "Synchronizácia náhľadov",
+    "u": 1702646352238
+  },
+  "o_export_all": {
+    "message": "Exportovať všetko",
+    "u": 1702646858401
+  },
+  "o_export_dials_help": {
+    "message": "Export bez náhľadov",
+    "u": 1702646880139
+  },
+  "o_import_backup": {
+    "message": "Import záložného súboru",
+    "u": 1702646941786
+  },
+  "label_tutorial": {
+    "message": "Tutoriál",
+    "u": 1702646970568
+  },
+  "import_chrome_button": {
+    "message": "Importovať \"záložky.html\" súbor...",
+    "u": 1702646993672
+  },
+  "firefox_import_in_tab": {
+    "message": "Ak chcete importovať zálohu, znovu otvorte toto okno na novej karte:",
+    "u": 1702647026607
+  },
+  "o_show_dial_border": {
+    "message": "Zobraziť okraj dlaždice",
+    "u": 1702647077915
+  },
+  "o_dial_header_title": {
+    "message": "Pozadie názvu dlaždice",
+    "u": 1702647097371
+  },
+  "o_dial_header_0": {
+    "message": "Jednofarebné",
+    "u": 1702647121087
+  },
+  "o_dial_header_1": {
+    "message": "Priehľadné",
+    "u": 1702647126393
+  },
+  "o_dial_header_9": {
+    "message": "Gradient",
+    "u": 1702647136803
+  },
+  "o_curved_edges": {
+    "message": "Zahnuté okraje",
+    "u": 1702647170951
+  },
+  "o_theme_style": {
+    "message": "Štýl témy:",
+    "u": 1702647181626
+  },
+  "theme_name_default": {
+    "message": "Predvolená",
+    "u": 1702647207550
+  },
+  "theme_name_transparent": {
+    "message": "Priehľadná",
+    "u": 1702647216390
+  },
+  "theme_name_legacy": {
+    "message": "Stará",
+    "u": 1702647229452
+  },
+  "theme_name_sharp": {
+    "message": "Ostrá",
+    "u": 1702647240180
+  },
+  "theme_name_thumbnails": {
+    "message": "Náhľady",
+    "u": 1702647250587
+  },
+  "theme_name_blue": {
+    "message": "Modrá",
+    "u": 1702647253403
+  },
+  "theme_name_backup": {
+    "message": "Záloha",
+    "u": 1702647256025
+  },
+  "label_customize": {
+    "message": "Upraviť",
+    "u": 1702647277408
+  },
+  "o_dial_header_font": {
+    "message": "Font názvu dlaždice",
+    "u": 1702647317948
+  },
+  "o_dial_border_0": {
+    "message": "Jednofarebné",
+    "u": 1704276963629
+  },
+  "o_dial_border_1": {
+    "message": "Tieň",
+    "u": 1704276908623
+  },
+  "o_dial_border_9": {
+    "message": "Žiadne",
+    "u": 1704276960321
+  },
+  "o_dial_border": {
+    "message": "Typ ohraničenia dlaždice",
+    "u": 1704276956014
+  },
+  "o_dial_shadow_color": {
+    "message": "Farba tieňa dlaždice",
+    "u": 1704276975018
+  },
+  "o_dial_shadow_blur": {
+    "message": "Rozmazanie:",
+    "u": 1704276996895
+  },
+  "o_milliseconds_short": {
+    "message": "ms",
+    "u": 1704277031424
+  },
+  "o_seconds_short": {
+    "message": "s",
+    "u": 1704277032039
+  },
+  "theme_name_green": {
+    "message": "Zelená",
+    "u": 1704277039974
+  },
+  "o_hover_none": {
+    "message": "Žiadny efekt",
+    "u": 1704277049159
+  },
+  "theme_name_neon": {
+    "message": "Neón",
+    "u": 1704292834844
+  },
+  "o_ar_disable_in_browser": {
+    "message": "Zakázať v tomto prehliadači",
+    "u": 1704292837504
+  },
+  "about_cloud_dials": {
+    "message": "Viac o stránke \"Cloud-dials\"",
+    "u": 1707385625997
+  },
+  "return_to_extension": {
+    "message": "Návrat do rozšírenia GSD",
+    "u": 1707385809840
+  },
+  "install_extension": {
+    "message": "Inštalovať rozšírenie",
+    "u": 1707385799205
+  },
+  "search_provider_input_raw": {
+    "message": "Nevynechávať špeciálne znaky",
+    "u": 1707385834985
+  },
+  "label_see_also": {
+    "message": "Pozri tiež:",
+    "u": 1707385879787
+  },
+  "cm_persist_storage": {
+    "message": "Povoliť trvalé úložisko",
+    "u": 1713528731072
+  },
+  "o_split_dial_gap": {
+    "message": "Medzera rozdelených dlaždíc:",
+    "u": 1713530329667
+  },
+  "o_percent": {
+    "message": "percent",
+    "u": 1713528886090
+  },
+  "loading": {
+    "message": "Načítavam...",
+    "u": 1713528905351
+  },
+  "cm_clone_group": {
+    "message": "Duplikovať skupinu",
+    "u": 1713528914981
+  },
+  "o_hide_dial_plus": {
+    "message": "Skryť poslednú \"+\" dlaždicu v dynamickom rozložení",
+    "u": 1713529327864
+  },
+  "cm_hide_dial": {
+    "message": "Skryť \"+\" dlaždicu",
+    "u": 1713529348452
+  },
+  "load_web_images": {
+    "message": "Vyhľadať obrázky na stránke",
+    "u": 1713529374658
+  },
+  "load_images_result": {
+    "message": "Nájdené obrázky:",
+    "u": 1713529913418
+  },
+  "report_image_done": {
+    "message": "Obrázok nahlásený",
+    "u": 1713530171776
+  },
+  "lock_auto_open_group": {
+    "message": "Automaticky otvor skupinu pri odomknutí",
+    "u": 1713530189888
+  },
+  "o_thumb_sync_auto_reload": {
+    "message": "Vrátane dlaždíc s Automatickou obnovou náhľadu",
+    "u": 1713530248500
+  },
+  "logos_lookup": {
+    "message": "Vyhľadávanie loga",
+    "u": 1713530324504
   }
 }

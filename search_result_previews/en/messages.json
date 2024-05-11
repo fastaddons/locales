@@ -449,7 +449,7 @@
     "message": "Search Result Previews"
   },
   "app_desc": {
-    "message": "Shows you page thumbnail + favicon next to each search result."
+    "message": "Search Result Previews adds \"page previews\" into Google search result page. PRO version shows also PageRank of each search result."
   },
   "favicon_placement": {
     "message": "Favicon placement"
@@ -556,5 +556,26 @@
   },
   "account_required": {
     "message": "account required"
+  },
+  "pagerank_subtitle": {
+    "message": "PageRank in search result"
+  },
+  "pagerank_enable_badge": {
+    "message": "Show PageRank for current page in the toolbar"
+  },
+  "pagerank_badge": {
+    "message": "PageRank in icon badge"
+  },
+  "pagerank_enable_badge_hint": {
+    "message": "Requires \"Access to tabs\" permission"
+  },
+  "manage_account": {
+    "message": "Manage account"
+  },
+  "try_premium": {
+    "message": "Try Premium for free (until restart)"
+  },
+  "trial_active": {
+    "message": "Trial active"
   }
 }

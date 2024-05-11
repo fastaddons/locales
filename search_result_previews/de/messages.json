@@ -13,12 +13,14 @@
     "u": 1631545613571
   },
   "homepage": {
-    "message": "Startseite",
-    "common": true
+    "message": "Website",
+    "common": true,
+    "u": 1709775336725
   },
   "addon_page": {
-    "message": "Addon-Seite",
-    "common": true
+    "message": "AddOn-Seite",
+    "common": true,
+    "u": 1709775316318
   },
   "safari_store": {
     "message": "Mac App Store",
@@ -30,12 +32,13 @@
   },
   "firefox_store": {
     "message": "Firefox AddOn-Seite",
-    "common": true
+    "common": true,
+    "u": 1709775299651
   },
   "thunderbird_store": {
-    "message": "Thunderbird Addons",
+    "message": "Thunderbird AddOns",
     "common": true,
-    "u": 1631545585955
+    "u": 1709775510321
   },
   "menu_options": {
     "message": "Optionen",
@@ -47,9 +50,9 @@
     "common": true
   },
   "label_sidebar_size": {
-    "message": "Seitenleistengröße.",
+    "message": "Seitenleistengröße",
     "common": true,
-    "u": 1631545554999
+    "u": 1709775499447
   },
   "label_next": {
     "message": "Weiter",
@@ -210,9 +213,9 @@
     "u": 1631545387009
   },
   "safari_context_menu_download": {
-    "message": "Rechtsklick/\"Verknüpfte Datei herunterladen\"",
+    "message": "Rechtsklick/\"Verknüpfte Datei downloaden\"",
     "common": true,
-    "u": 1631545341489
+    "u": 1709775489222
   },
   "o_tab_general": {
     "message": "Allgemein",
@@ -237,9 +240,9 @@
     "u": 1631545287658
   },
   "o_tab_backup": {
-    "message": "Sicherung importieren",
+    "message": "Backup importieren",
     "common": true,
-    "u": 1631545272224
+    "u": 1709775454344
   },
   "o_tab_about": {
     "message": "Über",
@@ -283,9 +286,9 @@
     "common": true
   },
   "o_backup_restore": {
-    "message": "Sicherungs-/Wiederherstelleinstellungen in Datei:",
+    "message": "Backup-/Wiederherstelleinstellungen in Datei:",
     "common": true,
-    "u": 1631545197103
+    "u": 1709775419862
   },
   "o_import_btn": {
     "message": "Importieren",
@@ -301,9 +304,9 @@
     "u": 1631545174482
   },
   "btn_export_backup": {
-    "message": "Sicherung exportieren.",
+    "message": "Sicherung exportieren",
     "common": true,
-    "u": 1631545156522
+    "u": 1709775393106
   },
   "label_or": {
     "message": "oder",
@@ -416,9 +419,9 @@
     "common": true
   },
   "_description_privacy_policy": {
-    "message": "Datenschutzerklärung",
+    "message": "Datenschutz",
     "common": true,
-    "u": 1631538529661
+    "u": 1709775371307
   },
   "_description_recent_features": {
     "message": "Kürzlich hinzugefügte Funktionen:",
@@ -430,8 +433,8 @@
     "u": 1631538508725
   },
   "firefox_import_in_tab": {
-    "message": "Zum Backup importieren, öffnen Sie dieses Fenster im neuen Tab.",
-    "u": 1650193000634
+    "message": "Zum Backup importieren,  dieses Fenster im neuen Tab öffnen.",
+    "u": 1709775537712
   },
   "label_right": {
     "message": "Rechts",
@@ -442,8 +445,8 @@
     "u": 1650193147268
   },
   "edge_store": {
-    "message": "Edge Addons",
-    "u": 1655640264745
+    "message": "Edge AddOns",
+    "u": 1709775549535
   },
   "favicon_provider_1": {
     "message": "DuckDuckGo",
@@ -458,8 +461,8 @@
     "u": 1667557502921
   },
   "app_name": {
-    "message": "Suchergebnissvorschau",
-    "u": 1667480434432
+    "message": "Suchvorschau",
+    "u": 1709777387848
   },
   "enable_on_page": {
     "message": "Auf \"$1\" aktiviert",
@@ -474,88 +477,88 @@
     "u": 1667478414903
   },
   "hide_previews": {
-    "message": "Seitenvorschau verstecken (nur Seiten-Icons)",
-    "u": 1667479612477
+    "message": "Seitenvorschau verstecken (nur Favicons)",
+    "u": 1709775667217
   },
   "favicon_placement_1": {
     "message": "Neben dem Titel",
     "u": 1667478537911
   },
   "favicon_placement_0": {
-    "message": "Keine Seiten-Icons",
-    "u": 1667479553843
+    "message": "Keine Favicons",
+    "u": 1709775635173
   },
   "favicon_placement": {
-    "message": "Seiten-Icon-Platzierung",
-    "u": 1667479564698
+    "message": "Favicon-Platzierung",
+    "u": 1709775621874
   },
   "app_desc": {
-    "message": "Zeigt Seitenvorschau und Icon neben jedem Suchergebnis.",
-    "u": 1667480188041
+    "message": "Suchresultat Vorschau fügt eine \"Seitenvorschau\" zur Google-Suchseite hinzu. Die PRO-Version zeigt auch den Seitenrang jedes Suchergebnisses.",
+    "u": 1709776154786
   },
   "favicon_provider": {
-    "message": "Icon-Anbieter",
-    "u": 1667480111678
+    "message": "Faviconquellen",
+    "u": 1709775884851
   },
   "favicons": {
-    "message": "Seiten-Icons",
-    "u": 1667479577758
+    "message": "Favicons",
+    "u": 1709775650024
   },
   "favicon_placement_2": {
-    "message": "Neben der Webadresse",
-    "u": 1667479978437
+    "message": "Nächste URL",
+    "u": 1709775812479
   },
   "broken_favicons": {
-    "message": "Sollte das Google-Icon nicht angezeigt werden, muss deren alternative Domain aktiviert werden:",
-    "u": 1667479840391
+    "message": "Sollte das Google Favicon nicht angezeigt werden, muss deren alternative Domain aktiviert werden:",
+    "u": 1709775704132
   },
   "_description_srp_supported_engines": {
     "message": "Unterstützte Suchmaschinen:",
     "u": 1667479674007
   },
   "_description_credits": {
-    "message": "Credits:",
-    "u": 1668515677623
+    "message": "Guthaben:",
+    "u": 1709777372566
   },
   "pagerank_help": {
-    "message": "Das Seiten-Bewertungs-System soll dabei helfen, die \"Wichtigkeit und Qualität von Webseiten\" zu erkennen.",
-    "u": 1668514525067
+    "message": "Das Seitenrangsystem soll dabei helfen, die \"Websitequalität und Bedeutung\" zu erkennen.",
+    "u": 1709776515317
   },
   "upgrade_premium": {
-    "message": "Upgrade zur Premium-Version",
-    "u": 1668514595108
+    "message": "Auf Premium upgraden",
+    "u": 1709776557322
   },
   "pagerank": {
-    "message": "Seiten-Bewertung",
-    "u": 1668514485196
+    "message": "Seitenrang",
+    "u": 1709776305952
   },
   "premium_active": {
-    "message": "Premium-Version aktiv",
-    "u": 1668515440600
+    "message": "Premium aktiv",
+    "u": 1709777230844
   },
   "premium_about_1": {
-    "message": "Upgraden Sie zur Premium-Version, um Zugang zu besonderen Funktionen zu erhalten und die Entwicklung dieser Erweiterung zu unterstützen.",
-    "u": 1668514605496
+    "message": "Ein Upgrade auf Premium durchführen, um Zugriff auf spezielle Funktionen, und die Entwicklung der Erweiterung zu unterstützen.",
+    "u": 1709776708929
   },
   "premium_about_2": {
-    "message": "Wenn Sie bereits ein Upgrade durchgeführt haben, melden Sie sich bei Ihrem Konto an:",
-    "u": 1668514630929
+    "message": "Wenn Sie bereits upgegradet haben, melden Sie sich in Ihrem Konto an:",
+    "u": 1709776798922
   },
   "pagerank_placement_0": {
-    "message": "Seiten-Bewertung verstecken",
-    "u": 1668514653460
+    "message": "Seitenrang verstecken",
+    "u": 1709776816730
   },
   "pagerank_placement_1": {
     "message": "Über URL",
     "u": 1668515167956
   },
   "pagerank_placement": {
-    "message": "Platzierung der Seiten-Bewertung",
-    "u": 1668514710568
+    "message": "Seitenrang-Platzierung",
+    "u": 1709776946923
   },
   "pagerank_theme": {
-    "message": "Farbpalette",
-    "u": 1668514724570
+    "message": "Farbtheme",
+    "u": 1709777004281
   },
   "pagerank_theme_0": {
     "message": "Regenbogen",
@@ -566,8 +569,8 @@
     "u": 1668514741869
   },
   "pagerank_theme_2": {
-    "message": "Einfärbig",
-    "u": 1668515530075
+    "message": "Solide Farbe",
+    "u": 1709777297580
   },
   "pagerank_width": {
     "message": "Breite",
@@ -594,20 +597,20 @@
     "u": 1668514822849
   },
   "pagerank_border_color": {
-    "message": "Farbe der Umrandung",
-    "u": 1668515018712
+    "message": "Rahmenfarbe",
+    "u": 1709777118106
   },
   "licensed_to": {
     "message": "Lizensiert für:",
     "u": 1668515047900
   },
   "license_type": {
-    "message": "Art der Lizenz:",
-    "u": 1668515104215
+    "message": "Lizenzart:",
+    "u": 1709777143534
   },
   "login": {
-    "message": "Anmeldung",
-    "u": 1668515275377
+    "message": "Einloggen",
+    "u": 1709777177952
   },
   "reverse": {
     "message": "umkehren",
@@ -620,5 +623,33 @@
   "account_required": {
     "message": "Konto erforderlich",
     "u": 1681244892613
+  },
+  "manage_account": {
+    "message": "Konto verwalten",
+    "u": 1709774712785
+  },
+  "pagerank_enable_badge_hint": {
+    "message": "Erfordert \"Tabzugriff\" Rechte",
+    "u": 1709777401048
+  },
+  "pagerank_badge": {
+    "message": "Seitenrang in Symbolbuttons",
+    "u": 1709777425431
+  },
+  "pagerank_enable_badge": {
+    "message": "Seitenrang der aktuellen Seite in Symbolleiste zeigen",
+    "u": 1709777431832
+  },
+  "pagerank_subtitle": {
+    "message": "Seitenrang im Suchergebnis",
+    "u": 1709775184752
+  },
+  "trial_active": {
+    "message": "Testversion aktiv",
+    "u": 1713838012209
+  },
+  "try_premium": {
+    "message": "Premium kostenlos testen (bis zum Neustart)",
+    "u": 1713838039519
   }
 }

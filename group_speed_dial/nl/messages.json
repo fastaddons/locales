@@ -2783,5 +2783,9 @@
   "o_open_always_stop_opener_id_title": {
     "message": "als er een tabblad wordt geopend in relatie met een huidig tabblad, wordt het nieuwe vlakbij het huidigetabblad geplaatst, en nadat het weer gesloten is, wordt het  oorspronkelijke tabblad opnieuw gerangschikt.",
     "u": 1645017450551
+  },
+  "label_deprecated": {
+    "message": "",
+    "u": 1698924213181
   }
 }
